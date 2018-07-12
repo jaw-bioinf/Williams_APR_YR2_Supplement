@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:7147	ankylosing spondylitis	67	12	3.17	4.37	0.00031	0.038	3.73	1.8	7.12
+DOID:6590	spondylitis	67	12	3.17	4.37	0.00031	0.038	3.73	1.8	7.12
+DOID:7693	abdominal aortic aneurysm	43	9	3.71	4.36	0.00054	0.038	4.51	1.89	9.68
+DOID:1123	spondyloarthropathy	76	13	3.03	4.35	0.00028	0.038	3.53	1.77	6.56
+DOID:9074	systemic lupus erythematosus	299	33	1.96	4.13	0.00014	0.038	2.17	1.44	3.18
+DOID:8574	lichen disease	63	11	3.09	4.08	0.00069	0.038	3.61	1.68	7.07
+DOID:9201	lichen planus	63	11	3.09	4.08	0.00069	0.038	3.61	1.68	7.07
+DOID:381	arthropathy	91	14	2.73	4.05	0.00052	0.038	3.11	1.61	5.61
+DOID:0060158	acquired metabolic disease	1078	85	1.4	3.47	0.00054	0.038	1.55	1.19	2
+DOID:8857	lupus erythematosus	370	36	1.72	3.5	0.00085	0.042	1.88	1.28	2.71

@@ -1,0 +1,57 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0012433	Abnormal social behavior	73	8	8.74	7.53	2.3e-06	0.0015	11.6	4.48	26.7
+HP:0002538	Abnormality of the cerebral cortex	211	12	4.54	5.97	6.2e-06	0.0015	6.15	2.84	12.5
+HP:0000752	Hyperactivity	248	13	4.18	5.86	5.7e-06	0.0015	5.76	2.73	11.5
+HP:0000506	Telecanthus	124	9	5.79	6.12	1.6e-05	0.0024	7.48	3.09	16.4
+HP:0002536	Abnormal cortical gyration	194	11	4.52	5.69	1.7e-05	0.0024	5.97	2.68	12.4
+HP:0000735	Impaired social interactions	71	7	7.86	6.58	2.2e-05	0.0026	10	3.64	24
+HP:0001302	Pachygyria	118	8	5.41	5.49	8.3e-05	0.0085	6.77	2.66	15.3
+HP:0100716	Self-injurious behavior	122	8	5.23	5.36	1e-04	0.0094	6.53	2.56	14.7
+HP:0002883	Hyperventilation	45	5	8.86	5.98	0.00021	0.013	11	3.2	29.9
+HP:0006919	Abnormal aggressive, impulsive or violent behavior	249	11	3.52	4.66	0.00017	0.013	4.52	2.03	9.31
+HP:0001252	Muscular hypotonia	1058	25	1.88	3.88	0.00019	0.013	3.1	1.63	5.98
+HP:0008936	Muscular hypotonia of the trunk	138	8	4.62	4.89	0.00025	0.015	5.7	2.24	12.8
+HP:0002020	Gastroesophageal reflux	107	7	5.22	4.99	3e-04	0.016	6.36	2.33	14.9
+HP:0000736	Short attention span	179	9	4.01	4.66	0.00029	0.016	4.98	2.07	10.8
+HP:0000729	Autistic behavior	225	10	3.55	4.45	0.00034	0.016	4.44	1.93	9.35
+HP:0002269	Abnormality of neuronal migration	279	11	3.15	4.21	0.00047	0.021	3.98	1.79	8.18
+HP:0007359	Focal seizures	87	6	5.5	4.79	0.00065	0.024	6.59	2.21	16.3
+HP:0002187	Intellectual disability, profound	89	6	5.38	4.71	0.00073	0.024	6.43	2.16	15.9
+HP:0005750	Contractures of the joints of the lower limbs	120	7	4.65	4.59	0.00061	0.024	5.61	2.06	13.1
+HP:0030178	Abnormality of central nervous system electrophysiology	340	12	2.82	3.97	0.00068	0.024	3.59	1.66	7.24
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	15	2.42	3.83	0.00062	0.024	3.22	1.59	6.25
+HP:0001273	Abnormality of the corpus callosum	503	15	2.38	3.76	0.00074	0.024	3.15	1.56	6.13
+HP:0012469	Infantile spasms	35	4	9.12	5.44	0.00085	0.026	11.1	2.71	33.5
+HP:0000750	Delayed speech and language development	460	14	2.43	3.7	0.00097	0.029	3.16	1.53	6.2
+HP:0200134	Epileptic encephalopathy	64	5	6.23	4.76	0.0011	0.031	7.39	2.2	19.7
+HP:0000717	Autism	175	8	3.65	4.05	0.0012	0.034	4.39	1.73	9.79
+HP:0011097	Epileptic spasms	41	4	7.78	4.92	0.0016	0.037	9.25	2.29	27.6
+HP:0006808	Cerebral hypomyelination	41	4	7.78	4.92	0.0016	0.037	9.25	2.29	27.6
+HP:0002500	Abnormality of the cerebral white matter	538	15	2.22	3.48	0.0015	0.037	2.91	1.44	5.65
+HP:0003808	Abnormal muscle tone	1269	26	1.63	3.19	0.0015	0.037	2.58	1.36	5.02
+HP:0000307	Pointed chin	71	5	5.62	4.43	0.0017	0.038	6.6	1.97	17.5
+HP:0003429	CNS hypomyelination	71	5	5.62	4.43	0.0017	0.038	6.6	1.97	17.5
+HP:0002714	Downturned corners of mouth	106	6	4.52	4.14	0.0018	0.038	5.31	1.79	13.1
+HP:0002360	Sleep disturbance	232	9	3.09	3.72	0.0019	0.038	3.74	1.56	8.06
+HP:0000708	Behavioral abnormality	997	22	1.76	3.2	0.0019	0.038	2.55	1.34	4.86
+HP:0002814	Abnormality of the lower limb	1067	23	1.72	3.17	0.0019	0.038	2.54	1.34	4.85
+HP:0011220	Prominent forehead	189	8	3.38	3.78	0.002	0.039	4.03	1.59	8.98
+HP:0001344	Absent speech	148	7	3.77	3.88	0.0021	0.04	4.46	1.65	10.4
+HP:0002079	Hypoplasia of the corpus callosum	287	10	2.78	3.54	0.0023	0.041	3.38	1.48	7.1
+HP:0100886	Abnormality of globe location	744	18	1.93	3.22	0.0023	0.041	2.61	1.34	4.98
+HP:0000851	Congenital hypothyroidism	23	3	10.4	5.1	0.0027	0.043	12.6	2.3	44.9
+HP:0000098	Tall stature	115	6	4.16	3.88	0.0028	0.043	4.86	1.64	11.9
+HP:0000733	Stereotypy	155	7	3.6	3.73	0.0028	0.043	4.24	1.57	9.85
+HP:0000490	Deeply set eye	195	8	3.27	3.68	0.0025	0.043	3.89	1.54	8.68
+HP:0010864	Intellectual disability, severe	198	8	3.22	3.63	0.0027	0.043	3.83	1.52	8.53
+HP:0001336	Myoclonus	199	8	3.21	3.61	0.0028	0.043	3.81	1.51	8.48
+HP:0000718	Aggressive behavior	200	8	3.19	3.59	0.0029	0.043	3.79	1.5	8.43
+HP:0002353	EEG abnormality	246	9	2.92	3.52	0.0028	0.043	3.5	1.46	7.54
+HP:0010851	EEG with burst suppression	24	3	9.97	4.97	0.0031	0.045	12	2.2	42.5
+HP:0000422	Abnormality of the nasal bridge	702	17	1.93	3.11	0.0032	0.045	2.56	1.3	4.89
+HP:0011804	Abnormality of muscle physiology	1558	29	1.48	2.89	0.0031	0.045	2.45	1.27	4.93
+HP:0008366	Contractures involving the joints of the feet	83	5	4.81	3.95	0.0034	0.048	5.56	1.67	14.7
+HP:0011182	Epileptiform EEG discharges	84	5	4.75	3.92	0.0036	0.048	5.49	1.65	14.5
+HP:0100807	Long fingers	162	7	3.45	3.59	0.0035	0.048	4.04	1.49	9.37
+HP:0010993	Abnormality of the cerebral subcortex	589	15	2.03	3.09	0.0038	0.049	2.61	1.29	5.06
+HP:0001760	Abnormality of the foot	911	20	1.75	2.97	0.0038	0.049	2.41	1.25	4.57

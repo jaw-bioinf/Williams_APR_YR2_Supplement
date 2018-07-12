@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002162	Low posterior hairline	59	9	5.2	5.65	4.2e-05	0.027	6.42	2.7	13.7
+HP:0030141	Abnormality of the posterior hairline	59	9	5.2	5.65	4.2e-05	0.027	6.42	2.7	13.7
+HP:0011805	Abnormality of muscle morphology	1023	48	1.6	3.96	0.00011	0.046	2.18	1.44	3.29

@@ -1,0 +1,24 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-450294	MAP kinase activation in TLR cascade	60	3	12.5	5.67	0.0017	0.019	14.1	2.7	46.6
+R-HSA-448424	Interleukin-17 signaling	68	3	11	5.26	0.0025	0.019	12.3	2.38	40.5
+R-HSA-6794362	Protein-protein interactions at synapses	70	3	10.7	5.17	0.0027	0.019	12	2.31	39.3
+R-HSA-168142	Toll Like Receptor 10 (TLR10) Cascade	82	3	9.16	4.7	0.0042	0.019	10.1	1.96	33.1
+R-HSA-168176	Toll Like Receptor 5 (TLR5) Cascade	82	3	9.16	4.7	0.0042	0.019	10.1	1.96	33.1
+R-HSA-975871	MyD88 cascade initiated on plasma membrane	82	3	9.16	4.7	0.0042	0.019	10.1	1.96	33.1
+R-HSA-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	90	3	8.34	4.43	0.0055	0.019	9.21	1.78	30
+R-HSA-166058	MyD88:Mal cascade initiated on plasma membrane	92	3	8.16	4.37	0.0058	0.019	9	1.74	29.2
+R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	92	3	8.16	4.37	0.0058	0.019	9	1.74	29.2
+R-HSA-168188	Toll Like Receptor TLR6:TLR2 Cascade	92	3	8.16	4.37	0.0058	0.019	9	1.74	29.2
+R-HSA-975155	MyD88 dependent cascade initiated on endosome	92	3	8.16	4.37	0.0058	0.019	9	1.74	29.2
+R-HSA-168179	Toll Like Receptor TLR1:TLR2 Cascade	95	3	7.9	4.28	0.0063	0.019	8.7	1.69	28.3
+R-HSA-181438	Toll Like Receptor 2 (TLR2) Cascade	95	3	7.9	4.28	0.0063	0.019	8.7	1.69	28.3
+R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	96	3	7.82	4.25	0.0065	0.019	8.61	1.67	28
+R-HSA-168164	Toll Like Receptor 3 (TLR3) Cascade	97	3	7.74	4.23	0.0067	0.019	8.52	1.65	27.7
+R-HSA-166166	MyD88-independent TLR4 cascade 	98	3	7.66	4.2	0.0069	0.019	8.42	1.63	27.3
+R-HSA-937061	TRIF(TICAM1)-mediated TLR4 signaling 	98	3	7.66	4.2	0.0069	0.019	8.42	1.63	27.3
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	3	6.11	3.61	0.013	0.03	6.65	1.29	21.5
+R-HSA-112316	Neuronal System	356	5	3.52	3.06	0.013	0.03	3.92	1.19	10.1
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	6	3.08	2.99	0.012	0.03	3.48	1.19	8.44
+R-HSA-166016	Toll Like Receptor 4 (TLR4) Cascade	127	3	5.91	3.53	0.014	0.031	6.44	1.25	20.8
+R-HSA-166520	Signalling by NGF	147	3	5.11	3.18	0.021	0.043	5.53	1.08	17.8
+R-HSA-168898	Toll-Like Receptors Cascades	153	3	4.91	3.09	0.023	0.046	5.31	1.04	17.1

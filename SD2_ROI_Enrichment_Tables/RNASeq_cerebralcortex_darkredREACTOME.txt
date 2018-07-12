@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1500931	Cell-Cell communication	92	5	9.38	6.17	0.00018	0.0088	10.7	3.26	27.5
+R-HSA-6783310	Fanconi Anemia Pathway	40	3	12.9	5.78	0.0016	0.038	14.6	2.8	48.4

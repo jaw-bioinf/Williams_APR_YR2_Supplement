@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.013	1	4	1	0.25	1	CORUM:1983	cor	1	Retn homohexamer complex	1	RETN
+2	1	TRUE	0.0194	3	4	1	0.25	0.333	CORUM:5439	cor	2	Eya1/3-Dach1/2-Six1 complex	1	DACH1
+3	1	TRUE	0.013	1	4	1	0.25	1	CORUM:5682	cor	7	Retn homotrimer complex	1	RETN
+4	1	TRUE	0.0194	3	4	1	0.25	0.333	CORUM:3037	cor	4	Ubiquitin E3 ligase (Fbxl20, Skp1, Cul1)	1	FBXL20
+5	1	TRUE	0.0309	6	4	1	0.25	0.167	CORUM:1184	cor	3	Mediator complex	1	MED12
+6	1	TRUE	0.0334	35	15	2	0.133	0.057	KEGG:04130	keg	5	SNARE interactions in vesicular transport	1	STX5A,VAMP1
+7	1	TRUE	0.0334	139	15	3	0.2	0.022	KEGG:04550	keg	6	Signaling pathways regulating pluripotency of stem cells	1	KLF4,NODAL,FZD1

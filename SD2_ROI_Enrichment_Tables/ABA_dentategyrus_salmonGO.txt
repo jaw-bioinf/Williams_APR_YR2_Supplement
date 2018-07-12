@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.048	8	5	1	0.2	0.125	CORUM:5737	cor	2	Multicomponent signaling complex, anti-CD40 stimulated (Birc2, Birc3, Cd40, Ikbkg, Map2k4, Map2k7, Map3k1, Traf2, Ube2n)	1	MAP2K4
+2	1	TRUE	0.0243	1	5	1	0.2	1	CORUM:735	cor	8	SNARE complex (Vti1b, Stx6, Stx7)	1	STX6
+3	1	TRUE	0.0277	4	5	1	0.2	0.25	CORUM:859	cor	5	SNARE complex (Stx4, Stx6, Stx7, Vamp3, Vamp7, Vamp8, Vti1b)	1	STX6
+4	1	TRUE	0.0243	2	5	1	0.2	0.5	CORUM:823	cor	4	PAR-3-VE-cadherin complex, endothelial	1	PARD3
+5	1	TRUE	0.0243	1	5	1	0.2	1	CORUM:861	cor	3	Par-3-p75NTR complex	1	PARD3
+6	1	TRUE	0.0243	3	5	1	0.2	0.333	CORUM:6214	cor	6	Dock8-Wipf1-Was complex	1	DOCK8
+7	1	TRUE	0.0243	2	5	1	0.2	0.5	CORUM:1023	cor	9	Par3-Prkcz-Tiam1 complex	1	PARD3
+8	1	TRUE	0.0243	3	5	1	0.2	0.333	CORUM:249	cor	7	Caspase-2-TRAF2-RIP1 complex	1	RALBP1

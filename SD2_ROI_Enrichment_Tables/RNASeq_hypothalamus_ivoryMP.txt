@@ -1,0 +1,168 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0001614 abnormal blood vessel morphology 1178 24 2.91 5.89 5.4e-07 4e-04 4.09 2.35 6.96
+MP:0002908 delayed wound healing 66 6 13 8.2 6.1e-06 0.0019 15.5 5.27 37.7
+MP:0000527 abnormal kidney development 114 7 8.77 7.01 1.4e-05 0.0019 10.3 3.86 23.2
+MP:0001756 abnormal urination 162 8 7.05 6.52 1.6e-05 0.0019 8.25 3.34 17.8
+MP:0000259 abnormal vascular development 528 14 3.79 5.53 1.3e-05 0.0019 4.64 2.36 8.59
+MP:0005502 abnormal renal/urinary system physiology 708 16 3.23 5.18 2.1e-05 0.0019 4.02 2.12 7.24
+MP:0002108 abnormal muscle morphology 963 19 2.82 5 2e-05 0.0019 3.62 1.99 6.33
+MP:0001544 abnormal cardiovascular system physiology 1571 26 2.36 4.98 8.2e-06 0.0019 3.31 1.93 5.59
+MP:0009343 dilated gallbladder 10 3 42.8 11.1 3.8e-05 0.0026 63.3 10.3 284
+MP:0003793 abnormal submandibular gland morphology 28 4 20.4 8.63 4e-05 0.0026 25 6.14 76.1
+MP:0004193 abnormal kidney papilla morphology 29 4 19.7 8.47 4.6e-05 0.0026 24 5.91 72.8
+MP:0000516 abnormal renal/urinary system morphology 927 18 2.77 4.78 4.4e-05 0.0026 3.5 1.9 6.17
+MP:0005367 renal/urinary system phenotype 1190 21 2.52 4.71 3.5e-05 0.0026 3.28 1.85 5.67
+MP:0004192 abnormal kidney pyramid morphology 32 4 17.8 8.02 6.8e-05 0.0028 21.5 5.31 64.1
+MP:0003942 abnormal urinary system development 144 7 6.94 6.03 6.1e-05 0.0028 7.99 3.02 18
+MP:0001191 abnormal skin condition 258 9 4.98 5.45 7.1e-05 0.0028 5.78 2.49 12
+MP:0002925 abnormal cardiovascular development 766 16 2.98 4.81 5.5e-05 0.0028 3.68 1.95 6.63
+MP:0002135 abnormal kidney morphology 858 17 2.83 4.72 5.9e-05 0.0028 3.53 1.89 6.27
+MP:0000462 abnormal digestive system morphology 1053 19 2.58 4.56 7e-05 0.0028 3.27 1.8 5.71
+MP:0005352 small cranium 35 4 16.3 7.62 9.8e-05 0.0035 19.4 4.83 57.3
+MP:0003014 abnormal kidney medulla morphology 66 5 10.8 6.72 9.3e-05 0.0035 12.5 3.78 32.4
+MP:0003792 abnormal major salivary gland morphology 37 4 15.4 7.39 0.00012 0.0037 18.2 4.55 53.5
+MP:0003446 renal hypoplasia 69 5 10.3 6.54 0.00011 0.0037 11.9 3.61 30.8
+MP:0002706 abnormal kidney size 347 10 4.11 4.97 0.00013 0.0037 4.79 2.16 9.59
+MP:0000249 abnormal blood vessel physiology 410 11 3.83 4.92 0.00011 0.0037 4.5 2.1 8.79
+MP:0002191 abnormal artery morphology 491 12 3.49 4.76 0.00013 0.0037 4.13 1.99 7.89
+MP:0005369 muscle phenotype 1401 22 2.24 4.24 0.00013 0.0037 2.91 1.65 4.99
+MP:0002127 abnormal cardiovascular system morphology 1950 27 1.98 4.08 0.00014 0.0037 2.69 1.58 4.54
+MP:0002725 abnormal vein morphology 118 6 7.26 5.75 0.00017 0.0042 8.26 2.85 19.6
+MP:0000633 abnormal pituitary gland morphology 118 6 7.26 5.75 0.00017 0.0042 8.26 2.85 19.6
+MP:0004111 abnormal coronary artery morphology 41 4 13.9 6.97 0.00018 0.0044 16.2 4.08 47.3
+MP:0000534 abnormal ureter morphology 174 7 5.74 5.3 2e-04 0.0047 6.53 2.48 14.6
+MP:0013558 abnormal exocrine gland morphology 768 15 2.79 4.35 0.00021 0.0047 3.37 1.75 6.14
+MP:0004173 abnormal intervertebral disk morphology 79 5 9.04 6.02 0.00022 0.0048 10.3 3.13 26.4
+MP:0005140 decreased cardiac muscle contractility 236 8 4.84 5.02 0.00022 0.0048 5.53 2.25 11.8
+MP:0011334 abnormal nephrogenic zone morphology 18 3 23.8 8.13 0.00025 0.0051 29.6 5.36 108
+MP:0000260 abnormal angiogenesis 375 10 3.81 4.66 0.00025 0.0051 4.41 1.99 8.82
+MP:0002989 small kidney 243 8 4.7 4.91 0.00027 0.0054 5.36 2.18 11.5
+MP:0002128 abnormal blood circulation 719 14 2.78 4.17 0.00037 0.007 3.31 1.68 6.11
+MP:0011458 abnormal urine chloride ion level 21 3 20.4 7.47 4e-04 0.0074 24.7 4.54 87.6
+MP:0006020 decreased tympanic ring size 22 3 19.5 7.28 0.00046 0.0082 23.4 4.32 82.4
+MP:0000631 abnormal neuroendocrine gland morphology 142 6 6.03 5.07 0.00045 0.0082 6.78 2.35 16
+MP:0005023 abnormal wound healing 202 7 4.95 4.76 5e-04 0.0087 5.58 2.12 12.5
+MP:0005381 digestive/alimentary phenotype 1328 20 2.15 3.8 0.00051 0.0087 2.69 1.5 4.66
+MP:0011655 abnormal systemic artery morphology 268 8 4.26 4.55 0.00053 0.0088 4.83 1.97 10.3
+MP:0001762 polyuria 98 5 7.28 5.25 0.00059 0.0094 8.17 2.5 20.8
+MP:0002113 abnormal skeleton development 496 11 3.17 4.16 0.00059 0.0094 3.67 1.72 7.15
+MP:0004936 impaired branching involved in ureteric bud morphogenesis 57 4 10 5.74 0.00066 0.01 11.3 2.89 32.2
+MP:0001596 hypotension 26 3 16.5 6.63 0.00076 0.011 19.3 3.62 66.4
+MP:0003710 abnormal physiological neovascularization 26 3 16.5 6.63 0.00076 0.011 19.3 3.62 66.4
+MP:0006274 abnormal urine sodium level 59 4 9.68 5.62 0.00075 0.011 10.9 2.78 31
+MP:0000767 abnormal smooth muscle morphology 157 6 5.46 4.73 0.00077 0.011 6.1 2.12 14.4
+MP:0002972 abnormal cardiac muscle contractility 285 8 4.01 4.33 0.00079 0.011 4.53 1.85 9.66
+MP:0005084 abnormal gallbladder morphology 28 3 15.3 6.36 0.00095 0.012 17.8 3.35 60.6
+MP:0011364 abnormal metanephros morphology 28 3 15.3 6.36 0.00095 0.012 17.8 3.35 60.6
+MP:0006316 increased urine sodium level 28 3 15.3 6.36 0.00095 0.012 17.8 3.35 60.6
+MP:0002682 decreased mature ovarian follicle number 63 4 9.06 5.39 0.00096 0.012 10.2 2.6 28.8
+MP:0000830 abnormal diencephalon morphology 289 8 3.95 4.28 0.00087 0.012 4.46 1.82 9.51
+MP:0010981 abnormal branching involved in ureteric bud morphogenesis 64 4 8.92 5.34 0.001 0.013 10 2.56 28.3
+MP:0010551 abnormal coronary vessel morphology 65 4 8.78 5.29 0.0011 0.013 9.83 2.52 27.8
+MP:0003355 decreased ovulation rate 30 3 14.3 6.12 0.0012 0.014 16.4 3.11 55.7
+MP:0008775 abnormal heart ventricle pressure 68 4 8.4 5.14 0.0013 0.014 9.37 2.4 26.4
+MP:0002843 decreased systemic arterial blood pressure 113 5 6.32 4.78 0.0011 0.014 7.02 2.16 17.8
+MP:0000163 abnormal cartilage morphology 382 9 3.36 3.96 0.0013 0.014 3.81 1.64 7.84
+MP:0005329 abnormal myocardium layer morphology 457 10 3.12 3.91 0.0012 0.014 3.57 1.61 7.12
+MP:0009643 abnormal urine homeostasis 461 10 3.1 3.88 0.0013 0.014 3.53 1.59 7.05
+MP:0000613 abnormal salivary gland morphology 70 4 8.16 5.05 0.0014 0.015 9.08 2.33 25.6
+MP:0009364 abnormal mature ovarian follicle morphology 70 4 8.16 5.05 0.0014 0.015 9.08 2.33 25.6
+MP:0010545 abnormal heart layer morphology 465 10 3.07 3.85 0.0014 0.015 3.5 1.58 6.99
+MP:0000738 impaired muscle contractility 315 8 3.63 3.98 0.0015 0.016 4.07 1.66 8.67
+MP:0000477 abnormal intestine morphology 472 10 3.02 3.79 0.0015 0.016 3.44 1.55 6.88
+MP:0002115 abnormal limb bone morphology 472 10 3.02 3.79 0.0015 0.016 3.44 1.55 6.88
+MP:0001845 abnormal inflammatory response 1235 18 2.08 3.43 0.0016 0.016 2.52 1.37 4.43
+MP:0002083 premature death 1443 20 1.98 3.4 0.0015 0.016 2.43 1.36 4.22
+MP:0004783 abnormal cardinal vein morphology 34 3 12.6 5.69 0.0017 0.017 14.3 2.73 47.8
+MP:0002828 abnormal renal glomerular capsule morphology 124 5 5.76 4.48 0.0017 0.017 6.37 1.96 16.1
+MP:0010984 abnormal metanephric mesenchyme morphology 36 3 11.9 5.5 0.002 0.018 13.5 2.57 44.6
+MP:0006032 abnormal ureteric bud morphology 75 4 7.61 4.83 0.0018 0.018 8.44 2.17 23.7
+MP:0005083 abnormal biliary tract morphology 77 4 7.42 4.75 0.002 0.018 8.21 2.11 23
+MP:0011367 abnormal kidney apoptosis 77 4 7.42 4.75 0.002 0.018 8.21 2.11 23
+MP:0000559 abnormal femur morphology 189 6 4.53 4.12 0.002 0.018 5.02 1.75 11.8
+MP:0008250 abnormal myeloid leukocyte morphology 950 15 2.25 3.43 0.002 0.018 2.66 1.38 4.83
+MP:0001565 abnormal circulating phosphate level 78 4 7.32 4.71 0.0021 0.019 8.09 2.08 22.7
+MP:0002416 abnormal proerythroblast morphology 78 4 7.32 4.71 0.0021 0.019 8.09 2.08 22.7
+MP:0000556 abnormal hindlimb morphology 411 9 3.13 3.7 0.0021 0.019 3.52 1.52 7.24
+MP:0004820 abnormal urine potassium level 38 3 11.3 5.33 0.0023 0.02 12.7 2.43 42
+MP:0004181 abnormal carotid artery morphology 38 3 11.3 5.33 0.0023 0.02 12.7 2.43 42
+MP:0003411 abnormal vein development 39 3 11 5.25 0.0025 0.02 12.3 2.37 40.6
+MP:0004163 abnormal adenohypophysis morphology 80 4 7.14 4.63 0.0023 0.02 7.88 2.03 22
+MP:0005220 abnormal exocrine pancreas morphology 81 4 7.05 4.59 0.0024 0.02 7.78 2 21.7
+MP:0001928 abnormal ovulation 81 4 7.05 4.59 0.0024 0.02 7.78 2 21.7
+MP:0003856 abnormal hindlimb stylopod morphology 194 6 4.42 4.04 0.0023 0.02 4.88 1.7 11.5
+MP:0010630 abnormal cardiac muscle tissue morphology 342 8 3.34 3.7 0.0025 0.02 3.73 1.52 7.94
+MP:0005294 abnormal heart ventricle morphology 686 12 2.5 3.42 0.0026 0.02 2.87 1.39 5.47
+MP:0002058 neonatal lethality 979 15 2.19 3.3 0.0026 0.02 2.57 1.33 4.67
+MP:0011180 abnormal hematopoietic cell number 1969 24 1.74 3.11 0.0026 0.02 2.19 1.26 3.72
+MP:0010985 abnormal kidney mesenchyme morphology 41 3 10.4 5.09 0.0029 0.022 11.7 2.25 38.3
+MP:0006142 abnormal sinoatrial node conduction 42 3 10.2 5.02 0.0031 0.022 11.4 2.19 37.3
+MP:0013544 abnormal merocrine gland morphology 85 4 6.72 4.45 0.0029 0.022 7.39 1.91 20.6
+MP:0010792 abnormal stomach mucosa morphology 85 4 6.72 4.45 0.0029 0.022 7.39 1.91 20.6
+MP:0005333 decreased heart rate 141 5 5.06 4.08 0.003 0.022 5.56 1.72 14
+MP:0005501 abnormal skin physiology 350 8 3.26 3.62 0.0029 0.022 3.64 1.49 7.75
+MP:0004087 abnormal muscle fiber morphology 429 9 2.99 3.55 0.0028 0.022 3.36 1.45 6.91
+MP:0001302 eyelids open at birth 89 4 6.42 4.31 0.0034 0.024 7.04 1.82 19.6
+MP:0010783 abnormal stomach wall morphology 89 4 6.42 4.31 0.0034 0.024 7.04 1.82 19.6
+MP:0010031 abnormal cranium size 89 4 6.42 4.31 0.0034 0.024 7.04 1.82 19.6
+MP:0001566 increased circulating phosphate level 44 3 9.73 4.88 0.0035 0.025 10.8 2.09 35.4
+MP:0005595 abnormal vascular smooth muscle physiology 150 5 4.76 3.9 0.0039 0.027 5.21 1.61 13.1
+MP:0011504 abnormal limb long bone morphology 450 9 2.86 3.39 0.0039 0.027 3.2 1.38 6.57
+MP:0002060 abnormal skin morphology 922 14 2.17 3.14 0.0041 0.028 2.51 1.28 4.63
+MP:0008140 podocyte foot process effacement 47 3 9.11 4.68 0.0043 0.029 10.1 1.95 32.8
+MP:0002239 abnormal nasal septum morphology 48 3 8.92 4.62 0.0045 0.03 9.85 1.91 32
+MP:0006264 decreased systemic arterial systolic blood pressure 48 3 8.92 4.62 0.0045 0.03 9.85 1.91 32
+MP:0010754 abnormal heart left ventricle pressure 49 3 8.74 4.56 0.0048 0.03 9.63 1.87 31.3
+MP:0000521 abnormal kidney cortex morphology 378 8 3.02 3.37 0.0047 0.03 3.35 1.37 7.13
+MP:0013657 abnormal blood cell morphology 1813 22 1.73 2.92 0.0046 0.03 2.12 1.2 3.63
+MP:0013658 abnormal myeloid cell morphology 1702 21 1.76 2.92 0.0047 0.03 2.14 1.2 3.69
+MP:0008246 abnormal leukocyte morphology 1929 23 1.7 2.91 0.0045 0.03 2.1 1.2 3.58
+MP:0004505 decreased renal glomerulus number 50 3 8.57 4.5 0.0051 0.032 9.43 1.83 30.6
+MP:0001629 abnormal heart rate 229 6 3.74 3.53 0.0052 0.032 4.1 1.43 9.6
+MP:0000716 abnormal immune system cell morphology 1949 23 1.68 2.86 0.0051 0.032 2.07 1.19 3.54
+MP:0000030 abnormal tympanic ring morphology 51 3 8.4 4.45 0.0054 0.033 9.23 1.79 29.9
+MP:0001218 thin epidermis 51 3 8.4 4.45 0.0054 0.033 9.23 1.79 29.9
+MP:0000272 abnormal aorta morphology 232 6 3.69 3.49 0.0055 0.033 4.04 1.41 9.47
+MP:0002928 abnormal bile duct morphology 52 3 8.24 4.39 0.0057 0.034 9.04 1.76 29.2
+MP:0003799 impaired macrophage chemotaxis 52 3 8.24 4.39 0.0057 0.034 9.04 1.76 29.2
+MP:0002652 thin myocardium 103 4 5.54 3.89 0.0058 0.034 6.03 1.56 16.7
+MP:0010122 abnormal bone mineral content 311 7 3.21 3.33 0.0058 0.034 3.54 1.35 7.85
+MP:0010500 myocardium hypoplasia 105 4 5.44 3.84 0.0062 0.036 5.91 1.53 16.4
+MP:0005620 abnormal muscle contractility 398 8 2.87 3.2 0.0063 0.036 3.17 1.3 6.75
+MP:0013659 abnormal erythroid lineage cell morphology 869 13 2.14 2.95 0.0065 0.037 2.44 1.21 4.57
+MP:0000194 increased circulating calcium level 56 3 7.65 4.19 0.007 0.038 8.36 1.63 26.9
+MP:0005592 abnormal vascular smooth muscle morphology 108 4 5.29 3.76 0.0068 0.038 5.74 1.49 15.9
+MP:0000230 abnormal systemic arterial blood pressure 243 6 3.52 3.35 0.0069 0.038 3.85 1.35 9.01
+MP:0001914 hemorrhage 582 10 2.45 3.04 0.0068 0.038 2.75 1.24 5.48
+MP:0002092 abnormal eye morphology 1412 18 1.82 2.81 0.0069 0.038 2.15 1.17 3.78
+MP:0003567 abnormal fetal cardiomyocyte proliferation 58 3 7.38 4.1 0.0077 0.04 8.05 1.57 25.9
+MP:0000291 enlarged pericardium 58 3 7.38 4.1 0.0077 0.04 8.05 1.57 25.9
+MP:0012007 abnormal chloride level 111 4 5.14 3.69 0.0075 0.04 5.58 1.45 15.4
+MP:0011978 abnormal potassium ion homeostasis 112 4 5.1 3.66 0.0077 0.04 5.53 1.43 15.3
+MP:0000470 abnormal stomach morphology 175 5 4.08 3.45 0.0075 0.04 4.43 1.37 11.1
+MP:0004231 abnormal calcium ion homeostasis 176 5 4.06 3.44 0.0077 0.04 4.41 1.36 11.1
+MP:0000689 abnormal spleen morphology 992 14 2.01 2.84 0.0077 0.04 2.31 1.18 4.26
+MP:0000074 abnormal neurocranium morphology 252 6 3.4 3.24 0.0082 0.042 3.71 1.3 8.67
+MP:0002429 abnormal blood cell morphology/development 1106 15 1.94 2.79 0.0083 0.042 2.23 1.16 4.06
+MP:0002722 abnormal immune system organ morphology 1323 17 1.83 2.75 0.0081 0.042 2.14 1.15 3.81
+MP:0001134 absent corpus luteum 61 3 7.02 3.96 0.0088 0.045 7.63 1.49 24.5
+MP:0001340 abnormal eyelid morphology 257 6 3.33 3.19 0.009 0.045 3.63 1.27 8.49
+MP:0003419 delayed endochondral bone ossification 62 3 6.91 3.92 0.0092 0.046 7.5 1.47 24
+MP:0009337 abnormal splenocyte number 62 3 6.91 3.92 0.0092 0.046 7.5 1.47 24
+MP:0011101 prenatal lethality, incomplete penetrance 424 8 2.69 3 0.0091 0.046 2.97 1.21 6.31
+MP:0010499 abnormal ventricle myocardium morphology 119 4 4.8 3.5 0.0095 0.047 5.19 1.35 14.3
+MP:0001765 abnormal ion homeostasis 612 10 2.33 2.86 0.0096 0.047 2.6 1.18 5.19
+MP:0002447 abnormal erythrocyte morphology 810 12 2.11 2.79 0.0097 0.047 2.39 1.16 4.55
+MP:0003109 short femur 121 4 4.72 3.46 0.01 0.048 5.1 1.32 14.1
+MP:0000003 abnormal adipose tissue morphology 916 13 2.03 2.75 0.0099 0.048 2.3 1.14 4.3
+MP:0011390 abnormal fetal cardiomyocyte physiology 65 3 6.59 3.8 0.011 0.049 7.14 1.4 22.8
+MP:0001807 decreased IgA level 65 3 6.59 3.8 0.011 0.049 7.14 1.4 22.8
+MP:0008059 abnormal podocyte foot process morphology 65 3 6.59 3.8 0.011 0.049 7.14 1.4 22.8
+MP:0001562 abnormal circulating calcium level 122 4 4.68 3.44 0.01 0.049 5.05 1.31 14
+MP:0002998 abnormal bone remodeling 191 5 3.74 3.21 0.011 0.049 4.04 1.25 10.1
+MP:0008251 abnormal phagocyte morphology 816 12 2.1 2.76 0.01 0.049 2.37 1.15 4.51
+MP:0011181 increased hematopoietic cell number 1247 16 1.83 2.65 0.011 0.049 2.12 1.12 3.8
+MP:0004970 kidney atrophy 66 3 6.49 3.76 0.011 0.05 7.03 1.37 22.5
+MP:0010867 abnormal bone trabecula morphology 125 4 4.57 3.37 0.011 0.05 4.93 1.28 13.6
+MP:0002705 dilated renal tubules 125 4 4.57 3.37 0.011 0.05 4.93 1.28 13.6
+MP:0009250 abnormal appendicular skeleton morphology 724 11 2.17 2.75 0.011 0.05 2.43 1.14 4.72

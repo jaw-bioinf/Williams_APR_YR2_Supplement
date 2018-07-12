@@ -1,0 +1,24 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000488	Retinopathy	115	6	9.64	6.95	2.1e-05	0.0093	14.3	4.37	41.2
+HP:0012331	Abnormal autonomic nervous system morphology	116	5	7.96	5.63	0.00029	0.026	10.9	3.01	32.6
+HP:0025028	Abnormality of enteric nervous system morphology	116	5	7.96	5.63	0.00029	0.026	10.9	3.01	32.6
+HP:0004362	Abnormality of enteric ganglion morphology	116	5	7.96	5.63	0.00029	0.026	10.9	3.01	32.6
+HP:0002251	Aganglionic megacolon	116	5	7.96	5.63	0.00029	0.026	10.9	3.01	32.6
+HP:0009906	Aplasia/Hypoplasia of the earlobes	36	3	15.4	6.4	0.00086	0.035	19.6	3.49	73.1
+HP:0001824	Weight loss	142	5	6.5	4.94	0.00074	0.035	8.73	2.43	26.1
+HP:0002270	Abnormality of the autonomic nervous system	158	5	5.85	4.6	0.0012	0.035	7.78	2.16	23.2
+HP:0410008	Abnormality of the peripheral nervous system	159	5	5.81	4.58	0.0012	0.035	7.73	2.15	23.1
+HP:0000795	Abnormality of the urethra	302	7	4.28	4.4	0.00066	0.035	6.31	2.09	17.5
+HP:0004097	Deviation of finger	323	7	4	4.18	0.001	0.035	5.85	1.94	16.3
+HP:0004207	Abnormality of the 5th finger	324	7	3.99	4.17	0.001	0.035	5.83	1.93	16.2
+HP:0001760	Abnormality of the foot	911	12	2.43	3.71	0.00068	0.035	4.94	1.79	14.9
+HP:0001263	Global developmental delay	946	12	2.34	3.57	0.00098	0.035	4.69	1.7	14.1
+HP:0030669	Abnormal morphology of the ocular adnexa	944	12	2.35	3.57	0.00096	0.035	4.7	1.7	14.1
+HP:0000492	Abnormality of the eyelid	823	11	2.47	3.55	0.0013	0.035	4.53	1.65	13
+HP:0009484	Deviation of the hand or of fingers of the hand	346	7	3.74	3.96	0.0015	0.04	5.42	1.79	15
+HP:0003774	Stage 5 chronic kidney disease	104	4	7.11	4.66	0.002	0.046	9.03	2.14	29
+HP:0100627	Displacement of the external urethral meatus	265	6	4.18	3.97	0.002	0.046	5.75	1.78	16.4
+HP:0010936	Abnormality of the lower urinary tract	474	8	3.12	3.66	0.002	0.046	4.72	1.64	13
+HP:0002098	Respiratory distress	108	4	6.84	4.55	0.0023	0.047	8.67	2.06	27.8
+HP:0011355	Localized skin lesion	604	9	2.75	3.49	0.0022	0.047	4.38	1.57	12
+HP:0008062	Aplasia/Hypoplasia affecting the anterior segment of the eye	110	4	6.72	4.49	0.0025	0.048	8.5	2.02	27.3

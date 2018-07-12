@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0242	2	94	2	0.021	1	GO:0002589	BP	3	regulation of antigen processing and presentation of peptide antigen via MHC class I	1	HFE,TAPBPL
+2	1	TRUE	0.0242	2	94	2	0.021	1	GO:0002590	BP	3	negative regulation of antigen processing and presentation of peptide antigen via MHC class I	2	HFE,TAPBPL
+3	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:5616	cor	2	Hsp110-Hsc70-Hsp25 complex	1	HSPB1
+4	1	TRUE	0.0323	2	5	1	0.2	0.5	CORUM:3230	cor	6	Heterodimer complex (Cdk9, Il6st)	1	IL6ST
+5	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:1151	cor	4	Sycp1-Syce1-Syce2 complex	1	SYCE1
+6	1	TRUE	0.0323	4	5	1	0.2	0.25	CORUM:3212	cor	5	Pax7-HMT complex	1	KMT2B
+7	1	TRUE	0.0376	2	23	2	0.087	1	HP:0003226	hp	1	Rectilinear intracellular accumulation of autofluorescent lipopigment storage material	1	CLN5,CLN6

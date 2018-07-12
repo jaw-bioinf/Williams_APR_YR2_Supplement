@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	7	5.52	5.15	0.00027	0.023	6.19	2.36	13.7
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	5	5.51	4.34	0.0021	0.036	6.03	1.87	15.1
+R-HSA-3247509	Chromatin modifying enzymes	227	7	4.01	4.04	0.0018	0.036	4.41	1.69	9.74
+R-HSA-4839726	Chromatin organization	227	7	4.01	4.04	0.0018	0.036	4.41	1.69	9.74
+R-HSA-422475	Axon guidance	295	8	3.53	3.88	0.0019	0.036	3.9	1.6	8.22

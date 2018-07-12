@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002026	increased leukemia incidence	92	3	15.1	6.33	0.00095	0.033	18.1	3.35	64.4
+MP:0002024	increased T cell derived lymphoma incidence	102	3	13.6	5.97	0.0013	0.033	16.3	3.01	57.8
+MP:0010365	increased thymus tumor incidence	103	3	13.5	5.93	0.0013	0.033	16.1	2.98	57.2
+MP:0003448	abnormal tumor morphology	194	4	9.57	5.6	0.00069	0.033	11.9	2.87	37.4
+MP:0010025	decreased total body fat amount	376	5	6.17	4.76	0.001	0.033	7.98	2.26	23.2
+MP:0002006	neoplasm	897	8	4.14	4.6	0.00032	0.033	6.27	2.22	16.7
+MP:0002019	abnormal tumor incidence	805	7	4.03	4.19	0.001	0.033	5.71	1.92	15.4
+MP:0002166	altered tumor susceptibility	819	7	3.97	4.13	0.0011	0.033	5.6	1.89	15.1
+MP:0003884	decreased macrophage cell number	133	3	10.5	5.11	0.0027	0.048	12.4	2.3	43.6
+MP:0010639	altered tumor pathology	284	4	6.53	4.4	0.0028	0.048	8.01	1.94	25
+MP:0005452	abnormal adipose tissue amount	697	6	3.99	3.82	0.0027	0.048	5.31	1.67	14.8
+MP:0002020	increased tumor incidence	706	6	3.94	3.78	0.0029	0.048	5.24	1.64	14.6

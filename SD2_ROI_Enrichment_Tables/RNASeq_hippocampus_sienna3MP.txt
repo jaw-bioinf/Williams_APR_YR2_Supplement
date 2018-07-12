@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	16	3.5	5.56	7.5e-06	0.0031	4.4	2.32	7.92
+MP:0003635	abnormal synaptic transmission	740	16	3.09	4.97	3.6e-05	0.0075	3.83	2.02	6.89
+MP:0003313	abnormal locomotor activation	1152	20	2.48	4.5	7.3e-05	0.0076	3.17	1.77	5.51
+MP:0001392	abnormal locomotor behavior	1537	24	2.23	4.43	5.9e-05	0.0076	2.98	1.72	5.07
+MP:0001399	hyperactivity	475	12	3.61	4.9	9.5e-05	0.0079	4.28	2.07	8.18
+MP:0003491	abnormal voluntary movement	1648	24	2.08	4.06	0.00018	0.013	2.74	1.58	4.65
+MP:0002945	abnormal inhibitory postsynaptic currents	87	5	8.2	5.67	0.00034	0.016	9.27	2.83	23.7
+MP:0009538	abnormal synapse morphology	189	7	5.29	5	0.00033	0.016	5.99	2.27	13.4
+MP:0002064	seizures	383	10	3.73	4.58	3e-04	0.016	4.31	1.94	8.62
+MP:0004770	abnormal synaptic vesicle recycling	21	3	20.4	7.47	4e-04	0.017	24.7	4.54	87.6
+MP:0004008	abnormal GABA-mediated receptor currents	23	3	18.6	7.11	0.00053	0.018	22.2	4.12	77.9
+MP:0004792	abnormal synaptic vesicle number	53	4	10.8	5.99	5e-04	0.018	12.3	3.11	35
+MP:0004769	abnormal synaptic vesicle morphology	60	4	9.52	5.56	8e-04	0.024	10.7	2.74	30.4
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	5	6.86	5.05	0.00078	0.024	7.67	2.35	19.5
+MP:0003633	abnormal nervous system physiology	1903	24	1.8	3.29	0.0016	0.045	2.28	1.32	3.88

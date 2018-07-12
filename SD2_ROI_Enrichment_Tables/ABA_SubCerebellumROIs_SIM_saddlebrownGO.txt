@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0155	3	4	1	0.25	0.333	CORUM:5815	cor	3	Axin1-Dvl1-Gsk3b-Frat1 complex	1	FRAT1
+2	1	TRUE	0.0155	3	4	1	0.25	0.333	CORUM:4056	cor	2	Axin1-Dvl1-Gsk3b-Frat1 complex	1	FRAT1
+3	1	TRUE	0.0155	2	4	1	0.25	0.5	CORUM:6285	cor	5	Ucp3-Hax-1 complex	1	UCP3
+4	1	TRUE	0.0155	3	4	1	0.25	0.333	CORUM:1723	cor	4	Pax3-Lef1-Tle4 complex	1	TLE4
+5	1	TRUE	0.0155	3	4	1	0.25	0.333	CORUM:2360	cor	6	Itgav-Itgb3-Gsn complex	1	ITGB3

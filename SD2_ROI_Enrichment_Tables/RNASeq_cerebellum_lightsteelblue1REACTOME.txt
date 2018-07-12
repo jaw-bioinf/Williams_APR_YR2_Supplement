@@ -1,0 +1,11 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112316 Neuronal System 356 10 9.38 8.82 4.5e-08 1.1e-06 13.9 5.77 31.4
+R-HSA-112315 Transmission across Chemical Synapses 224 7 10.4 7.82 3.4e-06 4e-05 13.7 4.91 33.4
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 6 13 8.23 5.3e-06 4.2e-05 16.6 5.47 42.5
+R-HSA-1296071 Potassium Channels 99 5 16.9 8.69 1e-05 6e-05 21 6.15 57.5
+R-HSA-1296072 Voltage gated Potassium channels 43 3 23.3 8.03 0.00028 0.0013 27.6 5.14 95.2
+R-HSA-418594 G alpha (i) signalling events 362 5 4.61 3.84 0.0041 0.016 5.39 1.6 14.4
+R-HSA-1630316 Glycosaminoglycan metabolism 122 3 8.21 4.39 0.0056 0.019 9.2 1.76 30.5
+R-HSA-194840 Rho GTPase cycle 138 3 7.26 4.06 0.0079 0.024 8.1 1.55 26.8
+R-HSA-388396 GPCR downstream signalling 1091 8 2.45 2.78 0.013 0.034 2.99 1.15 6.99
+R-HSA-372790 Signaling by GPCR 1118 8 2.39 2.7 0.015 0.035 2.91 1.12 6.8

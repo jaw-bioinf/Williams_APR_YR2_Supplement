@@ -1,0 +1,225 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-453274 Mitotic G2-G2/M phases 197 62 2.34 7.5 3.1e-11 1.8e-08 3.05 2.21 4.18
+R-HSA-69275 G2/M Transition 195 61 2.33 7.38 6e-11 1.8e-08 3.03 2.18 4.15
+R-HSA-5663205 Infectious disease 326 87 1.99 7.13 7.6e-11 1.8e-08 2.44 1.87 3.15
+R-HSA-8953854 Metabolism of RNA 646 145 1.67 6.95 6.4e-11 1.8e-08 1.97 1.61 2.4
+R-HSA-350562 Regulation of ornithine decarboxylase (ODC) 51 26 3.8 7.88 1.4e-10 2.7e-08 6.81 3.77 12.3
+R-HSA-6807070 PTEN Regulation 140 48 2.55 7.29 2.1e-10 3.2e-08 3.45 2.37 4.97
+R-HSA-4641258 Degradation of DVL 57 27 3.53 7.53 5.5e-10 7.2e-08 5.9 3.36 10.3
+R-HSA-1168372 Downstream signaling events of B Cell Receptor (BCR) 80 33 3.07 7.33 6.3e-10 7.3e-08 4.61 2.85 7.38
+R-HSA-8854050 FBXL7 down-regulates AURKA during mitotic entry and in early mitosis 54 26 3.58 7.5 7.3e-10 7.5e-08 6.08 3.41 10.8
+R-HSA-174143 APC/C-mediated degradation of cell cycle proteins 86 34 2.94 7.13 1.3e-09 1e-07 4.3 2.69 6.78
+R-HSA-453276 Regulation of mitotic cell cycle 86 34 2.94 7.13 1.3e-09 1e-07 4.3 2.69 6.78
+R-HSA-392499 Metabolism of proteins 1907 339 1.32 6.18 1.2e-09 1e-07 1.53 1.33 1.75
+R-HSA-450408 AUF1 (hnRNP D0) binds and destabilizes mRNA 56 26 3.46 7.26 2e-09 1.4e-07 5.67 3.21 9.96
+R-HSA-5610785 GLI3 is processed to GLI3R by the proteasome 60 27 3.35 7.19 2.3e-09 1.5e-07 5.36 3.09 9.22
+R-HSA-174178 APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1 72 30 3.1 7.05 2.8e-09 1.7e-07 4.68 2.82 7.69
+R-HSA-176408 Regulation of APC/C activators between G1/S and early anaphase 80 32 2.98 7 2.9e-09 1.7e-07 4.38 2.7 7.02
+R-HSA-162909 Host Interactions of HIV factors 128 43 2.5 6.73 3.7e-09 1.9e-07 3.33 2.24 4.89
+R-HSA-1428517 The citric acid (TCA) cycle and respiratory electron transport 165 51 2.3 6.64 3.6e-09 1.9e-07 2.96 2.07 4.17
+R-HSA-8948751 Regulation of PTEN stability and activity 69 29 3.13 6.99 4.1e-09 2e-07 4.75 2.83 7.89
+R-HSA-5653656 Vesicle-mediated transport 631 136 1.6 6.18 4.5e-09 2.1e-07 1.86 1.51 2.27
+R-HSA-69017 CDK-mediated phosphorylation and removal of Cdc6 51 24 3.5 7.06 5.9e-09 2.6e-07 5.81 3.2 10.5
+R-HSA-174113 SCF-beta-TrCP mediated degradation of Emi1 55 25 3.38 6.98 7e-09 2.6e-07 5.45 3.06 9.62
+R-HSA-4641257 Degradation of AXIN 55 25 3.38 6.98 7e-09 2.6e-07 5.45 3.06 9.62
+R-HSA-8852276 The role of GTSE1 in G2/M progression after G2 checkpoint 78 31 2.96 6.84 6.1e-09 2.6e-07 4.33 2.65 6.98
+R-HSA-199991 Membrane Trafficking 599 130 1.62 6.12 6.5e-09 2.6e-07 1.87 1.51 2.3
+R-HSA-5607764 CLEC7A (Dectin-1) signaling 96 35 2.71 6.65 9.6e-09 3.4e-07 3.77 2.4 5.83
+R-HSA-5362768 Hh mutants that don't undergo autocatalytic processing are degraded by ERAD 56 25 3.32 6.87 1.1e-08 3.7e-07 5.28 2.98 9.26
+R-HSA-8953897 Cellular responses to external stimuli 493 111 1.68 6.06 1.1e-08 3.7e-07 1.95 1.55 2.44
+R-HSA-5658442 Regulation of RAS by GAPs 68 28 3.07 6.73 1.3e-08 4e-07 4.59 2.71 7.65
+R-HSA-176814 Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins 76 30 2.94 6.68 1.3e-08 4e-07 4.28 2.6 6.95
+R-HSA-5687128 MAPK6/MAPK4 signaling 89 33 2.76 6.57 1.6e-08 4.6e-07 3.87 2.43 6.08
+R-HSA-5610780 Degradation of GLI1 by the proteasome 57 25 3.27 6.76 1.7e-08 4.9e-07 5.11 2.89 8.93
+R-HSA-1236978 Cross-presentation of soluble exogenous antigens (endosomes) 50 23 3.42 6.77 2.1e-08 5.9e-07 5.57 3.04 10.1
+R-HSA-180585 Vif-mediated degradation of APOBEC3G 54 24 3.31 6.7 2.4e-08 6.5e-07 5.23 2.92 9.29
+R-HSA-1169091 Activation of NF-kappaB in B cells 66 27 3.05 6.57 2.8e-08 6.7e-07 4.53 2.66 7.62
+R-HSA-69563 p53-Dependent G1 DNA Damage Response 66 27 3.05 6.57 2.8e-08 6.7e-07 4.53 2.66 7.62
+R-HSA-69580 p53-Dependent G1/S DNA damage checkpoint 66 27 3.05 6.57 2.8e-08 6.7e-07 4.53 2.66 7.62
+R-HSA-8951664 Neddylation 235 63 2 6.08 2.8e-08 6.7e-07 2.43 1.78 3.28
+R-HSA-597592 Post-translational protein modification 1353 248 1.36 5.68 2.7e-08 6.7e-07 1.55 1.32 1.8
+R-HSA-69229 Ubiquitin-dependent degradation of Cyclin D1 51 23 3.36 6.65 3.4e-08 7.5e-07 5.37 2.94 9.69
+R-HSA-75815 Ubiquitin-dependent degradation of Cyclin D 51 23 3.36 6.65 3.4e-08 7.5e-07 5.37 2.94 9.69
+R-HSA-5387390 Hh mutants abrogate ligand secretion 59 25 3.15 6.54 4e-08 7.8e-07 4.81 2.74 8.33
+R-HSA-5676590 NIK-->noncanonical NF-kB signaling 59 25 3.15 6.54 4e-08 7.8e-07 4.81 2.74 8.33
+R-HSA-8939902 Regulation of RUNX2 expression and activity 59 25 3.15 6.54 4e-08 7.8e-07 4.81 2.74 8.33
+R-HSA-174154 APC/C:Cdc20 mediated degradation of Securin 67 27 3 6.47 4.1e-08 7.8e-07 4.42 2.6 7.41
+R-HSA-68949 Orc1 removal from chromatin 71 28 2.94 6.45 4.1e-08 7.8e-07 4.26 2.54 7.05
+R-HSA-69052 Switching of origins to a post-replicative state 71 28 2.94 6.45 4.1e-08 7.8e-07 4.26 2.54 7.05
+R-HSA-176409 APC/C:Cdc20 mediated degradation of mitotic proteins 75 29 2.88 6.43 3.9e-08 7.8e-07 4.13 2.49 6.74
+R-HSA-168256 Immune System 1970 340 1.28 5.56 3.7e-08 7.8e-07 1.46 1.27 1.67
+R-HSA-180534 Vpu mediated degradation of CD4 52 23 3.29 6.53 5.3e-08 8.8e-07 5.18 2.85 9.31
+R-HSA-349425 Autodegradation of the E3 ubiquitin ligase COP1 52 23 3.29 6.53 5.3e-08 8.8e-07 5.18 2.85 9.31
+R-HSA-69601 Ubiquitin Mediated Degradation of Phosphorylated Cdc25A 52 23 3.29 6.53 5.3e-08 8.8e-07 5.18 2.85 9.31
+R-HSA-69610 p53-Independent DNA Damage Response 52 23 3.29 6.53 5.3e-08 8.8e-07 5.18 2.85 9.31
+R-HSA-69613 p53-Independent G1/S DNA damage checkpoint 52 23 3.29 6.53 5.3e-08 8.8e-07 5.18 2.85 9.31
+R-HSA-351202 Metabolism of polyamines 84 31 2.75 6.33 4.8e-08 8.8e-07 3.83 2.37 6.11
+R-HSA-187577 SCF(Skp2)-mediated degradation of p27/p21 60 25 3.1 6.43 6e-08 9.1e-07 4.67 2.67 8.06
+R-HSA-5607761 Dectin-1 mediated noncanonical NF-kB signaling 60 25 3.1 6.43 6e-08 9.1e-07 4.67 2.67 8.06
+R-HSA-5358346 Hedgehog ligand biogenesis 64 26 3.02 6.4 6e-08 9.1e-07 4.48 2.6 7.59
+R-HSA-69615 G1/S DNA Damage Checkpoints 68 27 2.96 6.37 6e-08 9.1e-07 4.31 2.54 7.2
+R-HSA-174184 Cdc20:Phospho-APC/C mediated degradation of Cyclin A 72 28 2.9 6.36 5.8e-08 9.1e-07 4.17 2.49 6.87
+R-HSA-69304 Regulation of DNA replication 76 29 2.84 6.34 5.5e-08 9.1e-07 4.04 2.44 6.58
+R-HSA-179419 APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint 73 28 2.86 6.27 8.2e-08 1.1e-06 4.07 2.44 6.7
+R-HSA-69300 Removal of licensing factors from origins 73 28 2.86 6.27 8.2e-08 1.1e-06 4.07 2.44 6.7
+R-HSA-195253 Degradation of beta-catenin by the destruction complex 81 30 2.76 6.25 7.2e-08 1.1e-06 3.85 2.36 6.19
+R-HSA-69656 Cyclin A:Cdk2-associated events at S phase entry 81 30 2.76 6.25 7.2e-08 1.1e-06 3.85 2.36 6.19
+R-HSA-2454202 Fc epsilon receptor (FCERI) signaling 126 40 2.36 6.07 7.7e-08 1.1e-06 3.06 2.04 4.52
+R-HSA-5678895 Defective CFTR causes cystic fibrosis 61 25 3.05 6.33 8.8e-08 1.2e-06 4.54 2.6 7.8
+R-HSA-450531 Regulation of mRNA stability by proteins that bind AU-rich elements 86 31 2.68 6.18 9e-08 1.2e-06 3.69 2.29 5.86
+R-HSA-1280218 Adaptive Immune System 746 150 1.5 5.56 8.8e-08 1.2e-06 1.7 1.4 2.06
+R-HSA-69202 Cyclin E associated events during G1/S transition  82 30 2.72 6.17 9.9e-08 1.3e-06 3.78 2.32 6.06
+R-HSA-6798695 Neutrophil degranulation 477 105 1.64 5.63 9.7e-08 1.3e-06 1.89 1.49 2.37
+R-HSA-163200 Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins. 118 38 2.4 6.01 1.1e-07 1.4e-06 3.12 2.05 4.67
+R-HSA-1234176 Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha 66 26 2.93 6.21 1.3e-07 1.6e-06 4.25 2.48 7.17
+R-HSA-2871837 FCERI mediated NF-kB activation 79 29 2.73 6.09 1.5e-07 1.9e-06 3.8 2.31 6.14
+R-HSA-174084 Autodegradation of Cdh1 by Cdh1:APC/C 63 25 2.95 6.13 1.9e-07 2.3e-06 4.3 2.48 7.34
+R-HSA-162906 HIV Infection 184 51 2.06 5.74 1.9e-07 2.3e-06 2.53 1.78 3.54
+R-HSA-5632684 Hedgehog 'on' state 85 30 2.63 5.94 2.5e-07 3e-06 3.57 2.2 5.7
+R-HSA-2467813 Separation of Sister Chromatids 191 52 2.03 5.64 2.7e-07 3.1e-06 2.47 1.75 3.44
+R-HSA-1257604 PIP3 activates AKT signaling 254 64 1.88 5.57 2.6e-07 3.1e-06 2.23 1.64 2.99
+R-HSA-983705 Signaling by the B Cell Receptor (BCR) 108 35 2.41 5.81 2.8e-07 3.3e-06 3.15 2.03 4.79
+R-HSA-3858494 Beta-catenin independent WNT signaling 137 41 2.23 5.7 3.2e-07 3.6e-06 2.81 1.89 4.11
+R-HSA-983168 Antigen processing: Ubiquitination & Proteasome degradation 310 74 1.78 5.47 3.1e-07 3.6e-06 2.08 1.57 2.73
+R-HSA-2262752 Cellular responses to stress 425 94 1.65 5.37 3.7e-07 4.1e-06 1.89 1.48 2.41
+R-HSA-69541 Stabilization of p53 57 23 3 5.98 4e-07 4.4e-06 4.42 2.48 7.75
+R-HSA-983169 Class I MHC mediated antigen processing & presentation 365 83 1.69 5.31 5.5e-07 5.9e-06 1.96 1.5 2.53
+R-HSA-4608870 Asymmetric localization of PCP proteins 62 24 2.88 5.85 5.6e-07 6.1e-06 4.13 2.36 7.08
+R-HSA-68882 Mitotic Anaphase 202 53 1.95 5.39 7.3e-07 7.7e-06 2.35 1.67 3.25
+R-HSA-4086400 PCP/CE pathway 89 30 2.51 5.63 7.8e-07 8.1e-06 3.33 2.06 5.27
+R-HSA-8941858 Regulation of RUNX3 expression and activity 55 22 2.98 5.79 8.6e-07 8.7e-06 4.35 2.41 7.72
+R-HSA-68827 CDT1 association with the CDC6:ORC:origin complex 59 23 2.9 5.77 8.4e-07 8.7e-06 4.17 2.35 7.26
+R-HSA-2555396 Mitotic Metaphase and Anaphase 203 53 1.94 5.35 8.6e-07 8.7e-06 2.33 1.66 3.23
+R-HSA-68867 Assembly of the pre-replicative complex 68 25 2.74 5.66 1e-06 1e-05 3.8 2.22 6.38
+R-HSA-5663202 Diseases of signal transduction 359 81 1.68 5.17 1e-06 1e-05 1.93 1.48 2.5
+R-HSA-611105 Respiratory electron transport 95 31 2.43 5.51 1.1e-06 1.1e-05 3.17 1.99 4.96
+R-HSA-446203 Asparagine N-linked glycosylation 299 70 1.74 5.14 1.4e-06 1.4e-05 2.02 1.52 2.67
+R-HSA-5683057 MAPK family signaling cascades 288 68 1.76 5.14 1.4e-06 1.4e-05 2.04 1.52 2.71
+R-HSA-202403 TCR signaling 116 35 2.25 5.32 1.9e-06 1.8e-05 2.83 1.84 4.28
+R-HSA-6807878 COPI-mediated anterograde transport 102 32 2.34 5.34 2e-06 1.9e-05 2.99 1.9 4.63
+R-HSA-1234174 Regulation of Hypoxia-inducible Factor (HIF) by oxygen 75 26 2.58 5.41 2.3e-06 2.1e-05 3.47 2.06 5.71
+R-HSA-2262749 Cellular response to hypoxia 75 26 2.58 5.41 2.3e-06 2.1e-05 3.47 2.06 5.71
+R-HSA-202424 Downstream TCR signaling 98 31 2.35 5.31 2.4e-06 2.2e-05 3.03 1.9 4.72
+R-HSA-9006925 Intracellular signaling by second messengers 282 66 1.74 4.98 2.8e-06 2.6e-05 2.02 1.5 2.69
+R-HSA-69239 Synthesis of DNA 99 31 2.33 5.24 3.1e-06 2.7e-05 2.98 1.88 4.65
+R-HSA-446652 Interleukin-1 family signaling 138 39 2.1 5.14 3e-06 2.7e-05 2.58 1.73 3.8
+R-HSA-5619084 ABC transporter disorders 81 27 2.48 5.27 3.5e-06 3.1e-05 3.27 1.97 5.3
+R-HSA-5688426 Deubiquitination 295 68 1.72 4.92 3.6e-06 3.1e-05 1.98 1.48 2.63
+R-HSA-199977 ER to Golgi Anterograde Transport 155 42 2.02 5.03 4.2e-06 3.6e-05 2.44 1.66 3.52
+R-HSA-5689603 UCH proteinases 97 30 2.3 5.08 5.8e-06 5e-05 2.93 1.83 4.59
+R-HSA-1236975 Antigen processing-Cross presentation 88 28 2.37 5.08 6.4e-06 5.5e-05 3.05 1.87 4.87
+R-HSA-5358351 Signaling by Hedgehog 148 40 2.01 4.89 7.6e-06 6.4e-05 2.43 1.64 3.54
+R-HSA-69306 DNA Replication 108 32 2.21 4.96 7.9e-06 6.5e-05 2.75 1.76 4.23
+R-HSA-168249 Innate Immune System 1035 186 1.34 4.52 7.8e-06 6.5e-05 1.48 1.24 1.76
+R-HSA-5610787 Hedgehog 'off' state 113 33 2.17 4.94 8e-06 6.6e-05 2.7 1.74 4.12
+R-HSA-8878166 Transcriptional regulation by RUNX2 80 26 2.42 5.02 8.9e-06 7.2e-05 3.14 1.88 5.13
+R-HSA-68874 M/G1 Transition 85 27 2.36 4.98 9.7e-06 7.7e-05 3.04 1.84 4.9
+R-HSA-69002 DNA Replication Pre-Initiation 85 27 2.36 4.98 9.7e-06 7.7e-05 3.04 1.84 4.9
+R-HSA-8856688 Golgi-to-ER retrograde transport 134 37 2.06 4.85 9.7e-06 7.7e-05 2.5 1.66 3.7
+R-HSA-2132295 MHC class II antigen presentation 124 35 2.1 4.86 9.9e-06 7.8e-05 2.57 1.68 3.87
+R-HSA-5684996 MAPK1/MAPK3 signaling 249 58 1.73 4.62 1.3e-05 1e-04 2 1.46 2.71
+R-HSA-9020702 Interleukin-1 signaling 102 30 2.19 4.76 1.8e-05 0.00014 2.72 1.71 4.24
+R-HSA-3371497 HSP90 chaperone cycle for steroid hormone receptors (SHR) 56 20 2.66 4.9 2e-05 0.00015 3.62 1.98 6.44
+R-HSA-5621481 C-type lectin receptors (CLRs) 138 37 2 4.64 2e-05 0.00015 2.4 1.59 3.55
+R-HSA-69242 S Phase 138 37 2 4.64 2e-05 0.00015 2.4 1.59 3.55
+R-HSA-5673001 RAF/MAP kinase cascade 243 56 1.72 4.45 2.6e-05 0.00019 1.97 1.43 2.69
+R-HSA-382556 ABC-family proteins mediated transport 104 30 2.15 4.63 2.7e-05 2e-04 2.65 1.67 4.12
+R-HSA-69278 Cell Cycle, Mitotic 531 104 1.46 4.27 3e-05 0.00022 1.62 1.28 2.03
+R-HSA-6811442 Intra-Golgi and retrograde Golgi-to-ER traffic 200 48 1.79 4.43 3.2e-05 0.00023 2.07 1.46 2.9
+R-HSA-68886 M Phase 391 81 1.54 4.31 3.2e-05 0.00023 1.73 1.33 2.23
+R-HSA-5628897 TP53 Regulates Metabolic Genes 86 26 2.25 4.59 3.7e-05 0.00027 2.83 1.71 4.57
+R-HSA-1643685 Disease 984 174 1.32 4.12 4.1e-05 0.00029 1.44 1.2 1.72
+R-HSA-5689880 Ub-specific processing proteases 220 51 1.73 4.29 4.9e-05 0.00035 1.98 1.41 2.74
+R-HSA-69206 G1/S Transition 124 33 1.98 4.33 6.5e-05 0.00045 2.37 1.53 3.58
+R-HSA-72163 mRNA Splicing - Major Pathway 183 44 1.79 4.25 6.4e-05 0.00045 2.08 1.44 2.95
+R-HSA-8950505 Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation 39 15 2.86 4.59 8.2e-05 0.00056 4.06 1.98 8.09
+R-HSA-380270 Recruitment of mitotic centrosome proteins and complexes 80 24 2.23 4.36 8.4e-05 0.00057 2.79 1.65 4.6
+R-HSA-380287 Centrosome maturation 80 24 2.23 4.36 8.4e-05 0.00057 2.79 1.65 4.6
+R-HSA-1640170 Cell Cycle 607 114 1.4 3.99 8.3e-05 0.00057 1.54 1.23 1.9
+R-HSA-948021 Transport to the Golgi and subsequent modification 186 44 1.76 4.13 9.7e-05 0.00065 2.03 1.41 2.88
+R-HSA-453279 Mitotic G1-G1/S phases 143 36 1.87 4.15 0.00011 0.00071 2.2 1.46 3.25
+R-HSA-195721 Signaling by WNT 314 66 1.56 4.01 0.00011 0.00071 1.75 1.31 2.32
+R-HSA-3700989 Transcriptional Regulation by TP53 365 74 1.51 3.9 0.00014 0.00093 1.68 1.27 2.19
+R-HSA-380320 Recruitment of NuMA to mitotic centrosomes 93 26 2.08 4.13 0.00016 0.001 2.53 1.54 4.05
+R-HSA-6799198 Complex I biogenesis 55 18 2.44 4.21 0.00019 0.0012 3.16 1.69 5.72
+R-HSA-72172 mRNA Splicing 191 44 1.71 3.93 0.00018 0.0012 1.96 1.36 2.78
+R-HSA-77387 Insulin receptor recycling 26 11 3.15 4.32 0.00027 0.0017 4.76 1.97 11.1
+R-HSA-6811436 COPI-independent Golgi-to-ER retrograde traffic 52 17 2.43 4.08 0.00029 0.0018 3.16 1.65 5.81
+R-HSA-5668541 TNFR2 non-canonical NF-kB pathway 102 27 1.97 3.88 0.00032 0.002 2.35 1.45 3.7
+R-HSA-71403 Citric acid cycle (TCA cycle) 19 9 3.53 4.34 0.00036 0.0022 5.83 2.09 16
+R-HSA-8854518 AURKA Activation by TPX2 72 21 2.17 3.93 0.00035 0.0022 2.68 1.53 4.55
+R-HSA-72613 Eukaryotic Translation Initiation 119 30 1.88 3.79 0.00038 0.0023 2.2 1.4 3.38
+R-HSA-72737 Cap-dependent Translation Initiation 119 30 1.88 3.79 0.00038 0.0023 2.2 1.4 3.38
+R-HSA-8868773 rRNA processing in the nucleus and cytosol 191 43 1.68 3.72 0.00037 0.0023 1.9 1.31 2.7
+R-HSA-917977 Transferrin endocytosis and recycling 31 12 2.88 4.13 0.00039 0.0024 4.1 1.81 8.91
+R-HSA-447115 Interleukin-12 family signaling 58 18 2.31 3.94 4e-04 0.0024 2.93 1.57 5.24
+R-HSA-927802 Nonsense-Mediated Decay (NMD) 115 29 1.88 3.73 0.00047 0.0028 2.2 1.39 3.4
+R-HSA-975957 Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC) 115 29 1.88 3.73 0.00047 0.0028 2.2 1.39 3.4
+R-HSA-380259 Loss of Nlp from mitotic centrosomes 69 20 2.16 3.8 0.00053 0.0031 2.65 1.49 4.57
+R-HSA-380284 Loss of proteins required for interphase microtubule organization from the centrosome 69 20 2.16 3.8 0.00053 0.0031 2.65 1.49 4.57
+R-HSA-379716 Cytosolic tRNA aminoacylation 24 10 3.1 4.06 6e-04 0.0035 4.63 1.84 11.2
+R-HSA-72312 rRNA processing 201 44 1.63 3.55 6e-04 0.0035 1.83 1.27 2.59
+R-HSA-72203 Processing of Capped Intron-Containing Pre-mRNA 243 51 1.56 3.5 0.00066 0.0038 1.74 1.24 2.39
+R-HSA-8856828 Clathrin-mediated endocytosis 140 33 1.75 3.54 0.00074 0.0042 2.01 1.31 3.01
+R-HSA-449147 Signaling by Interleukins 454 85 1.39 3.38 0.00074 0.0042 1.52 1.18 1.94
+R-HSA-432722 Golgi Associated Vesicle Biogenesis 56 17 2.26 3.72 0.00076 0.0043 2.83 1.5 5.14
+R-HSA-72766 Translation 258 53 1.53 3.39 0.00088 0.0049 1.69 1.22 2.31
+R-HSA-6791226 Major pathway of rRNA processing in the nucleolus and cytosol 182 40 1.64 3.41 0.00096 0.0053 1.84 1.26 2.64
+R-HSA-9020591 Interleukin-12 signaling 48 15 2.33 3.63 0.0011 0.0061 2.95 1.48 5.6
+R-HSA-69620 Cell Cycle Checkpoints 292 58 1.48 3.27 0.0012 0.0067 1.62 1.19 2.19
+R-HSA-6811434 COPI-dependent Golgi-to-ER retrograde traffic 100 25 1.86 3.41 0.0013 0.007 2.17 1.32 3.47
+R-HSA-156827 L13a-mediated translational silencing of Ceruloplasmin expression 111 27 1.81 3.38 0.0013 0.0071 2.09 1.3 3.28
+R-HSA-379724 tRNA Aminoacylation 35 12 2.55 3.62 0.0014 0.0074 3.38 1.53 7.1
+R-HSA-975956 Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC) 95 24 1.88 3.4 0.0014 0.0074 2.2 1.32 3.55
+R-HSA-1852241 Organelle biogenesis and maintenance 269 54 1.49 3.24 0.0014 0.0074 1.64 1.19 2.24
+R-HSA-72706 GTP hydrolysis and joining of the 60S ribosomal subunit 112 27 1.79 3.33 0.0015 0.008 2.07 1.28 3.24
+R-HSA-8878159 Transcriptional regulation by RUNX3 108 26 1.79 3.26 0.0019 0.0098 2.06 1.27 3.26
+R-HSA-201681 TCF dependent signaling in response to WNT 224 46 1.53 3.15 0.0019 0.0098 1.69 1.19 2.36
+R-HSA-8878171 Transcriptional regulation by RUNX1 236 48 1.51 3.15 0.0019 0.0098 1.67 1.18 2.32
+R-HSA-888590 GABA synthesis, release, reuptake and degradation 19 8 3.13 3.67 0.002 0.01 4.71 1.64 12.9
+R-HSA-373760 L1CAM interactions 76 20 1.96 3.31 0.002 0.01 2.32 1.31 3.94
+R-HSA-2565942 Regulation of PLK1 Activity at G2/M Transition 87 22 1.88 3.26 0.0021 0.011 2.2 1.29 3.63
+R-HSA-199992 trans-Golgi Network Vesicle Budding 72 19 1.96 3.24 0.0024 0.012 2.33 1.3 4.01
+R-HSA-421837 Clathrin derived vesicle budding 72 19 1.96 3.24 0.0024 0.012 2.33 1.3 4.01
+R-HSA-8949664 Processing of SMDT1 16 7 3.26 3.56 0.0029 0.015 5.03 1.59 15.2
+R-HSA-2028269 Signaling by Hippo 20 8 2.98 3.49 0.0029 0.015 4.32 1.53 11.5
+R-HSA-1632852 Macroautophagy 68 18 1.97 3.16 0.003 0.015 2.34 1.28 4.09
+R-HSA-68877 Mitotic Prometaphase 199 41 1.53 3 0.003 0.015 1.69 1.16 2.41
+R-HSA-917937 Iron uptake and transport 58 16 2.05 3.17 0.0032 0.016 2.47 1.29 4.51
+R-HSA-168254 Influenza Infection 154 33 1.6 2.93 0.0039 0.019 1.78 1.17 2.64
+R-HSA-71291 Metabolism of amino acids and derivatives 251 49 1.45 2.87 0.004 0.019 1.58 1.13 2.19
+R-HSA-1280215 Cytokine Signaling in Immune system 678 115 1.26 2.79 0.0039 0.019 1.35 1.08 1.66
+R-HSA-5620912 Anchoring of the basal body to the plasma membrane 97 23 1.77 2.98 0.0041 0.02 2.02 1.2 3.28
+R-HSA-8949215 Mitochondrial calcium ion transport 17 7 3.07 3.36 0.0044 0.021 4.53 1.46 13.2
+R-HSA-69481 G2/M Checkpoints 167 35 1.56 2.88 0.0044 0.021 1.73 1.15 2.54
+R-HSA-6802952 Signaling by BRAF and RAF fusions 60 16 1.99 3.02 0.0047 0.022 2.36 1.24 4.28
+R-HSA-6802957 Oncogenic MAPK signaling 76 19 1.86 2.97 0.0047 0.022 2.16 1.21 3.71
+R-HSA-1799339 SRP-dependent cotranslational protein targeting to membrane 93 22 1.76 2.9 0.0051 0.024 2.01 1.18 3.3
+R-HSA-8943724 Regulation of PTEN gene transcription 61 16 1.95 2.94 0.0055 0.026 2.31 1.21 4.17
+R-HSA-3371556 Cellular response to heat stress 88 21 1.78 2.88 0.0055 0.026 2.04 1.18 3.38
+R-HSA-1855167 Synthesis of pyrophosphates in the cytosol 10 5 3.72 3.39 0.0061 0.028 6.46 1.49 28.1
+R-HSA-390471 Association of TriC/CCT with target proteins during biosynthesis 10 5 3.72 3.39 0.0061 0.028 6.46 1.49 28.1
+R-HSA-112310 Neurotransmitter release cycle 51 14 2.04 2.94 0.006 0.028 2.45 1.22 4.66
+R-HSA-8939236 RUNX1 regulates transcription of genes involved in differentiation of HSCs 129 28 1.62 2.77 0.0062 0.028 1.8 1.14 2.78
+R-HSA-5617833 Cilium Assembly 201 40 1.48 2.72 0.0063 0.029 1.62 1.11 2.31
+R-HSA-422475 Axon guidance 295 55 1.39 2.66 0.0065 0.029 1.5 1.09 2.03
+R-HSA-76066 RNA Polymerase III Transcription Initiation From Type 2 Promoter 27 9 2.48 3.04 0.0067 0.03 3.24 1.28 7.61
+R-HSA-72689 Formation of a pool of free 40S subunits 101 23 1.7 2.77 0.0069 0.031 1.92 1.14 3.1
+R-HSA-1222556 ROS, RNS production in phagocytes 32 10 2.33 2.96 0.0072 0.032 2.94 1.24 6.49
+R-HSA-8876198 RAB GEFs exchange GTP for GDP on RABs 90 21 1.74 2.77 0.0072 0.032 1.98 1.15 3.27
+R-HSA-5633007 Regulation of TP53 Activity 160 33 1.54 2.69 0.0072 0.032 1.69 1.11 2.51
+R-HSA-71406 Pyruvate metabolism and Citric Acid (TCA) cycle 47 13 2.06 2.87 0.0074 0.033 2.48 1.2 4.83
+R-HSA-2173789 TGF-beta receptor signaling activates SMADs 23 8 2.59 3.01 0.0079 0.034 3.45 1.26 8.69
+R-HSA-168255 Influenza Life Cycle 143 30 1.56 2.67 0.0079 0.034 1.73 1.11 2.62
+R-HSA-5619115 Disorders of transmembrane transporters 149 31 1.55 2.66 0.0079 0.034 1.71 1.11 2.57
+R-HSA-76061 RNA Polymerase III Transcription Initiation From Type 1 Promoter 28 9 2.39 2.91 0.0087 0.037 3.07 1.22 7.13
+R-HSA-76071 RNA Polymerase III Transcription Initiation From Type 3 Promoter 28 9 2.39 2.91 0.0087 0.037 3.07 1.22 7.13
+R-HSA-112315 Transmission across Chemical Synapses 224 43 1.43 2.56 0.0091 0.039 1.55 1.08 2.18
+R-HSA-5609975 Diseases associated with glycosylation precursor biosynthesis 15 6 2.98 3.02 0.0099 0.041 4.31 1.26 13.6
+R-HSA-2682334 EPH-Ephrin signaling 81 19 1.75 2.66 0.0097 0.041 1.99 1.12 3.38
+R-HSA-382551 Transport of small molecules 705 116 1.22 2.44 0.0098 0.041 1.29 1.04 1.6
+R-HSA-3928662 EPHB-mediated forward signaling 39 11 2.1 2.71 0.011 0.048 2.54 1.14 5.29
+R-HSA-9007101 Rab regulation of trafficking 123 26 1.57 2.52 0.012 0.048 1.74 1.08 2.72
+R-HSA-5663220 RHO GTPases Activate Formins 141 29 1.53 2.5 0.012 0.048 1.68 1.07 2.56
+R-HSA-9006934 Signaling by Receptor Tyrosine Kinases 487 83 1.27 2.4 0.012 0.048 1.35 1.04 1.72
+R-HSA-164938 Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters 20 7 2.61 2.83 0.012 0.05 3.48 1.17 9.41

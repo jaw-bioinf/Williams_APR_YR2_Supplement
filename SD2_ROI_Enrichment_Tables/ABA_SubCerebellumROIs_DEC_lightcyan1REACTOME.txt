@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5663213	RHO GTPases Activate WASPs and WAVEs	36	3	16.7	6.68	0.00074	0.028	19.2	3.64	64.5
+R-HSA-2029482	Regulation of actin dynamics for phagocytic cup formation	60	3	10	4.96	0.0033	0.035	11.1	2.14	36
+R-HSA-114608	Platelet degranulation 	123	4	6.51	4.36	0.0032	0.035	7.19	1.85	20.2
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	4	6.26	4.24	0.0037	0.035	6.9	1.78	19.3

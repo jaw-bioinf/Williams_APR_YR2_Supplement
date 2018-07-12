@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011019	Abnormality of chromosome condensation	15	8	9.36	7.97	4.4e-07	0.00025	19.6	6.14	64.2
+HP:0003451	Increased rate of premature chromosome condensation	15	8	9.36	7.97	4.4e-07	0.00025	19.6	6.14	64.2
+HP:0002472	Small cerebral cortex	15	8	9.36	7.97	4.4e-07	0.00025	19.6	6.14	64.2
+HP:0000233	Thin vermilion border	257	34	2.32	5.41	1.7e-06	7e-04	2.83	1.85	4.24
+HP:0010636	Schizencephaly	21	8	6.69	6.42	1e-05	0.0035	10.5	3.74	27.8
+HP:0000520	Proptosis	204	27	2.32	4.78	2.2e-05	0.0063	2.76	1.72	4.3
+HP:0100710	Impulsivity	25	8	5.62	5.69	4.5e-05	0.0095	8.06	2.97	20
+HP:0100013	Neoplasm of the breast	56	12	3.76	5.12	5.1e-05	0.0095	4.73	2.24	9.31
+HP:0003103	Abnormal cortical bone morphology	64	13	3.56	5.09	4.5e-05	0.0095	4.44	2.18	8.46
+HP:0001156	Brachydactyly syndrome	277	32	2.03	4.38	6.2e-05	0.01	2.38	1.54	3.58
+HP:0000290	Abnormality of the forehead	647	58	1.57	3.97	0.00012	0.018	1.89	1.35	2.61
+HP:0000340	Sloping forehead	103	16	2.73	4.37	0.00018	0.026	3.22	1.73	5.67
+HP:0000769	Abnormality of the breast	234	27	2.02	3.99	0.00025	0.033	2.34	1.46	3.62
+HP:0000219	Thin upper lip vermilion	164	21	2.25	4.02	0.00031	0.038	2.6	1.52	4.25
+HP:0003002	Breast carcinoma	41	9	3.85	4.52	0.00038	0.039	4.82	2	10.5
+HP:0000069	Abnormality of the ureter	190	23	2.12	3.92	0.00037	0.039	2.44	1.47	3.91
+HP:0100568	Neoplasm of the endocrine system	89	14	2.76	4.14	0.00041	0.041	3.24	1.66	5.93
+HP:0011927	Short digit	390	38	1.71	3.66	0.00048	0.044	1.97	1.32	2.88

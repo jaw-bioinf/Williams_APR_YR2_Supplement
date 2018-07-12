@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0189	5	3	1	0.333	0.2	CORUM:674	cor	1	Gamma-secretase complex (Aph1a, Ncstn, Psen1, Psenen, Tmp21)	1	PSENEN
+2	1	TRUE	0.0181	4	3	1	0.333	0.25	CORUM:5871	cor	6	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	PSENEN
+3	1	TRUE	0.0151	2	3	1	0.333	0.5	CORUM:396	cor	4	Succinyl-CoA synthetase, GDP-forming	1	SUCLG2
+4	1	TRUE	0.0151	2	3	1	0.333	0.5	CORUM:1560	cor	5	Nmi-Rrn3 complex	1	NMI
+5	1	TRUE	0.0151	2	3	1	0.333	0.5	CORUM:1555	cor	7	Nmi-Rpa2-Rrn3 complex	1	NMI
+6	1	TRUE	0.0181	4	3	1	0.333	0.25	CORUM:130	cor	2	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	PSENEN
+7	1	TRUE	0.0361	2119	63	18	0.286	0.008	TF:M02038	tf	3	Factor: Fli-1; motif: ACCGGAARYN	1	PNKP,HORMAD2,RPE,TPX2,DISP1,MAK16,2810004N23RIK,PSENEN,SLC45A1,OFD1,POGK,ANKRD42,PPIG,MBTPS2,TRAPPC1,FAM174A,COMMD6,ACAD11
+8	1	TRUE	0.0361	2119	63	18	0.286	0.008	TF:M02038_0	tf	3	Factor: Fli-1; motif: ACCGGAARYN; match class: 0	2	PNKP,HORMAD2,RPE,TPX2,DISP1,MAK16,2810004N23RIK,PSENEN,SLC45A1,OFD1,POGK,ANKRD42,PPIG,MBTPS2,TRAPPC1,FAM174A,COMMD6,ACAD11

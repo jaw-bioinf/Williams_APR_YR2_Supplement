@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2682334	EPH-Ephrin signaling	81	4	7.85	4.92	0.0016	0.035	8.69	2.24	24.3
+R-HSA-6807070	PTEN Regulation	140	5	5.68	4.43	0.0018	0.035	6.26	1.93	15.8
+R-HSA-166520	Signalling by NGF	147	5	5.41	4.28	0.0023	0.035	5.95	1.84	15
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	10	3.26	4.07	0.00084	0.035	3.75	1.69	7.5
+R-HSA-6798695	Neutrophil degranulation	477	9	3	3.56	0.0028	0.035	3.38	1.46	6.95

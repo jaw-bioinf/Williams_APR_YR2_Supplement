@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72163	mRNA Splicing - Major Pathway	183	11	4.07	5.13	8.2e-05	0.0095	4.52	2.17	8.55
+R-HSA-72172	mRNA Splicing	191	11	3.9	4.95	0.00012	0.0095	4.32	2.07	8.16
+R-HSA-111996	Ca-dependent events	29	4	9.33	5.5	0.00082	0.037	10.9	2.73	32.2
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	11	3.06	3.99	0.00094	0.037	3.33	1.6	6.26

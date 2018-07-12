@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5696400	Dual Incision in GG-NER	41	6	6.69	5.46	0.00024	0.018	7.85	2.67	19.1
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	9	4.9	5.37	8.6e-05	0.018	5.55	2.41	11.3
+R-HSA-5696398	Nucleotide Excision Repair	111	10	4.12	4.94	0.00015	0.018	4.59	2.11	8.96
+R-HSA-73894	DNA Repair	315	17	2.47	3.96	0.00054	0.031	2.68	1.51	4.47
+R-HSA-1268020	Mitochondrial protein import	20	4	9.14	5.45	0.00082	0.038	11.4	2.74	35.6
+R-HSA-176187	Activation of ATR in response to replication stress	37	5	6.18	4.72	0.0012	0.045	7.12	2.15	18.7
+R-HSA-6790901	rRNA modification in the nucleus and cytosol	11	3	12.5	5.69	0.0015	0.048	17	2.88	71.5
+R-HSA-139853	Elevation of cytosolic Ca2+ levels	13	3	10.6	5.15	0.0025	0.048	13.6	2.38	53.2
+R-HSA-200425	Import of palmitoyl-CoA into the mitochondrial matrix	14	3	9.8	4.93	0.0031	0.048	12.3	2.2	47.2
+R-HSA-114508	Effects of PIP2 hydrolysis	25	4	7.32	4.73	0.002	0.048	8.65	2.14	25.9
+R-HSA-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	26	4	7.03	4.61	0.0023	0.048	8.26	2.05	24.6
+R-HSA-77075	RNA Pol II CTD phosphorylation and interaction with CE	27	4	6.77	4.49	0.0026	0.048	7.9	1.97	23.4
+R-HSA-5696395	Formation of Incision Complex in GG-NER	43	5	5.32	4.24	0.0023	0.048	6	1.82	15.5
+R-HSA-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	65	6	4.22	3.89	0.0029	0.048	4.65	1.62	10.9
+R-HSA-6782135	Dual incision in TC-NER	66	6	4.16	3.85	0.0031	0.048	4.57	1.6	10.7
+R-HSA-72086	mRNA Capping	29	4	6.31	4.28	0.0034	0.049	7.26	1.82	21.3

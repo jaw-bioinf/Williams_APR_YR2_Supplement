@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	6	6.69	5.47	0.00024	0.0035	7.97	2.69	19.6
+path:hsa05010	Alzheimer's disease	171	6	5.83	4.98	0.00049	0.0037	6.88	2.33	16.9
+path:hsa05230	Central carbon metabolism in cancer	65	3	7.67	4.2	0.0068	0.024	8.55	1.64	28.1
+path:hsa00190	Oxidative phosphorylation	133	4	5	3.62	0.008	0.024	5.57	1.42	15.9
+path:hsa05016	Huntington's disease	193	5	4.3	3.62	0.0057	0.024	4.87	1.47	12.7
+path:hsa05012	Parkinson's disease	142	4	4.68	3.45	0.01	0.025	5.2	1.33	14.8

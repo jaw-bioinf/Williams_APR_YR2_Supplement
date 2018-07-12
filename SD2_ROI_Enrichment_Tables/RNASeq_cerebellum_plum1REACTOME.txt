@@ -1,0 +1,25 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8953854	Metabolism of RNA	646	19	7.55	10.8	3.8e-13	1.5e-11	14.1	7.11	28.1
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	12	12.7	11.5	7e-11	1.4e-09	18.7	8.53	38.8
+R-HSA-72163	mRNA Splicing - Major Pathway	183	9	12.6	9.93	2.5e-08	3.3e-07	16.9	6.94	37.2
+R-HSA-72172	mRNA Splicing	191	9	12.1	9.68	3.6e-08	3.6e-07	16.1	6.63	35.5
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	5	6.72	4.99	0.00081	0.0065	7.73	2.34	20.2
+R-HSA-72312	rRNA processing	201	5	6.39	4.82	0.001	0.0068	7.33	2.21	19.1
+R-HSA-429914	Deadenylation-dependent mRNA decay	55	3	14	6.05	0.0012	0.0071	15.9	3.03	52.8
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	3	9.28	4.74	0.004	0.016	10.3	1.99	33.7
+R-HSA-68874	M/G1 Transition	85	3	9.06	4.67	0.0043	0.016	10	1.94	32.8
+R-HSA-69002	DNA Replication Pre-Initiation	85	3	9.06	4.67	0.0043	0.016	10	1.94	32.8
+R-HSA-69481	G2/M Checkpoints	167	4	6.15	4.2	0.0039	0.016	6.87	1.75	19.6
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	4	5.64	3.95	0.0053	0.018	6.29	1.61	17.8
+R-HSA-69239	Synthesis of DNA	99	3	7.78	4.24	0.0066	0.02	8.57	1.66	27.9
+R-HSA-69306	DNA Replication	108	3	7.13	4.01	0.0084	0.024	7.83	1.52	25.4
+R-HSA-392499	Metabolism of proteins	1907	14	1.88	2.69	0.0099	0.027	2.39	1.15	4.79
+R-HSA-69206	G1/S Transition	124	3	6.21	3.65	0.012	0.031	6.78	1.32	21.9
+R-HSA-2990846	SUMOylation	127	3	6.06	3.59	0.013	0.031	6.62	1.29	21.4
+R-HSA-69242	S Phase	138	3	5.58	3.39	0.016	0.034	6.07	1.18	19.6
+R-HSA-453279	Mitotic G1-G1/S phases	143	3	5.39	3.3	0.018	0.034	5.85	1.14	18.9
+R-HSA-72766	Translation	258	4	3.98	3.03	0.017	0.034	4.37	1.12	12.4
+R-HSA-73857	RNA Polymerase II Transcription	1230	10	2.09	2.55	0.017	0.034	2.47	1.07	5.24
+R-HSA-5633007	Regulation of TP53 Activity	160	3	4.81	3.04	0.024	0.044	5.21	1.02	16.8
+R-HSA-69620	Cell Cycle Checkpoints	292	4	3.52	2.73	0.026	0.045	3.84	0.986	10.9
+R-HSA-74160	Gene expression (Transcription)	1335	10	1.92	2.27	0.028	0.047	2.25	0.976	4.76

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004185	abnormal adipocyte glucose uptake	40	8	6.36	6.12	2.8e-05	0.023	7.88	3.11	17.7
+MP:0000230	abnormal systemic arterial blood pressure	243	21	2.75	4.97	2.6e-05	0.023	3.06	1.83	4.89
+MP:0002843	decreased systemic arterial blood pressure	113	13	3.66	5.12	5.2e-05	0.028	4.14	2.1	7.52

@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:504	cor	2	Kir4.1-beta-dystroglycan complex	1	DAG1
+2	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:5404	cor	8	Myod1-Tcf3 complex	1	MYOD1
+3	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:5406	cor	6	Myod1-Tcf3 complex	1	MYOD1
+4	1	TRUE	0.0227	1	6	1	0.167	1	CORUM:5405	cor	10	Myod1 homodimer complex	1	MYOD1
+5	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:948	cor	11	Kif17-Lin10 complex	1	KIF17
+6	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:2142	cor	7	Map2k5-Map3k3 complex	1	MAP3K3
+7	1	TRUE	0.0328	4	6	1	0.167	0.25	CORUM:272	cor	5	Dysbindin-pallidin-muted-beta-dystrobrevin complex	1	DTNB
+8	1	TRUE	0.0328	4	6	1	0.167	0.25	CORUM:317	cor	12	Dystrobrevin-syntrophin complex, brain-derived	1	DTNB
+9	1	TRUE	0.0328	4	6	1	0.167	0.25	CORUM:3119	cor	9	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	KIF17
+10	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:5291	cor	1	Cd3e-Nck1-Mink1 complex	1	MINK1
+11	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:507	cor	13	Kir4.1-beta-dystroglycan complex	1	DAG1
+12	1	TRUE	0.0346	5	6	1	0.167	0.2	CORUM:346	cor	14	Sarcoglycan-sarcospan-dystroglycan complex	1	DAG1
+13	1	TRUE	0.0346	5	6	1	0.167	0.2	CORUM:1423	cor	4	L-periaxin-Drp2 complex	1	DAG1

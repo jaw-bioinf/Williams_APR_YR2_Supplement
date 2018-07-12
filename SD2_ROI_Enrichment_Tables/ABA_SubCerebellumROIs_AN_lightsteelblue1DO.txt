@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1319	brain cancer	13	3	29.4	9.11	0.00012	0.017	39.8	6.85	160
+DOID:1724	duodenal ulcer	23	3	16.6	6.67	0.00073	0.034	19.9	3.68	70.4
+DOID:331	central nervous system disease	1234	20	2.06	3.66	0.00069	0.034	2.7	1.47	4.82

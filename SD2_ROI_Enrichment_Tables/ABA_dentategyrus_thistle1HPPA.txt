@@ -1,0 +1,29 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0030223	Perseveration	34	3	18.2	7.04	0.00051	0.035	23.8	4.18	91.8
+HP:0002145	Frontotemporal dementia	34	3	18.2	7.04	0.00051	0.035	23.8	4.18	91.8
+HP:0000734	Disinhibition	37	3	16.7	6.71	0.00066	0.035	21.7	3.83	82.9
+HP:0002300	Mutism	38	3	16.3	6.61	0.00072	0.035	21.1	3.72	80.4
+HP:0007354	Amyotrophic lateral sclerosis	39	3	15.9	6.52	0.00077	0.035	20.5	3.62	78.2
+HP:0000719	Inappropriate behavior	41	3	15.1	6.34	9e-04	0.035	19.4	3.44	73.6
+HP:0002366	Abnormal lower motor neuron morphology	41	3	15.1	6.34	9e-04	0.035	19.4	3.44	73.6
+HP:0000741	Apathy	45	3	13.8	6.01	0.0012	0.037	17.5	3.12	66.2
+HP:0000745	Diminished motivation	46	3	13.5	5.94	0.0013	0.037	17.1	3.05	64.6
+HP:0000751	Personality changes	49	3	12.6	5.72	0.0015	0.037	16	2.85	60.1
+HP:0008777	Abnormality of the vocal cords	49	3	12.6	5.72	0.0015	0.037	16	2.85	60.1
+HP:0002463	Language impairment	52	3	11.9	5.53	0.0018	0.038	15	2.68	56.2
+HP:0007373	Motor neuron atrophy	52	3	11.9	5.53	0.0018	0.038	15	2.68	56.2
+HP:0002529	Neuronal loss in central nervous system	60	3	10.3	5.08	0.0027	0.039	12.9	2.31	48
+HP:0002174	Postural tremor	63	3	9.83	4.93	0.0031	0.039	12.2	2.2	45.4
+HP:0001283	Bulbar palsy	65	3	9.53	4.84	0.0034	0.039	11.8	2.13	43.9
+HP:0012757	Abnormal neuron morphology	65	3	9.53	4.84	0.0034	0.039	11.8	2.13	43.9
+HP:0002450	Abnormal motor neuron morphology	65	3	9.53	4.84	0.0034	0.039	11.8	2.13	43.9
+HP:0002936	Distal sensory impairment	119	4	6.94	4.6	0.0021	0.039	9.02	2.11	29.8
+HP:0002460	Distal muscle weakness	122	4	6.77	4.52	0.0023	0.039	8.79	2.06	29
+HP:0040129	Abnormal nerve conduction velocity	128	4	6.45	4.38	0.0028	0.039	8.35	1.95	27.5
+HP:0000762	Decreased nerve conduction velocity	128	4	6.45	4.38	0.0028	0.039	8.35	1.95	27.5
+HP:0003134	Abnormality of peripheral nerve conduction	130	4	6.35	4.34	0.0029	0.039	8.21	1.92	27
+HP:0045010	Abnormality of peripheral nerves	136	4	6.07	4.21	0.0035	0.039	7.82	1.83	25.8
+HP:0001618	Dysphonia	68	3	9.11	4.71	0.0039	0.042	11.3	2.03	41.8
+HP:0001600	Abnormality of the larynx	142	4	5.82	4.09	0.004	0.042	7.47	1.75	24.6
+HP:0003693	Distal amyotrophy	143	4	5.78	4.07	0.0042	0.042	7.41	1.74	24.4
+HP:0002380	Fasciculations	71	3	8.72	4.59	0.0044	0.043	10.8	1.94	39.9

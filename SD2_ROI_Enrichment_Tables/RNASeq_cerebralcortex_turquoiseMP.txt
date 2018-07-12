@@ -1,0 +1,135 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008762	embryonic lethality	1763	514	1.29	7.39	3.1e-13	1.3e-09	1.55	1.38	1.74
+MP:0000358	abnormal cell morphology	1156	344	1.32	6.28	6.1e-10	1.1e-06	1.55	1.34	1.78
+MP:0005380	embryo phenotype	1722	485	1.25	6.2	7.5e-10	1.1e-06	1.45	1.29	1.64
+MP:0004196	abnormal prenatal growth/weight/body size	1147	337	1.3	5.93	4.8e-09	5.1e-06	1.51	1.31	1.74
+MP:0014134	abnormal embryo morphology	1333	378	1.26	5.5	4.5e-08	3.9e-05	1.44	1.26	1.64
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	229	1.35	5.44	8.4e-08	6e-05	1.57	1.33	1.85
+MP:0010866	abnormal prenatal body size	862	256	1.32	5.29	1.7e-07	0.00011	1.52	1.29	1.77
+MP:0006207	embryonic lethality during organogenesis	942	274	1.29	5.08	4.6e-07	0.00023	1.47	1.26	1.71
+MP:0001672	abnormal embryo development	1018	293	1.28	5.06	4.9e-07	0.00023	1.45	1.25	1.68
+MP:0001929	abnormal gametogenesis	748	223	1.32	4.97	8.6e-07	0.00037	1.52	1.28	1.79
+MP:0003702	abnormal chromosome morphology	73	35	2.13	5.22	1.5e-06	0.00052	3.2	1.96	5.22
+MP:0013293	embryonic lethality prior to tooth bud stage	788	232	1.31	4.85	1.5e-06	0.00052	1.49	1.26	1.75
+MP:0000282	abnormal interatrial septum morphology	104	45	1.92	5.09	1.8e-06	0.00061	2.66	1.76	4
+MP:0002088	abnormal embryonic growth/weight/body size	966	276	1.27	4.74	2.2e-06	0.00067	1.43	1.23	1.67
+MP:0003111	abnormal cell nucleus morphology	172	65	1.68	4.83	3.7e-06	0.0011	2.12	1.53	2.93
+MP:0010094	abnormal chromosome stability	114	47	1.83	4.81	5.5e-06	0.0015	2.44	1.64	3.61
+MP:0002208	abnormal germ cell morphology	622	186	1.33	4.55	6.1e-06	0.0015	1.51	1.26	1.81
+MP:0008866	chromosomal instability	112	46	1.82	4.72	7.8e-06	0.0017	2.43	1.62	3.6
+MP:0003105	abnormal heart atrium morphology	224	79	1.57	4.62	7.8e-06	0.0017	1.91	1.42	2.54
+MP:0013292	embryonic lethality prior to organogenesis	717	210	1.3	4.51	7.1e-06	0.0017	1.47	1.24	1.75
+MP:0010592	abnormal atrioventricular septum morphology	78	35	1.99	4.74	9.5e-06	0.0019	2.83	1.75	4.54
+MP:0002152	abnormal brain morphology	1633	435	1.18	4.37	9.5e-06	0.0019	1.31	1.16	1.49
+MP:0010403	atrial septal defect	97	41	1.88	4.68	1.1e-05	0.002	2.55	1.65	3.89
+MP:0001156	abnormal spermatogenesis	608	180	1.31	4.32	1.7e-05	0.003	1.49	1.23	1.79
+MP:0001124	abnormal gametes	482	147	1.35	4.3	2e-05	0.0034	1.55	1.26	1.9
+MP:0006362	abnormal male germ cell morphology	545	163	1.33	4.25	2.3e-05	0.0039	1.51	1.24	1.83
+MP:0003698	abnormal male reproductive system physiology	893	251	1.25	4.19	2.4e-05	0.0039	1.39	1.19	1.63
+MP:0013503	abnormal embryonic tissue cell apoptosis	172	62	1.6	4.28	3.4e-05	0.0049	1.97	1.41	2.72
+MP:0003077	abnormal cell cycle	301	98	1.44	4.23	3.2e-05	0.0049	1.69	1.31	2.18
+MP:0004197	abnormal fetal growth/weight/body size	287	94	1.45	4.21	3.5e-05	0.0049	1.71	1.31	2.21
+MP:0001697	abnormal embryo size	709	204	1.28	4.14	3.3e-05	0.0049	1.43	1.2	1.7
+MP:0000813	abnormal hippocampus layer morphology	108	43	1.77	4.32	3.8e-05	0.0051	2.3	1.52	3.45
+MP:0004028	chromosome breakage	70	31	1.97	4.37	4.2e-05	0.0054	2.76	1.66	4.55
+MP:0013504	increased embryonic tissue cell apoptosis	142	53	1.66	4.25	4.2e-05	0.0054	2.07	1.44	2.96
+MP:0004200	decreased fetal size	216	74	1.52	4.17	4.6e-05	0.0057	1.82	1.35	2.44
+MP:0001504	abnormal posture	276	90	1.45	4.07	6.2e-05	0.0074	1.69	1.29	2.2
+MP:0002209	decreased germ cell number	466	140	1.33	3.98	7e-05	0.0081	1.51	1.22	1.86
+MP:0002085	abnormal embryonic tissue morphology	987	271	1.22	3.92	7.2e-05	0.0081	1.35	1.15	1.57
+MP:0000313	abnormal cell death	1427	378	1.18	3.89	7.3e-05	0.0081	1.29	1.13	1.47
+MP:0010412	atrioventricular septal defect	75	32	1.89	4.19	7.7e-05	0.0083	2.58	1.58	4.19
+MP:0000445	short snout	138	51	1.64	4.09	7.9e-05	0.0083	2.04	1.41	2.93
+MP:0008058	abnormal DNA repair	112	43	1.7	4.04	1e-04	0.01	2.17	1.44	3.23
+MP:0006208	lethality throughout fetal growth and development	504	149	1.31	3.88	9.8e-05	0.01	1.48	1.2	1.81
+MP:0004198	abnormal fetal size	225	75	1.48	3.92	0.00011	0.011	1.75	1.3	2.33
+MP:0000801	abnormal temporal lobe morphology	352	109	1.37	3.86	0.00012	0.011	1.57	1.24	1.99
+MP:0004901	decreased male germ cell number	413	125	1.34	3.85	0.00012	0.011	1.52	1.22	1.9
+MP:0001698	decreased embryo size	608	175	1.28	3.81	0.00012	0.011	1.42	1.18	1.72
+MP:0008410	increased cellular sensitivity to ultraviolet irradiation	29	16	2.45	4.21	0.00013	0.012	4.26	1.92	9.63
+MP:0004056	abnormal myocardium compact layer morphology	71	30	1.88	3.99	0.00016	0.013	2.54	1.53	4.18
+MP:0008284	abnormal hippocampus pyramidal cell layer	87	35	1.79	3.97	0.00015	0.013	2.34	1.47	3.67
+MP:0008932	abnormal embryonic tissue physiology	301	95	1.4	3.81	0.00015	0.013	1.61	1.24	2.08
+MP:0003861	abnormal nervous system development	1215	324	1.18	3.7	0.00016	0.013	1.3	1.13	1.49
+MP:0011092	embryonic lethality, complete penetrance	420	126	1.33	3.75	0.00017	0.014	1.5	1.2	1.87
+MP:0010865	prenatal growth retardation	644	183	1.26	3.7	0.00018	0.014	1.4	1.16	1.68
+MP:0000807	abnormal hippocampus morphology	346	106	1.36	3.68	0.00024	0.018	1.55	1.21	1.96
+MP:0001405	impaired coordination	454	134	1.31	3.65	0.00024	0.018	1.47	1.18	1.82
+MP:0001931	abnormal oogenesis	148	52	1.56	3.7	3e-04	0.019	1.88	1.31	2.68
+MP:0004852	decreased testis weight	260	83	1.42	3.67	0.00026	0.019	1.64	1.24	2.15
+MP:0000877	abnormal Purkinje cell morphology	231	75	1.44	3.66	0.00029	0.019	1.68	1.25	2.23
+MP:0004850	abnormal testis weight	279	88	1.4	3.66	0.00027	0.019	1.61	1.23	2.09
+MP:0000443	abnormal snout morphology	195	65	1.48	3.65	0.00032	0.019	1.74	1.27	2.37
+MP:0000771	abnormal brain size	343	105	1.36	3.65	0.00026	0.019	1.54	1.21	1.96
+MP:0002673	abnormal sperm number	404	121	1.33	3.65	0.00025	0.019	1.5	1.19	1.87
+MP:0000875	abnormal cerebellar Purkinje cell layer	257	82	1.42	3.65	0.00029	0.019	1.64	1.24	2.15
+MP:0001513	limb grasping	246	79	1.43	3.64	0.00029	0.019	1.65	1.24	2.18
+MP:0001730	embryonic growth arrest	302	94	1.38	3.63	0.00029	0.019	1.58	1.22	2.04
+MP:0001925	male infertility	613	174	1.26	3.59	0.00027	0.019	1.4	1.16	1.68
+MP:0002151	abnormal neural tube morphology	590	168	1.26	3.57	3e-04	0.019	1.4	1.16	1.69
+MP:0004849	abnormal testis size	523	151	1.28	3.57	3e-04	0.019	1.43	1.16	1.74
+MP:0000432	abnormal head morphology	875	239	1.21	3.56	0.00028	0.019	1.33	1.13	1.56
+MP:0001146	abnormal testis morphology	646	182	1.25	3.56	3e-04	0.019	1.38	1.15	1.66
+MP:0001147	small testis	489	142	1.29	3.54	0.00035	0.021	1.44	1.17	1.76
+MP:0010808	right-sided stomach	23	13	2.51	3.91	0.00042	0.023	4.49	1.82	11.5
+MP:0001188	hyperpigmentation	34	17	2.22	3.84	4e-04	0.023	3.46	1.66	7.22
+MP:0003393	decreased cardiac output	34	17	2.22	3.84	4e-04	0.023	3.46	1.66	7.22
+MP:0008898	abnormal acrosome morphology	68	28	1.83	3.69	0.00043	0.023	2.43	1.44	4.04
+MP:0001117	absent gametes	193	64	1.47	3.57	0.00041	0.023	1.73	1.25	2.36
+MP:0008540	abnormal cerebral hemisphere morphology	609	172	1.25	3.49	0.00039	0.023	1.38	1.15	1.67
+MP:0009850	embryonic lethality between implantation and placentation	440	129	1.3	3.49	0.00042	0.023	1.45	1.17	1.8
+MP:0011100	preweaning lethality, complete penetrance	799	219	1.22	3.45	0.00042	0.023	1.33	1.13	1.57
+MP:0002081	perinatal lethality	1327	347	1.16	3.4	0.00044	0.024	1.26	1.1	1.44
+MP:0005312	pericardial effusion	133	47	1.57	3.56	0.00049	0.025	1.9	1.3	2.75
+MP:0008943	increased sensitivity to induced cell death	176	59	1.49	3.52	5e-04	0.025	1.75	1.26	2.43
+MP:0011110	preweaning lethality, incomplete penetrance	469	136	1.29	3.44	0.00049	0.025	1.43	1.16	1.76
+MP:0002211	abnormal primary sex determination	552	157	1.26	3.43	0.00049	0.025	1.4	1.14	1.7
+MP:0009940	abnormal hippocampus pyramidal cell morphology	69	28	1.8	3.6	0.00057	0.027	2.37	1.41	3.93
+MP:0014137	abnormal preimplantation embryo morphology	206	67	1.44	3.47	0.00056	0.027	1.68	1.23	2.27
+MP:0004957	abnormal blastocyst morphology	206	67	1.44	3.47	0.00056	0.027	1.68	1.23	2.27
+MP:0000350	abnormal cell proliferation	966	259	1.19	3.36	0.00054	0.027	1.3	1.11	1.51
+MP:0001924	infertility	856	232	1.2	3.36	0.00056	0.027	1.31	1.11	1.54
+MP:0000267	abnormal heart development	377	112	1.32	3.4	0.00058	0.028	1.48	1.17	1.86
+MP:0000847	abnormal metencephalon morphology	479	138	1.28	3.38	6e-04	0.028	1.42	1.15	1.75
+MP:0002161	abnormal fertility/fecundity	1395	362	1.15	3.31	6e-04	0.028	1.25	1.09	1.42
+MP:0002086	abnormal extraembryonic tissue morphology	663	184	1.23	3.34	0.00064	0.029	1.35	1.13	1.62
+MP:0004806	absent germ cells	204	66	1.44	3.39	0.00072	0.031	1.66	1.22	2.26
+MP:0010296	increased hemolymphoid system tumor incidence	294	90	1.36	3.37	7e-04	0.031	1.54	1.18	1.99
+MP:0001116	small gonad	536	152	1.26	3.32	0.00069	0.031	1.39	1.14	1.69
+MP:0001648	abnormal apoptosis	1280	334	1.16	3.28	0.00068	0.031	1.25	1.09	1.44
+MP:0008057	abnormal DNA replication	24	13	2.4	3.71	0.00073	0.032	4.08	1.68	10.1
+MP:0005159	azoospermia	182	60	1.46	3.4	0.00072	0.032	1.71	1.23	2.36
+MP:0003727	abnormal retinal layer morphology	442	128	1.29	3.31	0.00075	0.032	1.43	1.15	1.77
+MP:0009956	abnormal cerebellar layer morphology	314	95	1.34	3.33	0.00077	0.033	1.51	1.17	1.95
+MP:0000787	abnormal telencephalon morphology	808	219	1.2	3.25	0.00081	0.034	1.31	1.11	1.55
+MP:0013501	increased fibroblast apoptosis	48	21	1.94	3.53	0.00086	0.035	2.69	1.44	4.95
+MP:0004057	thin myocardium compact layer	48	21	1.94	3.53	0.00086	0.035	2.69	1.44	4.95
+MP:0002210	abnormal sex determination	587	164	1.24	3.24	9e-04	0.036	1.36	1.12	1.65
+MP:0000841	abnormal hindbrain morphology	535	151	1.25	3.24	9e-04	0.036	1.38	1.13	1.68
+MP:0000107	abnormal frontal bone morphology	81	31	1.7	3.4	0.00097	0.039	2.15	1.32	3.44
+MP:0001953	respiratory failure	184	60	1.45	3.3	0.00098	0.039	1.68	1.21	2.32
+MP:0003984	embryonic growth retardation	560	157	1.24	3.21	0.00098	0.039	1.37	1.12	1.66
+MP:0001919	abnormal reproductive system physiology	1581	404	1.13	3.15	0.001	0.039	1.22	1.08	1.39
+MP:0002095	abnormal skin pigmentation	95	35	1.63	3.35	0.0011	0.041	2.02	1.29	3.13
+MP:0013325	abnormal male reproductive gland morphology	747	203	1.21	3.17	0.0011	0.042	1.31	1.1	1.56
+MP:0005389	reproductive system phenotype	1944	489	1.12	3.11	0.0011	0.043	1.2	1.07	1.35
+MP:0004174	abnormal spine curvature	314	94	1.33	3.19	0.0012	0.044	1.49	1.15	1.92
+MP:0009205	abnormal internal male genitalia morphology	785	212	1.2	3.13	0.0012	0.044	1.3	1.1	1.54
+MP:0000108	midline facial cleft	25	13	2.31	3.53	0.0012	0.045	3.74	1.57	8.98
+MP:0001145	abnormal male reproductive system morphology	806	217	1.19	3.12	0.0012	0.045	1.3	1.1	1.53
+MP:0009198	abnormal male genitalia morphology	806	217	1.19	3.12	0.0012	0.045	1.3	1.1	1.53
+MP:0005382	craniofacial phenotype	1099	288	1.16	3.1	0.0013	0.045	1.26	1.08	1.45
+MP:0000428	abnormal craniofacial morphology	1095	287	1.16	3.1	0.0013	0.045	1.26	1.08	1.45
+MP:0005391	vision/eye phenotype	1518	388	1.13	3.08	0.0013	0.045	1.22	1.07	1.39
+MP:0009701	abnormal birth body size	246	76	1.37	3.18	0.0013	0.046	1.56	1.17	2.06
+MP:0002082	postnatal lethality	1346	347	1.14	3.08	0.0013	0.046	1.23	1.08	1.41
+MP:0008942	abnormal induced cell death	250	77	1.37	3.17	0.0014	0.047	1.55	1.16	2.05
+MP:0013203	abnormal primary cilium morphology	86	32	1.65	3.27	0.0014	0.048	2.05	1.28	3.25
+MP:0009703	decreased birth body size	243	75	1.37	3.15	0.0015	0.049	1.55	1.16	2.06
+MP:0000774	decreased brain size	281	85	1.34	3.14	0.0014	0.049	1.51	1.15	1.97
+MP:0000572	abnormal autopod morphology	386	112	1.29	3.11	0.0015	0.049	1.43	1.13	1.8
+MP:0000849	abnormal cerebellum morphology	445	127	1.27	3.11	0.0014	0.049	1.4	1.12	1.73
+MP:0000913	abnormal brain development	780	210	1.19	3.06	0.0015	0.049	1.3	1.09	1.53
+MP:0013205	abnormal nonmotile primary cilium morphology	53	22	1.84	3.32	0.0015	0.05	2.45	1.35	4.39
+MP:0001731	abnormal postnatal growth	999	263	1.17	3.04	0.0016	0.05	1.26	1.08	1.47
+MP:0001732	postnatal growth retardation	974	257	1.17	3.04	0.0016	0.05	1.26	1.08	1.47

@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:8677	perinatal necrotizing enterocolitis	11	3	14.7	6.25	0.00093	0.05	20.2	3.42	85.6
+DOID:447	renal tubular transport disease	13	3	12.4	5.67	0.0016	0.05	16.2	2.83	63.8
+DOID:3319	lymphangioleiomyomatosis	13	3	12.4	5.67	0.0016	0.05	16.2	2.83	63.8
+DOID:9744	type 1 diabetes mellitus	13	3	12.4	5.67	0.0016	0.05	16.2	2.83	63.8
+DOID:2987	familial Mediterranean fever	27	4	7.98	5	0.0014	0.05	9.44	2.34	28.2
+DOID:552	pneumonia	162	11	3.66	4.71	2e-04	0.05	4.11	1.96	7.84
+DOID:2825	nose disease	106	8	4.06	4.37	0.00075	0.05	4.53	1.86	9.56
+DOID:6050	esophageal disease	114	8	3.78	4.12	0.0012	0.05	4.18	1.72	8.81
+DOID:4481	allergic rhinitis	98	7	3.85	3.9	0.0022	0.05	4.24	1.62	9.36
+DOID:1205	allergic hypersensitivity disease	122	8	3.53	3.88	0.0019	0.05	3.89	1.6	8.16
+DOID:974	upper respiratory tract disease	123	8	3.5	3.85	0.002	0.05	3.85	1.59	8.09
+DOID:2163	nasal cavity disease	100	7	3.77	3.84	0.0025	0.05	4.15	1.59	9.14
+DOID:4483	rhinitis	100	7	3.77	3.84	0.0025	0.05	4.15	1.59	9.14
+DOID:219	colon cancer	153	9	3.17	3.73	0.0021	0.05	3.47	1.52	7
+DOID:1520	colon carcinoma	153	9	3.17	3.73	0.0021	0.05	3.47	1.52	7
+DOID:77	gastrointestinal system disease	1039	32	1.66	3.16	0.0021	0.05	1.9	1.23	2.88

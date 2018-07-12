@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000124	absent teeth	18	4	25.5	9.75	1.5e-05	0.008	34	7.96	111
+MP:0005274	abnormal viscerocranium morphology	501	15	3.43	5.25	2.3e-05	0.008	4.07	2.14	7.28
+MP:0000163	abnormal cartilage morphology	382	12	3.6	4.87	0.00011	0.025	4.15	2.03	7.81
+MP:0002835	abnormal cranial suture morphology	61	5	9.39	6.17	0.00018	0.029	10.7	3.26	27.6
+MP:0000438	abnormal cranium morphology	679	16	2.7	4.32	0.00021	0.029	3.17	1.7	5.58
+MP:0002116	abnormal craniofacial bone morphology	693	16	2.64	4.22	0.00027	0.031	3.1	1.66	5.45
+MP:0003055	abnormal long bone epiphyseal plate morphology	200	8	4.58	4.81	0.00034	0.033	5.14	2.11	10.9
+MP:0000454	abnormal jaw morphology	442	12	3.11	4.27	0.00042	0.033	3.55	1.73	6.66
+MP:0003723	abnormal long bone morphology	580	14	2.77	4.12	0.00044	0.033	3.19	1.64	5.77
+MP:0002100	abnormal tooth morphology	213	8	4.3	4.58	0.00052	0.034	4.81	1.97	10.2
+MP:0002114	abnormal axial skeleton morphology	1303	23	2.02	3.73	0.00055	0.034	2.45	1.44	4.06
+MP:0012192	abnormal keratinocyte migration	20	3	17.2	6.8	0.00066	0.035	20.7	3.82	73.7
+MP:0006395	abnormal epiphyseal plate morphology	219	8	4.18	4.48	0.00062	0.035	4.67	1.92	9.85

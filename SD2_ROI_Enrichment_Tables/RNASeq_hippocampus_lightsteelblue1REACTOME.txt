@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112316	Neuronal System	356	9	4.87	5.37	7.8e-05	0.0024	5.8	2.46	12.2
+R-HSA-383280	Nuclear Receptor transcription pathway	50	3	11.6	5.4	0.0022	0.014	12.9	2.49	42.3
+R-HSA-8848021	Signaling by PTK6	54	3	10.7	5.16	0.0027	0.014	11.9	2.3	38.8
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	3	10.7	5.16	0.0027	0.014	11.9	2.3	38.8
+R-HSA-112315	Transmission across Chemical Synapses	224	6	5.16	4.55	0.001	0.014	5.83	2.01	13.9
+R-HSA-983712	Ion channel transport	183	5	5.26	4.2	0.0025	0.014	5.84	1.79	14.9
+R-HSA-9007101	Rab regulation of trafficking	123	4	6.26	4.24	0.0037	0.016	6.89	1.78	19.3
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	90	3	6.42	3.73	0.011	0.044	6.94	1.36	22.2
+R-HSA-1296071	Potassium Channels	99	3	5.84	3.49	0.015	0.05	6.29	1.23	20

@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0484	15	2	1	0.5	0.067	CORUM:2225	cor	1	MutS-alpha-histone H4 complex	1	HIST2H4
+2	1	TRUE	0.0195	3	2	1	0.5	0.333	CORUM:931	cor	5	Scrib-beta-PIX-GIT1 complex	1	ARHGEF7
+3	1	TRUE	0.0363	14	5	2	0.4	0.143	HP:0000633	hp	4	Decreased lacrimation	1	IKBKAP,TRAPPC11
+4	1	TRUE	0.0363	11	5	2	0.4	0.182	HP:0000522	hp	4	Alacrima	2	IKBKAP,TRAPPC11

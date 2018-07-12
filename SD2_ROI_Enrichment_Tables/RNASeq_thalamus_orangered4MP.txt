@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0009239 short sperm flagellum 12 3 32.7 9.64 9e-05 0.014 45 7.66 185
+MP:0000631 abnormal neuroendocrine gland morphology 142 7 6.44 5.74 1e-04 0.014 7.35 2.79 16.4
+MP:0000830 abnormal diencephalon morphology 289 10 4.52 5.34 6.3e-05 0.014 5.24 2.37 10.5
+MP:0000633 abnormal pituitary gland morphology 118 6 6.65 5.42 0.00027 0.029 7.49 2.6 17.7

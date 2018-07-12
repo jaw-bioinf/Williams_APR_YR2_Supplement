@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2621	autonomic nervous system neoplasm	368	12	4.01	5.37	3.1e-05	0.0016	4.93	2.35	9.59
+DOID:769	neuroblastoma	368	12	4.01	5.37	3.1e-05	0.0016	4.93	2.35	9.59
+DOID:1192	peripheral nervous system neoplasm	381	12	3.87	5.22	4.3e-05	0.0016	4.75	2.27	9.23
+DOID:3093	nervous system cancer	523	14	3.29	4.93	5.4e-05	0.0016	4.11	2.06	7.73

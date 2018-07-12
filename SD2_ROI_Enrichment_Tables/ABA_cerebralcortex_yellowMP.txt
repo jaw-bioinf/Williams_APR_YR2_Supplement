@@ -1,0 +1,48 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009850	embryonic lethality between implantation and placentation	440	76	1.9	6.13	1.9e-08	3.3e-05	2.2	1.68	2.86
+MP:0001405	impaired coordination	454	77	1.87	6	3.4e-08	3.3e-05	2.15	1.64	2.79
+MP:0008762	embryonic lethality	1763	222	1.39	5.71	2.3e-08	3.3e-05	1.6	1.35	1.89
+MP:0013292	embryonic lethality prior to organogenesis	717	106	1.63	5.54	1.6e-07	0.00011	1.84	1.47	2.3
+MP:0006205	embryonic lethality between implantation and somite formation	300	55	2.02	5.68	2.6e-07	0.00015	2.34	1.7	3.17
+MP:0011096	embryonic lethality between implantation and somite formation, complete penetrance	271	50	2.03	5.45	7.6e-07	0.00037	2.35	1.68	3.23
+MP:0003492	abnormal involuntary movement	942	128	1.5	5.09	9.3e-07	0.00039	1.68	1.36	2.06
+MP:0013293	embryonic lethality prior to tooth bud stage	788	109	1.52	4.86	2.9e-06	0.00096	1.7	1.36	2.11
+MP:0002152	abnormal brain morphology	1633	198	1.34	4.73	3e-06	0.00096	1.5	1.26	1.78
+MP:0003491	abnormal voluntary movement	1648	199	1.33	4.68	3.7e-06	0.0011	1.49	1.25	1.77
+MP:0000745	tremors	313	53	1.87	4.92	5.3e-06	0.0013	2.11	1.53	2.88
+MP:0001516	abnormal motor coordination/ balance	833	113	1.49	4.73	4.8e-06	0.0013	1.66	1.33	2.06
+MP:0001672	abnormal embryo development	1018	130	1.41	4.35	2e-05	0.0044	1.55	1.26	1.9
+MP:0001392	abnormal locomotor behavior	1537	183	1.31	4.23	2.5e-05	0.0052	1.45	1.21	1.73
+MP:0003313	abnormal locomotor activation	1152	143	1.37	4.22	3.1e-05	0.0061	1.51	1.23	1.83
+MP:0011270	decreased excitatory postsynaptic current amplitude	26	10	4.24	5.22	4.9e-05	0.0085	6.32	2.56	14.9
+MP:0011087	neonatal lethality, complete penetrance	672	91	1.49	4.19	4.8e-05	0.0085	1.64	1.28	2.07
+MP:0002182	abnormal astrocyte morphology	186	34	2.01	4.41	5.5e-05	0.0089	2.29	1.52	3.37
+MP:0001447	abnormal nest building behavior	37	12	3.57	4.96	6.3e-05	0.0097	4.86	2.22	10.1
+MP:0011100	preweaning lethality, complete penetrance	799	104	1.43	4.06	6.9e-05	0.0099	1.57	1.25	1.96
+MP:0002081	perinatal lethality	1327	159	1.32	3.98	7.1e-05	0.0099	1.45	1.2	1.74
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	118	1.39	3.97	8.9e-05	0.012	1.52	1.22	1.87
+MP:0002882	abnormal neuron morphology	1515	177	1.29	3.86	1e-04	0.013	1.41	1.18	1.69
+MP:0003634	abnormal glial cell morphology	409	60	1.62	4.03	0.00011	0.014	1.78	1.32	2.37
+MP:0003312	abnormal locomotor coordination	672	89	1.46	3.91	0.00013	0.015	1.59	1.24	2.02
+MP:0003633	abnormal nervous system physiology	1903	215	1.25	3.79	0.00013	0.015	1.37	1.16	1.62
+MP:0001399	hyperactivity	475	67	1.55	3.92	0.00015	0.016	1.7	1.28	2.23
+MP:0002183	gliosis	206	35	1.87	4	2e-04	0.017	2.1	1.4	3.05
+MP:0001513	limb grasping	246	40	1.79	3.98	0.00019	0.017	1.99	1.37	2.83
+MP:0000952	abnormal CNS glial cell morphology	320	49	1.69	3.95	0.00017	0.017	1.86	1.33	2.56
+MP:0004196	abnormal prenatal growth/weight/body size	1147	138	1.33	3.72	0.00019	0.017	1.44	1.18	1.76
+MP:0012322	decreased total tissue mass	1833	207	1.24	3.69	0.00018	0.017	1.37	1.15	1.62
+MP:0001262	decreased body weight	1833	207	1.24	3.69	0.00018	0.017	1.37	1.15	1.62
+MP:0000774	decreased brain size	281	44	1.73	3.9	0.00022	0.019	1.91	1.34	2.66
+MP:0001961	abnormal reflex	767	98	1.41	3.73	0.00023	0.019	1.53	1.21	1.92
+MP:0011267	abnormal excitatory postsynaptic current amplitude	31	10	3.55	4.5	0.00027	0.021	4.82	2.02	10.7
+MP:0000771	abnormal brain size	343	51	1.64	3.81	0.00026	0.021	1.8	1.3	2.45
+MP:0002058	neonatal lethality	979	120	1.35	3.67	0.00025	0.021	1.47	1.18	1.81
+MP:0001393	ataxia	320	48	1.65	3.76	0.00032	0.024	1.81	1.29	2.5
+MP:0003984	embryonic growth retardation	560	75	1.48	3.67	0.00032	0.024	1.6	1.23	2.07
+MP:0002206	abnormal CNS synaptic transmission	653	85	1.43	3.64	0.00033	0.024	1.56	1.21	1.98
+MP:0010865	prenatal growth retardation	644	83	1.42	3.49	0.00054	0.037	1.54	1.19	1.96
+MP:0000847	abnormal metencephalon morphology	479	65	1.5	3.52	0.00056	0.038	1.62	1.22	2.13
+MP:0000849	abnormal cerebellum morphology	445	61	1.51	3.49	0.00064	0.042	1.64	1.22	2.17
+MP:0005029	abnormal amnion morphology	47	12	2.81	3.94	0.00076	0.049	3.47	1.63	6.88
+MP:0004859	abnormal synaptic plasticity	67	15	2.47	3.81	0.00079	0.049	2.92	1.52	5.3
+MP:0013503	abnormal embryonic tissue cell apoptosis	172	29	1.86	3.59	0.00076	0.049	2.07	1.33	3.12

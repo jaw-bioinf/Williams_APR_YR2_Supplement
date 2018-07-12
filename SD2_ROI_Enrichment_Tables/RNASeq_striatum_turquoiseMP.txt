@@ -1,0 +1,52 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0001614 abnormal blood vessel morphology 1178 378 1.26 5.56 3.1e-08 0.00014 1.45 1.27 1.66
+MP:0000259 abnormal vascular development 528 185 1.37 5.19 3.2e-07 0.00076 1.63 1.34 1.96
+MP:0000272 abnormal aorta morphology 232 92 1.56 5.01 1.1e-06 0.0011 1.96 1.48 2.58
+MP:0006208 lethality throughout fetal growth and development 504 176 1.37 5 8.1e-07 0.0011 1.61 1.33 1.96
+MP:0002925 abnormal cardiovascular development 766 252 1.29 4.91 9.9e-07 0.0011 1.48 1.26 1.74
+MP:0001718 abnormal visceral yolk sac morphology 219 87 1.56 4.89 2e-06 0.0016 1.96 1.47 2.6
+MP:0002060 abnormal skin morphology 922 293 1.25 4.62 3.6e-06 0.0024 1.41 1.22 1.64
+MP:0002128 abnormal blood circulation 719 235 1.28 4.61 4.1e-06 0.0024 1.47 1.24 1.73
+MP:0011109 lethality throughout fetal growth and development, incomplete penetrance 247 94 1.49 4.59 7e-06 0.0034 1.83 1.39 2.39
+MP:0001914 hemorrhage 582 194 1.31 4.49 7.6e-06 0.0034 1.5 1.25 1.8
+MP:0002085 abnormal embryonic tissue morphology 987 309 1.23 4.44 7.9e-06 0.0034 1.38 1.19 1.6
+MP:0001722 pale yolk sac 102 46 1.77 4.57 1.3e-05 0.0035 2.43 1.6 3.66
+MP:0011655 abnormal systemic artery morphology 268 100 1.46 4.51 9.6e-06 0.0035 1.77 1.36 2.3
+MP:0000462 abnormal digestive system morphology 1053 327 1.22 4.4 9e-06 0.0035 1.37 1.19 1.58
+MP:0002108 abnormal muscle morphology 963 301 1.23 4.34 1.2e-05 0.0035 1.38 1.19 1.6
+MP:0002081 perinatal lethality 1327 402 1.19 4.34 1.1e-05 0.0035 1.33 1.16 1.51
+MP:0005381 digestive/alimentary phenotype 1328 402 1.19 4.32 1.2e-05 0.0035 1.32 1.16 1.51
+MP:0002191 abnormal artery morphology 491 166 1.33 4.35 1.5e-05 0.0038 1.53 1.25 1.86
+MP:0003924 diaphragmatic hernia 33 20 2.38 4.64 2e-05 0.005 4.53 2.14 9.92
+MP:0003229 abnormal vitelline vasculature morphology 205 79 1.51 4.34 2.2e-05 0.0052 1.86 1.38 2.5
+MP:0010468 abnormal thoracic aorta morphology 139 57 1.61 4.23 4e-05 0.0089 2.06 1.44 2.93
+MP:0010771 integument phenotype 1829 533 1.14 4 4.2e-05 0.009 1.26 1.12 1.42
+MP:0000285 abnormal heart valve morphology 157 62 1.55 4.06 7.1e-05 0.015 1.93 1.37 2.7
+MP:0009931 abnormal skin appearance 501 165 1.29 3.93 7.6e-05 0.015 1.47 1.2 1.79
+MP:0000260 abnormal angiogenesis 375 128 1.34 3.92 8.7e-05 0.016 1.54 1.23 1.93
+MP:0005274 abnormal viscerocranium morphology 501 164 1.28 3.83 0.00011 0.02 1.45 1.19 1.77
+MP:0002127 abnormal cardiovascular system morphology 1950 561 1.13 3.74 0.00012 0.02 1.24 1.1 1.38
+MP:0001544 abnormal cardiovascular system physiology 1571 459 1.15 3.72 0.00013 0.022 1.26 1.11 1.42
+MP:0002279 abnormal diaphragm morphology 93 40 1.69 3.9 0.00016 0.026 2.23 1.44 3.43
+MP:0005606 increased bleeding time 90 39 1.7 3.9 0.00016 0.026 2.26 1.44 3.5
+MP:0009869 abnormal descending aorta morphology 20 13 2.55 4.06 0.00022 0.032 5.45 2.02 16.2
+MP:0009873 abnormal aorta tunica media morphology 48 24 1.96 3.91 0.00022 0.032 2.94 1.6 5.42
+MP:0005076 abnormal cell differentiation 712 222 1.22 3.63 0.00022 0.032 1.36 1.15 1.61
+MP:0000565 oligodactyly 71 32 1.77 3.8 0.00026 0.033 2.42 1.46 3.97
+MP:0002110 abnormal digit morphology 322 110 1.34 3.64 0.00026 0.033 1.54 1.21 1.96
+MP:0000759 abnormal skeletal muscle morphology 445 146 1.29 3.63 0.00024 0.033 1.46 1.18 1.79
+MP:0011099 lethality throughout fetal growth and development, complete penetrance 326 111 1.34 3.61 0.00028 0.033 1.53 1.2 1.95
+MP:0014134 abnormal embryo morphology 1333 392 1.15 3.55 0.00026 0.033 1.26 1.11 1.44
+MP:0002429 abnormal blood cell morphology/development 1106 330 1.17 3.54 0.00028 0.033 1.28 1.11 1.48
+MP:0006207 embryonic lethality during organogenesis 942 285 1.19 3.54 0.00028 0.033 1.3 1.12 1.52
+MP:0004158 right aortic arch 60 28 1.83 3.78 3e-04 0.034 2.58 1.49 4.43
+MP:0002058 neonatal lethality 979 295 1.18 3.53 0.00029 0.034 1.3 1.12 1.5
+MP:0004022 abnormal cone electrophysiology 84 36 1.68 3.67 0.00037 0.039 2.21 1.39 3.49
+MP:0000454 abnormal jaw morphology 442 144 1.28 3.51 0.00037 0.039 1.44 1.16 1.77
+MP:0011085 postnatal lethality, complete penetrance 650 203 1.23 3.48 0.00037 0.039 1.36 1.14 1.62
+MP:0011098 embryonic lethality during organogenesis, complete penetrance 751 231 1.21 3.46 0.00039 0.04 1.33 1.13 1.57
+MP:0009655 abnormal secondary palate development 118 47 1.56 3.6 0.00041 0.041 1.95 1.32 2.87
+MP:0000109 abnormal parietal bone morphology 64 29 1.78 3.65 0.00044 0.043 2.44 1.44 4.12
+MP:0003410 abnormal artery development 144 55 1.5 3.53 0.00048 0.046 1.83 1.28 2.59
+MP:0001634 internal hemorrhage 324 109 1.32 3.43 0.00052 0.049 1.51 1.18 1.91
+MP:0002249 abnormal larynx morphology 42 21 1.96 3.65 0.00054 0.05 2.94 1.52 5.67

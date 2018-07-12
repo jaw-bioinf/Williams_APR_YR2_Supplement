@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000841	abnormal hindbrain morphology	535	53	1.86	4.86	7e-06	0.018	2.07	1.5	2.8
+MP:0004097	abnormal cerebellar cortex morphology	353	38	2.02	4.64	2.5e-05	0.019	2.24	1.54	3.19
+MP:0000849	abnormal cerebellum morphology	445	45	1.9	4.61	2.2e-05	0.019	2.1	1.49	2.91
+MP:0000847	abnormal metencephalon morphology	479	47	1.84	4.49	3.1e-05	0.019	2.03	1.45	2.8
+MP:0000866	cerebellum vermis hypoplasia	15	6	7.51	5.99	7.3e-05	0.026	12	3.49	37.8
+MP:0001322	abnormal iris morphology	123	18	2.75	4.63	8.3e-05	0.026	3.13	1.77	5.24
+MP:0009956	abnormal cerebellar layer morphology	314	34	2.03	4.42	5.9e-05	0.026	2.24	1.51	3.26
+MP:0001303	abnormal lens morphology	304	33	2.04	4.37	7.2e-05	0.026	2.25	1.5	3.28
+MP:0009964	abnormal cerebellum lobule morphology	114	17	2.8	4.59	1e-04	0.029	3.19	1.77	5.43
+MP:0000889	abnormal cerebellar molecular layer	74	13	3.3	4.71	0.00012	0.031	3.86	1.93	7.17
+MP:0013306	abnormal tela choroidea morphology	59	11	3.5	4.57	0.00024	0.046	4.14	1.93	8.16
+MP:0000820	abnormal choroid plexus morphology	59	11	3.5	4.57	0.00024	0.046	4.14	1.93	8.16
+MP:0005545	abnormal lens development	78	13	3.13	4.48	0.00022	0.046	3.62	1.82	6.7
+MP:0005194	abnormal anterior uvea morphology	134	18	2.52	4.21	0.00025	0.046	2.83	1.6	4.71

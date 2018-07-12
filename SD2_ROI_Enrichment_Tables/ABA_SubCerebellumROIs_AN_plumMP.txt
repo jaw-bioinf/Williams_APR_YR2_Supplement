@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005201	abnormal retinal pigment epithelium morphology	174	3	10	4.98	0.003	0.043	12.3	2.22	45.2
+MP:0001399	hyperactivity	475	5	6.1	4.75	0.00094	0.043	8.5	2.31	26.7
+MP:0009538	abnormal synapse morphology	189	3	9.21	4.74	0.0038	0.043	11.3	2.04	41.4
+MP:0001324	abnormal eye pigmentation	204	3	8.53	4.52	0.0047	0.043	10.4	1.89	38.2
+MP:0009389	abnormal extracutaneous pigmentation	211	3	8.25	4.42	0.0052	0.043	10	1.82	36.9
+MP:0001408	stereotypic behavior	211	3	8.25	4.42	0.0052	0.043	10	1.82	36.9

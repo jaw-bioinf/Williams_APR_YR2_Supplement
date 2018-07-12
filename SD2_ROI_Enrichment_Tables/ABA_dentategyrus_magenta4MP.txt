@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0012322	decreased total tissue mass	1833	12	2.64	3.91	0.00052	0.049	4.45	1.8	11.2
+MP:0001262	decreased body weight	1833	12	2.64	3.91	0.00052	0.049	4.45	1.8	11.2

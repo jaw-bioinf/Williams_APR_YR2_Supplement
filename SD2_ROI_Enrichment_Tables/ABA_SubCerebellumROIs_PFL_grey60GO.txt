@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00757	2	3	1	0.333	0.5	CORUM:3114	cor	7	Itgax-Itgb2-Icam4 complex	1	ITGAX
+2	1	TRUE	0.00757	2	3	1	0.333	0.5	CORUM:5627	cor	1	Cdh23-Myo1c complex	1	CDH23
+3	1	TRUE	0.00757	2	3	1	0.333	0.5	CORUM:3558	cor	8	Fgf2-Ck2 complex	1	FGF2
+4	1	TRUE	0.00757	2	3	1	0.333	0.5	CORUM:3563	cor	5	Fgf2-Rsk2 complex	1	FGF2
+5	1	TRUE	0.00757	2	3	1	0.333	0.5	CORUM:3559	cor	6	Fgf2-Ck2 complex	1	FGF2
+6	1	TRUE	0.00757	1	3	1	0.333	1	CORUM:37	cor	4	Harmonin-CAD23 complex	1	CDH23
+7	1	TRUE	0.00211	5	86	3	0.035	0.6	REAC:R-MMU-433137	rea	3	Sodium-coupled sulphate, di- and tri-carboxylate transporters	1	SLC13A2,SLC13A3,SLC13A4

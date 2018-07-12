@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0173	3	3	1	0.333	0.333	CORUM:6696	cor	6	CPLANE complex	1	WDPCP
+2	1	TRUE	0.0173	2	3	1	0.333	0.5	CORUM:5706	cor	2	Cdc2-Ccnb1 complex	1	CCNB1
+3	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:47	cor	7	DNA polymerase alpha-primase complex	1	POLA1
+4	1	TRUE	0.0173	2	3	1	0.333	0.5	CORUM:1109	cor	5	DNA polymerase alpha	1	POLA1
+5	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:1110	cor	1	DNA polymerase alpha-primase complex	1	POLA1
+6	1	TRUE	0.0404	11	3	1	0.333	0.091	CORUM:1001	cor	3	DNA synthesome complex	1	POLA1
+7	1	TRUE	0.0173	2	3	1	0.333	0.5	CORUM:5547	cor	4	Cdc2-Ccnb1 complex	1	CCNB1

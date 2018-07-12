@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002750	exophthalmos	20	3	53.5	12.5	2.2e-05	0.0033	70.3	12.4	270
+MP:0006006	increased sensory neuron number	61	3	17.6	6.87	0.00063	0.049	20.6	3.86	71.2

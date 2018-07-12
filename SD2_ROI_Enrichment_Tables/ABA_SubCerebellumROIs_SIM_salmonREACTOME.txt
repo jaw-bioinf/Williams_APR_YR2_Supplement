@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-438064	Post NMDA receptor activation events	37	5	7.01	5.14	0.00067	0.033	8.13	2.45	21.3
+R-HSA-1592230	Mitochondrial biogenesis	68	7	5.34	5.03	0.00032	0.033	6.02	2.29	13.4
+R-HSA-112315	Transmission across Chemical Synapses	224	13	3.01	4.27	0.00039	0.033	3.29	1.69	5.89
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	10	3.37	4.15	0.00078	0.033	3.67	1.7	7.1
+R-HSA-112316	Neuronal System	356	17	2.48	3.98	0.00051	0.033	2.7	1.52	4.51
+R-HSA-442755	Activation of NMDA receptor and postsynaptic events	41	5	6.33	4.79	0.0011	0.038	7.22	2.19	18.7

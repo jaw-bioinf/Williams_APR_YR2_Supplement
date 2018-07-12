@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04060	Cytokine-cytokine receptor interaction	270	104	1.68	6.25	2.7e-09	7.4e-07	2.19	1.69	2.84
+path:hsa04610	Complement and coagulation cascades	79	35	1.94	4.56	1.8e-05	0.0025	2.72	1.69	4.36
+path:hsa04630	Jak-STAT signaling pathway	156	58	1.63	4.3	3.2e-05	0.0029	2.03	1.44	2.86
+path:hsa04392	Hippo signaling pathway -multiple species	28	15	2.34	3.87	4e-04	0.027	3.92	1.73	8.97
+path:hsa00260	Glycine, serine and threonine metabolism	40	19	2.08	3.72	0.00052	0.028	3.08	1.56	6.03

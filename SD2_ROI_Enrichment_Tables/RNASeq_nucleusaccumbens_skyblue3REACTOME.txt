@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-6791226 Major pathway of rRNA processing in the nucleolus and cytosol 182 6 7.5 5.88 0.00013 0.0016 8.78 2.99 21.3
+R-HSA-8868773 rRNA processing in the nucleus and cytosol 191 6 7.15 5.7 0.00017 0.0016 8.35 2.85 20.2
+R-HSA-72312 rRNA processing 201 6 6.79 5.51 0.00023 0.0016 7.91 2.7 19.2
+R-HSA-8953854 Metabolism of RNA 646 9 3.17 3.79 0.0017 0.0089 3.77 1.58 8.04
+R-HSA-8957275 Post-translational protein phosphorylation 108 3 6.32 3.69 0.012 0.049 6.87 1.34 22.1

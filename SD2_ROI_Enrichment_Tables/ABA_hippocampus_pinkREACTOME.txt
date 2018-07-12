@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-73929	Base-Excision Repair, AP Site Formation	10	3	21.5	7.71	3e-04	0.026	30.8	5.09	137
+R-HSA-1474244	Extracellular matrix organization	278	12	3.09	4.2	0.00051	0.026	3.39	1.68	6.22
+R-HSA-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	17	3	12.6	5.71	0.0016	0.027	15.4	2.81	56
+R-HSA-450513	Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	17	3	12.6	5.71	0.0016	0.027	15.4	2.81	56
+R-HSA-216083	Integrin cell surface interactions	81	6	5.3	4.62	0.00092	0.027	5.85	2.04	13.7
+R-HSA-73894	DNA Repair	315	12	2.72	3.7	0.0015	0.027	2.96	1.47	5.43

@@ -1,0 +1,27 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-8866907 Activation of the TFAP2 (AP-2) family of transcription factors 12 3 20.7 7.55 0.00035 0.028 27.9 4.79 113
+R-HSA-421270 Cell-cell junction organization 43 4 7.7 4.87 0.0017 0.028 8.63 2.2 24.5
+R-HSA-1500931 Cell-Cell communication 92 6 5.4 4.69 0.00084 0.028 5.95 2.08 13.9
+R-HSA-380259 Loss of Nlp from mitotic centrosomes 69 5 6 4.61 0.0014 0.028 6.62 2.04 16.7
+R-HSA-380284 Loss of proteins required for interphase microtubule organization from the centrosome 69 5 6 4.61 0.0014 0.028 6.62 2.04 16.7
+R-HSA-446728 Cell junction organization 70 5 5.91 4.56 0.0015 0.028 6.51 2.01 16.4
+R-HSA-8854518 AURKA Activation by TPX2 72 5 5.75 4.47 0.0017 0.028 6.32 1.95 15.9
+R-HSA-68877 Mitotic Prometaphase 199 9 3.74 4.32 0.00067 0.028 4.1 1.8 8.23
+R-HSA-380270 Recruitment of mitotic centrosome proteins and complexes 80 5 5.17 4.14 0.0028 0.035 5.64 1.75 14.1
+R-HSA-380287 Centrosome maturation 80 5 5.17 4.14 0.0028 0.035 5.64 1.75 14.1
+R-HSA-375170 CDO in myogenesis 27 3 9.19 4.72 0.0041 0.04 10.4 1.99 35.1
+R-HSA-525793 Myogenesis 27 3 9.19 4.72 0.0041 0.04 10.4 1.99 35.1
+R-HSA-2565942 Regulation of PLK1 Activity at G2/M Transition 87 5 4.76 3.89 0.004 0.04 5.16 1.6 12.9
+R-HSA-186763 Downstream signal transduction 29 3 8.56 4.51 0.005 0.041 9.64 1.84 32.1
+R-HSA-4641262 Disassembly of the destruction complex and recruitment of AXIN to the membrane 30 3 8.28 4.41 0.0055 0.041 9.28 1.78 30.8
+R-HSA-380320 Recruitment of NuMA to mitotic centrosomes 93 5 4.45 3.7 0.0053 0.041 4.8 1.49 12
+R-HSA-4420097 VEGFA-VEGFR2 Pathway 95 5 4.36 3.63 0.0058 0.041 4.69 1.46 11.7
+R-HSA-195721 Signaling by WNT 314 10 2.64 3.26 0.0047 0.041 2.84 1.31 5.49
+R-HSA-5620912 Anchoring of the basal body to the plasma membrane 97 5 4.27 3.57 0.0063 0.042 4.59 1.43 11.4
+R-HSA-72163 mRNA Splicing - Major Pathway 183 7 3.17 3.27 0.0067 0.042 3.39 1.31 7.36
+R-HSA-418990 Adherens junctions interactions 33 3 7.52 4.15 0.0072 0.044 8.35 1.61 27.4
+R-HSA-4791275 Signaling by WNT in cancer 34 3 7.3 4.07 0.0078 0.044 8.08 1.56 26.5
+R-HSA-194138 Signaling by VEGF 103 5 4.02 3.4 0.0081 0.044 4.31 1.34 10.7
+R-HSA-72172 mRNA Splicing 191 7 3.03 3.14 0.0084 0.044 3.24 1.26 7.03
+R-HSA-452723 Transcriptional regulation of pluripotent stem cells 36 3 6.9 3.92 0.0092 0.047 7.59 1.47 24.7
+R-HSA-8864260 Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors 37 3 6.71 3.85 0.0099 0.048 7.37 1.43 23.9

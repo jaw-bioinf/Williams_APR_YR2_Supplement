@@ -1,0 +1,35 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	44	2.43	6.41	2.5e-08	3.5e-05	2.85	1.99	4.01
+MP:0003635	abnormal synaptic transmission	740	46	2.24	5.96	1.3e-07	9.1e-05	2.62	1.84	3.65
+MP:0001399	hyperactivity	475	34	2.58	5.98	2.9e-07	0.00014	2.97	1.98	4.33
+MP:0004769	abnormal synaptic vesicle morphology	60	11	6.62	7.37	6.1e-07	0.00017	8.18	3.79	16.2
+MP:0002915	abnormal synaptic depression	129	16	4.48	6.71	4.9e-07	0.00017	5.23	2.85	9.04
+MP:0002207	abnormal long term potentiation	237	21	3.2	5.79	2.4e-06	0.00056	3.63	2.16	5.81
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	13	4.51	6.08	5.4e-06	0.00092	5.23	2.64	9.56
+MP:0002910	abnormal excitatory postsynaptic currents	139	15	3.9	5.81	6.5e-06	0.00092	4.45	2.38	7.76
+MP:0001473	reduced long term potentiation	156	16	3.7	5.75	6.2e-06	0.00092	4.21	2.31	7.22
+MP:0002062	abnormal associative learning	290	23	2.86	5.44	5.2e-06	0.00092	3.22	1.97	5.06
+MP:0004792	abnormal synaptic vesicle number	53	9	6.13	6.32	1.3e-05	0.0013	7.4	3.14	15.6
+MP:0004859	abnormal synaptic plasticity	67	10	5.39	6.08	1.4e-05	0.0013	6.36	2.86	12.8
+MP:0008076	abnormal CD4-positive T cell differentiation	95	12	4.56	5.89	1.1e-05	0.0013	5.27	2.58	9.87
+MP:0002063	abnormal learning/memory/conditioning	664	38	2.07	4.81	1.3e-05	0.0013	2.33	1.59	3.33
+MP:0014114	abnormal cognition	665	38	2.06	4.8	1.4e-05	0.0013	2.32	1.59	3.33
+MP:0009538	abnormal synapse morphology	189	17	3.25	5.27	1.8e-05	0.0016	3.64	2.04	6.13
+MP:0002065	abnormal fear/anxiety-related behavior	369	25	2.45	4.78	3.1e-05	0.0026	2.72	1.7	4.18
+MP:0001900	impaired synaptic plasticity	47	8	6.15	5.97	3.8e-05	0.0029	7.39	2.95	16.3
+MP:0002572	abnormal emotion/affect behavior	619	35	2.04	4.53	3.9e-05	0.0029	2.28	1.53	3.3
+MP:0002917	decreased synaptic depression	17	5	10.6	6.7	7.4e-05	0.0052	14.9	4.08	45.9
+MP:0003989	abnormal barrel cortex morphology	18	5	10	6.47	1e-04	0.0067	13.7	3.8	41.5
+MP:0000794	abnormal parietal lobe morphology	41	7	6.16	5.59	0.00012	0.0074	7.4	2.74	17.2
+MP:0000860	abnormal primary somatosensory cortex morphology	19	5	9.5	6.26	0.00013	0.0081	12.8	3.57	37.8
+MP:0003633	abnormal nervous system physiology	1903	77	1.46	3.81	0.00018	0.01	1.69	1.27	2.23
+MP:0000859	abnormal somatosensory cortex morphology	34	6	6.37	5.3	3e-04	0.017	7.68	2.57	19.1
+MP:0001454	abnormal cued conditioning behavior	115	11	3.45	4.47	0.00033	0.017	3.83	1.83	7.27
+MP:0001468	abnormal temporal memory	173	14	2.92	4.31	0.00031	0.017	3.21	1.69	5.65
+MP:0003416	premature bone ossification	26	5	6.94	5.12	0.00064	0.031	8.5	2.48	23.4
+MP:0001469	abnormal contextual conditioning behavior	144	12	3.01	4.1	0.00064	0.031	3.3	1.64	6.06
+MP:0008540	abnormal cerebral hemisphere morphology	609	31	1.84	3.61	0.00071	0.033	2	1.32	2.96
+MP:0009237	kinked sperm flagellum	27	5	6.69	4.99	0.00077	0.035	8.11	2.38	22.2
+MP:0002912	abnormal excitatory postsynaptic potential	108	10	3.34	4.13	8e-04	0.035	3.69	1.69	7.18
+MP:0001362	abnormal anxiety-related response	332	20	2.18	3.68	9e-04	0.038	2.36	1.39	3.78
+MP:0002919	enhanced paired-pulse facilitation	42	6	5.16	4.56	0.00097	0.04	5.96	2.04	14.5

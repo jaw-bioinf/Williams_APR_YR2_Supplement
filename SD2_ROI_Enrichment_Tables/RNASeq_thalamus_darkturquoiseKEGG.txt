@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa05032 Morphine addiction 91 6 5.62 4.83 0.00065 0.011 6.35 2.2 15.1
+path:hsa04080 Neuroactive ligand-receptor interaction 277 11 3.38 4.41 0.00035 0.011 3.89 1.83 7.52
+path:hsa04723 Retrograde endocannabinoid signaling 148 7 4.03 4.06 0.0017 0.019 4.49 1.71 9.98
+path:hsa04727 GABAergic synapse 88 5 4.84 3.95 0.0036 0.031 5.35 1.64 13.6
+path:hsa04713 Circadian entrainment 96 5 4.44 3.7 0.0052 0.035 4.87 1.5 12.3
+path:hsa05016 Huntington's disease 193 7 3.09 3.21 0.0073 0.041 3.38 1.29 7.47

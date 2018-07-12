@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6794362	Protein-protein interactions at synapses	70	8	5.9	5.78	5.8e-05	0.0065	6.77	2.76	14.5
+R-HSA-5576891	Cardiac conduction	139	11	4.08	5.15	7.8e-05	0.0065	4.55	2.18	8.61
+R-HSA-397014	Muscle contraction	201	13	3.34	4.71	0.00014	0.0078	3.68	1.89	6.6
+R-HSA-8934593	Regulation of RUNX1 Expression and Activity	17	4	12.1	6.46	0.00027	0.0088	15.9	3.73	51.9
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	6	6.73	5.48	0.00024	0.0088	7.8	2.67	18.8
+R-HSA-112316	Neuronal System	356	17	2.46	3.96	0.00054	0.015	2.69	1.51	4.49
+R-HSA-4641265	Repression of WNT target genes	11	3	14.1	6.1	0.0011	0.023	19.2	3.26	80.9
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	42	5	6.14	4.7	0.0012	0.023	6.99	2.12	18.1
+R-HSA-8878159	Transcriptional regulation by RUNX3	108	8	3.82	4.15	0.0012	0.023	4.18	1.73	8.72
+R-HSA-422356	Regulation of insulin secretion	66	6	4.69	4.23	0.0017	0.028	5.19	1.81	12.2
+R-HSA-8941856	RUNX3 regulates NOTCH signaling	14	3	11.1	5.29	0.0022	0.033	14	2.49	53.5

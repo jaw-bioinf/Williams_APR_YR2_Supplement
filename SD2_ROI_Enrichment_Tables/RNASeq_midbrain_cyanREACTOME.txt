@@ -1,0 +1,8 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-3906995 Diseases associated with O-glycosylation of proteins 66 8 7.63 6.87 8.9e-06 0.00059 8.94 3.62 19.3
+R-HSA-5173105 O-linked glycosylation 112 10 5.62 6.25 1.1e-05 0.00059 6.41 2.93 12.6
+R-HSA-5083635 Defective B3GALTL causes Peters-plus syndrome (PpS) 37 5 8.51 5.81 0.00027 0.0068 9.96 2.99 26.2
+R-HSA-5173214 O-glycosylation of TSR domain-containing proteins 38 5 8.29 5.72 0.00031 0.0068 9.65 2.9 25.4
+R-HSA-3781865 Diseases of glycosylation 135 9 4.2 4.75 0.00029 0.0068 4.63 2.03 9.31
+R-HSA-3000170 Syndecan interactions 16 3 11.8 5.5 0.0019 0.034 14.5 2.63 53.6
+R-HSA-3000171 Non-integrin membrane-ECM interactions 38 4 6.63 4.42 0.003 0.046 7.45 1.9 21.3

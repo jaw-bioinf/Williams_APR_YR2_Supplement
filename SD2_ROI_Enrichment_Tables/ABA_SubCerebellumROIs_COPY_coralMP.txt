@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0011346	renal tubule atrophy	33	3	31.2	9.4	0.00011	0.027	38.3	7.01	137
+MP:0012106	impaired exercise endurance	55	3	18.7	7.13	0.00052	0.033	22.1	4.13	76.2
+MP:0003215	renal interstitial fibrosis	58	3	17.8	6.92	0.00061	0.033	20.9	3.91	71.7
+MP:0002899	fatigue	64	3	16.1	6.55	0.00081	0.033	18.8	3.53	64.4
+MP:0011425	abnormal kidney interstitium morphology	64	3	16.1	6.55	0.00081	0.033	18.8	3.53	64.4
+MP:0004970	kidney atrophy	66	3	15.6	6.44	0.00089	0.033	18.2	3.42	62.2
+MP:0002332	abnormal exercise endurance	68	3	15.2	6.33	0.00097	0.033	17.6	3.32	60.4

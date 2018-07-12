@@ -1,0 +1,29 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009754	enhanced behavioral response to cocaine	24	3	61	13.3	1.4e-05	0.00071	82	14.3	320
+MP:0009746	enhanced behavioral response to xenobiotic	77	4	25.4	9.73	1.5e-05	0.00071	33.5	7.9	108
+MP:0020158	abnormal behavioral response to cocaine	36	3	40.7	10.8	5e-05	0.0015	52.2	9.31	195
+MP:0009749	enhanced behavioral response to addictive substance	50	3	29.3	9.09	0.00013	0.0026	36.6	6.62	134
+MP:0005599	increased cardiac muscle contractility	51	3	28.7	8.99	0.00014	0.0026	35.9	6.49	132
+MP:0009745	abnormal behavioral response to xenobiotic	295	5	8.28	5.75	0.00025	0.0039	11	3.09	32.7
+MP:0005407	hyperalgesia	67	3	21.9	7.76	0.00032	0.0042	26.9	4.9	97.3
+MP:0003871	abnormal myelin sheath morphology	82	3	17.9	6.95	0.00058	0.0064	21.8	3.98	78.3
+MP:0000920	abnormal myelination	200	4	9.77	5.68	0.00063	0.0064	12.3	2.95	39.1
+MP:0000921	demyelination	101	3	14.5	6.18	0.0011	0.0089	17.5	3.22	62.5
+MP:0009748	abnormal behavioral response to addictive substance	101	3	14.5	6.18	0.0011	0.0089	17.5	3.22	62.5
+MP:0001486	abnormal startle reflex	259	4	7.54	4.84	0.0017	0.013	9.41	2.26	29.8
+MP:0001399	hyperactivity	475	5	5.14	4.2	0.0022	0.014	6.68	1.87	19.7
+MP:0002106	abnormal muscle physiology	954	7	3.58	3.82	0.002	0.014	5.12	1.7	14.1
+MP:0005333	decreased heart rate	141	3	10.4	5.09	0.0028	0.016	12.4	2.29	44
+MP:0001968	abnormal touch/ nociception	299	4	6.53	4.41	0.0028	0.016	8.1	1.94	25.6
+MP:0001362	abnormal anxiety-related response	332	4	5.88	4.1	0.0041	0.022	7.26	1.74	22.9
+MP:0003088	abnormal prepulse inhibition	186	3	7.88	4.29	0.0061	0.029	9.29	1.72	32.9
+MP:0002065	abnormal fear/anxiety-related behavior	369	4	5.29	3.81	0.0059	0.029	6.5	1.56	20.5
+MP:0002572	abnormal emotion/affect behavior	619	5	3.94	3.44	0.0069	0.032	5.03	1.41	14.8
+MP:0001663	abnormal digestive system physiology	635	5	3.85	3.36	0.0077	0.034	4.89	1.37	14.4
+MP:0005404	abnormal axon morphology	219	3	6.69	3.86	0.0095	0.037	7.85	1.45	27.7
+MP:0008415	abnormal neurite morphology	423	4	4.62	3.45	0.0096	0.037	5.62	1.35	17.8
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	6	3.13	3.11	0.0089	0.037	4.13	1.28	11.7
+MP:0001629	abnormal heart rate	229	3	6.4	3.75	0.011	0.04	7.49	1.39	26.4
+MP:0001970	abnormal pain threshold	241	3	6.08	3.62	0.012	0.043	7.1	1.32	25
+MP:0000230	abnormal systemic arterial blood pressure	243	3	6.03	3.6	0.013	0.043	7.04	1.31	24.8
+MP:0003635	abnormal synaptic transmission	740	5	3.3	2.95	0.014	0.047	4.14	1.16	12.2

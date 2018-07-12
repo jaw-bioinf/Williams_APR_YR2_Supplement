@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-446203	Asparagine N-linked glycosylation	299	15	3.18	4.84	7.4e-05	0.0097	3.53	1.9	6.13
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	10	3.41	4.2	0.00071	0.047	3.72	1.72	7.19

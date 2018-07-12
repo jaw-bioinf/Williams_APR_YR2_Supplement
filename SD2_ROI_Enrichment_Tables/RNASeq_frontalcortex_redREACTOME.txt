@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6805567	Keratinization	212	7	10.3	7.78	3.7e-06	6.3e-05	13.3	4.82	32.2
+R-HSA-1266738	Developmental Biology	659	7	3.32	3.49	0.0041	0.035	4.01	1.46	9.57
+R-HSA-6809371	Formation of the cornified envelope	128	3	7.33	4.08	0.0077	0.042	8.15	1.57	26.8
+R-HSA-500792	GPCR ligand binding	419	5	3.73	3.24	0.0099	0.042	4.28	1.28	11.3

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1307	dementia	144	9	4.21	4.78	0.00027	0.023	4.74	2.06	9.66
+DOID:2320	obstructive lung disease	205	11	3.61	4.66	0.00021	0.023	4.09	1.94	7.81
+DOID:3083	chronic obstructive pulmonary disease	205	11	3.61	4.66	0.00021	0.023	4.09	1.94	7.81

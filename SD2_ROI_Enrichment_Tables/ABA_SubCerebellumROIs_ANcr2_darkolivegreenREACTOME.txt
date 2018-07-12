@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-140837	Intrinsic Pathway of Fibrin Clot Formation	22	3	35	9.99	8e-05	0.0023	43.5	7.9	158
+R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	39	3	19.7	7.34	0.00045	0.0066	22.9	4.33	78.2
+R-HSA-216083	Integrin cell surface interactions	81	3	9.51	4.81	0.0038	0.028	10.6	2.04	34.6
+R-HSA-76002	Platelet activation, signaling and aggregation	271	5	4.74	3.9	0.0038	0.028	5.36	1.63	13.9

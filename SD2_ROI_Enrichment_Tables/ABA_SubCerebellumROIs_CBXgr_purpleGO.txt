@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	2	4	1	0.25	0.5	CORUM:6327	cor	8	Dystrophin complex (Dmd; Stnb1)	1	SNTB1
+2	1	TRUE	0.0433	9	4	1	0.25	0.111	CORUM:413	cor	9	(ER)-localized multiprotein complex, Ig heavy chains associated	1	CABP1
+3	1	TRUE	0.0259	1	4	1	0.25	1	CORUM:6328	cor	5	Utrophin complex (Utrn, Stnb1)	1	SNTB1
+4	1	TRUE	0.0433	8	4	1	0.25	0.125	CORUM:414	cor	3	(ER)-localized multiprotein complex, in absence of Ig heavy chains	1	CABP1
+5	1	TRUE	0.0259	2	4	1	0.25	0.5	CORUM:948	cor	4	Kif17-Lin10 complex	1	KIF17
+6	1	TRUE	0.031	4	4	1	0.25	0.25	CORUM:5310	cor	2	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3D
+7	1	TRUE	0.031	4	4	1	0.25	0.25	CORUM:3119	cor	7	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	KIF17
+8	1	TRUE	0.0433	7	4	1	0.25	0.143	CORUM:349	cor	6	Sarcoglycan-sarcospan-syntrophin-dystrobrevin complex	1	SNTB1
+9	1	TRUE	0.0261	47	94	5	0.053	0.106	REAC:R-MMU-420499	rea	10	Class C/3 (Metabotropic glutamate/pheromone receptors)	1	GPRC6A,CASR,TAS2R131,TAS2R106,TAS2R109

@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00973	3	2	1	0.5	0.333	CORUM:973	cor	5	Sec61alpha-CollagenIV-Hsp47 complex	1	COL4A1
+2	1	TRUE	0.00973	3	2	1	0.5	0.333	CORUM:239	cor	2	Sin3-Hdac1-Sds3 complex	1	SUDS3
+3	1	TRUE	0.0477	195	10	5	0.5	0.026	HP:0000107	hp	1	Renal cyst	1	PUF60,FLNB,IFT80,COL4A1,IFT172
+4	1	TRUE	0.0477	353	10	6	0.6	0.017	HP:0011927	hp	3	Short digit	1	PUF60,FLNB,IFT80,SNX14,IFT172,MEGF8

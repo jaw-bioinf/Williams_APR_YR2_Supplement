@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003635	abnormal synaptic transmission	740	50	2.06	5.52	6.2e-07	0.00094	2.35	1.69	3.23
+MP:0002206	abnormal CNS synaptic transmission	653	45	2.1	5.36	1.4e-06	0.0011	2.38	1.68	3.32
+MP:0002915	abnormal synaptic depression	129	15	3.54	5.35	2e-05	0.01	4.02	2.15	7.02
+MP:0011267	abnormal excitatory postsynaptic current amplitude	31	7	6.87	6.03	5.2e-05	0.018	8.75	3.16	21.2
+MP:0004859	abnormal synaptic plasticity	67	10	4.54	5.36	6e-05	0.018	5.3	2.39	10.6
+MP:0002945	abnormal inhibitory postsynaptic currents	87	11	3.85	4.92	0.00012	0.031	4.38	2.08	8.4
+MP:0011270	decreased excitatory postsynaptic current amplitude	26	6	7.02	5.67	0.00016	0.034	8.98	2.93	23.4
+MP:0002910	abnormal excitatory postsynaptic currents	139	14	3.06	4.52	0.00018	0.035	3.4	1.79	6.02

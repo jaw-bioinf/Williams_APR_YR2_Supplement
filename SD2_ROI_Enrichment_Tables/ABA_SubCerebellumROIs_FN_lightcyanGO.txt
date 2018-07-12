@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0108	3	2	1	0.5	0.333	CORUM:1066	cor	5	mPar6c-Mlgl-aPKCz complex	1	LLGL1
+2	1	TRUE	0.0216	8	2	1	0.5	0.125	CORUM:24	cor	3	BLOC-1 (biogenesis of lysosome-related organelles complex 1)	1	BLOC1S1
+3	1	TRUE	0.0108	1	2	1	0.5	1	CORUM:951	cor	4	Fmrp-Lgl complex	1	LLGL1
+4	1	TRUE	0.0108	3	2	1	0.5	0.333	CORUM:965	cor	6	mPar6c-Mlgl-aPKC complex	1	LLGL1
+5	1	TRUE	0.0397	49	6	3	0.5	0.061	HP:0000085	hp	1	Horseshoe kidney	1	FANCC,KRAS,COLEC11
+6	1	TRUE	0.0158	11	65	3	0.046	0.273	TF:M02024_1	tf	7	Factor: mef-2A; motif: KNTWWAAATA; match class: 1	1	KLHL30,WDR64,4933405O20RIK

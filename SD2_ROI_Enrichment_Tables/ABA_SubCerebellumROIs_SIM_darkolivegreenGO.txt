@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	2	7	1	0.143	0.5	CORUM:3559	cor	8	Fgf2-Ck2 complex	1	CSNK2B
+2	1	TRUE	0.0259	1	7	1	0.143	1	CORUM:970	cor	3	Rab11Fip2-Ap2a complex	1	AP2A1
+3	1	TRUE	0.0259	2	7	1	0.143	0.5	CORUM:3558	cor	9	Fgf2-Ck2 complex	1	CSNK2B
+4	1	TRUE	0.00609	7	7	2	0.286	0.286	CORUM:5936	cor	4	Ksr1-CK2-MEK-14-3-3 complex, PDGF treated	1	CSNK2B,CSNK2A1
+5	1	TRUE	0.0259	2	7	1	0.143	0.5	CORUM:50	cor	7	Rab5 GDP/GTP exchange factor complex	1	RABGEF1
+6	1	TRUE	0.0301	3	7	1	0.143	0.333	CORUM:973	cor	6	Sec61alpha-CollagenIV-Hsp47 complex	1	SEC61A1
+7	1	TRUE	0.00585	5	7	2	0.286	0.4	CORUM:5910	cor	5	Ksr1-CK2 complex	1	CSNK2B,CSNK2A1
+8	1	TRUE	0.0301	3	7	1	0.143	0.333	CORUM:454	cor	1	MKP3-CK2alpha complex	1	CSNK2A1
+9	1	TRUE	0.0259	2	7	1	0.143	0.5	CORUM:5627	cor	2	Cdh23-Myo1c complex	1	MYO1C

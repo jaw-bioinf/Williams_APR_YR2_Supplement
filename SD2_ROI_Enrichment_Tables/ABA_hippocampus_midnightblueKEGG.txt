@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa03013	RNA transport	171	8	5.27	5.35	0.00012	0.0015	6.18	2.49	13.4
+path:hsa00190	Oxidative phosphorylation	133	5	4.23	3.57	0.0063	0.036	4.67	1.43	11.9
+path:hsa05012	Parkinson's disease	142	5	3.97	3.38	0.0082	0.036	4.36	1.34	11.1
+path:hsa03008	Ribosome biogenesis in eukaryotes	101	4	4.46	3.32	0.012	0.039	4.86	1.25	13.6
+path:hsa04721	Synaptic vesicle cycle	63	3	5.36	3.29	0.018	0.039	5.82	1.13	18.7
+path:hsa04141	Protein processing in endoplasmic reticulum	165	5	3.41	2.97	0.015	0.039	3.72	1.14	9.4
+path:hsa05016	Huntington's disease	193	5	2.92	2.56	0.028	0.05	3.15	0.972	7.94
+path:hsa05169	Epstein-Barr virus infection	199	5	2.83	2.48	0.031	0.05	3.05	0.941	7.69

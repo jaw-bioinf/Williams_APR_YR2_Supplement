@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0001829 Foot polydactyly 110 4 9.82 5.73 0.00052 0.042 14.2 3.14 51.8
+HP:0009136 Duplication involving bones of the feet 112 4 9.64 5.67 0.00056 0.042 13.9 3.08 50.9
+HP:0011220 Prominent forehead 189 5 7.14 5.29 0.00039 0.042 11.2 2.86 39.4
+HP:0000238 Hydrocephalus 285 6 5.68 5.03 0.00029 0.042 9.87 2.72 34.6

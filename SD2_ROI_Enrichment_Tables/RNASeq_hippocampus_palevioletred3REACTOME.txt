@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5633007	Regulation of TP53 Activity	160	3	10.4	5.1	0.0027	0.041	12.5	2.3	44.9
+R-HSA-2262752	Cellular responses to stress	425	4	5.24	3.79	0.0061	0.046	6.5	1.55	20.8

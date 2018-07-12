@@ -1,0 +1,80 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	69	2.16	6.97	5.2e-10	1.2e-06	2.53	1.9	3.32
+MP:0003635	abnormal synaptic transmission	740	72	1.99	6.36	7.9e-09	9e-06	2.3	1.74	3.01
+MP:0002918	abnormal paired-pulse facilitation	75	17	4.63	7.16	8.4e-08	6.4e-05	5.88	3.18	10.3
+MP:0002207	abnormal long term potentiation	237	31	2.67	5.92	4.8e-07	0.00018	3.07	2	4.55
+MP:0002063	abnormal learning/memory/conditioning	664	62	1.91	5.51	4.4e-07	0.00018	2.16	1.6	2.87
+MP:0014114	abnormal cognition	665	62	1.91	5.5	4.6e-07	0.00018	2.16	1.6	2.86
+MP:0001473	reduced long term potentiation	156	23	3.01	5.75	1.9e-06	0.00055	3.49	2.11	5.53
+MP:0003633	abnormal nervous system physiology	1903	134	1.44	4.87	1.9e-06	0.00055	1.67	1.35	2.06
+MP:0004770	abnormal synaptic vesicle recycling	21	8	7.79	7.06	3.6e-06	0.00077	12.1	4.34	31.8
+MP:0002919	enhanced paired-pulse facilitation	42	11	5.35	6.41	3.7e-06	0.00077	7.04	3.17	14.5
+MP:0001961	abnormal reflex	767	66	1.76	4.98	3.3e-06	0.00077	1.97	1.48	2.6
+MP:0002062	abnormal associative learning	290	33	2.33	5.2	4.8e-06	0.00088	2.61	1.74	3.82
+MP:0002152	abnormal brain morphology	1633	117	1.46	4.69	5e-06	0.00088	1.67	1.33	2.09
+MP:0002882	abnormal neuron morphology	1515	110	1.48	4.67	5.7e-06	0.00094	1.69	1.34	2.12
+MP:0001463	abnormal spatial learning	234	28	2.45	5.08	9.9e-06	0.0015	2.75	1.76	4.15
+MP:0001468	abnormal temporal memory	173	23	2.72	5.17	1.1e-05	0.0016	3.09	1.88	4.87
+MP:0000801	abnormal temporal lobe morphology	352	36	2.09	4.73	2e-05	0.0027	2.32	1.57	3.33
+MP:0001469	abnormal contextual conditioning behavior	144	20	2.84	5.04	2.2e-05	0.0028	3.23	1.89	5.27
+MP:0000783	abnormal forebrain morphology	1011	78	1.58	4.41	2.3e-05	0.0028	1.75	1.34	2.27
+MP:0000202	abnormal circulating alkaline phosphatase level	238	27	2.32	4.67	3.7e-05	0.0043	2.58	1.64	3.92
+MP:0005226	abnormal vertebral arch development	28	8	5.84	5.82	4e-05	0.0044	7.89	2.99	18.8
+MP:0002968	increased circulating alkaline phosphatase level	189	23	2.49	4.69	4.7e-05	0.0049	2.78	1.7	4.37
+MP:0008540	abnormal cerebral hemisphere morphology	609	52	1.75	4.31	5e-05	0.005	1.92	1.39	2.6
+MP:0002065	abnormal fear/anxiety-related behavior	369	36	1.99	4.42	5.5e-05	0.0052	2.2	1.49	3.15
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	72	1.57	4.19	5.6e-05	0.0052	1.74	1.32	2.26
+MP:0001362	abnormal anxiety-related response	332	33	2.03	4.34	7.8e-05	0.0066	2.23	1.49	3.26
+MP:0000807	abnormal hippocampus morphology	346	34	2.01	4.34	7.7e-05	0.0066	2.21	1.48	3.2
+MP:0001516	abnormal motor coordination/ balance	833	65	1.59	4.08	8.9e-05	0.0073	1.75	1.31	2.31
+MP:0004250	tau protein deposits	11	5	9.29	6.24	9.9e-05	0.0075	16.3	3.93	64.6
+MP:0014143	decreased body fat mass	17	6	7.21	5.82	1e-04	0.0075	10.7	3.24	31.8
+MP:0002921	abnormal post-tetanic potentiation	24	7	5.96	5.52	0.00011	0.0075	8.11	2.83	20.7
+MP:0003088	abnormal prepulse inhibition	186	22	2.42	4.43	0.00011	0.0075	2.69	1.62	4.26
+MP:0001405	impaired coordination	454	41	1.85	4.19	9.7e-05	0.0075	2.02	1.41	2.84
+MP:0000841	abnormal hindbrain morphology	535	46	1.76	4.09	0.00012	0.0075	1.92	1.37	2.65
+MP:0000787	abnormal telencephalon morphology	808	63	1.59	4.01	0.00012	0.0075	1.75	1.3	2.31
+MP:0003492	abnormal involuntary movement	942	71	1.54	3.97	0.00012	0.0075	1.69	1.28	2.21
+MP:0003861	abnormal nervous system development	1215	87	1.46	3.93	0.00012	0.0075	1.62	1.25	2.07
+MP:0004769	abnormal synaptic vesicle morphology	60	11	3.75	4.84	0.00013	0.0079	4.45	2.07	8.74
+MP:0009538	abnormal synapse morphology	189	22	2.38	4.34	0.00013	0.0079	2.64	1.59	4.18
+MP:0004811	abnormal neuron physiology	667	54	1.65	3.98	0.00015	0.0084	1.81	1.32	2.44
+MP:0004792	abnormal synaptic vesicle number	53	10	3.86	4.73	0.00021	0.012	4.6	2.05	9.37
+MP:0003705	abnormal hypodermis morphology	144	18	2.55	4.26	0.00022	0.012	2.85	1.62	4.74
+MP:0000276	heart right ventricle hypertrophy	45	9	4.09	4.71	0.00027	0.015	4.94	2.08	10.5
+MP:0009956	abnormal cerebellar layer morphology	314	30	1.95	3.9	0.00033	0.017	2.13	1.39	3.15
+MP:0001363	increased anxiety-related response	202	22	2.23	4	0.00035	0.018	2.45	1.48	3.87
+MP:0005134	decreased thyroid-stimulating hormone level	21	6	5.84	5.04	0.00038	0.019	7.86	2.49	21.6
+MP:0001513	limb grasping	246	25	2.08	3.88	0.00041	0.02	2.27	1.42	3.48
+MP:0004166	abnormal limbic system morphology	393	35	1.82	3.77	0.00041	0.02	1.98	1.34	2.84
+MP:0001393	ataxia	320	30	1.92	3.78	0.00045	0.021	2.08	1.36	3.08
+MP:0005329	abnormal myocardium layer morphology	457	39	1.74	3.7	0.00046	0.021	1.89	1.31	2.67
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	14	2.75	4.07	0.00051	0.023	3.09	1.61	5.51
+MP:0004097	abnormal cerebellar cortex morphology	353	32	1.85	3.7	0.00053	0.024	2.01	1.33	2.94
+MP:0001458	abnormal object recognition memory	82	12	2.99	4.11	0.00059	0.025	3.39	1.66	6.37
+MP:0003202	abnormal neuron apoptosis	267	26	1.99	3.72	0.00061	0.025	2.16	1.37	3.29
+MP:0000847	abnormal metencephalon morphology	479	40	1.71	3.6	6e-04	0.025	1.85	1.28	2.6
+MP:0010545	abnormal heart layer morphology	465	39	1.71	3.58	0.00064	0.026	1.85	1.28	2.62
+MP:0004994	abnormal brain wave pattern	72	11	3.12	4.1	0.00069	0.028	3.57	1.68	6.9
+MP:0012320	abnormal body fat mass	32	7	4.47	4.46	0.00074	0.029	5.51	2	13.2
+MP:0009142	decreased prepulse inhibition	133	16	2.46	3.84	0.00075	0.029	2.72	1.49	4.65
+MP:0003203	increased neuron apoptosis	187	20	2.19	3.72	0.00081	0.03	2.39	1.41	3.86
+MP:0001392	abnormal locomotor behavior	1537	101	1.34	3.34	0.00077	0.03	1.47	1.16	1.86
+MP:0005472	abnormal triiodothyronine level	33	7	4.34	4.35	9e-04	0.033	5.3	1.93	12.6
+MP:0001486	abnormal startle reflex	259	25	1.97	3.6	0.00088	0.033	2.14	1.34	3.28
+MP:0001399	hyperactivity	475	39	1.68	3.44	0.00097	0.035	1.81	1.25	2.55
+MP:0004670	small vertebral body	17	5	6.01	4.69	0.001	0.036	8.17	2.25	25.1
+MP:0008284	abnormal hippocampus pyramidal cell layer	87	12	2.82	3.87	0.001	0.036	3.17	1.55	5.92
+MP:0000313	abnormal cell death	1427	94	1.35	3.23	0.0011	0.039	1.47	1.15	1.86
+MP:0003491	abnormal voluntary movement	1648	106	1.31	3.19	0.0012	0.04	1.44	1.14	1.81
+MP:0005119	decreased circulating thyroid-stimulating hormone level	11	4	7.43	4.84	0.0014	0.045	11.2	2.39	44.2
+MP:0005297	spina bifida occulta	18	5	5.68	4.51	0.0014	0.045	7.55	2.1	22.7
+MP:0001454	abnormal cued conditioning behavior	115	14	2.49	3.64	0.0014	0.045	2.75	1.44	4.88
+MP:0011156	abnormal hypodermis fat layer morphology	128	15	2.4	3.6	0.0014	0.045	2.63	1.41	4.58
+MP:0000778	abnormal nervous system tract morphology	210	21	2.04	3.47	0.0014	0.045	2.22	1.33	3.53
+MP:0009937	abnormal neuron differentiation	360	31	1.76	3.34	0.0015	0.047	1.89	1.25	2.78
+MP:0001346	abnormal lacrimal gland morphology	27	6	4.54	4.18	0.0016	0.048	5.61	1.84	14.5
+MP:0002804	abnormal motor learning	57	9	3.23	3.83	0.0016	0.048	3.7	1.58	7.68
+MP:0002797	increased thigmotaxis	68	10	3.01	3.76	0.0016	0.048	3.4	1.54	6.77
+MP:0004599	abnormal vertebral arch morphology	104	13	2.55	3.62	0.0016	0.048	2.83	1.44	5.13
+MP:0006126	abnormal cardiac outflow tract development	156	17	2.23	3.51	0.0016	0.048	2.43	1.36	4.08

@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04530	Tight junction	170	7	4.08	4.11	0.0015	0.043	4.59	1.74	10.3
+path:hsa05120	Epithelial cell signaling in Helicobacter pylori infection	68	4	5.83	4.04	0.0047	0.043	6.46	1.66	18.2
+path:hsa04520	Adherens junction	72	4	5.51	3.88	0.0058	0.043	6.07	1.56	17
+path:hsa04010	MAPK signaling pathway	255	8	3.11	3.47	0.0039	0.043	3.47	1.42	7.41
+path:hsa04141	Protein processing in endoplasmic reticulum	165	6	3.61	3.42	0.0061	0.043	3.97	1.38	9.33

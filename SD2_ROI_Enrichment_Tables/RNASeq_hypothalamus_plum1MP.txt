@@ -1,0 +1,31 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 21 2.81 5.25 7.9e-06 0.0044 3.59 2.05 6.08
+MP:0002980 abnormal postural reflex 155 8 6.47 6.16 3e-05 0.0055 7.47 3.04 16
+MP:0001961 abnormal reflex 767 18 2.94 5.04 2.3e-05 0.0055 3.63 2 6.3
+MP:0003492 abnormal involuntary movement 942 19 2.53 4.44 0.00011 0.014 3.1 1.73 5.33
+MP:0004021 abnormal rod electrophysiology 100 6 7.52 5.88 0.00014 0.015 8.55 2.96 20.3
+MP:0002862 altered righting response 147 7 5.97 5.45 0.00016 0.015 6.76 2.57 15.1
+MP:0002064 seizures 383 11 3.6 4.66 0.00021 0.016 4.14 1.95 8.02
+MP:0002917 decreased synaptic depression 17 3 22.1 7.82 0.00031 0.021 27.7 4.99 102
+MP:0001475 reduced long term depression 43 4 11.7 6.28 0.00036 0.022 13.4 3.39 38.7
+MP:0002915 abnormal synaptic depression 129 6 5.83 4.96 0.00055 0.024 6.51 2.27 15.3
+MP:0001523 impaired righting response 129 6 5.83 4.96 0.00055 0.024 6.51 2.27 15.3
+MP:0002206 abnormal CNS synaptic transmission 653 14 2.69 4.01 0.00056 0.024 3.13 1.6 5.7
+MP:0003635 abnormal synaptic transmission 740 15 2.54 3.92 0.00062 0.024 2.97 1.56 5.34
+MP:0010771 integument phenotype 1829 27 1.85 3.64 0.00055 0.024 2.36 1.41 3.88
+MP:0002910 abnormal excitatory postsynaptic currents 139 6 5.41 4.7 0.00081 0.025 6.02 2.1 14.1
+MP:0000165 abnormal long bone hypertrophic chondrocyte zone 141 6 5.34 4.65 0.00088 0.025 5.93 2.07 13.9
+MP:0009357 abnormal seizure response to inducing agent 190 7 4.62 4.52 0.00076 0.025 5.15 1.97 11.4
+MP:0001405 impaired coordination 454 11 3.04 3.99 0.00087 0.025 3.45 1.63 6.67
+MP:0001516 abnormal motor coordination/ balance 833 16 2.41 3.82 0.00072 0.025 2.83 1.51 5.02
+MP:0002804 abnormal motor learning 57 4 8.8 5.3 0.0011 0.027 9.86 2.52 27.9
+MP:0001488 increased startle reflex 98 5 6.4 4.82 0.0011 0.027 7.1 2.18 18
+MP:0001340 abnormal eyelid morphology 257 8 3.9 4.23 0.00096 0.027 4.36 1.79 9.23
+MP:0009936 abnormal dendritic spine morphology 63 4 7.96 4.97 0.0016 0.034 8.85 2.27 24.9
+MP:0002906 increased susceptibility to pharmacologically induced seizures 106 5 5.91 4.56 0.0015 0.034 6.53 2.01 16.5
+MP:0005103 abnormal retinal pigmentation 106 5 5.91 4.56 0.0015 0.034 6.53 2.01 16.5
+MP:0012349 increased susceptibility to induction of seizure by inducing agent 107 5 5.86 4.53 0.0016 0.034 6.46 1.99 16.3
+MP:0002068 abnormal parental behavior 169 6 4.45 4.06 0.0022 0.045 4.89 1.71 11.4
+MP:0001056 abnormal cranial nerve morphology 233 7 3.77 3.84 0.0025 0.047 4.15 1.59 9.17
+MP:0001463 abnormal spatial learning 234 7 3.75 3.82 0.0025 0.047 4.13 1.58 9.13
+MP:0003633 abnormal nervous system physiology 1903 26 1.71 3.13 0.0024 0.047 2.11 1.26 3.49

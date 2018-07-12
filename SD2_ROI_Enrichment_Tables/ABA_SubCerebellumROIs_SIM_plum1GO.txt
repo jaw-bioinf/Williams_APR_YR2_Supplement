@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0285	2	6	1	0.167	0.5	CORUM:2586	cor	4	KLC2-nKHC-uKHC kinesin complex	1	KIF5B
+2	1	TRUE	0.0285	2	6	1	0.167	0.5	CORUM:823	cor	7	PAR-3-VE-cadherin complex, endothelial	1	CDH5
+3	1	TRUE	0.0405	4	6	1	0.167	0.25	CORUM:3212	cor	3	Pax7-HMT complex	1	ASH2L
+4	1	TRUE	0.0285	2	6	1	0.167	0.5	CORUM:6547	cor	2	Spg33-Kif5b complex	1	KIF5B
+5	1	TRUE	0.0285	2	6	1	0.167	0.5	CORUM:2585	cor	5	nKHC-KLC1-uKHC kinesin complex	1	KIF5B
+6	1	TRUE	0.0285	1	6	1	0.167	1	CORUM:2840	cor	6	uKHC-KLC1-KLC2 kinesin complex	1	KIF5B
+7	1	TRUE	0.0355	3	6	1	0.167	0.333	CORUM:14	cor	8	BLOC-2 (biogenesis of lysosome-related organelles complex 2)	1	HPS3

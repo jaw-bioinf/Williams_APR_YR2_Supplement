@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer	58	5	11.7	7.03	6.5e-05	0.0011	13.5	4.09	35
+R-HSA-2644603	Signaling by NOTCH1 in Cancer	58	5	11.7	7.03	6.5e-05	0.0011	13.5	4.09	35
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	58	5	11.7	7.03	6.5e-05	0.0011	13.5	4.09	35
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	58	5	11.7	7.03	6.5e-05	0.0011	13.5	4.09	35
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	58	5	11.7	7.03	6.5e-05	0.0011	13.5	4.09	35
+R-HSA-74160	Gene expression (Transcription)	1335	20	2.03	3.48	0.0013	0.019	2.43	1.37	4.14
+R-HSA-5696394	DNA Damage Recognition in GG-NER	38	3	10.7	5.16	0.0027	0.031	11.9	2.3	39.3
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	3	9.67	4.86	0.0036	0.031	10.7	2.07	35
+R-HSA-390466	Chaperonin-mediated protein folding	43	3	9.44	4.79	0.0039	0.031	10.4	2.02	34
+R-HSA-391251	Protein folding	43	3	9.44	4.79	0.0039	0.031	10.4	2.02	34
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	4	6.44	4.32	0.0034	0.031	7.04	1.82	19.5
+R-HSA-73762	RNA Polymerase I Transcription Initiation	45	3	9.02	4.65	0.0044	0.032	9.95	1.93	32.3
+R-HSA-73857	RNA Polymerase II Transcription	1230	17	1.87	2.81	0.0073	0.049	2.15	1.17	3.76

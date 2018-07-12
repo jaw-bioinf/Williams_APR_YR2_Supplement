@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 6 7.36 5.8 0.00015 0.0025 8.46 2.91 20.2
+R-HSA-112315 Transmission across Chemical Synapses 224 7 5.9 5.41 0.00016 0.0025 6.83 2.57 15.5
+R-HSA-112316 Neuronal System 356 8 4.25 4.55 0.00052 0.0053 4.91 1.98 10.6
+R-HSA-1793185 Chondroitin sulfate/dermatan sulfate metabolism 50 3 11.3 5.34 0.0023 0.018 12.6 2.44 41.4
+R-HSA-977443 GABA receptor activation 55 3 10.3 5.05 0.003 0.019 11.4 2.21 37.2

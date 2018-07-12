@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-419812	Calcitonin-like ligand receptors	10	3	18.5	7.12	0.00046	0.031	26.5	4.38	117
+R-HSA-373080	Class B/2 (Secretin family receptors)	61	6	6.08	5.1	0.00044	0.031	6.85	2.37	16.2

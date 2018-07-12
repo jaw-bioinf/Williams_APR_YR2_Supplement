@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0243	3	3	1	0.333	0.333	CORUM:3235	cor	3	PTF1 complex (Ptf1a, Tcf12, Rbpj)	1	PTF1A
+2	1	TRUE	0.0243	3	3	1	0.333	0.333	CORUM:1723	cor	2	Pax3-Lef1-Tle4 complex	1	TLE4

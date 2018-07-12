@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	3	13	5.79	0.0015	0.038	14.7	2.81	49.2
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	3	9.4	4.78	0.0039	0.038	10.5	2.02	34.6
+R-HSA-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	96	3	9.2	4.71	0.0041	0.038	10.3	1.98	33.9
+R-HSA-199418	Negative regulation of the PI3K/AKT network	103	3	8.58	4.51	0.005	0.038	9.55	1.84	31.4

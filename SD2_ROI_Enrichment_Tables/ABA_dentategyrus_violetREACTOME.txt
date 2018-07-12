@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1989781	PPARA activates gene expression	117	5	8.39	5.75	0.00031	0.0069	9.55	2.91	24.6
+R-HSA-400206	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	120	5	8.18	5.66	0.00034	0.0069	9.3	2.83	23.9

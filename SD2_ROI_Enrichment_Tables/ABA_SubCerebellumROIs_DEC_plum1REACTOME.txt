@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	10	3.48	4.35	0.00045	0.017	4.19	1.85	8.62
+R-HSA-5653656	Vesicle-mediated transport	631	10	3.31	4.15	0.00068	0.017	3.96	1.75	8.15
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	56	3	11.2	5.3	0.0024	0.019	12.5	2.4	40.8
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	4	8.6	5.22	0.0012	0.019	9.64	2.47	27.3
+R-HSA-1852241	Organelle biogenesis and maintenance	269	6	4.65	4.21	0.0017	0.019	5.27	1.81	12.6
+R-HSA-5617833	Cilium Assembly	201	5	5.19	4.16	0.0026	0.019	5.79	1.77	14.8
+R-HSA-69620	Cell Cycle Checkpoints	292	6	4.29	3.96	0.0026	0.019	4.83	1.67	11.6
+R-HSA-204005	COPII (Coat Protein 2) Mediated Vesicle Transport	68	3	9.2	4.71	0.0042	0.025	10.1	1.97	32.9
+R-HSA-199992	trans-Golgi Network Vesicle Budding	72	3	8.69	4.55	0.0049	0.025	9.56	1.86	30.9
+R-HSA-421837	Clathrin derived vesicle budding	72	3	8.69	4.55	0.0049	0.025	9.56	1.86	30.9
+R-HSA-199977	ER to Golgi Anterograde Transport	155	4	5.38	3.82	0.0063	0.029	5.91	1.52	16.5
+R-HSA-141424	Amplification of signal from the kinetochores	96	3	6.52	3.77	0.011	0.042	7.07	1.38	22.7
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	3	6.52	3.77	0.011	0.042	7.07	1.38	22.7
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	4	4.49	3.33	0.012	0.043	4.88	1.26	13.6
+R-HSA-2467813	Separation of Sister Chromatids	191	4	4.37	3.26	0.013	0.044	4.75	1.23	13.2
+R-HSA-69618	Mitotic Spindle Checkpoint	112	3	5.59	3.39	0.016	0.046	6.03	1.18	19.2
+R-HSA-68882	Mitotic Anaphase	202	4	4.13	3.12	0.016	0.046	4.48	1.16	12.5
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	4	4.11	3.11	0.016	0.046	4.46	1.15	12.4

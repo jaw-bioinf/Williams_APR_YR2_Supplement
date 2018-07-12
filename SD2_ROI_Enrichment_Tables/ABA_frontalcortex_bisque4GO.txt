@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0204	2	59	2	0.034	1	GO:0035691	BP	3	macrophage migration inhibitory factor signaling pathway	1	ANGPT1,CD74
+2	1	TRUE	0.0216	2	4	1	0.25	0.5	CORUM:6285	cor	4	Ucp3-Hax-1 complex	1	UCP3
+3	1	TRUE	0.0269	4	4	1	0.25	0.25	CORUM:6810	cor	2	Akt-Arrb2-Ppp2ca-Ppp2r2a complex	1	PPP2R2A
+4	1	TRUE	0.0269	5	4	1	0.25	0.2	CORUM:716	cor	1	PU.1-associated protein complex	1	CEACAM1
+5	1	TRUE	0.0216	1	4	1	0.25	1	CORUM:3226	cor	7	Cd74-Cd44 receptor complex	1	CD74

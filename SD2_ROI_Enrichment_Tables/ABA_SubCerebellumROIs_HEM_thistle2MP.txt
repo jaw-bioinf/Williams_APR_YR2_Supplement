@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005201	abnormal retinal pigment epithelium morphology	174	4	9.27	5.49	8e-04	0.036	11.2	2.75	34.3
+MP:0005103	abnormal retinal pigmentation	106	3	11.4	5.38	0.0022	0.036	13.3	2.5	46
+MP:0001324	abnormal eye pigmentation	204	4	7.91	4.97	0.0014	0.036	9.53	2.34	29
+MP:0009389	abnormal extracutaneous pigmentation	211	4	7.65	4.87	0.0016	0.036	9.2	2.26	28

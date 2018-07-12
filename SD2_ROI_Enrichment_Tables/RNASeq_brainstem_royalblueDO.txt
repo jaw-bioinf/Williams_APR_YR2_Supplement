@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:3312	bipolar disorder	153	9	4.25	4.81	0.00025	0.049	4.8	2.08	9.78
+DOID:3324	mood disorder	166	9	3.91	4.5	0.00046	0.049	4.39	1.91	8.94

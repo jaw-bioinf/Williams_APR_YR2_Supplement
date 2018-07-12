@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	26	2.96	6.03	5.1e-07	0.00012	3.48	2.17	5.41
+R-HSA-5653656	Vesicle-mediated transport	631	26	2.81	5.72	1.4e-06	0.00016	3.29	2.05	5.1
+R-HSA-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	35	5	9.73	6.32	0.00015	0.01	11.5	3.44	30.6
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	11	3.75	4.79	0.00017	0.01	4.14	1.99	7.81
+R-HSA-5689877	Josephin domain DUBs	12	3	17	6.78	0.00062	0.019	22.8	3.93	92.6
+R-HSA-6811440	Retrograde transport at the Trans-Golgi-Network	46	5	7.4	5.31	0.00054	0.019	8.43	2.56	21.8
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	7	4.77	4.62	0.00065	0.019	5.25	2.02	11.5
+R-HSA-446203	Asparagine N-linked glycosylation	299	13	2.96	4.2	0.00045	0.019	3.25	1.67	5.84
+R-HSA-8856828	Clathrin-mediated endocytosis	140	8	3.89	4.21	0.001	0.027	4.24	1.76	8.84
+R-HSA-5619084	ABC transporter disorders	81	6	5.05	4.46	0.0012	0.028	5.55	1.94	13
+R-HSA-5362768	Hh mutants that don't undergo autocatalytic processing are degraded by ERAD	56	5	6.08	4.65	0.0013	0.029	6.77	2.08	17.2
+R-HSA-5387390	Hh mutants abrogate ligand secretion	59	5	5.77	4.49	0.0017	0.033	6.39	1.97	16.2
+R-HSA-5678895	Defective CFTR causes cystic fibrosis	61	5	5.58	4.38	0.002	0.036	6.17	1.9	15.6
+R-HSA-110320	Translesion Synthesis by POLH	19	3	10.8	5.2	0.0025	0.04	12.8	2.37	45.4
+R-HSA-5358346	Hedgehog ligand biogenesis	64	5	5.32	4.23	0.0024	0.04	5.85	1.8	14.8
+R-HSA-901032	ER Quality Control Compartment (ERQC)	21	3	9.73	4.89	0.0034	0.05	11.4	2.13	39.7

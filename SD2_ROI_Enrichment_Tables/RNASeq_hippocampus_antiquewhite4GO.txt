@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0467	12663	38	35	0.921	0.003	TF:M00327_1	tf	1	Factor: Pax-3; motif: NNNNNNCGTCACGSTYNNNNN; match class: 1	1	DBH,FAM163B,WNT2,ANXA11,ITGA7,2010300C02RIK,CHGB,SYPL2,TSPAN5,BRINP1,PLA2G2F,GABRD,KLK10,MYLK3,TRPC6,ROBO3,RASD2,PLK5,KY,HTRA4,FBXO27,FBXO34,INF2,SLC26A10,OTOS,KCNG4,GPR61,C2CD4A,FAM212B,KRT9,DUSP7,UMODL1,NPTX2,MKX,ISM1

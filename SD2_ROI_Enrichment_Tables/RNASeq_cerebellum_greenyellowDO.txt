@@ -1,0 +1,61 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:5614	eye disease	531	38	2.68	6.67	1.2e-08	2.1e-06	3.27	2.2	4.76
+DOID:1492	eye and adnexa disease	537	38	2.65	6.59	1.7e-08	2.1e-06	3.23	2.17	4.7
+DOID:0050155	sensory system disease	606	41	2.53	6.54	1.5e-08	2.1e-06	3.11	2.12	4.47
+DOID:9252	amino acid metabolic disorder	52	10	7.2	7.43	8.7e-07	7.9e-05	9.1	4.01	18.8
+DOID:10126	keratoconus	23	7	11.4	8.27	1.5e-06	0.00011	16.5	5.67	43
+DOID:10159	osteonecrosis	27	7	9.71	7.51	4.9e-06	3e-04	13.2	4.65	33
+DOID:4451	renal carcinoma	366	25	2.56	5.07	1.2e-05	0.00064	2.93	1.82	4.56
+DOID:10124	corneal disease	71	10	5.27	5.99	1.6e-05	0.00068	6.25	2.81	12.6
+DOID:1686	glaucoma	103	12	4.36	5.69	1.7e-05	0.00068	5.06	2.48	9.5
+DOID:263	kidney cancer	424	27	2.38	4.87	1.9e-05	7e-04	2.73	1.72	4.18
+DOID:3996	urinary system cancer	455	28	2.3	4.76	2.5e-05	0.00082	2.63	1.68	4.01
+DOID:9279	hyperhomocysteinemia	24	6	9.36	6.8	3e-05	0.00091	12.5	4.01	33.4
+DOID:10763	hypertension	569	31	2.04	4.29	9.2e-05	0.0026	2.32	1.51	3.46
+DOID:374	nutrition disease	366	23	2.35	4.4	1e-04	0.0027	2.65	1.61	4.17
+DOID:0080008	ischemic bone disease	45	7	5.82	5.38	0.00017	0.0031	6.93	2.58	16
+DOID:9970	obesity	348	22	2.37	4.33	0.00014	0.0031	2.65	1.6	4.22
+DOID:654	overnutrition	354	22	2.33	4.24	0.00017	0.0031	2.6	1.57	4.14
+DOID:557	kidney disease	476	27	2.12	4.21	0.00014	0.0031	2.39	1.51	3.66
+DOID:299	adenocarcinoma	755	37	1.83	4.02	0.00017	0.0031	2.09	1.41	3.05
+DOID:0050828	artery disease	931	43	1.73	3.96	0.00017	0.0031	1.99	1.37	2.84
+DOID:686	liver carcinoma	882	41	1.74	3.9	0.00022	0.0034	1.99	1.36	2.86
+DOID:684	hepatocellular carcinoma	882	41	1.74	3.9	0.00022	0.0034	1.99	1.36	2.86
+DOID:3571	liver cancer	883	41	1.74	3.89	0.00022	0.0034	1.99	1.36	2.86
+DOID:3119	gastrointestinal system cancer	1536	62	1.51	3.76	0.00022	0.0034	1.8	1.3	2.47
+DOID:18	urinary system disease	494	27	2.05	4	0.00026	0.0038	2.29	1.45	3.51
+DOID:1287	cardiovascular system disease	1292	54	1.56	3.72	0.00029	0.004	1.83	1.3	2.54
+DOID:576	proteinuria	66	8	4.54	4.78	0.00034	0.0043	5.2	2.11	11.2
+DOID:0060084	cell type benign neoplasm	502	27	2.01	3.9	0.00034	0.0043	2.25	1.42	3.44
+DOID:3118	hepatobiliary disease	637	32	1.88	3.86	0.00032	0.0043	2.12	1.39	3.15
+DOID:10923	sickle cell anemia	27	5	6.93	5.12	0.00064	0.0078	8.47	2.48	23.3
+DOID:409	liver disease	609	30	1.84	3.61	0.00069	0.0081	2.06	1.33	3.09
+DOID:0014667	disease of metabolism	1280	52	1.52	3.42	0.00078	0.0088	1.75	1.24	2.45
+DOID:0060001	withdrawal disorder	17	4	8.81	5.34	0.00089	0.0095	11.4	2.69	37.4
+DOID:784	chronic kidney disease	43	6	5.22	4.6	9e-04	0.0095	6.07	2.07	14.7
+DOID:0060072	benign neoplasm	563	28	1.86	3.53	0.00092	0.0095	2.07	1.32	3.14
+DOID:77	gastrointestinal system disease	1039	44	1.59	3.39	0.00096	0.0096	1.8	1.24	2.56
+DOID:1074	kidney failure	138	11	2.98	3.9	0.0011	0.011	3.29	1.57	6.23
+DOID:2566	corneal dystrophy	19	4	7.88	4.98	0.0014	0.012	9.9	2.37	31.5
+DOID:289	endometriosis	258	16	2.32	3.58	0.0014	0.012	2.54	1.4	4.33
+DOID:229	female reproductive system disease	333	19	2.14	3.52	0.0014	0.012	2.34	1.36	3.83
+DOID:114	heart disease	517	26	1.88	3.46	0.0012	0.012	2.08	1.3	3.2
+DOID:1749	squamous cell carcinoma	720	33	1.72	3.36	0.0013	0.012	1.91	1.26	2.82
+DOID:655	inherited metabolic disorder	363	20	2.06	3.44	0.0016	0.013	2.26	1.33	3.66
+DOID:4450	renal cell carcinoma	324	18	2.08	3.3	0.0025	0.02	2.26	1.29	3.75
+DOID:1579	respiratory system disease	691	31	1.68	3.12	0.0026	0.02	1.85	1.21	2.76
+DOID:178	vascular disease	1088	44	1.51	3.06	0.0024	0.02	1.7	1.18	2.42
+DOID:1184	nephrotic syndrome	55	6	4.08	3.8	0.0033	0.025	4.57	1.58	10.9
+DOID:10481	diaphragm disease	13	3	8.64	4.57	0.0044	0.03	11.1	1.94	43.5
+DOID:3827	congenital diaphragmatic hernia	13	3	8.64	4.57	0.0044	0.03	11.1	1.94	43.5
+DOID:0050851	glomerulosclerosis	26	4	5.76	4.03	0.0046	0.03	6.74	1.67	20.1
+DOID:1312	focal segmental glomerulosclerosis	26	4	5.76	4.03	0.0046	0.03	6.74	1.67	20.1
+DOID:2527	nephrosis	59	6	3.81	3.59	0.0047	0.03	4.23	1.47	10
+DOID:2921	glomerulonephritis	142	10	2.64	3.26	0.0046	0.03	2.86	1.32	5.55
+DOID:8398	osteoarthritis	187	12	2.4	3.22	0.0042	0.03	2.6	1.29	4.78
+DOID:16	integumentary system disease	595	27	1.7	2.95	0.0042	0.03	1.86	1.18	2.83
+DOID:0050161	lower respiratory tract disease	656	29	1.66	2.92	0.0044	0.03	1.81	1.16	2.73
+DOID:37	skin disease	571	26	1.7	2.91	0.0048	0.03	1.86	1.17	2.85
+DOID:10591	pre-eclampsia	268	15	2.1	3.03	0.0052	0.033	2.26	1.22	3.91
+DOID:5679	retinal disease	269	15	2.09	3.01	0.0054	0.033	2.25	1.22	3.89
+DOID:863	nervous system disease	1770	63	1.33	2.68	0.0057	0.034	1.52	1.1	2.09

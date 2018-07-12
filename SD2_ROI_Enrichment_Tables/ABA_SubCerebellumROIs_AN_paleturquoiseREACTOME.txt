@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-111885	Opioid Signalling	74	6	7.59	5.91	0.00013	0.01	8.59	2.98	20.3
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	17	3	16.5	6.65	0.00072	0.019	20.3	3.7	74.5
+R-HSA-8863678	Neurodegenerative Diseases	17	3	16.5	6.65	0.00072	0.019	20.3	3.7	74.5
+R-HSA-180024	DARPP-32 events	19	3	14.8	6.25	0.001	0.02	17.8	3.28	63.5
+R-HSA-202040	G-protein activation	28	3	10	4.97	0.0032	0.042	11.4	2.17	38.2
+R-HSA-4086398	Ca2+ pathway	55	4	6.81	4.49	0.0028	0.042	7.5	1.93	21

@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0313	4	5	1	0.2	0.25	CORUM:440	cor	5	Succinate dehydrogenase complex II, mitochondrial	1	SDHB
+2	1	TRUE	0.0313	2	5	1	0.2	0.5	CORUM:5406	cor	1	Myod1-Tcf3 complex	1	TCF3
+3	1	TRUE	0.0313	3	5	1	0.2	0.333	CORUM:106	cor	7	Srf-myogenin-E12 complex	1	TCF3
+4	1	TRUE	0.033	5	5	1	0.2	0.2	CORUM:1373	cor	14	Ldb1-Lmo2-Gata-1-Tal1-E47 complex	1	TCF3
+5	1	TRUE	0.0313	4	5	1	0.2	0.25	CORUM:2194	cor	4	Ubiquitin E3 ligase (Fbxo2, Skp1a, Cul1, Rbx1)	1	SKP1A
+6	1	TRUE	0.0313	3	5	1	0.2	0.333	CORUM:1469	cor	11	E2f5-Rbl2-Hdac1 complex	1	E2F5
+7	1	TRUE	0.0313	4	5	1	0.2	0.25	CORUM:2193	cor	12	Ubiquitin E3 ligase (Fbxo32, Skp1a, Cul1, Rbx1)	1	SKP1A
+8	1	TRUE	0.0313	4	5	1	0.2	0.25	CORUM:1371	cor	13	Gata1-Tal1-Tcf3-Lmo2 complex	1	TCF3
+9	1	TRUE	0.0313	2	5	1	0.2	0.5	CORUM:2190	cor	9	Ubiquitin E3 ligase (Fbxo15, Cul1, Skp1a)	1	SKP1A
+10	1	TRUE	0.0313	2	5	1	0.2	0.5	CORUM:5404	cor	2	Myod1-Tcf3 complex	1	TCF3
+11	1	TRUE	0.0313	3	5	1	0.2	0.333	CORUM:3037	cor	6	Ubiquitin E3 ligase (Fbxl20, Skp1, Cul1)	1	SKP1A
+12	1	TRUE	0.0313	4	5	1	0.2	0.25	CORUM:2742	cor	3	Gata2-Tal1-Tcf3-Lmo2 complex	1	TCF3
+13	1	TRUE	0.033	5	5	1	0.2	0.2	CORUM:6633	cor	8	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	SKP1A

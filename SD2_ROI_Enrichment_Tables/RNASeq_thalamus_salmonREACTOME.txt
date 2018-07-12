@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	15	3	14	6.07	0.0011	0.027	17.6	3.15	66.1
+R-HSA-389661	Glyoxylate metabolism and glycine degradation	30	4	9.34	5.5	0.00082	0.027	10.9	2.72	32
+R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	47	5	7.45	5.33	0.00052	0.027	8.47	2.58	21.8
+R-HSA-4085001	Sialic acid metabolism	33	4	8.49	5.19	0.0012	0.027	9.76	2.46	28.3
+R-HSA-71291	Metabolism of amino acids and derivatives	251	12	3.35	4.53	0.00025	0.027	3.69	1.83	6.79
+R-HSA-446219	Synthesis of substrates in N-glycan biosythesis	61	5	5.74	4.47	0.0017	0.033	6.35	1.95	16.1
+R-HSA-5576886	Phase 4 - resting membrane potential	19	3	11.1	5.28	0.0023	0.034	13.2	2.43	46.8
+R-HSA-75876	Synthesis of very long-chain fatty acyl-CoAs	22	3	9.55	4.83	0.0036	0.034	11.1	2.08	38.3
+R-HSA-5362517	Signaling by Retinoic Acid	43	4	6.51	4.36	0.0032	0.034	7.25	1.86	20.5
+R-HSA-9006931	Signaling by Nuclear Receptors	43	4	6.51	4.36	0.0032	0.034	7.25	1.86	20.5
+R-HSA-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	72	5	4.86	3.96	0.0036	0.034	5.3	1.64	13.3
+R-HSA-1296071	Potassium Channels	99	6	4.24	3.9	0.0029	0.034	4.6	1.62	10.7
+R-HSA-977068	Termination of O-glycan biosynthesis	24	3	8.75	4.58	0.0046	0.041	10	1.9	34.2
+R-HSA-70268	Pyruvate metabolism	26	3	8.08	4.35	0.0058	0.047	9.17	1.74	30.9

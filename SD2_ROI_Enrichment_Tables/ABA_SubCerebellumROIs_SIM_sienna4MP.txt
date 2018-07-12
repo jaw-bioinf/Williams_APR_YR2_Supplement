@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000183	decreased circulating LDL cholesterol level	82	4	18.1	8.09	6.2e-05	0.008	22.4	5.46	68.5
+MP:0000181	abnormal circulating LDL cholesterol level	139	4	10.7	5.98	0.00048	0.029	12.9	3.16	38.8
+MP:0002090	abnormal vision	86	3	12.9	5.79	0.0015	0.029	15	2.83	51.5
+MP:0002945	abnormal inhibitory postsynaptic currents	87	3	12.8	5.75	0.0016	0.029	14.9	2.8	51
+MP:0020151	abnormal circulating non-HDL cholesterol level	154	4	9.64	5.62	7e-04	0.029	11.5	2.85	34.8
+MP:0010329	abnormal lipoprotein level	314	5	5.91	4.6	0.0013	0.029	7.23	2.11	20
+MP:0010330	abnormal circulating lipoprotein level	314	5	5.91	4.6	0.0013	0.029	7.23	2.11	20

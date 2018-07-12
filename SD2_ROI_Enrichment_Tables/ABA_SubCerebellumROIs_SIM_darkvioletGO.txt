@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0404	11	3	1	0.333	0.091	CORUM:1001	cor	4	DNA synthesome complex	1	POLD2
+2	1	TRUE	0.0259	2	3	1	0.333	0.5	CORUM:295	cor	7	PCNA-DNA ligase complex	1	POLD2
+3	1	TRUE	0.0301	7	3	1	0.333	0.143	CORUM:5936	cor	5	Ksr1-CK2-MEK-14-3-3 complex, PDGF treated	1	CSNK2A2
+4	1	TRUE	0.0259	5	3	1	0.333	0.2	CORUM:293	cor	6	PCNA-DNA polymerase delta complex	1	POLD2
+5	1	TRUE	0.0259	4	3	1	0.333	0.25	CORUM:294	cor	1	DNA polymerase delta complex	1	POLD2
+6	1	TRUE	0.0259	5	3	1	0.333	0.2	CORUM:5910	cor	2	Ksr1-CK2 complex	1	CSNK2A2
+7	1	TRUE	0.0259	2	3	1	0.333	0.5	CORUM:6273	cor	8	Lep-Lepr quaternary protein	1	LEP

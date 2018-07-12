@@ -1,0 +1,115 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003607	abnormal prostate gland physiology	23	4	43.6	12.9	1.8e-06	0.00046	58.6	13.8	190
+MP:0013327	abnormal male reproductive gland physiology	51	5	24.6	10.7	1.6e-06	0.00046	31.2	9.07	85.5
+MP:0004962	decreased prostate gland weight	11	3	68.4	14.2	9.4e-06	0.0016	101	16.6	449
+MP:0004959	abnormal prostate gland size	40	4	25.1	9.66	1.8e-05	0.0018	30.9	7.57	93.8
+MP:0005647	abnormal sex gland physiology	83	5	15.1	8.17	1.8e-05	0.0018	18.3	5.43	49.2
+MP:0004958	enlarged prostate gland	19	3	39.6	10.7	5.4e-05	0.004	50.6	9.05	188
+MP:0004960	abnormal prostate gland weight	19	3	39.6	10.7	5.4e-05	0.004	50.6	9.05	188
+MP:0010363	increased fibrosarcoma incidence	20	3	37.6	10.4	6.4e-05	0.0041	47.7	8.57	176
+MP:0002048	increased lung adenoma incidence	58	4	17.3	7.88	7.8e-05	0.0043	20.6	5.12	60.9
+MP:0020190	abnormal lung adenoma incidence	59	4	17	7.8	8.3e-05	0.0043	20.2	5.03	59.7
+MP:0010316	increased thyroid tumor incidence	25	3	30.1	9.22	0.00013	0.0059	36.9	6.75	132
+MP:0002774	small prostate gland	27	3	27.9	8.84	0.00016	0.006	33.8	6.22	120
+MP:0006262	increased testis tumor incidence	29	3	25.9	8.51	2e-04	0.006	31.2	5.77	109
+MP:0008868	abnormal granulosa cell morphology	29	3	25.9	8.51	2e-04	0.006	31.2	5.77	109
+MP:0009219	increased prostate intraepithelial neoplasia incidence	30	3	25.1	8.36	0.00022	0.006	30	5.57	105
+MP:0009153	increased pancreas tumor incidence	31	3	24.3	8.21	0.00024	0.006	29	5.38	101
+MP:0005181	decreased circulating estradiol level	32	3	23.5	8.07	0.00027	0.006	28	5.21	97.1
+MP:0002176	increased brain weight	33	3	22.8	7.94	0.00029	0.006	27	5.04	93.6
+MP:0010281	increased nervous system tumor incidence	75	4	13.4	6.81	0.00021	0.006	15.6	3.92	45.7
+MP:0001158	abnormal prostate gland morphology	76	4	13.2	6.76	0.00022	0.006	15.4	3.87	45
+MP:0003674	oxidative stress	133	5	9.43	6.19	0.00017	0.006	11.1	3.33	29.4
+MP:0002032	increased sarcoma incidence	139	5	9.02	6.03	0.00021	0.006	10.6	3.18	28
+MP:0003186	abnormal redox activity	149	5	8.42	5.77	0.00029	0.006	9.87	2.96	26
+MP:0005215	abnormal pancreatic islet morphology	232	6	6.49	5.35	0.00028	0.006	7.72	2.61	19
+MP:0009165	abnormal endocrine pancreas morphology	233	6	6.46	5.34	0.00028	0.006	7.68	2.59	18.9
+MP:0003371	decreased circulating estrogen level	34	3	22.1	7.81	0.00032	0.0061	26.2	4.89	90.4
+MP:0000753	paralysis	152	5	8.25	5.7	0.00032	0.0061	9.66	2.9	25.5
+MP:0000420	ruffled hair	35	3	21.5	7.69	0.00035	0.0064	25.4	4.74	87.3
+MP:0003507	abnormal ovary physiology	38	3	19.8	7.35	0.00045	0.0076	23.1	4.35	79.1
+MP:0013326	abnormal female reproductive gland physiology	38	3	19.8	7.35	0.00045	0.0076	23.1	4.35	79.1
+MP:0010320	increased pituitary gland tumor incidence	39	3	19.3	7.24	0.00048	0.0077	22.5	4.24	76.9
+MP:0010357	increased prostate gland tumor incidence	39	3	19.3	7.24	0.00048	0.0077	22.5	4.24	76.9
+MP:0004262	abnormal physical strength	488	8	4.11	4.47	0.00055	0.0086	5.03	1.98	11.4
+MP:0003667	increased hemangiosarcoma incidence	45	3	16.7	6.69	0.00074	0.011	19.3	3.65	65.1
+MP:0005183	abnormal circulating estradiol level	47	3	16	6.53	0.00084	0.012	18.4	3.49	62.2
+MP:0009170	abnormal pancreatic islet size	107	4	9.38	5.51	0.00082	0.012	10.7	2.72	31
+MP:0003271	abnormal duodenum morphology	49	3	15.4	6.37	0.00095	0.013	17.6	3.34	59.3
+MP:0005117	increased circulating pituitary hormone level	111	4	9.04	5.39	0.00095	0.013	10.3	2.62	29.8
+MP:0003369	abnormal circulating estrogen level	51	3	14.8	6.23	0.0011	0.014	16.9	3.21	56.6
+MP:0002693	abnormal pancreas physiology	303	6	4.97	4.44	0.0011	0.014	5.83	1.97	14.3
+MP:0002164	abnormal gland physiology	673	9	3.35	4.01	0.001	0.014	4.15	1.72	9.1
+MP:0008000	increased ovary tumor incidence	56	3	13.4	5.91	0.0014	0.017	15.3	2.91	51.1
+MP:0013559	abnormal exocrine gland physiology	212	5	5.91	4.58	0.0014	0.017	6.82	2.05	17.9
+MP:0003567	abnormal fetal cardiomyocyte proliferation	58	3	13	5.79	0.0015	0.018	14.7	2.81	49.1
+MP:0003973	increased pituitary hormone level	128	4	7.84	4.93	0.0016	0.018	8.91	2.26	25.6
+MP:0003795	abnormal bone structure	873	10	2.87	3.68	0.0017	0.019	3.6	1.55	7.7
+MP:0005336	abnormal inguinal fat pad morphology	62	3	12.1	5.57	0.0019	0.02	13.7	2.62	45.6
+MP:0009171	enlarged pancreatic islets	62	3	12.1	5.57	0.0019	0.02	13.7	2.62	45.6
+MP:0012777	abnormal liver glycogen level	63	3	11.9	5.51	0.002	0.02	13.5	2.58	44.7
+MP:0003362	increased circulating gonadotropin level	63	3	11.9	5.51	0.002	0.02	13.5	2.58	44.7
+MP:0011390	abnormal fetal cardiomyocyte physiology	65	3	11.6	5.41	0.0022	0.02	13	2.5	43.2
+MP:0000746	weakness	136	4	7.38	4.74	0.002	0.02	8.36	2.12	24
+MP:0010298	increased respiratory system tumor incidence	138	4	7.27	4.69	0.0021	0.02	8.23	2.09	23.6
+MP:0008014	increased lung tumor incidence	138	4	7.27	4.69	0.0021	0.02	8.23	2.09	23.6
+MP:0002707	abnormal kidney weight	139	4	7.22	4.67	0.0022	0.02	8.17	2.07	23.5
+MP:0001559	hyperglycemia	140	4	7.17	4.65	0.0022	0.02	8.11	2.06	23.3
+MP:0001944	abnormal pancreas morphology	333	6	4.52	4.14	0.0019	0.02	5.27	1.79	13
+MP:0005238	increased brain size	69	3	10.9	5.22	0.0026	0.023	12.3	2.35	40.5
+MP:0003721	increased tumor growth/size	70	3	10.7	5.18	0.0027	0.023	12.1	2.32	39.9
+MP:0009582	abnormal keratinocyte proliferation	72	3	10.4	5.09	0.0029	0.024	11.7	2.25	38.7
+MP:0009590	increased gonad tumor incidence	72	3	10.4	5.09	0.0029	0.024	11.7	2.25	38.7
+MP:0003969	abnormal luteinizing hormone level	74	3	10.2	5.01	0.0031	0.025	11.4	2.19	37.5
+MP:0005217	abnormal pancreatic beta cell morphology	152	4	6.6	4.4	0.003	0.025	7.44	1.89	21.3
+MP:0003917	increased kidney weight	75	3	10	4.97	0.0032	0.026	11.2	2.16	37
+MP:0002027	increased lung adenocarcinoma incidence	77	3	9.77	4.89	0.0035	0.027	10.9	2.1	35.9
+MP:0001256	abnormal body length	377	6	3.99	3.75	0.0035	0.027	4.63	1.57	11.4
+MP:0005220	abnormal exocrine pancreas morphology	81	3	9.29	4.74	0.004	0.031	10.4	1.99	34
+MP:0008716	increased lung non-small cell carcinoma incidence	84	3	8.96	4.63	0.0045	0.033	9.97	1.92	32.7
+MP:0003959	abnormal lean body mass	396	6	3.8	3.6	0.0044	0.033	4.39	1.49	10.8
+MP:0003331	increased hepatocellular carcinoma incidence	90	3	8.36	4.44	0.0054	0.039	9.28	1.79	30.4
+MP:0005534	decreased body temperature	92	3	8.18	4.38	0.0057	0.039	9.07	1.75	29.7
+MP:0010383	increased adenoma incidence	179	4	5.6	3.94	0.0054	0.039	6.28	1.6	17.9
+MP:0020189	abnormal adenoma incidence	180	4	5.57	3.92	0.0055	0.039	6.24	1.59	17.8
+MP:0013330	abnormal male accessory sex gland morphology	182	4	5.51	3.89	0.0057	0.039	6.17	1.57	17.6
+MP:0005116	abnormal circulating pituitary hormone level	182	4	5.51	3.89	0.0057	0.039	6.17	1.57	17.6
+MP:0002327	abnormal respiratory function	415	6	3.63	3.46	0.0055	0.039	4.18	1.42	10.2
+MP:0000755	hindlimb paralysis	94	3	8	4.32	0.0061	0.04	8.87	1.71	29
+MP:0009344	abnormal ovulation cycle	95	3	7.92	4.29	0.0063	0.04	8.77	1.69	28.7
+MP:0001927	abnormal estrous cycle	95	3	7.92	4.29	0.0063	0.04	8.77	1.69	28.7
+MP:0000270	abnormal heart tube morphology	96	3	7.84	4.26	0.0065	0.04	8.67	1.68	28.4
+MP:0002182	abnormal astrocyte morphology	186	4	5.39	3.83	0.0062	0.04	6.03	1.54	17.2
+MP:0003203	increased neuron apoptosis	187	4	5.36	3.81	0.0063	0.04	6	1.53	17.1
+MP:0001270	distended abdomen	97	3	7.76	4.23	0.0067	0.041	8.58	1.66	28
+MP:0008714	increased lung carcinoma incidence	99	3	7.6	4.18	0.007	0.043	8.4	1.62	27.4
+MP:0001130	abnormal ovarian folliculogenesis	100	3	7.52	4.15	0.0072	0.043	8.31	1.61	27.1
+MP:0002024	increased T cell derived lymphoma incidence	102	3	7.38	4.1	0.0076	0.043	8.14	1.57	26.6
+MP:0010365	increased thymus tumor incidence	103	3	7.3	4.07	0.0079	0.043	8.06	1.56	26.3
+MP:0014201	abnormal intestinal epithelium physiology	105	3	7.17	4.02	0.0083	0.043	7.9	1.53	25.8
+MP:0003562	abnormal pancreatic beta cell physiology	196	4	5.12	3.69	0.0074	0.043	5.71	1.46	16.3
+MP:0001120	abnormal uterus morphology	197	4	5.09	3.67	0.0075	0.043	5.68	1.45	16.2
+MP:0010147	abnormal endocrine pancreas physiology	200	4	5.02	3.63	0.0079	0.043	5.59	1.43	15.9
+MP:0010122	abnormal bone mineral content	311	5	4.03	3.44	0.0074	0.043	4.56	1.38	11.9
+MP:0002727	decreased circulating insulin level	317	5	3.96	3.39	0.008	0.043	4.47	1.35	11.7
+MP:0000952	abnormal CNS glial cell morphology	320	5	3.92	3.36	0.0083	0.043	4.43	1.34	11.6
+MP:0003698	abnormal male reproductive system physiology	893	9	2.53	3.04	0.0071	0.043	3.04	1.26	6.65
+MP:0005418	abnormal circulating hormone level	898	9	2.51	3.02	0.0074	0.043	3.02	1.25	6.61
+MP:0012322	decreased total tissue mass	1833	14	1.92	2.77	0.0082	0.043	2.48	1.18	5.05
+MP:0001262	decreased body weight	1833	14	1.92	2.77	0.0082	0.043	2.48	1.18	5.05
+MP:0003361	abnormal circulating gonadotropin level	107	3	7.03	3.97	0.0087	0.045	7.75	1.5	25.3
+MP:0002679	abnormal corpus luteum morphology	107	3	7.03	3.97	0.0087	0.045	7.75	1.5	25.3
+MP:0010287	increased reproductive system tumor incidence	109	3	6.9	3.92	0.0092	0.045	7.6	1.47	24.8
+MP:0000496	abnormal small intestine morphology	206	4	4.87	3.55	0.0088	0.045	5.42	1.38	15.5
+MP:0001131	abnormal ovarian follicle morphology	209	4	4.8	3.52	0.0092	0.045	5.34	1.36	15.2
+MP:0001258	decreased body length	326	5	3.85	3.31	0.009	0.045	4.34	1.31	11.3
+MP:0005293	impaired glucose tolerance	327	5	3.83	3.3	0.0091	0.045	4.33	1.31	11.3
+MP:0008540	abnormal cerebral hemisphere morphology	609	7	2.88	3.04	0.0093	0.045	3.35	1.24	7.82
+MP:0010123	increased bone mineral content	112	3	6.72	3.85	0.0099	0.047	7.39	1.43	24.1
+MP:0002188	small heart	214	4	4.69	3.45	0.01	0.047	5.21	1.33	14.8
+MP:0003453	abnormal keratinocyte physiology	114	3	6.6	3.81	0.01	0.048	7.26	1.4	23.6
+MP:0001219	thick epidermis	114	3	6.6	3.81	0.01	0.048	7.26	1.4	23.6
+MP:0012775	abnormal brain weight	115	3	6.54	3.78	0.011	0.048	7.19	1.39	23.4
+MP:0010279	increased gastrointestinal tumor incidence	115	3	6.54	3.78	0.011	0.048	7.19	1.39	23.4
+MP:0003965	abnormal pituitary hormone level	217	4	4.62	3.42	0.011	0.048	5.14	1.31	14.6
+MP:0001505	hunched posture	117	3	6.43	3.74	0.011	0.05	7.06	1.37	23

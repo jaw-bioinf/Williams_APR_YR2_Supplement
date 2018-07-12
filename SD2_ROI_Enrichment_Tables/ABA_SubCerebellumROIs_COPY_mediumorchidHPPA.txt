@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001629	Ventricular septal defect	326	9	4.85	5.52	3.1e-05	0.0046	8.18	2.97	21.9
+HP:0010438	Abnormality of the ventricular septum	333	9	4.74	5.43	3.7e-05	0.0046	7.99	2.9	21.4
+HP:0100543	Cognitive impairment	1131	16	2.48	4.58	1.5e-05	0.0046	8.51	2.74	35.1
+HP:0001713	Abnormality of cardiac ventricle	459	10	3.82	4.91	7.2e-05	0.0068	6.77	2.51	18.2
+HP:0100547	Abnormality of forebrain morphology	1170	15	2.25	3.96	0.00016	0.012	6.06	2.09	21.4
+HP:0002136	Broad-based gait	27	3	19.5	7.3	0.00042	0.022	25.3	4.47	96.3
+HP:0001671	Abnormality of the cardiac septa	446	9	3.54	4.35	0.00037	0.022	5.71	2.08	15.3
+HP:0011446	Abnormality of higher mental function	1451	16	1.94	3.52	0.00048	0.022	5.73	1.84	23.6
+HP:0001250	Seizures	1138	14	2.16	3.6	0.00062	0.026	4.91	1.77	15.6
+HP:0012443	Abnormality of brain morphology	1687	17	1.77	3.32	0.00071	0.027	6.17	1.78	32.9
+HP:0002060	Abnormality of the cerebrum	1167	14	2.11	3.5	0.00083	0.028	4.73	1.7	15
+HP:0030680	Abnormality of cardiovascular system morphology	1052	13	2.17	3.43	0.0012	0.038	4.38	1.62	13
+HP:0001404	Hepatocellular necrosis	43	3	12.2	5.62	0.0017	0.046	15.2	2.74	55.5
+HP:0002605	Hepatic necrosis	47	3	11.2	5.33	0.0022	0.046	13.8	2.5	50.2
+HP:0002069	Generalized tonic-clonic seizures	100	4	7.02	4.62	0.0021	0.046	8.82	2.11	28
+HP:0000709	Psychosis	101	4	6.95	4.59	0.0022	0.046	8.73	2.09	27.7
+HP:0001627	Abnormal heart morphology	955	12	2.21	3.3	0.002	0.046	4.05	1.52	11.5
+HP:0002011	Morphological abnormality of the central nervous system	1825	17	1.63	2.96	0.0022	0.046	5.27	1.52	28.1

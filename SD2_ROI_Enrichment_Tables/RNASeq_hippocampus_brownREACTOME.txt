@@ -1,0 +1,87 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1640170	Cell Cycle	607	75	2.33	7.98	2.6e-12	1.3e-09	2.76	2.1	3.59
+R-HSA-69278	Cell Cycle, Mitotic	531	60	2.13	6.32	1.6e-08	4.1e-06	2.43	1.8	3.24
+R-HSA-68886	M Phase	391	46	2.21	5.8	2.7e-07	4.5e-05	2.51	1.78	3.47
+R-HSA-168256	Immune System	1970	149	1.42	4.97	1.2e-06	0.00015	1.64	1.34	2
+R-HSA-68877	Mitotic Prometaphase	199	28	2.65	5.56	2.1e-06	0.00021	3.02	1.93	4.58
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	67	14	3.93	5.71	8.7e-06	0.00072	4.81	2.45	8.86
+R-HSA-6804756	Regulation of TP53 Activity through Phosphorylation	92	16	3.27	5.19	2.4e-05	0.0017	3.84	2.07	6.7
+R-HSA-5693554	Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	26	8	5.79	5.79	4e-05	0.002	8.02	3	19.5
+R-HSA-5633007	Regulation of TP53 Activity	160	22	2.59	4.8	3.7e-05	0.002	2.92	1.76	4.65
+R-HSA-69620	Cell Cycle Checkpoints	292	33	2.13	4.63	3.2e-05	0.002	2.35	1.57	3.43
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	10	4.48	5.36	5.2e-05	0.0024	5.65	2.47	11.9
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	10	4.38	5.26	6.4e-05	0.0027	5.48	2.4	11.5
+R-HSA-8877330	RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	10	5	9.41	6.3	8.4e-05	0.0032	18	4.12	78.3
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	37	9	4.58	5.17	1e-04	0.0037	5.81	2.4	12.7
+R-HSA-168271	Transport of Ribonucleoproteins into the Host Nucleus	30	8	5.02	5.22	0.00012	0.0039	6.56	2.51	15.4
+R-HSA-2990846	SUMOylation	127	18	2.67	4.48	0.00012	0.0039	3.01	1.71	5.03
+R-HSA-168276	NS1 Mediated Effects on Host Pathways	39	9	4.34	4.96	0.00016	0.0043	5.42	2.25	11.8
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	39	9	4.34	4.96	0.00016	0.0043	5.42	2.25	11.8
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	13	3.22	4.6	0.00016	0.0043	3.74	1.88	6.93
+R-HSA-5693567	HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)	131	18	2.59	4.33	0.00019	0.0046	2.9	1.65	4.85
+R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	121	17	2.64	4.31	0.00021	0.0051	2.98	1.66	5.04
+R-HSA-168253	Host Interactions with Influenza Factors	41	9	4.13	4.76	0.00024	0.0054	5.08	2.12	11
+R-HSA-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	33	8	4.56	4.86	0.00026	0.0056	5.77	2.24	13.3
+R-HSA-5693537	Resolution of D-Loop Structures	34	8	4.43	4.74	0.00032	0.0065	5.55	2.16	12.7
+R-HSA-5693538	Homology Directed Repair	137	18	2.47	4.11	0.00033	0.0065	2.75	1.57	4.59
+R-HSA-8854518	AURKA Activation by TPX2	72	12	3.14	4.31	0.00037	0.0071	3.62	1.76	6.86
+R-HSA-177243	Interactions of Rev with host cellular proteins	35	8	4.3	4.64	4e-04	0.0073	5.34	2.09	12.2
+R-HSA-5693532	DNA Double-Strand Break Repair	165	20	2.28	3.93	0.00046	0.008	2.51	1.48	4.07
+R-HSA-5688426	Deubiquitination	295	30	1.91	3.77	0.00046	0.008	2.08	1.36	3.08
+R-HSA-201451	Signaling by BMP	28	7	4.71	4.65	0.00051	0.0085	6	2.15	14.7
+R-HSA-5689880	Ub-specific processing proteases	220	24	2.05	3.74	0.00063	0.01	2.24	1.39	3.47
+R-HSA-168333	NEP/NS2 Interacts with the Cellular Export Machinery	30	7	4.39	4.41	8e-04	0.012	5.48	1.98	13.3
+R-HSA-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	7	4.39	4.41	8e-04	0.012	5.48	1.98	13.3
+R-HSA-3700989	Transcriptional Regulation by TP53	365	34	1.75	3.47	0.00098	0.014	1.89	1.27	2.73
+R-HSA-168274	Export of Viral Ribonucleoproteins from Nucleus	32	7	4.12	4.18	0.0012	0.015	5.04	1.83	12.1
+R-HSA-180910	Vpr-mediated nuclear import of PICs	32	7	4.12	4.18	0.0012	0.015	5.04	1.83	12.1
+R-HSA-983189	Kinesins	60	10	3.14	3.93	0.0011	0.015	3.61	1.62	7.26
+R-HSA-1169408	ISG15 antiviral mechanism	71	11	2.92	3.84	0.0012	0.015	3.31	1.56	6.41
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	11	2.92	3.84	0.0012	0.015	3.31	1.56	6.41
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	7	3.99	4.08	0.0015	0.017	4.85	1.77	11.5
+R-HSA-165054	Rev-mediated nuclear export of HIV RNA	33	7	3.99	4.08	0.0015	0.017	4.85	1.77	11.5
+R-HSA-168325	Viral Messenger RNA Synthesis	42	8	3.59	3.98	0.0014	0.017	4.24	1.69	9.4
+R-HSA-73894	DNA Repair	315	30	1.79	3.39	0.0014	0.017	1.93	1.26	2.85
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	7	3.88	3.98	0.0018	0.019	4.67	1.71	11
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	7	3.88	3.98	0.0018	0.019	4.67	1.71	11
+R-HSA-5693607	Processing of DNA double-strand break ends	97	13	2.52	3.57	0.0018	0.019	2.8	1.42	5.1
+R-HSA-68875	Mitotic Prophase	134	16	2.25	3.44	0.0019	0.021	2.46	1.35	4.2
+R-HSA-176033	Interactions of Vpr with host cellular proteins	35	7	3.76	3.88	0.0021	0.022	4.5	1.65	10.6
+R-HSA-69618	Mitotic Spindle Checkpoint	112	14	2.35	3.41	0.0024	0.024	2.59	1.35	4.59
+R-HSA-68882	Mitotic Anaphase	202	21	1.96	3.25	0.0024	0.024	2.11	1.26	3.36
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	21	1.95	3.23	0.0026	0.025	2.1	1.26	3.34
+R-HSA-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases	12	4	6.27	4.33	0.0028	0.026	8.97	1.97	33.6
+R-HSA-1280215	Cytokine Signaling in Immune system	678	53	1.47	3.01	0.0027	0.026	1.57	1.14	2.11
+R-HSA-6806003	Regulation of TP53 Expression and Degradation	37	7	3.56	3.7	0.0029	0.027	4.2	1.55	9.82
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	10	2.73	3.41	0.0033	0.027	3.06	1.39	6.07
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	10	2.73	3.41	0.0033	0.027	3.06	1.39	6.07
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	11	2.59	3.38	0.0032	0.027	2.88	1.37	5.52
+R-HSA-380287	Centrosome maturation	80	11	2.59	3.38	0.0032	0.027	2.88	1.37	5.52
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	15	2.22	3.29	0.003	0.027	2.43	1.3	4.21
+R-HSA-168249	Innate Immune System	1035	75	1.36	2.93	0.003	0.027	1.46	1.12	1.88
+R-HSA-380108	Chemokine receptors bind chemokines	48	8	3.14	3.52	0.0035	0.028	3.6	1.45	7.85
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	12	2.43	3.28	0.0036	0.029	2.68	1.32	4.98
+R-HSA-913531	Interferon Signaling	196	20	1.92	3.08	0.0038	0.03	2.07	1.22	3.32
+R-HSA-388841	Costimulation by the CD28 family	71	10	2.65	3.31	0.0041	0.031	2.96	1.34	5.86
+R-HSA-69473	G2/M DNA damage checkpoint	94	12	2.4	3.24	0.004	0.031	2.64	1.3	4.91
+R-HSA-4641262	Disassembly of the destruction complex and recruitment of AXIN to the membrane	30	6	3.76	3.59	0.0044	0.033	4.49	1.5	11.4
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	7	3.29	3.44	0.0046	0.034	3.82	1.42	8.83
+R-HSA-141424	Amplification of signal from the kinetochores	96	12	2.35	3.15	0.0047	0.034	2.58	1.27	4.79
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	12	2.35	3.15	0.0047	0.034	2.58	1.27	4.79
+R-HSA-68884	Mitotic Telophase/Cytokinesis	14	4	5.38	3.88	0.0051	0.036	7.17	1.64	25
+R-HSA-389357	CD28 dependent PI3K/Akt signaling	22	5	4.28	3.65	0.0051	0.036	5.28	1.52	15
+R-HSA-2980766	Nuclear Envelope Breakdown	51	8	2.95	3.31	0.0051	0.036	3.35	1.35	7.26
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	7	3.21	3.36	0.0053	0.037	3.7	1.38	8.54
+R-HSA-191859	snRNP Assembly	52	8	2.9	3.25	0.0057	0.038	3.27	1.32	7.08
+R-HSA-194441	Metabolism of non-coding RNA	52	8	2.9	3.25	0.0057	0.038	3.27	1.32	7.08
+R-HSA-2467813	Separation of Sister Chromatids	191	19	1.87	2.88	0.0062	0.041	2	1.17	3.26
+R-HSA-1660516	Synthesis of PIPs at the early endosome membrane	15	4	5.02	3.69	0.0067	0.042	6.52	1.51	22.1
+R-HSA-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta	76	10	2.48	3.06	0.0067	0.042	2.73	1.25	5.39
+R-HSA-6811434	COPI-dependent Golgi-to-ER retrograde traffic	100	12	2.26	3	0.0066	0.042	2.46	1.22	4.56
+R-HSA-166016	Toll Like Receptor 4 (TLR4) Cascade	127	14	2.07	2.89	0.0074	0.046	2.24	1.18	3.95
+R-HSA-69481	G2/M Checkpoints	167	17	1.92	2.83	0.0075	0.046	2.05	1.16	3.43
+R-HSA-429914	Deadenylation-dependent mRNA decay	55	8	2.74	3.06	0.0081	0.047	3.06	1.24	6.59
+R-HSA-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	90	11	2.3	2.94	0.0079	0.047	2.51	1.2	4.78
+R-HSA-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	128	14	2.06	2.86	0.0079	0.047	2.22	1.17	3.92
+R-HSA-5663220	RHO GTPases Activate Formins	141	15	2	2.84	0.0078	0.047	2.15	1.16	3.72
+R-HSA-4791275	Signaling by WNT in cancer	34	6	3.32	3.21	0.0082	0.048	3.85	1.3	9.53

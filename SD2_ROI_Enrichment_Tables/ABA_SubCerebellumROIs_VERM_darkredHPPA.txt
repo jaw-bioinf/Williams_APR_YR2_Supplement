@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001943	Hypoglycemia	152	7	6.74	6	4.6e-05	0.02	9.47	3.27	24.5
+HP:0011015	Abnormality of blood glucose concentration	176	7	5.82	5.44	0.00012	0.02	8.07	2.79	20.8
+HP:0001250	Seizures	1138	17	2.18	4.03	0.00012	0.02	5.12	2.01	14.7
+HP:0001414	Microvesicular hepatic steatosis	17	3	25.8	8.51	0.00018	0.021	35.2	6.04	140
+HP:0001993	Ketoacidosis	28	3	15.7	6.47	0.00082	0.048	19.7	3.54	72.7
+HP:0000712	Emotional lability	111	5	6.59	4.96	0.00076	0.048	8.38	2.4	23.8
+HP:0008872	Feeding difficulties in infancy	391	9	3.37	4.12	0.00068	0.048	4.87	1.87	12
+HP:0100851	Abnormal emotion/affect behavior	484	10	3.02	3.97	0.00072	0.048	4.54	1.79	11.1

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00250	Alanine, aspartate and glutamate metabolism	35	3	13.6	5.94	0.0013	0.012	15.8	2.97	53.7
+path:hsa04971	Gastric acid secretion	75	3	6.33	3.7	0.012	0.039	6.97	1.35	22.7
+path:hsa04260	Cardiac muscle contraction	78	3	6.08	3.6	0.013	0.039	6.69	1.29	21.8
+path:hsa04972	Pancreatic secretion	96	3	4.94	3.1	0.022	0.05	5.38	1.05	17.4

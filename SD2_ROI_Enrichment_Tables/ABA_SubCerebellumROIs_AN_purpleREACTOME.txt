@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-164378	PKA activation in glucagon signalling	17	4	10.4	5.91	0.00048	0.047	13.5	3.19	44.3
+R-HSA-399719	Trafficking of AMPA receptors	31	5	7.15	5.21	0.00059	0.047	8.49	2.52	22.7
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	5	7.15	5.21	0.00059	0.047	8.49	2.52	22.7

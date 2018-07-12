@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002432	abnormal CD4-positive, alpha beta T cell morphology	504	11	4.22	5.36	3.9e-05	0.014	5.27	2.41	10.6
+MP:0000714	increased thymocyte number	45	4	17.2	7.85	8e-05	0.015	20.4	5.08	59.8
+MP:0011506	glomerular crescent	23	3	25.2	8.38	0.00021	0.02	30.6	5.63	109
+MP:0002123	abnormal definitive hematopoiesis	946	14	2.86	4.35	0.00021	0.02	3.67	1.81	7.04
+MP:0013693	abnormal hemopoiesis	973	14	2.78	4.24	0.00028	0.021	3.55	1.75	6.82
+MP:0008073	abnormal CD4-positive, alpha beta T cell number	440	9	3.95	4.58	0.00036	0.022	4.71	1.99	9.97
+MP:0001859	kidney inflammation	195	6	5.95	5.04	0.00047	0.025	6.83	2.34	16.4
+MP:0011762	renal/urinary system inflammation	204	6	5.69	4.88	6e-04	0.025	6.51	2.24	15.7
+MP:0008075	decreased CD4-positive, alpha beta T cell number	299	7	4.53	4.47	8e-04	0.025	5.22	1.96	11.9
+MP:0008077	abnormal CD8-positive, alpha-beta T cell number	386	8	4.01	4.35	0.00073	0.025	4.68	1.88	10.2
+MP:0012763	abnormal alpha-beta T cell number	595	10	3.25	4.09	0.00077	0.025	3.89	1.72	8
+MP:0002435	abnormal effector T cell morphology	710	11	2.99	3.99	8e-04	0.025	3.63	1.66	7.3
+MP:0005460	abnormal leukopoiesis	737	11	2.89	3.85	0.0011	0.029	3.48	1.6	7.01
+MP:0002429	abnormal blood cell morphology/development	1106	14	2.45	3.7	0.001	0.029	3.07	1.52	5.89
+MP:0005010	abnormal CD8-positive, alpha beta T cell morphology	417	8	3.71	4.08	0.0012	0.03	4.31	1.73	9.42
+MP:0012762	abnormal alpha-beta T cell morphology	753	11	2.82	3.76	0.0013	0.03	3.4	1.56	6.84
+MP:0009641	kidney degeneration	48	3	12.1	5.55	0.0019	0.039	13.6	2.61	44.8
+MP:0006387	abnormal T cell number	911	12	2.55	3.54	0.0019	0.039	3.09	1.46	6.1
+MP:0000693	spleen hyperplasia	107	4	7.23	4.67	0.0022	0.041	8.05	2.06	22.7
+MP:0005350	increased susceptibility to autoimmune disorder	181	5	5.34	4.25	0.0023	0.041	5.98	1.83	15.3
+MP:0005025	abnormal response to infection	572	9	3.04	3.63	0.0023	0.041	3.55	1.51	7.5
+MP:0008079	decreased CD8-positive, alpha-beta T cell number	278	6	4.17	3.87	0.0029	0.049	4.7	1.62	11.2

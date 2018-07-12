@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0436	64	58	4	0.069	0.062	GO:0032411	BP	1	positive regulation of transporter activity	1	TMEM110,CNKSR3,PLCG2,CFTR
+2	1	TRUE	0.0436	56	58	4	0.069	0.071	GO:0032414	BP	1	positive regulation of ion transmembrane transporter activity	2	TMEM110,CNKSR3,PLCG2,CFTR
+3	1	TRUE	0.0162	3	3	1	0.333	0.333	CORUM:2900	cor	5	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	PLCG2
+4	1	TRUE	0.0162	3	3	1	0.333	0.333	CORUM:6338	cor	2	NRF2- Axin1-GSK-3beta-TrCP complex	1	NFE2L2
+5	1	TRUE	0.0162	3	3	1	0.333	0.333	CORUM:5806	cor	3	Keap1-Nrf2-Cul3 complex	1	NFE2L2

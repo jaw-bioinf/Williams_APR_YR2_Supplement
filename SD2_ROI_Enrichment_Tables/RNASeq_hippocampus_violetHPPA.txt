@@ -1,0 +1,131 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000988	Skin rash	76	11	15.4	12.4	3.1e-11	8.4e-09	26.1	11	59
+HP:0011450	CNS infection	103	12	12.4	11.4	4.5e-11	8.4e-09	21.2	9.21	46.7
+HP:0001287	Meningitis	87	11	13.4	11.5	1.4e-10	1.7e-08	22.3	9.41	50.1
+HP:0002788	Recurrent upper respiratory tract infections	121	12	10.5	10.4	3.1e-10	2.9e-08	17.6	7.69	38.6
+HP:0200042	Skin ulcer	137	12	9.32	9.67	1.4e-09	1e-07	15.3	6.7	33.4
+HP:0001739	Abnormality of the nasopharynx	178	13	7.77	9.03	2.2e-09	1.4e-07	13	5.84	28
+HP:0002205	Recurrent respiratory infections	422	18	4.54	7.55	3.6e-09	1.7e-07	9.12	4.3	19.6
+HP:0002719	Recurrent infections	608	21	3.67	7.06	3.3e-09	1.7e-07	8.61	4.02	19.3
+HP:0002837	Recurrent bronchitis	72	9	13.3	10.3	1e-08	3.8e-07	20.2	7.95	47.5
+HP:0000600	Abnormality of the pharynx	202	13	6.85	8.34	1.1e-08	3.8e-07	11.3	5.08	24.3
+HP:0002715	Abnormality of the immune system	1391	29	2.22	5.69	1.1e-08	3.8e-07	11.3	3.94	44.1
+HP:0000246	Sinusitis	101	10	10.5	9.47	1.3e-08	4.1e-07	16.1	6.65	36.5
+HP:0002718	Recurrent bacterial infections	103	10	10.3	9.36	1.6e-08	4.6e-07	15.8	6.51	35.7
+HP:0010978	Abnormality of immune system physiology	1086	26	2.55	5.97	1.7e-08	4.6e-07	8.46	3.56	23.2
+HP:0011947	Respiratory tract infection	470	18	4.07	6.97	2.1e-08	5.2e-07	8.02	3.79	17.2
+HP:0012387	Bronchitis	80	9	12	9.66	2.6e-08	6e-07	17.9	7.07	41.7
+HP:0000245	Abnormality of the paranasal sinuses	115	10	9.25	8.76	4.7e-08	1e-06	13.9	5.76	31.3
+HP:0007417	Discoid lupus rash	14	5	38	13.5	1e-07	2.1e-06	68	16.8	244
+HP:0004429	Recurrent viral infections	52	7	14.3	9.42	3.3e-07	6.1e-06	20.4	7.12	51.7
+HP:0002109	Abnormality of the bronchi	106	9	9.03	8.18	3.1e-07	6.1e-06	13	5.19	30
+HP:0000388	Otitis media	181	11	6.46	7.35	3.6e-07	6.4e-06	9.71	4.18	21.3
+HP:0001881	Abnormality of leukocytes	441	16	3.86	6.25	4.5e-07	6.6e-06	6.75	3.17	14.3
+HP:0010987	Abnormality of cellular immune system	441	16	3.86	6.25	4.5e-07	6.6e-06	6.75	3.17	14.3
+HP:0012647	Abnormal inflammatory response	714	20	2.98	5.77	4.5e-07	6.6e-06	6.16	2.9	13.6
+HP:0012649	Increased inflammatory response	714	20	2.98	5.77	4.5e-07	6.6e-06	6.16	2.9	13.6
+HP:0005368	Abnormality of humoral immunity	191	11	6.13	7.1	6.3e-07	8.9e-06	9.14	3.94	20
+HP:0004370	Abnormality of temperature regulation	238	12	5.36	6.79	7.1e-07	9.7e-06	8.21	3.63	17.7
+HP:0011123	Inflammatory abnormality of the skin	298	13	4.64	6.4	1.1e-06	1.5e-05	7.27	3.29	15.6
+HP:0011109	Chronic sinusitis	45	6	14.2	8.67	2.7e-06	3.4e-05	19.5	6.24	51.9
+HP:0100658	Cellulitis	27	5	19.7	9.5	3.7e-06	4.6e-05	27.9	7.7	83
+HP:0005607	Abnormality of the tracheobronchial system	236	11	4.96	6.13	5.2e-06	6.2e-05	7.22	3.12	15.8
+HP:0011122	Abnormality of skin physiology	342	13	4.04	5.77	5.4e-06	6.2e-05	6.21	2.81	13.3
+HP:0002960	Autoimmunity	111	8	7.67	6.95	5.6e-06	6.3e-05	10.5	3.98	24.7
+HP:0001369	Arthritis	116	8	7.34	6.76	7.8e-06	8.5e-05	9.96	3.79	23.4
+HP:0100806	Sepsis	55	6	11.6	7.72	9e-06	9.5e-05	15.5	5.01	40.7
+HP:0100533	Inflammatory abnormality of the eye	158	9	6.06	6.34	9.2e-06	9.5e-05	8.36	3.36	19
+HP:0004332	Abnormality of lymphocytes	211	10	5.04	5.9	1.4e-05	0.00014	7.08	2.96	15.7
+HP:0011107	Recurrent aphthous stomatitis	18	4	23.6	9.38	1.8e-05	0.00018	33.9	7.66	117
+HP:0002721	Immunodeficiency	135	8	6.3	6.12	2.4e-05	0.00023	8.43	3.22	19.8
+HP:0002087	Abnormality of the upper respiratory tract	333	12	3.83	5.29	2.5e-05	0.00023	5.61	2.49	12.1
+HP:0000389	Chronic otitis media	41	5	13	7.51	3.2e-05	0.00029	17	4.85	48.2
+HP:0010280	Stomatitis	21	4	20.3	8.62	3.5e-05	0.00031	27.9	6.44	93.1
+HP:0002754	Osteomyelitis	43	5	12.4	7.31	4e-05	0.00034	16.1	4.61	45.5
+HP:0002722	Recurrent abscess formation	22	4	19.3	8.41	4.2e-05	0.00035	26.4	6.11	87
+HP:0004313	Decreased antibody level in blood	112	7	6.65	5.92	6e-05	0.00049	8.63	3.09	21
+HP:0002110	Bronchiectasis	77	6	8.29	6.3	6.3e-05	0.00051	10.6	3.48	27.4
+HP:0000757	Lack of insight	10	3	31.9	9.53	8.7e-05	0.00063	49.1	7.83	227
+HP:0002743	Recurrent enteroviral infections	10	3	31.9	9.53	8.7e-05	0.00063	49.1	7.83	227
+HP:0011274	Recurrent mycobacterial infections	10	3	31.9	9.53	8.7e-05	0.00063	49.1	7.83	227
+HP:0011948	Acute respiratory tract infection	26	4	16.4	7.66	8.4e-05	0.00063	21.6	5.09	69.2
+HP:0011950	Bronchiolitis	26	4	16.4	7.66	8.4e-05	0.00063	21.6	5.09	69.2
+HP:0010701	Abnormal immunoglobulin level	162	8	5.25	5.4	9e-05	0.00064	6.9	2.64	16.1
+HP:0005372	Abnormality of B cell physiology	164	8	5.19	5.35	9.8e-05	0.00067	6.8	2.61	15.9
+HP:0001871	Abnormality of blood and blood-forming tissues	992	20	2.14	4.15	9.8e-05	0.00067	3.96	1.87	8.7
+HP:0002846	Abnormality of B cells	166	8	5.13	5.31	0.00011	0.00072	6.71	2.58	15.7
+HP:0001581	Recurrent skin infections	53	5	10	6.46	0.00011	0.00074	12.7	3.68	35.4
+HP:0000872	Hashimoto thyroiditis	11	3	29	9.06	0.00012	0.00076	43	7.01	191
+HP:0200120	Chronic active hepatitis	11	3	29	9.06	0.00012	0.00076	43	7.01	191
+HP:0002088	Abnormality of lung morphology	837	18	2.29	4.16	0.00013	0.00083	3.89	1.84	8.34
+HP:0005224	Rectal abscess	12	3	26.6	8.65	0.00016	0.00095	38.2	6.35	163
+HP:0200123	Chronic hepatitis	12	3	26.6	8.65	0.00016	0.00095	38.2	6.35	163
+HP:0011017	Abnormality of cell physiology	402	12	3.18	4.51	0.00016	0.00096	4.52	2.01	9.71
+HP:0002014	Diarrhea	227	9	4.22	4.88	0.00017	0.00097	5.6	2.26	12.7
+HP:0000727	Frontal lobe dementia	13	3	24.5	8.28	2e-04	0.0012	34.4	5.8	143
+HP:0000793	Membranoproliferative glomerulonephritis	13	3	24.5	8.28	2e-04	0.0012	34.4	5.8	143
+HP:0012252	Abnormal respiratory system morphology	959	19	2.11	3.92	0.00023	0.0013	3.66	1.73	7.92
+HP:0005356	Decreased serum complement factor I	14	3	22.8	7.96	0.00026	0.0014	31.3	5.34	127
+HP:0002841	Recurrent fungal infections	35	4	12.2	6.46	0.00028	0.0015	15.3	3.69	47.5
+HP:0004432	Agammaglobulinemia	15	3	21.3	7.66	0.00032	0.0017	28.7	4.95	114
+HP:0005420	Recurrent gram-negative bacterial infections	16	3	19.9	7.4	0.00039	0.0021	26.5	4.61	104
+HP:0100582	Nasal polyposis	39	4	10.9	6.06	0.00042	0.0022	13.5	3.28	41.6
+HP:0001083	Ectopia lentis	41	4	10.4	5.88	0.00051	0.0026	12.8	3.11	39.2
+HP:0000992	Cutaneous photosensitivity	73	5	7.29	5.29	0.00051	0.0026	8.94	2.61	24.4
+HP:0012115	Hepatitis	42	4	10.1	5.8	0.00056	0.0028	12.5	3.03	38
+HP:0000433	Abnormality of the nasal mucosa	43	4	9.89	5.72	0.00062	0.003	12.1	2.96	37
+HP:0005406	Recurrent bacterial skin infections	19	3	16.8	6.72	0.00066	0.0032	21.5	3.82	81.1
+HP:0002963	Abnormal delayed hypersensitivity skin test	20	3	16	6.53	0.00077	0.0037	20.3	3.62	75.7
+HP:0002097	Emphysema	46	4	9.25	5.49	8e-04	0.0038	11.3	2.75	34.2
+HP:0000979	Purpura	47	4	9.05	5.41	0.00087	0.0041	11	2.69	33.3
+HP:0002829	Arthralgia	127	6	5.03	4.5	0.00099	0.0046	6.16	2.04	15.6
+HP:0002725	Systemic lupus erythematosus	22	3	14.5	6.19	0.001	0.0047	18.1	3.27	66.6
+HP:0000964	Eczema	131	6	4.87	4.4	0.0012	0.0052	5.95	1.97	15.1
+HP:0000099	Glomerulonephritis	23	3	13.9	6.03	0.0012	0.0053	17.2	3.11	62.8
+HP:0002733	Abnormality of the lymph nodes	136	6	4.69	4.28	0.0014	0.0062	5.71	1.9	14.5
+HP:0011830	Abnormality of oral mucosa	189	7	3.94	4.05	0.0015	0.0066	4.87	1.76	11.7
+HP:0004431	Complement deficiency	26	3	12.3	5.62	0.0017	0.0073	15	2.73	53.7
+HP:0002090	Pneumonia	141	6	4.53	4.16	0.0017	0.0073	5.5	1.82	13.9
+HP:0000020	Urinary incontinence	59	4	7.21	4.69	0.002	0.0085	8.57	2.12	25.6
+HP:0011355	Localized skin lesion	604	13	2.29	3.39	0.002	0.0085	3.17	1.44	6.75
+HP:0000230	Gingivitis	28	3	11.4	5.38	0.0021	0.0087	13.8	2.53	49
+HP:0002783	Recurrent lower respiratory tract infections	101	5	5.27	4.24	0.0022	0.0091	6.28	1.85	17
+HP:0005339	Abnormality of complement system	29	3	11	5.27	0.0023	0.0094	13.2	2.43	46.9
+HP:0000370	Abnormality of the middle ear	463	11	2.53	3.44	0.0024	0.0094	3.34	1.45	7.25
+HP:0011108	Recurrent sinusitis	62	4	6.86	4.54	0.0025	0.0097	8.12	2.01	24.2
+HP:0002086	Abnormality of the respiratory system	1338	21	1.67	3.03	0.0025	0.0098	2.87	1.34	6.42
+HP:0002135	Basal ganglia calcification	30	3	10.6	5.16	0.0026	0.01	12.7	2.35	45
+HP:0001890	Autoimmune hemolytic anemia	31	3	10.3	5.06	0.0028	0.011	12.3	2.27	43.2
+HP:0002344	Progressive neurologic deterioration	31	3	10.3	5.06	0.0028	0.011	12.3	2.27	43.2
+HP:0000123	Nephritis	32	3	9.97	4.97	0.0031	0.011	11.9	2.19	41.6
+HP:0002633	Vasculitis	64	4	6.65	4.44	0.0028	0.011	7.84	1.94	23.4
+HP:0000158	Macroglossia	107	5	4.97	4.06	0.0029	0.011	5.9	1.74	15.9
+HP:0002383	Encephalitis	35	3	9.12	4.7	0.004	0.015	10.7	2	37.4
+HP:0004386	Gastrointestinal inflammation	71	4	5.99	4.14	0.004	0.015	7.01	1.74	20.8
+HP:0000734	Disinhibition	37	3	8.62	4.54	0.0047	0.017	10.1	1.88	35
+HP:0011893	Abnormal leukocyte count	172	6	3.71	3.55	0.0047	0.017	4.43	1.47	11.2
+HP:0002300	Mutism	38	3	8.4	4.47	0.0051	0.018	9.81	1.83	33.9
+HP:0001025	Urticaria	39	3	8.18	4.39	0.0055	0.019	9.54	1.78	32.9
+HP:0025337	Red eye	78	4	5.45	3.88	0.0057	0.019	6.33	1.58	18.7
+HP:0000509	Conjunctivitis	78	4	5.45	3.88	0.0057	0.019	6.33	1.58	18.7
+HP:0002250	Abnormality of the large intestine	177	6	3.61	3.47	0.0054	0.019	4.29	1.43	10.8
+HP:0100646	Thyroiditis	40	3	7.98	4.32	0.0059	0.02	9.28	1.74	31.9
+HP:0002354	Memory impairment	79	4	5.39	3.84	0.0059	0.02	6.25	1.56	18.4
+HP:0002012	Abnormality of the abdominal organs	943	16	1.8	2.81	0.0062	0.02	2.59	1.22	5.47
+HP:0000719	Inappropriate behavior	41	3	7.78	4.26	0.0063	0.021	9.03	1.69	31
+HP:0000168	Abnormality of the gingiva	129	5	4.12	3.52	0.0064	0.021	4.82	1.43	12.9
+HP:0001874	Abnormality of neutrophils	188	6	3.39	3.29	0.0072	0.023	4.02	1.34	10.1
+HP:0006532	Recurrent pneumonia	86	4	4.95	3.61	0.008	0.025	5.7	1.42	16.8
+HP:0001392	Abnormality of the liver	787	14	1.89	2.77	0.0079	0.025	2.58	1.19	5.45
+HP:0003712	Skeletal muscle hypertrophy	139	5	3.83	3.31	0.0088	0.027	4.45	1.32	11.9
+HP:0002653	Bone pain	48	3	6.65	3.84	0.0098	0.03	7.61	1.44	25.9
+HP:0011840	Abnormality of T cell physiology	48	3	6.65	3.84	0.0098	0.03	7.61	1.44	25.9
+HP:0000751	Personality changes	49	3	6.51	3.78	0.01	0.032	7.45	1.4	25.3
+HP:0100774	Hyperostosis	50	3	6.38	3.73	0.011	0.033	7.29	1.38	24.7
+HP:0001911	Abnormality of granulocytes	209	6	3.05	2.98	0.012	0.035	3.58	1.2	8.99
+HP:0002242	Abnormality of the intestine	570	11	2.05	2.67	0.012	0.035	2.61	1.14	5.65
+HP:0040088	Abnormal lymphocyte count	53	3	6.02	3.59	0.013	0.038	6.84	1.29	23.2
+HP:0001888	Lymphopenia	57	3	5.6	3.41	0.016	0.046	6.33	1.2	21.3
+HP:0012531	Pain	362	8	2.35	2.64	0.016	0.047	2.82	1.09	6.51
+HP:0011843	Abnormality of skeletal physiology	440	9	2.18	2.57	0.017	0.049	2.65	1.08	5.95
+HP:0025142	Constitutional symptom	367	8	2.32	2.6	0.018	0.05	2.78	1.07	6.41

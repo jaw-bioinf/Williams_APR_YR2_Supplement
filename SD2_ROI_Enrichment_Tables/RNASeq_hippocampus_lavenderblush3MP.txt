@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0012348	decreased susceptibility to induction of seizure by inducing agent	28	3	38.2	10.5	6.1e-05	0.004	47.9	8.67	175
+MP:0002887	decreased susceptibility to pharmacologically induced seizures	28	3	38.2	10.5	6.1e-05	0.004	47.9	8.67	175
+MP:0003635	abnormal synaptic transmission	740	9	4.34	5.02	0.00011	0.0049	6.17	2.41	14.7
+MP:0002206	abnormal CNS synaptic transmission	653	8	4.37	4.74	0.00029	0.0094	5.93	2.22	14.4

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04340	Hedgehog signaling pathway	46	6	7.67	5.97	0.00011	0.0071	9.09	3.08	22.2
+path:hsa04136	Autophagy - other	32	4	7.35	4.74	0.002	0.041	8.51	2.13	24.9
+path:hsa04141	Protein processing in endoplasmic reticulum	165	9	3.21	3.78	0.0019	0.041	3.54	1.54	7.15

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	47	1.86	4.56	2.4e-05	0.01	2.05	1.46	2.82
+R-HSA-5653656	Vesicle-mediated transport	631	48	1.8	4.38	4.4e-05	0.01	1.98	1.42	2.72

@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0146	2	3	1	0.333	0.5	CORUM:6776	cor	5	Igfn1-Ky-Flnc complex	1	FLNC
+2	1	TRUE	0.0146	2	3	1	0.333	0.5	CORUM:5291	cor	3	Cd3e-Nck1-Mink1 complex	1	CD3E
+3	1	TRUE	0.0146	2	3	1	0.333	0.5	CORUM:5309	cor	7	Cd3g-Cd3e complex	1	CD3E
+4	1	TRUE	0.0146	1	3	1	0.333	1	CORUM:5296	cor	6	Cd3e homodimer complex	1	CD3E
+5	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:5311	cor	2	Cd3g-Cd3e-Cd247-Canx complex	1	CD3E
+6	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:5310	cor	4	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3E

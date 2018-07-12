@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0187	2	4	1	0.25	0.5	CORUM:5309	cor	6	Cd3g-Cd3e complex	1	CD3E
+2	1	TRUE	0.0187	3	4	1	0.25	0.333	CORUM:3143	cor	7	Sos1-Abi1-Eps8 complex	1	SOS1
+3	1	TRUE	0.0204	4	4	1	0.25	0.25	CORUM:5310	cor	3	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3E
+4	1	TRUE	0.0187	2	4	1	0.25	0.5	CORUM:2545	cor	12	Grb2-mSos1 complex	1	SOS1
+5	1	TRUE	0.0187	2	4	1	0.25	0.5	CORUM:5291	cor	9	Cd3e-Nck1-Mink1 complex	1	CD3E
+6	1	TRUE	0.0187	2	4	1	0.25	0.5	CORUM:719	cor	11	S100A10-annexin 2 complex	1	S100A10
+7	1	TRUE	0.0187	3	4	1	0.25	0.333	CORUM:141	cor	10	Sos1-Abi1-Eps8 complex	1	SOS1
+8	1	TRUE	0.0204	4	4	1	0.25	0.25	CORUM:5311	cor	5	Cd3g-Cd3e-Cd247-Canx complex	1	CD3E
+9	1	TRUE	0.0187	3	4	1	0.25	0.333	CORUM:718	cor	1	TRPV5-S100A10-annexin 2 complex	1	S100A10
+10	1	TRUE	0.0187	1	4	1	0.25	1	CORUM:5296	cor	2	Cd3e homodimer complex	1	CD3E
+11	1	TRUE	0.0187	2	4	1	0.25	0.5	CORUM:3180	cor	8	Shp2-Sos complex, FGF stimulated	1	SOS1

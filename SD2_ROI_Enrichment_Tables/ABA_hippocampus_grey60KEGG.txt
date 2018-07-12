@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04611	Platelet activation	123	4	7.72	4.89	0.0016	0.019	9.09	2.26	27.1
+path:hsa04725	Cholinergic synapse	112	3	6.36	3.72	0.011	0.038	7.16	1.36	24
+path:hsa05145	Toxoplasmosis	113	3	6.3	3.7	0.012	0.038	7.09	1.35	23.8
+path:hsa04071	Sphingolipid signaling pathway	118	3	6.03	3.59	0.013	0.038	6.78	1.29	22.7
+path:hsa04371	Apelin signaling pathway	137	3	5.2	3.23	0.019	0.038	5.8	1.11	19.4
+path:hsa05012	Parkinson's disease	142	3	5.01	3.14	0.021	0.038	5.59	1.07	18.6
+path:hsa04072	Phospholipase D signaling pathway	145	3	4.91	3.1	0.022	0.038	5.47	1.04	18.2
+path:hsa04022	cGMP-PKG signaling pathway	163	3	4.37	2.83	0.03	0.045	4.84	0.926	16.1

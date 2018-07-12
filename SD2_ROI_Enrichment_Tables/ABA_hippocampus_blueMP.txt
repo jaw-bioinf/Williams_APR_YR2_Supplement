@@ -1,0 +1,221 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003635	abnormal synaptic transmission	740	291	1.48	8.22	1.6e-15	6.9e-12	1.9	1.62	2.23
+MP:0002206	abnormal CNS synaptic transmission	653	262	1.51	8.16	2.9e-15	6.9e-12	1.96	1.66	2.31
+MP:0002207	abnormal long term potentiation	237	111	1.77	7.18	8.8e-12	1.1e-08	2.51	1.92	3.28
+MP:0002065	abnormal fear/anxiety-related behavior	369	157	1.6	7.12	7.8e-12	1.1e-08	2.12	1.71	2.64
+MP:0001362	abnormal anxiety-related response	332	143	1.62	6.96	2.4e-11	1.4e-08	2.16	1.72	2.72
+MP:0002063	abnormal learning/memory/conditioning	664	252	1.43	6.92	1.5e-11	1.4e-08	1.77	1.5	2.1
+MP:0014114	abnormal cognition	665	252	1.43	6.89	1.7e-11	1.4e-08	1.77	1.5	2.09
+MP:0002572	abnormal emotion/affect behavior	619	237	1.44	6.86	2.3e-11	1.4e-08	1.8	1.51	2.13
+MP:0001469	abnormal contextual conditioning behavior	144	75	1.96	7	4.5e-11	2.2e-08	3.07	2.18	4.34
+MP:0001468	abnormal temporal memory	173	86	1.87	6.97	4.4e-11	2.2e-08	2.8	2.05	3.83
+MP:0003633	abnormal nervous system physiology	1903	617	1.22	6.54	7.1e-11	3.1e-08	1.44	1.29	1.61
+MP:0001473	reduced long term potentiation	156	79	1.91	6.88	8.5e-11	3.4e-08	2.9	2.09	4.04
+MP:0001363	increased anxiety-related response	202	94	1.75	6.51	5.4e-10	2e-07	2.47	1.84	3.3
+MP:0002062	abnormal associative learning	290	124	1.61	6.36	9.1e-10	3.1e-07	2.13	1.66	2.71
+MP:0009357	abnormal seizure response to inducing agent	190	86	1.71	5.91	1.5e-08	4.9e-06	2.34	1.73	3.15
+MP:0001399	hyperactivity	475	180	1.43	5.76	1.7e-08	5.1e-06	1.74	1.43	2.12
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	54	1.96	5.9	2.7e-08	7.7e-06	3.04	2.02	4.57
+MP:0009745	abnormal behavioral response to xenobiotic	295	119	1.52	5.46	1.1e-07	2.9e-05	1.92	1.5	2.45
+MP:0002164	abnormal gland physiology	673	237	1.33	5.3	1.5e-07	3.8e-05	1.56	1.32	1.85
+MP:0003491	abnormal voluntary movement	1648	519	1.19	5.04	3.9e-07	9.2e-05	1.35	1.2	1.51
+MP:0001392	abnormal locomotor behavior	1537	485	1.19	4.89	8.2e-07	0.00019	1.35	1.19	1.52
+MP:0003107	abnormal response to novelty	283	111	1.48	4.92	1.5e-06	0.00033	1.82	1.42	2.34
+MP:0000783	abnormal forebrain morphology	1011	331	1.23	4.74	1.9e-06	4e-04	1.4	1.22	1.62
+MP:0002064	seizures	383	142	1.4	4.78	2.4e-06	0.00048	1.67	1.34	2.08
+MP:0003313	abnormal locomotor activation	1152	371	1.21	4.67	2.6e-06	5e-04	1.37	1.2	1.57
+MP:0002152	abnormal brain morphology	1633	508	1.17	4.62	2.9e-06	0.00053	1.32	1.17	1.48
+MP:0002797	increased thigmotaxis	68	36	2	4.95	3.1e-06	0.00055	3.15	1.9	5.25
+MP:0003360	abnormal depression-related behavior	118	54	1.73	4.76	4.8e-06	0.00082	2.37	1.61	3.47
+MP:0012317	impaired conditioning behavior	107	50	1.76	4.76	5.1e-06	0.00085	2.46	1.64	3.67
+MP:0002910	abnormal excitatory postsynaptic currents	139	61	1.65	4.67	6.4e-06	0.001	2.2	1.54	3.12
+MP:0003063	increased coping response	22	16	2.74	4.91	7.8e-06	0.0011	7.43	2.76	23.2
+MP:0008263	abnormal hippocampus CA1 region morphology	33	21	2.4	4.84	8.2e-06	0.0011	4.88	2.29	10.9
+MP:0000787	abnormal telencephalon morphology	808	268	1.25	4.48	6.8e-06	0.0011	1.42	1.21	1.66
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	305	1.23	4.43	8e-06	0.0011	1.39	1.2	1.61
+MP:0002082	postnatal lethality	1346	423	1.18	4.41	8e-06	0.0011	1.33	1.17	1.51
+MP:0005130	decreased follicle stimulating hormone level	50	28	2.11	4.73	9.4e-06	0.0012	3.55	1.96	6.53
+MP:0003861	abnormal nervous system development	1215	385	1.19	4.37	9.5e-06	0.0012	1.34	1.17	1.53
+MP:0002184	abnormal innervation	243	95	1.47	4.5	1e-05	0.0013	1.81	1.38	2.37
+MP:0001463	abnormal spatial learning	234	92	1.48	4.49	1.1e-05	0.0013	1.83	1.38	2.4
+MP:0009937	abnormal neuron differentiation	360	132	1.38	4.45	1e-05	0.0013	1.64	1.3	2.05
+MP:0005445	abnormal neurotransmitter secretion	82	40	1.84	4.59	1.2e-05	0.0015	2.67	1.68	4.22
+MP:0003369	abnormal circulating estrogen level	51	28	2.07	4.6	1.6e-05	0.0017	3.4	1.88	6.19
+MP:0000830	abnormal diencephalon morphology	289	109	1.42	4.38	1.5e-05	0.0017	1.71	1.33	2.19
+MP:0002058	neonatal lethality	979	315	1.21	4.24	1.8e-05	0.002	1.36	1.18	1.57
+MP:0011087	neonatal lethality, complete penetrance	672	225	1.26	4.24	2e-05	0.0021	1.43	1.21	1.7
+MP:0000653	abnormal sex gland morphology	897	291	1.22	4.23	2e-05	0.0021	1.37	1.18	1.6
+MP:0001454	abnormal cued conditioning behavior	115	51	1.67	4.36	2.5e-05	0.0023	2.23	1.51	3.29
+MP:0001574	abnormal oxygen level	285	107	1.42	4.28	2.3e-05	0.0023	1.7	1.32	2.18
+MP:0002081	perinatal lethality	1327	414	1.18	4.17	2.3e-05	0.0023	1.31	1.15	1.49
+MP:0002882	abnormal neuron morphology	1515	467	1.16	4.15	2.4e-05	0.0023	1.29	1.14	1.46
+MP:0012322	decreased total tissue mass	1833	556	1.14	4.13	2.5e-05	0.0023	1.27	1.13	1.42
+MP:0001262	decreased body weight	1833	556	1.14	4.13	2.5e-05	0.0023	1.27	1.13	1.42
+MP:0001961	abnormal reflex	767	252	1.24	4.15	2.8e-05	0.0025	1.4	1.19	1.64
+MP:0003967	abnormal follicle stimulating hormone level	90	42	1.76	4.35	3e-05	0.0026	2.45	1.57	3.79
+MP:0005369	muscle phenotype	1401	434	1.17	4.1	3e-05	0.0026	1.3	1.14	1.47
+MP:0002557	abnormal social/conspecific interaction	351	127	1.36	4.18	3.2e-05	0.0027	1.6	1.27	2.01
+MP:0001146	abnormal testis morphology	646	216	1.26	4.13	3.2e-05	0.0027	1.43	1.2	1.7
+MP:0002106	abnormal muscle physiology	954	306	1.21	4.1	3.2e-05	0.0027	1.35	1.17	1.57
+MP:0005389	reproductive system phenotype	1944	585	1.13	4.01	4e-05	0.0032	1.25	1.12	1.4
+MP:0000815	abnormal Ammon gyrus morphology	69	34	1.86	4.3	4.2e-05	0.0034	2.71	1.64	4.49
+MP:0008262	abnormal hippocampus region morphology	64	32	1.89	4.27	4.9e-05	0.0037	2.79	1.65	4.72
+MP:0008540	abnormal cerebral hemisphere morphology	609	204	1.26	4.03	4.8e-05	0.0037	1.43	1.2	1.71
+MP:0000266	abnormal heart morphology	1397	431	1.16	3.98	4.9e-05	0.0037	1.29	1.13	1.46
+MP:0001364	decreased anxiety-related response	150	62	1.56	4.14	5.1e-05	0.0038	1.98	1.4	2.78
+MP:0002906	increased susceptibility to pharmacologically induced seizures	106	47	1.67	4.18	5.2e-05	0.0039	2.23	1.48	3.34
+MP:0000947	convulsive seizures	175	70	1.51	4.08	6.1e-05	0.0044	1.87	1.36	2.57
+MP:0009205	abnormal internal male genitalia morphology	785	255	1.22	3.95	6.1e-05	0.0044	1.37	1.17	1.61
+MP:0012349	increased susceptibility to induction of seizure by inducing agent	107	47	1.66	4.1	7e-05	0.0049	2.19	1.46	3.28
+MP:0001970	abnormal pain threshold	241	91	1.42	4	7.2e-05	0.005	1.71	1.3	2.24
+MP:0001458	abnormal object recognition memory	82	38	1.75	4.08	8.5e-05	0.0052	2.41	1.52	3.82
+MP:0000950	abnormal seizure response to pharmacological agent	134	56	1.58	4.03	8.1e-05	0.0052	2.01	1.4	2.88
+MP:0001629	abnormal heart rate	229	87	1.43	3.98	8e-05	0.0052	1.72	1.3	2.28
+MP:0008143	abnormal dendrite morphology	198	77	1.47	3.98	8.3e-05	0.0052	1.79	1.32	2.41
+MP:0001968	abnormal touch/ nociception	299	109	1.37	3.95	8e-05	0.0052	1.62	1.26	2.07
+MP:0001147	small testis	489	167	1.29	3.93	7.7e-05	0.0052	1.47	1.2	1.79
+MP:0001116	small gonad	536	181	1.27	3.91	7.8e-05	0.0052	1.45	1.19	1.74
+MP:0004849	abnormal testis size	523	177	1.28	3.9	8.2e-05	0.0052	1.45	1.19	1.75
+MP:0013325	abnormal male reproductive gland morphology	747	243	1.23	3.88	8.3e-05	0.0052	1.37	1.16	1.62
+MP:0001145	abnormal male reproductive system morphology	806	260	1.22	3.86	8.7e-05	0.0052	1.36	1.16	1.59
+MP:0009198	abnormal male genitalia morphology	806	260	1.22	3.86	8.7e-05	0.0052	1.36	1.16	1.59
+MP:0003137	abnormal impulse conducting system conduction	190	74	1.47	3.92	0.00011	0.0063	1.79	1.31	2.43
+MP:0005572	abnormal pulmonary respiratory rate	58	29	1.89	4.06	0.00011	0.0064	2.79	1.61	4.85
+MP:0001575	cyanosis	253	94	1.4	3.88	0.00011	0.0064	1.66	1.27	2.17
+MP:0000788	abnormal cerebral cortex morphology	363	128	1.33	3.85	0.00011	0.0064	1.54	1.22	1.92
+MP:0009358	environmentally induced seizures	45	24	2.01	4.08	0.00012	0.0066	3.19	1.7	6.03
+MP:0002160	abnormal reproductive system morphology	1278	394	1.16	3.76	0.00012	0.0066	1.28	1.12	1.46
+MP:0009454	impaired contextual conditioning behavior	61	30	1.85	4.02	0.00012	0.0068	2.7	1.58	4.62
+MP:0002733	abnormal thermal nociception	154	62	1.52	3.89	0.00013	0.0069	1.89	1.34	2.64
+MP:0011108	embryonic lethality during organogenesis, incomplete penetrance	315	113	1.35	3.82	0.00013	0.0069	1.58	1.23	2
+MP:0001544	abnormal cardiovascular system physiology	1571	476	1.14	3.72	0.00013	0.0069	1.25	1.11	1.41
+MP:0001413	abnormal response to new environment	226	85	1.42	3.82	0.00014	0.0075	1.69	1.27	2.24
+MP:0002211	abnormal primary sex determination	552	184	1.26	3.74	0.00015	0.0079	1.42	1.17	1.71
+MP:0020158	abnormal behavioral response to cocaine	36	20	2.09	3.95	0.00021	0.011	3.48	1.71	7.2
+MP:0001405	impaired coordination	454	154	1.28	3.66	0.00021	0.011	1.45	1.18	1.78
+MP:0000778	abnormal nervous system tract morphology	210	79	1.42	3.68	0.00024	0.012	1.69	1.26	2.26
+MP:0008762	embryonic lethality	1763	527	1.13	3.56	0.00023	0.012	1.23	1.1	1.38
+MP:0005183	abnormal circulating estradiol level	47	24	1.93	3.82	0.00028	0.014	2.91	1.57	5.4
+MP:0004085	abnormal heartbeat	288	103	1.35	3.61	0.00029	0.014	1.57	1.21	2.01
+MP:0004166	abnormal limbic system morphology	393	135	1.3	3.59	0.00028	0.014	1.48	1.18	1.83
+MP:0005574	decreased pulmonary respiratory rate	20	13	2.45	3.9	0.00034	0.015	5.17	1.91	15.3
+MP:0000948	nonconvulsive seizures	42	22	1.97	3.8	0.00031	0.015	3.07	1.59	5.93
+MP:0001447	abnormal nest building behavior	37	20	2.04	3.8	0.00034	0.015	3.28	1.63	6.67
+MP:0012315	impaired learning	75	34	1.71	3.71	0.00033	0.015	2.32	1.42	3.75
+MP:0001154	seminiferous tubule degeneration	92	40	1.64	3.7	0.00031	0.015	2.15	1.38	3.32
+MP:0010559	heart block	78	35	1.69	3.69	0.00035	0.015	2.27	1.41	3.65
+MP:0003997	tonic-clonic seizures	78	35	1.69	3.69	0.00035	0.015	2.27	1.41	3.65
+MP:0009748	abnormal behavioral response to addictive substance	101	43	1.61	3.67	0.00032	0.015	2.07	1.36	3.14
+MP:0001119	abnormal female reproductive system morphology	444	150	1.27	3.55	0.00031	0.015	1.44	1.17	1.77
+MP:0009208	abnormal female genitalia morphology	441	149	1.27	3.54	0.00032	0.015	1.44	1.17	1.77
+MP:0002210	abnormal sex determination	587	192	1.23	3.51	0.00034	0.015	1.38	1.14	1.65
+MP:0005380	embryo phenotype	1722	514	1.13	3.47	0.00033	0.015	1.23	1.09	1.38
+MP:0002272	abnormal nervous system electrophysiology	339	118	1.31	3.52	0.00037	0.016	1.5	1.19	1.9
+MP:0005076	abnormal cell differentiation	712	228	1.21	3.46	0.00039	0.016	1.34	1.13	1.58
+MP:0011085	postnatal lethality, complete penetrance	650	210	1.22	3.46	0.00039	0.016	1.35	1.13	1.61
+MP:0010771	integument phenotype	1829	543	1.12	3.42	0.00038	0.016	1.22	1.09	1.37
+MP:0003119	abnormal digestive system development	99	42	1.6	3.6	0.00041	0.017	2.06	1.34	3.13
+MP:0001417	decreased exploration in new environment	102	43	1.59	3.6	0.00042	0.017	2.04	1.34	3.08
+MP:0008415	abnormal neurite morphology	423	143	1.27	3.47	0.00041	0.017	1.44	1.16	1.78
+MP:0003484	abnormal channel response	35	19	2.05	3.73	0.00044	0.018	3.31	1.61	6.89
+MP:0013189	abnormal exploration in a new environment	185	70	1.43	3.52	0.00044	0.018	1.71	1.24	2.33
+MP:0002083	premature death	1443	435	1.14	3.39	0.00044	0.018	1.24	1.09	1.4
+MP:0003062	abnormal coping response	51	25	1.85	3.65	0.00047	0.019	2.68	1.48	4.84
+MP:0002061	abnormal aggression-related behavior	91	39	1.62	3.55	0.00051	0.02	2.1	1.34	3.24
+MP:0004077	abnormal striatum morphology	91	39	1.62	3.55	0.00051	0.02	2.1	1.34	3.24
+MP:0002804	abnormal motor learning	57	27	1.79	3.58	0.00057	0.022	2.51	1.43	4.38
+MP:0003461	abnormal response to novel object	60	28	1.76	3.55	0.00061	0.023	2.44	1.41	4.19
+MP:0005294	abnormal heart ventricle morphology	686	219	1.2	3.33	0.00061	0.023	1.33	1.12	1.57
+MP:0006042	increased apoptosis	832	261	1.18	3.32	0.00061	0.023	1.3	1.11	1.52
+MP:0002127	abnormal cardiovascular system morphology	1950	574	1.11	3.28	0.00063	0.023	1.2	1.07	1.35
+MP:0008462	abnormal medium spiny neuron morphology	10	8	3.02	3.83	0.00064	0.024	11.1	2.22	108
+MP:0005134	decreased thyroid-stimulating hormone level	21	13	2.33	3.68	0.00068	0.024	4.52	1.73	12.6
+MP:0001302	eyelids open at birth	89	38	1.61	3.47	0.00066	0.024	2.08	1.33	3.24
+MP:0005316	abnormal response to tactile stimuli	107	44	1.55	3.44	0.00068	0.024	1.95	1.29	2.92
+MP:0012079	abnormal spinal reflex	107	44	1.55	3.44	0.00068	0.024	1.95	1.29	2.92
+MP:0001516	abnormal motor coordination/ balance	833	261	1.18	3.3	0.00067	0.024	1.3	1.11	1.51
+MP:0003492	abnormal involuntary movement	942	292	1.17	3.28	0.00068	0.024	1.28	1.1	1.48
+MP:0002801	abnormal long term object recognition memory	36	19	1.99	3.58	0.00071	0.025	3.11	1.53	6.39
+MP:0002752	abnormal somatic nervous system morphology	933	289	1.17	3.25	0.00077	0.026	1.28	1.1	1.48
+MP:0001919	abnormal reproductive system physiology	1581	471	1.12	3.23	0.00075	0.026	1.22	1.08	1.37
+MP:0012316	enhanced conditioning behavior	39	20	1.93	3.51	0.00083	0.027	2.93	1.48	5.82
+MP:0002790	decreased circulating follicle stimulating hormone level	39	20	1.93	3.51	0.00083	0.027	2.93	1.48	5.82
+MP:0003934	abnormal pancreas development	47	23	1.85	3.49	0.00081	0.027	2.67	1.44	4.95
+MP:0003998	decreased thermal nociceptive threshold	47	23	1.85	3.49	0.00081	0.027	2.67	1.44	4.95
+MP:0000467	abnormal esophagus morphology	81	35	1.63	3.42	0.00082	0.027	2.12	1.32	3.38
+MP:0009747	impaired behavioral response to xenobiotic	87	37	1.6	3.4	0.00084	0.027	2.07	1.31	3.23
+MP:0002945	abnormal inhibitory postsynaptic currents	87	37	1.6	3.4	0.00084	0.027	2.07	1.31	3.23
+MP:0005117	increased circulating pituitary hormone level	111	45	1.53	3.37	0.00086	0.027	1.91	1.27	2.83
+MP:0004850	abnormal testis weight	279	98	1.32	3.31	8e-04	0.027	1.52	1.17	1.96
+MP:0009209	abnormal internal female genitalia morphology	432	144	1.26	3.28	0.00078	0.027	1.41	1.14	1.74
+MP:0000801	abnormal temporal lobe morphology	352	120	1.29	3.28	0.00083	0.027	1.46	1.15	1.83
+MP:0003371	decreased circulating estrogen level	34	18	2	3.5	0.00093	0.028	3.13	1.5	6.57
+MP:0009749	enhanced behavioral response to addictive substance	50	24	1.81	3.45	9e-04	0.028	2.57	1.41	4.67
+MP:0005407	hyperalgesia	67	30	1.69	3.4	0.00093	0.028	2.26	1.35	3.77
+MP:0010508	abnormal heart electrocardiography waveform feature	170	64	1.42	3.32	0.00088	0.028	1.69	1.22	2.34
+MP:0003088	abnormal prepulse inhibition	186	69	1.4	3.3	9e-04	0.028	1.65	1.2	2.25
+MP:0001258	decreased body length	326	112	1.3	3.26	0.00089	0.028	1.47	1.15	1.87
+MP:0002216	abnormal seminiferous tubule morphology	346	118	1.29	3.26	9e-04	0.028	1.46	1.15	1.84
+MP:0002086	abnormal extraembryonic tissue morphology	663	211	1.2	3.21	0.00092	0.028	1.32	1.11	1.57
+MP:0012556	increased cell death	837	261	1.18	3.2	0.00091	0.028	1.29	1.1	1.5
+MP:0009754	enhanced behavioral response to cocaine	24	14	2.2	3.53	0.00098	0.029	3.89	1.61	9.81
+MP:0013561	abnormal endocrine gland physiology	387	130	1.27	3.22	0.00099	0.029	1.42	1.14	1.77
+MP:0011086	postnatal lethality, incomplete penetrance	786	246	1.18	3.17	0.001	0.03	1.29	1.1	1.52
+MP:0011385	abnormal testosterone level	82	35	1.61	3.33	0.0011	0.031	2.08	1.3	3.3
+MP:0003216	absence seizures	37	19	1.94	3.43	0.0011	0.032	2.94	1.46	5.95
+MP:0009711	abnormal conditioned place preference behavior	37	19	1.94	3.43	0.0011	0.032	2.94	1.46	5.95
+MP:0001360	abnormal social investigation	106	43	1.53	3.29	0.0011	0.032	1.91	1.26	2.86
+MP:0000955	abnormal spinal cord morphology	335	114	1.28	3.17	0.0012	0.034	1.45	1.14	1.84
+MP:0004834	ovary hemorrhage	15	10	2.51	3.52	0.0013	0.036	5.56	1.73	20.7
+MP:0003336	pancreas cysts	22	13	2.23	3.46	0.0013	0.036	4.02	1.59	10.7
+MP:0005473	decreased triiodothyronine level	22	13	2.23	3.46	0.0013	0.036	4.02	1.59	10.7
+MP:0001524	impaired limb coordination	71	31	1.65	3.28	0.0013	0.036	2.16	1.3	3.55
+MP:0003965	abnormal pituitary hormone level	217	78	1.36	3.18	0.0013	0.036	1.57	1.17	2.1
+MP:0004811	abnormal neuron physiology	667	211	1.19	3.1	0.0013	0.036	1.31	1.1	1.55
+MP:0001299	abnormal eye distance/ position	77	33	1.62	3.26	0.0013	0.037	2.09	1.29	3.37
+MP:0002574	increased vertical activity	80	34	1.6	3.25	0.0014	0.037	2.06	1.28	3.29
+MP:0002751	abnormal autonomic nervous system morphology	92	38	1.56	3.23	0.0014	0.037	1.96	1.26	3.04
+MP:0003361	abnormal circulating gonadotropin level	107	43	1.52	3.22	0.0014	0.037	1.88	1.24	2.81
+MP:0005333	decreased heart rate	141	54	1.44	3.19	0.0014	0.037	1.74	1.21	2.47
+MP:0005116	abnormal circulating pituitary hormone level	182	67	1.39	3.18	0.0013	0.037	1.63	1.18	2.23
+MP:0011091	prenatal lethality, complete penetrance	390	130	1.26	3.11	0.0014	0.037	1.41	1.12	1.75
+MP:0010519	atrioventricular block	57	26	1.72	3.28	0.0014	0.038	2.34	1.33	4.08
+MP:0001256	abnormal body length	377	126	1.26	3.1	0.0015	0.038	1.41	1.12	1.77
+MP:0011819	increased pancreatic beta cell proliferation	13	9	2.61	3.49	0.0016	0.041	6.25	1.74	27.8
+MP:0009450	abnormal axon fasciculation	30	16	2.01	3.33	0.0016	0.042	3.18	1.45	7.05
+MP:0003971	abnormal thyroid-stimulating hormone level	38	19	1.89	3.28	0.0016	0.042	2.78	1.39	5.57
+MP:0006141	abnormal atrioventricular node conduction	69	30	1.64	3.2	0.0017	0.042	2.14	1.28	3.55
+MP:0009546	absent gastric milk in neonates	114	45	1.49	3.15	0.0016	0.042	1.82	1.22	2.7
+MP:0020167	abnormal vertical activity	222	79	1.34	3.1	0.0016	0.042	1.55	1.16	2.06
+MP:0004245	genital hemorrhage	25	14	2.11	3.34	0.0017	0.043	3.54	1.49	8.63
+MP:0004994	abnormal brain wave pattern	72	31	1.62	3.19	0.0017	0.043	2.11	1.28	3.45
+MP:0002918	abnormal paired-pulse facilitation	75	32	1.61	3.18	0.0017	0.043	2.08	1.27	3.37
+MP:0001680	abnormal mesoderm development	78	33	1.6	3.17	0.0017	0.043	2.05	1.26	3.29
+MP:0002912	abnormal excitatory postsynaptic potential	108	43	1.5	3.15	0.0017	0.043	1.85	1.22	2.77
+MP:0010500	myocardium hypoplasia	105	42	1.51	3.15	0.0017	0.043	1.86	1.23	2.8
+MP:0000738	impaired muscle contractility	315	107	1.28	3.05	0.0018	0.043	1.44	1.13	1.84
+MP:0004250	tau protein deposits	11	8	2.74	3.47	0.0018	0.044	7.41	1.78	43.4
+MP:0005119	decreased circulating thyroid-stimulating hormone level	11	8	2.74	3.47	0.0018	0.044	7.41	1.78	43.4
+MP:0005132	decreased luteinizing hormone level	41	20	1.84	3.24	0.0018	0.044	2.65	1.36	5.15
+MP:0002108	abnormal muscle morphology	963	294	1.15	2.98	0.0018	0.044	1.25	1.07	1.45
+MP:0001007	abnormal sympathetic system morphology	55	25	1.71	3.19	0.0019	0.045	2.32	1.31	4.09
+MP:0006007	abnormal basal ganglion morphology	127	49	1.45	3.1	0.0019	0.045	1.76	1.2	2.55
+MP:0005391	vision/eye phenotype	1518	449	1.12	2.95	0.0019	0.045	1.2	1.06	1.36
+MP:0000633	abnormal pituitary gland morphology	118	46	1.47	3.09	0.002	0.046	1.78	1.2	2.63
+MP:0009944	abnormal olfactory lobe morphology	178	65	1.38	3.05	0.002	0.046	1.61	1.16	2.21
+MP:0004494	abnormal synaptic glutamate release	18	11	2.3	3.33	0.0021	0.048	4.37	1.54	13.3
+MP:0009677	abnormal spinal cord dorsal column morphology	18	11	2.3	3.33	0.0021	0.048	4.37	1.54	13.3
+MP:0008223	absent hippocampal commissure	18	11	2.3	3.33	0.0021	0.048	4.37	1.54	13.3
+MP:0002872	polycythemia	18	11	2.3	3.33	0.0021	0.048	4.37	1.54	13.3
+MP:0000084	abnormal fontanelle morphology	28	15	2.02	3.25	0.0021	0.048	3.21	1.42	7.34
+MP:0009712	impaired conditioned place preference behavior	28	15	2.02	3.25	0.0021	0.048	3.21	1.42	7.34
+MP:0002230	abnormal primitive streak formation	67	29	1.63	3.12	0.0021	0.048	2.13	1.26	3.55
+MP:0000819	abnormal olfactory bulb morphology	159	59	1.4	3.05	0.002	0.048	1.65	1.17	2.31
+MP:0009453	enhanced contextual conditioning behavior	23	13	2.13	3.26	0.0022	0.049	3.61	1.46	9.22
+MP:0003990	decreased neurotransmitter release	36	18	1.89	3.2	0.0022	0.049	2.78	1.36	5.68
+MP:0001683	absent mesoderm	70	30	1.62	3.11	0.0022	0.049	2.09	1.25	3.45
+MP:0005180	abnormal circulating testosterone level	79	33	1.57	3.08	0.0022	0.049	2	1.24	3.21
+MP:0009819	abnormal circulating androgen level	79	33	1.57	3.08	0.0022	0.049	2	1.24	3.21
+MP:0003973	increased pituitary hormone level	128	49	1.44	3.03	0.0023	0.049	1.73	1.18	2.51
+MP:0005620	abnormal muscle contractility	398	131	1.24	2.95	0.0022	0.049	1.38	1.1	1.72
+MP:0002161	abnormal fertility/fecundity	1395	414	1.12	2.9	0.0023	0.049	1.2	1.06	1.37

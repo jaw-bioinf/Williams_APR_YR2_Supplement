@@ -1,0 +1,49 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	114	1.51	4.87	2.7e-06	0.0043	1.68	1.35	2.09
+MP:0014134	abnormal embryo morphology	1333	183	1.37	4.82	2.2e-06	0.0043	1.53	1.28	1.82
+MP:0006207	embryonic lethality during organogenesis	942	136	1.44	4.72	4.3e-06	0.0043	1.6	1.3	1.95
+MP:0002085	abnormal embryonic tissue morphology	987	141	1.42	4.68	5e-06	0.0043	1.58	1.29	1.92
+MP:0012322	decreased total tissue mass	1833	236	1.28	4.48	7.7e-06	0.0044	1.43	1.22	1.68
+MP:0001262	decreased body weight	1833	236	1.28	4.48	7.7e-06	0.0044	1.43	1.22	1.68
+MP:0005380	embryo phenotype	1722	223	1.29	4.43	1e-05	0.0045	1.43	1.22	1.69
+MP:0002152	abnormal brain morphology	1633	213	1.3	4.42	1e-05	0.0045	1.44	1.22	1.7
+MP:0009115	abnormal fat cell morphology	209	41	1.95	4.65	1.9e-05	0.0066	2.24	1.54	3.19
+MP:0000914	exencephaly	260	48	1.84	4.57	2.1e-05	0.0066	2.08	1.48	2.88
+MP:0005382	craniofacial phenotype	1099	151	1.37	4.33	2e-05	0.0066	1.51	1.24	1.82
+MP:0000428	abnormal craniofacial morphology	1095	150	1.36	4.27	2.5e-05	0.0071	1.5	1.24	1.81
+MP:0002151	abnormal neural tube morphology	590	89	1.5	4.2	4.6e-05	0.012	1.65	1.29	2.1
+MP:0002925	abnormal cardiovascular development	766	110	1.43	4.14	5e-05	0.012	1.57	1.25	1.95
+MP:0006208	lethality throughout fetal growth and development	504	78	1.54	4.16	5.8e-05	0.013	1.7	1.3	2.19
+MP:0003720	abnormal neural tube closure	377	61	1.61	4.04	0.00011	0.023	1.78	1.32	2.37
+MP:0005375	adipose tissue phenotype	937	128	1.36	3.87	0.00012	0.025	1.48	1.2	1.81
+MP:0000003	abnormal adipose tissue morphology	916	125	1.36	3.81	0.00015	0.028	1.48	1.2	1.81
+MP:0002114	abnormal axial skeleton morphology	1303	169	1.29	3.77	0.00015	0.028	1.41	1.17	1.68
+MP:0002081	perinatal lethality	1327	171	1.28	3.7	0.00019	0.033	1.4	1.16	1.67
+MP:0013592	small thymus cortex	19	8	4.19	4.65	0.00028	0.036	6.55	2.28	17.9
+MP:0000711	thymus cortex hypoplasia	19	8	4.19	4.65	0.00028	0.036	6.55	2.28	17.9
+MP:0009133	decreased white fat cell size	49	14	2.84	4.32	0.00023	0.036	3.62	1.79	6.93
+MP:0004129	abnormal respiratory quotient	119	25	2.09	4	0.00027	0.036	2.42	1.48	3.81
+MP:0003984	embryonic growth retardation	560	82	1.46	3.72	0.00025	0.036	1.59	1.23	2.03
+MP:0005371	limbs/digits/tail phenotype	1030	137	1.32	3.67	0.00023	0.036	1.44	1.17	1.75
+MP:0000266	abnormal heart morphology	1397	178	1.27	3.62	0.00025	0.036	1.38	1.15	1.64
+MP:0000267	abnormal heart development	377	59	1.56	3.69	0.00034	0.041	1.7	1.26	2.28
+MP:0001695	abnormal gastrulation	369	58	1.56	3.69	0.00034	0.041	1.71	1.26	2.29
+MP:0010379	decreased respiratory quotient	64	16	2.49	3.99	0.00045	0.045	3.02	1.59	5.43
+MP:0012542	abnormal neuropore morphology	96	21	2.18	3.87	0.00046	0.045	2.54	1.48	4.19
+MP:0002084	abnormal developmental patterning	478	71	1.48	3.58	0.00044	0.045	1.61	1.22	2.09
+MP:0010865	prenatal growth retardation	644	91	1.41	3.56	0.00041	0.045	1.52	1.19	1.93
+MP:0001672	abnormal embryo development	1018	134	1.31	3.49	0.00043	0.045	1.42	1.15	1.73
+MP:0003861	abnormal nervous system development	1215	156	1.28	3.46	0.00046	0.045	1.38	1.14	1.66
+MP:0010273	increased classified tumor incidence	571	82	1.43	3.53	0.00048	0.046	1.55	1.2	1.98
+MP:0002968	increased circulating alkaline phosphatase level	189	34	1.79	3.66	0.00054	0.049	2	1.33	2.93
+MP:0004196	abnormal prenatal growth/weight/body size	1147	148	1.28	3.43	0.00052	0.049	1.39	1.14	1.68
+MP:0000120	malocclusion	48	13	2.69	3.93	0.00067	0.05	3.35	1.62	6.53
+MP:0005288	abnormal oxygen consumption	168	31	1.84	3.65	6e-04	0.05	2.06	1.34	3.08
+MP:0010425	abnormal heart and great vessel attachment	213	37	1.73	3.59	0.00062	0.05	1.92	1.3	2.77
+MP:0010426	abnormal heart and great artery attachment	213	37	1.73	3.59	0.00062	0.05	1.92	1.3	2.77
+MP:0002188	small heart	214	37	1.72	3.56	0.00068	0.05	1.91	1.29	2.75
+MP:0020188	abnormal classified tumor incidence	578	82	1.41	3.41	7e-04	0.05	1.52	1.18	1.95
+MP:0000438	abnormal cranium morphology	679	94	1.38	3.41	0.00066	0.05	1.49	1.17	1.87
+MP:0002088	abnormal embryonic growth/weight/body size	966	127	1.31	3.38	0.00065	0.05	1.41	1.14	1.73
+MP:0010866	abnormal prenatal body size	862	115	1.33	3.37	0.00069	0.05	1.43	1.15	1.77
+MP:0008762	embryonic lethality	1763	215	1.21	3.32	0.00066	0.05	1.31	1.11	1.55

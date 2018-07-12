@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002063	Rigidity	103	13	4.26	5.87	7.4e-06	0.0085	5.26	2.6	9.9
+HP:0000708	Behavioral abnormality	997	49	1.66	4.29	3e-05	0.017	2.31	1.53	3.48

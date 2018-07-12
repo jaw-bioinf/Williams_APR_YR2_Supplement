@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	4	5.95	4.11	0.0042	0.025	6.84	1.72	20
+path:hsa04970	Salivary secretion	90	3	7.14	4.02	0.0082	0.025	8.03	1.53	26.7

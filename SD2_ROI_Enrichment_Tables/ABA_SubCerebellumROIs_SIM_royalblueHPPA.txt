@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000684	Delayed eruption of teeth	128	7	6.86	6.05	4.5e-05	0.025	9.24	3.26	23.1
+HP:0003083	Dislocated radial head	56	4	8.95	5.38	9e-04	0.042	11	2.67	33.6
+HP:0003995	Abnormality of the radial head	57	4	8.8	5.32	0.00096	0.042	10.8	2.62	32.9
+HP:0100744	Abnormality of the humeroradial joint	62	4	8.09	5.05	0.0013	0.042	9.82	2.4	29.9
+HP:0006483	Abnormal number of teeth	213	8	4.71	5.01	0.00017	0.042	6.39	2.4	15.4
+HP:0006292	Abnormality of dental eruption	173	7	5.07	4.93	0.00031	0.042	6.65	2.35	16.5
+HP:0000668	Hypodontia	96	5	6.53	4.93	0.00082	0.042	8.09	2.35	22.4
+HP:0000325	Triangular face	102	5	6.14	4.73	0.0011	0.042	7.58	2.2	21
+HP:0009804	Reduced number of teeth	190	7	4.62	4.6	0.00055	0.042	6	2.13	14.9
+HP:0002059	Cerebral atrophy	421	10	2.98	3.88	0.00098	0.042	4.15	1.7	9.55
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	10	2.96	3.85	0.001	0.042	4.11	1.68	9.48
+HP:0001322	Brain very small	434	10	2.89	3.77	0.0012	0.042	4	1.64	9.22
+HP:0012444	Brain atrophy	434	10	2.89	3.77	0.0012	0.042	4	1.64	9.22
+HP:0011355	Localized skin lesion	604	12	2.49	3.61	0.0013	0.042	3.66	1.57	8.29
+HP:0011282	Abnormality of hindbrain morphology	889	15	2.12	3.45	0.0012	0.042	3.44	1.52	7.89
+HP:0011283	Abnormality of the metencephalon	889	15	2.12	3.45	0.0012	0.042	3.44	1.52	7.89
+HP:0012639	Abnormality of nervous system morphology	2000	24	1.5	3.08	0.0012	0.042	4.57	1.57	18.2

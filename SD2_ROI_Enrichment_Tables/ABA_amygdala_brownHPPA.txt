@@ -1,0 +1,10 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0009830 Peripheral neuropathy 405 77 1.6 4.72 6e-06 0.01 1.91 1.43 2.52
+HP:0025270 Abnormality of esophagus physiology 301 60 1.68 4.52 1.7e-05 0.01 1.99 1.44 2.71
+HP:0100851 Abnormal emotion/affect behavior 484 87 1.51 4.46 1.4e-05 0.01 1.79 1.37 2.33
+HP:0100022 Abnormality of movement 1159 177 1.29 4.36 1.1e-05 0.01 1.59 1.28 1.96
+HP:0003474 Sensory impairment 183 40 1.84 4.28 6.1e-05 0.028 2.19 1.48 3.18
+HP:0002015 Dysphagia 227 46 1.71 4.04 0.00012 0.041 1.99 1.39 2.83
+HP:0001265 Hyporeflexia 280 54 1.62 3.99 0.00012 0.041 1.89 1.35 2.61
+HP:0001315 Reduced tendon reflexes 399 71 1.5 3.88 0.00015 0.041 1.73 1.29 2.3
+HP:0011804 Abnormality of muscle physiology 1558 220 1.19 3.66 0.00016 0.041 1.46 1.19 1.81

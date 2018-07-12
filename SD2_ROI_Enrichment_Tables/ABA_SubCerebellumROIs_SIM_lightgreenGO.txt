@@ -1,0 +1,20 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0389	3	10	1	0.1	0.333	CORUM:3022	cor	16	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	SS18L1
+2	1	TRUE	0.0389	3	10	1	0.1	0.333	CORUM:3023	cor	9	Cohesin complex, incomplete (Smc1b, Sycp1, Crest/Ss18I1)	1	SS18L1
+3	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:6759	cor	1	Vangl1-Dvl1 complex	1	VANGL1
+4	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:6761	cor	12	Vangl1-Dvl3 complex	1	VANGL1
+5	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:975	cor	6	Ocrl-Cdc42 complex	1	CDC42
+6	1	TRUE	0.0389	3	10	1	0.1	0.333	CORUM:1549	cor	8	Kpna2-Kpnb1 complex	1	KPNA2
+7	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:3018	cor	10	Cohesin complex, incomplete (Sycp2, Crest/Ss18I1)	1	SS18L1
+8	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:3020	cor	7	Cohesin complex, incomplete (Rec8, Crest/Ss18I1)	1	SS18L1
+9	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:6760	cor	4	Vangl1-Dvl2 complex	1	VANGL1
+10	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:3019	cor	14	Cohesin complex, incomplete (Smc4, Crest/Ss18I1)	1	SS18L1
+11	1	TRUE	0.00724	3	10	2	0.2	0.667	CORUM:677	cor	13	Mt3-Hsp84-Ck complex	1	CKB,MT3
+12	1	TRUE	0.0389	3	10	1	0.1	0.333	CORUM:3024	cor	15	Cohesin complex, incomplete (Smc3, Sycp1, Crest/Ss18I1)	1	SS18L1
+13	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:6614	cor	3	GAP-43-Galphai complex	1	GAP43
+14	1	TRUE	0.0389	3	10	1	0.1	0.333	CORUM:3014	cor	19	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	SS18L1
+15	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:6407	cor	18	Vangl1-Vangl2 complex	1	VANGL1
+16	1	TRUE	0.0178	6	10	2	0.2	0.333	CORUM:676	cor	11	Metallothionein-3 complex	1	CKB,MT3
+17	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:3017	cor	5	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	SS18L1
+18	1	TRUE	0.0381	2	10	1	0.1	0.5	CORUM:3021	cor	17	Cohesin complex, incomplete (Smc1b, Crest/Ss18I1)	1	SS18L1
+19	1	TRUE	0.0389	3	10	1	0.1	0.333	CORUM:6227	cor	2	S4-synectin-RhoGDI1 complex	1	SDC4

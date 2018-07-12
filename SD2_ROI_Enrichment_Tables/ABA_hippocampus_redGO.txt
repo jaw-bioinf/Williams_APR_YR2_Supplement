@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0114	15	389	5	0.013	0.333	GO:0033865	BP	1	nucleoside bisphosphate metabolic process	1	SULT2B1,PANK3,DCAKD,PPCS,SULT1B1
+2	1	TRUE	0.0114	15	389	5	0.013	0.333	GO:0033875	BP	1	ribonucleoside bisphosphate metabolic process	2	SULT2B1,PANK3,DCAKD,PPCS,SULT1B1
+3	1	TRUE	0.0114	15	389	5	0.013	0.333	GO:0034032	BP	1	purine nucleoside bisphosphate metabolic process	1	SULT2B1,PANK3,DCAKD,PPCS,SULT1B1

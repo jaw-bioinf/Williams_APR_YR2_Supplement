@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-211859	Biological oxidations	223	3	6.41	3.75	0.011	0.011	7.4	1.39	25.6
+R-HSA-1430728	Metabolism	1899	9	2.26	2.8	0.01	0.011	3.21	1.19	8.33

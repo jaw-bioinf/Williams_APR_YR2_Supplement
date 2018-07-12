@@ -1,0 +1,32 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-71387	Metabolism of carbohydrates	263	9	4.69	5.2	0.00012	0.0081	5.36	2.32	11
+R-HSA-112316	Neuronal System	356	10	3.85	4.7	0.00024	0.0084	4.4	2	8.73
+R-HSA-400042	Adrenaline,noradrenaline inhibits insulin secretion	23	3	17.9	6.95	0.00059	0.0089	21.2	3.95	73.9
+R-HSA-418592	ADP signalling through P2Y purinoceptor 1	25	3	16.5	6.63	0.00076	0.0089	19.3	3.62	66.4
+R-HSA-1296071	Potassium Channels	99	5	6.93	5.08	0.00075	0.0089	7.7	2.37	19.5
+R-HSA-76002	Platelet activation, signaling and aggregation	271	8	4.05	4.36	0.00076	0.0089	4.53	1.86	9.59
+R-HSA-418597	G alpha (z) signalling events	30	3	13.7	5.98	0.0013	0.0092	15.7	2.98	52.9
+R-HSA-392518	Signal amplification	32	3	12.9	5.76	0.0016	0.0092	14.6	2.79	48.9
+R-HSA-451326	Activation of kainate receptors upon glutamate binding	32	3	12.9	5.76	0.0016	0.0092	14.6	2.79	48.9
+R-HSA-456926	Thrombin signalling through proteinase activated receptors (PARs)	32	3	12.9	5.76	0.0016	0.0092	14.6	2.79	48.9
+R-HSA-422356	Regulation of insulin secretion	66	4	8.31	5.11	0.0013	0.0092	9.23	2.37	25.9
+R-HSA-1430728	Metabolism	1899	25	1.81	3.34	0.0014	0.0092	2.24	1.32	3.72
+R-HSA-70263	Gluconeogenesis	34	3	12.1	5.56	0.0019	0.01	13.7	2.62	45.5
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	36	3	11.4	5.37	0.0022	0.011	12.8	2.46	42.5
+R-HSA-70326	Glucose metabolism	81	4	6.77	4.47	0.0028	0.013	7.42	1.92	20.6
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	3	9.8	4.9	0.0035	0.014	10.9	2.1	35.5
+R-HSA-390466	Chaperonin-mediated protein folding	43	3	9.57	4.83	0.0037	0.014	10.6	2.05	34.5
+R-HSA-391251	Protein folding	43	3	9.57	4.83	0.0037	0.014	10.6	2.05	34.5
+R-HSA-163685	Integration of energy metabolism	92	4	5.96	4.1	0.0045	0.016	6.49	1.68	18
+R-HSA-382551	Transport of small molecules	705	12	2.33	3.15	0.0047	0.016	2.62	1.28	4.95
+R-HSA-4086398	Ca2+ pathway	55	3	7.48	4.13	0.0074	0.025	8.14	1.59	26.1
+R-HSA-425393	Transport of inorganic cations/anions and amino acids/oligopeptides	108	4	5.08	3.65	0.0079	0.025	5.48	1.43	15.1
+R-HSA-70171	Glycolysis	61	3	6.75	3.86	0.0099	0.03	7.3	1.43	23.3
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	4	4.46	3.31	0.012	0.036	4.78	1.25	13.1
+R-HSA-6794362	Protein-protein interactions at synapses	70	3	5.88	3.51	0.014	0.04	6.31	1.24	20
+R-HSA-1483257	Phospholipid metabolism	200	5	3.43	2.97	0.015	0.04	3.67	1.14	9.15
+R-HSA-397014	Muscle contraction	201	5	3.41	2.96	0.015	0.04	3.65	1.14	9.1
+R-HSA-111885	Opioid Signalling	74	3	5.56	3.37	0.017	0.042	5.95	1.17	18.8
+R-HSA-416476	G alpha (q) signalling events	207	5	3.31	2.88	0.017	0.042	3.54	1.1	8.82
+R-HSA-5576891	Cardiac conduction	139	4	3.95	3	0.019	0.043	4.21	1.1	11.5
+R-HSA-418346	Platelet homeostasis	79	3	5.21	3.22	0.02	0.045	5.56	1.1	17.5

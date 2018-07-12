@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:289	endometriosis	258	56	1.74	4.59	1.5e-05	0.011	2.02	1.46	2.75
+DOID:15	reproductive system disease	490	91	1.49	4.26	3.4e-05	0.012	1.68	1.3	2.14
+DOID:2871	endometrial carcinoma	134	32	1.92	4.05	0.00017	0.021	2.25	1.46	3.41
+DOID:229	female reproductive system disease	333	65	1.57	4.01	0.00011	0.021	1.76	1.31	2.35
+DOID:0050161	lower respiratory tract disease	656	112	1.37	3.78	0.00018	0.021	1.52	1.21	1.89
+DOID:1579	respiratory system disease	691	117	1.36	3.77	0.00018	0.021	1.5	1.2	1.86
+DOID:841	extrinsic allergic alveolitis	13	7	4.33	4.53	0.00039	0.028	8.26	2.37	29.9
+DOID:4989	pancreatitis	115	28	1.96	3.9	3e-04	0.028	2.31	1.44	3.59
+DOID:77	gastrointestinal system disease	1039	164	1.27	3.54	0.00034	0.028	1.39	1.15	1.68
+DOID:65	connective tissue disease	1050	165	1.26	3.49	4e-04	0.028	1.39	1.15	1.67
+DOID:10763	hypertension	569	97	1.37	3.47	0.00052	0.03	1.5	1.18	1.9
+DOID:0050828	artery disease	931	148	1.28	3.43	0.00051	0.03	1.4	1.15	1.7
+DOID:50	thyroid gland disease	103	25	1.95	3.66	0.00065	0.031	2.29	1.39	3.66
+DOID:1380	endometrial cancer	143	32	1.8	3.64	0.00058	0.031	2.07	1.34	3.11
+DOID:363	uterine cancer	144	32	1.79	3.59	0.00066	0.031	2.05	1.33	3.08
+DOID:1176	bronchial disease	364	66	1.46	3.38	0.00083	0.036	1.6	1.2	2.12
+DOID:26	pancreas disease	173	36	1.67	3.38	0.0011	0.044	1.89	1.26	2.76
+DOID:10591	pre-eclampsia	268	51	1.53	3.33	0.0011	0.044	1.69	1.21	2.33

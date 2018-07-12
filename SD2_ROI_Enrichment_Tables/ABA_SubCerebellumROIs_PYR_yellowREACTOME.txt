@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5663205	Infectious disease	326	47	1.83	4.44	3.6e-05	0.025	2.02	1.44	2.79
+R-HSA-168254	Influenza Infection	154	26	2.14	4.16	0.00017	0.039	2.41	1.51	3.73
+R-HSA-8953854	Metabolism of RNA	646	77	1.51	3.92	0.00014	0.039	1.64	1.26	2.11

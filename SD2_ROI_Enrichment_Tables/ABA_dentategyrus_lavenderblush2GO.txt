@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0431	4	4	1	0.25	0.25	CORUM:1792	cor	1	Lingo1-Rtn4r-Tnfrsf19 complex	1	LINGO1
+2	1	TRUE	0.0431	5	4	1	0.25	0.2	CORUM:128	cor	5	ORC complex (origin recognition complex)	1	ORC2
+3	1	TRUE	0.0462	8	4	1	0.25	0.125	CORUM:414	cor	6	(ER)-localized multiprotein complex, in absence of Ig heavy chains	1	HYOU1
+4	1	TRUE	0.0462	9	4	1	0.25	0.111	CORUM:413	cor	3	(ER)-localized multiprotein complex, Ig heavy chains associated	1	HYOU1
+5	1	TRUE	0.0431	3	4	1	0.25	0.333	CORUM:1122	cor	4	Smcb-Smcd-PW29 complex	1	RAD21
+6	1	TRUE	0.0412	7774	34	25	0.735	0.003	TF:M03567_0	tf	7	Factor: Sp2; motif: NYSGCCCCGCCCCCY; match class: 0	1	PIAS4,1700008O03RIK,UNC5B,MUM1,RNF135,MFSD11,CYP46A1,GPLD1,SPIN1,RAD21,GTF2IRD1,MM.5547,SRSF10,ZKSCAN1,HYOU1,HSDL1,VGF,STK35,CCDC138,TMEM199,ZFP608,ANKS1B,PPP2R5D,PSTK,CBX6
+7	1	TRUE	0.0412	13063	34	32	0.941	0.002	TF:M02089_0	tf	2	Factor: E2F-3; motif: GGCGGGN; match class: 0	1	YKT6,PIAS4,1700008O03RIK,UNC5B,MUM1,RNF135,MFSD11,CYP46A1,GPLD1,SPIN1,RAD21,GTF2IRD1,SAT1,MM.5547,ORC2,ZFP106,SRSF10,ZKSCAN1,HYOU1,HSDL1,VGF,STK35,CCDC138,ACAP2,LINGO1,TMEM199,ZFP608,ANKS1B,PPP2R5D,TRANK1,PSTK,CBX6

@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0005932	Abnormal renal corticomedullary differentiation	10	4	24.2	9.52	1.3e-05	0.0055	42.3	8.52	184
+HP:0001949	Hypokalemic alkalosis	12	4	20.2	8.62	3e-05	0.0055	31.7	6.78	123
+HP:0001948	Alkalosis	24	5	12.6	7.4	3.5e-05	0.0055	17	4.78	49.4
+HP:0000859	Hyperaldosteronism	16	4	15.1	7.34	0.00011	0.01	21.1	4.82	72.8
+HP:0000127	Renal salt wasting	16	4	15.1	7.34	0.00011	0.01	21.1	4.82	72.8
+HP:0200114	Metabolic alkalosis	10	3	18.2	7.04	0.00047	0.022	26.7	4.34	121
+HP:0002717	Adrenal overactivity	22	4	11	6.1	0.00039	0.022	14.1	3.36	44.7
+HP:0030760	Renal fibrosis	22	4	11	6.1	0.00039	0.022	14.1	3.36	44.7
+HP:0005576	Tubulointerstitial fibrosis	22	4	11	6.1	0.00039	0.022	14.1	3.36	44.7
+HP:0002902	Hyponatremia	23	4	10.5	5.94	0.00047	0.022	13.4	3.2	42
+HP:0012092	Abnormality of exocrine pancreas physiology	43	5	7.04	5.16	0.00062	0.026	8.46	2.5	22.7
+HP:0001944	Dehydration	67	6	5.42	4.73	0.00072	0.028	6.41	2.17	15.7
+HP:0011042	Abnormality of potassium homeostasis	47	5	6.44	4.86	0.00093	0.034	7.65	2.27	20.4
+HP:0004904	Maturity-onset diabetes of the young	14	3	13	5.82	0.0014	0.04	17	2.96	66.9
+HP:0010931	Abnormality of sodium homeostasis	29	4	8.35	5.15	0.0012	0.04	10.1	2.48	30.8
+HP:0001789	Hydrops fetalis	51	5	5.93	4.6	0.0014	0.04	6.97	2.08	18.5
+HP:0003074	Hyperglycemia	31	4	7.81	4.93	0.0015	0.042	9.38	2.31	28.3

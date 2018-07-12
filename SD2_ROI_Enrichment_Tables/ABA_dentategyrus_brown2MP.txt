@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002961	abnormal axon guidance	68	3	18.6	7.1	0.00052	0.038	22.3	4.12	78.7
+MP:0001542	abnormal bone strength	74	3	17.1	6.78	0.00067	0.038	20.4	3.78	71.4
+MP:0000778	abnormal nervous system tract morphology	210	4	8.03	5.03	0.0014	0.038	9.75	2.38	30
+MP:0004200	decreased fetal size	216	4	7.81	4.94	0.0015	0.038	9.47	2.31	29.1
+MP:0004198	abnormal fetal size	225	4	7.5	4.81	0.0017	0.038	9.08	2.22	27.9
+MP:0009937	abnormal neuron differentiation	360	5	5.86	4.58	0.0013	0.038	7.37	2.11	21
+MP:0002018	increased malignant tumor incidence	378	5	5.58	4.43	0.0016	0.038	7	2.01	19.9
+MP:0005076	abnormal cell differentiation	712	7	4.15	4.26	0.00093	0.038	5.66	1.95	14.8
+MP:0008866	chromosomal instability	112	3	11.3	5.34	0.0022	0.041	13.2	2.47	46
+MP:0010094	abnormal chromosome stability	114	3	11.1	5.29	0.0023	0.041	13	2.43	45.1

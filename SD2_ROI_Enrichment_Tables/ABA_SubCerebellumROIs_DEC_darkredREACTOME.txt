@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-388844	Receptor-type tyrosine-protein phosphatases	20	3	16	6.53	0.00081	0.032	19.2	3.54	67.9
+R-HSA-166058	MyD88:Mal cascade initiated on plasma membrane	92	5	5.79	4.49	0.0017	0.032	6.35	1.96	15.9
+R-HSA-168188	Toll Like Receptor TLR6:TLR2 Cascade	92	5	5.79	4.49	0.0017	0.032	6.35	1.96	15.9
+R-HSA-168179	Toll Like Receptor TLR1:TLR2 Cascade	95	5	5.61	4.39	0.002	0.032	6.13	1.9	15.4
+R-HSA-181438	Toll Like Receptor 2 (TLR2) Cascade	95	5	5.61	4.39	0.002	0.032	6.13	1.9	15.4

@@ -1,0 +1,12 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0012103 Abnormality of the mitochondrion 113 5 9.14 6.13 0.00014 0.012 13 3.53 40.6
+HP:0001298 Encephalopathy 178 6 6.96 5.69 0.00012 0.012 10.5 3.15 31.4
+HP:0011442 Abnormality of central motor function 1241 14 2.33 4.06 9.4e-05 0.012 8.61 2.4 46.8
+HP:0002415 Leukodystrophy 65 4 12.7 6.64 0.00021 0.013 17.3 3.98 57.9
+HP:0001250 Seizures 1138 13 2.36 3.89 0.00024 0.013 6.84 2.11 28.9
+HP:0012758 Neurodevelopmental delay 1201 13 2.23 3.68 0.00044 0.019 6.3 1.94 26.6
+HP:0003128 Lactic acidosis 168 5 6.14 4.77 0.00092 0.03 8.5 2.32 26.3
+HP:0000543 Optic disc pallor 168 5 6.14 4.77 0.00092 0.03 8.5 2.32 26.3
+HP:0003287 Abnormality of mitochondrial metabolism 99 4 8.34 5.17 0.0011 0.031 11 2.56 36.4
+HP:0004337 Abnormality of amino acid metabolism 196 5 5.27 4.29 0.0018 0.043 7.19 1.97 22.2
+HP:0011017 Abnormality of cell physiology 402 7 3.6 3.86 0.0017 0.043 5.49 1.76 16.1

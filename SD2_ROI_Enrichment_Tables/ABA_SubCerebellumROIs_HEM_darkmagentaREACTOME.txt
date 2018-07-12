@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-418592	ADP signalling through P2Y purinoceptor 1	25	3	20	7.39	0.00043	0.018	23.7	4.42	82.3
+R-HSA-392518	Signal amplification	32	3	15.6	6.44	9e-04	0.018	18	3.41	60.7
+R-HSA-420092	Glucagon-type ligand receptors	33	3	15.2	6.33	0.00098	0.018	17.4	3.3	58.5
+R-HSA-1500931	Cell-Cell communication	92	4	7.26	4.68	0.0022	0.03	8	2.06	22.4
+R-HSA-445717	Aquaporin-mediated transport	52	3	9.63	4.84	0.0037	0.035	10.6	2.06	34.5
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	3	8.21	4.38	0.0058	0.035	8.97	1.75	28.9
+R-HSA-373080	Class B/2 (Secretin family receptors)	61	3	8.21	4.38	0.0058	0.035	8.97	1.75	28.9
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	4.56	3.77	0.0047	0.035	4.99	1.54	12.6
+R-HSA-72172	mRNA Splicing	191	5	4.37	3.65	0.0056	0.035	4.77	1.47	12
+R-HSA-446728	Cell junction organization	70	3	7.15	4.01	0.0084	0.045	7.76	1.52	24.8

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0100691	Abnormality of the curvature of the cornea	209	4	11.2	6.29	0.00017	0.012	32.1	4.57	355
+HP:0000091	Abnormality of the renal tubule	102	3	17.2	6.87	0.00045	0.015	34.2	4.53	258
+HP:0000483	Astigmatism	167	3	10.5	5.21	0.0019	0.044	20.3	2.7	153
+HP:0012575	Abnormality of the nephron	192	3	9.14	4.8	0.0029	0.049	17.5	2.33	131

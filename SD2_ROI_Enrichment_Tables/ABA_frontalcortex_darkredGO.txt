@@ -1,0 +1,29 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0468	184	166	8	0.048	0.043	GO:0051091	BP	11	positive regulation of sequence-specific DNA binding transcription factor activity	1	IL4,IFRD1,CD36,RIPK3,CRTC2,PINK1,TLR9,PPRC1
+2	1	TRUE	0.0477	3	166	2	0.012	0.667	GO:0042097	BP	19	interleukin-4 biosynthetic process	1	ICOSL,IRF4
+3	1	TRUE	0.0477	3	166	2	0.012	0.667	GO:0045402	BP	19	regulation of interleukin-4 biosynthetic process	2	ICOSL,IRF4
+4	1	TRUE	0.0371	53	166	5	0.03	0.094	GO:0042108	BP	19	positive regulation of cytokine biosynthetic process	1	ICOSL,IL4,IRF4,TNFRSF8,TLR9
+5	1	TRUE	0.0371	2	166	2	0.012	1	GO:0045404	BP	19	positive regulation of interleukin-4 biosynthetic process	2	ICOSL,IRF4
+6	1	TRUE	0.0491	36	166	4	0.024	0.111	GO:1902750	BP	10	negative regulation of cell cycle G2/M phase transition	1	D7ERTD443E,TOPBP1,FANCI,HUS1B
+7	1	TRUE	0.0468	33	166	4	0.024	0.121	GO:0010972	BP	10	negative regulation of G2/M transition of mitotic cell cycle	1	D7ERTD443E,TOPBP1,FANCI,HUS1B
+8	1	TRUE	0.0371	25	166	4	0.024	0.16	GO:0044818	BP	10	mitotic G2/M transition checkpoint	1	D7ERTD443E,TOPBP1,FANCI,HUS1B
+9	1	TRUE	0.043	56	166	5	0.03	0.089	GO:0044774	BP	15	mitotic DNA integrity checkpoint	1	D7ERTD443E,TOPBP1,FANCI,HUS1B,SOX4
+10	1	TRUE	0.0371	50	166	5	0.03	0.1	GO:0044773	BP	15	mitotic DNA damage checkpoint	1	D7ERTD443E,TOPBP1,FANCI,HUS1B,SOX4
+11	1	TRUE	0.0371	53	166	5	0.03	0.094	GO:0002381	BP	20	immunoglobulin production involved in immunoglobulin mediated immune response	1	ICOSL,IL4,PAXIP1,APLF,BTK
+12	1	TRUE	0.0468	286	166	10	0.06	0.035	GO:0002697	BP	2	regulation of immune effector process	1	IL4,PAXIP1,CD36,RIPK3,C3,IL12A,CXCL1,APLF,TLR9,SERPINB9
+13	1	TRUE	0.0477	351	166	11	0.066	0.031	GO:0002443	BP	2	leukocyte mediated immunity	1	ICOSL,IL4,PAXIP1,RIPK3,C3,IL12A,CXCL1,APLF,BTK,TLR9,SERPINB9
+14	1	TRUE	0.0183	150	166	9	0.054	0.06	GO:0002703	BP	2	regulation of leukocyte mediated immunity	2	IL4,PAXIP1,RIPK3,C3,IL12A,CXCL1,APLF,TLR9,SERPINB9
+15	1	TRUE	0.0371	119	166	7	0.042	0.059	GO:0002706	BP	2	regulation of lymphocyte mediated immunity	3	IL4,PAXIP1,RIPK3,C3,IL12A,APLF,SERPINB9
+16	1	TRUE	0.0498	15	166	3	0.018	0.2	GO:0002888	BP	9	positive regulation of myeloid leukocyte mediated immunity	1	IL4,C3,CXCL1
+17	1	TRUE	0.0371	316	166	11	0.066	0.035	GO:0002460	BP	18	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	1	ICOSL,IL4,PAXIP1,IRF4,RIPK3,C3,IL12A,APLF,BTK,SERPINB9,ADAM17
+18	1	TRUE	0.0468	61	166	5	0.03	0.082	GO:0031341	BP	1	regulation of cell killing	1	IL4,RIPK3,IL12A,CXCL1,SERPINB9
+19	1	TRUE	0.0367	4	7	1	0.143	0.25	CORUM:5703	cor	17	Bash-Bnas2/Cmtm3-Btk-Erk2 complex	1	BTK
+20	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:3195	cor	14	G protein complex (Btk, Gng2, Gnb1)	1	BTK
+21	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:1151	cor	16	Sycp1-Syce1-Syce2 complex	1	SYCE1
+22	1	TRUE	0.0367	4	7	1	0.143	0.25	CORUM:679	cor	6	Tis7-Sin3-Hdac1-Ncor1-Sap30 complex	1	IFRD1
+23	1	TRUE	0.0355	2	7	1	0.143	0.5	CORUM:5791	cor	8	PlexinA1-PlexinB1 complex	1	PLXNA1
+24	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:6560	cor	4	PHB-ANX2-CD36 complex	1	CD36
+25	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:102	cor	7	Meiotic cohesin complex	1	REC8
+26	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:3022	cor	3	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	REC8
+27	1	TRUE	0.0355	2	7	1	0.143	0.5	CORUM:3020	cor	13	Cohesin complex, incomplete (Rec8, Crest/Ss18I1)	1	REC8
+28	1	TRUE	0.0457	132	36	8	0.222	0.061	HP:0002244	hp	5	Abnormality of the small intestine	1	COX4I2,FANCC,IL12A,SALL1,TTC37,FANCI,ADAM17,TCF4

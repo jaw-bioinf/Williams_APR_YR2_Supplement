@@ -1,0 +1,22 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	12	3.56	4.8	0.00013	0.0084	3.99	1.97	7.39
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	13	3.27	4.64	0.00016	0.0084	3.67	1.87	6.67
+R-HSA-264876	Insulin processing	14	3	19.7	7.34	0.00042	0.015	25.4	4.49	98.3
+R-HSA-168276	NS1 Mediated Effects on Host Pathways	39	4	9.42	5.53	0.00082	0.016	10.7	2.72	30.8
+R-HSA-168253	Host Interactions with Influenza Factors	41	4	8.96	5.36	0.00099	0.016	10.1	2.58	29
+R-HSA-1169408	ISG15 antiviral mechanism	71	5	6.47	4.85	0.001	0.016	7.16	2.21	18.1
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	5	6.47	4.85	0.001	0.016	7.16	2.21	18.1
+R-HSA-5620916	VxPx cargo-targeting to cilium	21	3	13.1	5.83	0.0014	0.019	15.5	2.89	54.3
+R-HSA-9007101	Rab regulation of trafficking	123	6	4.48	4.08	0.0022	0.026	4.87	1.71	11.3
+R-HSA-450282	MAPK targets/ Nuclear events mediated by MAP kinases	28	3	9.84	4.92	0.0034	0.029	11.2	2.13	37.5
+R-HSA-450294	MAP kinase activation in TLR cascade	60	4	6.12	4.18	0.0041	0.029	6.7	1.73	18.6
+R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	92	5	4.99	4.04	0.0032	0.029	5.42	1.68	13.6
+R-HSA-975155	MyD88 dependent cascade initiated on endosome	92	5	4.99	4.04	0.0032	0.029	5.42	1.68	13.6
+R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	96	5	4.78	3.91	0.0039	0.029	5.18	1.61	12.9
+R-HSA-8951664	Neddylation	235	8	3.13	3.46	0.0041	0.029	3.38	1.4	7.02
+R-HSA-597592	Post-translational protein modification	1353	25	1.7	2.89	0.0049	0.032	1.92	1.17	3.05
+R-HSA-448424	Interleukin-17 signaling	68	4	5.4	3.82	0.0063	0.038	5.85	1.52	16.2
+R-HSA-109581	Apoptosis	108	5	4.25	3.57	0.0064	0.038	4.57	1.42	11.4
+R-HSA-69618	Mitotic Spindle Checkpoint	112	5	4.1	3.46	0.0074	0.042	4.4	1.37	10.9
+R-HSA-5357801	Programmed Cell Death	115	5	3.99	3.39	0.0083	0.044	4.28	1.33	10.6
+R-HSA-2980736	Peptide hormone metabolism	76	4	4.83	3.52	0.0094	0.047	5.2	1.35	14.3

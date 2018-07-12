@@ -1,0 +1,42 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3247509	Chromatin modifying enzymes	227	47	2.42	6.63	7.5e-09	2.6e-06	2.9	2.04	4.05
+R-HSA-4839726	Chromatin organization	227	47	2.42	6.63	7.5e-09	2.6e-06	2.9	2.04	4.05
+R-HSA-5663202	Diseases of signal transduction	359	55	1.79	4.67	1.3e-05	0.003	2	1.46	2.7
+R-HSA-1368082	RORA activates gene expression	22	9	4.79	5.43	4.2e-05	0.0059	7.47	2.81	18.9
+R-HSA-1236394	Signaling by ERBB4	43	13	3.54	5.1	3.9e-05	0.0059	4.69	2.24	9.31
+R-HSA-2032785	YAP1- and WWTR1 (TAZ)-stimulated gene expression	28	10	4.18	5.15	6.2e-05	0.0062	6	2.47	13.8
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	67	1.61	4.21	5.5e-05	0.0062	1.77	1.33	2.32
+R-HSA-400253	Circadian Clock	36	11	3.57	4.73	0.00014	0.0098	4.75	2.1	10.1
+R-HSA-112399	IRS-mediated signalling	42	12	3.34	4.65	0.00014	0.0098	4.32	2.01	8.73
+R-HSA-74751	Insulin receptor signalling cascade	48	13	3.17	4.6	0.00014	0.0098	4.02	1.94	7.82
+R-HSA-389357	CD28 dependent PI3K/Akt signaling	22	8	4.25	4.67	3e-04	0.017	6.16	2.23	15.8
+R-HSA-8951671	RUNX3 regulates YAP1-mediated transcription	22	8	4.25	4.67	3e-04	0.017	6.16	2.23	15.8
+R-HSA-1251985	Nuclear signaling by ERBB4	18	7	4.55	4.61	0.00045	0.017	6.85	2.25	19.4
+R-HSA-2428928	IRS-related events triggered by IGF1R	46	12	3.05	4.26	0.00036	0.017	3.81	1.79	7.59
+R-HSA-109704	PI3K Cascade	41	11	3.14	4.19	0.00048	0.017	3.96	1.78	8.16
+R-HSA-1433557	Signaling by SCF-KIT	41	11	3.14	4.19	0.00048	0.017	3.96	1.78	8.16
+R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	47	12	2.99	4.17	0.00044	0.017	3.7	1.74	7.34
+R-HSA-2428924	IGF1R signaling cascade	47	12	2.99	4.17	0.00044	0.017	3.7	1.74	7.34
+R-HSA-6802952	Signaling by BRAF and RAF fusions	60	14	2.73	4.11	0.00042	0.017	3.29	1.66	6.13
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	19	2.36	4.06	0.00032	0.017	2.75	1.56	4.62
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	48	12	2.92	4.09	0.00055	0.018	3.6	1.7	7.12
+R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	42	11	3.06	4.1	6e-04	0.019	3.83	1.73	7.87
+R-HSA-166520	Signalling by NGF	147	25	1.99	3.69	0.00065	0.02	2.23	1.38	3.47
+R-HSA-3214842	HDMs demethylate histones	51	12	2.75	3.84	0.00098	0.029	3.32	1.58	6.51
+R-HSA-5633007	Regulation of TP53 Activity	160	26	1.9	3.51	0.001	0.029	2.11	1.32	3.25
+R-HSA-168898	Toll-Like Receptors Cascades	153	25	1.91	3.47	0.0012	0.032	2.12	1.32	3.3
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	14	2.41	3.56	0.0016	0.041	2.8	1.43	5.14
+R-HSA-6802957	Oncogenic MAPK signaling	76	15	2.31	3.5	0.0017	0.041	2.66	1.4	4.76
+R-HSA-1257604	PIP3 activates AKT signaling	254	36	1.66	3.25	0.0017	0.041	1.8	1.22	2.59
+R-HSA-9006925	Intracellular signaling by second messengers	282	39	1.62	3.22	0.0018	0.041	1.75	1.21	2.48
+R-HSA-8853659	RET signaling	41	10	2.85	3.63	0.0019	0.043	3.48	1.52	7.31
+R-HSA-186763	Downstream signal transduction	29	8	3.23	3.67	0.0023	0.045	4.1	1.57	9.68
+R-HSA-451927	Interleukin-2 family signaling	42	10	2.79	3.54	0.0023	0.045	3.37	1.47	7.06
+R-HSA-1483255	PI Metabolism	78	15	2.25	3.39	0.0022	0.045	2.57	1.36	4.6
+R-HSA-3214841	PKMTs methylate histone lysines	71	14	2.31	3.38	0.0024	0.045	2.65	1.36	4.85
+R-HSA-1989781	PPARA activates gene expression	117	20	2	3.33	0.002	0.045	2.23	1.3	3.67
+R-HSA-422475	Axon guidance	295	40	1.59	3.12	0.0023	0.045	1.71	1.18	2.42
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	57	12	2.46	3.39	0.0027	0.048	2.88	1.38	5.56
+R-HSA-199418	Negative regulation of the PI3K/AKT network	103	18	2.04	3.26	0.0026	0.048	2.29	1.29	3.87
+R-HSA-400206	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	120	20	1.95	3.2	0.0028	0.048	2.17	1.26	3.55
+R-HSA-3700989	Transcriptional Regulation by TP53	365	47	1.51	3.01	0.0028	0.048	1.61	1.15	2.22

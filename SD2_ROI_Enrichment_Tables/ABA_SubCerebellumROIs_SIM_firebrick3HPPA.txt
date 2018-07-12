@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011712	Right bundle branch block	57	3	15.4	6.42	0.00081	0.048	21.2	3.59	88
+HP:0011710	Bundle branch block	63	3	13.9	6.06	0.0011	0.048	19	3.23	78.6
+HP:0004749	Atrial flutter	73	3	12	5.57	0.0017	0.048	16.3	2.77	67.1
+HP:0001279	Syncope	76	3	11.5	5.44	0.0019	0.048	15.6	2.66	64.1
+HP:0001645	Sudden cardiac death	160	4	7.31	4.79	0.0015	0.048	10.7	2.33	40.4
+HP:0001695	Cardiac arrest	163	4	7.18	4.73	0.0017	0.048	10.5	2.29	39.6

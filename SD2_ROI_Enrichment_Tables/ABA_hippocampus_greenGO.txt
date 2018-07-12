@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0431	3	99	3	0.03	1	HP:0100019	hp	2	Cortical cataract	1	OCRL,BFSP1,OPA3
+2	1	TRUE	0.00129	8	499	5	0.01	0.625	TF:M05385_1	tf	1	Factor: Brn-3b; motif: AAACATAAGR; match class: 1	1	BCL2L14,EPM2A,LUZP2,CHRAC1,ENTPD4

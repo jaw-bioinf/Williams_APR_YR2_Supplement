@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-196849 Metabolism of water-soluble vitamins and cofactors 123 33 2.15 4.85 1.2e-05 0.0098 2.62 1.69 3.96
+R-HSA-196854 Metabolism of vitamins and cofactors 184 43 1.87 4.51 2.7e-05 0.01 2.18 1.5 3.11
+R-HSA-373076 Class A/1 (Rhodopsin-like receptors) 320 65 1.63 4.31 3.8e-05 0.01 1.83 1.36 2.43

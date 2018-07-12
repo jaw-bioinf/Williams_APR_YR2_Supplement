@@ -1,0 +1,26 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8934593	Regulation of RUNX1 Expression and Activity	17	3	73.6	14.7	8e-06	0.00029	101	17.4	406
+R-HSA-1912408	Pre-NOTCH Transcription and Translation	30	3	41.7	10.9	4.7e-05	0.00057	52.5	9.48	191
+R-HSA-1912422	Pre-NOTCH Expression and Processing	32	3	39.1	10.6	5.7e-05	0.00057	48.8	8.86	178
+R-HSA-2559585	Oncogene Induced Senescence	33	3	37.9	10.4	6.3e-05	0.00057	47.2	8.58	171
+R-HSA-4086398	Ca2+ pathway	55	3	22.8	7.93	0.00029	0.0021	27.3	5.05	95.5
+R-HSA-157118	Signaling by NOTCH	65	3	19.3	7.24	0.00048	0.0029	22.8	4.25	79.3
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	3	14.6	6.19	0.0011	0.0048	17	3.19	58.8
+R-HSA-5687128	MAPK6/MAPK4 signaling	89	3	14.1	6.07	0.0012	0.0048	16.4	3.08	56.6
+R-HSA-2559583	Cellular Senescence	194	4	8.6	5.24	0.0011	0.0048	10.3	2.54	31.2
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	96	3	13	5.81	0.0015	0.0054	15.2	2.85	52.1
+R-HSA-211000	Gene Silencing by RNA	117	3	10.7	5.17	0.0026	0.0086	12.4	2.33	42.2
+R-HSA-2559580	Oxidative Stress Induced Senescence	124	3	10.1	4.99	0.0031	0.0093	11.6	2.19	39.8
+R-HSA-3858494	Beta-catenin independent WNT signaling	137	3	9.14	4.7	0.0041	0.011	10.5	1.98	35.8
+R-HSA-6807070	PTEN Regulation	140	3	8.94	4.64	0.0044	0.011	10.3	1.94	35
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	4	5.38	3.84	0.0059	0.014	6.33	1.56	19
+R-HSA-3700989	Transcriptional Regulation by TP53	365	4	4.57	3.41	0.01	0.022	5.33	1.32	16
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	4	4.57	3.41	0.01	0.022	5.33	1.32	16
+R-HSA-8878171	Transcriptional regulation by RUNX1	236	3	5.3	3.28	0.018	0.034	5.98	1.13	20.2
+R-HSA-2262752	Cellular responses to stress	425	4	3.93	3.02	0.017	0.034	4.54	1.12	13.7
+R-HSA-1257604	PIP3 activates AKT signaling	254	3	4.93	3.11	0.022	0.04	5.54	1.05	18.7
+R-HSA-9006925	Intracellular signaling by second messengers	282	3	4.44	2.87	0.029	0.047	4.97	0.944	16.8
+R-HSA-5683057	MAPK family signaling cascades	288	3	4.35	2.82	0.03	0.047	4.86	0.923	16.4
+R-HSA-5688426	Deubiquitination	295	3	4.24	2.77	0.032	0.047	4.74	0.901	16
+R-HSA-8953897	Cellular responses to external stimuli	493	4	3.39	2.66	0.028	0.047	3.88	0.962	11.7
+R-HSA-74160	Gene expression (Transcription)	1335	7	2.19	2.28	0.033	0.047	2.69	0.94	6.83

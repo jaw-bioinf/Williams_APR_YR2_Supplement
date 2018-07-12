@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0324	3	4	1	0.25	0.333	CORUM:6312	cor	3	P300–Clock–Bmal1 complex	1	EP300
+2	1	TRUE	0.0359	5	4	1	0.25	0.2	CORUM:6633	cor	4	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	CUL7
+3	1	TRUE	0.0324	3	4	1	0.25	0.333	CORUM:6214	cor	2	Dock8-Wipf1-Was complex	1	WIPF1

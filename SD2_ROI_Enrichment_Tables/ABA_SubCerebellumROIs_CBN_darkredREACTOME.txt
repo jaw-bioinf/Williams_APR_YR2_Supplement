@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5669034	TNFs bind their physiological receptors	29	3	12.9	5.78	0.0015	0.026	14.8	2.81	50
+R-HSA-611105	Respiratory electron transport	95	5	6.59	4.91	0.00095	0.026	7.29	2.25	18.4
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	5	5.3	4.22	0.0025	0.026	5.79	1.79	14.5
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	6	4.55	4.13	0.002	0.026	4.98	1.75	11.6

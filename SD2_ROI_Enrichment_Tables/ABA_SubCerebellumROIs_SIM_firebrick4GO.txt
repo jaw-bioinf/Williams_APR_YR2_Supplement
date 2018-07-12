@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0398	3	71	2	0.028	0.667	GO:0006566	BP	1	threonine metabolic process	1	THA1,PHGDH
+2	1	TRUE	0.0237	82	71	5	0.07	0.061	GO:0048644	BP	9	muscle organ morphogenesis	1	EPOR,ZFPM2,SMTNL1,MYF6,TCF15
+3	1	TRUE	0.0207	3	4	1	0.25	0.333	CORUM:580	cor	5	Epo-R-IP(3)R type II-TRPC2 complex	1	EPOR
+4	1	TRUE	0.0207	2	4	1	0.25	0.5	CORUM:510	cor	6	TFIID subcomplex, testis-specific	1	TBP
+5	1	TRUE	0.0207	3	4	1	0.25	0.333	CORUM:579	cor	7	Epo-R-PLC-gamma-TRPC2 complex	1	EPOR
+6	1	TRUE	0.023	4	4	1	0.25	0.25	CORUM:581	cor	4	Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex	1	EPOR
+7	1	TRUE	0.0207	3	4	1	0.25	0.333	CORUM:480	cor	2	TIF-IB complex	1	TBP
+8	1	TRUE	0.00501	10	4	2	0.5	0.2	CORUM:496	cor	3	TFIID complex	1	TBP,TAF8

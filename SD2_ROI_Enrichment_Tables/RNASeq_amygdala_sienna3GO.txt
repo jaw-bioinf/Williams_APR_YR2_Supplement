@@ -1,0 +1,22 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0445	17	88	3	0.034	0.176	GO:0060572	BP	4	morphogenesis of an epithelial bud	1	CTNNB1,SOSTDC1,NOG
+2	1	TRUE	0.0445	111	88	5	0.057	0.045	GO:0097479	BP	1	synaptic vesicle localization	1	CTNNB1,SYT4,SNAP25,CD24A,SYT17
+3	1	TRUE	0.0445	104	88	5	0.057	0.048	GO:0097480	BP	1	establishment of synaptic vesicle localization	2	CTNNB1,SYT4,SNAP25,CD24A,SYT17
+4	1	TRUE	0.0445	104	88	5	0.057	0.048	GO:0099003	BP	1	vesicle-mediated transport in synapse	1	CTNNB1,SYT4,SNAP25,CD24A,SYT17
+5	1	TRUE	0.0445	104	88	5	0.057	0.048	GO:0048489	BP	1	synaptic vesicle transport	2	CTNNB1,SYT4,SNAP25,CD24A,SYT17
+6	1	TRUE	0.0445	4	88	2	0.023	0.5	GO:1990791	BP	10	dorsal root ganglion development	1	CTNNB1,NRP1
+7	1	TRUE	0.0445	247	88	7	0.08	0.028	GO:0072001	BP	2	renal system development	1	CTNNB1,NRP1,CDKN1C,AQP11,CD24A,NOG,MPV17
+8	1	TRUE	0.0445	228	88	7	0.08	0.031	GO:0001822	BP	2	kidney development	2	CTNNB1,NRP1,CDKN1C,AQP11,CD24A,NOG,MPV17
+9	1	TRUE	0.0445	115	88	5	0.057	0.043	GO:0072006	BP	2	nephron development	3	CTNNB1,AQP11,CD24A,NOG,MPV17
+10	1	TRUE	0.0445	60	88	4	0.045	0.067	GO:0019905	MF	8	syntaxin binding	1	SYT4,NAPG,SNAP25,SYT17
+11	1	TRUE	0.0173	3	3	1	0.333	0.333	CORUM:1157	cor	16	PS1-E-cadherin-catenin complex, brain	1	CTNNB1
+12	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:3867	cor	12	Xin-Cdh2-Ctnnb1-Ctnnd1 complex	1	CTNNB1
+13	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:5879	cor	15	Ksr1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	PPP2R2B
+14	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:796	cor	14	SNARE complex (Stx1a, Snap25, Cplx2, Vamp2)	1	SNAP25
+15	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:5882	cor	11	Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	PPP2R2B
+16	1	TRUE	0.0173	2	3	1	0.333	0.5	CORUM:935	cor	7	Scrib-APC-beta-catenin complex	1	CTNNB1
+17	1	TRUE	0.0173	3	3	1	0.333	0.333	CORUM:5333	cor	3	Lef1-Tle1-Ctnnb1 complex	1	CTNNB1
+18	1	TRUE	0.0173	4	3	1	0.333	0.25	CORUM:795	cor	5	SNARE complex (Vamp2, Snap25, Stx1a, Cplx1)	1	SNAP25
+19	1	TRUE	0.0173	2	3	1	0.333	0.5	CORUM:5459	cor	9	Axin2-Ctnnb1-Apc complex	1	CTNNB1
+20	1	TRUE	0.0194	5	3	1	0.333	0.2	CORUM:6366	cor	6	MCC complex (p85alpha, p110alpha, Akt,14-3-3theta, beta-catenin)	1	CTNNB1
+21	1	TRUE	0.0212	6	3	1	0.333	0.167	CORUM:5271	cor	13	Kif3-cadherin-catenin complex	1	CTNNB1

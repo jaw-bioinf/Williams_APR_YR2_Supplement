@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0011111	lethality during fetal growth through weaning, complete penetrance	17	3	28.2	8.91	0.00015	0.033	35.8	6.41	133
+MP:0003651	abnormal axon extension	82	5	9.76	6.32	0.00015	0.033	11.2	3.4	28.9
+MP:0002813	microcytosis	22	3	21.8	7.75	0.00033	0.047	26.3	4.86	93.5

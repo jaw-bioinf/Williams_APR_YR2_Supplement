@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0301	7	3	1	0.333	0.143	CORUM:6669	cor	4	B9 complex	1	KCTD10
+2	1	TRUE	0.0194	3	3	1	0.333	0.333	CORUM:5452	cor	3	Foxo4-Srf-Myocd complex	1	MYOCD
+3	1	TRUE	0.0194	3	3	1	0.333	0.333	CORUM:5524	cor	2	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	PCGF2

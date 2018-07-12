@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002104	Apnea	231	11	4.29	5.48	2.6e-05	0.011	5.8	2.57	12.2
+HP:0003202	Skeletal muscle atrophy	444	15	3.04	4.88	3.7e-05	0.011	4.43	2.14	8.87
+HP:0040290	Abnormality of skeletal muscles	534	16	2.7	4.51	8.2e-05	0.015	3.96	1.94	7.9
+HP:0030236	Abnormality of muscle size	543	16	2.65	4.44	1e-04	0.015	3.88	1.9	7.74
+HP:0002793	Abnormal pattern of respiration	297	11	3.33	4.45	0.00026	0.03	4.37	1.94	9.17

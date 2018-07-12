@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-399719	Trafficking of AMPA receptors	31	6	10.1	7.09	2.3e-05	0.0024	12.6	4.19	32
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	6	10.1	7.09	2.3e-05	0.0024	12.6	4.19	32
+R-HSA-416993	Trafficking of GluR2-containing AMPA receptors	17	4	12.3	6.5	0.00026	0.0092	16	3.77	52.5
+R-HSA-438066	Unblocking of NMDA receptor, glutamate binding and activation	17	4	12.3	6.5	0.00026	0.0092	16	3.77	52.5
+R-HSA-442729	CREB phosphorylation through the activation of CaMKII	17	4	12.3	6.5	0.00026	0.0092	16	3.77	52.5
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	11	3.73	4.76	0.00018	0.0092	4.11	1.97	7.76
+R-HSA-442982	Ras activation upon Ca2+ influx through NMDA receptor	19	4	11	6.09	0.00041	0.011	13.9	3.33	44.2
+R-HSA-112315	Transmission across Chemical Synapses	224	13	3.03	4.29	0.00037	0.011	3.31	1.7	5.92
+R-HSA-112316	Neuronal System	356	17	2.49	4	0.00048	0.012	2.72	1.53	4.54
+R-HSA-442742	CREB phosphorylation through the activation of Ras	29	4	7.19	4.67	0.0021	0.043	8.33	2.09	24.5
+R-HSA-6794362	Protein-protein interactions at synapses	70	6	4.47	4.07	0.0022	0.043	4.92	1.72	11.5
+R-HSA-5099900	WNT5A-dependent internalization of FZD4	15	3	10.4	5.11	0.0027	0.044	13	2.33	48.6
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	7	3.76	3.82	0.0026	0.044	4.09	1.58	8.94
+R-HSA-8964038	LDL clearance	18	3	8.69	4.57	0.0046	0.046	10.4	1.91	37.1
+R-HSA-77595	Processing of Intronless Pre-mRNAs	19	3	8.23	4.41	0.0054	0.046	9.72	1.8	34.4
+R-HSA-1442490	Collagen degradation	52	5	5.01	4.06	0.0031	0.046	5.56	1.71	14.1
+R-HSA-438064	Post NMDA receptor activation events	37	4	5.64	3.95	0.0053	0.046	6.31	1.61	18
+R-HSA-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	54	5	4.83	3.94	0.0036	0.046	5.33	1.64	13.5
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer	58	5	4.5	3.73	0.005	0.046	4.93	1.52	12.4
+R-HSA-2644603	Signaling by NOTCH1 in Cancer	58	5	4.5	3.73	0.005	0.046	4.93	1.52	12.4
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	58	5	4.5	3.73	0.005	0.046	4.93	1.52	12.4
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	58	5	4.5	3.73	0.005	0.046	4.93	1.52	12.4
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	58	5	4.5	3.73	0.005	0.046	4.93	1.52	12.4
+R-HSA-5617833	Cilium Assembly	201	10	2.59	3.19	0.0053	0.046	2.77	1.29	5.32
+R-HSA-382551	Transport of small molecules	705	24	1.78	2.99	0.0042	0.046	1.92	1.19	2.98
+R-HSA-1852241	Organelle biogenesis and maintenance	269	12	2.33	3.08	0.0056	0.047	2.48	1.24	4.52

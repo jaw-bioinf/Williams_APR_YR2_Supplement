@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004859	abnormal synaptic plasticity	67	15	4.32	6.37	1.2e-06	0.0027	5.41	2.81	9.85
+MP:0001900	impaired synaptic plasticity	47	12	4.93	6.31	3.3e-06	0.0037	6.4	3.01	12.7
+MP:0013292	embryonic lethality prior to organogenesis	717	64	1.72	4.71	9.8e-06	0.0073	1.91	1.43	2.53
+MP:0013293	embryonic lethality prior to tooth bud stage	788	68	1.66	4.56	1.6e-05	0.0088	1.85	1.39	2.42
+MP:0003635	abnormal synaptic transmission	740	62	1.62	4.09	9.2e-05	0.041	1.77	1.32	2.35

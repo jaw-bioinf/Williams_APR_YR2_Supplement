@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.043	4	5	1	0.2	0.25	CORUM:367	cor	1	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	RAG1
+2	1	TRUE	0.043	4	5	1	0.2	0.25	CORUM:578	cor	5	PYR complex	1	SMARCC2
+3	1	TRUE	0.043	3	5	1	0.2	0.333	CORUM:3037	cor	3	Ubiquitin E3 ligase (Fbxl20, Skp1, Cul1)	1	FBXL20
+4	1	TRUE	0.043	2	5	1	0.2	0.5	CORUM:366	cor	4	Rag1-Rag2 protein-DNA complex	1	RAG1

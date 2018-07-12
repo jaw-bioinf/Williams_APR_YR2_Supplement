@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0009962 abnormal cerebellum posterior lobe morphology 10 3 22.8 7.97 0.00025 0.043 32.9 5.42 146
+MP:0000869 abnormal cerebellum posterior vermis morphology 10 3 22.8 7.97 0.00025 0.043 32.9 5.42 146
+MP:0004097 abnormal cerebellar cortex morphology 353 14 3.02 4.46 0.00021 0.043 3.37 1.76 5.98
+MP:0000847 abnormal metencephalon morphology 479 17 2.7 4.41 0.00017 0.043 3.05 1.7 5.17
+MP:0000841 abnormal hindbrain morphology 535 18 2.56 4.29 2e-04 0.043 2.89 1.64 4.84
+MP:0003675 kidney cysts 166 9 4.12 4.69 0.00033 0.047 4.56 2 9.2

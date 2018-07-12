@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04080	Neuroactive ligand-receptor interaction	277	24	2.97	5.8	1.4e-06	0.00016	3.46	2.12	5.44
+path:hsa04020	Calcium signaling pathway	181	17	3.22	5.24	1.9e-05	0.0011	3.68	2.05	6.24
+path:hsa04975	Fat digestion and absorption	41	6	5.01	4.47	0.0011	0.042	5.85	1.99	14.3
+path:hsa04971	Gastric acid secretion	75	8	3.65	4.01	0.0014	0.042	4.1	1.67	8.71

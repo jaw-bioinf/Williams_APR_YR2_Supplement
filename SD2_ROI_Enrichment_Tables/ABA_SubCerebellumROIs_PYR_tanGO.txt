@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:1109	cor	12	DNA polymerase alpha	1	POLA1
+2	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:6425	cor	10	FOXO1-ATF4 complex	1	FOXO1
+3	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:6424	cor	9	FOXO1-CREB1 complex	1	FOXO1
+4	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:6673	cor	5	Foxo1-Yap1 complex	1	FOXO1
+5	1	TRUE	0.0328	4	6	1	0.167	0.25	CORUM:47	cor	1	DNA polymerase alpha-primase complex	1	POLA1
+6	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:109	cor	11	Fertilin complex (Adam1b, Adam2)	1	ADAM2
+7	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:6201	cor	2	Dock3-Elmo-RhoG complex	1	ELMO1
+8	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:3068	cor	13	Fertilin complex (Adam1a, Adam2)	1	ADAM2
+9	1	TRUE	0.0375	5	6	1	0.167	0.2	CORUM:482	cor	4	cRET-Shc-Grb2-Gab2-P85PI3K-Shp2 complex	1	RET
+10	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:2427	cor	6	Itga4-Itgb1-Adam2 complex	1	ADAM2
+11	1	TRUE	0.0301	3	6	1	0.167	0.333	CORUM:161	cor	7	SWAP complex	1	SWAP70
+12	1	TRUE	0.0328	4	6	1	0.167	0.25	CORUM:1110	cor	8	DNA polymerase alpha-primase complex	1	POLA1

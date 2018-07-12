@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0050743	mature T-cell and NK-cell lymphoma	58	4	11	6.07	0.00045	0.019	12.8	3.21	37.2
+DOID:0050749	peripheral T-cell lymphoma	58	4	11	6.07	0.00045	0.019	12.8	3.21	37.2
+DOID:0060061	cutaneous T cell lymphoma	58	4	11	6.07	0.00045	0.019	12.8	3.21	37.2
+DOID:8541	Sezary's disease	32	3	14.9	6.27	0.001	0.025	17.4	3.27	59.9
+DOID:8691	mycosis fungoides	34	3	14	6.06	0.0012	0.025	16.3	3.07	55.7
+DOID:1564	fungal infectious disease	73	4	8.72	5.27	0.0011	0.025	9.97	2.52	28.7

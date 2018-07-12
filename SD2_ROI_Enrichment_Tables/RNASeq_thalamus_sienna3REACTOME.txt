@@ -1,0 +1,33 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-6811558 PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling 96 7 10.9 8 3.2e-06 0.00017 12.9 4.84 29.3
+R-HSA-199418 Negative regulation of the PI3K/AKT network 103 7 10.2 7.67 5.2e-06 0.00017 12 4.5 27.1
+R-HSA-622323 Presynaptic nicotinic acetylcholine receptors 12 3 37.4 10.3 6e-05 0.00097 51.6 8.78 214
+R-HSA-629594 Highly calcium permeable postsynaptic nicotinic acetylcholine receptors 12 3 37.4 10.3 6e-05 0.00097 51.6 8.78 214
+R-HSA-181431 Acetylcholine binding and downstream events 15 3 29.9 9.19 0.00012 0.0011 38.7 6.85 148
+R-HSA-622327 Postsynaptic nicotinic acetylcholine receptors 15 3 29.9 9.19 0.00012 0.0011 38.7 6.85 148
+R-HSA-629602 Activation of Nicotinic Acetylcholine Receptors 15 3 29.9 9.19 0.00012 0.0011 38.7 6.85 148
+R-HSA-1257604 PIP3 activates AKT signaling 254 8 4.71 4.91 0.00027 0.0022 5.34 2.18 11.4
+R-HSA-5654695 PI-3K cascade:FGFR2 23 3 19.5 7.29 0.00046 0.0033 23.2 4.31 81.2
+R-HSA-9006925 Intracellular signaling by second messengers 282 8 4.24 4.53 0.00055 0.0035 4.78 1.96 10.2
+R-HSA-5655253 Signaling by FGFR2 in disease 27 3 16.6 6.66 0.00075 0.0043 19.3 3.64 66.2
+R-HSA-5654696 Downstream signaling of activated FGFR2 30 3 14.9 6.28 0.001 0.0049 17.2 3.26 58.1
+R-HSA-6804758 Regulation of TP53 Activity through Acetylation 30 3 14.9 6.28 0.001 0.0049 17.2 3.26 58.1
+R-HSA-2219530 Constitutive Signaling by Aberrant PI3K in Cancer 68 4 8.79 5.29 0.0011 0.0049 9.8 2.51 27.6
+R-HSA-71291 Metabolism of amino acids and derivatives 251 7 4.17 4.17 0.0014 0.0059 4.64 1.77 10.3
+R-HSA-109704 PI3K Cascade 41 3 10.9 5.23 0.0025 0.0096 12.2 2.35 40.1
+R-HSA-112316 Neuronal System 356 8 3.36 3.72 0.0025 0.0096 3.74 1.53 7.94
+R-HSA-112399 IRS-mediated signalling 42 3 10.7 5.16 0.0027 0.0097 11.9 2.29 39
+R-HSA-2428928 IRS-related events triggered by IGF1R 46 3 9.75 4.88 0.0035 0.01 10.8 2.09 35.1
+R-HSA-1226099 Signaling by FGFR in disease 47 3 9.54 4.82 0.0038 0.01 10.5 2.04 34.3
+R-HSA-2428924 IGF1R signaling cascade 47 3 9.54 4.82 0.0038 0.01 10.5 2.04 34.3
+R-HSA-2404192 Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R) 48 3 9.34 4.75 0.004 0.01 10.3 2 33.4
+R-HSA-74751 Insulin receptor signalling cascade 48 3 9.34 4.75 0.004 0.01 10.3 2 33.4
+R-HSA-2219528 PI3K/AKT Signaling in Cancer 94 4 6.36 4.28 0.0036 0.01 6.95 1.8 19.3
+R-HSA-112315 Transmission across Chemical Synapses 224 6 4 3.73 0.0038 0.01 4.39 1.53 10.3
+R-HSA-5673001 RAF/MAP kinase cascade 243 6 3.69 3.48 0.0056 0.014 4.03 1.41 9.41
+R-HSA-5684996 MAPK1/MAPK3 signaling 249 6 3.6 3.41 0.0063 0.015 3.93 1.37 9.17
+R-HSA-74752 Signaling by Insulin receptor 72 3 6.23 3.65 0.012 0.027 6.71 1.32 21.3
+R-HSA-5654738 Signaling by FGFR2 73 3 6.14 3.62 0.013 0.027 6.61 1.3 21
+R-HSA-5683057 MAPK family signaling cascades 288 6 3.11 2.99 0.012 0.027 3.37 1.18 7.86
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 4 3.88 2.96 0.02 0.04 4.14 1.08 11.4
+R-HSA-190236 Signaling by FGFR 87 3 5.15 3.19 0.02 0.041 5.5 1.08 17.4

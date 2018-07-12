@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00562	Inositol phosphate metabolism	71	8	6.81	6.38	2e-05	0.0016	8.05	3.25	17.4
+path:hsa04070	Phosphatidylinositol signaling system	97	7	4.36	4.32	0.0011	0.043	4.86	1.86	10.8

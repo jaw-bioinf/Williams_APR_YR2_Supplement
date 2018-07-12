@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	6	7.34	5.79	0.00016	0.014	8.28	2.87	19.5
+R-HSA-1483166	Synthesis of PA	40	4	9.91	5.7	0.00067	0.03	11.3	2.87	32.4
+R-HSA-5654695	PI-3K cascade:FGFR2	23	3	12.9	5.78	0.0015	0.045	15.1	2.83	52.2

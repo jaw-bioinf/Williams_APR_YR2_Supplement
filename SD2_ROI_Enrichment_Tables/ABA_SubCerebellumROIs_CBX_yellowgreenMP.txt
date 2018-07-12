@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001393	ataxia	320	6	5.8	4.98	0.00047	0.028	7.11	2.36	18
+MP:0003491	abnormal voluntary movement	1648	14	2.63	4.15	0.00025	0.028	4.08	1.84	8.93
+MP:0001392	abnormal locomotor behavior	1537	13	2.62	3.95	5e-04	0.028	3.88	1.73	8.49
+MP:0003312	abnormal locomotor coordination	672	8	3.68	4.11	0.001	0.042	4.7	1.8	11

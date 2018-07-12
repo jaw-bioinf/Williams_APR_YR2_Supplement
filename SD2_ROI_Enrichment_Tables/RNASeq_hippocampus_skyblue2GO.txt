@@ -1,0 +1,94 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0395	49	26	2	0.077	0.041	GO:0007189	BP	11	adenylate cyclase-activating G-protein coupled receptor signaling pathway	1	OPRM1,ADRA1A
+2	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0042539	BP	22	hypotonic salinity response	1	SLC12A6
+3	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0071477	BP	22	cellular hypotonic salinity response	1	SLC12A6
+4	1	TRUE	0.0484	500	26	4	0.154	0.008	GO:0055080	BP	34	cation homeostasis	1	OPRM1,PDE4D,VPS33A,ADRA1A
+5	1	TRUE	0.0415	455	26	4	0.154	0.009	GO:0006873	BP	34	cellular ion homeostasis	1	OPRM1,PDE4D,VPS33A,ADRA1A
+6	1	TRUE	0.0404	445	26	4	0.154	0.009	GO:0030003	BP	34	cellular cation homeostasis	2	OPRM1,PDE4D,VPS33A,ADRA1A
+7	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0061091	BP	3	regulation of phospholipid translocation	1	ATP8A2
+8	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0061092	BP	3	positive regulation of phospholipid translocation	2	ATP8A2
+9	1	TRUE	0.05	510	26	4	0.154	0.008	GO:0098771	BP	28	inorganic ion homeostasis	1	OPRM1,PDE4D,VPS33A,ADRA1A
+10	1	TRUE	0.045	224	26	3	0.115	0.013	GO:0006936	BP	4	muscle contraction	1	PDE4D,ATP8A2,ADRA1A
+11	1	TRUE	0.0466	65	26	2	0.077	0.031	GO:0006939	BP	4	smooth muscle contraction	2	PDE4D,ADRA1A
+12	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0001994	BP	29	norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure	1	ADRA1A
+13	1	TRUE	0.00297	1018	26	8	0.308	0.008	GO:0006811	BP	6	ion transport	1	OPRM1,MRS2,PDE4D,ATP8A2,SLC12A6,KCNK9,KCNG3,KCNA3
+14	1	TRUE	0.00297	723	26	7	0.269	0.01	GO:0006812	BP	6	cation transport	2	OPRM1,MRS2,PDE4D,SLC12A6,KCNK9,KCNG3,KCNA3
+15	1	TRUE	0.0187	298	26	4	0.154	0.013	GO:0015672	BP	6	monovalent inorganic cation transport	3	SLC12A6,KCNK9,KCNG3,KCNA3
+16	1	TRUE	0.00514	567	26	6	0.231	0.011	GO:0030001	BP	6	metal ion transport	3	MRS2,PDE4D,SLC12A6,KCNK9,KCNG3,KCNA3
+17	1	TRUE	0.00326	150	26	4	0.154	0.027	GO:0006813	BP	6	potassium ion transport	4	SLC12A6,KCNK9,KCNG3,KCNA3
+18	1	TRUE	0.00288	123	26	4	0.154	0.033	GO:0071804	BP	6	cellular potassium ion transport	5	SLC12A6,KCNK9,KCNG3,KCNA3
+19	1	TRUE	0.00879	657	26	6	0.231	0.009	GO:0055085	BP	6	transmembrane transport	1	OPRM1,MRS2,PDE4D,SLC12A6,KCNG3,KCNA3
+20	1	TRUE	0.00451	546	26	6	0.231	0.011	GO:0034220	BP	6	ion transmembrane transport	2	OPRM1,MRS2,PDE4D,SLC12A6,KCNG3,KCNA3
+21	1	TRUE	0.00998	436	26	5	0.192	0.011	GO:0098660	BP	6	inorganic ion transmembrane transport	3	MRS2,PDE4D,SLC12A6,KCNG3,KCNA3
+22	1	TRUE	0.00288	436	26	6	0.231	0.014	GO:0098655	BP	6	cation transmembrane transport	3	OPRM1,MRS2,PDE4D,SLC12A6,KCNG3,KCNA3
+23	1	TRUE	0.0076	392	26	5	0.192	0.013	GO:0098662	BP	6	inorganic cation transmembrane transport	4	MRS2,PDE4D,SLC12A6,KCNG3,KCNA3
+24	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:1903830	BP	6	magnesium ion transmembrane transport	5	MRS2
+25	1	TRUE	0.0175	121	26	3	0.115	0.025	GO:0071805	BP	6	potassium ion transmembrane transport	5	SLC12A6,KCNG3,KCNA3
+26	1	TRUE	0.0287	1	26	1	0.038	1	GO:0045016	BP	6	mitochondrial magnesium ion transport	1	MRS2
+27	1	TRUE	0.0287	1	26	1	0.038	1	GO:1990614	BP	6	mitochondrial magnesium ion transmembrane transport	2	MRS2
+28	1	TRUE	0.0175	26	26	2	0.077	0.077	GO:1903523	BP	7	negative regulation of blood circulation	1	PDE4D,ADRA1A
+29	1	TRUE	0.0117	20	26	2	0.077	0.1	GO:0045822	BP	7	negative regulation of heart contraction	1	PDE4D,ADRA1A
+30	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0003011	BP	16	involuntary skeletal muscle contraction	1	ATP8A2
+31	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0003099	BP	25	positive regulation of the force of heart contraction by chemical signal	1	ADRA1A
+32	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0001997	BP	25	positive regulation of the force of heart contraction by epinephrine-norepinephrine	2	ADRA1A
+33	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0061355	BP	2	Wnt protein secretion	1	OPRM1
+34	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0061356	BP	2	regulation of Wnt protein secretion	2	OPRM1
+35	1	TRUE	0.0287	1	26	1	0.038	1	GO:0061358	BP	2	negative regulation of Wnt protein secretion	2	OPRM1
+36	1	TRUE	0.0474	66	26	2	0.077	0.03	GO:0007041	BP	23	lysosomal transport	1	VPS33A,FAM160A2
+37	1	TRUE	0.028	37	26	2	0.077	0.054	GO:0008333	BP	23	endosome to lysosome transport	2	VPS33A,FAM160A2
+38	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:1901898	BP	14	negative regulation of relaxation of cardiac muscle	1	PDE4D
+39	1	TRUE	0.045	63	26	2	0.077	0.032	GO:0060359	BP	8	response to ammonium ion	1	OPRM1,ADGRL3
+40	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0001978	BP	31	regulation of systemic arterial blood pressure by carotid sinus baroreceptor feedback	1	ADRA1A
+41	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0001983	BP	31	baroreceptor response to increased systemic arterial blood pressure	2	ADRA1A
+42	1	TRUE	0.0287	1	26	1	0.038	1	GO:0001985	BP	31	negative regulation of heart rate involved in baroreceptor response to increased systemic arterial blood pressure	1	ADRA1A
+43	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0001996	BP	26	positive regulation of heart rate by epinephrine-norepinephrine	1	ADRA1A
+44	1	TRUE	0.0404	209	26	3	0.115	0.014	GO:0051480	BP	12	regulation of cytosolic calcium ion concentration	1	OPRM1,PDE4D,ADRA1A
+45	1	TRUE	0.036	181	26	3	0.115	0.017	GO:0007204	BP	12	positive regulation of cytosolic calcium ion concentration	2	OPRM1,PDE4D,ADRA1A
+46	1	TRUE	0.0396	50	26	2	0.077	0.04	GO:0080171	BP	13	lytic vacuole organization	1	VPS33A,FAM160A2
+47	1	TRUE	0.0396	50	26	2	0.077	0.04	GO:0007040	BP	13	lysosome organization	2	VPS33A,FAM160A2
+48	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0071317	BP	15	cellular response to isoquinoline alkaloid	1	OPRM1
+49	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0071315	BP	15	cellular response to morphine	1	OPRM1
+50	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0097195	BP	20	pilomotor reflex	1	ADRA1A
+51	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:1901844	BP	35	regulation of cell communication by electrical coupling involved in cardiac conduction	1	PDE4D
+52	1	TRUE	0.0404	52	26	2	0.077	0.038	GO:0043279	BP	10	response to alkaloid	1	OPRM1,ADGRL3
+53	1	TRUE	0.0415	216	26	3	0.115	0.014	GO:0019932	BP	18	second-messenger-mediated signaling	1	OPRM1,PDE4D,ADRA1A
+54	1	TRUE	0.00569	871	26	7	0.269	0.008	GO:0097458	CC	5	neuron part	1	OPRM1,CYFIP2,SLC12A6,PHLPP2,BACE1,ADGRL3,KCNA3
+55	1	TRUE	0.0257	1265	26	7	0.269	0.006	GO:0042995	CC	5	cell projection	1	OPRM1,CYFIP2,SLC12A6,PHLPP2,BACE1,ADGRL3,KCNA3
+56	1	TRUE	0.0257	1252	26	7	0.269	0.006	GO:0120025	CC	5	plasma membrane bounded cell projection	2	OPRM1,CYFIP2,SLC12A6,PHLPP2,BACE1,ADGRL3,KCNA3
+57	1	TRUE	0.00288	675	26	7	0.269	0.01	GO:0043005	CC	5	neuron projection	3	OPRM1,CYFIP2,SLC12A6,PHLPP2,BACE1,ADGRL3,KCNA3
+58	1	TRUE	0.00288	226	26	5	0.192	0.022	GO:0030424	CC	5	axon	4	OPRM1,SLC12A6,BACE1,ADGRL3,KCNA3
+59	1	TRUE	0.05	510	26	4	0.154	0.008	GO:0005768	CC	27	endosome	1	OPRM1,ATP8A2,VPS33A,BACE1
+60	1	TRUE	0.0475	3563	26	11	0.423	0.003	GO:0071944	CC	9	cell periphery	1	DRP2,OPRM1,PDE4D,ATP8A2,SLC12A6,PHLPP2,BACE1,KCNK9,ADGRL3,KCNG3,ADRA1A
+61	1	TRUE	0.0404	3442	26	11	0.423	0.003	GO:0005886	CC	9	plasma membrane	2	DRP2,OPRM1,PDE4D,ATP8A2,SLC12A6,PHLPP2,BACE1,KCNK9,ADGRL3,KCNG3,ADRA1A
+62	1	TRUE	0.0223	2027	26	9	0.346	0.004	GO:0044459	CC	9	plasma membrane part	3	OPRM1,PDE4D,SLC12A6,PHLPP2,BACE1,KCNK9,ADGRL3,KCNG3,ADRA1A
+63	1	TRUE	0.0466	1152	26	6	0.231	0.005	GO:0031226	CC	9	intrinsic component of plasma membrane	1	OPRM1,BACE1,KCNK9,ADGRL3,KCNG3,ADRA1A
+64	1	TRUE	0.0404	1093	26	6	0.231	0.005	GO:0005887	CC	9	integral component of plasma membrane	2	OPRM1,BACE1,KCNK9,ADGRL3,KCNG3,ADRA1A
+65	1	TRUE	0.0404	2	26	1	0.038	0.5	GO:0004936	MF	1	alpha-adrenergic receptor activity	1	ADRA1A
+66	1	TRUE	0.0287	1	26	1	0.038	1	GO:0004937	MF	1	alpha1-adrenergic receptor activity	2	ADRA1A
+67	1	TRUE	0.0484	3	26	1	0.038	0.333	GO:0017095	MF	24	heparan sulfate 6-O-sulfotransferase activity	1	HS6ST3
+68	1	TRUE	0.0287	1	26	1	0.038	1	GO:0038047	MF	32	morphine receptor activity	1	OPRM1
+69	1	TRUE	0.00909	975	26	7	0.269	0.007	GO:0005215	MF	19	transporter activity	1	OPRM1,MRS2,ATP8A2,SLC12A6,KCNK9,KCNG3,KCNA3
+70	1	TRUE	0.00514	842	26	7	0.269	0.008	GO:0022892	MF	19	substrate-specific transporter activity	2	OPRM1,MRS2,ATP8A2,SLC12A6,KCNK9,KCNG3,KCNA3
+71	1	TRUE	0.0159	786	26	6	0.231	0.008	GO:0022857	MF	19	transmembrane transporter activity	2	OPRM1,MRS2,SLC12A6,KCNK9,KCNG3,KCNA3
+72	1	TRUE	0.0257	340	26	4	0.154	0.012	GO:0022803	MF	19	passive transmembrane transporter activity	3	OPRM1,KCNK9,KCNG3,KCNA3
+73	1	TRUE	0.0257	340	26	4	0.154	0.012	GO:0015267	MF	19	channel activity	4	OPRM1,KCNK9,KCNG3,KCNA3
+74	1	TRUE	0.00889	221	26	4	0.154	0.018	GO:0022836	MF	19	gated channel activity	5	OPRM1,KCNK9,KCNG3,KCNA3
+75	1	TRUE	0.00297	135	26	4	0.154	0.03	GO:0022832	MF	19	voltage-gated channel activity	6	OPRM1,KCNK9,KCNG3,KCNA3
+76	1	TRUE	0.0107	714	26	6	0.231	0.008	GO:0022891	MF	19	substrate-specific transmembrane transporter activity	3	OPRM1,MRS2,SLC12A6,KCNK9,KCNG3,KCNA3
+77	1	TRUE	0.0215	314	26	4	0.154	0.013	GO:0022838	MF	19	substrate-specific channel activity	4	OPRM1,KCNK9,KCNG3,KCNA3
+78	1	TRUE	0.00879	661	26	6	0.231	0.009	GO:0015075	MF	19	ion transmembrane transporter activity	4	OPRM1,MRS2,SLC12A6,KCNK9,KCNG3,KCNA3
+79	1	TRUE	0.00322	501	26	6	0.231	0.012	GO:0008324	MF	19	cation transmembrane transporter activity	5	OPRM1,MRS2,SLC12A6,KCNK9,KCNG3,KCNA3
+80	1	TRUE	0.00288	418	26	6	0.231	0.014	GO:0022890	MF	19	inorganic cation transmembrane transporter activity	6	OPRM1,MRS2,SLC12A6,KCNK9,KCNG3,KCNA3
+81	1	TRUE	0.00288	337	26	6	0.231	0.018	GO:0046873	MF	19	metal ion transmembrane transporter activity	7	OPRM1,MRS2,SLC12A6,KCNK9,KCNG3,KCNA3
+82	1	TRUE	0.014	267	26	4	0.154	0.015	GO:0015077	MF	19	monovalent inorganic cation transmembrane transporter activity	7	SLC12A6,KCNK9,KCNG3,KCNA3
+83	1	TRUE	0.00288	126	26	4	0.154	0.032	GO:0015079	MF	19	potassium ion transmembrane transporter activity	8	SLC12A6,KCNK9,KCNG3,KCNA3
+84	1	TRUE	0.0287	1	26	1	0.038	1	GO:0035827	MF	19	rubidium ion transmembrane transporter activity	8	SLC12A6
+85	1	TRUE	0.0198	305	26	4	0.154	0.013	GO:0005216	MF	19	ion channel activity	5	OPRM1,KCNK9,KCNG3,KCNA3
+86	1	TRUE	0.0107	240	26	4	0.154	0.017	GO:0005261	MF	19	cation channel activity	6	OPRM1,KCNK9,KCNG3,KCNA3
+87	1	TRUE	0.0107	97	26	3	0.115	0.031	GO:0005267	MF	19	potassium channel activity	7	KCNK9,KCNG3,KCNA3
+88	1	TRUE	0.00297	135	26	4	0.154	0.03	GO:0005244	MF	19	voltage-gated ion channel activity	6	OPRM1,KCNK9,KCNG3,KCNA3
+89	1	TRUE	0.00288	101	26	4	0.154	0.04	GO:0022843	MF	19	voltage-gated cation channel activity	7	OPRM1,KCNK9,KCNG3,KCNA3
+90	1	TRUE	0.00555	67	26	3	0.115	0.045	GO:0005249	MF	19	voltage-gated potassium channel activity	8	KCNK9,KCNG3,KCNA3
+91	1	TRUE	0.0287	1	26	1	0.038	1	GO:0004979	MF	30	beta-endorphin receptor activity	1	OPRM1
+92	1	TRUE	0.0108	5	1	1	1	0.2	CORUM:1423	cor	17	L-periaxin-Drp2 complex	1	DRP2
+93	1	TRUE	0.015	24	11	2	0.182	0.083	KEGG:00534	keg	21	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	1	XYLT1,HS6ST3

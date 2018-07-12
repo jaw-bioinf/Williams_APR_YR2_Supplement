@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:693	dental enamel hypoplasia	10	3	29.2	9.09	0.00012	0.012	42.8	7	193
+DOID:214	teeth hard tissue disease	18	3	16.2	6.58	0.00076	0.039	20	3.63	73.1

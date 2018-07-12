@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6809371	Formation of the cornified envelope	128	7	11.4	8.22	2.3e-06	6.5e-05	13.9	5.15	32.1
+R-HSA-6805567	Keratinization	212	8	7.87	7.02	6.4e-06	9.3e-05	9.56	3.82	21
+R-HSA-1592389	Activation of Matrix Metalloproteinases	33	3	19	7.17	0.00051	0.0049	22	4.16	74.9
+R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	39	3	16	6.53	0.00084	0.0061	18.4	3.49	61.6
+R-HSA-1266738	Developmental Biology	659	9	2.85	3.41	0.0036	0.021	3.31	1.4	6.98
+R-HSA-3214858	RMTs methylate histone arginines	79	3	7.92	4.29	0.0063	0.031	8.67	1.69	28
+R-HSA-3214847	HATs acetylate histones	93	3	6.73	3.85	0.0099	0.037	7.31	1.43	23.5
+R-HSA-3214815	HDACs deacetylate histones	94	3	6.66	3.82	0.01	0.037	7.23	1.41	23.2
+R-HSA-977225	Amyloid fiber formation	99	3	6.32	3.69	0.012	0.038	6.85	1.34	21.9

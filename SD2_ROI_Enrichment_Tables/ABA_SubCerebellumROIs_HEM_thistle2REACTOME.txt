@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72187	mRNA 3'-end processing	58	3	18.5	7.08	0.00055	0.0065	21.6	4.06	74
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	3	16	6.53	0.00083	0.0065	18.6	3.5	63.1
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	3	16	6.53	0.00083	0.0065	18.6	3.5	63.1
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	5	7.36	5.31	5e-04	0.0065	8.9	2.62	24.2
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	3	14.5	6.17	0.0011	0.0069	16.7	3.16	56.8
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	3	12.9	5.78	0.0015	0.0072	14.8	2.81	50.2
+R-HSA-8953854	Metabolism of RNA	646	7	3.88	4	0.0016	0.0072	4.87	1.74	12
+R-HSA-69618	Mitotic Spindle Checkpoint	112	3	9.58	4.83	0.0036	0.014	10.9	2.07	36.4
+R-HSA-72163	mRNA Splicing - Major Pathway	183	3	5.86	3.52	0.014	0.044	6.53	1.25	21.7
+R-HSA-2467813	Separation of Sister Chromatids	191	3	5.62	3.41	0.016	0.044	6.25	1.2	20.8
+R-HSA-72172	mRNA Splicing	191	3	5.62	3.41	0.016	0.044	6.25	1.2	20.8
+R-HSA-68882	Mitotic Anaphase	202	3	5.31	3.28	0.018	0.044	5.9	1.13	19.6
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	3	5.28	3.27	0.019	0.044	5.87	1.12	19.5

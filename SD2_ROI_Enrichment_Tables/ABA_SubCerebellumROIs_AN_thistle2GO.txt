@@ -1,0 +1,17 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0268	2	4	1	0.25	0.5	CORUM:2186	cor	15	Gata1-Snf2h complex	1	GATA1
+2	1	TRUE	0.0268	4	4	1	0.25	0.25	CORUM:6454	cor	1	Zipzap/p200-Srf-p49/STRAP-Nkx2.5 complex	1	ARID2
+3	1	TRUE	0.0268	3	4	1	0.25	0.333	CORUM:2185	cor	8	Gata1-Ldb1-Tal1 complex	1	GATA1
+4	1	TRUE	0.0268	3	4	1	0.25	0.333	CORUM:2712	cor	14	Aph1a-Psen1-Ncstn complex	1	APH1A
+5	1	TRUE	0.0268	4	4	1	0.25	0.25	CORUM:5871	cor	16	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	APH1A
+6	1	TRUE	0.0268	2	4	1	0.25	0.5	CORUM:2747	cor	13	Gata1-Fog1 complex	1	GATA1
+7	1	TRUE	0.0274	5	4	1	0.25	0.2	CORUM:674	cor	10	Gamma-secretase complex (Aph1a, Ncstn, Psen1, Psenen, Tmp21)	1	APH1A
+8	1	TRUE	0.0268	4	4	1	0.25	0.25	CORUM:130	cor	12	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	APH1A
+9	1	TRUE	0.0274	5	4	1	0.25	0.2	CORUM:1373	cor	4	Ldb1-Lmo2-Gata-1-Tal1-E47 complex	1	GATA1
+10	1	TRUE	0.035	7	4	1	0.25	0.143	CORUM:3029	cor	7	Drosha complex	1	DHX15
+11	1	TRUE	0.0268	2	4	1	0.25	0.5	CORUM:2184	cor	9	Gata1-Gfi1b complex	1	GATA1
+12	1	TRUE	0.0268	4	4	1	0.25	0.25	CORUM:1371	cor	5	Gata1-Tal1-Tcf3-Lmo2 complex	1	GATA1
+13	1	TRUE	0.0357	22	15	3	0.2	0.136	HP:0010182	hp	3	Abnormality of the distal phalanges of the toes	1	ARID2,TBR1,ZMPSTE24
+14	1	TRUE	0.0357	4	15	2	0.133	0.5	HP:0001905	hp	11	Congenital thrombocytopenia	1	MECOM,GATA1
+15	1	TRUE	0.0357	185	15	6	0.4	0.032	HP:0100533	hp	2	Inflammatory abnormality of the eye	1	TINF2,REV3L,TGM1,GATA1,ZMPSTE24,NCF4
+16	1	TRUE	0.0397	58	26	3	0.115	0.052	KEGG:00310	keg	6	Lysine degradation	1	EHMT2,COLGALT2,HYKK

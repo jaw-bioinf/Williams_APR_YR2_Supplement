@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.027	2	5	1	0.2	0.5	CORUM:5566	cor	1	Isl1-Jak1-Stat3 complex	1	STAT3
+2	1	TRUE	0.0181	1	5	1	0.2	1	CORUM:1523	cor	5	Stat3-Crebbp complex	1	STAT3
+3	1	TRUE	0.0181	1	5	1	0.2	1	CORUM:5682	cor	2	Retn homotrimer complex	1	RETN
+4	1	TRUE	0.0181	1	5	1	0.2	1	CORUM:1983	cor	6	Retn homohexamer complex	1	RETN
+5	1	TRUE	0.0324	3	5	1	0.2	0.333	CORUM:5452	cor	3	Foxo4-Srf-Myocd complex	1	MYOCD

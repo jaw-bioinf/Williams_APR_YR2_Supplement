@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000446	Narrow nasal bridge	33	3	22.8	7.96	0.00026	0.032	31.3	5.34	127
+HP:0009800	Maternal diabetes	43	3	17.5	6.88	0.00057	0.032	23.4	4.05	93.6
+HP:0012848	Small intestinal stenosis	45	3	16.7	6.71	0.00065	0.032	22.3	3.86	88.9
+HP:0100867	Duodenal stenosis	45	3	16.7	6.71	0.00065	0.032	22.3	3.86	88.9
+HP:0002686	Prenatal maternal abnormality	59	3	12.7	5.76	0.0014	0.032	16.7	2.91	65.5
+HP:0000528	Anophthalmia	61	3	12.3	5.65	0.0016	0.032	16.1	2.81	63.2
+HP:0008568	Vestibular areflexia	61	3	12.3	5.65	0.0016	0.032	16.1	2.81	63.2
+HP:0007670	Abnormal vestibulo-ocular reflex	62	3	12.1	5.6	0.0017	0.032	15.8	2.77	62.1
+HP:0001756	Vestibular hypofunction	63	3	11.9	5.54	0.0017	0.032	15.6	2.72	61
+HP:0002246	Abnormality of the duodenum	63	3	11.9	5.54	0.0017	0.032	15.6	2.72	61
+HP:0100887	Abnormality of globe size	216	5	5.8	4.61	0.0011	0.032	8.64	2.25	29
+HP:0000322	Short philtrum	154	4	6.51	4.43	0.0025	0.043	8.91	2.02	31.3

@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0001931 abnormal oogenesis 148 16 3.87 5.97 3.5e-06 0.0053 4.43 2.42 7.61
+MP:0001125 abnormal oocyte morphology 109 12 3.94 5.24 4.9e-05 0.037 4.47 2.2 8.3
+MP:0006361 abnormal female germ cell morphology 115 12 3.74 5.01 8.3e-05 0.037 4.2 2.08 7.79
+MP:0001929 abnormal gametogenesis 748 39 1.87 4.19 9.7e-05 0.037 2.08 1.43 2.96
+MP:0004046 abnormal mitosis 141 13 3.3 4.67 0.00015 0.046 3.67 1.88 6.62

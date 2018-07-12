@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-109581	Apoptosis	108	4	14.8	7.23	0.00014	0.0027	18.1	4.43	54.9
+R-HSA-5357801	Programmed Cell Death	115	4	13.9	6.98	0.00017	0.0027	16.9	4.16	51.3
+R-HSA-176408	Regulation of APC/C activators between G1/S and early anaphase	80	3	15	6.3	0.001	0.0076	17.5	3.29	60.3
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	3	14	6.04	0.0012	0.0076	16.3	3.06	55.8
+R-HSA-453276	Regulation of mitotic cell cycle	86	3	14	6.04	0.0012	0.0076	16.3	3.06	55.8
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	5	5.49	4.37	0.0018	0.0094	6.68	1.95	18.5
+R-HSA-166520	Signalling by NGF	147	3	8.17	4.38	0.0056	0.025	9.31	1.77	31.5

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0010053	decreased grip strength	275	7	7.16	6.19	4.1e-05	0.0098	9.01	3.27	21.6
+MP:0001515	abnormal grip strength	368	7	5.35	5.09	0.00025	0.03	6.62	2.41	15.8
+MP:0001312	abnormal cornea morphology	198	5	7.1	5.18	0.00061	0.049	8.37	2.5	22.3

@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0483	15	2	1	0.5	0.067	CORUM:2225	cor	1	MutS-alpha-histone H4 complex	1	HIST1H4I
+2	1	TRUE	0.0483	14	2	1	0.5	0.071	CORUM:38	cor	2	20S proteasome	1	PSMB5

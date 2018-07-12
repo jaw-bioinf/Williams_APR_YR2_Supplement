@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0322	5	44	2	0.045	0.4	GO:1901858	BP	3	regulation of mitochondrial DNA metabolic process	1	STOML2,PID1
+2	1	TRUE	0.00969	2	44	2	0.045	1	GO:0090296	BP	3	regulation of mitochondrial DNA replication	2	STOML2,PID1
+3	1	TRUE	0.0272	4248	44	22	0.5	0.005	GO:0003824	MF	5	catalytic activity	1	PEX6,ETFB,TYR,POFUT2,RECQL5,CPD,POLK,OXCT1,SENP5,EPHA8,EPHB2,MCM7,UQCRC2,KLHL2,ACSBG1,APH1B,MIF,MGAT5,PHF20,GPHN,KLHL26,DGKD
+4	1	TRUE	0.0359	5	4	1	0.25	0.2	CORUM:122	cor	4	MCM complex	1	MCM7
+5	1	TRUE	0.0216	2	4	1	0.25	0.5	CORUM:5578	cor	7	Sdc2-Ephb2 complex	1	EPHB2
+6	1	TRUE	0.0216	2	4	1	0.25	0.5	CORUM:1390	cor	6	Rb1-Runx2 complex	1	RB1

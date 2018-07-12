@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003287	Abnormality of mitochondrial metabolism	99	5	8.06	5.66	0.00029	0.049	10.6	2.99	30.8
+HP:0012103	Abnormality of the mitochondrion	113	5	7.06	5.2	0.00054	0.049	9.19	2.6	26.6
+HP:0001638	Cardiomyopathy	394	9	3.64	4.42	0.00034	0.049	5.58	2.09	14.2
+HP:0001637	Abnormality of the myocardium	418	9	3.44	4.21	0.00053	0.049	5.21	1.95	13.3

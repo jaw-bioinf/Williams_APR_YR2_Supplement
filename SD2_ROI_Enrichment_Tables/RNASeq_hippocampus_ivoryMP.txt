@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003313	abnormal locomotor activation	1152	23	2.85	5.64	1.5e-06	0.00076	3.92	2.24	6.7
+MP:0003633	abnormal nervous system physiology	1903	30	2.25	5.14	2.8e-06	0.00076	3.36	1.99	5.65
+MP:0001392	abnormal locomotor behavior	1537	25	2.32	4.77	1.9e-05	0.0033	3.18	1.84	5.4
+MP:0009299	decreased mesenteric fat pad weight	12	3	35.7	10.1	6.9e-05	0.0061	49.2	8.39	204
+MP:0002882	abnormal neuron morphology	1515	24	2.26	4.51	4.6e-05	0.0061	3.03	1.75	5.16
+MP:0003491	abnormal voluntary movement	1648	25	2.17	4.38	6.2e-05	0.0061	2.92	1.69	4.95
+MP:0002578	impaired ability to fire action potentials	21	3	20.4	7.47	4e-04	0.03	24.7	4.54	87.6
+MP:0002762	ectopic cerebellar granule cells	25	3	17.1	6.78	0.00068	0.03	20.2	3.77	69.9
+MP:0008903	abnormal mesenteric fat pad morphology	25	3	17.1	6.78	0.00068	0.03	20.2	3.77	69.9
+MP:0008415	abnormal neurite morphology	423	10	3.37	4.2	0.00066	0.03	3.87	1.75	7.74
+MP:0002206	abnormal CNS synaptic transmission	653	13	2.84	4.1	5e-04	0.03	3.35	1.66	6.28
+MP:0003635	abnormal synaptic transmission	740	14	2.7	4.05	0.00049	0.03	3.21	1.63	5.92
+MP:0011270	decreased excitatory postsynaptic current amplitude	26	3	16.5	6.63	0.00076	0.031	19.3	3.62	66.4
+MP:0002065	abnormal fear/anxiety-related behavior	369	9	3.48	4.09	0.001	0.038	3.95	1.7	8.13
+MP:0011267	abnormal excitatory postsynaptic current amplitude	31	3	13.8	6	0.0013	0.046	15.9	3.01	53.4
+MP:0004098	abnormal cerebellar granule cell morphology	71	4	8.04	5	0.0015	0.05	8.95	2.3	25.2

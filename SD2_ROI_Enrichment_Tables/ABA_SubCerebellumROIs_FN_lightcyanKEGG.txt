@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04390	Hippo signaling pathway	153	3	8.68	4.57	0.0044	0.0099	10.8	1.93	40.6
+path:hsa04360	Axon guidance	175	3	7.59	4.2	0.0065	0.0099	9.38	1.68	35.1
+path:hsa05205	Proteoglycans in cancer	203	3	6.55	3.82	0.0097	0.0099	8.03	1.44	30.1
+path:hsa05200	Pathways in cancer	395	4	4.49	3.4	0.0099	0.0099	5.8	1.34	19.7

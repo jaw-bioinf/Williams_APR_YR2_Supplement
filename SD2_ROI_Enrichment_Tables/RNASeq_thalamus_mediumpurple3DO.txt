@@ -1,0 +1,14 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:9884 muscular dystrophy 100 7 6.36 5.7 1e-04 0.019 7.34 2.77 16.5
+DOID:17 musculoskeletal system disease 1239 27 1.98 4.02 0.00019 0.019 2.54 1.53 4.16
+DOID:3355 fibrosarcoma 32 4 11.4 6.2 0.00039 0.025 13.5 3.35 39.9
+DOID:1909 melanoma 706 18 2.32 3.89 5e-04 0.025 2.76 1.53 4.79
+DOID:417 hypersensitivity reaction type II disease 730 18 2.24 3.74 0.00075 0.03 2.66 1.47 4.61
+DOID:3192 neurilemmoma 22 3 12.4 5.65 0.0017 0.04 14.7 2.73 51.5
+DOID:11723 Duchenne muscular dystrophy 23 3 11.9 5.5 0.0019 0.04 14 2.6 48.7
+DOID:2001 neuroma 24 3 11.4 5.36 0.0022 0.04 13.3 2.49 46.1
+DOID:9588 encephalitis 50 4 7.27 4.69 0.0021 0.04 8.19 2.09 23.3
+DOID:219 colon cancer 153 7 4.16 4.17 0.0014 0.04 4.64 1.77 10.3
+DOID:1520 colon carcinoma 153 7 4.16 4.17 0.0014 0.04 4.64 1.77 10.3
+DOID:0060115 nervous system benign neoplasm 27 3 10.1 5 0.0031 0.049 11.6 2.2 39.6
+DOID:0060056 hypersensitivity reaction disease 828 18 1.98 3.16 0.0032 0.049 2.3 1.27 3.98

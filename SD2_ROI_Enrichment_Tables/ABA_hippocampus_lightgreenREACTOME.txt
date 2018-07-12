@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6802949	Signaling by RAS mutants	53	3	16.2	6.57	0.00081	0.019	18.6	3.53	62.6
+R-HSA-6802957	Oncogenic MAPK signaling	76	3	11.3	5.33	0.0023	0.026	12.7	2.44	42
+R-HSA-190236	Signaling by FGFR	87	3	9.87	4.92	0.0034	0.026	11	2.12	36.3
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	6	3.52	3.38	0.0063	0.036	4.08	1.38	10.1
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	3	6.98	3.95	0.0089	0.041	7.7	1.49	25.1
+R-HSA-194840	Rho GTPase cycle	138	3	6.22	3.66	0.012	0.047	6.83	1.32	22.3

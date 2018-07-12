@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.044	54	37	3	0.081	0.056	GO:1903035	BP	1	negative regulation of response to wounding	1	SERPINE2,PDGFRA,KLKB1
+2	1	TRUE	0.0456	64	37	3	0.081	0.047	GO:1900046	BP	1	regulation of hemostasis	1	SERPINE2,PDGFRA,KLKB1
+3	1	TRUE	0.0181	31	37	3	0.081	0.097	GO:1900047	BP	1	negative regulation of hemostasis	2	SERPINE2,PDGFRA,KLKB1
+4	1	TRUE	0.0456	64	37	3	0.081	0.047	GO:0030193	BP	1	regulation of blood coagulation	2	SERPINE2,PDGFRA,KLKB1
+5	1	TRUE	0.0181	34	37	3	0.081	0.088	GO:0050819	BP	1	negative regulation of coagulation	1	SERPINE2,PDGFRA,KLKB1
+6	1	TRUE	0.0318	45	37	3	0.081	0.067	GO:0061045	BP	1	negative regulation of wound healing	1	SERPINE2,PDGFRA,KLKB1
+7	1	TRUE	0.0181	31	37	3	0.081	0.097	GO:0030195	BP	1	negative regulation of blood coagulation	2	SERPINE2,PDGFRA,KLKB1
+8	1	TRUE	0.0456	11	37	2	0.054	0.182	GO:0010544	BP	1	negative regulation of platelet activation	3	SERPINE2,PDGFRA
+9	1	TRUE	0.0181	4	3	1	0.333	0.25	CORUM:581	cor	3	Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex	1	TRPC2
+10	1	TRUE	0.017	2	3	1	0.333	0.5	CORUM:465	cor	4	InsP3R1-HAP1A-Htt complex	1	HAP1
+11	1	TRUE	0.017	3	3	1	0.333	0.333	CORUM:580	cor	2	Epo-R-IP(3)R type II-TRPC2 complex	1	TRPC2
+12	1	TRUE	0.017	2	3	1	0.333	0.5	CORUM:5252	cor	5	Htt-Hap1-Dctn1 complex	1	HAP1
+13	1	TRUE	0.017	3	3	1	0.333	0.333	CORUM:579	cor	6	Epo-R-PLC-gamma-TRPC2 complex	1	TRPC2

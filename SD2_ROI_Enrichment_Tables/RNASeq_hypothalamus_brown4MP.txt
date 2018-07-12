@@ -1,0 +1,40 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003635 abnormal synaptic transmission 740 16 4.78 7.22 5.3e-08 1.3e-05 7.23 3.61 14.1
+MP:0002910 abnormal excitatory postsynaptic currents 139 8 12.7 9.38 1.6e-07 1.9e-05 16.3 6.41 36.9
+MP:0002206 abnormal CNS synaptic transmission 653 14 4.74 6.68 5.3e-07 4.2e-05 6.72 3.25 13.3
+MP:0003633 abnormal nervous system physiology 1903 23 2.67 5.51 1e-06 5.9e-05 4.74 2.46 9.22
+MP:0002945 abnormal inhibitory postsynaptic currents 87 6 15.2 9 2.3e-06 0.00011 18.8 6.3 46.7
+MP:0011270 decreased excitatory postsynaptic current amplitude 26 4 34 11.4 5e-06 2e-04 43.9 10.5 138
+MP:0011267 abnormal excitatory postsynaptic current amplitude 31 4 28.5 10.3 1e-05 0.00036 35.8 8.69 110
+MP:0003216 absence seizures 37 4 23.9 9.4 2.1e-05 0.00064 29.3 7.19 88.5
+MP:0000948 nonconvulsive seizures 42 4 21 8.78 3.6e-05 0.00091 25.4 6.28 76
+MP:0002064 seizures 383 9 5.19 5.65 4.2e-05 0.00091 6.46 2.7 13.9
+MP:0002882 abnormal neuron morphology 1515 18 2.62 4.66 4.2e-05 0.00091 3.88 1.98 7.47
+MP:0008549 abnormal circulating interferon-alpha level 19 3 34.9 9.97 7.9e-05 0.0016 44.2 7.93 164
+MP:0004770 abnormal synaptic vesicle recycling 21 3 31.6 9.45 0.00011 0.002 39.3 7.12 143
+MP:0004811 abnormal neuron physiology 667 11 3.64 4.78 0.00013 0.0023 4.64 2.09 9.54
+MP:0009357 abnormal seizure response to inducing agent 190 6 6.98 5.61 0.00019 0.0031 8.19 2.79 20
+MP:0001516 abnormal motor coordination/ balance 833 12 3.18 4.45 0.00022 0.0033 4.1 1.9 8.28
+MP:0008558 abnormal interferon-beta secretion 28 3 23.7 8.1 0.00026 0.0037 28.3 5.25 98.6
+MP:0001650 abnormal seizure response to electrical stimulation 29 3 22.9 7.95 0.00029 0.0038 27.2 5.06 94.5
+MP:0003997 tonic-clonic seizures 78 4 11.3 6.18 0.00041 0.0051 13 3.29 37.5
+MP:0008415 abnormal neurite morphology 423 8 4.18 4.51 0.00053 0.0062 5 1.99 11.1
+MP:0002207 abnormal long term potentiation 237 6 5.59 4.83 0.00063 0.0072 6.49 2.21 15.8
+MP:0000947 convulsive seizures 175 5 6.31 4.78 0.0011 0.011 7.2 2.18 18.7
+MP:0002058 neonatal lethality 979 12 2.71 3.81 0.00098 0.011 3.42 1.59 6.91
+MP:0001900 impaired synaptic plasticity 47 3 14.1 6.07 0.0012 0.012 16 3.06 53.5
+MP:0008750 abnormal interferon level 118 4 7.49 4.78 0.0019 0.018 8.42 2.15 24
+MP:0008143 abnormal dendrite morphology 198 5 5.58 4.39 0.0019 0.018 6.33 1.92 16.4
+MP:0011967 increased or absent threshold for auditory brainstem response 311 6 4.26 3.95 0.0026 0.02 4.88 1.67 11.8
+MP:0002063 abnormal learning/memory/conditioning 664 9 2.99 3.6 0.0024 0.02 3.57 1.5 7.67
+MP:0014114 abnormal cognition 665 9 2.99 3.59 0.0025 0.02 3.57 1.49 7.66
+MP:0003312 abnormal locomotor coordination 672 9 2.96 3.56 0.0027 0.02 3.53 1.48 7.57
+MP:0011087 neonatal lethality, complete penetrance 672 9 2.96 3.56 0.0027 0.02 3.53 1.48 7.57
+MP:0008555 abnormal interferon secretion 320 6 4.14 3.86 0.003 0.022 4.73 1.62 11.5
+MP:0004859 abnormal synaptic plasticity 67 3 9.89 4.93 0.0034 0.024 11 2.12 36.1
+MP:0001463 abnormal spatial learning 234 5 4.72 3.89 0.0039 0.027 5.31 1.62 13.7
+MP:0002918 abnormal paired-pulse facilitation 75 3 8.84 4.6 0.0046 0.032 9.78 1.89 31.9
+MP:0004738 abnormal auditory brainstem response 365 6 3.63 3.46 0.0056 0.037 4.12 1.41 9.96
+MP:0001392 abnormal locomotor behavior 1537 14 2.01 2.93 0.0059 0.038 2.53 1.23 4.99
+MP:0020185 altered susceptibility to viral infection 167 4 5.29 3.77 0.0067 0.042 5.86 1.5 16.5
+MP:0006335 abnormal hearing electrophysiology 381 6 3.48 3.33 0.0069 0.042 3.94 1.35 9.51

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04080	Neuroactive ligand-receptor interaction	277	9	4.8	5.33	7.9e-05	0.00087	5.9	2.47	12.6
+path:hsa00561	Glycerolipid metabolism	59	4	10	5.74	0.00064	0.0035	11.6	2.92	33.7
+path:hsa00564	Glycerophospholipid metabolism	95	4	6.22	4.23	0.0037	0.014	6.97	1.78	19.8

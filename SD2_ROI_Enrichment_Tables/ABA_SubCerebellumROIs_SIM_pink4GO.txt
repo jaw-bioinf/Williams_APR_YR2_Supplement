@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00433	2	1	1	1	0.5	CORUM:6205	cor	1	Dkk1-Lrp6-Kremen2 complex	1	KREMEN2

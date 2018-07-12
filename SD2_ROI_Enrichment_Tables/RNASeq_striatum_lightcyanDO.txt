@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1561	cognitive disorder	812	20	2.5	4.53	6.9e-05	0.0073	3.16	1.77	5.45
+DOID:5419	schizophrenia	635	16	2.56	4.1	0.00034	0.013	3.08	1.63	5.51
+DOID:2468	psychotic disorder	637	16	2.55	4.09	0.00036	0.013	3.07	1.63	5.49
+DOID:150	disease of mental health	1255	24	1.94	3.67	0.00058	0.015	2.47	1.43	4.16

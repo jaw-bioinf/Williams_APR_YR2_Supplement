@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:150	disease of mental health	1255	516	1.15	4.44	6.2e-06	0.0052	1.33	1.17	1.51
+DOID:5419	schizophrenia	635	271	1.2	3.86	7.9e-05	0.029	1.38	1.17	1.64
+DOID:2468	psychotic disorder	637	271	1.19	3.79	1e-04	0.029	1.38	1.16	1.63
+DOID:1935	Bardet-Biedl syndrome	19	15	2.21	3.94	0.00015	0.031	6.79	2.16	28.1

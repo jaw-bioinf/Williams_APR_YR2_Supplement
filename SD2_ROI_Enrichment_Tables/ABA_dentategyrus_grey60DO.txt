@@ -1,0 +1,32 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:4079	heart valve disease	48	6	8.58	6.41	6.2e-05	0.0058	10.2	3.46	24.9
+DOID:28	endocrine system disease	358	16	3.07	4.88	5.2e-05	0.0058	3.57	1.93	6.21
+DOID:65	connective tissue disease	1050	31	2.03	4.39	5.4e-05	0.0058	2.52	1.59	3.92
+DOID:2744	pyelitis	11	3	18.7	7.15	0.00046	0.013	26	4.38	111
+DOID:11400	pyelonephritis	11	3	18.7	7.15	0.00046	0.013	26	4.38	111
+DOID:1724	duodenal ulcer	23	4	11.9	6.39	3e-04	0.013	14.8	3.58	45.6
+DOID:289	endometriosis	258	12	3.19	4.36	0.00034	0.013	3.6	1.77	6.72
+DOID:229	female reproductive system disease	333	14	2.89	4.29	0.00031	0.013	3.28	1.7	5.88
+DOID:10591	pre-eclampsia	268	12	3.07	4.21	0.00048	0.013	3.46	1.7	6.45
+DOID:10763	hypertension	569	19	2.29	3.91	0.00048	0.013	2.64	1.5	4.43
+DOID:17	musculoskeletal system disease	1239	32	1.77	3.65	0.00051	0.013	2.16	1.37	3.34
+DOID:26	pancreas disease	173	9	3.57	4.16	0.00089	0.021	3.97	1.73	8.06
+DOID:76	stomach disease	80	6	5.15	4.54	0.001	0.023	5.76	2	13.6
+DOID:854	collagen disease	181	9	3.41	4	0.0012	0.025	3.78	1.65	7.66
+DOID:62	aortic valve disease	34	4	8.07	5.03	0.0014	0.026	9.34	2.35	27.2
+DOID:1532	pleural disease	17	3	12.1	5.58	0.0018	0.028	14.9	2.7	54.4
+DOID:15	reproductive system disease	490	16	2.24	3.46	0.0018	0.028	2.52	1.37	4.37
+DOID:417	hypersensitivity reaction type II disease	730	21	1.97	3.38	0.0016	0.028	2.26	1.32	3.72
+DOID:10930	borderline personality disorder	19	3	10.8	5.22	0.0025	0.036	13	2.39	46.6
+DOID:1510	personality disorder	20	3	10.3	5.06	0.0029	0.04	12.3	2.26	43.3
+DOID:3087	gingivitis	21	3	9.81	4.91	0.0033	0.042	11.6	2.15	40.6
+DOID:13133	HELLP syndrome	21	3	9.81	4.91	0.0033	0.042	11.6	2.15	40.6
+DOID:0060056	hypersensitivity reaction disease	828	22	1.82	3.07	0.0034	0.042	2.08	1.23	3.39
+DOID:2769	tic disorder	23	3	8.95	4.64	0.0043	0.044	10.4	1.95	35.9
+DOID:2921	glomerulonephritis	142	7	3.38	3.49	0.0045	0.044	3.69	1.42	8.11
+DOID:9119	acute myeloid leukemia	389	13	2.29	3.19	0.004	0.044	2.53	1.29	4.61
+DOID:5614	eye disease	531	16	2.07	3.11	0.004	0.044	2.31	1.25	4
+DOID:1492	eye and adnexa disease	537	16	2.05	3.06	0.0045	0.044	2.28	1.24	3.95
+DOID:0080001	bone disease	833	22	1.81	3.04	0.0037	0.044	2.06	1.22	3.36
+DOID:2913	acute pancreatitis	49	4	5.6	3.93	0.0054	0.05	6.21	1.59	17.5
+DOID:2986	IgA glomerulonephritis	78	5	4.4	3.67	0.0054	0.05	4.82	1.49	12.1

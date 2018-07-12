@@ -1,0 +1,162 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:5614	eye disease	531	36	2.79	6.78	9.8e-09	2.5e-06	3.44	2.28	5.06
+DOID:1492	eye and adnexa disease	537	36	2.76	6.7	1.3e-08	2.5e-06	3.39	2.25	5
+DOID:0050155	sensory system disease	606	38	2.58	6.43	3e-08	3.8e-06	3.17	2.13	4.64
+DOID:0050828	artery disease	931	49	2.17	6.03	5.5e-08	5.4e-06	2.73	1.9	3.87
+DOID:1287	cardiovascular system disease	1292	60	1.91	5.73	1e-07	7.9e-06	2.48	1.77	3.45
+DOID:6713	cerebrovascular disease	114	14	5.06	6.89	5.5e-07	3.6e-05	6.04	3.12	10.9
+DOID:299	adenocarcinoma	755	40	2.18	5.42	1.1e-06	5.5e-05	2.63	1.78	3.81
+DOID:178	vascular disease	1088	51	1.93	5.27	1.1e-06	5.5e-05	2.39	1.68	3.38
+DOID:10591	pre-eclampsia	268	21	3.23	5.86	1.8e-06	6.8e-05	3.76	2.22	6.08
+DOID:10763	hypertension	569	33	2.39	5.45	1.7e-06	6.8e-05	2.83	1.85	4.21
+DOID:263	kidney cancer	424	27	2.62	5.44	3.1e-06	0.00011	3.06	1.92	4.71
+DOID:3996	urinary system cancer	455	28	2.53	5.34	3.9e-06	0.00013	2.96	1.87	4.52
+DOID:201	connective tissue cancer	358	24	2.76	5.4	4.9e-06	0.00014	3.2	1.96	5.03
+DOID:0080001	bone disease	833	41	2.03	4.98	5.4e-06	0.00014	2.42	1.65	3.5
+DOID:17	musculoskeletal system disease	1239	54	1.79	4.86	4.7e-06	0.00014	2.22	1.57	3.11
+DOID:10124	corneal disease	71	10	5.8	6.41	7e-06	0.00016	6.93	3.11	14
+DOID:1579	respiratory system disease	691	36	2.15	5	6.6e-06	0.00016	2.53	1.69	3.72
+DOID:0060100	musculoskeletal system cancer	427	26	2.51	5.07	1.1e-05	0.00023	2.89	1.81	4.48
+DOID:848	arthritis	649	34	2.16	4.88	1.1e-05	0.00023	2.53	1.67	3.74
+DOID:65	connective tissue disease	1050	47	1.84	4.68	1.2e-05	0.00024	2.22	1.54	3.15
+DOID:10126	keratoconus	23	6	10.7	7.38	1.3e-05	0.00025	14.6	4.67	39.6
+DOID:3347	osteosarcoma	214	17	3.27	5.32	1.5e-05	0.00025	3.74	2.08	6.34
+DOID:850	lung disease	435	26	2.46	4.96	1.5e-05	0.00025	2.83	1.77	4.39
+DOID:0050161	lower respiratory tract disease	656	34	2.13	4.81	1.4e-05	0.00025	2.5	1.65	3.69
+DOID:7148	rheumatoid arthritis	498	28	2.32	4.8	2.1e-05	0.00033	2.67	1.69	4.07
+DOID:3342	bone inflammation disease	686	34	2.04	4.53	3.6e-05	0.00054	2.37	1.56	3.51
+DOID:184	bone cancer	230	17	3.04	4.97	3.9e-05	0.00056	3.45	1.92	5.84
+DOID:8398	osteoarthritis	187	15	3.3	5.04	4.4e-05	0.00061	3.75	2	6.54
+DOID:3717	gastric adenocarcinoma	92	10	4.48	5.29	7.1e-05	0.00091	5.14	2.33	10.2
+DOID:4451	renal carcinoma	366	22	2.48	4.57	6.8e-05	0.00091	2.8	1.68	4.47
+DOID:3507	dermatofibrosarcoma protuberans	11	4	15	7.32	9.7e-05	0.0011	23.5	4.98	93.3
+DOID:5517	stomach carcinoma	95	10	4.33	5.16	9.3e-05	0.0011	4.96	2.25	9.8
+DOID:1749	squamous cell carcinoma	720	34	1.94	4.22	9.7e-05	0.0011	2.24	1.48	3.31
+DOID:10534	stomach cancer	97	10	4.25	5.08	0.00011	0.0013	4.84	2.2	9.57
+DOID:13359	Ehlers-Danlos syndrome	12	4	13.7	6.96	0.00014	0.0016	20.5	4.47	77.6
+DOID:9256	colorectal cancer	811	36	1.83	3.96	2e-04	0.0022	2.1	1.4	3.08
+DOID:5672	large intestine cancer	812	36	1.83	3.95	0.00021	0.0022	2.1	1.4	3.07
+DOID:10155	intestinal cancer	820	36	1.81	3.88	0.00026	0.0026	2.07	1.38	3.04
+DOID:3119	gastrointestinal system cancer	1536	57	1.53	3.7	0.00029	0.0028	1.83	1.3	2.55
+DOID:13129	severe pre-eclampsia	27	5	7.63	5.44	0.00042	0.004	9.37	2.74	25.8
+DOID:854	collagen disease	181	13	2.96	4.21	0.00043	0.0041	3.28	1.68	5.93
+DOID:3908	non-small cell lung carcinoma	417	22	2.17	3.9	0.00044	0.0041	2.42	1.46	3.86
+DOID:0060085	organ system benign neoplasm	207	14	2.79	4.11	0.00048	0.0042	3.09	1.62	5.46
+DOID:655	inherited metabolic disorder	363	20	2.27	3.92	0.00047	0.0042	2.52	1.48	4.1
+DOID:3905	lung carcinoma	479	24	2.06	3.8	0.00051	0.0043	2.3	1.41	3.61
+DOID:1324	lung cancer	480	24	2.06	3.79	0.00053	0.0043	2.3	1.41	3.6
+DOID:0050615	respiratory system cancer	509	25	2.02	3.78	0.00052	0.0043	2.26	1.4	3.51
+DOID:552	pneumonia	162	12	3.05	4.17	0.00054	0.0044	3.38	1.67	6.25
+DOID:3910	lung adenocarcinoma	163	12	3.03	4.14	0.00057	0.0044	3.36	1.66	6.21
+DOID:1936	atherosclerosis	340	19	2.3	3.88	0.00055	0.0044	2.55	1.47	4.19
+DOID:2348	arteriosclerotic cardiovascular disease	341	19	2.29	3.87	0.00057	0.0044	2.54	1.47	4.18
+DOID:1115	sarcoma	190	13	2.82	4.01	0.00068	0.0051	3.11	1.59	5.62
+DOID:11335	sarcoidosis	81	8	4.07	4.38	0.00073	0.0053	4.57	1.87	9.7
+DOID:4450	renal cell carcinoma	324	18	2.29	3.74	0.00083	0.0058	2.52	1.44	4.19
+DOID:3393	coronary artery disease	351	19	2.23	3.73	0.00081	0.0058	2.46	1.42	4.04
+DOID:2349	arteriosclerosis	352	19	2.22	3.71	0.00084	0.0058	2.45	1.42	4.03
+DOID:3355	fibrosarcoma	32	5	6.43	4.86	0.00094	0.0064	7.63	2.27	20.4
+DOID:2566	corneal dystrophy	19	4	8.67	5.28	0.00098	0.0065	10.9	2.61	34.9
+DOID:0060072	benign neoplasm	563	26	1.9	3.52	0.001	0.0066	2.12	1.32	3.26
+DOID:0060121	integumentary system benign neoplasm	33	5	6.24	4.76	0.0011	0.0069	7.36	2.19	19.6
+DOID:3165	skin benign neoplasm	33	5	6.24	4.76	0.0011	0.0069	7.36	2.19	19.6
+DOID:5844	myocardial infarction	279	16	2.36	3.66	0.0012	0.0073	2.59	1.43	4.43
+DOID:1793	pancreatic cancer	228	14	2.53	3.7	0.0012	0.0074	2.77	1.46	4.9
+DOID:4905	pancreatic carcinoma	228	14	2.53	3.7	0.0012	0.0074	2.77	1.46	4.9
+DOID:1612	breast cancer	571	26	1.88	3.44	0.0012	0.0074	2.08	1.3	3.21
+DOID:5093	thoracic cancer	572	26	1.87	3.43	0.0013	0.0075	2.08	1.3	3.21
+DOID:3082	interstitial lung disease	179	12	2.76	3.76	0.0013	0.0076	3.03	1.5	5.58
+DOID:9253	gastrointestinal stromal tumor	21	4	7.84	4.95	0.0015	0.0078	9.65	2.34	30
+DOID:13133	HELLP syndrome	21	4	7.84	4.95	0.0015	0.0078	9.65	2.34	30
+DOID:2797	idiopathic interstitial pneumonia	111	9	3.34	3.92	0.0014	0.0078	3.69	1.61	7.45
+DOID:4074	pancreatic adenocarcinoma	157	11	2.89	3.77	0.0015	0.0078	3.17	1.52	5.99
+DOID:2320	obstructive lung disease	205	13	2.61	3.69	0.0014	0.0078	2.86	1.46	5.16
+DOID:3083	chronic obstructive pulmonary disease	205	13	2.61	3.69	0.0014	0.0078	2.86	1.46	5.16
+DOID:114	heart disease	517	24	1.91	3.4	0.0015	0.0078	2.11	1.3	3.31
+DOID:2154	nephroblastoma	71	7	4.06	4.09	0.0016	0.0081	4.54	1.73	10.1
+DOID:1485	cystic fibrosis	135	10	3.05	3.8	0.0016	0.0081	3.35	1.54	6.53
+DOID:3770	pulmonary fibrosis	113	9	3.28	3.85	0.0016	0.0082	3.61	1.58	7.3
+DOID:2916	hypersensitivity reaction type IV disease	92	8	3.58	3.93	0.0017	0.0084	3.97	1.63	8.36
+DOID:10588	adrenoleukodystrophy	23	4	7.16	4.67	0.0021	0.01	8.63	2.11	26.4
+DOID:896	metal metabolism disorder	38	5	5.42	4.31	0.0021	0.01	6.24	1.88	16.4
+DOID:6000	congestive heart failure	217	13	2.47	3.46	0.0023	0.011	2.69	1.38	4.84
+DOID:2600	laryngeal carcinoma	78	7	3.7	3.78	0.0027	0.012	4.09	1.56	9.06
+DOID:2876	laryngeal squamous cell carcinoma	78	7	3.7	3.78	0.0027	0.012	4.09	1.56	9.06
+DOID:1575	rheumatic disease	169	11	2.68	3.49	0.0026	0.012	2.92	1.4	5.51
+DOID:419	scleroderma	169	11	2.68	3.49	0.0026	0.012	2.92	1.4	5.51
+DOID:418	systemic scleroderma	169	11	2.68	3.49	0.0026	0.012	2.92	1.4	5.51
+DOID:0014667	disease of metabolism	1280	46	1.48	3	0.0028	0.012	1.68	1.17	2.39
+DOID:1067	open-angle glaucoma	59	6	4.19	3.88	0.0029	0.013	4.68	1.62	11.1
+DOID:2596	larynx cancer	80	7	3.6	3.69	0.0032	0.013	3.97	1.52	8.79
+DOID:26	pancreas disease	173	11	2.62	3.4	0.0031	0.013	2.85	1.37	5.37
+DOID:77	gastrointestinal system disease	1039	39	1.55	3.01	0.0029	0.013	1.74	1.17	2.52
+DOID:0050424	familial adenomatous polyposis	13	3	9.5	4.84	0.0034	0.014	12.2	2.14	48.1
+DOID:1319	brain cancer	13	3	9.5	4.84	0.0034	0.014	12.2	2.14	48.1
+DOID:0070004	myeloid neoplasm	368	18	2.01	3.15	0.0034	0.014	2.19	1.25	3.64
+DOID:10159	osteonecrosis	27	4	6.1	4.19	0.0038	0.015	7.13	1.77	21.2
+DOID:170	endocrine gland cancer	399	19	1.96	3.12	0.0036	0.015	2.14	1.24	3.5
+DOID:3571	liver cancer	883	34	1.59	2.94	0.0038	0.015	1.76	1.16	2.6
+DOID:686	liver carcinoma	882	34	1.59	2.94	0.0038	0.015	1.76	1.17	2.6
+DOID:684	hepatocellular carcinoma	882	34	1.59	2.94	0.0038	0.015	1.76	1.17	2.6
+DOID:11247	disseminated intravascular coagulation	14	3	8.82	4.62	0.0042	0.016	11.1	1.97	42.6
+DOID:10283	prostate cancer	180	11	2.52	3.25	0.0043	0.016	2.73	1.31	5.14
+DOID:4960	bone marrow cancer	376	18	1.97	3.05	0.0043	0.016	2.14	1.22	3.55
+DOID:1542	head and neck carcinoma	235	13	2.28	3.14	0.0046	0.017	2.46	1.26	4.43
+DOID:16	integumentary system disease	595	25	1.73	2.94	0.0046	0.017	1.89	1.18	2.94
+DOID:3480	uveal disease	46	5	4.48	3.73	0.0049	0.018	5.02	1.53	12.9
+DOID:4606	bile duct cancer	133	9	2.79	3.28	0.0049	0.018	3.02	1.33	6.07
+DOID:4897	bile duct carcinoma	133	9	2.79	3.28	0.0049	0.018	3.02	1.33	6.07
+DOID:2256	osteochondrodysplasia	15	3	8.24	4.43	0.0052	0.019	10.2	1.83	38.3
+DOID:11934	head and neck cancer	239	13	2.24	3.08	0.0053	0.019	2.42	1.24	4.34
+DOID:37	skin disease	571	24	1.73	2.87	0.0054	0.019	1.89	1.16	2.95
+DOID:2007	degeneration of macula and posterior pole	68	6	3.63	3.44	0.0059	0.02	3.99	1.39	9.38
+DOID:10871	age related macular degeneration	68	6	3.63	3.44	0.0059	0.02	3.99	1.39	9.38
+DOID:0080015	physical disorder	162	10	2.54	3.13	0.0059	0.02	2.75	1.27	5.32
+DOID:0050739	autosomal genetic disease	608	25	1.69	2.82	0.006	0.02	1.85	1.15	2.87
+DOID:1909	melanoma	706	28	1.63	2.8	0.006	0.02	1.79	1.14	2.72
+DOID:8501	fundus dystrophy	16	3	7.72	4.25	0.0062	0.021	9.41	1.7	34.7
+DOID:10941	intracranial aneurysm	16	3	7.72	4.25	0.0062	0.021	9.41	1.7	34.7
+DOID:1070	primary open angle glaucoma	49	5	4.2	3.55	0.0064	0.021	4.67	1.43	12
+DOID:3856	male reproductive organ cancer	192	11	2.36	3.01	0.0069	0.022	2.54	1.22	4.78
+DOID:10825	essential hypertension	116	8	2.84	3.15	0.007	0.023	3.07	1.27	6.42
+DOID:811	lipodystrophy	33	4	4.99	3.63	0.0079	0.025	5.65	1.43	16.3
+DOID:4448	macular degeneration	72	6	3.43	3.27	0.0078	0.025	3.75	1.31	8.78
+DOID:9261	nasopharynx carcinoma	195	11	2.32	2.96	0.0077	0.025	2.5	1.2	4.7
+DOID:3007	breast ductal carcinoma	196	11	2.31	2.94	0.008	0.025	2.48	1.19	4.67
+DOID:0080006	bone development disease	52	5	3.96	3.38	0.0082	0.026	4.37	1.34	11.1
+DOID:12554	hemolytic-uremic syndrome	18	3	6.86	3.93	0.0088	0.027	8.16	1.5	29.2
+DOID:2452	thrombophilia	34	4	4.84	3.55	0.0088	0.027	5.46	1.38	15.7
+DOID:6432	pulmonary hypertension	74	6	3.34	3.19	0.0089	0.027	3.64	1.27	8.5
+DOID:3498	pancreatic ductal adenocarcinoma	97	7	2.97	3.09	0.009	0.027	3.22	1.24	7.05
+DOID:863	nervous system disease	1770	57	1.33	2.5	0.0092	0.027	1.51	1.07	2.1
+DOID:0060119	pharynx cancer	201	11	2.25	2.85	0.0096	0.028	2.42	1.16	4.54
+DOID:1116	pertussis	35	4	4.71	3.47	0.0098	0.029	5.28	1.34	15.2
+DOID:3407	carotid artery disease	19	3	6.5	3.79	0.01	0.03	7.65	1.41	27.1
+DOID:1184	nephrotic syndrome	55	5	3.74	3.22	0.01	0.03	4.11	1.26	10.4
+DOID:2462	retinal vascular disease	77	6	3.21	3.07	0.011	0.03	3.48	1.22	8.12
+DOID:8947	diabetic retinopathy	77	6	3.21	3.07	0.011	0.03	3.48	1.22	8.12
+DOID:0050177	monogenic disease	637	25	1.62	2.57	0.011	0.03	1.75	1.09	2.72
+DOID:13089	intracranial arterial disease	20	3	6.18	3.66	0.012	0.033	7.19	1.34	25.2
+DOID:3527	cerebral arterial disease	20	3	6.18	3.66	0.012	0.033	7.19	1.34	25.2
+DOID:654	overnutrition	354	16	1.86	2.62	0.012	0.033	2	1.1	3.39
+DOID:630	genetic disease	745	28	1.55	2.5	0.012	0.033	1.68	1.07	2.56
+DOID:1686	glaucoma	103	7	2.8	2.9	0.012	0.034	3.01	1.16	6.59
+DOID:0060089	endocrine organ benign neoplasm	80	6	3.09	2.96	0.013	0.035	3.34	1.17	7.78
+DOID:8778	Crohn's disease	182	10	2.26	2.72	0.013	0.035	2.42	1.12	4.68
+DOID:2527	nephrosis	59	5	3.49	3.03	0.014	0.037	3.8	1.17	9.61
+DOID:9835	refractive error	59	5	3.49	3.03	0.014	0.037	3.8	1.17	9.61
+DOID:0050736	autosomal dominant disease	331	15	1.87	2.55	0.014	0.038	1.99	1.08	3.44
+DOID:3069	astrocytoma	393	17	1.78	2.52	0.014	0.038	1.91	1.07	3.2
+DOID:1176	bronchial disease	364	16	1.81	2.5	0.015	0.039	1.94	1.07	3.29
+DOID:0050117	disease by infectious agent	1330	44	1.36	2.32	0.016	0.04	1.51	1.04	2.15
+DOID:66	muscle tissue disease	275	13	1.95	2.53	0.016	0.041	2.08	1.07	3.72
+DOID:423	myopathy	275	13	1.95	2.53	0.016	0.041	2.08	1.07	3.72
+DOID:374	nutrition disease	366	16	1.8	2.48	0.016	0.041	1.92	1.06	3.27
+DOID:10892	hypospadias	23	3	5.37	3.31	0.017	0.044	6.11	1.15	20.9
+DOID:1247	blood coagulation disease	164	9	2.26	2.58	0.018	0.045	2.41	1.06	4.8
+DOID:1036	chronic leukemia	222	11	2.04	2.49	0.019	0.047	2.17	1.05	4.07
+DOID:0060084	cell type benign neoplasm	502	20	1.64	2.35	0.019	0.047	1.76	1.03	2.84
+DOID:0050339	commensal bacterial infectious disease	43	4	3.83	2.94	0.02	0.048	4.19	1.08	11.8
+DOID:193	reproductive organ cancer	537	21	1.61	2.32	0.02	0.048	1.72	1.03	2.76
+DOID:3118	hepatobiliary disease	637	24	1.55	2.3	0.019	0.048	1.67	1.03	2.6
+DOID:0050156	idiopathic pulmonary fibrosis	65	5	3.17	2.77	0.02	0.049	3.42	1.06	8.59

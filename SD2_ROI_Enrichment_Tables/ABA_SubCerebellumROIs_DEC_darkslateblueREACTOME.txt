@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-202424	Downstream TCR signaling	98	3	15.3	6.38	0.00092	0.0085	18.4	3.39	65
+R-HSA-9020702	Interleukin-1 signaling	102	3	14.7	6.23	0.001	0.0085	17.6	3.26	62.2
+R-HSA-202403	TCR signaling	116	3	12.9	5.79	0.0015	0.0085	15.4	2.85	54.3
+R-HSA-446652	Interleukin-1 family signaling	138	3	10.9	5.23	0.0025	0.01	12.9	2.39	45.2

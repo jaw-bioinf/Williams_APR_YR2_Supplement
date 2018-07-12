@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8948216	Collagen chain trimerization	44	4	16.3	7.61	1e-04	0.0014	19	4.78	55.6
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	5	13.3	7.6	3.4e-05	0.0014	15.6	4.71	40.8
+R-HSA-216083	Integrin cell surface interactions	81	5	11	6.8	8.5e-05	0.0014	12.7	3.86	33
+R-HSA-1474290	Collagen formation	90	5	9.93	6.38	0.00014	0.0014	11.4	3.46	29.3
+R-HSA-419037	NCAM1 interactions	21	3	25.5	8.44	0.00021	0.0017	31.2	5.71	111
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	3	14.1	6.07	0.0012	0.0071	16	3.06	53.3
+R-HSA-422475	Axon guidance	295	7	4.24	4.24	0.0012	0.0071	4.79	1.82	10.8
+R-HSA-375165	NCAM signaling for neurite out-growth	40	3	13.4	5.9	0.0014	0.0072	15.2	2.9	50.3
+R-HSA-1442490	Collagen degradation	52	3	10.3	5.05	0.003	0.014	11.4	2.21	37.2
+R-HSA-186797	Signaling by PDGF	58	3	9.25	4.72	0.0041	0.016	10.2	1.98	33
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	3	8.79	4.58	0.0047	0.016	9.65	1.88	31.2
+R-HSA-1474244	Extracellular matrix organization	278	6	3.86	3.63	0.0044	0.016	4.27	1.48	10.1
+R-HSA-6794362	Protein-protein interactions at synapses	70	3	7.66	4.2	0.007	0.022	8.35	1.63	26.8

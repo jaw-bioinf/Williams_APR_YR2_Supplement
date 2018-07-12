@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0368	3	6	1	0.167	0.333	CORUM:973	cor	8	Sec61alpha-CollagenIV-Hsp47 complex	1	SERPINH1
+2	1	TRUE	0.0368	4	6	1	0.167	0.25	CORUM:5310	cor	3	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD247
+3	1	TRUE	0.0368	2	6	1	0.167	0.5	CORUM:5173	cor	7	Sh3kbp1-Cblb-Pdgfrb complex	1	SH3KBP1
+4	1	TRUE	0.0368	4	6	1	0.167	0.25	CORUM:5311	cor	1	Cd3g-Cd3e-Cd247-Canx complex	1	CD247
+5	1	TRUE	0.0368	3	6	1	0.167	0.333	CORUM:5172	cor	6	Sh3kbp1-Cblb-Egfr complex	1	SH3KBP1
+6	1	TRUE	0.0368	3	6	1	0.167	0.333	CORUM:2415	cor	2	Itgb1-Rap1a-Prkd1 complex	1	PRKD1
+7	1	TRUE	0.0368	1	6	1	0.167	1	CORUM:5295	cor	4	Cd247 homodimer complex	1	CD247

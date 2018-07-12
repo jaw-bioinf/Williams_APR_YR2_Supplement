@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001438	Abnormality of abdomen morphology	554	26	2.32	4.86	1.3e-05	0.0089	3.18	1.87	5.33
+HP:0002240	Hepatomegaly	430	21	2.41	4.5	6.7e-05	0.024	3.11	1.76	5.34
+HP:0000943	Dysostosis multiplex	16	4	12.4	6.54	0.00023	0.028	17	3.89	57.9
+HP:0004568	Beaking of vertebral bodies	29	5	8.52	5.84	0.00024	0.028	10.8	3.11	30
+HP:0003119	Abnormality of lipid metabolism	152	11	3.58	4.67	0.00019	0.028	4.28	1.99	8.46
+HP:0003271	Visceromegaly	518	23	2.2	4.23	0.00012	0.028	2.85	1.64	4.83
+HP:0001939	Abnormality of metabolism/homeostasis	1857	52	1.38	3.47	0.00032	0.032	2.48	1.43	4.46

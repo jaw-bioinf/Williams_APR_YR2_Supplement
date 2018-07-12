@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112316 Neuronal System 356 15 2.95 4.51 0.00017 0.015 3.27 1.76 5.68
+R-HSA-1855183 Synthesis of IP2, IP, and Ins in the cytosol 12 3 17.5 6.89 0.00057 0.017 23.4 4.04 95.3
+R-HSA-1296071 Potassium Channels 99 7 4.95 4.76 0.00052 0.017 5.47 2.1 12

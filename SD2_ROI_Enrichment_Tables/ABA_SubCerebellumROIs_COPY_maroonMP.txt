@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004066	abnormal primitive node morphology	65	4	11.9	6.36	0.00034	0.036	13.7	3.46	39.3
+MP:0010288	increased gland tumor incidence	280	7	4.83	4.7	0.00054	0.036	5.6	2.1	12.8
+MP:0010274	increased organ/body region tumor incidence	606	11	3.51	4.61	0.00021	0.036	4.31	1.97	8.69
+MP:0013152	abnormal organ/body region tumor incidence	622	11	3.42	4.5	0.00026	0.036	4.19	1.92	8.45
+MP:0002006	neoplasm	897	13	2.8	4.09	0.00046	0.036	3.51	1.7	6.82
+MP:0002020	increased tumor incidence	706	11	3.01	4.01	0.00076	0.043	3.65	1.67	7.35

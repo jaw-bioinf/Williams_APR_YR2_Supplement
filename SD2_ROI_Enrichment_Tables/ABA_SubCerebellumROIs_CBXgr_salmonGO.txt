@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00692	2	2	1	0.5	0.5	CORUM:6759	cor	5	Vangl1-Dvl1 complex	1	VANGL1
+2	1	TRUE	0.00692	2	2	1	0.5	0.5	CORUM:6761	cor	2	Vangl1-Dvl3 complex	1	VANGL1
+3	1	TRUE	0.00692	2	2	1	0.5	0.5	CORUM:5330	cor	6	Lef1-Tle1 complex	1	LEF1
+4	1	TRUE	0.00741	3	2	1	0.5	0.333	CORUM:1723	cor	4	Pax3-Lef1-Tle4 complex	1	LEF1
+5	1	TRUE	0.00692	2	2	1	0.5	0.5	CORUM:6407	cor	7	Vangl1-Vangl2 complex	1	VANGL1
+6	1	TRUE	0.00692	2	2	1	0.5	0.5	CORUM:6760	cor	3	Vangl1-Dvl2 complex	1	VANGL1
+7	1	TRUE	0.00741	3	2	1	0.5	0.333	CORUM:5333	cor	1	Lef1-Tle1-Ctnnb1 complex	1	LEF1

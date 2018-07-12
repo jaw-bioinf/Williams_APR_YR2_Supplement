@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000009	Functional abnormality of the bladder	219	8	5.57	5.68	4.4e-05	0.018	8.27	3	21.1
+HP:0000014	Abnormality of the bladder	255	8	4.79	5.1	0.00013	0.026	6.99	2.54	17.8
+HP:0000805	Enuresis	51	4	12	6.41	0.00029	0.03	15.4	3.66	48.8
+HP:0000733	Stereotypy	155	6	5.91	5.07	0.00036	0.03	7.9	2.51	21.4
+HP:0011297	Abnormality of digit	1030	15	2.22	3.79	0.00037	0.03	4.56	1.81	12.5
+HP:0000179	Thick lower lip vermilion	168	6	5.45	4.8	0.00056	0.038	7.23	2.3	19.5

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	23	3	20.1	7.41	0.00042	0.019	24	4.45	83.9
+R-HSA-1483166	Synthesis of PA	40	3	11.6	5.41	0.0022	0.033	12.9	2.49	42.6
+R-HSA-5675221	Negative regulation of MAPK pathway	40	3	11.6	5.41	0.0022	0.033	12.9	2.49	42.6
+R-HSA-5620920	Cargo trafficking to the periciliary membrane	51	3	9.06	4.67	0.0044	0.05	9.97	1.94	32.3

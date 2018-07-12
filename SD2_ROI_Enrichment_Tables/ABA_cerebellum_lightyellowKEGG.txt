@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	7	4.4	4.36	0.00099	0.04	4.95	1.88	11.1
+path:hsa04141	Protein processing in endoplasmic reticulum	165	7	3.97	4.01	0.0018	0.04	4.44	1.69	9.89
+path:hsa00190	Oxidative phosphorylation	133	6	4.22	3.9	0.0028	0.043	4.68	1.63	11

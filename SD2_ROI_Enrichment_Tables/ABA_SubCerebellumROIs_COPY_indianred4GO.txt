@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00714	2	2	1	0.5	0.5	CORUM:3017	cor	1	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	SS18L1
+2	1	TRUE	0.00714	2	2	1	0.5	0.5	CORUM:3018	cor	3	Cohesin complex, incomplete (Sycp2, Crest/Ss18I1)	1	SS18L1
+3	1	TRUE	0.00714	3	2	1	0.5	0.333	CORUM:6312	cor	10	P300–Clock–Bmal1 complex	1	ARNTL
+4	1	TRUE	0.00714	3	2	1	0.5	0.333	CORUM:3022	cor	4	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	SS18L1
+5	1	TRUE	0.00714	2	2	1	0.5	0.5	CORUM:3019	cor	9	Cohesin complex, incomplete (Smc4, Crest/Ss18I1)	1	SS18L1
+6	1	TRUE	0.00714	2	2	1	0.5	0.5	CORUM:3021	cor	8	Cohesin complex, incomplete (Smc1b, Crest/Ss18I1)	1	SS18L1
+7	1	TRUE	0.00714	2	2	1	0.5	0.5	CORUM:3020	cor	7	Cohesin complex, incomplete (Rec8, Crest/Ss18I1)	1	SS18L1
+8	1	TRUE	0.00714	3	2	1	0.5	0.333	CORUM:3024	cor	5	Cohesin complex, incomplete (Smc3, Sycp1, Crest/Ss18I1)	1	SS18L1
+9	1	TRUE	0.00714	3	2	1	0.5	0.333	CORUM:3023	cor	2	Cohesin complex, incomplete (Smc1b, Sycp1, Crest/Ss18I1)	1	SS18L1
+10	1	TRUE	0.00714	3	2	1	0.5	0.333	CORUM:3014	cor	6	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	SS18L1

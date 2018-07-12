@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000877	abnormal Purkinje cell morphology	231	14	3.83	5.52	1.7e-05	0.018	4.32	2.26	7.67
+MP:0000875	abnormal cerebellar Purkinje cell layer	257	14	3.44	5.03	5.5e-05	0.023	3.85	2.02	6.81
+MP:0002206	abnormal CNS synaptic transmission	653	24	2.32	4.44	8.5e-05	0.023	2.64	1.62	4.14
+MP:0003635	abnormal synaptic transmission	740	26	2.22	4.38	8.8e-05	0.023	2.53	1.58	3.93
+MP:0009956	abnormal cerebellar layer morphology	314	15	3.02	4.61	0.00013	0.025	3.36	1.8	5.83
+MP:0004097	abnormal cerebellar cortex morphology	353	16	2.86	4.52	0.00014	0.025	3.19	1.75	5.45
+MP:0002578	impaired ability to fire action potentials	21	4	12	6.42	0.00029	0.035	15	3.62	46.7
+MP:0008569	lethality at weaning	106	8	4.76	4.94	0.00027	0.035	5.3	2.18	11.2
+MP:0001921	reduced fertility	620	22	2.24	4.05	0.00029	0.035	2.51	1.51	4.01

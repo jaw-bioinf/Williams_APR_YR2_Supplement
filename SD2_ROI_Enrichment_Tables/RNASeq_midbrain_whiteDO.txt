@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:3008 invasive ductal carcinoma 125 6 6.46 5.33 3e-04 0.024 7.48 2.56 18
+DOID:4195 hyperglycemia 131 6 6.17 5.16 0.00038 0.024 7.11 2.44 17.1
+DOID:3498 pancreatic ductal adenocarcinoma 97 5 6.94 5.1 0.00071 0.024 7.92 2.4 20.5
+DOID:3007 breast ductal carcinoma 196 7 4.81 4.68 0.00056 0.024 5.56 2.09 12.6

@@ -1,0 +1,101 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000920	abnormal myelination	200	35	3.15	7.46	9.6e-10	2.5e-06	3.8	2.53	5.57
+MP:0005405	axon degeneration	98	22	4.04	7.35	1.3e-08	1.7e-05	5.1	2.99	8.37
+MP:0005403	abnormal nerve conduction	73	18	4.44	7.16	5.9e-08	4.8e-05	5.73	3.14	10
+MP:0000921	demyelination	101	21	3.75	6.73	1.1e-07	4.8e-05	4.61	2.69	7.61
+MP:0005404	abnormal axon morphology	219	33	2.71	6.23	1.3e-07	4.8e-05	3.16	2.09	4.65
+MP:0003634	abnormal glial cell morphology	409	50	2.2	6.03	8.6e-08	4.8e-05	2.52	1.81	3.45
+MP:0000952	abnormal CNS glial cell morphology	320	42	2.36	6.02	1.4e-07	4.8e-05	2.71	1.89	3.81
+MP:0002752	abnormal somatic nervous system morphology	933	89	1.72	5.61	1.5e-07	4.8e-05	1.96	1.53	2.5
+MP:0001056	abnormal cranial nerve morphology	233	34	2.63	6.11	1.8e-07	5.3e-05	3.04	2.03	4.45
+MP:0000953	abnormal oligodendrocyte morphology	58	15	4.66	6.78	3.9e-07	1e-04	6.08	3.12	11.3
+MP:0002229	neurodegeneration	486	54	2	5.5	6e-07	0.00014	2.26	1.64	3.05
+MP:0002182	abnormal astrocyte morphology	186	28	2.71	5.72	1.2e-06	0.00026	3.13	2	4.76
+MP:0003871	abnormal myelin sheath morphology	82	17	3.74	6.03	1.9e-06	0.00039	4.57	2.49	7.96
+MP:0001106	abnormal Schwann cell morphology	51	13	4.59	6.24	2.8e-06	0.00052	5.94	2.89	11.5
+MP:0001105	abnormal PNS glial cell morphology	52	13	4.5	6.14	3.5e-06	0.00061	5.79	2.82	11.2
+MP:0002272	abnormal nervous system electrophysiology	339	40	2.13	5.12	4.4e-06	0.00072	2.38	1.65	3.37
+MP:0004144	hypotonia	27	9	6.01	6.31	8.9e-06	0.0014	8.64	3.4	20.4
+MP:0000745	tremors	313	37	2.13	4.93	9.7e-06	0.0014	2.38	1.62	3.41
+MP:0005076	abnormal cell differentiation	712	67	1.7	4.68	1e-05	0.0014	1.88	1.42	2.47
+MP:0000909	abnormal facial motor nucleus morphology	16	7	7.88	6.68	1.1e-05	0.0015	13.4	4.22	40.6
+MP:0002932	abnormal joint morphology	307	36	2.11	4.81	1.5e-05	0.0019	2.36	1.6	3.39
+MP:0002882	abnormal neuron morphology	1515	120	1.43	4.41	1.6e-05	0.0019	1.6	1.29	1.99
+MP:0001077	abnormal spinal nerve morphology	126	20	2.86	5.1	1.8e-05	0.002	3.3	1.92	5.41
+MP:0012064	abnormal astrocyte number	126	20	2.86	5.1	1.8e-05	0.002	3.3	1.92	5.41
+MP:0004625	abnormal rib joint	97	17	3.16	5.18	2.1e-05	0.0022	3.7	2.04	6.37
+MP:0004322	abnormal sternebra morphology	62	13	3.78	5.32	2.8e-05	0.0028	4.6	2.28	8.69
+MP:0008814	decreased nerve conduction velocity	46	11	4.31	5.45	3.1e-05	0.003	5.44	2.48	11
+MP:0004618	thoracic vertebral transformation	56	12	3.86	5.21	4.5e-05	0.004	4.73	2.26	9.17
+MP:0012065	increased astrocyte number	123	19	2.78	4.83	4.4e-05	0.004	3.19	1.83	5.29
+MP:0008415	abnormal neurite morphology	423	43	1.83	4.24	7.8e-05	0.0068	2.01	1.41	2.8
+MP:0009808	decreased oligodendrocyte number	28	8	5.15	5.33	9.9e-05	0.0076	6.89	2.61	16.4
+MP:0004615	cervical vertebral transformation	43	10	4.19	5.08	9.2e-05	0.0076	5.24	2.29	11
+MP:0000753	paralysis	152	21	2.49	4.49	9.4e-05	0.0076	2.8	1.66	4.51
+MP:0000955	abnormal spinal cord morphology	335	36	1.94	4.23	9.9e-05	0.0076	2.13	1.44	3.06
+MP:0003354	astrocytosis	121	18	2.68	4.51	0.00011	0.0085	3.04	1.72	5.1
+MP:0010170	abnormal glial cell apoptosis	16	6	6.76	5.59	0.00014	0.01	10.3	3.07	31.5
+MP:0010205	abnormal oligodendrocyte apoptosis	11	5	8.19	5.78	0.00018	0.012	14.3	3.44	56.5
+MP:0001845	abnormal inflammatory response	1235	97	1.42	3.8	0.00018	0.012	1.55	1.22	1.96
+MP:0003633	abnormal nervous system physiology	1903	139	1.32	3.75	0.00017	0.012	1.47	1.19	1.8
+MP:0003491	abnormal voluntary movement	1648	123	1.34	3.74	0.00019	0.012	1.49	1.2	1.84
+MP:0008503	abnormal spinal cord grey matter morphology	232	27	2.1	4.1	2e-04	0.013	2.31	1.47	3.5
+MP:0008917	abnormal oligodendrocyte physiology	24	7	5.26	5.06	0.00024	0.014	7.09	2.47	18.1
+MP:0000848	abnormal pons morphology	57	11	3.48	4.55	0.00025	0.014	4.14	1.92	8.17
+MP:0005402	abnormal action potential	128	18	2.53	4.24	0.00024	0.014	2.85	1.61	4.76
+MP:0002069	abnormal consumption behavior	655	58	1.6	3.83	0.00023	0.014	1.74	1.28	2.32
+MP:0003877	abnormal serotonergic neuron morphology	12	5	7.51	5.47	3e-04	0.016	12.3	3.06	45
+MP:0008438	abnormal cutaneous collagen fibril morphology	25	7	5.04	4.91	0.00031	0.016	6.69	2.35	16.9
+MP:0001074	abnormal vagus nerve morphology	25	7	5.04	4.91	0.00031	0.016	6.69	2.35	16.9
+MP:0002823	abnormal rib development	32	8	4.5	4.81	0.00027	0.016	5.74	2.22	13.3
+MP:0001431	abnormal eating behavior	575	52	1.63	3.78	0.00029	0.016	1.77	1.28	2.4
+MP:0000155	asymmetric rib joints	50	10	3.6	4.47	0.00035	0.018	4.32	1.91	8.85
+MP:0001846	increased inflammatory response	1058	84	1.43	3.61	0.00037	0.018	1.56	1.21	1.99
+MP:0001044	abnormal enteric nervous system morphology	42	9	3.86	4.5	4e-04	0.019	4.7	1.97	10.1
+MP:0001231	abnormal epidermis stratum basale morphology	60	11	3.3	4.34	4e-04	0.019	3.88	1.81	7.62
+MP:0003690	abnormal glial cell physiology	111	16	2.6	4.1	0.00039	0.019	2.93	1.59	5.05
+MP:0001970	abnormal pain threshold	241	27	2.02	3.88	0.00038	0.019	2.21	1.41	3.35
+MP:0001516	abnormal motor coordination/ balance	833	69	1.49	3.61	0.00041	0.019	1.62	1.23	2.12
+MP:0003492	abnormal involuntary movement	942	76	1.45	3.56	0.00045	0.02	1.58	1.21	2.04
+MP:0000154	rib fusion	92	14	2.74	4.07	0.00051	0.022	3.11	1.61	5.59
+MP:0002446	abnormal macrophage morphology	461	43	1.68	3.63	0.00052	0.023	1.82	1.28	2.53
+MP:0001968	abnormal touch/ nociception	299	31	1.87	3.7	0.00056	0.024	2.03	1.34	2.99
+MP:0010103	small thoracic cage	36	8	4	4.38	0.00065	0.025	4.92	1.93	11.2
+MP:0003036	vertebral transformation	105	15	2.57	3.93	0.00065	0.025	2.89	1.54	5.07
+MP:0001081	abnormal cranial ganglia morphology	174	21	2.17	3.79	0.00062	0.025	2.39	1.43	3.83
+MP:0000937	abnormal motor neuron morphology	186	22	2.13	3.78	0.00062	0.025	2.34	1.41	3.7
+MP:0000130	abnormal trabecular bone morphology	288	30	1.88	3.66	0.00063	0.025	2.04	1.33	3.02
+MP:0009250	abnormal appendicular skeleton morphology	724	61	1.52	3.52	0.00058	0.025	1.64	1.22	2.18
+MP:0010047	axonal spheroids	14	5	6.43	4.93	0.00068	0.026	9.53	2.5	31.8
+MP:0001732	postnatal growth retardation	974	77	1.42	3.39	0.00075	0.029	1.54	1.18	1.99
+MP:0003421	abnormal thyroid gland development	15	5	6.01	4.7	0.00097	0.035	8.58	2.29	27.7
+MP:0009978	abnormal cerebellum white matter morphology	15	5	6.01	4.7	0.00097	0.035	8.58	2.29	27.7
+MP:0001051	abnormal somatic motor system morphology	98	14	2.57	3.8	0.00097	0.035	2.89	1.5	5.16
+MP:0000136	abnormal microglial cell morphology	98	14	2.57	3.8	0.00097	0.035	2.89	1.5	5.16
+MP:0005501	abnormal skin physiology	350	34	1.75	3.47	0.00099	0.035	1.89	1.27	2.73
+MP:0008916	abnormal astrocyte physiology	30	7	4.2	4.26	0.001	0.036	5.23	1.89	12.7
+MP:0010070	decreased serotonin level	30	7	4.2	4.26	0.001	0.036	5.23	1.89	12.7
+MP:0002183	gliosis	206	23	2.01	3.56	0.001	0.036	2.19	1.34	3.43
+MP:0004889	increased energy expenditure	158	19	2.17	3.59	0.0012	0.039	2.38	1.38	3.89
+MP:0005449	abnormal food intake	437	40	1.65	3.37	0.0012	0.039	1.77	1.23	2.5
+MP:0002873	normal phenotype	1906	134	1.27	3.17	0.0012	0.039	1.39	1.12	1.71
+MP:0012227	decreased brain sterol level	10	4	7.21	4.76	0.0015	0.043	11.4	2.36	48.3
+MP:0010161	decreased brain cholesterol level	10	4	7.21	4.76	0.0015	0.043	11.4	2.36	48.3
+MP:0004536	short inner hair cell stereocilia	10	4	7.21	4.76	0.0015	0.043	11.4	2.36	48.3
+MP:0003453	abnormal keratinocyte physiology	114	15	2.37	3.57	0.0015	0.043	2.63	1.41	4.58
+MP:0005659	decreased susceptibility to diet-induced obesity	125	16	2.31	3.56	0.0015	0.043	2.55	1.39	4.36
+MP:0003797	abnormal compact bone morphology	174	20	2.07	3.46	0.0015	0.043	2.26	1.33	3.65
+MP:0005277	abnormal brainstem morphology	237	25	1.9	3.4	0.0015	0.043	2.06	1.29	3.16
+MP:0005370	liver/biliary system phenotype	1230	92	1.35	3.17	0.0014	0.043	1.46	1.14	1.85
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	73	1.41	3.17	0.0015	0.043	1.51	1.15	1.96
+MP:0005375	adipose tissue phenotype	937	73	1.4	3.16	0.0016	0.043	1.51	1.15	1.96
+MP:0001731	abnormal postnatal growth	999	77	1.39	3.15	0.0016	0.043	1.5	1.15	1.93
+MP:0010771	integument phenotype	1829	129	1.27	3.13	0.0014	0.043	1.39	1.12	1.71
+MP:0001392	abnormal locomotor behavior	1537	111	1.3	3.13	0.0014	0.043	1.41	1.13	1.76
+MP:0002169	no abnormal phenotype detected	1901	133	1.26	3.09	0.0015	0.043	1.38	1.11	1.69
+MP:0002267	abnormal bronchiole morphology	51	9	3.18	3.78	0.0018	0.047	3.69	1.57	7.75
+MP:0009283	decreased gonadal fat pad weight	51	9	3.18	3.78	0.0018	0.047	3.69	1.57	7.75
+MP:0002114	abnormal axial skeleton morphology	1303	96	1.33	3.09	0.0017	0.047	1.43	1.13	1.81
+MP:0000846	abnormal medulla oblongata morphology	33	7	3.82	3.94	0.0019	0.05	4.63	1.69	11
+MP:0001864	vasculitis	33	7	3.82	3.94	0.0019	0.05	4.63	1.69	11
+MP:0001402	hypoactivity	492	43	1.57	3.18	0.0019	0.05	1.69	1.19	2.35

@@ -1,0 +1,78 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04110	Cell cycle	124	98	1.83	8.12	2.2e-16	6.1e-14	5.09	3.26	8.19
+path:hsa03013	RNA transport	171	117	1.58	6.73	1.5e-11	2.1e-09	2.92	2.09	4.13
+path:hsa03018	RNA degradation	77	60	1.8	6.18	4.7e-10	4.2e-08	4.71	2.7	8.63
+path:hsa04141	Protein processing in endoplasmic reticulum	165	110	1.54	6.15	7.1e-10	4.8e-08	2.69	1.92	3.8
+path:hsa00240	Pyrimidine metabolism	101	72	1.65	5.73	8.7e-09	4.7e-07	3.32	2.12	5.31
+path:hsa00230	Purine metabolism	173	111	1.48	5.63	1.6e-08	7.3e-07	2.4	1.74	3.35
+path:hsa05220	Chronic myeloid leukemia	71	53	1.73	5.37	6.7e-08	2.6e-06	3.92	2.25	7.12
+path:hsa04012	ErbB signaling pathway	86	61	1.64	5.22	1.6e-07	5.5e-06	3.25	2	5.42
+path:hsa04140	Autophagy - animal	128	83	1.5	4.98	5.5e-07	1.7e-05	2.46	1.69	3.64
+path:hsa04910	Insulin signaling pathway	138	88	1.47	4.92	7.5e-07	2e-05	2.35	1.64	3.41
+path:hsa01524	Platinum drug resistance	73	52	1.65	4.85	1.1e-06	2.4e-05	3.29	1.94	5.77
+path:hsa04710	Circadian rhythm	30	26	2	4.81	1e-06	2.4e-05	8.6	2.98	33.9
+path:hsa05169	Epstein-Barr virus infection	199	118	1.37	4.64	2.8e-06	5.8e-05	1.95	1.45	2.63
+path:hsa03015	mRNA surveillance pathway	91	61	1.55	4.61	3.5e-06	6.8e-05	2.7	1.71	4.35
+path:hsa05210	Colorectal cancer	60	43	1.66	4.46	7.2e-06	0.00013	3.35	1.87	6.29
+path:hsa04144	Endocytosis	260	147	1.31	4.41	7.6e-06	0.00013	1.75	1.35	2.26
+path:hsa05214	Glioma	64	45	1.63	4.39	1e-05	0.00016	3.14	1.8	5.7
+path:hsa01521	EGFR tyrosine kinase inhibitor resistance	79	53	1.55	4.3	1.5e-05	0.00022	2.71	1.66	4.52
+path:hsa05223	Non-small cell lung cancer	58	41	1.63	4.24	2e-05	0.00029	3.2	1.77	6.01
+path:hsa04150	mTOR signaling pathway	150	90	1.39	4.19	2.2e-05	3e-04	2	1.42	2.83
+path:hsa04071	Sphingolipid signaling pathway	118	73	1.43	4.12	3.1e-05	0.00039	2.16	1.46	3.21
+path:hsa04152	AMPK signaling pathway	120	74	1.43	4.11	3.2e-05	0.00039	2.14	1.46	3.17
+path:hsa05213	Endometrial cancer	50	36	1.67	4.12	3.4e-05	4e-04	3.4	1.79	6.85
+path:hsa00020	Citrate cycle (TCA cycle)	30	24	1.85	4.07	4.2e-05	0.00048	5.29	2.1	15.8
+path:hsa05215	Prostate cancer	87	56	1.49	4	5.2e-05	0.00057	2.4	1.52	3.86
+path:hsa00510	N-Glycan biosynthesis	49	35	1.65	4	5.8e-05	0.00058	3.31	1.73	6.67
+path:hsa05211	Renal cell carcinoma	65	44	1.57	4	5.6e-05	0.00058	2.78	1.61	4.93
+path:hsa04919	Thyroid hormone signaling pathway	116	71	1.42	3.94	6.5e-05	0.00063	2.1	1.42	3.13
+path:hsa03008	Ribosome biogenesis in eukaryotes	101	63	1.44	3.91	7.5e-05	7e-04	2.2	1.44	3.4
+path:hsa05166	HTLV-I infection	256	140	1.26	3.77	0.00011	0.001	1.61	1.25	2.09
+path:hsa05016	Huntington's disease	193	109	1.31	3.77	0.00012	0.0011	1.73	1.28	2.34
+path:hsa04722	Neurotrophin signaling pathway	119	71	1.38	3.65	2e-04	0.0017	1.97	1.34	2.91
+path:hsa04068	FoxO signaling pathway	131	77	1.36	3.63	0.00022	0.0018	1.9	1.32	2.75
+path:hsa05221	Acute myeloid leukemia	55	37	1.56	3.61	0.00026	0.0021	2.72	1.51	5.09
+path:hsa05161	Hepatitis B	144	83	1.33	3.53	0.00031	0.0024	1.81	1.28	2.57
+path:hsa03440	Homologous recombination	41	29	1.64	3.56	0.00033	0.0025	3.19	1.58	6.88
+path:hsa05230	Central carbon metabolism in cancer	65	42	1.49	3.5	4e-04	0.0029	2.42	1.42	4.22
+path:hsa04914	Progesterone-mediated oocyte maturation	96	58	1.4	3.42	0.00048	0.0034	2.02	1.32	3.14
+path:hsa04114	Oocyte meiosis	124	72	1.34	3.36	0.00057	0.004	1.84	1.26	2.69
+path:hsa05212	Pancreatic cancer	64	41	1.48	3.38	6e-04	0.0041	2.36	1.38	4.13
+path:hsa04211	Longevity regulating pathway	89	54	1.4	3.34	0.00065	0.0043	2.04	1.31	3.23
+path:hsa04917	Prolactin signaling pathway	70	44	1.45	3.33	7e-04	0.0045	2.24	1.35	3.8
+path:hsa00280	Valine, leucine and isoleucine degradation	48	32	1.54	3.29	0.00087	0.0055	2.64	1.41	5.17
+path:hsa04137	Mitophagy - animal	65	41	1.46	3.24	0.00095	0.0059	2.26	1.33	3.92
+path:hsa00900	Terpenoid backbone biosynthesis	22	17	1.79	3.23	0.0012	0.0074	4.48	1.58	15.6
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	83	1.29	3.11	0.0013	0.0078	1.67	1.19	2.35
+path:hsa01522	Endocrine resistance	95	56	1.36	3.11	0.0014	0.008	1.9	1.24	2.95
+path:hsa04066	HIF-1 signaling pathway	99	58	1.35	3.1	0.0014	0.008	1.87	1.23	2.88
+path:hsa04350	TGF-beta signaling pathway	84	50	1.38	3.03	0.0018	0.0097	1.95	1.23	3.11
+path:hsa05222	Small cell lung cancer	84	50	1.38	3.03	0.0018	0.0097	1.95	1.23	3.11
+path:hsa05012	Parkinson's disease	142	79	1.29	3.01	0.0018	0.0097	1.66	1.18	2.36
+path:hsa00562	Inositol phosphate metabolism	71	43	1.4	2.96	0.0023	0.012	2.03	1.23	3.4
+path:hsa00564	Glycerophospholipid metabolism	95	55	1.34	2.9	0.0027	0.014	1.82	1.19	2.82
+path:hsa04213	Longevity regulating pathway - multiple species	62	38	1.42	2.88	0.0031	0.015	2.09	1.22	3.66
+path:hsa05203	Viral carcinogenesis	201	106	1.22	2.76	0.0037	0.018	1.48	1.11	1.99
+path:hsa05216	Thyroid cancer	29	20	1.59	2.8	0.0045	0.022	2.93	1.27	7.32
+path:hsa04115	p53 signaling pathway	69	41	1.37	2.73	0.0048	0.022	1.94	1.16	3.26
+path:hsa05202	Transcriptional misregulation in cancer	179	95	1.23	2.69	0.0046	0.022	1.5	1.1	2.05
+path:hsa04010	MAPK signaling pathway	255	131	1.19	2.67	0.0047	0.022	1.41	1.08	1.82
+path:hsa03460	Fanconi anemia pathway	54	33	1.41	2.66	0.006	0.027	2.07	1.16	3.78
+path:hsa00620	Pyruvate metabolism	39	25	1.48	2.64	0.0068	0.03	2.36	1.18	4.91
+path:hsa05200	Pathways in cancer	395	195	1.14	2.53	0.0067	0.03	1.3	1.05	1.6
+path:hsa00630	Glyoxylate and dicarboxylate metabolism	28	19	1.57	2.63	0.0074	0.032	2.78	1.2	6.99
+path:hsa00520	Amino sugar and nucleotide sugar metabolism	47	29	1.43	2.56	0.0081	0.034	2.13	1.14	4.07
+path:hsa00640	Propanoate metabolism	32	21	1.52	2.56	0.0088	0.036	2.52	1.16	5.79
+path:hsa00310	Lysine degradation	59	35	1.37	2.5	0.0091	0.036	1.93	1.11	3.39
+path:hsa04070	Phosphatidylinositol signaling system	97	54	1.29	2.49	0.0088	0.036	1.66	1.09	2.55
+path:hsa05231	Choline metabolism in cancer	99	55	1.28	2.49	0.0087	0.036	1.65	1.09	2.52
+path:hsa04146	Peroxisome	83	47	1.31	2.48	0.0093	0.036	1.73	1.09	2.75
+path:hsa04390	Hippo signaling pathway	153	81	1.22	2.45	0.0092	0.036	1.49	1.07	2.08
+path:hsa00062	Fatty acid elongation	25	17	1.57	2.5	0.011	0.041	2.8	1.14	7.51
+path:hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	25	17	1.57	2.5	0.011	0.041	2.8	1.14	7.51
+path:hsa05010	Alzheimer's disease	171	89	1.2	2.35	0.012	0.043	1.44	1.05	1.97
+path:hsa04330	Notch signaling pathway	48	29	1.4	2.41	0.012	0.044	2.01	1.09	3.81
+path:hsa05100	Bacterial invasion of epithelial cells	76	43	1.31	2.36	0.013	0.046	1.72	1.07	2.8
+path:hsa04510	Focal adhesion	199	102	1.19	2.32	0.013	0.046	1.39	1.04	1.87
+path:hsa04931	Insulin resistance	107	58	1.25	2.31	0.014	0.049	1.56	1.05	2.35

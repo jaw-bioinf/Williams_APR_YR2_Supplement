@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05200	Pathways in cancer	395	64	1.67	4.5	2e-05	0.0048	1.89	1.4	2.51
+path:hsa01521	EGFR tyrosine kinase inhibitor resistance	79	18	2.35	3.95	0.00044	0.042	2.79	1.54	4.83
+path:hsa05167	Kaposi's sarcoma-associated herpesvirus infection	173	31	1.85	3.7	0.00052	0.042	2.08	1.35	3.12

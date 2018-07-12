@@ -1,0 +1,32 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0200134	Epileptic encephalopathy	64	10	5.83	6.47	5.4e-06	0.0059	7.4	3.25	15.3
+HP:0002133	Status epilepticus	62	9	5.42	5.82	3e-05	0.011	6.71	2.82	14.3
+HP:0000733	Stereotypy	155	14	3.37	5.01	4.8e-05	0.011	4.06	2.07	7.44
+HP:0100851	Abnormal emotion/affect behavior	484	28	2.16	4.56	3.5e-05	0.011	2.75	1.68	4.4
+HP:0004305	Involuntary movements	664	34	1.91	4.33	5e-05	0.011	2.5	1.58	3.92
+HP:0100022	Abnormality of movement	1159	49	1.58	3.99	8.2e-05	0.015	2.26	1.47	3.49
+HP:0011220	Prominent forehead	189	15	2.96	4.6	0.00011	0.018	3.54	1.85	6.35
+HP:0002883	Hyperventilation	45	7	5.81	5.38	0.00016	0.021	7.14	2.62	16.8
+HP:0001332	Dystonia	318	20	2.35	4.18	2e-04	0.024	2.83	1.61	4.76
+HP:0006919	Abnormal aggressive, impulsive or violent behavior	249	17	2.55	4.21	0.00025	0.027	3.03	1.65	5.27
+HP:0001288	Gait disturbance	663	32	1.8	3.8	3e-04	0.027	2.28	1.43	3.58
+HP:0002167	Neurological speech impairment	785	36	1.71	3.76	3e-04	0.027	2.21	1.4	3.44
+HP:0002510	Spastic tetraplegia	87	9	3.86	4.48	0.00044	0.028	4.53	1.93	9.45
+HP:0002123	Generalized myoclonic seizures	105	10	3.56	4.41	0.00041	0.028	4.16	1.86	8.37
+HP:0100716	Self-injurious behavior	122	11	3.37	4.41	0.00034	0.028	3.94	1.84	7.7
+HP:0002540	Inability to walk	124	11	3.31	4.35	0.00039	0.028	3.87	1.81	7.55
+HP:0000179	Thick lower lip vermilion	168	13	2.89	4.16	0.00044	0.028	3.37	1.69	6.27
+HP:0002521	Hypsarrhythmia	71	8	4.21	4.53	0.00052	0.03	4.95	1.98	10.8
+HP:0000178	Abnormality of lower lip	242	16	2.47	3.93	0.00056	0.03	2.89	1.55	5.1
+HP:0011442	Abnormality of central motor function	1241	49	1.47	3.45	0.00054	0.03	2.03	1.32	3.14
+HP:0011097	Epileptic spasms	41	6	5.46	4.77	0.00066	0.032	6.58	2.2	16.4
+HP:0002373	Febrile seizures	56	7	4.67	4.59	0.00063	0.032	5.52	2.05	12.7
+HP:0001298	Encephalopathy	178	13	2.73	3.92	0.00077	0.032	3.16	1.58	5.86
+HP:0001336	Myoclonus	199	14	2.63	3.92	0.00069	0.032	3.05	1.57	5.56
+HP:0001251	Ataxia	546	27	1.85	3.57	0.00074	0.032	2.25	1.37	3.6
+HP:0011443	Abnormality of coordination	663	31	1.75	3.54	0.00069	0.032	2.17	1.35	3.41
+HP:0002476	Primitive reflex	17	4	8.79	5.34	0.00088	0.034	11.6	2.7	38.5
+HP:0000817	Poor eye contact	59	7	4.43	4.41	0.00086	0.034	5.2	1.94	11.9
+HP:0002529	Neuronal loss in central nervous system	60	7	4.36	4.35	0.00096	0.036	5.1	1.9	11.7
+HP:0011198	EEG with generalized epileptiform discharges	82	8	3.64	4.02	0.0014	0.05	4.2	1.69	9.08
+HP:0012471	Thick vermilion border	190	13	2.55	3.66	0.0014	0.05	2.94	1.47	5.44

@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-445144	Signal transduction by L1	21	3	16.3	6.59	0.00078	0.03	19.4	3.59	68.2
+R-HSA-373760	L1CAM interactions	76	5	7.49	5.34	0.00053	0.03	8.35	2.57	21.2
+R-HSA-422475	Axon guidance	295	9	3.47	4.06	0.0011	0.03	3.84	1.68	7.77
+R-HSA-5205647	Mitophagy	29	3	11.8	5.47	0.002	0.033	13.4	2.55	45
+R-HSA-2029482	Regulation of actin dynamics for phagocytic cup formation	60	4	7.59	4.82	0.0019	0.033	8.39	2.16	23.5
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	4	6.69	4.44	0.003	0.034	7.33	1.9	20.4
+R-HSA-1430728	Metabolism	1899	28	1.68	3.09	0.0026	0.034	2.01	1.23	3.21
+R-HSA-3928662	EPHB-mediated forward signaling	39	3	8.75	4.57	0.0048	0.045	9.69	1.87	31.6
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	4	5.62	3.93	0.0055	0.045	6.09	1.58	16.8
+R-HSA-2682334	EPH-Ephrin signaling	81	4	5.62	3.93	0.0055	0.045	6.09	1.58	16.8

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002412	increased susceptibility to bacterial infection	261	3	10.7	5.2	0.0023	0.046	14.9	2.48	66
+MP:0010329	abnormal lipoprotein level	314	3	8.87	4.66	0.0039	0.046	12.3	2.05	54.4
+MP:0010330	abnormal circulating lipoprotein level	314	3	8.87	4.66	0.0039	0.046	12.3	2.05	54.4
+MP:0020186	altered susceptibility to bacterial infection	331	3	8.41	4.51	0.0045	0.046	11.7	1.94	51.4

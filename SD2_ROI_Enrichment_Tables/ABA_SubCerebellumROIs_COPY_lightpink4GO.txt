@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0194	2	3	1	0.333	0.5	CORUM:510	cor	6	TFIID subcomplex, testis-specific	1	TBP
+2	1	TRUE	0.0194	2	3	1	0.333	0.5	CORUM:719	cor	8	S100A10-annexin 2 complex	1	S100A10
+3	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:130	cor	3	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	PSENEN
+4	1	TRUE	0.0362	10	3	1	0.333	0.1	CORUM:496	cor	5	TFIID complex	1	TBP
+5	1	TRUE	0.0194	3	3	1	0.333	0.333	CORUM:718	cor	2	TRPV5-S100A10-annexin 2 complex	1	S100A10
+6	1	TRUE	0.0194	3	3	1	0.333	0.333	CORUM:480	cor	1	TIF-IB complex	1	TBP
+7	1	TRUE	0.0208	5	3	1	0.333	0.2	CORUM:674	cor	4	Gamma-secretase complex (Aph1a, Ncstn, Psen1, Psenen, Tmp21)	1	PSENEN
+8	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:5871	cor	9	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	PSENEN

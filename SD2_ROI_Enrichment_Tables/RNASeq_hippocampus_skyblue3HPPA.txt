@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0006673	Reduced systolic function	39	3	15.9	6.52	0.00077	0.031	20.5	3.62	78.2
+HP:0006670	Impaired myocardial contractility	39	3	15.9	6.52	0.00077	0.031	20.5	3.62	78.2
+HP:0006685	Endocardial fibrosis	42	3	14.7	6.25	0.00096	0.031	18.9	3.35	71.7
+HP:0001706	Endocardial fibroelastosis	43	3	14.4	6.17	0.001	0.031	18.4	3.27	69.7
+HP:0004971	Pulmonary artery hypoplasia	44	3	14.1	6.09	0.0011	0.031	18	3.19	68
+HP:0011713	Left bundle branch block	45	3	13.8	6.01	0.0012	0.031	17.5	3.12	66.2
+HP:0001723	Restrictive cardiomyopathy	48	3	12.9	5.79	0.0014	0.031	16.4	2.92	61.5
+HP:0003701	Proximal muscle weakness	219	6	5.66	4.96	0.00038	0.031	8.39	2.52	25
+HP:0003198	Myopathy	184	5	5.61	4.48	0.0014	0.031	7.7	2.1	23.8
+HP:0001297	Stroke	112	4	7.37	4.78	0.0017	0.033	9.63	2.25	31.8
+HP:0100578	Lipoatrophy	57	3	10.9	5.24	0.0023	0.036	13.6	2.44	50.8
+HP:0011712	Right bundle branch block	57	3	10.9	5.24	0.0023	0.036	13.6	2.44	50.8
+HP:0001680	Coarctation of aorta	123	4	6.71	4.5	0.0024	0.036	8.71	2.04	28.7
+HP:0011710	Bundle branch block	63	3	9.83	4.93	0.0031	0.04	12.2	2.2	45.4
+HP:0001644	Dilated cardiomyopathy	130	4	6.35	4.34	0.0029	0.04	8.21	1.92	27
+HP:0009125	Lipodystrophy	67	3	9.24	4.75	0.0037	0.045	11.5	2.06	42.4
+HP:0004414	Abnormality of the pulmonary artery	145	4	5.7	4.03	0.0044	0.05	7.3	1.71	24

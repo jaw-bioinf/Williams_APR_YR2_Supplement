@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0013292 embryonic lethality prior to organogenesis 717 40 1.98 4.66 2e-05 0.015 2.23 1.54 3.17
+MP:0008762 embryonic lethality 1763 78 1.57 4.55 1.2e-05 0.015 1.85 1.4 2.44
+MP:0009850 embryonic lethality between implantation and placentation 440 27 2.18 4.32 0.00011 0.04 2.4 1.53 3.64
+MP:0001698 decreased embryo size 608 34 1.99 4.29 8.7e-05 0.04 2.2 1.47 3.21
+MP:0001697 abnormal embryo size 709 37 1.86 4.03 0.00017 0.043 2.05 1.4 2.94
+MP:0013293 embryonic lethality prior to tooth bud stage 788 40 1.8 4.02 0.00017 0.043 2 1.38 2.84

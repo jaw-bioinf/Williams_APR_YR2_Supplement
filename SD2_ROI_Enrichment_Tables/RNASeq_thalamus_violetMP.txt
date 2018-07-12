@@ -1,0 +1,25 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0004453 abnormal pterygoid bone morphology 15 4 35.9 11.7 3.6e-06 0.0018 51.3 11.6 179
+MP:0013208 abnormal cilium physiology 40 5 16.8 8.67 1.1e-05 0.0027 20.4 6.06 54.8
+MP:0006020 decreased tympanic ring size 22 4 24.5 9.53 1.9e-05 0.0031 31.3 7.51 98.7
+MP:0000431 absent palatine bone horizontal plate 11 3 36.7 10.2 6.2e-05 0.0056 52.1 8.71 222
+MP:0013209 abnormal motile cilium physiology 28 4 19.2 8.35 5e-05 0.0056 23.5 5.77 71.3
+MP:0004452 abnormal pterygoid process morphology 30 4 17.9 8.04 6.6e-05 0.0056 21.7 5.35 65.1
+MP:0003235 abnormal alisphenoid bone morphology 34 4 15.8 7.49 0.00011 0.0079 18.8 4.68 55.6
+MP:0009914 abnormal hyoid bone lesser horn morphology 14 3 28.8 9.02 0.00014 0.0085 37.9 6.64 148
+MP:0001891 hydroencephaly 161 7 5.85 5.37 0.00018 0.01 6.64 2.52 14.8
+MP:0011055 abnormal respiratory motile cilium physiology 23 3 17.5 6.87 0.00063 0.023 20.9 3.87 72.9
+MP:0004594 abnormal mandibular coronoid process morphology 23 3 17.5 6.87 0.00063 0.023 20.9 3.87 72.9
+MP:0000106 abnormal basisphenoid bone morphology 50 4 10.8 5.99 5e-04 0.023 12.2 3.11 35
+MP:0000030 abnormal tympanic ring morphology 51 4 10.5 5.92 0.00054 0.023 12 3.05 34.2
+MP:0000913 abnormal brain development 780 15 2.59 4.01 0.00049 0.023 3.07 1.6 5.54
+MP:0005272 abnormal temporal bone morphology 59 4 9.12 5.41 0.00094 0.03 10.2 2.62 29
+MP:0000783 abnormal forebrain morphology 1011 17 2.26 3.68 0.00092 0.03 2.7 1.46 4.77
+MP:0004537 abnormal palatine bone horizontal plate morphology 28 3 14.4 6.15 0.0011 0.032 16.7 3.15 56.8
+MP:0002152 abnormal brain morphology 1633 23 1.89 3.44 0.0011 0.032 2.36 1.36 3.99
+MP:0004726 abnormal nasal capsule morphology 31 3 13 5.8 0.0015 0.036 14.9 2.83 50.1
+MP:0010150 abnormal mandibule ramus morphology 31 3 13 5.8 0.0015 0.036 14.9 2.83 50.1
+MP:0005105 abnormal middle ear ossicle morphology 66 4 8.15 5.05 0.0014 0.036 9.07 2.33 25.5
+MP:0002200 abnormal brain ventricular system morphology 370 9 3.27 3.86 0.0016 0.036 3.68 1.59 7.53
+MP:0004538 abnormal maxillary shelf morphology 33 3 12.2 5.59 0.0018 0.04 13.9 2.65 46.4
+MP:0004423 abnormal squamosal bone morphology 36 3 11.2 5.31 0.0024 0.05 12.6 2.42 41.9

@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0191	3	9	2	0.222	0.667	HP:0009049	hp	2	Peroneal muscle atrophy	1	DES,LMNA
+2	1	TRUE	0.0463	90	10	2	0.2	0.022	KEGG:05414	keg	3	Dilated cardiomyopathy (DCM)	1	DES,LMNA
+3	1	TRUE	0.0463	74	10	2	0.2	0.027	KEGG:05412	keg	4	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	1	DES,LMNA
+4	1	TRUE	0.0463	86	10	2	0.2	0.023	KEGG:05410	keg	1	Hypertrophic cardiomyopathy (HCM)	1	DES,LMNA

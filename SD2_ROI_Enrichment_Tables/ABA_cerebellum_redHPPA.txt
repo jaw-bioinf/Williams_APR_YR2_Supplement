@@ -1,0 +1,25 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0012122 Anterior uveitis 12 6 14.7 8.94 1e-06 0.00042 29.8 7.84 113
+HP:0001094 Iridocyclitis 12 6 14.7 8.94 1e-06 0.00042 29.8 7.84 113
+HP:0000554 Uveitis 18 7 11.5 8.34 1e-06 0.00042 19.1 6.17 55.3
+HP:0001101 Iritis 10 5 14.7 8.15 9.1e-06 0.0018 29.6 6.71 130
+HP:0012424 Chorioretinitis 10 5 14.7 8.15 9.1e-06 0.0018 29.6 6.71 130
+HP:0100614 Myositis 16 6 11.1 7.56 8.1e-06 0.0018 17.9 5.25 55.4
+HP:0003249 Genital ulcers 11 5 13.4 7.72 1.6e-05 0.0022 24.7 5.86 98.5
+HP:0100796 Orchitis 11 5 13.4 7.72 1.6e-05 0.0022 24.7 5.86 98.5
+HP:0100654 Retrobulbar optic neuritis 11 5 13.4 7.72 1.6e-05 0.0022 24.7 5.86 98.5
+HP:0002638 Superficial thrombophlebitis 12 5 12.3 7.34 2.7e-05 0.003 21.1 5.21 78.9
+HP:0002229 Alopecia areata 12 5 12.3 7.34 2.7e-05 0.003 21.1 5.21 78.9
+HP:0000031 Epididymitis 13 5 11.3 7 4.3e-05 0.0043 18.5 4.68 65.2
+HP:0011360 Acquired abnormal hair pattern 14 5 10.5 6.7 6.5e-05 0.0052 16.4 4.26 55.6
+HP:0100653 Optic neuritis 14 5 10.5 6.7 6.5e-05 0.0052 16.4 4.26 55.6
+HP:0000155 Oral ulcer 14 5 10.5 6.7 6.5e-05 0.0052 16.4 4.26 55.6
+HP:0009714 Abnormality of the epididymis 26 6 6.81 5.57 0.00018 0.013 8.93 2.88 23.6
+HP:0004930 Abnormality of the pulmonary vasculature 215 18 2.47 4.17 0.00026 0.019 2.89 1.61 4.92
+HP:0001097 Keratoconjunctivitis sicca 19 5 7.76 5.54 0.00033 0.022 10.6 2.93 31.7
+HP:0001096 Keratoconjunctivitis 20 5 7.37 5.35 0.00042 0.027 9.85 2.75 29.2
+HP:0002105 Hemoptysis 32 6 5.53 4.82 0.00059 0.036 6.86 2.26 17.5
+HP:0012848 Small intestinal stenosis 45 7 4.59 4.54 0.00067 0.037 5.51 2.03 12.9
+HP:0100867 Duodenal stenosis 45 7 4.59 4.54 0.00067 0.037 5.51 2.03 12.9
+HP:0004420 Arterial thrombosis 23 5 6.41 4.88 0.00085 0.045 8.21 2.34 23.4
+HP:0000491 Keratitis 35 6 5.06 4.52 0.00097 0.049 6.15 2.05 15.5

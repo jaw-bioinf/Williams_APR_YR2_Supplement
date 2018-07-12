@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	3	14	6.05	0.0012	0.029	15.9	3.04	52.7
+R-HSA-72649	Translation initiation complex formation	58	3	12.3	5.62	0.0018	0.029	13.9	2.66	45.7
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	3	12.3	5.62	0.0018	0.029	13.9	2.66	45.7
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	3	12.1	5.56	0.0019	0.029	13.6	2.61	44.8
+R-HSA-382556	ABC-family proteins mediated transport	104	4	9.17	5.44	0.00091	0.029	10.4	2.64	29.6
+R-HSA-3858494	Beta-catenin independent WNT signaling	137	4	6.96	4.56	0.0025	0.032	7.78	1.99	22.1
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	78	3	9.17	4.7	0.0042	0.038	10.1	1.96	33
+R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	80	3	8.94	4.63	0.0045	0.038	9.88	1.91	32.1
+R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	86	3	8.32	4.42	0.0055	0.038	9.16	1.78	29.7
+R-HSA-4086400	PCP/CE pathway	89	3	8.04	4.33	0.0061	0.038	8.84	1.71	28.7
+R-HSA-5687128	MAPK6/MAPK4 signaling	89	3	8.04	4.33	0.0061	0.038	8.84	1.71	28.7
+R-HSA-72766	Translation	258	5	4.62	3.82	0.0043	0.038	5.19	1.58	13.4
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	3	7.45	4.12	0.0075	0.044	8.17	1.59	26.4
+R-HSA-6807878	COPI-mediated anterograde transport	102	3	7.01	3.96	0.0088	0.048	7.67	1.49	24.8
+R-HSA-983705	Signaling by the B Cell Receptor (BCR)	108	3	6.62	3.81	0.01	0.049	7.22	1.41	23.3
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	3	6.44	3.74	0.011	0.049	7.02	1.37	22.6
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	3	6.39	3.72	0.011	0.049	6.95	1.35	22.4
+R-HSA-5610787	Hedgehog 'off' state	113	3	6.33	3.7	0.012	0.049	6.89	1.34	22.2

@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001992	Organic aciduria	69	14	4.12	5.95	4.2e-06	0.0071	5.25	2.64	9.82
+HP:0010628	Facial palsy	146	20	2.78	5	2.2e-05	0.01	3.33	1.91	5.54
+HP:0010827	Abnormality of the seventh cranial nerve	146	20	2.78	5	2.2e-05	0.01	3.33	1.91	5.54
+HP:0030319	Weakness of facial musculature	147	20	2.76	4.96	2.4e-05	0.01	3.3	1.9	5.5
+HP:0000301	Abnormality of facial musculature	188	22	2.37	4.41	9.9e-05	0.033	2.78	1.65	4.51

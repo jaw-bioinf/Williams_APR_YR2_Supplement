@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0012535 Abnormal synaptic transmission 23 5 10.6 6.68 8e-05 0.015 14.1 3.98 41.1
+HP:0030191 Abnormal peripheral nervous system synaptic transmission 23 5 10.6 6.68 8e-05 0.015 14.1 3.98 41.1
+HP:0003473 Fatigable weakness 23 5 10.6 6.68 8e-05 0.015 14.1 3.98 41.1
+HP:0003398 Abnormal synaptic transmission at the neuromuscular junction 23 5 10.6 6.68 8e-05 0.015 14.1 3.98 41.1

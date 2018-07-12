@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112310	Neurotransmitter release cycle	51	4	18.3	8.12	6.4e-05	0.0018	21.6	5.4	63.5
+R-HSA-112315	Transmission across Chemical Synapses	224	5	5.2	4.17	0.0026	0.037	5.86	1.78	15.1
+R-HSA-112316	Neuronal System	356	6	3.92	3.69	0.0039	0.038	4.46	1.53	10.7

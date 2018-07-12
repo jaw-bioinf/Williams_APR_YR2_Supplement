@@ -1,0 +1,7 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0151 3 3 1 0.333 0.333 CORUM:579 cor 1 Epo-R-PLC-gamma-TRPC2 complex 1 EPOR
+2 1 TRUE 0.0151 2 3 1 0.333 0.5 CORUM:2151 cor 4 Arnt-Sim1 complex 1 SIM1
+3 1 TRUE 0.0151 4 3 1 0.333 0.25 CORUM:859 cor 2 SNARE complex (Stx4, Stx6, Stx7, Vamp3, Vamp7, Vamp8, Vti1b) 1 STX6
+4 1 TRUE 0.0151 1 3 1 0.333 1 CORUM:735 cor 7 SNARE complex (Vti1b, Stx6, Stx7) 1 STX6
+5 1 TRUE 0.0151 3 3 1 0.333 0.333 CORUM:580 cor 3 Epo-R-IP(3)R type II-TRPC2 complex 1 EPOR
+6 1 TRUE 0.0151 4 3 1 0.333 0.25 CORUM:581 cor 6 Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex 1 EPOR

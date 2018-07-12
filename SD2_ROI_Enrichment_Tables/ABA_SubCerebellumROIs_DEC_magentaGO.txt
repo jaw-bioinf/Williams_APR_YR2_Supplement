@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0272	2	27	2	0.074	1	CORUM:5365	cor	2	Ripk2-Nod2 complex	1	RIPK2,NOD2

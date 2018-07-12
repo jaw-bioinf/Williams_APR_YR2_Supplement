@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0166	17	167	4	0.024	0.235	GO:0018126	BP	13	protein hydroxylation	1	P4HA2,PLOD1,P4HA1,P3H1
+2	1	TRUE	0.0166	6	167	3	0.018	0.5	GO:0019798	MF	10	procollagen-proline dioxygenase activity	1	P4HA2,P4HA1,P3H1
+3	1	TRUE	0.0302	2	7	1	0.143	0.5	CORUM:966	cor	5	Rab27a-Mlph-Myo5a complex	1	RAB27A
+4	1	TRUE	0.0302	2	7	1	0.143	0.5	CORUM:1310	cor	6	Rab27a-Mlph-Myo5a complex	1	RAB27A
+5	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2147	cor	15	Aip-Hsp90-Ahr complex	1	HSP90AB1
+6	1	TRUE	0.0121	8	7	2	0.286	0.25	CORUM:414	cor	2	(ER)-localized multiprotein complex, in absence of Ig heavy chains	1	SDF2L1,HYOU1
+7	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:5616	cor	9	Hsp110-Hsc70-Hsp25 complex	1	HSPB1
+8	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:677	cor	7	Mt3-Hsp84-Ck complex	1	HSP90AB1
+9	1	TRUE	0.0382	4	7	1	0.143	0.25	CORUM:25	cor	14	9S-cytosolic aryl hydrocarbon (Ah) receptor non-ligand activated complex	1	HSP90AB1
+10	1	TRUE	0.0121	9	7	2	0.286	0.222	CORUM:413	cor	11	(ER)-localized multiprotein complex, Ig heavy chains associated	1	SDF2L1,HYOU1
+11	1	TRUE	0.0302	2	7	1	0.143	0.5	CORUM:3741	cor	3	Slp5-Rab27A complex	1	RAB27A
+12	1	TRUE	0.0302	2	7	1	0.143	0.5	CORUM:3116	cor	4	Rab27a-Mlph-Myo5a complex	1	RAB27A
+13	1	TRUE	0.0302	2	7	1	0.143	0.5	CORUM:3068	cor	8	Fertilin complex (Adam1a, Adam2)	1	ADAM1A

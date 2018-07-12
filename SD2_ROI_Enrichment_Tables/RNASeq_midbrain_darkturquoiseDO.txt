@@ -1,0 +1,16 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:1826 epilepsy 197 11 4.71 5.79 1.8e-05 0.00086 5.53 2.6 10.7
+DOID:0060040 pervasive developmental disorder 201 11 4.62 5.7 2.2e-05 0.00086 5.41 2.54 10.5
+DOID:150 disease of mental health 1255 31 2.08 4.64 2e-05 0.00086 2.77 1.71 4.43
+DOID:3312 bipolar disorder 153 9 4.96 5.43 7.4e-05 0.0018 5.72 2.47 11.8
+DOID:0060041 autism spectrum disorder 191 10 4.42 5.24 7.8e-05 0.0018 5.1 2.31 10.1
+DOID:3324 mood disorder 166 9 4.57 5.1 0.00014 0.0027 5.23 2.26 10.7
+DOID:0060037 developmental disorder of mental health 393 14 3 4.48 0.00018 0.0031 3.5 1.8 6.35
+DOID:12849 autistic disorder 186 9 4.08 4.67 0.00033 0.0048 4.63 2 9.47
+DOID:331 central nervous system disease 1234 27 1.85 3.58 0.00069 0.0089 2.28 1.38 3.69
+DOID:12217 Lewy body dementia 38 4 8.88 5.33 0.001 0.012 10.2 2.58 29.7
+DOID:1059 intellectual disability 149 7 3.96 4 0.0018 0.018 4.39 1.68 9.73
+DOID:936 brain disease 438 13 2.5 3.56 0.0018 0.018 2.84 1.43 5.22
+DOID:1561 cognitive disorder 812 19 1.97 3.23 0.0025 0.021 2.29 1.29 3.9
+DOID:863 nervous system disease 1770 33 1.57 3.05 0.0025 0.021 1.97 1.22 3.13
+DOID:14250 Down syndrome 27 3 9.37 4.77 0.0038 0.03 10.8 2.03 36.5

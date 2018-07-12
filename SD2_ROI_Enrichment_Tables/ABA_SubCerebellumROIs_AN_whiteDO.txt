@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:974	upper respiratory tract disease	123	7	6.53	5.8	8.7e-05	0.012	7.62	2.86	17.3
+DOID:2825	nose disease	106	6	6.5	5.35	3e-04	0.021	7.46	2.56	17.9
+DOID:4481	allergic rhinitis	98	5	5.86	4.54	0.0016	0.049	6.57	2.01	16.8
+DOID:2163	nasal cavity disease	100	5	5.74	4.47	0.0017	0.049	6.43	1.97	16.4
+DOID:4483	rhinitis	100	5	5.74	4.47	0.0017	0.049	6.43	1.97	16.4

@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:1782	cor	3	TGF-beta receptor	1	TGFBR1
+2	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6698	cor	4	G-calpain	1	CAPN9
+3	1	TRUE	0.0288	48	6	3	0.5	0.062	HP:0002686	hp	1	Prenatal maternal abnormality	1	LBR,TGFBR1,CYP11A1
+4	1	TRUE	0.0344	64	6	3	0.5	0.047	HP:0001640	hp	5	Cardiomegaly	1	LBR,TGFBR1,LAMP2

@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	1	4	1	0.25	1	CORUM:1941	cor	5	Sirpa-Pik3cg complex	1	PIK3CG
+2	1	TRUE	0.0387	5	4	1	0.25	0.2	CORUM:990	cor	8	Agap11-AP3 complex	1	AP3S2
+3	1	TRUE	0.0259	2	4	1	0.25	0.5	CORUM:967	cor	2	Pallidin-Mu complex	1	BLOC1S5
+4	1	TRUE	0.0387	4	4	1	0.25	0.25	CORUM:272	cor	6	Dysbindin-pallidin-muted-beta-dystrobrevin complex	1	BLOC1S5
+5	1	TRUE	0.0259	2	4	1	0.25	0.5	CORUM:5348	cor	3	Pik3r5-Pik3cg complex	1	PIK3CG
+6	1	TRUE	0.0277	38	60	4	0.067	0.105	REAC:R-MMU-1592389	rea	4	Activation of Matrix Metalloproteinases	1	COL18A1,MMP8,MMP7,MMP3
+7	1	TRUE	0.0321	47	60	4	0.067	0.085	REAC:R-MMU-1442490	rea	1	Collagen degradation	1	COL18A1,MMP8,MMP7,MMP3

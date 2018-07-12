@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-73894	DNA Repair	315	20	2.49	4.35	0.00016	0.038	2.73	1.61	4.39
+R-HSA-72766	Translation	258	17	2.59	4.18	0.00032	0.039	2.82	1.59	4.71
+R-HSA-73929	Base-Excision Repair, AP Site Formation	10	3	11.8	5.51	0.0017	0.047	16.6	2.75	73.1
+R-HSA-390522	Striated Muscle Contraction	36	5	5.45	4.33	0.002	0.047	6.27	1.89	16.5
+R-HSA-72689	Formation of a pool of free 40S subunits	101	9	3.5	4.08	0.0011	0.047	3.84	1.68	7.74
+R-HSA-73884	Base Excision Repair	39	5	5.03	4.08	0.0029	0.047	5.72	1.73	14.9
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	39	5	5.03	4.08	0.0029	0.047	5.72	1.73	14.9
+R-HSA-192823	Viral mRNA Translation	89	8	3.53	3.87	0.0019	0.047	3.87	1.6	8.11
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	9	3.18	3.74	0.0021	0.047	3.46	1.52	6.94
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	8	3.38	3.72	0.0025	0.047	3.69	1.52	7.71
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	9	3.16	3.71	0.0022	0.047	3.43	1.51	6.87
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	8	3.31	3.65	0.0029	0.047	3.6	1.49	7.52
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	9	3.07	3.61	0.0026	0.047	3.33	1.46	6.67
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	9	3.07	3.61	0.0026	0.047	3.33	1.46	6.67
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	8	3.24	3.58	0.0032	0.047	3.52	1.46	7.34
+R-HSA-72613	Eukaryotic Translation Initiation	119	9	2.97	3.49	0.0033	0.047	3.21	1.41	6.41
+R-HSA-72737	Cap-dependent Translation Initiation	119	9	2.97	3.49	0.0033	0.047	3.21	1.41	6.41
+R-HSA-2995383	Initiation of Nuclear Envelope Reformation	13	3	9.06	4.7	0.0039	0.049	11.6	2.04	45.4
+R-HSA-2995410	Nuclear Envelope Reassembly	13	3	9.06	4.7	0.0039	0.049	11.6	2.04	45.4

@@ -1,0 +1,23 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:130	cor	15	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	PSENEN
+2	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:1503	cor	21	Hdac1-Mecp2-Rcor1-Sin3a complex	1	SIN3A
+3	1	TRUE	0.0467	3	8	1	0.125	0.333	CORUM:6752	cor	10	Smad3-mSin3A-Hdac1 complex	1	SIN3A
+4	1	TRUE	0.0467	1	8	1	0.125	1	CORUM:3016	cor	7	Cohesin complex, incomplete (Stag3, Sycp3)	1	STAG3
+5	1	TRUE	0.0467	2	8	1	0.125	0.5	CORUM:3230	cor	16	Heterodimer complex (Cdk9, Il6st)	1	IL6ST
+6	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:333	cor	20	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCA
+7	1	TRUE	0.0467	3	8	1	0.125	0.333	CORUM:3014	cor	17	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	STAG3
+8	1	TRUE	0.0467	3	8	1	0.125	0.333	CORUM:6841	cor	23	Dyrk1b-Hnf1a-Pcbd2 complex	1	PCBD2
+9	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:5185	cor	11	SWI/SNF chromatin-remodeling complex (Mecp2, Smarc)	1	SIN3A
+10	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:5871	cor	12	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	PSENEN
+11	1	TRUE	0.0467	2	8	1	0.125	0.5	CORUM:3017	cor	1	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	STAG3
+12	1	TRUE	0.0467	2	8	1	0.125	0.5	CORUM:6761	cor	9	Vangl1-Dvl3 complex	1	VANGL1
+13	1	TRUE	0.0467	2	8	1	0.125	0.5	CORUM:6407	cor	13	Vangl1-Vangl2 complex	1	VANGL1
+14	1	TRUE	0.0467	1	8	1	0.125	1	CORUM:3049	cor	4	Mad-Max-mSin3a complex	1	SIN3A
+15	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:717	cor	8	PU.1-Sin3A-Hdac-MeCP2 complex	1	SIN3A
+16	1	TRUE	0.0467	2	8	1	0.125	0.5	CORUM:6760	cor	14	Vangl1-Dvl2 complex	1	VANGL1
+17	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:332	cor	3	Skeletal muscle sarcoglycan complex SGC, alpha-beta-epsilon-gamma	1	SGCA
+18	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:347	cor	5	Sarcoglycan-sarcospan-complex SG-SPN	1	SGCA
+19	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:131	cor	18	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCA
+20	1	TRUE	0.0467	2	8	1	0.125	0.5	CORUM:6759	cor	6	Vangl1-Dvl1 complex	1	VANGL1
+21	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:329	cor	19	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCA
+22	1	TRUE	0.0467	3	8	1	0.125	0.333	CORUM:1161	cor	22	Smrt-Sin3A-Hdac7 complex	1	SIN3A

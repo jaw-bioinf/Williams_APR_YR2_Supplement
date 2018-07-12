@@ -1,0 +1,284 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002406	increased susceptibility to infection	443	150	1.87	8.82	2.9e-16	1.1e-12	2.44	1.98	3.01
+MP:0001793	altered susceptibility to infection	534	171	1.77	8.59	8.8e-16	1.7e-12	2.26	1.85	2.74
+MP:0005025	abnormal response to infection	572	179	1.73	8.45	2.1e-15	2.7e-12	2.18	1.8	2.64
+MP:0002419	abnormal innate immunity	616	188	1.68	8.27	6.1e-15	4.8e-12	2.11	1.75	2.53
+MP:0002420	abnormal adaptive immunity	1459	373	1.41	8.05	5.5e-15	4.8e-12	1.71	1.49	1.95
+MP:0002421	abnormal cell-mediated immunity	1439	367	1.41	7.92	1.5e-14	9.5e-12	1.7	1.48	1.94
+MP:0001819	abnormal immune cell physiology	1428	364	1.41	7.87	2.1e-14	1.2e-11	1.7	1.48	1.94
+MP:0002442	abnormal leukocyte physiology	1401	357	1.41	7.77	4.4e-14	2.1e-11	1.69	1.48	1.94
+MP:0003009	abnormal cytokine secretion	661	194	1.62	7.78	1.5e-13	6.6e-11	1.99	1.66	2.38
+MP:0012382	abnormal blood cell physiology	1515	378	1.38	7.55	1.8e-13	7e-11	1.65	1.44	1.88
+MP:0001545	abnormal hematopoietic system physiology	1616	396	1.35	7.34	7e-13	2.5e-10	1.61	1.41	1.83
+MP:0002452	abnormal professional antigen presenting cell physiology	967	259	1.48	7.39	1e-12	3.4e-10	1.77	1.51	2.07
+MP:0020186	altered susceptibility to bacterial infection	331	112	1.87	7.56	2.2e-12	6.6e-10	2.4	1.89	3.05
+MP:0002723	abnormal immune serum protein physiology	1067	277	1.43	7.07	7.3e-12	2e-09	1.7	1.46	1.98
+MP:0002444	abnormal T cell physiology	665	188	1.56	7.06	1.6e-11	4e-09	1.88	1.56	2.25
+MP:0003945	abnormal lymphocyte physiology	1033	268	1.43	6.93	1.9e-11	4.5e-09	1.69	1.45	1.97
+MP:0008568	abnormal interleukin secretion	492	148	1.66	7.08	2.1e-11	4.8e-09	2.04	1.65	2.5
+MP:0002451	abnormal macrophage physiology	427	132	1.71	7.03	3.5e-11	7.6e-09	2.11	1.69	2.62
+MP:0002412	increased susceptibility to bacterial infection	261	90	1.9	6.96	1.1e-10	2.2e-08	2.46	1.87	3.21
+MP:0010210	abnormal circulating cytokine level	317	104	1.81	6.91	1.1e-10	2.2e-08	2.29	1.78	2.92
+MP:0008713	abnormal cytokine level	415	126	1.68	6.63	3.7e-10	6.9e-08	2.05	1.64	2.55
+MP:0002498	abnormal acute inflammation	328	105	1.77	6.65	4.5e-10	7.9e-08	2.2	1.72	2.81
+MP:0002463	abnormal neutrophil physiology	177	66	2.06	6.69	9.3e-10	1.6e-07	2.76	1.99	3.79
+MP:0008588	abnormal circulating interleukin level	245	83	1.87	6.49	1.6e-09	2.5e-07	2.38	1.8	3.14
+MP:0001876	decreased inflammatory response	273	90	1.82	6.47	1.6e-09	2.5e-07	2.29	1.75	2.98
+MP:0008555	abnormal interferon secretion	320	101	1.74	6.36	2.3e-09	3.3e-07	2.15	1.67	2.76
+MP:0008835	abnormal intercellular signaling peptide or protein level	426	126	1.63	6.29	2.3e-09	3.3e-07	1.97	1.58	2.45
+MP:0005351	decreased susceptibility to autoimmune disorder	192	69	1.98	6.48	2.4e-09	3.4e-07	2.6	1.9	3.54
+MP:0002462	abnormal granulocyte physiology	260	86	1.83	6.35	3e-09	4.1e-07	2.3	1.75	3.01
+MP:0020185	altered susceptibility to viral infection	167	62	2.05	6.44	3.7e-09	4.8e-07	2.73	1.95	3.79
+MP:0008751	abnormal interleukin level	286	92	1.78	6.27	4.2e-09	5.3e-07	2.21	1.69	2.86
+MP:0002418	increased susceptibility to viral infection	127	50	2.17	6.26	1.3e-08	1.6e-06	2.99	2.05	4.35
+MP:0008595	abnormal circulating interleukin-6 level	143	54	2.08	6.15	1.9e-08	2.2e-06	2.8	1.95	3.99
+MP:0020184	altered susceptibility to parasitic infection	127	49	2.13	6.03	3.9e-08	4.4e-06	2.89	1.97	4.21
+MP:0001800	abnormal humoral immune response	561	151	1.49	5.58	6.8e-08	7.5e-06	1.73	1.41	2.11
+MP:0002339	abnormal lymph node morphology	392	113	1.59	5.63	7.5e-08	8.1e-06	1.89	1.5	2.38
+MP:0002459	abnormal B cell physiology	638	167	1.44	5.48	1e-07	1.1e-05	1.67	1.38	2.01
+MP:0005463	abnormal CD4-positive, alpha-beta T cell physiology	173	60	1.91	5.71	1.2e-07	1.2e-05	2.45	1.75	3.4
+MP:0002148	abnormal hypersensitivity reaction	170	59	1.92	5.67	1.4e-07	1.4e-05	2.45	1.75	3.41
+MP:0009785	altered susceptibility to infection induced morbidity/mortality	170	59	1.92	5.67	1.4e-07	1.4e-05	2.45	1.75	3.41
+MP:0008559	abnormal interferon-gamma secretion	280	86	1.7	5.56	1.4e-07	1.4e-05	2.06	1.57	2.68
+MP:0002425	altered susceptibility to autoimmune disorder	320	95	1.64	5.47	1.9e-07	1.7e-05	1.96	1.52	2.52
+MP:0002490	abnormal immunoglobulin level	519	140	1.49	5.39	1.8e-07	1.7e-05	1.73	1.4	2.12
+MP:0001844	autoimmune response	404	113	1.54	5.26	4.2e-07	3.6e-05	1.81	1.43	2.27
+MP:0001845	abnormal inflammatory response	1235	288	1.29	5.1	4.2e-07	3.6e-05	1.45	1.25	1.68
+MP:0008567	decreased interferon-gamma secretion	175	59	1.86	5.41	4.5e-07	3.8e-05	2.35	1.68	3.25
+MP:0005087	decreased acute inflammation	196	64	1.8	5.34	5.4e-07	4.4e-05	2.24	1.63	3.06
+MP:0008556	abnormal tumor necrosis factor secretion	233	73	1.73	5.3	5.4e-07	4.4e-05	2.11	1.57	2.82
+MP:0005005	abnormal self tolerance	406	113	1.54	5.2	5.5e-07	4.4e-05	1.8	1.42	2.26
+MP:0008750	abnormal interferon level	118	44	2.06	5.44	5.9e-07	4.6e-05	2.73	1.83	4.04
+MP:0005416	abnormal circulating protein level	976	234	1.32	5.02	6.9e-07	5.2e-05	1.49	1.27	1.75
+MP:0009787	increased susceptibility to infection induced morbidity/mortality	123	45	2.02	5.35	8.2e-07	6.1e-05	2.65	1.79	3.89
+MP:0002376	abnormal dendritic cell physiology	166	56	1.86	5.27	8.6e-07	6.3e-05	2.35	1.66	3.28
+MP:0005000	abnormal immune tolerance	414	114	1.52	5.09	8.8e-07	6.3e-05	1.77	1.4	2.22
+MP:0011518	abnormal cell chemotaxis	135	48	1.96	5.3	9.4e-07	6.5e-05	2.54	1.74	3.67
+MP:0008469	abnormal protein level	1092	257	1.3	4.95	9.2e-07	6.5e-05	1.46	1.25	1.7
+MP:0002534	abnormal type IV hypersensitivity reaction	94	37	2.17	5.38	1e-06	6.8e-05	2.98	1.91	4.6
+MP:0020174	abnormal IgG level	407	112	1.52	5.04	1.1e-06	7.6e-05	1.77	1.4	2.22
+MP:0000696	abnormal Peyer's patch morphology	91	36	2.18	5.34	1.2e-06	8e-05	3	1.91	4.67
+MP:0008642	decreased circulating interleukin-1 beta level	21	14	3.68	5.78	1.3e-06	8.2e-05	9.1	3.43	26.7
+MP:0002409	decreased susceptibility to infection	180	59	1.81	5.16	1.3e-06	8.3e-05	2.25	1.61	3.11
+MP:0008561	decreased tumor necrosis factor secretion	129	46	1.97	5.21	1.4e-06	9e-05	2.55	1.73	3.71
+MP:0004800	decreased susceptibility to experimental autoimmune encephalomyelitis	99	38	2.12	5.26	1.5e-06	9.2e-05	2.86	1.85	4.37
+MP:0005078	abnormal cytotoxic T cell physiology	81	33	2.25	5.31	1.5e-06	9.3e-05	3.15	1.95	5.03
+MP:0002460	decreased immunoglobulin level	330	94	1.57	4.98	1.7e-06	1e-04	1.85	1.43	2.37
+MP:0010954	abnormal cellular respiration	134	47	1.94	5.13	1.9e-06	0.00011	2.48	1.7	3.6
+MP:0005027	increased susceptibility to parasitic infection	100	38	2.1	5.19	2e-06	0.00012	2.81	1.82	4.29
+MP:0008548	abnormal circulating interferon level	97	37	2.11	5.15	2.4e-06	0.00014	2.83	1.82	4.35
+MP:0008247	abnormal mononuclear cell morphology	1680	371	1.22	4.66	2.8e-06	0.00016	1.36	1.19	1.55
+MP:0002378	abnormal gut-associated lymphoid tissue morphology	94	36	2.11	5.11	3e-06	0.00017	2.84	1.82	4.4
+MP:0001846	increased inflammatory response	1058	247	1.29	4.69	3e-06	0.00017	1.44	1.23	1.68
+MP:0008037	abnormal T cell morphology	980	231	1.3	4.69	3.2e-06	0.00017	1.46	1.24	1.71
+MP:0008344	abnormal mature gamma-delta T cell morphology	28	16	3.15	5.37	4.2e-06	0.00022	6.07	2.69	14.1
+MP:0004392	abnormal CD8-positive, alpha-beta T cell physiology	114	41	1.99	4.98	4.1e-06	0.00022	2.58	1.71	3.84
+MP:0001858	intestinal inflammation	211	65	1.7	4.84	4.3e-06	0.00022	2.05	1.5	2.78
+MP:0003079	decreased susceptibility to induced joint inflammation	67	28	2.31	5.05	5.2e-06	0.00026	3.28	1.94	5.49
+MP:0003436	decreased susceptibility to induced arthritis	67	28	2.31	5.05	5.2e-06	0.00026	3.28	1.94	5.49
+MP:0008704	abnormal interleukin-6 secretion	183	58	1.75	4.82	5.3e-06	0.00026	2.14	1.53	2.95
+MP:0008597	decreased circulating interleukin-6 level	57	25	2.42	5.06	5.9e-06	0.00029	3.57	2.02	6.23
+MP:0002619	abnormal lymphocyte morphology	1368	307	1.24	4.5	6.4e-06	0.00031	1.38	1.19	1.59
+MP:0005095	decreased T cell proliferation	214	65	1.68	4.71	7.2e-06	0.00035	2.01	1.47	2.72
+MP:0001657	abnormal induced morbidity/mortality	590	148	1.38	4.54	7.8e-06	0.00036	1.56	1.28	1.9
+MP:0000218	increased leukocyte cell number	1080	249	1.27	4.48	7.5e-06	0.00036	1.42	1.21	1.65
+MP:0000701	abnormal lymph node size	275	79	1.59	4.64	8.1e-06	0.00037	1.86	1.41	2.44
+MP:0000689	abnormal spleen morphology	992	231	1.29	4.47	8.1e-06	0.00037	1.43	1.22	1.68
+MP:0002435	abnormal effector T cell morphology	710	173	1.34	4.5	8.5e-06	0.00038	1.51	1.25	1.81
+MP:0002722	abnormal immune system organ morphology	1323	297	1.24	4.42	9.1e-06	0.00041	1.37	1.19	1.59
+MP:0000716	abnormal immune system cell morphology	1949	418	1.18	4.3	1.3e-05	0.00059	1.31	1.16	1.49
+MP:0008474	absent spleen germinal center	33	17	2.84	4.99	1.4e-05	6e-04	4.84	2.29	10.3
+MP:0008246	abnormal leukocyte morphology	1929	414	1.18	4.29	1.4e-05	6e-04	1.31	1.16	1.49
+MP:0001805	decreased IgG level	258	74	1.58	4.47	1.7e-05	7e-04	1.86	1.39	2.46
+MP:0005460	abnormal leukopoiesis	737	177	1.33	4.33	1.7e-05	7e-04	1.48	1.23	1.77
+MP:0010955	abnormal respiratory electron transport chain	78	30	2.12	4.68	1.8e-05	0.00074	2.86	1.74	4.62
+MP:0003304	large intestinal inflammation	169	53	1.73	4.51	1.9e-05	0.00077	2.1	1.48	2.94
+MP:0002357	abnormal spleen white pulp morphology	348	94	1.49	4.39	1.9e-05	0.00077	1.71	1.33	2.19
+MP:0012762	abnormal alpha-beta T cell morphology	753	180	1.32	4.3	1.9e-05	0.00077	1.47	1.23	1.76
+MP:0002362	abnormal spleen marginal zone morphology	157	50	1.76	4.51	2e-05	0.00079	2.15	1.5	3.04
+MP:0005013	increased lymphocyte cell number	744	178	1.32	4.29	2e-05	0.00079	1.47	1.22	1.76
+MP:0002831	absent Peyer's patches	22	13	3.26	5	2.1e-05	0.00081	6.57	2.59	17.4
+MP:0005616	decreased susceptibility to type IV hypersensitivity reaction	64	26	2.24	4.69	2.1e-05	0.00081	3.13	1.82	5.3
+MP:0000726	absent lymphocyte	109	38	1.92	4.57	2.1e-05	0.00081	2.45	1.6	3.7
+MP:0006036	abnormal mitochondrial physiology	167	52	1.72	4.41	2.8e-05	0.0011	2.08	1.46	2.92
+MP:0001828	abnormal T cell activation	384	101	1.45	4.25	3.1e-05	0.0011	1.65	1.29	2.1
+MP:0006387	abnormal T cell number	911	211	1.28	4.16	3e-05	0.0011	1.41	1.19	1.67
+MP:0000717	abnormal lymphocyte cell number	1270	283	1.23	4.15	2.9e-05	0.0011	1.36	1.17	1.57
+MP:0002411	decreased susceptibility to bacterial infection	100	35	1.93	4.41	4e-05	0.0015	2.46	1.58	3.79
+MP:0002401	abnormal lymphopoiesis	637	154	1.33	4.11	4.2e-05	0.0015	1.49	1.22	1.8
+MP:0005015	increased T cell number	509	127	1.38	4.12	4.6e-05	0.0016	1.54	1.24	1.91
+MP:0000217	abnormal leukocyte cell number	1718	369	1.19	4.01	4.6e-05	0.0016	1.3	1.14	1.49
+MP:0008551	abnormal circulating interferon-gamma level	78	29	2.05	4.39	5.1e-05	0.0018	2.7	1.64	4.38
+MP:0000691	enlarged spleen	510	127	1.37	4.09	5e-05	0.0018	1.54	1.24	1.9
+MP:0010959	abnormal oxidative phosphorylation	46	20	2.4	4.48	5.8e-05	0.002	3.51	1.85	6.55
+MP:0008719	impaired neutrophil recruitment	60	24	2.21	4.42	5.8e-05	0.002	3.04	1.73	5.26
+MP:0002145	abnormal T cell differentiation	428	109	1.41	4.04	6.6e-05	0.0022	1.58	1.25	1.99
+MP:0002123	abnormal definitive hematopoiesis	946	216	1.26	3.97	6.3e-05	0.0022	1.39	1.17	1.63
+MP:0005399	increased susceptibility to fungal infection	30	15	2.76	4.54	7e-05	0.0023	4.55	2.07	10
+MP:0003156	abnormal leukocyte migration	168	51	1.68	4.16	6.9e-05	0.0023	2	1.4	2.82
+MP:0013693	abnormal hemopoiesis	973	221	1.25	3.93	7.3e-05	0.0024	1.38	1.17	1.62
+MP:0005338	atherosclerotic lesions	103	35	1.88	4.2	8e-05	0.0026	2.35	1.51	3.6
+MP:0002461	increased immunoglobulin level	310	83	1.48	4.03	8.1e-05	0.0026	1.69	1.29	2.19
+MP:0008658	decreased interleukin-1 beta secretion	37	17	2.54	4.4	9e-05	0.0029	3.87	1.9	7.8
+MP:0005010	abnormal CD8-positive, alpha beta T cell morphology	417	106	1.4	3.96	8.9e-05	0.0029	1.58	1.24	1.99
+MP:0008656	abnormal interleukin-1 beta secretion	88	31	1.94	4.19	9.4e-05	0.003	2.49	1.55	3.93
+MP:0008706	decreased interleukin-6 secretion	92	32	1.92	4.17	9.6e-05	0.003	2.44	1.53	3.82
+MP:0010155	abnormal intestine physiology	307	82	1.47	3.98	9.7e-05	0.003	1.68	1.28	2.19
+MP:0020183	altered susceptibility to fungal infection	34	16	2.6	4.39	1e-04	0.0031	4.05	1.93	8.42
+MP:0008578	decreased circulating interferon-gamma level	34	16	2.6	4.39	1e-04	0.0031	4.05	1.93	8.42
+MP:0008343	abnormal gamma-delta T cell morphology	108	36	1.84	4.13	1e-04	0.0031	2.29	1.48	3.47
+MP:0005088	increased acute inflammation	145	45	1.71	4.07	1e-04	0.0031	2.06	1.41	2.97
+MP:0005094	abnormal T cell proliferation	345	90	1.44	3.92	0.00011	0.0034	1.63	1.26	2.09
+MP:0010956	abnormal mitochondrial ATP synthesis coupled electron transport	41	18	2.42	4.3	0.00012	0.0035	3.56	1.81	6.92
+MP:0002743	glomerulonephritis	121	39	1.78	4.06	0.00012	0.0035	2.18	1.44	3.24
+MP:0008172	abnormal follicular B cell morphology	101	34	1.86	4.08	0.00012	0.0036	2.32	1.48	3.57
+MP:0002139	abnormal hepatobiliary system physiology	439	110	1.38	3.87	0.00012	0.0036	1.55	1.23	1.94
+MP:0008349	abnormal gamma-delta intraepithelial T cell morphology	22	12	3.01	4.44	0.00013	0.0037	5.45	2.16	14.1
+MP:0008895	abnormal intraepithelial T cell number	22	12	3.01	4.44	0.00013	0.0037	5.45	2.16	14.1
+MP:0008720	impaired neutrophil chemotaxis	52	21	2.23	4.18	0.00014	0.004	3.09	1.68	5.56
+MP:0008195	abnormal professional antigen presenting cell morphology	998	224	1.24	3.76	0.00014	0.004	1.36	1.15	1.59
+MP:0011181	increased hematopoietic cell number	1247	273	1.21	3.72	0.00015	0.0042	1.32	1.14	1.53
+MP:0002816	colitis	160	48	1.66	3.94	0.00015	0.0043	1.96	1.36	2.79
+MP:0005070	impaired natural killer cell mediated cytotoxicity	56	22	2.17	4.13	0.00016	0.0044	2.95	1.64	5.21
+MP:0005016	decreased lymphocyte cell number	1006	225	1.23	3.71	0.00017	0.0047	1.35	1.15	1.58
+MP:0000609	abnormal liver physiology	405	102	1.39	3.78	0.00018	0.0048	1.56	1.22	1.97
+MP:0005014	increased B cell number	318	83	1.44	3.76	2e-04	0.0055	1.63	1.24	2.11
+MP:0010776	abnormal placenta metrial gland morphology	20	11	3.04	4.29	0.00022	0.0059	5.55	2.09	15.2
+MP:0008054	abnormal uterine NK cell morphology	20	11	3.04	4.29	0.00022	0.0059	5.55	2.09	15.2
+MP:0008354	decreased mature gamma-delta T cell number	20	11	3.04	4.29	0.00022	0.0059	5.55	2.09	15.2
+MP:0009788	increased susceptibility to bacterial infection induced morbidity/mortality	80	28	1.93	3.94	0.00023	0.0059	2.46	1.49	3.98
+MP:0003991	arteriosclerosis	108	35	1.79	3.88	0.00023	0.0059	2.19	1.42	3.34
+MP:0005018	decreased T cell number	707	164	1.28	3.65	0.00023	0.0059	1.4	1.16	1.69
+MP:0002429	abnormal blood cell morphology/development	1106	244	1.22	3.63	0.00022	0.0059	1.33	1.13	1.55
+MP:0008079	decreased CD8-positive, alpha-beta T cell number	278	74	1.47	3.74	0.00023	0.006	1.67	1.25	2.2
+MP:0002432	abnormal CD4-positive, alpha beta T cell morphology	504	122	1.34	3.65	0.00026	0.0065	1.48	1.19	1.83
+MP:0008752	abnormal tumor necrosis factor level	185	53	1.58	3.76	0.00026	0.0066	1.84	1.31	2.56
+MP:0008876	decreased uterine NK cell number	12	8	3.68	4.37	0.00028	0.0071	9.07	2.43	41.2
+MP:0008180	abnormal marginal zone B cell morphology	134	41	1.69	3.78	0.00029	0.0071	2.02	1.36	2.96
+MP:0008650	abnormal interleukin-1 secretion	93	31	1.84	3.83	3e-04	0.0073	2.28	1.43	3.58
+MP:0008048	abnormal memory T cell number	126	39	1.71	3.77	0.00031	0.0075	2.05	1.36	3.04
+MP:0008894	abnormal intraepithelial T cell morphology	27	13	2.66	4.06	0.00034	0.0084	4.22	1.82	9.7
+MP:0010833	abnormal memory T cell morphology	127	39	1.7	3.71	0.00037	0.0089	2.03	1.35	3
+MP:0000702	enlarged lymph nodes	214	59	1.52	3.63	0.00037	0.0089	1.75	1.27	2.38
+MP:0011719	abnormal natural killer cell mediated cytotoxicity	59	22	2.06	3.84	0.00038	0.0092	2.71	1.52	4.73
+MP:0008634	abnormal circulating interleukin-18 level	21	11	2.89	4.08	0.00039	0.0094	5	1.92	13.2
+MP:0013296	abnormal susceptibility to induced colitis	115	36	1.73	3.69	4e-04	0.0095	2.08	1.36	3.14
+MP:0002993	arthritis	136	41	1.66	3.67	4e-04	0.0095	1.97	1.33	2.89
+MP:0005074	impaired granulocyte bactericidal activity	10	7	3.86	4.26	0.00045	0.01	10.6	2.41	63.5
+MP:0008769	abnormal plasmacytoid dendritic cell physiology	10	7	3.86	4.26	0.00045	0.01	10.6	2.41	63.5
+MP:0008636	decreased circulating interleukin-18 level	10	7	3.86	4.26	0.00045	0.01	10.6	2.41	63.5
+MP:0008596	increased circulating interleukin-6 level	91	30	1.82	3.7	0.00045	0.01	2.24	1.39	3.54
+MP:0010766	abnormal NK cell physiology	99	32	1.78	3.69	0.00044	0.01	2.18	1.38	3.38
+MP:0008211	decreased mature B cell number	279	73	1.44	3.54	0.00045	0.01	1.63	1.22	2.15
+MP:0002344	abnormal lymph node B cell domain morphology	56	21	2.07	3.78	0.00047	0.011	2.73	1.51	4.84
+MP:0001573	abnormal circulating alanine transaminase level	203	56	1.52	3.54	0.00051	0.011	1.75	1.25	2.4
+MP:0002221	abnormal lymph organ size	993	219	1.22	3.41	0.00049	0.011	1.32	1.12	1.55
+MP:0011180	abnormal hematopoietic cell number	1969	408	1.14	3.38	0.00047	0.011	1.24	1.09	1.41
+MP:0008557	abnormal interferon-alpha secretion	28	13	2.56	3.9	0.00054	0.012	3.94	1.72	8.89
+MP:0003957	abnormal nitric oxide homeostasis	42	17	2.23	3.77	0.00058	0.012	3.09	1.56	5.98
+MP:0008174	decreased follicular B cell number	80	27	1.86	3.65	0.00057	0.012	2.32	1.4	3.77
+MP:0005461	abnormal dendritic cell morphology	151	44	1.61	3.55	0.00057	0.012	1.88	1.29	2.71
+MP:0002224	abnormal spleen size	754	171	1.25	3.39	0.00055	0.012	1.36	1.13	1.63
+MP:0002467	impaired neutrophil phagocytosis	13	8	3.4	4.07	0.00062	0.013	7.26	2.09	28.3
+MP:0002933	joint inflammation	147	43	1.61	3.53	6e-04	0.013	1.89	1.29	2.74
+MP:0008251	abnormal phagocyte morphology	816	183	1.24	3.35	0.00063	0.013	1.34	1.12	1.6
+MP:0002455	abnormal dendritic cell antigen presentation	39	16	2.26	3.72	7e-04	0.014	3.16	1.56	6.27
+MP:0005026	decreased susceptibility to parasitic infection	39	16	2.26	3.72	7e-04	0.014	3.16	1.56	6.27
+MP:0002343	abnormal lymph node cortex morphology	65	23	1.95	3.63	0.00068	0.014	2.5	1.43	4.26
+MP:0008662	abnormal interleukin-12 secretion	69	24	1.92	3.61	0.00069	0.014	2.43	1.41	4.09
+MP:0008077	abnormal CD8-positive, alpha-beta T cell number	386	95	1.36	3.38	0.00068	0.014	1.5	1.17	1.92
+MP:0013762	abnormal effector T cell number	179	50	1.54	3.44	0.00073	0.015	1.77	1.25	2.49
+MP:0012765	decreased alpha-beta T cell number	392	96	1.35	3.35	0.00076	0.015	1.49	1.17	1.9
+MP:0005370	liver/biliary system phenotype	1230	264	1.18	3.27	0.00074	0.015	1.28	1.1	1.49
+MP:0003186	abnormal redox activity	149	43	1.59	3.43	0.00081	0.016	1.86	1.27	2.68
+MP:0008101	lymph node hypoplasia	47	18	2.11	3.6	0.00088	0.017	2.82	1.47	5.28
+MP:0003447	decreased tumor growth/size	115	35	1.68	3.45	0.00086	0.017	2	1.3	3.02
+MP:0008472	abnormal spleen secondary B follicle morphology	132	39	1.63	3.43	0.00085	0.017	1.92	1.28	2.83
+MP:0005068	abnormal NK cell morphology	167	47	1.55	3.4	0.00087	0.017	1.79	1.25	2.54
+MP:0020180	abnormal IgM level	239	63	1.46	3.35	0.00087	0.017	1.64	1.2	2.21
+MP:0011073	abnormal macrophage apoptosis	26	12	2.55	3.72	0.00094	0.018	3.89	1.64	9.09
+MP:0008563	decreased interferon-alpha secretion	26	12	2.55	3.72	0.00094	0.018	3.89	1.64	9.09
+MP:0005465	abnormal T-helper 1 physiology	55	20	2.01	3.52	0.001	0.019	2.6	1.42	4.65
+MP:0008125	abnormal dendritic cell number	120	36	1.66	3.4	0.00098	0.019	1.96	1.28	2.94
+MP:0002359	abnormal spleen germinal center morphology	129	38	1.63	3.37	0.001	0.019	1.91	1.27	2.83
+MP:0005350	increased susceptibility to autoimmune disorder	181	50	1.52	3.35	0.00096	0.019	1.75	1.23	2.45
+MP:0020176	abnormal IgG2a level	155	44	1.57	3.35	0.001	0.019	1.81	1.24	2.6
+MP:0008217	abnormal B cell activation	199	54	1.5	3.34	0.00097	0.019	1.71	1.22	2.36
+MP:0013701	abnormal mature B cell number	366	90	1.36	3.28	0.00096	0.019	1.5	1.16	1.92
+MP:0008248	abnormal mononuclear phagocyte morphology	644	147	1.26	3.22	0.001	0.019	1.37	1.12	1.66
+MP:0012763	abnormal alpha-beta T cell number	595	137	1.27	3.21	0.001	0.019	1.38	1.13	1.69
+MP:0011100	preweaning lethality, complete penetrance	799	178	1.23	3.19	0.001	0.019	1.33	1.11	1.59
+MP:0013657	abnormal blood cell morphology	1813	375	1.14	3.16	0.00099	0.019	1.23	1.08	1.4
+MP:0008073	abnormal CD4-positive, alpha beta T cell number	440	105	1.32	3.21	0.0011	0.021	1.44	1.14	1.82
+MP:0003561	rheumatoid arthritis	14	8	3.15	3.79	0.0012	0.022	6.05	1.84	21.2
+MP:0008351	decreased gamma-delta intraepithelial T cell number	17	9	2.92	3.73	0.0012	0.022	5.11	1.75	15.2
+MP:0008345	abnormal gamma-delta T cell number	100	31	1.71	3.36	0.0012	0.022	2.05	1.29	3.19
+MP:0020173	abnormal IgE level	143	41	1.58	3.3	0.0012	0.022	1.84	1.24	2.68
+MP:0008722	abnormal chemokine secretion	64	22	1.9	3.39	0.0014	0.024	2.39	1.35	4.1
+MP:0002499	chronic inflammation	68	23	1.87	3.38	0.0014	0.024	2.33	1.34	3.94
+MP:0003762	abnormal immune organ physiology	188	51	1.5	3.24	0.0013	0.024	1.7	1.2	2.38
+MP:0008075	decreased CD4-positive, alpha beta T cell number	299	75	1.38	3.18	0.0014	0.024	1.54	1.16	2.02
+MP:0008250	abnormal myeloid leukocyte morphology	950	207	1.2	3.1	0.0013	0.024	1.3	1.09	1.53
+MP:0004919	abnormal positive T cell selection	34	14	2.27	3.5	0.0014	0.025	3.18	1.48	6.64
+MP:0009334	abnormal splenocyte proliferation	45	17	2.09	3.43	0.0015	0.025	2.76	1.41	5.24
+MP:0002493	increased IgG level	225	59	1.45	3.2	0.0014	0.025	1.63	1.18	2.22
+MP:0006043	decreased apoptosis	248	64	1.42	3.19	0.0014	0.025	1.59	1.17	2.14
+MP:0002408	abnormal double-positive T cell morphology	239	62	1.43	3.18	0.0015	0.025	1.61	1.18	2.17
+MP:0010211	abnormal acute phase protein level	24	11	2.53	3.53	0.0016	0.028	3.84	1.56	9.31
+MP:0002433	abnormal T-helper 1 cell morphology	53	19	1.98	3.36	0.0016	0.028	2.54	1.37	4.6
+MP:0000523	cortical renal glomerulopathies	190	51	1.48	3.16	0.0017	0.029	1.68	1.19	2.34
+MP:0008043	abnormal NK cell number	159	44	1.53	3.16	0.0018	0.031	1.75	1.2	2.51
+MP:0001859	kidney inflammation	195	52	1.47	3.13	0.0018	0.031	1.66	1.18	2.31
+MP:0008346	increased gamma-delta T cell number	46	17	2.04	3.33	0.0019	0.032	2.67	1.37	5.03
+MP:0008496	decreased IgG2a level	90	28	1.72	3.22	0.0019	0.032	2.06	1.26	3.28
+MP:0012555	decreased cell death	251	64	1.41	3.08	0.002	0.032	1.57	1.16	2.11
+MP:0002446	abnormal macrophage morphology	461	108	1.29	3.04	0.0019	0.032	1.41	1.12	1.77
+MP:0000221	decreased leukocyte cell number	1275	269	1.16	2.98	0.0019	0.032	1.25	1.07	1.45
+MP:0008680	abnormal interleukin-17 secretion	78	25	1.77	3.21	0.0021	0.033	2.15	1.28	3.53
+MP:0020171	abnormal IgA level	129	37	1.58	3.14	0.0021	0.033	1.84	1.21	2.73
+MP:0008552	abnormal circulating tumor necrosis factor level	142	40	1.55	3.13	0.002	0.033	1.79	1.21	2.62
+MP:0008196	abnormal follicular dendritic cell morphology	12	7	3.22	3.62	0.0021	0.034	6.35	1.73	25.4
+MP:0008683	abnormal interleukin-18 secretion	12	7	3.22	3.62	0.0021	0.034	6.35	1.73	25.4
+MP:0001836	abnormal antigen presentation via MHC class I	15	8	2.94	3.54	0.0022	0.034	5.18	1.64	16.8
+MP:0011081	decreased macrophage apoptosis	15	8	2.94	3.54	0.0022	0.034	5.18	1.64	16.8
+MP:0010760	abnormal macrophage chemotaxis	74	24	1.79	3.21	0.0021	0.034	2.19	1.28	3.64
+MP:0002217	small lymph nodes	70	23	1.81	3.21	0.0021	0.034	2.23	1.29	3.76
+MP:0009786	decreased susceptibility to infection induced morbidity/mortality	74	24	1.79	3.21	0.0021	0.034	2.19	1.28	3.64
+MP:0004799	increased susceptibility to experimental autoimmune encephalomyelitis	70	23	1.81	3.21	0.0021	0.034	2.23	1.29	3.76
+MP:0000703	abnormal thymus morphology	551	126	1.26	2.99	0.0021	0.034	1.37	1.1	1.69
+MP:0008070	absent T cells	39	15	2.12	3.31	0.0022	0.035	2.84	1.38	5.66
+MP:0000343	altered response to myocardial infarction	91	28	1.7	3.15	0.0023	0.035	2.03	1.25	3.22
+MP:0000322	increased granulocyte number	328	80	1.35	3	0.0023	0.035	1.48	1.13	1.92
+MP:0000249	abnormal blood vessel physiology	410	97	1.31	2.98	0.0023	0.036	1.43	1.12	1.81
+MP:0002353	abnormal inguinal lymph node morphology	25	11	2.43	3.36	0.0025	0.037	3.57	1.46	8.48
+MP:0008133	decreased Peyer's patch number	25	11	2.43	3.36	0.0025	0.037	3.57	1.46	8.48
+MP:0009811	abnormal prostaglandin level	32	13	2.24	3.31	0.0024	0.037	3.11	1.41	6.65
+MP:0002346	abnormal lymph node secondary follicle morphology	32	13	2.24	3.31	0.0024	0.037	3.11	1.41	6.65
+MP:0008601	abnormal circulating interleukin-4 level	32	13	2.24	3.31	0.0024	0.037	3.11	1.41	6.65
+MP:0013280	abnormal cytotoxic T cell cytolysis	47	17	2	3.22	0.0025	0.038	2.58	1.33	4.84
+MP:0004917	abnormal T cell selection	47	17	2	3.22	0.0025	0.038	2.58	1.33	4.84
+MP:0005079	decreased cytotoxic T cell cytolysis	47	17	2	3.22	0.0025	0.038	2.58	1.33	4.84
+MP:0002375	abnormal thymus medulla morphology	55	19	1.91	3.17	0.0026	0.039	2.4	1.3	4.31
+MP:0008640	abnormal circulating interleukin-1 beta level	55	19	1.91	3.17	0.0026	0.039	2.4	1.3	4.31
+MP:0001798	impaired macrophage phagocytosis	59	20	1.87	3.16	0.0027	0.039	2.33	1.29	4.11
+MP:0008126	increased dendritic cell number	59	20	1.87	3.16	0.0027	0.039	2.33	1.29	4.11
+MP:0020148	abnormal sensitivity to induced morbidity/mortality	461	107	1.28	2.91	0.0027	0.04	1.39	1.1	1.74
+MP:0005584	abnormal enzyme/coenzyme activity	236	60	1.4	2.95	0.0029	0.042	1.56	1.14	2.11
+MP:0004256	abnormal maternal decidual layer morphology	29	12	2.28	3.26	0.003	0.043	3.21	1.39	7.14
+MP:0012764	increased alpha-beta T cell number	269	67	1.37	2.93	0.0029	0.043	1.52	1.13	2.02
+MP:0005164	abnormal response to injury	546	124	1.25	2.87	0.003	0.043	1.35	1.09	1.67
+MP:0011762	renal/urinary system inflammation	204	53	1.43	2.95	0.003	0.044	1.61	1.15	2.22
+MP:0010377	abnormal gut flora balance	19	9	2.61	3.31	0.0033	0.046	4.08	1.47	11.2
+MP:0002340	abnormal axillary lymph node morphology	19	9	2.61	3.31	0.0033	0.046	4.08	1.47	11.2
+MP:0008042	abnormal NK T cell physiology	19	9	2.61	3.31	0.0033	0.046	4.08	1.47	11.2
+MP:0002330	abnormal bronchial provocation	48	17	1.95	3.12	0.0032	0.046	2.49	1.29	4.66
+MP:0003799	impaired macrophage chemotaxis	52	18	1.91	3.1	0.0033	0.046	2.41	1.28	4.4
+MP:0008705	increased interleukin-6 secretion	93	28	1.66	3.02	0.0032	0.046	1.96	1.21	3.11
+MP:0008560	increased tumor necrosis factor secretion	119	34	1.58	2.98	0.0033	0.046	1.82	1.18	2.76
+MP:0001860	liver inflammation	159	43	1.49	2.95	0.0032	0.046	1.69	1.16	2.43
+MP:0004801	increased susceptibility to systemic lupus erythematosus	33	13	2.17	3.18	0.0034	0.047	2.95	1.35	6.25
+MP:0008463	abnormal peripheral lymph node morphology	56	19	1.87	3.08	0.0033	0.047	2.34	1.27	4.18
+MP:0005011	increased eosinophil cell number	89	27	1.67	3.01	0.0034	0.047	1.98	1.21	3.18
+MP:0008131	abnormal Peyer's patch number	26	11	2.34	3.21	0.0036	0.049	3.33	1.38	7.77
+MP:0011427	mesangial cell hyperplasia	37	14	2.09	3.12	0.0037	0.05	2.77	1.31	5.62
+MP:0003674	oxidative stress	133	37	1.54	2.93	0.0036	0.05	1.76	1.17	2.61

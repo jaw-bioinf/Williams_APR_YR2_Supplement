@@ -1,0 +1,3 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa00561 Glycerolipid metabolism 59 3 7.19 4.03 0.0082 0.043 7.96 1.54 26
+path:hsa04137 Mitophagy - animal 65 3 6.52 3.78 0.011 0.043 7.18 1.39 23.4

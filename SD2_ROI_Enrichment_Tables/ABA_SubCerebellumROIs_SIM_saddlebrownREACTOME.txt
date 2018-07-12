@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-539107	Activation of E2F1 target genes at G1/S	24	3	19.6	7.3	0.00046	0.0094	23.2	4.32	80.8
+R-HSA-69205	G1/S-Specific Transcription	24	3	19.6	7.3	0.00046	0.0094	23.2	4.32	80.8
+R-HSA-382551	Transport of small molecules	705	12	2.66	3.67	0.0015	0.02	3.08	1.49	5.88

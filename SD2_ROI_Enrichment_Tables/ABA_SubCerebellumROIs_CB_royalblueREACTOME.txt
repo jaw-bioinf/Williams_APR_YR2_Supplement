@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5696397	Gap-filling DNA repair synthesis and ligation in GG-NER	25	3	15.2	6.34	0.00096	0.022	17.8	3.33	61.1
+R-HSA-180786	Extension of Telomeres	30	3	12.7	5.71	0.0016	0.022	14.5	2.75	48.6
+R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	31	3	12.3	5.6	0.0018	0.022	14	2.66	46.7
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	5	7.54	5.37	0.00051	0.022	8.42	2.59	21.4
+R-HSA-5696398	Nucleotide Excision Repair	111	5	5.71	4.45	0.0018	0.022	6.26	1.94	15.7
+R-HSA-73894	DNA Repair	315	9	3.62	4.22	8e-04	0.022	4.04	1.76	8.23
+R-HSA-5693532	DNA Double-Strand Break Repair	165	6	4.61	4.17	0.0019	0.022	5.05	1.77	11.8
+R-HSA-73884	Base Excision Repair	39	3	9.75	4.88	0.0035	0.032	10.8	2.09	35.5
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	39	3	9.75	4.88	0.0035	0.032	10.8	2.09	35.5
+R-HSA-5693538	Homology Directed Repair	137	5	4.63	3.81	0.0045	0.037	5.02	1.56	12.5

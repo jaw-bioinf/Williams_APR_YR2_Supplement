@@ -1,0 +1,39 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0008316	Abnormal mitochondria in muscle tissue	27	12	6.93	8.1	2.7e-08	3.1e-05	12.3	5.17	28.4
+HP:0003128	Lactic acidosis	168	31	2.88	6.53	3.7e-08	3.1e-05	3.67	2.34	5.62
+HP:0004481	Progressive macrocephaly	31	12	6.04	7.37	1.7e-07	5.9e-05	9.67	4.22	21.3
+HP:0003287	Abnormality of mitochondrial metabolism	99	22	3.47	6.51	1.4e-07	5.9e-05	4.51	2.62	7.51
+HP:0002151	Increased serum lactate	131	26	3.1	6.4	1.1e-07	5.9e-05	3.95	2.41	6.29
+HP:0012103	Abnormality of the mitochondrion	113	23	3.18	6.15	4e-07	0.00011	4.04	2.38	6.61
+HP:0003546	Exercise intolerance	112	22	3.06	5.81	1.4e-06	0.00034	3.85	2.25	6.34
+HP:0001639	Hypertrophic cardiomyopathy	279	38	2.12	5.12	3.7e-06	0.00079	2.57	1.72	3.75
+HP:0001638	Cardiomyopathy	394	48	1.9	4.96	4.3e-06	0.00081	2.3	1.61	3.25
+HP:0006965	Acute necrotizing encephalopathy	23	9	6.1	6.43	5.8e-06	9e-04	9.72	3.67	24.4
+HP:0000580	Pigmentary retinopathy	340	43	1.97	4.94	5.7e-06	9e-04	2.38	1.63	3.41
+HP:0002181	Cerebral edema	36	11	4.77	5.94	8.5e-06	0.0011	6.7	2.93	14.3
+HP:0001941	Acidosis	277	37	2.08	4.92	8.1e-06	0.0011	2.5	1.66	3.67
+HP:0001637	Abnormality of the myocardium	418	49	1.83	4.72	1e-05	0.0012	2.2	1.54	3.1
+HP:0004360	Abnormality of acid-base homeostasis	296	38	2	4.72	1.6e-05	0.0018	2.38	1.6	3.48
+HP:0006846	Acute encephalopathy	27	9	5.2	5.73	2.6e-05	0.0027	7.55	2.95	18
+HP:0002605	Hepatic necrosis	47	12	3.98	5.39	2.5e-05	0.0027	5.23	2.43	10.5
+HP:0001404	Hepatocellular necrosis	43	11	3.99	5.16	5.4e-05	0.0052	5.22	2.34	10.8
+HP:0002878	Respiratory failure	111	19	2.67	4.68	5.8e-05	0.0052	3.2	1.81	5.41
+HP:0008972	Decreased activity of mitochondrial respiratory chain	18	7	6.07	5.64	7e-05	0.0057	9.54	3.1	27.3
+HP:0100012	Neoplasm of the eye	30	9	4.68	5.3	6.8e-05	0.0057	6.47	2.58	14.9
+HP:0030085	Abnormal CSF lactate level	69	14	3.17	4.75	8.6e-05	0.0064	3.89	1.97	7.24
+HP:0002490	Increased CSF lactate	69	14	3.17	4.75	8.6e-05	0.0064	3.89	1.97	7.24
+HP:0011922	Abnormal activity of mitochondrial respiratory chain	19	7	5.75	5.43	0.00011	0.0075	8.75	2.89	24.4
+HP:0001298	Encephalopathy	178	25	2.19	4.27	0.00012	0.0081	2.56	1.57	4.03
+HP:0007703	Abnormality of retinal pigmentation	433	47	1.69	4.03	0.00012	0.0081	1.98	1.38	2.8
+HP:0001259	Coma	82	15	2.85	4.44	0.00017	0.011	3.43	1.79	6.19
+HP:0007305	CNS demyelination	78	14	2.8	4.21	0.00034	0.021	3.34	1.7	6.14
+HP:0012842	Skin appendage neoplasm	12	5	6.5	4.99	0.00057	0.031	10.6	2.64	39.2
+HP:0010568	Hamartoma of the eye	18	6	5.2	4.67	0.00063	0.031	7.46	2.28	21.7
+HP:0030670	Hamartoma of the orbital region	18	6	5.2	4.67	0.00063	0.031	7.46	2.28	21.7
+HP:0001943	Hypoglycemia	152	21	2.16	3.81	0.00055	0.031	2.48	1.45	4.05
+HP:0004354	Abnormality of carboxylic acid metabolism	229	28	1.91	3.72	0.00053	0.031	2.18	1.38	3.35
+HP:0025155	Abnormality of hepatobiliary system physiology	197	25	1.98	3.7	0.00061	0.031	2.26	1.39	3.55
+HP:0001410	Decreased liver function	197	25	1.98	3.7	0.00061	0.031	2.26	1.39	3.55
+HP:0100705	Abnormality of the glial cells	144	20	2.17	3.74	7e-04	0.033	2.49	1.44	4.11
+HP:0001254	Lethargy	105	16	2.38	3.75	0.00088	0.041	2.75	1.48	4.82
+HP:0001399	Hepatic failure	170	22	2.02	3.56	0.001	0.046	2.3	1.37	3.71

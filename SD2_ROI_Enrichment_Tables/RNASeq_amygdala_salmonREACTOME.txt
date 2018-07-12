@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3247509	Chromatin modifying enzymes	227	15	5.42	7.49	9.7e-08	4.4e-06	6.4	3.4	11.3
+R-HSA-4839726	Chromatin organization	227	15	5.42	7.49	9.7e-08	4.4e-06	6.4	3.4	11.3

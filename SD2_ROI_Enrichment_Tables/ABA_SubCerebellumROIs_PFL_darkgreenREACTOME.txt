@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-381038	XBP1(S) activates chaperone genes	57	4	16	7.53	0.00011	0.0014	18.7	4.69	54.5
+R-HSA-381070	IRE1alpha activates chaperones	59	4	15.4	7.38	0.00012	0.0014	18	4.52	52.3
+R-HSA-1632852	Macroautophagy	68	4	13.4	6.81	0.00022	0.0016	15.5	3.9	44.7
+R-HSA-381119	Unfolded Protein Response (UPR)	93	4	9.79	5.66	0.00071	0.0039	11.1	2.82	31.7

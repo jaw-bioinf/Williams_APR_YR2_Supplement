@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	12	5.28	6.67	1.2e-06	5.6e-05	7.38	3.37	15.2
+R-HSA-5653656	Vesicle-mediated transport	631	12	5.01	6.42	2.1e-06	5.6e-05	6.97	3.19	14.4
+R-HSA-196025	Formation of annular gap junctions	11	3	71.9	14.5	8.1e-06	0.00014	106	17.4	471
+R-HSA-190873	Gap junction degradation	12	3	65.9	13.9	1.1e-05	0.00014	94.3	15.8	396
+R-HSA-2132295	MHC class II antigen presentation	124	5	10.6	6.66	9.7e-05	0.00091	12.5	3.76	33.1
+R-HSA-422475	Axon guidance	295	7	6.25	5.65	1e-04	0.00091	7.59	2.8	17.8
+R-HSA-373760	L1CAM interactions	76	4	13.9	6.95	0.00019	0.0012	16.2	4.06	47.1
+R-HSA-8856828	Clathrin-mediated endocytosis	140	5	9.41	6.19	0.00017	0.0012	11	3.31	29.1
+R-HSA-2682334	EPH-Ephrin signaling	81	4	13	6.7	0.00024	0.0013	15.1	3.8	43.9
+R-HSA-166520	Signalling by NGF	147	5	8.96	6	0.00022	0.0013	10.5	3.15	27.6
+R-HSA-437239	Recycling pathway of L1	41	3	19.3	7.24	0.00049	0.0023	22.4	4.22	76
+R-HSA-190828	Gap junction trafficking	48	3	16.5	6.63	0.00078	0.0033	18.9	3.59	63.3
+R-HSA-157858	Gap junction trafficking and regulation	50	3	15.8	6.48	0.00087	0.0033	18.1	3.44	60.6
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	50	3	15.8	6.48	0.00087	0.0033	18.1	3.44	60.6
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	57	3	13.9	6.01	0.0013	0.0043	15.7	3	52.3
+R-HSA-5663205	Infectious disease	326	6	4.85	4.36	0.0013	0.0043	5.65	1.92	13.8
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	7	3.79	3.89	0.0021	0.0065	4.47	1.65	10.4
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	3	7.9	4.28	0.0063	0.019	8.72	1.69	28.4
+R-HSA-6807878	COPI-mediated anterograde transport	102	3	7.75	4.23	0.0067	0.019	8.54	1.65	27.8
+R-HSA-1643685	Disease	984	9	2.41	2.87	0.0098	0.026	2.86	1.19	6.24
+R-HSA-1266738	Developmental Biology	659	7	2.8	2.95	0.011	0.028	3.23	1.2	7.51
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	3	5.9	3.52	0.014	0.034	6.44	1.25	20.8
+R-HSA-5663220	RHO GTPases Activate Formins	141	3	5.61	3.4	0.016	0.036	6.11	1.19	19.7
+R-HSA-72766	Translation	258	4	4.09	3.1	0.016	0.036	4.5	1.15	12.8
+R-HSA-168898	Toll-Like Receptors Cascades	153	3	5.17	3.21	0.02	0.042	5.61	1.09	18.1
+R-HSA-199977	ER to Golgi Anterograde Transport	155	3	5.1	3.18	0.021	0.042	5.54	1.08	17.9

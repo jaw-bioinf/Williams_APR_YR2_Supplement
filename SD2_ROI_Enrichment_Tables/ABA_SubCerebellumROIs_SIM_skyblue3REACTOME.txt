@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1592389	Activation of Matrix Metalloproteinases	33	4	19.6	8.44	4.8e-05	0.0019	23.5	5.83	70.2
+R-HSA-1442490	Collagen degradation	52	4	12.4	6.52	0.00029	0.0058	14.2	3.6	40.8
+R-HSA-168249	Innate Immune System	1035	15	2.34	3.59	0.0013	0.017	2.79	1.45	5.11
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	3	7.94	4.29	0.0063	0.05	8.67	1.69	27.9
+R-HSA-1474228	Degradation of the extracellular matrix	119	4	5.43	3.84	0.0062	0.05	5.9	1.53	16.3

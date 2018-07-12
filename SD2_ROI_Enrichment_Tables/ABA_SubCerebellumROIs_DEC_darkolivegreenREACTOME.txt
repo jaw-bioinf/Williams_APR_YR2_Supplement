@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-352230	Amino acid transport across the plasma membrane	33	3	11.2	5.32	0.0023	0.049	12.7	2.43	42.1
+R-HSA-437239	Recycling pathway of L1	41	3	9.05	4.66	0.0044	0.049	10	1.94	32.6
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	3	8.83	4.59	0.0047	0.049	9.75	1.89	31.7
+R-HSA-390466	Chaperonin-mediated protein folding	43	3	8.62	4.52	0.005	0.049	9.51	1.84	30.9
+R-HSA-391251	Protein folding	43	3	8.62	4.52	0.005	0.049	9.51	1.84	30.9
+R-HSA-5610787	Hedgehog 'off' state	113	5	5.47	4.32	0.0022	0.049	5.98	1.85	15
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	5	4.87	3.96	0.0036	0.049	5.29	1.64	13.2
+R-HSA-3371556	Cellular response to heat stress	88	4	5.62	3.93	0.0055	0.049	6.09	1.58	16.8
+R-HSA-5576891	Cardiac conduction	139	5	4.45	3.7	0.0053	0.049	4.81	1.49	12
+R-HSA-2467813	Separation of Sister Chromatids	191	6	3.88	3.63	0.0044	0.049	4.21	1.48	9.78
+R-HSA-68882	Mitotic Anaphase	202	6	3.67	3.46	0.0058	0.049	3.97	1.4	9.21
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	6	3.65	3.45	0.0059	0.049	3.95	1.39	9.17

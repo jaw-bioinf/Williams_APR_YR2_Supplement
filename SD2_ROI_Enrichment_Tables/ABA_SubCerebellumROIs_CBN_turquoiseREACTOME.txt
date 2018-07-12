@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1474244	Extracellular matrix organization	278	135	1.32	4.15	2.9e-05	0.021	1.65	1.29	2.11
+R-HSA-1430728	Metabolism	1899	774	1.11	4.03	3.4e-05	0.021	1.23	1.11	1.37
+R-HSA-76002	Platelet activation, signaling and aggregation	271	131	1.32	4.01	5e-05	0.021	1.63	1.27	2.1
+R-HSA-449147	Signaling by Interleukins	454	205	1.23	3.8	1e-04	0.032	1.44	1.19	1.75
+R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	47	30	1.74	3.86	0.00014	0.036	3.05	1.63	5.91
+R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	42	27	1.75	3.71	0.00026	0.047	3.11	1.6	6.31
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	216	1.21	3.57	0.00024	0.047	1.4	1.16	1.68

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00565	Ether lipid metabolism	45	3	7.26	4.06	0.0079	0.041	8.05	1.55	26.3
+path:hsa00983	Drug metabolism - other enzymes	46	3	7.1	4	0.0084	0.041	7.86	1.52	25.7
+path:hsa04012	ErbB signaling pathway	86	4	5.07	3.65	0.0078	0.041	5.56	1.43	15.6
+path:hsa00564	Glycerophospholipid metabolism	95	4	4.59	3.39	0.011	0.041	5	1.29	14

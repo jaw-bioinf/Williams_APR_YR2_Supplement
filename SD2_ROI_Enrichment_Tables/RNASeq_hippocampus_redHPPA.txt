@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0005110	Atrial fibrillation	105	13	3.5	4.99	6.3e-05	0.031	4.19	2.09	7.82
+HP:0001692	Primary atrial arrhythmia	108	13	3.41	4.86	8.4e-05	0.031	4.05	2.02	7.55
+HP:0004755	Supraventricular tachycardia	109	13	3.38	4.82	9.3e-05	0.031	4.01	2	7.47
+HP:0005115	Supraventricular arrhythmia	110	13	3.35	4.78	1e-04	0.031	3.97	1.98	7.39

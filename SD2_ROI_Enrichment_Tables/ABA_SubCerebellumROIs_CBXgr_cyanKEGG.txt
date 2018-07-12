@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05134	Legionellosis	55	4	15.1	7.3	0.00013	0.00025	18.3	4.51	55.2
+path:hsa05200	Pathways in cancer	395	5	2.63	2.32	0.039	0.039	2.95	0.883	7.84

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05217	Basal cell carcinoma	55	19	2.7	4.84	2.7e-05	0.0069	3.65	1.97	6.57
+path:hsa04020	Calcium signaling pathway	181	42	1.81	4.24	6.8e-05	0.0086	2.11	1.45	3.03
+path:hsa04080	Neuroactive ligand-receptor interaction	277	57	1.61	3.95	0.00014	0.012	1.82	1.32	2.47
+path:hsa04390	Hippo signaling pathway	153	34	1.73	3.52	0.00076	0.048	1.98	1.3	2.95

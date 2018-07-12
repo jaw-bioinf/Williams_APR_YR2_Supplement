@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04925	Aldosterone synthesis and secretion	82	4	11.2	6.14	4e-04	0.0077	13.4	3.31	40.1
+path:hsa04022	cGMP-PKG signaling pathway	163	5	7.03	5.16	0.00062	0.0077	8.51	2.5	23.1
+path:hsa04976	Bile secretion	71	3	9.68	4.87	0.0035	0.021	11.1	2.1	37.5
+path:hsa04540	Gap junction	88	3	7.81	4.26	0.0064	0.021	8.85	1.68	29.7
+path:hsa04912	GnRH signaling pathway	92	3	7.47	4.14	0.0072	0.021	8.45	1.61	28.4
+path:hsa04713	Circadian entrainment	96	3	7.16	4.02	0.0081	0.021	8.08	1.54	27.1
+path:hsa04914	Progesterone-mediated oocyte maturation	96	3	7.16	4.02	0.0081	0.021	8.08	1.54	27.1
+path:hsa04972	Pancreatic secretion	96	3	7.16	4.02	0.0081	0.021	8.08	1.54	27.1
+path:hsa04915	Estrogen signaling pathway	98	3	7.01	3.97	0.0086	0.021	7.91	1.51	26.5
+path:hsa04916	Melanogenesis	101	3	6.81	3.89	0.0094	0.021	7.67	1.46	25.7
+path:hsa04020	Calcium signaling pathway	181	4	5.06	3.67	0.0074	0.021	5.82	1.46	17.1
+path:hsa04919	Thyroid hormone signaling pathway	116	3	5.93	3.54	0.014	0.028	6.63	1.27	22.1
+path:hsa04270	Vascular smooth muscle contraction	121	3	5.68	3.44	0.015	0.029	6.35	1.21	21.2
+path:hsa04371	Apelin signaling pathway	137	3	5.02	3.15	0.021	0.036	5.58	1.07	18.5
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	3	4.77	3.03	0.024	0.036	5.29	1.01	17.6
+path:hsa04072	Phospholipase D signaling pathway	145	3	4.74	3.01	0.025	0.036	5.26	1.01	17.5
+path:hsa04010	MAPK signaling pathway	255	4	3.59	2.8	0.024	0.036	4.06	1.02	11.9
+path:hsa04921	Oxytocin signaling pathway	152	3	4.52	2.91	0.028	0.039	5	0.959	16.6

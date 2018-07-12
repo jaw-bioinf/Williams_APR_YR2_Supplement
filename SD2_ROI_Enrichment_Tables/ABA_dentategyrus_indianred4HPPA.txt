@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001252	Muscular hypotonia	1058	9	2.99	4.13	0.00015	0.03	21	2.91	918
+HP:0001263	Global developmental delay	946	8	2.97	3.79	0.00071	0.03	10.9	2.17	106
+HP:0012758	Neurodevelopmental delay	1201	9	2.63	3.72	0.00044	0.03	17.4	2.41	761
+HP:0003808	Abnormal muscle tone	1269	9	2.49	3.55	7e-04	0.03	16	2.21	699
+HP:0012759	Neurodevelopmental abnormality	1623	10	2.16	3.41	0.00044	0.03	Inf	2.62	Inf
+HP:0002084	Encephalocele	86	3	12.2	5.64	0.0015	0.037	17.6	2.88	78.9
+HP:0011815	Cephalocele	86	3	12.2	5.64	0.0015	0.037	17.6	2.88	78.9
+HP:0000540	Hypermetropia	191	4	7.35	4.82	0.0014	0.037	11.8	2.43	50.2
+HP:0000929	Abnormality of the skull	1400	9	2.26	3.24	0.0016	0.037	13.6	1.89	597

@@ -1,0 +1,18 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0463 3 10 1 0.1 0.333 CORUM:2832 cor 9 Smad4-Smad2-Smad3 complex 1 SMAD3
+2 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:1829 cor 13 SMAD3-VDR complex 1 SMAD3
+3 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:2866 cor 2 TEAD2-YAP DNA-protein complex 1 YAP1
+4 1 TRUE 0.0144 4 10 2 0.2 0.5 CORUM:1164 cor 7 ActRIIA-ActRIB-Smad3-Arip1 complex 1 SMAD3,ACVR2A
+5 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:2831 cor 4 TIF1gamma-Smad2-Smad3 complex 1 SMAD3
+6 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:3713 cor 1 Smad3-Smad4 complex 1 SMAD3
+7 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:6673 cor 17 Foxo1-Yap1 complex 1 YAP1
+8 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:5330 cor 16 Lef1-Tle1 complex 1 TLE1
+9 1 TRUE 0.0463 3 10 1 0.1 0.333 CORUM:6752 cor 12 Smad3-mSin3A-Hdac1 complex 1 SMAD3
+10 1 TRUE 0.0413 1 10 1 0.1 1 CORUM:2869 cor 18 TEAD4-YAP DNA-protein complex 1 YAP1
+11 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:6772 cor 10 Tbx20-Tle1 repressor complex 1 TLE1
+12 1 TRUE 0.0413 1 10 1 0.1 1 CORUM:2867 cor 14 TEAD1-YAP DNA-protein complex 1 YAP1
+13 1 TRUE 0.0463 3 10 1 0.1 0.333 CORUM:5333 cor 6 Lef1-Tle1-Ctnnb1 complex 1 TLE1
+14 1 TRUE 0.0463 3 10 1 0.1 0.333 CORUM:6214 cor 5 Dock8-Wipf1-Was complex 1 WAS
+15 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:2868 cor 8 TEAD3-YAP DNA-protein complex 1 YAP1
+16 1 TRUE 0.0413 2 10 1 0.1 0.5 CORUM:5566 cor 11 Isl1-Jak1-Stat3 complex 1 ISL1
+17 1 TRUE 0.0309 49 83 5 0.06 0.102 KEGG:05150 keg 15 Staphylococcus aureus infection 1 C2,FCGR2B,H2-DMB2,FPR1,FCGR4

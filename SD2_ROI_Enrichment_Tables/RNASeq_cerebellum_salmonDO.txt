@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:12704	ataxia telangiectasia	26	4	13.1	6.75	0.00021	0.028	16	3.93	48.9
+DOID:0050950	autosomal recessive cerebellar ataxia	32	4	10.7	5.97	0.00049	0.028	12.6	3.14	37.3
+DOID:1059	intellectual disability	149	8	4.58	4.81	0.00033	0.028	5.19	2.12	11.1
+DOID:1272	telangiectasis	35	4	9.76	5.65	0.00069	0.029	11.4	2.85	33.3
+DOID:0050951	hereditary ataxia	64	5	6.67	4.96	0.00087	0.029	7.54	2.3	19.4

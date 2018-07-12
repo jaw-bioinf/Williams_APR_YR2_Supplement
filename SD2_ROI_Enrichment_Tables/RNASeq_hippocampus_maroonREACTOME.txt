@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-418346	Platelet homeostasis	79	3	12.3	5.6	0.0018	0.027	14	2.66	46.7
+R-HSA-425393	Transport of inorganic cations/anions and amino acids/oligopeptides	108	3	8.97	4.64	0.0044	0.033	10.1	1.93	33.4
+R-HSA-500792	GPCR ligand binding	419	5	3.85	3.33	0.0087	0.043	4.44	1.33	11.8

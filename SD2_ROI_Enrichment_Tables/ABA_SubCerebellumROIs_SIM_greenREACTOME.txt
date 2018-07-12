@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1980150	Signaling by NOTCH4	12	4	17.1	7.87	6.1e-05	0.009	25.6	5.6	96.8
+R-HSA-2691230	Signaling by NOTCH1 HD Domain Mutants in Cancer	15	4	13.7	6.93	0.00016	0.009	18.6	4.29	63.6
+R-HSA-2691232	Constitutive Signaling by NOTCH1 HD Domain Mutants	15	4	13.7	6.93	0.00016	0.009	18.6	4.29	63.6
+R-HSA-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus	20	4	10.3	5.85	0.00053	0.022	12.8	3.09	40.2

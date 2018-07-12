@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0291	3	5	1	0.2	0.333	CORUM:1161	cor	3	Smrt-Sin3A-Hdac7 complex	1	NCOR2
+2	1	TRUE	0.0291	3	5	1	0.2	0.333	CORUM:1723	cor	1	Pax3-Lef1-Tle4 complex	1	LEF1
+3	1	TRUE	0.0291	2	5	1	0.2	0.5	CORUM:5330	cor	5	Lef1-Tle1 complex	1	LEF1
+4	1	TRUE	0.0291	2	5	1	0.2	0.5	CORUM:168	cor	4	Protein-sorting complex (Stam2, Hgs, Eps15)	1	EPS15
+5	1	TRUE	0.0291	3	5	1	0.2	0.333	CORUM:5333	cor	6	Lef1-Tle1-Ctnnb1 complex	1	LEF1

@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	32	2.83	6.41	7.2e-08	8.2e-06	3.33	2.18	4.94
+R-HSA-5653656	Vesicle-mediated transport	631	33	2.77	6.37	7.3e-08	8.2e-06	3.26	2.15	4.82
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	10	5.3	5.99	1.8e-05	0.0014	6.04	2.75	11.9
+R-HSA-8856828	Clathrin-mediated endocytosis	140	11	4.16	5.23	6.6e-05	0.0037	4.64	2.22	8.79
+R-HSA-392499	Metabolism of proteins	1907	54	1.5	3.37	0.00088	0.04	1.72	1.23	2.39
+R-HSA-3371511	HSF1 activation	12	3	13.2	5.89	0.0013	0.048	17.6	3.04	71.2
+R-HSA-204005	COPII (Coat Protein 2) Mediated Vesicle Transport	68	6	4.67	4.22	0.0017	0.049	5.16	1.8	12.1
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	90	7	4.12	4.12	0.0015	0.049	4.51	1.74	9.9

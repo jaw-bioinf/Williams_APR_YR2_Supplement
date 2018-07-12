@@ -1,0 +1,40 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0388	2	9	1	0.111	0.5	CORUM:1390	cor	16	Rb1-Runx2 complex	1	RB1
+2	1	TRUE	0.0388	2	9	1	0.111	0.5	CORUM:3457	cor	17	B23-NPM3 complex	1	NPM3
+3	1	TRUE	0.0388	1	9	1	0.111	1	CORUM:3226	cor	8	Cd74-Cd44 receptor complex	1	CD74
+4	1	TRUE	0.0388	2	9	1	0.111	0.5	CORUM:6205	cor	15	Dkk1-Lrp6-Kremen2 complex	1	KREMEN2
+5	1	TRUE	0.0435	3	9	1	0.111	0.333	CORUM:6398	cor	14	Dnajc5b-Sgta-Hsc70 complex	1	DNAJC5B
+6	1	TRUE	0.0388	2	9	1	0.111	0.5	CORUM:2831	cor	12	TIF1gamma-Smad2-Smad3 complex	1	SMAD2
+7	1	TRUE	0.0435	3	9	1	0.111	0.333	CORUM:2832	cor	9	Smad4-Smad2-Smad3 complex	1	SMAD2
+8	1	TRUE	0.0388	2	9	1	0.111	0.5	CORUM:3712	cor	4	Smad2-Smad4 complex	1	SMAD2
+9	1	TRUE	0.04	35	18	3	0.167	0.086	HP:0001765	hp	2	Hammertoe	1	PEX7,PHYH,FBN1
+10	1	TRUE	0.04	32	18	3	0.167	0.094	HP:0010318	hp	5	Aplasia/Hypoplasia of the abdominal wall musculature	1	FBN1,MANBA,CHRM3
+11	1	TRUE	0.0433	9	18	2	0.111	0.222	HP:0003179	hp	6	Protrusio acetabuli	1	FBN1,MMP2
+12	1	TRUE	0.0494	173	18	5	0.278	0.029	HP:0001761	hp	18	Pes cavus	1	LBR,PEX7,PHYH,FBN1,MMP2
+13	1	TRUE	0.04	7	18	2	0.111	0.286	HP:0002654	hp	13	Multiple epiphyseal dysplasia	1	PEX7,PHYH
+14	1	TRUE	0.0433	9	18	2	0.111	0.222	HP:0000616	hp	3	Miosis	1	PEX7,PHYH
+15	1	TRUE	0.0243	494	18	9	0.5	0.018	HP:0011314	hp	1	Abnormality of long bone morphology	1	LBR,0610009B22RIK,PEX7,RB1,NIPBL,PHYH,FBN1,MMP2,SRY
+16	1	TRUE	0.04	154	18	5	0.278	0.032	HP:0003026	hp	1	Short long bone	2	PEX7,NIPBL,PHYH,FBN1,SRY
+17	1	TRUE	0.0438	165	18	5	0.278	0.03	HP:0000944	hp	1	Abnormality of the metaphysis	2	LBR,PEX7,RB1,FBN1,MMP2
+18	1	TRUE	0.04	340	18	7	0.389	0.021	HP:0040070	hp	1	Abnormality of upper limb bone	1	LBR,PEX7,NIPBL,PHYH,FBN1,MMP2,SRY
+19	1	TRUE	0.0182	238	18	7	0.389	0.029	HP:0040065	hp	1	Abnormal morphology of bones of the upper limbs	2	LBR,PEX7,NIPBL,PHYH,FBN1,MMP2,SRY
+20	1	TRUE	0.00187	162	18	7	0.389	0.043	HP:0001163	hp	1	Abnormality of the metacarpal bones	2	LBR,PEX7,NIPBL,PHYH,FBN1,MMP2,SRY
+21	1	TRUE	0.0433	9	18	2	0.111	0.222	HP:0010013	hp	1	Abnormality of the 5th metacarpal	3	LBR,FBN1
+22	1	TRUE	0.00127	125	18	7	0.389	0.056	HP:0005916	hp	1	Abnormal metacarpal morphology	3	LBR,PEX7,NIPBL,PHYH,FBN1,MMP2,SRY
+23	1	TRUE	0.0217	479	18	9	0.5	0.019	HP:0040069	hp	1	Abnormality of lower limb bone	1	LBR,0610009B22RIK,PEX7,RB1,NIPBL,PHYH,FBN1,MMP2,SRY
+24	1	TRUE	0.0199	107	18	5	0.278	0.047	HP:0001832	hp	1	Abnormality of the metatarsal bones	2	PEX7,PHYH,FBN1,MMP2,SRY
+25	1	TRUE	0.04	8	18	2	0.111	0.25	HP:0001783	hp	1	Broad metatarsal	3	FBN1,MMP2
+26	1	TRUE	0.0243	5	18	2	0.111	0.4	HP:0040035	hp	1	Abnormality of the fourth metatarsal bone	3	PEX7,PHYH
+27	1	TRUE	0.0494	43	18	3	0.167	0.07	HP:0001964	hp	1	Aplasia/Hypoplasia of metatarsal bones	3	PEX7,PHYH,SRY
+28	1	TRUE	0.0182	244	18	7	0.389	0.029	HP:0040066	hp	1	Abnormal morphology of bones of the lower limbs	2	LBR,0610009B22RIK,PEX7,RB1,PHYH,FBN1,SRY
+29	1	TRUE	0.0433	39	18	3	0.167	0.077	HP:0010743	hp	1	Short metatarsal	3	PEX7,PHYH,SRY
+30	1	TRUE	0.0243	5	18	2	0.111	0.4	HP:0004689	hp	1	Short fourth metatarsal	4	PEX7,PHYH
+31	1	TRUE	0.04	452	18	8	0.444	0.018	HP:0009815	hp	1	Aplasia/hypoplasia of the extremities	1	LBR,0610009B22RIK,PEX7,RB1,NIPBL,PHYH,FBN1,SRY
+32	1	TRUE	0.0391	424	18	8	0.444	0.019	HP:0045060	hp	1	Aplasia/hypoplasia involving bones of the extremities	2	LBR,0610009B22RIK,PEX7,RB1,NIPBL,PHYH,FBN1,SRY
+33	1	TRUE	0.0199	356	18	8	0.444	0.022	HP:0006496	hp	1	Aplasia/hypoplasia involving bones of the upper limbs	3	LBR,0610009B22RIK,PEX7,RB1,NIPBL,PHYH,FBN1,SRY
+34	1	TRUE	0.04	326	18	7	0.389	0.021	HP:0005927	hp	1	Aplasia/hypoplasia involving bones of the hand	4	LBR,PEX7,RB1,NIPBL,PHYH,FBN1,SRY
+35	1	TRUE	0.00187	103	18	6	0.333	0.058	HP:0005914	hp	1	Aplasia/Hypoplasia involving the metacarpal bones	5	LBR,PEX7,NIPBL,PHYH,FBN1,SRY
+36	1	TRUE	0.00187	95	18	6	0.333	0.063	HP:0010049	hp	1	Short metacarpal	6	LBR,PEX7,NIPBL,PHYH,FBN1,SRY
+37	1	TRUE	0.0438	255	18	6	0.333	0.024	HP:0006493	hp	1	Aplasia/hypoplasia involving bones of the lower limbs	3	0610009B22RIK,PEX7,NIPBL,PHYH,FBN1,SRY
+38	1	TRUE	0.0243	64	18	4	0.222	0.062	HP:0001640	hp	11	Cardiomegaly	1	LBR,PEX7,PHYH,FBN1
+39	1	TRUE	0.0322	57	44	4	0.091	0.07	KEGG:05134	keg	7	Legionellosis	1	BCL2L13,CASP7,TLR5,HSPA1A

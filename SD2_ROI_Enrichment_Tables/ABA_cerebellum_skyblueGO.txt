@@ -1,0 +1,7 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0207 4 4 1 0.25 0.25 CORUM:5947 cor 3 Ksr1-Mek-Braf-Erk complex, EGF induced 1 MAPK3
+2 1 TRUE 0.0207 3 4 1 0.25 0.333 CORUM:6383 cor 5 Nphp1-Ptk2b-Bcar1-tensin complex 1 BCAR1
+3 1 TRUE 0.0207 3 4 1 0.25 0.333 CORUM:249 cor 1 Caspase-2-TRAF2-RIP1 complex 1 RALBP1
+4 1 TRUE 0.0207 3 4 1 0.25 0.333 CORUM:6305 cor 2 Hoxa9-Meis1-Pbx3 complex 1 PBX3
+5 1 TRUE 0.0207 4 4 1 0.25 0.25 CORUM:5227 cor 4 p14-Mp1-Erk1/2 complex 1 MAPK3
+6 1 TRUE 0.0448 37 28 3 0.107 0.081 KEGG:05216 keg 6 Thyroid cancer 1 GADD45G,NTRK1,MAPK3

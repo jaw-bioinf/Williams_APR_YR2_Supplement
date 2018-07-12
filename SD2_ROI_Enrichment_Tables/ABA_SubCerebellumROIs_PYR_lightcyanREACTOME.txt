@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-375170	CDO in myogenesis	27	4	12.7	6.61	0.00025	0.012	15.2	3.75	45.5
+R-HSA-525793	Myogenesis	27	4	12.7	6.61	0.00025	0.012	15.2	3.75	45.5
+R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	42	4	8.15	5.05	0.0014	0.046	9.18	2.34	26.1

@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04726	Serotonergic synapse	112	4	7.91	4.97	0.0015	0.014	9.26	2.31	27.3
+path:hsa05218	Melanoma	69	3	9.63	4.85	0.0036	0.014	11	2.09	37.1
+path:hsa04810	Regulation of actin cytoskeleton	212	5	5.22	4.21	0.0023	0.014	6.19	1.83	16.7
+path:hsa04014	Ras signaling pathway	227	5	4.88	4	0.0032	0.014	5.75	1.7	15.5
+path:hsa04151	PI3K-Akt signaling pathway	341	6	3.9	3.7	0.0036	0.014	4.68	1.56	11.9
+path:hsa04540	Gap junction	88	3	7.55	4.17	0.007	0.022	8.53	1.62	28.5
+path:hsa05231	Choline metabolism in cancer	99	3	6.71	3.86	0.0097	0.026	7.54	1.44	25.1
+path:hsa04510	Focal adhesion	199	4	4.45	3.33	0.012	0.028	5.06	1.27	14.8
+path:hsa04550	Signaling pathways regulating pluripotency of stem cells	139	3	4.78	3.03	0.024	0.043	5.29	1.01	17.5
+path:hsa05418	Fluid shear stress and atherosclerosis	139	3	4.78	3.03	0.024	0.043	5.29	1.01	17.5
+path:hsa04072	Phospholipase D signaling pathway	145	3	4.58	2.94	0.027	0.043	5.06	0.972	16.7
+path:hsa04010	MAPK signaling pathway	255	4	3.47	2.71	0.026	0.043	3.9	0.981	11.4
+path:hsa05200	Pathways in cancer	395	5	2.8	2.49	0.03	0.044	3.19	0.949	8.55

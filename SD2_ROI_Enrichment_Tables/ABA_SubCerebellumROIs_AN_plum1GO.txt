@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0194	48	111	5	0.045	0.104	GO:0030514	BP	9	negative regulation of BMP signaling pathway	1	SKOR1,HTRA3,GDF3,NBL1,VWC2L
+2	1	TRUE	0.0194	3	5	1	0.2	0.333	CORUM:991	cor	12	Tubulin polyglutamylase complex	1	TPGS1
+3	1	TRUE	0.0185	2	5	1	0.2	0.5	CORUM:2186	cor	3	Gata1-Snf2h complex	1	SMARCA5
+4	1	TRUE	0.0185	1	5	1	0.2	1	CORUM:101	cor	2	Nucleolar remodeling complex (NoRC complex)	1	SMARCA5
+5	1	TRUE	0.0185	2	5	1	0.2	0.5	CORUM:1074	cor	4	Pkd2-Fpc-Kif3b complex	1	PKD2
+6	1	TRUE	0.0185	2	5	1	0.2	0.5	CORUM:6564	cor	11	Nek8-Pkd2 complex	1	PKD2
+7	1	TRUE	0.0185	2	5	1	0.2	0.5	CORUM:1076	cor	13	Pkd2-Pkhd1 complex	1	PKD2
+8	1	TRUE	0.0185	2	5	1	0.2	0.5	CORUM:1073	cor	6	Pkd2-Pkhd1 complex	1	PKD2
+9	1	TRUE	0.0194	3	5	1	0.2	0.333	CORUM:296	cor	5	Pcna-Msh2-Msh6 complex	1	MSH2
+10	1	TRUE	0.0194	3	5	1	0.2	0.333	CORUM:2845	cor	10	BAX-BAK-IRE1alpha complex	1	ERN1
+11	1	TRUE	0.0185	2	5	1	0.2	0.5	CORUM:235	cor	1	WICH complex	1	SMARCA5
+12	1	TRUE	0.0466	6	41	2	0.049	0.333	REAC:R-MMU-166662	rea	8	Lectin pathway of complement activation	1	MASP1,COLEC11

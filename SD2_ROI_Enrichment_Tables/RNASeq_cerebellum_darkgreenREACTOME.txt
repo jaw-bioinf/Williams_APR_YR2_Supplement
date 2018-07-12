@@ -1,0 +1,12 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-418457 cGMP effects 13 3 34 9.84 8.2e-05 0.0027 45.7 7.9 184
+R-HSA-392154 Nitric oxide stimulates guanylate cyclase 16 3 27.6 8.81 0.00016 0.0027 35.2 6.28 132
+R-HSA-112316 Neuronal System 356 10 4.14 4.98 0.00013 0.0027 4.78 2.16 9.54
+R-HSA-112315 Transmission across Chemical Synapses 224 7 4.6 4.51 0.00078 0.01 5.14 1.96 11.4
+R-HSA-6802957 Oncogenic MAPK signaling 76 4 7.75 4.88 0.0017 0.017 8.56 2.21 24
+R-HSA-418346 Platelet homeostasis 79 4 7.46 4.76 0.002 0.017 8.22 2.12 22.9
+R-HSA-6811440 Retrograde transport at the Trans-Golgi-Network 46 3 9.6 4.84 0.0037 0.027 10.6 2.06 34.5
+R-HSA-383280 Nuclear Receptor transcription pathway 50 3 8.84 4.59 0.0047 0.029 9.71 1.89 31.4
+R-HSA-112310 Neurotransmitter release cycle 51 3 8.66 4.54 0.0049 0.029 9.51 1.85 30.7
+R-HSA-6802952 Signaling by BRAF and RAF fusions 60 3 7.36 4.09 0.0078 0.04 8 1.56 25.6
+R-HSA-174824 Plasma lipoprotein assembly, remodeling, and clearance 63 3 7.01 3.96 0.0089 0.042 7.6 1.49 24.3

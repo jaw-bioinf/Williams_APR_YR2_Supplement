@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-3928665 EPH-ephrin mediated repulsion of cells 50 4 13.4 6.8 0.00022 0.015 15.4 3.89 44.2
+R-HSA-5663084 Diseases of carbohydrate metabolism 34 3 14.7 6.22 0.0011 0.023 16.8 3.2 56.4
+R-HSA-2682334 EPH-Ephrin signaling 81 4 8.24 5.08 0.0014 0.023 9.15 2.35 25.7
+R-HSA-71387 Metabolism of carbohydrates 263 7 4.44 4.39 0.00094 0.023 5 1.9 11.2
+R-HSA-422475 Axon guidance 295 7 3.96 4.01 0.0018 0.024 4.43 1.68 9.89
+R-HSA-109582 Hemostasis 608 10 2.74 3.45 0.003 0.034 3.13 1.41 6.28

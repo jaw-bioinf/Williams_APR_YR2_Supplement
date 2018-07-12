@@ -1,0 +1,45 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005197	abnormal uvea morphology	178	9	5.65	5.95	2.8e-05	0.021	6.49	2.81	13.3
+MP:0009646	urinary bladder inflammation	12	3	27.9	8.87	0.00014	0.038	38.2	6.53	156
+MP:0004829	increased anti-chromatin antibody level	16	3	21	7.59	0.00036	0.038	26.4	4.74	98.7
+MP:0005546	choroidal neovascularization	19	3	17.7	6.9	6e-04	0.038	21.5	3.93	77.3
+MP:0011952	decreased cardiac stroke volume	20	3	16.8	6.71	7e-04	0.038	20.2	3.72	71.9
+MP:0000540	abnormal urinary bladder urothelium morphology	21	3	16	6.52	0.00082	0.038	19.1	3.53	67.3
+MP:0006237	abnormal choroid vasculature morphology	23	3	14.6	6.2	0.0011	0.038	17.2	3.21	59.8
+MP:0008502	increased IgG3 level	41	4	10.9	6.04	0.00047	0.038	12.5	3.17	36.1
+MP:0008123	abnormal plasmacytoid dendritic cell number	25	3	13.4	5.91	0.0014	0.038	15.6	2.93	53.5
+MP:0010209	abnormal circulating chemokine level	25	3	13.4	5.91	0.0014	0.038	15.6	2.93	53.5
+MP:0008125	abnormal dendritic cell number	120	6	5.59	4.81	0.00069	0.038	6.2	2.16	14.5
+MP:0002439	abnormal plasma cell morphology	91	5	6.14	4.68	0.0013	0.038	6.79	2.09	17.1
+MP:0000702	enlarged lymph nodes	214	8	4.18	4.47	0.00063	0.038	4.65	1.91	9.82
+MP:0005095	decreased T cell proliferation	214	8	4.18	4.47	0.00063	0.038	4.65	1.91	9.82
+MP:0005194	abnormal anterior uvea morphology	134	6	5.01	4.44	0.0012	0.038	5.52	1.93	12.9
+MP:0002993	arthritis	136	6	4.93	4.39	0.0013	0.038	5.43	1.9	12.7
+MP:0002136	abnormal kidney physiology	425	12	3.16	4.32	0.00037	0.038	3.59	1.76	6.74
+MP:0005350	increased susceptibility to autoimmune disorder	181	7	4.32	4.29	0.0011	0.038	4.77	1.83	10.5
+MP:0000701	abnormal lymph node size	275	9	3.66	4.25	0.00075	0.038	4.08	1.78	8.29
+MP:0020180	abnormal IgM level	239	8	3.74	4.08	0.0013	0.038	4.14	1.7	8.71
+MP:0001844	autoimmune response	404	11	3.04	3.99	0.00089	0.038	3.42	1.62	6.56
+MP:0005005	abnormal self tolerance	406	11	3.03	3.97	0.00093	0.038	3.4	1.61	6.53
+MP:0005000	abnormal immune tolerance	414	11	2.97	3.9	0.0011	0.038	3.33	1.58	6.39
+MP:0008713	abnormal cytokine level	415	11	2.96	3.89	0.0011	0.038	3.32	1.58	6.37
+MP:0008835	abnormal intercellular signaling peptide or protein level	426	11	2.89	3.79	0.0014	0.038	3.23	1.53	6.19
+MP:0001846	increased inflammatory response	1058	20	2.11	3.65	0.00083	0.038	2.49	1.42	4.2
+MP:0008469	abnormal protein level	1092	20	2.05	3.5	0.0012	0.038	2.41	1.37	4.05
+MP:0008120	abnormal myeloid dendritic cell number	26	3	12.9	5.77	0.0015	0.04	14.9	2.82	51
+MP:0002494	increased IgM level	139	6	4.83	4.32	0.0015	0.04	5.31	1.86	12.4
+MP:0005351	decreased susceptibility to autoimmune disorder	192	7	4.08	4.09	0.0016	0.04	4.48	1.72	9.88
+MP:0004242	abnormal plasmacytoid dendritic cell morphology	27	3	12.4	5.65	0.0017	0.042	14.3	2.71	48.6
+MP:0000933	abnormal rhombomere morphology	28	3	12	5.53	0.0019	0.042	13.7	2.6	46.4
+MP:0004800	decreased susceptibility to experimental autoimmune encephalomyelitis	99	5	5.65	4.42	0.0019	0.042	6.2	1.92	15.6
+MP:0002933	joint inflammation	147	6	4.56	4.14	0.002	0.042	5	1.75	11.7
+MP:0002452	abnormal professional antigen presenting cell physiology	967	18	2.08	3.37	0.0019	0.042	2.41	1.34	4.13
+MP:0003208	abnormal neuromere morphology	29	3	11.6	5.41	0.0021	0.043	13.2	2.51	44.4
+MP:0008481	increased spleen germinal center number	30	3	11.2	5.31	0.0024	0.043	12.7	2.42	42.6
+MP:0005461	abnormal dendritic cell morphology	151	6	4.44	4.05	0.0023	0.043	4.86	1.7	11.3
+MP:0002425	altered susceptibility to autoimmune disorder	320	9	3.14	3.71	0.0021	0.043	3.47	1.51	7.04
+MP:0005013	increased lymphocyte cell number	744	15	2.25	3.39	0.0022	0.043	2.56	1.35	4.56
+MP:0001845	abnormal inflammatory response	1235	21	1.9	3.23	0.0023	0.043	2.23	1.28	3.72
+MP:0000304	abnormal cardiac stroke volume	31	3	10.8	5.2	0.0026	0.045	12.3	2.34	41
+MP:0002339	abnormal lymph node morphology	392	10	2.85	3.56	0.0025	0.045	3.16	1.44	6.21
+MP:0003725	increased autoantibody level	159	6	4.22	3.89	0.0029	0.05	4.6	1.61	10.7

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3928662	EPHB-mediated forward signaling	39	3	16.7	6.69	0.00074	0.025	19.2	3.65	64.5
+R-HSA-447115	Interleukin-12 family signaling	58	3	11.3	5.32	0.0023	0.04	12.6	2.42	41.2
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	68	3	9.6	4.84	0.0037	0.042	10.6	2.06	34.5

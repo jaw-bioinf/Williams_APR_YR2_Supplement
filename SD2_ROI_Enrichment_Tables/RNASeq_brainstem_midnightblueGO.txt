@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:2771	cor	5	RAD51-DMC1 complex	1	DMC1
+2	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:2427	cor	4	Itga4-Itgb1-Adam2 complex	1	ADAM2
+3	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:109	cor	2	Fertilin complex (Adam1b, Adam2)	1	ADAM2
+4	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:3068	cor	1	Fertilin complex (Adam1a, Adam2)	1	ADAM2
+5	1	TRUE	0.0222	4	4	1	0.25	0.25	CORUM:5311	cor	3	Cd3g-Cd3e-Cd247-Canx complex	1	CD3G
+6	1	TRUE	0.0222	4	4	1	0.25	0.25	CORUM:5310	cor	7	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3G
+7	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:5309	cor	8	Cd3g-Cd3e complex	1	CD3G

@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0322	3	6	1	0.167	0.333	CORUM:5439	cor	4	Eya1/3-Dach1/2-Six1 complex	1	DACH1
+2	1	TRUE	0.0322	1	6	1	0.167	1	CORUM:1136	cor	2	Mss4-Itga7 complex	1	RABIF
+3	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:5947	cor	7	Ksr1-Mek-Braf-Erk complex, EGF induced	1	MAPK3
+4	1	TRUE	0.0322	2	6	1	0.167	0.5	CORUM:1135	cor	8	Mss4-Itga3 complex	1	RABIF
+5	1	TRUE	0.0322	3	6	1	0.167	0.333	CORUM:718	cor	6	TRPV5-S100A10-annexin 2 complex	1	S100A10
+6	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:5227	cor	1	p14-Mp1-Erk1/2 complex	1	MAPK3
+7	1	TRUE	0.0322	3	6	1	0.167	0.333	CORUM:6383	cor	9	Nphp1-Ptk2b-Bcar1-tensin complex	1	BCAR1
+8	1	TRUE	0.0322	2	6	1	0.167	0.5	CORUM:719	cor	5	S100A10-annexin 2 complex	1	S100A10

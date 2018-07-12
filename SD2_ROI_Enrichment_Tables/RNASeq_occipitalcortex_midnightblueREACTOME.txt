@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-209968	Thyroxine biosynthesis	10	3	19.4	7.29	4e-04	0.031	27.7	4.58	123
+R-HSA-432047	Passive transport by Aquaporins	13	3	14.9	6.29	0.00093	0.031	19.4	3.4	76.5
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	125	8	4.13	4.42	7e-04	0.031	4.53	1.88	9.46
+R-HSA-975577	N-Glycan antennae elongation	15	3	12.9	5.79	0.0014	0.032	16.2	2.9	60.7
+R-HSA-418990	Adherens junctions interactions	33	4	7.83	4.93	0.0016	0.032	8.97	2.26	26
+R-HSA-209776	Amine-derived hormones	18	3	10.8	5.2	0.0025	0.04	12.9	2.38	46.5
+R-HSA-1296072	Voltage gated Potassium channels	43	4	6.01	4.13	0.0043	0.04	6.67	1.71	18.8
+R-HSA-421270	Cell-cell junction organization	43	4	6.01	4.13	0.0043	0.04	6.67	1.71	18.8
+R-HSA-422356	Regulation of insulin secretion	66	5	4.89	3.98	0.0035	0.04	5.35	1.65	13.5
+R-HSA-163685	Integration of energy metabolism	92	6	4.21	3.88	0.003	0.04	4.57	1.61	10.6
+R-HSA-446728	Cell junction organization	70	5	4.61	3.8	0.0045	0.04	5.02	1.56	12.6

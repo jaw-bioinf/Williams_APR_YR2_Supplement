@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1296071	Potassium Channels	99	5	7.44	5.32	0.00054	0.024	8.31	2.55	21.1
+R-HSA-1296072	Voltage gated Potassium channels	43	3	10.3	5.04	0.003	0.045	11.4	2.2	37.3
+R-HSA-5576891	Cardiac conduction	139	5	5.3	4.22	0.0025	0.045	5.81	1.79	14.6

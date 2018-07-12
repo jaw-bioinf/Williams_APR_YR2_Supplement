@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:5227	cor	4	p14-Mp1-Erk1/2 complex	1	LAMTOR2
+2	1	TRUE	0.0469	1	8	1	0.125	1	CORUM:3569	cor	3	Angiomotin isoform p80-Angiostatin complex	1	PLG
+3	1	TRUE	0.0469	5	8	1	0.125	0.2	CORUM:1475	cor	8	S-phase-specific E2F-p107 complex	1	E2F4
+4	1	TRUE	0.0469	36	8	2	0.25	0.056	CORUM:381	cor	11	Respiratory chain complex I, mitochondrial	1	NDUFA6,NDUFA13
+5	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:5142	cor	9	DCS complex (Ptbp1, Ptbp2, Hnrph1, Hnrpf)	1	HNRNPF
+6	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:5948	cor	5	p18-p14-Mp1 complex	1	LAMTOR2
+7	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:5578	cor	7	Sdc2-Ephb2 complex	1	EPHB2
+8	1	TRUE	0.0469	38	8	2	0.25	0.053	CORUM:382	cor	10	Respiratory chain complex I, mitochondrial	1	NDUFA6,NDUFA13
+9	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:5952	cor	2	Mp1-p14 scaffolding complex	1	LAMTOR2
+10	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:3235	cor	6	PTF1 complex (Ptf1a, Tcf12, Rbpj)	1	TCF12

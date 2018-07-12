@@ -1,0 +1,46 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011804	Abnormality of muscle physiology	1558	186	1.29	4.89	7.3e-07	0.0012	1.77	1.4	2.24
+HP:0011442	Abnormality of central motor function	1241	155	1.35	4.88	1.1e-06	0.0012	1.76	1.39	2.23
+HP:0100022	Abnormality of movement	1159	145	1.35	4.67	3.2e-06	0.0023	1.72	1.36	2.19
+HP:0001257	Spasticity	491	73	1.61	4.62	9.1e-06	0.005	1.92	1.43	2.55
+HP:0200134	Epileptic encephalopathy	64	17	2.87	4.82	4.3e-05	0.0085	3.68	1.96	6.63
+HP:0002936	Distal sensory impairment	119	25	2.27	4.5	5.8e-05	0.0085	2.74	1.66	4.37
+HP:0003202	Skeletal muscle atrophy	444	66	1.61	4.36	2.8e-05	0.0085	1.89	1.39	2.55
+HP:0000597	Ophthalmoparesis	233	40	1.85	4.31	5.8e-05	0.0085	2.18	1.48	3.15
+HP:0001265	Hyporeflexia	280	46	1.77	4.31	4.9e-05	0.0085	2.08	1.45	2.94
+HP:0040290	Abnormality of skeletal muscles	534	76	1.54	4.3	2.9e-05	0.0085	1.82	1.36	2.41
+HP:0009830	Peripheral neuropathy	405	61	1.63	4.28	4e-05	0.0085	1.91	1.39	2.59
+HP:0000759	Abnormal peripheral nervous system morphology	660	89	1.46	4.16	4.4e-05	0.0085	1.73	1.31	2.25
+HP:0030236	Abnormality of muscle size	543	76	1.51	4.14	5.4e-05	0.0085	1.78	1.33	2.35
+HP:0001276	Hypertonia	626	85	1.47	4.11	5.4e-05	0.0085	1.73	1.31	2.27
+HP:0001317	Abnormality of the cerebellum	874	111	1.37	4.05	5.5e-05	0.0085	1.65	1.28	2.11
+HP:0003011	Abnormality of the musculature	1823	202	1.2	3.87	6.4e-05	0.0087	1.58	1.25	2.02
+HP:0011282	Abnormality of hindbrain morphology	889	112	1.36	3.97	7.2e-05	0.0088	1.63	1.27	2.09
+HP:0011283	Abnormality of the metencephalon	889	112	1.36	3.97	7.2e-05	0.0088	1.63	1.27	2.09
+HP:0010551	Paraplegia/paraparesis	129	26	2.18	4.35	8.7e-05	0.01	2.6	1.6	4.11
+HP:0003474	Sensory impairment	183	33	1.95	4.21	1e-04	0.01	2.29	1.49	3.42
+HP:0001315	Reduced tendon reflexes	399	59	1.6	4.05	9.5e-05	0.01	1.86	1.35	2.53
+HP:0012639	Abnormality of nervous system morphology	2000	217	1.17	3.74	9.9e-05	0.01	1.58	1.23	2.03
+HP:0100851	Abnormal emotion/affect behavior	484	68	1.52	3.92	0.00013	0.013	1.76	1.3	2.36
+HP:0011443	Abnormality of coordination	663	87	1.42	3.81	0.00016	0.015	1.66	1.26	2.16
+HP:0001332	Dystonia	318	48	1.63	3.76	0.00029	0.023	1.87	1.31	2.62
+HP:0001288	Gait disturbance	663	86	1.4	3.66	0.00027	0.023	1.63	1.24	2.13
+HP:0001263	Global developmental delay	946	115	1.31	3.6	0.00028	0.023	1.55	1.21	1.98
+HP:0012758	Neurodevelopmental delay	1201	140	1.26	3.53	0.00031	0.024	1.51	1.19	1.92
+HP:0001258	Spastic paraplegia	91	19	2.25	3.87	5e-04	0.033	2.68	1.51	4.57
+HP:0003487	Babinski sign	239	38	1.72	3.67	0.00047	0.033	1.97	1.32	2.86
+HP:0001347	Hyperreflexia	560	74	1.43	3.52	0.00047	0.033	1.64	1.22	2.17
+HP:0004305	Involuntary movements	664	85	1.38	3.5	0.00047	0.033	1.59	1.21	2.09
+HP:0002493	Upper motor neuron dysfunction	918	111	1.31	3.44	0.00048	0.033	1.53	1.19	1.96
+HP:0003808	Abnormal muscle tone	1269	145	1.23	3.33	0.00061	0.039	1.48	1.16	1.87
+HP:0010550	Paraplegia	93	19	2.21	3.77	0.00066	0.041	2.61	1.47	4.44
+HP:0001324	Muscle weakness	662	84	1.37	3.38	0.00069	0.042	1.57	1.19	2.06
+HP:0012443	Abnormality of brain morphology	1687	184	1.18	3.24	0.00073	0.043	1.46	1.15	1.85
+HP:0002510	Spastic tetraplegia	87	18	2.23	3.72	0.00078	0.044	2.65	1.46	4.57
+HP:0002540	Inability to walk	124	23	2	3.63	0.00078	0.044	2.32	1.39	3.75
+HP:0002529	Neuronal loss in central nervous system	60	14	2.52	3.79	0.00086	0.045	3.07	1.54	5.76
+HP:0000602	Ophthalmoplegia	132	24	1.96	3.6	0.00081	0.045	2.27	1.37	3.63
+HP:0000301	Abnormality of facial musculature	188	31	1.78	3.52	0.00085	0.045	2.03	1.31	3.07
+HP:0001394	Cirrhosis	118	22	2.01	3.58	0.00095	0.048	2.34	1.38	3.81
+HP:0001251	Ataxia	546	71	1.4	3.28	0.001	0.05	1.59	1.19	2.12
+HP:0001250	Seizures	1138	131	1.24	3.19	0.001	0.05	1.46	1.15	1.86

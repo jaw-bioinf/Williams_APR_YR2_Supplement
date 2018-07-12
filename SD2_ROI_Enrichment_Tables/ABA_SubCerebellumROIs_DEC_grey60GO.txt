@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0173	2	5	1	0.2	0.5	CORUM:44	cor	8	CASK-MINT complex	1	CASK
+2	1	TRUE	0.0173	2	5	1	0.2	0.5	CORUM:5192	cor	9	Tiam1-Efnb1-Epha2 complex	1	EPHA2
+3	1	TRUE	0.0173	1	5	1	0.2	1	CORUM:6751	cor	10	Stx7-Unc13d-Vamp8 complex	1	UNC13D
+4	1	TRUE	0.0246	4	5	1	0.2	0.25	CORUM:3119	cor	3	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	CASK
+5	1	TRUE	0.0173	2	5	1	0.2	0.5	CORUM:1002	cor	7	Cask-Dlg1 complex	1	CASK
+6	1	TRUE	0.0173	2	5	1	0.2	0.5	CORUM:358	cor	2	DNA ligase IV-Xrcc4-DNA-protein kinase complex	1	LIG4
+7	1	TRUE	0.0216	3	5	1	0.2	0.333	CORUM:2360	cor	5	Itgav-Itgb3-Gsn complex	1	ITGB3
+8	1	TRUE	0.0488	36	86	4	0.047	0.111	KEGG:00760	keg	1	Nicotinate and nicotinamide metabolism	1	NT5C3B,NT5C,NT5C2,BST1
+9	1	TRUE	0.0488	101	86	6	0.07	0.059	KEGG:00240	keg	4	Pyrimidine metabolism	1	POLR2E,NT5C3B,NT5C,NT5C2,CDA,POLR1C

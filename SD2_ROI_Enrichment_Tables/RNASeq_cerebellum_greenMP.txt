@@ -1,0 +1,131 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005017	decreased B cell number	468	84	1.76	5.68	1.2e-07	0.00041	2.01	1.56	2.59
+MP:0002401	abnormal lymphopoiesis	637	105	1.62	5.42	2.7e-07	0.00046	1.83	1.45	2.29
+MP:0005460	abnormal leukopoiesis	737	116	1.54	5.17	7.2e-07	6e-04	1.73	1.39	2.15
+MP:0004939	abnormal B cell morphology	677	108	1.56	5.13	9.3e-07	6e-04	1.76	1.4	2.19
+MP:0013693	abnormal hemopoiesis	973	145	1.46	5.11	7.2e-07	6e-04	1.64	1.34	1.99
+MP:0002123	abnormal definitive hematopoiesis	946	141	1.46	5.04	1e-06	6e-04	1.64	1.34	1.99
+MP:0009115	abnormal fat cell morphology	209	44	2.06	5.24	2.1e-06	0.001	2.41	1.68	3.41
+MP:0002460	decreased immunoglobulin level	330	61	1.81	5.06	2.5e-06	0.0011	2.06	1.52	2.76
+MP:0002145	abnormal T cell differentiation	428	74	1.69	4.96	3e-06	0.0011	1.91	1.45	2.49
+MP:0000003	abnormal adipose tissue morphology	916	135	1.44	4.77	3.4e-06	0.0012	1.61	1.31	1.96
+MP:0001805	decreased IgG level	258	50	1.9	4.94	5.3e-06	0.0015	2.18	1.55	3
+MP:0008171	abnormal mature B cell morphology	612	97	1.55	4.77	4.7e-06	0.0015	1.73	1.36	2.18
+MP:0002144	abnormal B cell differentiation	339	61	1.76	4.83	6.3e-06	0.0016	1.99	1.47	2.66
+MP:0002458	abnormal B cell number	609	96	1.54	4.69	6.7e-06	0.0016	1.72	1.35	2.17
+MP:0008781	abnormal B cell apoptosis	73	21	2.82	5.26	7.5e-06	0.0017	3.61	2.06	6.13
+MP:0005016	decreased lymphocyte cell number	1006	144	1.4	4.56	8e-06	0.0017	1.55	1.27	1.88
+MP:0005375	adipose tissue phenotype	937	135	1.41	4.48	1.1e-05	0.0022	1.56	1.27	1.9
+MP:0008247	abnormal mononuclear cell morphology	1680	221	1.29	4.41	1.1e-05	0.0022	1.43	1.22	1.69
+MP:0001800	abnormal humoral immune response	561	88	1.54	4.42	2e-05	0.0034	1.7	1.33	2.17
+MP:0002619	abnormal lymphocyte morphology	1368	184	1.32	4.29	2e-05	0.0034	1.46	1.22	1.73
+MP:0008215	decreased immature B cell number	129	29	2.2	4.64	3.2e-05	0.0039	2.6	1.65	3.99
+MP:0005334	abnormal fat pad morphology	288	52	1.77	4.47	2.8e-05	0.0039	1.99	1.44	2.72
+MP:0003953	abnormal hormone level	1010	142	1.38	4.29	2.4e-05	0.0039	1.52	1.24	1.84
+MP:0002429	abnormal blood cell morphology/development	1106	153	1.36	4.25	2.7e-05	0.0039	1.49	1.23	1.8
+MP:0008195	abnormal professional antigen presenting cell morphology	998	140	1.37	4.22	3.1e-05	0.0039	1.51	1.24	1.84
+MP:0000221	decreased leukocyte cell number	1275	172	1.32	4.17	3.3e-05	0.0039	1.45	1.21	1.74
+MP:0001392	abnormal locomotor behavior	1537	202	1.29	4.16	3.1e-05	0.0039	1.42	1.2	1.68
+MP:0012322	decreased total tissue mass	1833	235	1.26	4.13	3.3e-05	0.0039	1.39	1.18	1.63
+MP:0001262	decreased body weight	1833	235	1.26	4.13	3.3e-05	0.0039	1.39	1.18	1.63
+MP:0013664	abnormal immature B cell number	166	34	2.01	4.41	5.3e-05	0.0058	2.31	1.53	3.42
+MP:0005022	abnormal immature B cell morphology	173	35	1.98	4.4	5.4e-05	0.0058	2.28	1.52	3.35
+MP:0002490	abnormal immunoglobulin level	519	81	1.53	4.18	5.2e-05	0.0058	1.69	1.3	2.17
+MP:0006042	increased apoptosis	832	119	1.4	4.09	5.6e-05	0.0058	1.54	1.24	1.89
+MP:0008246	abnormal leukocyte morphology	1929	244	1.24	3.98	5.8e-05	0.0058	1.37	1.17	1.6
+MP:0005667	abnormal circulating leptin level	225	42	1.83	4.24	7.4e-05	0.0066	2.07	1.43	2.93
+MP:0001504	abnormal posture	276	49	1.74	4.2	7.3e-05	0.0066	1.95	1.39	2.69
+MP:0002459	abnormal B cell physiology	638	95	1.46	4.05	7.5e-05	0.0066	1.6	1.26	2.02
+MP:0012556	increased cell death	837	119	1.39	4.02	7.3e-05	0.0066	1.52	1.23	1.88
+MP:0003491	abnormal voluntary movement	1648	212	1.26	3.93	7.5e-05	0.0066	1.39	1.17	1.63
+MP:0000716	abnormal immune system cell morphology	1949	245	1.23	3.88	8.6e-05	0.0073	1.36	1.16	1.59
+MP:0001516	abnormal motor coordination/ balance	833	118	1.39	3.96	9.2e-05	0.0077	1.52	1.22	1.87
+MP:0008211	decreased mature B cell number	279	49	1.72	4.12	9.6e-05	0.0079	1.92	1.37	2.65
+MP:0001399	hyperactivity	475	74	1.53	3.97	0.00012	0.009	1.68	1.28	2.18
+MP:0002206	abnormal CNS synaptic transmission	653	96	1.44	3.94	0.00011	0.009	1.57	1.24	1.98
+MP:0013657	abnormal blood cell morphology	1813	229	1.24	3.8	0.00012	0.009	1.36	1.15	1.6
+MP:0008495	decreased IgG1 level	147	30	2	4.12	0.00015	0.011	2.3	1.48	3.48
+MP:0020174	abnormal IgG level	407	65	1.56	3.93	0.00015	0.011	1.72	1.29	2.27
+MP:0003313	abnormal locomotor activation	1152	154	1.31	3.79	0.00015	0.011	1.43	1.18	1.72
+MP:0002083	premature death	1443	187	1.27	3.76	0.00015	0.011	1.39	1.16	1.65
+MP:0011182	decreased hematopoietic cell number	1508	194	1.26	3.73	0.00017	0.011	1.38	1.16	1.63
+MP:0000813	abnormal hippocampus layer morphology	108	24	2.18	4.15	0.00018	0.012	2.55	1.54	4.08
+MP:0005418	abnormal circulating hormone level	898	124	1.35	3.75	0.00019	0.012	1.47	1.19	1.81
+MP:0008782	increased B cell apoptosis	48	14	2.86	4.35	0.00021	0.014	3.66	1.81	7.04
+MP:0001629	abnormal heart rate	229	41	1.75	3.9	0.00023	0.014	1.96	1.35	2.78
+MP:0002106	abnormal muscle physiology	954	130	1.34	3.68	0.00023	0.014	1.45	1.18	1.77
+MP:0005042	abnormal level of surface class II molecules	23	9	3.83	4.59	0.00025	0.015	5.7	2.17	14.2
+MP:0011117	abnormal susceptibility to weight gain	252	44	1.71	3.86	0.00025	0.015	1.9	1.33	2.67
+MP:0013802	abnormal IgG2 level	194	36	1.82	3.88	0.00027	0.016	2.04	1.37	2.97
+MP:0008209	decreased pre-B cell number	105	23	2.15	3.98	3e-04	0.017	2.5	1.5	4.04
+MP:0001263	weight loss	433	67	1.52	3.71	3e-04	0.017	1.66	1.25	2.18
+MP:0001560	abnormal circulating insulin level	490	74	1.48	3.68	0.00031	0.018	1.61	1.23	2.09
+MP:0004848	abnormal liver size	450	69	1.5	3.68	0.00032	0.018	1.64	1.24	2.15
+MP:0008731	abnormal hair shaft melanin granule morphology	15	7	4.57	4.67	0.00035	0.019	7.74	2.39	24.5
+MP:0000066	osteoporosis	56	15	2.62	4.11	0.00035	0.019	3.25	1.67	6.03
+MP:0002970	abnormal white adipose tissue morphology	294	49	1.63	3.72	0.00035	0.019	1.8	1.29	2.48
+MP:0002453	abnormal B lymphocyte antigen presentation	29	10	3.38	4.33	0.00038	0.02	4.67	1.93	10.6
+MP:0008498	decreased IgG3 level	94	21	2.19	3.91	0.00041	0.02	2.57	1.49	4.24
+MP:0020176	abnormal IgG2a level	155	30	1.9	3.79	4e-04	0.02	2.15	1.38	3.24
+MP:0008143	abnormal dendrite morphology	198	36	1.78	3.75	4e-04	0.02	1.99	1.34	2.9
+MP:0005092	decreased double-positive T cell number	198	36	1.78	3.75	4e-04	0.02	1.99	1.34	2.9
+MP:0000841	abnormal hindbrain morphology	535	79	1.45	3.59	4e-04	0.02	1.57	1.21	2.02
+MP:0005369	muscle phenotype	1401	179	1.25	3.45	0.00045	0.022	1.36	1.13	1.62
+MP:0009956	abnormal cerebellar layer morphology	314	51	1.59	3.59	5e-04	0.023	1.75	1.26	2.39
+MP:0003635	abnormal synaptic transmission	740	103	1.36	3.48	0.00051	0.023	1.47	1.17	1.84
+MP:0000717	abnormal lymphocyte cell number	1270	164	1.27	3.43	5e-04	0.023	1.37	1.14	1.64
+MP:0005041	abnormal antigen presentation via MHC class II	25	9	3.53	4.27	0.00052	0.024	4.99	1.94	12
+MP:0008250	abnormal myeloid leukocyte morphology	950	127	1.31	3.4	0.00061	0.026	1.41	1.15	1.73
+MP:0002152	abnormal brain morphology	1633	204	1.22	3.36	0.00058	0.026	1.33	1.12	1.57
+MP:0001544	abnormal cardiovascular system physiology	1571	197	1.23	3.35	0.00061	0.026	1.33	1.12	1.58
+MP:0001944	abnormal pancreas morphology	333	53	1.56	3.51	0.00065	0.027	1.7	1.24	2.31
+MP:0000849	abnormal cerebellum morphology	445	67	1.48	3.46	0.00065	0.027	1.6	1.21	2.1
+MP:0012762	abnormal alpha-beta T cell morphology	753	104	1.35	3.41	0.00063	0.027	1.46	1.16	1.82
+MP:0006410	abnormal common myeloid progenitor cell morphology	139	27	1.9	3.62	0.00073	0.029	2.15	1.35	3.32
+MP:0000847	abnormal metencephalon morphology	479	71	1.45	3.43	0.00071	0.029	1.57	1.19	2.05
+MP:0010678	abnormal skin adnexa morphology	1024	135	1.29	3.34	0.00072	0.029	1.39	1.14	1.7
+MP:0003945	abnormal lymphocyte physiology	1033	136	1.29	3.33	0.00073	0.029	1.39	1.14	1.69
+MP:0005280	abnormal fatty acid level	265	44	1.63	3.49	0.00075	0.03	1.79	1.25	2.5
+MP:0009117	abnormal white fat cell morphology	99	21	2.08	3.64	0.00085	0.032	2.4	1.4	3.95
+MP:0005455	increased susceptibility to weight gain	119	24	1.98	3.61	0.00081	0.032	2.25	1.37	3.58
+MP:0001559	hyperglycemia	140	27	1.89	3.58	0.00082	0.032	2.13	1.34	3.29
+MP:0002062	abnormal associative learning	290	47	1.59	3.43	0.00086	0.032	1.74	1.23	2.4
+MP:0004097	abnormal cerebellar cortex morphology	353	55	1.53	3.4	0.00087	0.032	1.66	1.21	2.24
+MP:0000217	abnormal leukocyte cell number	1718	212	1.21	3.24	0.00087	0.032	1.31	1.11	1.54
+MP:0009454	impaired contextual conditioning behavior	61	15	2.41	3.72	0.00095	0.034	2.9	1.5	5.31
+MP:0000807	abnormal hippocampus morphology	346	54	1.53	3.38	0.00092	0.034	1.66	1.21	2.25
+MP:0013658	abnormal myeloid cell morphology	1702	210	1.21	3.22	0.00093	0.034	1.31	1.1	1.54
+MP:0002357	abnormal spleen white pulp morphology	348	54	1.52	3.34	0.0011	0.037	1.65	1.2	2.24
+MP:0000187	abnormal triglyceride level	486	71	1.43	3.29	0.0011	0.037	1.55	1.17	2.01
+MP:0008220	abnormal ventral commissure morphology	62	15	2.37	3.65	0.0011	0.039	2.84	1.47	5.19
+MP:0008225	abnormal anterior commissure morphology	62	15	2.37	3.65	0.0011	0.039	2.84	1.47	5.19
+MP:0020175	abnormal IgG1 level	232	39	1.65	3.37	0.0012	0.039	1.81	1.24	2.59
+MP:0013659	abnormal erythroid lineage cell morphology	869	116	1.31	3.21	0.0011	0.039	1.4	1.13	1.73
+MP:0002095	abnormal skin pigmentation	95	20	2.06	3.51	0.0012	0.041	2.37	1.37	3.95
+MP:0001468	abnormal temporal memory	173	31	1.76	3.38	0.0013	0.041	1.95	1.27	2.91
+MP:0002452	abnormal professional antigen presenting cell physiology	967	127	1.29	3.18	0.0012	0.041	1.38	1.12	1.69
+MP:0008226	decreased anterior commissure size	18	7	3.81	4.02	0.0013	0.042	5.63	1.85	15.9
+MP:0005174	abnormal tail pigmentation	39	11	2.76	3.72	0.0013	0.042	3.48	1.56	7.25
+MP:0004085	abnormal heartbeat	288	46	1.57	3.28	0.0013	0.042	1.71	1.21	2.37
+MP:0000352	decreased cell proliferation	515	74	1.41	3.21	0.0013	0.042	1.52	1.16	1.97
+MP:0004130	abnormal muscle cell glucose uptake	76	17	2.19	3.52	0.0014	0.043	2.56	1.39	4.48
+MP:0009269	decreased fat cell size	76	17	2.19	3.52	0.0014	0.043	2.56	1.39	4.48
+MP:0000322	increased granulocyte number	328	51	1.52	3.25	0.0014	0.043	1.66	1.19	2.26
+MP:0000801	abnormal temporal lobe morphology	352	54	1.5	3.24	0.0014	0.043	1.63	1.19	2.2
+MP:0004166	abnormal limbic system morphology	393	59	1.47	3.22	0.0014	0.043	1.59	1.17	2.12
+MP:0008037	abnormal T cell morphology	980	128	1.28	3.12	0.0014	0.043	1.37	1.12	1.68
+MP:0002626	increased heart rate	83	18	2.12	3.47	0.0015	0.044	2.46	1.37	4.23
+MP:0002138	abnormal hepatobiliary system morphology	1104	142	1.26	3.11	0.0015	0.044	1.35	1.11	1.64
+MP:0014172	decreased fatty acid oxidation	14	6	4.2	4.04	0.0016	0.046	6.63	1.89	21.8
+MP:0008496	decreased IgG2a level	90	19	2.07	3.43	0.0016	0.046	2.38	1.35	4.02
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	21	1.98	3.38	0.0017	0.046	2.25	1.32	3.69
+MP:0002834	decreased heart weight	104	21	1.98	3.38	0.0017	0.046	2.25	1.32	3.69
+MP:0002998	abnormal bone remodeling	191	33	1.69	3.26	0.0017	0.046	1.87	1.23	2.75
+MP:0000598	abnormal liver morphology	1018	132	1.27	3.08	0.0016	0.046	1.36	1.11	1.66
+MP:0000218	increased leukocyte cell number	1080	139	1.26	3.08	0.0016	0.046	1.35	1.11	1.64
+MP:0011180	abnormal hematopoietic cell number	1969	237	1.18	3.02	0.0017	0.046	1.27	1.08	1.49
+MP:0010866	abnormal prenatal body size	862	114	1.3	3.07	0.0017	0.047	1.39	1.11	1.72
+MP:0005266	abnormal metabolism	664	91	1.34	3.09	0.0018	0.048	1.44	1.13	1.82
+MP:0005072	abnormal hair follicle melanin granule morphology	19	7	3.61	3.84	0.0019	0.05	5.16	1.72	14.3
+MP:0010500	myocardium hypoplasia	105	21	1.96	3.33	0.0019	0.05	2.23	1.3	3.65
+MP:0005093	decreased B cell proliferation	112	22	1.92	3.32	0.0019	0.05	2.18	1.29	3.52

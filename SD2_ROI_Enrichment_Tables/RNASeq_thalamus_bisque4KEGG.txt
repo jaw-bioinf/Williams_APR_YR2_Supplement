@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04720 Long-term potentiation 67 3 12.9 5.79 0.0015 0.011 15.3 2.85 53.6
+path:hsa04658 Th1 and Th2 cell differentiation 92 3 9.42 4.79 0.0037 0.013 11 2.06 38.1
+path:hsa04659 Th17 cell differentiation 107 3 8.1 4.36 0.0057 0.013 9.39 1.76 32.4
+path:hsa05166 HTLV-I infection 256 4 4.51 3.38 0.011 0.019 5.32 1.31 16.2
+path:hsa04024 cAMP signaling pathway 198 3 4.38 2.84 0.03 0.035 4.94 0.932 16.9
+path:hsa05169 Epstein-Barr virus infection 199 3 4.35 2.83 0.03 0.035 4.91 0.928 16.8

@@ -1,0 +1,29 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:953	cor	4	p97-Ufd1-Npl4-IP3 receptor complex	1	ITPR1
+2	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:6327	cor	17	Dystrophin complex (Dmd; Stnb1)	1	DMD
+3	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:131	cor	5	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCD
+4	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:6326	cor	26	Dystrophin complex (Dmd; Snta1)	1	DMD
+5	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:416	cor	18	Nitric oxide synthase-dystrophin complex, skeletal muscle	1	DMD
+6	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:5627	cor	2	Cdh23-Myo1c complex	1	CDH23
+7	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:751	cor	20	Trpc1-dystrophin-alpha1-syntrophin complex	1	DMD
+8	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:325	cor	16	Skeletal muscle sarcoglycan complex SGC, beta-gamma-delta-zeta	1	SGCD
+9	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:347	cor	8	Sarcoglycan-sarcospan-complex SG-SPN	1	SGCD
+10	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:333	cor	13	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCD
+11	1	TRUE	0.0423	5	7	1	0.143	0.2	CORUM:346	cor	7	Sarcoglycan-sarcospan-dystroglycan complex	1	SGCD
+12	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:334	cor	24	Skeletal muscle sarcoglycan complex SGC, epsilon-beta-gamma-delta	1	SGCD
+13	1	TRUE	0.0328	1	7	1	0.143	1	CORUM:37	cor	25	Harmonin-CAD23 complex	1	CDH23
+14	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:317	cor	23	Dystrobrevin-syntrophin complex, brain-derived	1	DMD
+15	1	TRUE	0.019	6	7	2	0.286	0.333	CORUM:337	cor	28	Dystrophin-sarcoglycan-syntrophin complex, skeletal muscle	1	SGCD,DMD
+16	1	TRUE	0.0372	3	7	1	0.143	0.333	CORUM:326	cor	19	Smooth muscle sarcoglycan complex SGC, beta-delta-zeta	1	SGCD
+17	1	TRUE	0.0372	4	7	1	0.143	0.25	CORUM:329	cor	6	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCD
+18	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:505	cor	11	Kir4.1-dystrophin complex	1	DMD
+19	1	TRUE	0.0423	5	7	1	0.143	0.2	CORUM:1423	cor	9	L-periaxin-Drp2 complex	1	DMD
+20	1	TRUE	0.0328	1	7	1	0.143	1	CORUM:154	cor	14	Src1-Ep300-Crebbp complex	1	NCOA1
+21	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:502	cor	21	Kir4.1-dystrophin complex	1	DMD
+22	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:465	cor	12	InsP3R1-HAP1A-Htt complex	1	ITPR1
+23	1	TRUE	0.0328	2	7	1	0.143	0.5	CORUM:3741	cor	29	Slp5-Rab27A complex	1	SYTL5
+24	1	TRUE	0.0466	78	49	4	0.082	0.051	KEGG:04970	keg	27	Salivary secretion	1	ITPR1,GUCY1A2,PRKCB,KCNMA1
+25	1	TRUE	0.0466	130	49	5	0.102	0.038	KEGG:04270	keg	22	Vascular smooth muscle contraction	1	ITPR1,GUCY1A2,PRKCB,AGTR1B,KCNMA1
+26	1	TRUE	0.0466	71	49	4	0.082	0.056	KEGG:04924	keg	10	Renin secretion	1	ITPR1,GUCY1A2,AGTR1B,KCNMA1
+27	1	TRUE	0.0462	98	49	5	0.102	0.051	KEGG:04713	keg	15	Circadian entrainment	1	ADCY10,ITPR1,GRIN2B,GUCY1A2,PRKCB
+28	1	TRUE	0.00225	6639	170	85	0.5	0.013	TF:M02933_1	tf	3	Factor: ZF5; motif: GYCGCGCARNGCNN; match class: 1	1	CACNA1E,SLC1A2,GABRB2,RBSN,NCOR1,LYST,ARFGEF3,SGCD,EIF4ENIF1,NCOA1,SEL1L,PCNX,ESYT2,PTK2,STXBP5L,LNPEP,LPIN2,ZFP871,FAM120C,ATRN,SMAD9,MMP16,FAXC,FMN2,SNX30,RECK,HTT,TBC1D1,FAM168A,GRIN2B,AFF2,RNF111,1700025G04RIK,PPP1R9A,MYCBP2,FARP2,DGKH,MAST4,VPS13C,EMSY,MBD5,SLC9A7,NCOA6,TRPS1,ZCCHC2,CNTN5,IL17RD,KDM7A,PURA,LINGO2,ATXN1,8030462N17RIK,RNF150,AKAP10,DIP2C,KLHL11,XKR4,PRKCB,UNC80,MED12L,AAK1,SAMD12,RNF169,SAMD5,DCC,CSMD1,KSR2,PCLO,ZFP398,KCNMA1,SYT10,NR6A1,HMCN1,USF3,ZFP827,HNRNPUL2,ZFP382,PTAR1,DDI2,PALM2,BEND4,ZFP804B,PCDHGA7,PCDHGB5,PCDHGA6

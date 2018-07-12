@@ -1,0 +1,54 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	25	3.12	6.25	2.4e-07	0.00019	3.82	2.33	6.06
+MP:0002910	abnormal excitatory postsynaptic currents	139	11	6.44	7.21	9.9e-07	0.00025	7.54	3.56	14.5
+MP:0003635	abnormal synaptic transmission	740	26	2.86	5.88	7.1e-07	0.00025	3.5	2.15	5.51
+MP:0008143	abnormal dendrite morphology	198	12	4.93	6.24	5.2e-06	0.00081	5.68	2.79	10.6
+MP:0002572	abnormal emotion/affect behavior	619	22	2.89	5.44	5e-06	0.00081	3.43	2.04	5.56
+MP:0002065	abnormal fear/anxiety-related behavior	369	16	3.53	5.53	1e-05	0.0013	4.07	2.22	7.04
+MP:0000880	decreased Purkinje cell number	78	7	7.3	6.24	4.5e-05	0.005	8.37	3.18	18.8
+MP:0000878	abnormal Purkinje cell number	81	7	7.03	6.08	5.8e-05	0.0054	8.03	3.05	18
+MP:0009745	abnormal behavioral response to xenobiotic	295	13	3.59	5.04	6.3e-05	0.0054	4.05	2.06	7.36
+MP:0002945	abnormal inhibitory postsynaptic currents	87	7	6.55	5.8	9.1e-05	0.007	7.43	2.83	16.5
+MP:0000877	abnormal Purkinje cell morphology	231	11	3.88	4.94	0.00012	0.0085	4.34	2.07	8.25
+MP:0002063	abnormal learning/memory/conditioning	664	20	2.45	4.33	0.00015	0.009	2.81	1.63	4.63
+MP:0014114	abnormal cognition	665	20	2.45	4.32	0.00015	0.009	2.81	1.63	4.63
+MP:0001516	abnormal motor coordination/ balance	833	23	2.25	4.21	0.00016	0.0091	2.61	1.56	4.18
+MP:0008415	abnormal neurite morphology	423	15	2.89	4.43	2e-04	0.01	3.25	1.74	5.69
+MP:0008572	abnormal Purkinje cell dendrite morphology	71	6	6.88	5.55	0.00023	0.011	7.77	2.69	18.4
+MP:0002272	abnormal nervous system electrophysiology	339	13	3.12	4.44	0.00025	0.011	3.49	1.78	6.32
+MP:0002918	abnormal paired-pulse facilitation	75	6	6.51	5.34	3e-04	0.012	7.32	2.54	17.3
+MP:0002906	increased susceptibility to pharmacologically induced seizures	106	7	5.38	5.05	0.00031	0.012	5.99	2.29	13.2
+MP:0012349	increased susceptibility to induction of seizure by inducing agent	107	7	5.32	5.02	0.00033	0.012	5.93	2.27	13.1
+MP:0000875	abnormal cerebellar Purkinje cell layer	257	11	3.48	4.5	0.00031	0.012	3.87	1.85	7.34
+MP:0003633	abnormal nervous system physiology	1903	39	1.67	3.65	0.00043	0.015	2.04	1.34	3.05
+MP:0002207	abnormal long term potentiation	237	10	3.43	4.23	0.00065	0.022	3.79	1.74	7.37
+MP:0003107	abnormal response to novelty	283	11	3.16	4.12	0.00069	0.022	3.49	1.67	6.61
+MP:0002062	abnormal associative learning	290	11	3.09	4.03	0.00085	0.026	3.4	1.63	6.44
+MP:0005402	abnormal action potential	128	7	4.45	4.38	0.00098	0.029	4.89	1.88	10.7
+MP:0009711	abnormal conditioned place preference behavior	37	4	8.8	5.3	0.001	0.03	10.1	2.54	29
+MP:0000950	abnormal seizure response to pharmacological agent	134	7	4.25	4.23	0.0013	0.035	4.65	1.79	10.2
+MP:0008414	abnormal spatial reference memory	68	5	5.98	4.6	0.0014	0.038	6.62	2.04	16.8
+MP:0006309	decreased retinal ganglion cell number	41	4	7.94	4.97	0.0015	0.04	8.97	2.28	25.6
+MP:0009956	abnormal cerebellar layer morphology	314	11	2.85	3.72	0.0016	0.04	3.12	1.5	5.9
+MP:0004994	abnormal brain wave pattern	72	5	5.65	4.42	0.0019	0.041	6.23	1.92	15.7
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	6	4.7	4.23	0.0017	0.041	5.14	1.8	12
+MP:0008569	lethality at weaning	106	6	4.61	4.17	0.0019	0.041	5.03	1.77	11.7
+MP:0001469	abnormal contextual conditioning behavior	144	7	3.96	3.99	0.0019	0.041	4.31	1.66	9.43
+MP:0013189	abnormal exploration in a new environment	185	8	3.52	3.86	0.002	0.041	3.83	1.59	7.99
+MP:0001413	abnormal response to new environment	226	9	3.24	3.8	0.0018	0.041	3.53	1.55	7.09
+MP:0004832	enlarged ovary	22	3	11.1	5.29	0.0023	0.042	13	2.43	45.1
+MP:0003460	decreased fear-related response	45	4	7.24	4.68	0.0022	0.042	8.09	2.07	22.9
+MP:0009746	enhanced behavioral response to xenobiotic	77	5	5.29	4.21	0.0025	0.042	5.79	1.79	14.6
+MP:0002912	abnormal excitatory postsynaptic potential	108	6	4.52	4.11	0.0021	0.042	4.93	1.73	11.5
+MP:0009230	abnormal sperm head morphology	111	6	4.4	4.02	0.0024	0.042	4.79	1.68	11.1
+MP:0009538	abnormal synapse morphology	189	8	3.45	3.79	0.0022	0.042	3.75	1.55	7.81
+MP:0009357	abnormal seizure response to inducing agent	190	8	3.43	3.77	0.0023	0.042	3.72	1.54	7.76
+MP:0001362	abnormal anxiety-related response	332	11	2.7	3.51	0.0025	0.042	2.94	1.41	5.56
+MP:0002064	seizures	383	12	2.55	3.46	0.0025	0.042	2.79	1.38	5.14
+MP:0004008	abnormal GABA-mediated receptor currents	23	3	10.6	5.15	0.0027	0.044	12.3	2.32	42.5
+MP:0006390	abnormal cochlear endolymph	24	3	10.2	5.02	0.003	0.048	11.8	2.21	40.2
+MP:0002630	abnormal endocochlear potential	24	3	10.2	5.02	0.003	0.048	11.8	2.21	40.2
+MP:0008948	decreased neuron number	446	13	2.37	3.31	0.0032	0.049	2.6	1.33	4.69
+MP:0002943	abnormal lactate dehydrogenase level	51	4	6.38	4.3	0.0035	0.05	7.05	1.81	19.8
+MP:0002799	abnormal passive avoidance behavior	51	4	6.38	4.3	0.0035	0.05	7.05	1.81	19.8
+MP:0001363	increased anxiety-related response	202	8	3.22	3.56	0.0034	0.05	3.49	1.45	7.27

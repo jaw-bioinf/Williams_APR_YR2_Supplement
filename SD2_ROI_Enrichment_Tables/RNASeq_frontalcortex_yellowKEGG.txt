@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04512	ECM-receptor interaction	82	13	3.12	4.46	0.00022	0.036	3.61	1.81	6.68
+path:hsa01523	Antifolate resistance	31	7	4.44	4.44	0.00075	0.036	5.53	2	13.4
+path:hsa05144	Malaria	49	9	3.61	4.25	0.00069	0.036	4.28	1.81	9.07
+path:hsa04510	Focal adhesion	199	22	2.17	3.89	0.00045	0.036	2.41	1.45	3.83
+path:hsa04931	Insulin resistance	107	14	2.57	3.79	0.00097	0.037	2.89	1.5	5.16

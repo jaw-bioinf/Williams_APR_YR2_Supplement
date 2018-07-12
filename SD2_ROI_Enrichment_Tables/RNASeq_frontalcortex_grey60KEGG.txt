@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa00532 Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate 20 4 18.7 8.25 5.1e-05 0.003 24.4 5.78 78.5
+path:hsa04144 Endocytosis 260 10 3.6 4.44 4e-04 0.012 4.14 1.87 8.28
+path:hsa04973 Carbohydrate digestion and absorption 44 4 8.51 5.19 0.0012 0.023 9.74 2.46 28.1

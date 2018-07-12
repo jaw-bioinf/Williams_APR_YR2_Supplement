@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05200	Pathways in cancer	395	60	1.64	4.2	6.2e-05	0.015	1.84	1.35	2.46
+path:hsa05217	Basal cell carcinoma	55	14	2.75	4.16	0.00035	0.028	3.4	1.7	6.41
+path:hsa04916	Melanogenesis	101	21	2.25	4.03	3e-04	0.028	2.63	1.53	4.33
+path:hsa04072	Phospholipase D signaling pathway	145	26	1.94	3.64	7e-04	0.029	2.19	1.36	3.41
+path:hsa04390	Hippo signaling pathway	153	27	1.91	3.62	0.00072	0.029	2.15	1.35	3.31
+path:hsa04151	PI3K-Akt signaling pathway	341	50	1.58	3.54	6e-04	0.029	1.74	1.25	2.39
+path:hsa00592	alpha-Linolenic acid metabolism	25	8	3.46	3.93	0.0013	0.046	4.66	1.73	11.4

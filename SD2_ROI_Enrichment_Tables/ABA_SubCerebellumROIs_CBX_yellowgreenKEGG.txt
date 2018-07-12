@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04721	Synaptic vesicle cycle	63	3	13.2	5.85	0.0014	0.0057	15.6	2.9	54.2
+path:hsa04145	Phagosome	151	4	7.33	4.74	0.0019	0.0057	8.8	2.16	26.7
+path:hsa04911	Insulin secretion	85	3	9.77	4.9	0.0034	0.0067	11.4	2.13	39.2
+path:hsa04217	Necroptosis	164	3	5.06	3.17	0.02	0.028	5.73	1.08	19.5
+path:hsa05152	Tuberculosis	178	3	4.67	2.98	0.025	0.028	5.26	0.995	17.9
+path:hsa05168	Herpes simplex infection	185	3	4.49	2.9	0.028	0.028	5.05	0.956	17.1

@@ -1,0 +1,19 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0004325 Decreased body weight 875 16 2.57 4.53 3.9e-05 0.0083 5.43 2.25 14
+HP:0004323 Abnormality of body weight 1071 18 2.36 4.52 2.2e-05 0.0083 5.94 2.36 16.9
+HP:0000276 Long face 169 7 5.82 5.43 0.00012 0.017 7.97 2.77 20.3
+HP:0000736 Short attention span 179 7 5.49 5.22 0.00018 0.019 7.48 2.6 19.1
+HP:0001833 Long foot 46 4 12.2 6.48 0.00027 0.023 15.6 3.72 49
+HP:0100729 Large face 198 7 4.96 4.86 0.00033 0.024 6.7 2.34 17.1
+HP:0009909 Uplifted earlobe 31 3 13.6 5.96 0.0013 0.038 16.8 3.04 60.8
+HP:0000739 Anxiety 109 5 6.44 4.89 0.00085 0.038 8.11 2.33 22.8
+HP:0100852 Abnormal fear/anxiety-related behavior 112 5 6.27 4.8 0.00096 0.038 7.88 2.27 22.2
+HP:0000383 Abnormality of periauricular region 118 5 5.95 4.63 0.0012 0.038 7.45 2.15 20.9
+HP:0000219 Thin upper lip vermilion 164 6 5.14 4.59 8e-04 0.038 6.64 2.14 17.6
+HP:0002465 Poor speech 122 5 5.75 4.53 0.0014 0.038 7.19 2.07 20.2
+HP:0001518 Small for gestational age 172 6 4.9 4.44 0.001 0.038 6.31 2.03 16.7
+HP:0000752 Hyperactivity 248 7 3.96 4.1 0.0013 0.038 5.23 1.83 13.3
+HP:0200007 Abnormal size of the palpebral fissures 248 7 3.96 4.1 0.0013 0.038 5.23 1.83 13.3
+HP:0000606 Abnormality of the periorbital region 500 10 2.81 3.7 0.0014 0.038 4.07 1.63 9.75
+HP:0000713 Agitation 74 4 7.59 4.85 0.0016 0.039 9.27 2.26 28.5
+HP:0000233 Thin vermilion border 257 7 3.82 3.98 0.0016 0.039 5.03 1.76 12.8

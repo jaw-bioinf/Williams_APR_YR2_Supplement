@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0429	3	7	1	0.143	0.333	CORUM:1723	cor	1	Pax3-Lef1-Tle4 complex	1	PAX3
+2	1	TRUE	0.0429	2	7	1	0.143	0.5	CORUM:1782	cor	7	TGF-beta receptor	1	TGFBR2
+3	1	TRUE	0.0429	4	7	1	0.143	0.25	CORUM:3119	cor	2	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	KIF17
+4	1	TRUE	0.0429	4	7	1	0.143	0.25	CORUM:367	cor	6	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	RAG2
+5	1	TRUE	0.0429	2	7	1	0.143	0.5	CORUM:948	cor	5	Kif17-Lin10 complex	1	KIF17
+6	1	TRUE	0.0468	5	7	1	0.143	0.2	CORUM:128	cor	8	ORC complex (origin recognition complex)	1	ORC5
+7	1	TRUE	0.0429	3	7	1	0.143	0.333	CORUM:5142	cor	4	DCS complex (Ptbp1, Ptbp2, Hnrph1, Hnrpf)	1	PTBP2
+8	1	TRUE	0.0429	2	7	1	0.143	0.5	CORUM:366	cor	3	Rag1-Rag2 protein-DNA complex	1	RAG2

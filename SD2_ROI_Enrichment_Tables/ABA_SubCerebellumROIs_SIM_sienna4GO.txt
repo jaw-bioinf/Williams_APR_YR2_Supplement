@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0162	4	3	1	0.333	0.25	CORUM:5909	cor	4	Ksr1 complex (Ksr1, Mek, 14-3-3, Mapk), EGF stimulated	1	MAPK1
+2	1	TRUE	0.0162	2	3	1	0.333	0.5	CORUM:1246	cor	1	ERdj3-BiP complex	1	DNAJB11
+3	1	TRUE	0.0162	4	3	1	0.333	0.25	CORUM:5703	cor	6	Bash-Bnas2/Cmtm3-Btk-Erk2 complex	1	MAPK1
+4	1	TRUE	0.0322	9	3	1	0.333	0.111	CORUM:413	cor	5	(ER)-localized multiprotein complex, Ig heavy chains associated	1	DNAJB11
+5	1	TRUE	0.0162	1	3	1	0.333	1	CORUM:6177	cor	3	PPARgamma-pERK complex	1	MAPK1
+6	1	TRUE	0.0162	4	3	1	0.333	0.25	CORUM:5227	cor	7	p14-Mp1-Erk1/2 complex	1	MAPK1
+7	1	TRUE	0.0162	2	3	1	0.333	0.5	CORUM:499	cor	10	Ryk-Wny1 complex	1	WNT1
+8	1	TRUE	0.0162	3	3	1	0.333	0.333	CORUM:498	cor	8	Ryk-Wny1-Fzd8 complex	1	WNT1
+9	1	TRUE	0.0162	4	3	1	0.333	0.25	CORUM:5937	cor	9	B-Ksr1-MEK-MAPK-14-3-3 complex	1	MAPK1
+10	1	TRUE	0.0355	139	19	4	0.211	0.029	KEGG:04550	keg	2	Signaling pathways regulating pluripotency of stem cells	1	WNT1,PCGF6,NRAS,MAPK1

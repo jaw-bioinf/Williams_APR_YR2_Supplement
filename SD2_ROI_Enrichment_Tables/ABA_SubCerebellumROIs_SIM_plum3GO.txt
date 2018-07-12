@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:6315	cor	4	mGluR1-mGluR5 complex	1	GRM1
+2	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:6763	cor	6	Vangl2-Dvl2 complex	1	DVL2
+3	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:6760	cor	10	Vangl1-Dvl2 complex	1	DVL2
+4	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:6556	cor	7	Dcdc2-Dvl2 complex	1	DVL2
+5	1	TRUE	0.0211	4	4	1	0.25	0.25	CORUM:2870	cor	1	TEAD2-multiprotein complex	1	YWHAQ
+6	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:2976	cor	9	Ccd1-Dvl2 complex	1	DVL2
+7	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:2974	cor	8	Dvl2-Rac complex	1	DVL2
+8	1	TRUE	0.0237	5	4	1	0.25	0.2	CORUM:1913	cor	3	GluR delta-2 complex, postsynaptic (GluR delta-2, Shank1, Shank2, mGluR1 alpha, Homer, PSD-95)	1	GRM1
+9	1	TRUE	0.0178	3	4	1	0.25	0.333	CORUM:2973	cor	5	Ccd1-Dvl2-Rac complex	1	DVL2
+10	1	TRUE	0.0136	2	4	1	0.25	0.5	CORUM:6776	cor	2	Igfn1-Ky-Flnc complex	1	FLNC

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-418038	Nucleotide-like (purinergic) receptors	16	3	25	8.36	0.00021	0.016	31.7	5.68	119
+R-HSA-5365859	RA biosynthesis pathway	22	3	18.2	7.02	0.00056	0.022	21.7	4.03	76.2

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	10	9.06	8.57	1.2e-07	6.1e-06	11.1	4.95	22.4
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	8	10.1	8.19	1.1e-06	2.6e-05	12.1	4.88	26.3
+R-HSA-611105	Respiratory electron transport	95	7	11	8.05	3e-06	4.9e-05	13.1	4.9	29.7
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	4	6.95	4.55	0.0026	0.032	7.63	1.97	21.3

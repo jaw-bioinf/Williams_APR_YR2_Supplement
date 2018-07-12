@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0138	123	114	9	0.079	0.073	KEGG:04142	keg	1	Lysosome	1	GM2A,MAN2B1,HEXB,CD63,PPT1,HGSNAT,CTSS,LAMP3,ARSB

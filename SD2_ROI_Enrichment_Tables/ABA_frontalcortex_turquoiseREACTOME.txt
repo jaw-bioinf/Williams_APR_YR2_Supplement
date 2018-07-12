@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	15	8	4.89	5.27	6.3e-05	0.027	9.38	2.97	30.5
+R-HSA-5637812	Signaling by EGFRvIII in Cancer	15	8	4.89	5.27	6.3e-05	0.027	9.38	2.97	30.5
+R-HSA-392451	G beta:gamma signalling through PI3Kgamma	48	15	2.86	4.53	0.00011	0.033	3.75	1.88	7.12
+R-HSA-8853334	Signaling by FGFR3 fusions in cancer	10	6	5.5	4.98	0.00024	0.039	12.3	2.91	59.3
+R-HSA-210993	Tie2 Signaling	18	8	4.07	4.57	0.00031	0.039	6.57	2.25	18.5
+R-HSA-5654704	SHC-mediated cascade:FGFR3	18	8	4.07	4.57	0.00031	0.039	6.57	2.25	18.5
+R-HSA-397795	G-protein beta:gamma signalling	51	15	2.69	4.25	0.00024	0.039	3.43	1.74	6.45
+R-HSA-2730905	Role of LAT2/NTAL/LAB on calcium mobilization	15	7	4.28	4.44	0.00053	0.04	7.18	2.21	22.7
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	19	8	3.86	4.36	0.00049	0.04	5.97	2.08	16.3
+R-HSA-1643713	Signaling by EGFR in Cancer	19	8	3.86	4.36	0.00049	0.04	5.97	2.08	16.3
+R-HSA-5637815	Signaling by Ligand-Responsive EGFR Variants in Cancer	19	8	3.86	4.36	0.00049	0.04	5.97	2.08	16.3
+R-HSA-428157	Sphingolipid metabolism	90	21	2.14	3.79	0.00055	0.04	2.51	1.46	4.17
+R-HSA-556833	Metabolism of lipids	696	103	1.36	3.41	0.00064	0.043	1.46	1.16	1.82

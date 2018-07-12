@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0139	2	3	1	0.333	0.5	CORUM:2149	cor	8	Arnt-Sim2 complex	1	ARNT
+2	1	TRUE	0.0139	3	3	1	0.333	0.333	CORUM:2902	cor	6	Grb2-Lab-Blnk complex, BCR stimulated	1	BLNK
+3	1	TRUE	0.0139	3	3	1	0.333	0.333	CORUM:2899	cor	9	PLC-gamma-1-Lab-Blnk complex, BCR stimulated	1	BLNK
+4	1	TRUE	0.0139	1	3	1	0.333	1	CORUM:6766	cor	3	Arnt-Ahrr complex	1	ARNT
+5	1	TRUE	0.0162	4	3	1	0.333	0.25	CORUM:5703	cor	5	Bash-Bnas2/Cmtm3-Btk-Erk2 complex	1	BLNK
+6	1	TRUE	0.0139	1	3	1	0.333	1	CORUM:9	cor	4	6S-nuclear aryl hydrocarbon (Ah) receptor ligand-activated complex	1	ARNT
+7	1	TRUE	0.0139	3	3	1	0.333	0.333	CORUM:2900	cor	2	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	BLNK
+8	1	TRUE	0.0139	2	3	1	0.333	0.5	CORUM:2151	cor	1	Arnt-Sim1 complex	1	ARNT

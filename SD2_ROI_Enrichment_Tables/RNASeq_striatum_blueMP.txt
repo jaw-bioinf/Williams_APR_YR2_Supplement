@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0013292	embryonic lethality prior to organogenesis	717	211	1.55	7.43	1.2e-12	4.7e-09	1.89	1.58	2.24
+MP:0013293	embryonic lethality prior to tooth bud stage	788	222	1.48	6.88	3.3e-11	6.5e-08	1.77	1.5	2.09
+MP:0011100	preweaning lethality, complete penetrance	799	209	1.38	5.41	1.1e-07	0.00013	1.58	1.33	1.87
+MP:0008762	embryonic lethality	1763	413	1.23	5.29	1.3e-07	0.00013	1.4	1.23	1.59
+MP:0011096	embryonic lethality between implantation and somite formation, complete penetrance	271	85	1.65	5.28	5e-07	0.00037	2	1.52	2.61
+MP:0009850	embryonic lethality between implantation and placentation	440	125	1.5	5.17	5.6e-07	0.00037	1.75	1.4	2.17
+MP:0006036	abnormal mitochondrial physiology	167	58	1.83	5.24	9e-07	0.00051	2.31	1.65	3.23
+MP:0006205	embryonic lethality between implantation and somite formation	300	90	1.58	4.95	2e-06	0.00098	1.87	1.44	2.43
+MP:0011635	abnormal mitochondrial crista morphology	44	21	2.51	4.87	1.4e-05	0.0061	3.93	2.06	7.45
+MP:0011634	abnormal mitochondrial inner membrane morphology	45	21	2.46	4.75	2.1e-05	0.0084	3.77	1.99	7.08
+MP:0008876	decreased uterine NK cell number	12	9	3.95	4.95	4e-05	0.012	12.9	3.21	73.9
+MP:0012114	absent inner cell mass proliferation	43	20	2.45	4.61	3.5e-05	0.012	3.74	1.94	7.14
+MP:0003186	abnormal redox activity	149	49	1.73	4.36	3.3e-05	0.012	2.12	1.47	3.03
+MP:0010955	abnormal respiratory electron transport chain	78	30	2.03	4.41	4.5e-05	0.013	2.7	1.64	4.36
+MP:0010954	abnormal cellular respiration	134	44	1.73	4.12	8.6e-05	0.023	2.11	1.43	3.08
+MP:0003674	oxidative stress	133	43	1.7	3.96	0.00015	0.038	2.07	1.4	3.02
+MP:0010380	abnormal inner cell mass apoptosis	28	14	2.63	4.19	0.00021	0.048	4.29	1.89	9.74

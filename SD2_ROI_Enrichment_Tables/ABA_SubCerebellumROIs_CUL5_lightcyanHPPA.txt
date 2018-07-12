@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011329	Abnormality of cranial sutures	251	14	3.32	4.98	4.6e-05	0.042	4.22	2.11	7.96
+HP:0000235	Abnormality of the fontanelles or cranial sutures	303	15	2.95	4.63	9.3e-05	0.042	3.74	1.91	6.96
+HP:0100273	Neoplasm of the colon	52	6	6.86	5.57	0.00019	0.044	8.37	2.8	20.8
+HP:0012447	Abnormal myelination	281	14	2.96	4.49	0.00016	0.044	3.71	1.85	6.99

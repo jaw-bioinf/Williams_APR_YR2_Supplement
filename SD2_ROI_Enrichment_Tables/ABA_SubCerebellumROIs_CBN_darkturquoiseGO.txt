@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:1926	cor	1	Foxh1-Nkx2-5 complex	1	FOXH1
+2	1	TRUE	0.0242	3	5	1	0.2	0.333	CORUM:647	cor	4	HPFH(-198) complex	1	GTF2H4
+3	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:50	cor	2	Rab5 GDP/GTP exchange factor complex	1	RABGEF1
+4	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:2184	cor	3	Gata1-Gfi1b complex	1	GFI1B

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001341	Olfactory lobe agenesis	38	3	25.2	8.41	0.00018	0.034	36.9	6.05	163
+HP:0025057	Abnormality of olfactory lobe morphology	51	3	18.8	7.17	0.00044	0.041	26.8	4.45	116

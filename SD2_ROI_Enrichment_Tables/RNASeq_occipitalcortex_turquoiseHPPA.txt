@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0100000	Early onset of sexual maturation	55	17	3.14	5.28	1.1e-05	0.013	4.25	2.22	7.81
+HP:0000826	Precocious puberty	55	17	3.14	5.28	1.1e-05	0.013	4.25	2.22	7.81

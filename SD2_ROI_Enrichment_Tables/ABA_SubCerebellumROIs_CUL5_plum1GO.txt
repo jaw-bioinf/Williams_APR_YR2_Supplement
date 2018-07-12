@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00325	2	1	1	1	0.5	CORUM:2779	cor	4	Ecsit complex (Smad1-Smad4-Ecsit2)	1	SMAD4
+2	1	TRUE	0.0039	3	1	1	1	0.333	CORUM:2832	cor	5	Smad4-Smad2-Smad3 complex	1	SMAD4
+3	1	TRUE	0.00325	1	1	1	1	1	CORUM:2777	cor	3	Ecsit complex (Ecsit2-Smad4)	1	SMAD4
+4	1	TRUE	0.00325	2	1	1	1	0.5	CORUM:3713	cor	2	Smad3-Smad4 complex	1	SMAD4
+5	1	TRUE	0.00325	2	1	1	1	0.5	CORUM:3712	cor	1	Smad2-Smad4 complex	1	SMAD4

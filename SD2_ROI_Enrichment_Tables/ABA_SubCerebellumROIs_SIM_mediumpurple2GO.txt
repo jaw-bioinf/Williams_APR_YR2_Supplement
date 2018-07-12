@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0117	3	2	1	0.5	0.333	CORUM:1157	cor	3	PS1-E-cadherin-catenin complex, brain	1	CTNNB1
+2	1	TRUE	0.0117	2	2	1	0.5	0.5	CORUM:5459	cor	2	Axin2-Ctnnb1-Apc complex	1	CTNNB1
+3	1	TRUE	0.0139	5	2	1	0.5	0.2	CORUM:6366	cor	1	MCC complex (p85alpha, p110alpha, Akt,14-3-3theta, beta-catenin)	1	CTNNB1
+4	1	TRUE	0.0117	3	2	1	0.5	0.333	CORUM:6214	cor	8	Dock8-Wipf1-Was complex	1	WIPF1
+5	1	TRUE	0.0117	2	2	1	0.5	0.5	CORUM:935	cor	5	Scrib-APC-beta-catenin complex	1	CTNNB1
+6	1	TRUE	0.0146	6	2	1	0.5	0.167	CORUM:5271	cor	4	Kif3-cadherin-catenin complex	1	CTNNB1
+7	1	TRUE	0.013	4	2	1	0.5	0.25	CORUM:3867	cor	6	Xin-Cdh2-Ctnnb1-Ctnnd1 complex	1	CTNNB1
+8	1	TRUE	0.0117	3	2	1	0.5	0.333	CORUM:5333	cor	7	Lef1-Tle1-Ctnnb1 complex	1	CTNNB1

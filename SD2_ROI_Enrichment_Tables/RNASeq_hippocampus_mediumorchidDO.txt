@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:299	adenocarcinoma	755	4	3.71	2.98	0.017	0.038	5.54	1.15	23.4
+DOID:5672	large intestine cancer	812	4	3.45	2.81	0.021	0.038	5.1	1.06	21.6
+DOID:9256	colorectal cancer	811	4	3.45	2.81	0.021	0.038	5.11	1.06	21.6
+DOID:10155	intestinal cancer	820	4	3.42	2.78	0.022	0.038	5.04	1.04	21.3

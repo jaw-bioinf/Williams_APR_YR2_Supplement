@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0488	758	37	8	0.216	0.011	GO:0032269	BP	1	negative regulation of cellular protein metabolic process	1	DNMT1,SENP2,STK38,RABGEF1,CAPRIN1,PKIA,FLCN,TERF2IP
+2	1	TRUE	0.0405	482	37	7	0.189	0.015	GO:0031400	BP	1	negative regulation of protein modification process	2	DNMT1,SENP2,STK38,RABGEF1,PKIA,FLCN,TERF2IP
+3	1	TRUE	0.00865	2	2	1	0.5	0.5	CORUM:50	cor	2	Rab5 GDP/GTP exchange factor complex	1	RABGEF1
+4	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:647	cor	6	HPFH(-198) complex	1	DNMT1
+5	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:5693	cor	4	Tip5-Dnmt-Hdac1 complex	1	DNMT1
+6	1	TRUE	0.0283	44	7	3	0.429	0.068	HP:0001480	hp	5	Freckling	1	TYR,ABCB6,TERF2IP

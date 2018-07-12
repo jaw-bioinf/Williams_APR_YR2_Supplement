@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05010	Alzheimer's disease	171	13	3.95	5.47	2.2e-05	0.0021	4.55	2.3	8.31
+path:hsa05016	Huntington's disease	193	13	3.5	4.93	7.9e-05	0.0037	3.98	2.02	7.25
+path:hsa00190	Oxidative phosphorylation	133	10	3.9	4.74	0.00023	0.0071	4.4	2.01	8.66
+path:hsa05012	Parkinson's disease	142	10	3.66	4.48	0.00038	0.009	4.1	1.87	8.04
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	10	3.48	4.3	0.00056	0.011	3.89	1.78	7.62
+path:hsa04141	Protein processing in endoplasmic reticulum	165	10	3.15	3.91	0.0012	0.019	3.48	1.59	6.79
+path:hsa00061	Fatty acid biosynthesis	13	3	12	5.55	0.0017	0.023	15.6	2.72	61.5
+path:hsa05030	Cocaine addiction	49	5	5.3	4.23	0.0024	0.028	5.98	1.82	15.4
+path:hsa04260	Cardiac muscle contraction	78	6	3.99	3.73	0.0038	0.039	4.4	1.53	10.3
+path:hsa04146	Peroxisome	83	6	3.75	3.54	0.0051	0.048	4.11	1.44	9.62

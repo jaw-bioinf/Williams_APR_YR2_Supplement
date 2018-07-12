@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:4248	coronary stenosis	17	5	7.38	5.37	4e-04	0.047	10.2	2.79	31.4
+DOID:9452	fatty liver disease	92	12	3.27	4.47	0.00027	0.047	3.73	1.83	6.99
+DOID:9455	lipid storage disease	122	14	2.88	4.27	0.00033	0.047	3.23	1.69	5.76
+DOID:0050737	autosomal recessive disease	323	26	2.02	3.82	0.00046	0.047	2.22	1.4	3.4

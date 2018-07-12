@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00190	Oxidative phosphorylation	133	65	2.58	8.91	2.8e-15	7.2e-13	4.26	2.97	6.12
+path:hsa05012	Parkinson's disease	142	65	2.42	8.26	1.4e-13	1.9e-11	3.76	2.64	5.33
+path:hsa03013	RNA transport	171	66	2.04	6.66	9.6e-10	8.3e-08	2.79	2	3.85
+path:hsa05010	Alzheimer's disease	171	65	2.01	6.46	2.7e-09	1.7e-07	2.72	1.95	3.76
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	57	2.02	6.09	2e-08	8.6e-07	2.73	1.92	3.87
+path:hsa05016	Huntington's disease	193	69	1.89	6.06	1.7e-08	8.6e-07	2.46	1.8	3.36
+path:hsa03018	RNA degradation	77	31	2.13	4.81	1e-05	0.00038	2.94	1.79	4.75
+path:hsa04141	Protein processing in endoplasmic reticulum	165	51	1.63	3.98	0.00012	0.004	1.96	1.37	2.76
+path:hsa05134	Legionellosis	55	22	2.11	4.01	0.00022	0.0063	2.89	1.6	5.13
+path:hsa00480	Glutathione metabolism	54	21	2.06	3.76	0.00048	0.012	2.76	1.51	4.93
+path:hsa03008	Ribosome biogenesis in eukaryotes	101	33	1.73	3.56	0.00064	0.015	2.11	1.34	3.26
+path:hsa04146	Peroxisome	83	28	1.78	3.47	0.00092	0.019	2.21	1.34	3.56
+path:hsa03015	mRNA surveillance pathway	91	30	1.74	3.44	0.00094	0.019	2.13	1.32	3.37
+path:hsa05130	Pathogenic Escherichia coli infection	55	20	1.92	3.32	0.0017	0.032	2.47	1.35	4.42
+path:hsa04130	SNARE interactions in vesicular transport	34	14	2.18	3.32	0.0022	0.038	3.02	1.41	6.31
+path:hsa00240	Pyrimidine metabolism	101	31	1.62	3.04	0.0028	0.046	1.92	1.21	2.99

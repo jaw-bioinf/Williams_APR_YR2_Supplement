@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04014	Ras signaling pathway	227	43	1.86	4.46	3.4e-05	0.0085	2.14	1.48	3.03
+path:hsa04151	PI3K-Akt signaling pathway	341	55	1.59	3.75	0.00029	0.036	1.76	1.28	2.39
+path:hsa01521	EGFR tyrosine kinase inhibitor resistance	79	18	2.24	3.74	0.00076	0.047	2.65	1.47	4.58
+path:hsa05215	Prostate cancer	87	19	2.15	3.63	0.00095	0.047	2.51	1.42	4.26
+path:hsa00564	Glycerophospholipid metabolism	95	20	2.07	3.54	0.0011	0.047	2.4	1.38	4
+path:hsa04660	T cell receptor signaling pathway	103	21	2.01	3.46	0.0013	0.047	2.3	1.35	3.79
+path:hsa05200	Pathways in cancer	395	59	1.47	3.24	0.0013	0.047	1.61	1.18	2.15
+path:hsa04510	Focal adhesion	199	34	1.68	3.28	0.0016	0.048	1.87	1.24	2.74

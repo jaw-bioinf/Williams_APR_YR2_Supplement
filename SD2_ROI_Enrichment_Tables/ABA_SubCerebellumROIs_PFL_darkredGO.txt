@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:6427	cor	2	Sufu-Mycbp-Gli1 complex	1	SUFU
+2	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:6593	cor	7	Kinesin II complex (Kif3a-Kif3b-Kifap3)	1	KIF3B
+3	1	TRUE	0.0358	4	5	1	0.2	0.25	CORUM:583	cor	5	Ikaros-NuRD complex	1	IKZF3
+4	1	TRUE	0.0323	1	5	1	0.2	1	CORUM:6607	cor	6	Kif7-Sufu homolog	1	SUFU
+5	1	TRUE	0.0459	6	5	1	0.2	0.167	CORUM:5271	cor	3	Kif3-cadherin-catenin complex	1	KIF3B
+6	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:6305	cor	4	Hoxa9-Meis1-Pbx3 complex	1	HOXA9
+7	1	TRUE	0.0323	2	5	1	0.2	0.5	CORUM:1074	cor	1	Pkd2-Fpc-Kif3b complex	1	KIF3B

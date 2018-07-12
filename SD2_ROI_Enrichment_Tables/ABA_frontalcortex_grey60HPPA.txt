@@ -1,0 +1,136 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000925	Abnormality of the vertebral column	935	32	2.07	4.96	3.3e-06	0.0031	3.47	1.99	6.1
+HP:0009121	Abnormal axial skeleton morphology	1638	43	1.59	4.23	1.7e-05	0.0079	3.34	1.81	6.49
+HP:0002623	Overriding aorta	14	3	13	5.82	0.0014	0.031	17	2.96	66.9
+HP:0010486	Abnormality of the hypothenar eminence	15	3	12.1	5.59	0.0017	0.031	15.6	2.75	60
+HP:0030270	Elevated red cell adenosine deaminase activity	15	3	12.1	5.59	0.0017	0.031	15.6	2.75	60
+HP:0010487	Small hypothenar eminence	15	3	12.1	5.59	0.0017	0.031	15.6	2.75	60
+HP:0008437	Bifid thoracic vertebrae	15	3	12.1	5.59	0.0017	0.031	15.6	2.75	60
+HP:0008447	Hypoplastic coccygeal vertebrae	15	3	12.1	5.59	0.0017	0.031	15.6	2.75	60
+HP:0008475	Hypoplastic sacral vertebrae	15	3	12.1	5.59	0.0017	0.031	15.6	2.75	60
+HP:0001421	Abnormality of the musculature of the hand	44	5	6.88	5.08	0.00069	0.031	8.24	2.44	22.1
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	4	7.81	4.93	0.0015	0.031	9.38	2.31	28.3
+HP:0008417	Vertebral hypoplasia	31	4	7.81	4.93	0.0015	0.031	9.38	2.31	28.3
+HP:0000402	Stenosis of the external auditory canal	32	4	7.56	4.83	0.0017	0.031	9.04	2.23	27.2
+HP:0002510	Spastic tetraplegia	87	7	4.87	4.74	0.00049	0.031	5.78	2.15	13.3
+HP:0000307	Pointed chin	71	6	5.11	4.54	0.00098	0.031	6.01	2.04	14.7
+HP:0000939	Osteoporosis	177	10	3.42	4.28	0.00052	0.031	4.1	1.81	8.38
+HP:0006887	Intellectual disability, progressive	100	7	4.24	4.26	0.0011	0.031	4.95	1.85	11.4
+HP:0007759	Opacification of the corneal stroma	154	9	3.54	4.17	8e-04	0.031	4.19	1.77	8.83
+HP:0000309	Abnormality of the midface	492	19	2.34	4.15	2e-04	0.031	3.07	1.66	5.49
+HP:0011492	Abnormality of corneal stroma	158	9	3.45	4.08	0.00096	0.031	4.07	1.72	8.57
+HP:0003307	Hyperlordosis	135	8	3.59	3.97	0.0015	0.031	4.19	1.68	9.14
+HP:0030791	Abnormal jaw morphology	724	24	2.01	3.94	0.00023	0.031	2.77	1.56	4.85
+HP:0100790	Hernia	365	15	2.49	3.89	0.00061	0.031	3.09	1.58	5.74
+HP:0003312	Abnormal form of the vertebral bodies	229	11	2.91	3.87	0.0011	0.031	3.47	1.6	6.91
+HP:0002814	Abnormality of the lower limb	1067	31	1.76	3.85	0.00019	0.031	2.68	1.54	4.69
+HP:0011821	Abnormality of facial skeleton	874	27	1.87	3.84	0.00025	0.031	2.68	1.53	4.67
+HP:0001763	Pes planus	200	10	3.03	3.82	0.0014	0.031	3.57	1.59	7.3
+HP:0000272	Malar flattening	336	14	2.52	3.8	0.00084	0.031	3.09	1.55	5.82
+HP:0000306	Abnormality of the chin	269	12	2.7	3.76	0.0012	0.031	3.24	1.54	6.32
+HP:0012369	Abnormality of malar bones	340	14	2.49	3.75	0.00095	0.031	3.05	1.53	5.74
+HP:0000277	Abnormality of the mandible	705	23	1.97	3.75	0.00044	0.031	2.67	1.49	4.68
+HP:0000002	Abnormality of body height	1037	30	1.75	3.73	0.00029	0.031	2.6	1.49	4.54
+HP:0001631	Atrial septal defect	307	13	2.56	3.71	0.0012	0.031	3.1	1.52	5.93
+HP:0011994	Abnormality of the atrial septum	307	13	2.56	3.71	0.0012	0.031	3.1	1.52	5.93
+HP:0005120	Abnormality of cardiac atrium	309	13	2.55	3.69	0.0012	0.031	3.08	1.51	5.89
+HP:0002644	Abnormality of pelvic girdle bone morphology	421	16	2.3	3.68	0.00091	0.031	2.86	1.49	5.26
+HP:0010674	Abnormality of the curvature of the vertebral column	714	23	1.95	3.68	0.00053	0.031	2.62	1.47	4.6
+HP:0000288	Abnormality of the philtrum	387	15	2.35	3.64	0.0011	0.031	2.89	1.47	5.36
+HP:0001760	Abnormality of the foot	911	27	1.79	3.61	0.00052	0.031	2.53	1.44	4.41
+HP:0003272	Abnormality of the hip bone	353	14	2.4	3.59	0.0014	0.031	2.92	1.46	5.5
+HP:0003468	Abnormality of the vertebrae	320	13	2.46	3.55	0.0017	0.031	2.96	1.45	5.66
+HP:0011314	Abnormality of long bone morphology	478	17	2.15	3.51	0.0013	0.031	2.69	1.42	4.89
+HP:0010668	Abnormality of the zygomatic bone	360	14	2.35	3.51	0.0017	0.031	2.86	1.43	5.37
+HP:0000929	Abnormality of the skull	1400	36	1.56	3.48	0.00048	0.031	2.5	1.43	4.49
+HP:0100886	Abnormality of globe location	744	23	1.87	3.47	0.00098	0.031	2.49	1.39	4.36
+HP:0002650	Scoliosis	657	21	1.93	3.44	0.0012	0.031	2.51	1.39	4.44
+HP:0003011	Abnormality of the musculature	1823	43	1.43	3.41	0.00041	0.031	2.69	1.46	5.24
+HP:0001263	Global developmental delay	946	27	1.73	3.39	0.00098	0.031	2.4	1.37	4.18
+HP:0040064	Abnormality of limbs	1488	37	1.5	3.33	0.00076	0.031	2.43	1.38	4.39
+HP:0004322	Short stature	970	27	1.68	3.25	0.0015	0.031	2.32	1.32	4.04
+HP:0000163	Abnormality of the oral cavity	1192	31	1.57	3.16	0.0016	0.031	2.27	1.3	3.97
+HP:0030272	Abnormal erythrocyte enzyme activity	16	3	11.3	5.38	0.0021	0.032	14.4	2.56	54.4
+HP:0006368	Forearm reduction defects	16	3	11.3	5.38	0.0021	0.032	14.4	2.56	54.4
+HP:0004969	Peripheral pulmonary artery stenosis	16	3	11.3	5.38	0.0021	0.032	14.4	2.56	54.4
+HP:0025065	Abnormal erythrocyte volume	17	3	10.7	5.19	0.0025	0.032	13.4	2.39	49.9
+HP:0005518	Increased mean corpuscular volume	17	3	10.7	5.19	0.0025	0.032	13.4	2.39	49.9
+HP:0012133	Erythroid hypoplasia	17	3	10.7	5.19	0.0025	0.032	13.4	2.39	49.9
+HP:0008518	Aplasia/Hypoplasia involving the vertebral column	57	5	5.31	4.25	0.0022	0.032	6.16	1.85	16.2
+HP:0000768	Pectus carinatum	115	7	3.68	3.79	0.0025	0.032	4.25	1.59	9.69
+HP:0001636	Tetralogy of Fallot	145	8	3.34	3.73	0.0023	0.032	3.87	1.55	8.44
+HP:0002250	Abnormality of the large intestine	177	9	3.08	3.68	0.0022	0.032	3.59	1.52	7.54
+HP:0040072	Abnormality of forearm bone	215	10	2.81	3.56	0.0023	0.032	3.3	1.47	6.72
+HP:0011337	Abnormality of mouth size	249	11	2.67	3.55	0.0021	0.032	3.16	1.46	6.28
+HP:0002973	Abnormality of the forearm	218	10	2.78	3.51	0.0026	0.032	3.25	1.44	6.62
+HP:0001629	Ventricular septal defect	326	13	2.41	3.47	0.002	0.032	2.9	1.42	5.54
+HP:0010438	Abnormality of the ventricular septum	333	13	2.36	3.39	0.0024	0.032	2.83	1.38	5.4
+HP:0009118	Aplasia/Hypoplasia of the mandible	544	18	2	3.3	0.0021	0.032	2.5	1.34	4.51
+HP:0000347	Micrognathia	543	18	2.01	3.3	0.002	0.032	2.51	1.34	4.52
+HP:0040195	Decreased head circumference	731	22	1.82	3.23	0.0019	0.032	2.36	1.32	4.16
+HP:0000252	Microcephaly	731	22	1.82	3.23	0.0019	0.032	2.36	1.32	4.16
+HP:0009115	Aplasia/hypoplasia involving the skeleton	830	24	1.75	3.2	0.0019	0.032	2.32	1.31	4.05
+HP:0009122	Aplasia/hypoplasia affecting bones of the axial skeleton	644	20	1.88	3.2	0.0024	0.032	2.38	1.31	4.24
+HP:0003549	Abnormality of connective tissue	1048	28	1.62	3.09	0.0022	0.032	2.22	1.27	3.88
+HP:0000153	Abnormality of the mouth	1389	34	1.48	2.99	0.0024	0.032	2.19	1.26	3.88
+HP:0000601	Hypotelorism	117	7	3.62	3.74	0.0028	0.033	4.17	1.56	9.51
+HP:0001710	Conotruncal defect	148	8	3.27	3.66	0.0026	0.033	3.78	1.52	8.25
+HP:0005105	Abnormal nasal morphology	701	21	1.81	3.12	0.0028	0.033	2.31	1.28	4.09
+HP:0001510	Growth delay	1225	31	1.53	2.99	0.0027	0.033	2.17	1.25	3.8
+HP:0004590	Hypoplastic sacrum	18	3	10.1	5.01	0.0029	0.034	12.5	2.25	45.9
+HP:0004810	Congenital hypoplastic anemia	18	3	10.1	5.01	0.0029	0.034	12.5	2.25	45.9
+HP:0002997	Abnormality of the ulna	150	8	3.23	3.61	0.0029	0.034	3.73	1.5	8.12
+HP:0005321	Mandibulofacial dysostosis	19	3	9.56	4.85	0.0034	0.035	11.7	2.12	42.5
+HP:0001908	Hypoplastic anemia	19	3	9.56	4.85	0.0034	0.035	11.7	2.12	42.5
+HP:0001388	Joint laxity	121	7	3.5	3.63	0.0034	0.035	4.02	1.5	9.15
+HP:0002979	Bowing of the legs	153	8	3.16	3.55	0.0032	0.035	3.65	1.47	7.94
+HP:0002815	Abnormality of the knee	226	10	2.68	3.38	0.0034	0.035	3.12	1.39	6.35
+HP:0000218	High palate	430	15	2.11	3.19	0.0033	0.035	2.55	1.3	4.74
+HP:0000174	Abnormality of the palate	708	21	1.8	3.07	0.0031	0.035	2.28	1.26	4.03
+HP:0011729	Abnormality of joint mobility	809	23	1.72	3.03	0.0032	0.035	2.23	1.25	3.91
+HP:0000240	Abnormality of skull size	968	26	1.63	2.96	0.0034	0.035	2.16	1.23	3.77
+HP:0001181	Adducted thumb	63	5	4.8	3.95	0.0035	0.036	5.51	1.66	14.4
+HP:0006503	Aplasia/hypoplasia involving forearm bones	122	7	3.47	3.6	0.0036	0.036	3.98	1.49	9.07
+HP:0000343	Long philtrum	228	10	2.65	3.35	0.0036	0.036	3.09	1.37	6.29
+HP:0001895	Normochromic anemia	20	3	9.08	4.7	0.004	0.037	11	2.01	39.7
+HP:0001897	Normocytic anemia	20	3	9.08	4.7	0.004	0.037	11	2.01	39.7
+HP:0003028	Abnormality of the ankles	64	5	4.73	3.9	0.0037	0.037	5.42	1.63	14.2
+HP:0000076	Vesicoureteral reflux	93	6	3.9	3.68	0.0039	0.037	4.46	1.52	10.8
+HP:0001622	Premature birth	123	7	3.44	3.58	0.0037	0.037	3.94	1.48	8.99
+HP:0006504	Anomaly of the limb diaphyses	193	9	2.82	3.37	0.0039	0.037	3.26	1.39	6.84
+HP:0006487	Bowing of the long bones	193	9	2.82	3.37	0.0039	0.037	3.26	1.39	6.84
+HP:0000464	Abnormality of the neck	440	15	2.06	3.09	0.0041	0.037	2.48	1.27	4.61
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	28	1.56	2.89	0.0039	0.037	2.11	1.21	3.68
+HP:0001647	Bicuspid aortic valve	126	7	3.36	3.5	0.0043	0.038	3.84	1.44	8.75
+HP:0009116	Aplasia/Hypoplasia involving bones of the skull	579	18	1.88	3.01	0.0042	0.038	2.32	1.24	4.17
+HP:0012758	Neurodevelopmental delay	1201	30	1.51	2.83	0.0042	0.038	2.09	1.2	3.64
+HP:0003521	Disproportionate short-trunk short stature	21	3	8.65	4.55	0.0046	0.04	10.4	1.9	37.1
+HP:0010864	Intellectual disability, severe	198	9	2.75	3.29	0.0046	0.04	3.17	1.35	6.65
+HP:0003196	Short nose	276	11	2.41	3.17	0.0047	0.04	2.81	1.3	5.59
+HP:0001646	Abnormality of the aortic valve	238	10	2.54	3.19	0.0049	0.041	2.94	1.31	5.99
+HP:0000377	Abnormality of the pinna	540	17	1.91	2.96	0.0049	0.041	2.32	1.23	4.21
+HP:0001707	Abnormality of the right ventricle	22	3	8.25	4.42	0.0053	0.043	9.83	1.81	34.9
+HP:0011904	Persistence of hemoglobin F	22	3	8.25	4.42	0.0053	0.043	9.83	1.81	34.9
+HP:0002035	Rectal prolapse	22	3	8.25	4.42	0.0053	0.043	9.83	1.81	34.9
+HP:0000470	Short neck	280	11	2.38	3.11	0.0052	0.043	2.77	1.28	5.5
+HP:0001197	Abnormality of prenatal development or birth	498	16	1.94	2.95	0.0053	0.043	2.35	1.22	4.3
+HP:0040068	Abnormality of limb bone	1160	29	1.51	2.77	0.0052	0.043	2.05	1.18	3.58
+HP:0001507	Growth abnormality	1692	38	1.36	2.66	0.0056	0.044	2.06	1.17	3.76
+HP:0002669	Osteosarcoma	23	3	7.89	4.3	0.006	0.045	9.34	1.73	32.9
+HP:0012131	Abnormal number of erythroid precursors	23	3	7.89	4.3	0.006	0.045	9.34	1.73	32.9
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	3	7.89	4.3	0.006	0.045	9.34	1.73	32.9
+HP:0002697	Parietal foramina	23	3	7.89	4.3	0.006	0.045	9.34	1.73	32.9
+HP:0000977	Soft skin	45	4	5.38	3.83	0.006	0.045	6.15	1.55	17.9
+HP:0002757	Recurrent fractures	133	7	3.19	3.33	0.0057	0.045	3.62	1.36	8.23
+HP:0000940	Abnormal diaphysis morphology	205	9	2.66	3.17	0.0058	0.045	3.05	1.3	6.39
+HP:0000275	Narrow face	102	6	3.56	3.4	0.0062	0.046	4.03	1.38	9.7
+HP:0000177	Abnormality of upper lip	601	18	1.81	2.84	0.0063	0.046	2.21	1.19	3.98
+HP:0002817	Abnormality of the upper limb	1063	27	1.54	2.72	0.0062	0.046	2.03	1.16	3.54
+HP:0004439	Craniofacial dysostosis	24	3	7.56	4.18	0.0068	0.047	8.89	1.65	31.1
+HP:0008661	Urethral stenosis	24	3	7.56	4.18	0.0068	0.047	8.89	1.65	31.1
+HP:0009944	Partial duplication of thumb phalanx	24	3	7.56	4.18	0.0068	0.047	8.89	1.65	31.1
+HP:0040073	Abnormal morphology of forearm bone	73	5	4.15	3.52	0.0066	0.047	4.69	1.42	12.2
+HP:0006501	Aplasia/Hypoplasia of the radius	104	6	3.49	3.34	0.0068	0.047	3.95	1.35	9.49
+HP:0001679	Abnormality of the aorta	249	10	2.43	3.03	0.0067	0.047	2.8	1.25	5.69
+HP:0004348	Abnormality of bone mineral density	422	14	2.01	2.86	0.0072	0.05	2.37	1.19	4.46
+HP:0011442	Abnormality of central motor function	1241	30	1.46	2.63	0.0073	0.05	1.98	1.14	3.46

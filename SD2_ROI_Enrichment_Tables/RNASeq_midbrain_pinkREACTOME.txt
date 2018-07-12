@@ -1,0 +1,101 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-168256 Immune System 1970 237 2.88 19.5 6.7e-66 2.5e-63 5.94 4.84 7.3
+R-HSA-168249 Innate Immune System 1035 139 3.22 15.7 4.6e-39 8.8e-37 4.84 3.87 6.02
+R-HSA-1280215 Cytokine Signaling in Immune system 678 98 3.46 13.9 3.3e-29 4.2e-27 4.76 3.7 6.08
+R-HSA-6798695 Neutrophil degranulation 477 78 3.92 13.6 1.3e-26 1.2e-24 5.29 4 6.93
+R-HSA-909733 Interferon alpha/beta signaling 69 27 9.37 14.6 5.6e-20 4.2e-18 15.7 9.2 26.4
+R-HSA-913531 Interferon Signaling 196 41 5.01 11.8 3.6e-18 2.3e-16 6.62 4.5 9.56
+R-HSA-449147 Signaling by Interleukins 454 62 3.27 10.3 4.2e-17 2.3e-15 4.09 3.01 5.48
+R-HSA-6783783 Interleukin-10 signaling 49 20 9.78 12.9 1.5e-15 7.3e-14 16.6 8.8 30.6
+R-HSA-1280218 Adaptive Immune System 746 78 2.5 8.92 1.3e-14 5.5e-13 3.07 2.34 3.98
+R-HSA-877300 Interferon gamma signaling 90 22 5.86 9.66 1e-11 3.6e-10 7.78 4.53 12.9
+R-HSA-6785807 Interleukin-4 and 13 signaling 108 24 5.32 9.43 1e-11 3.6e-10 6.89 4.14 11.1
+R-HSA-1236975 Antigen processing-Cross presentation 88 21 5.72 9.28 4.9e-11 1.6e-09 7.52 4.33 12.6
+R-HSA-109582 Hemostasis 608 56 2.21 6.41 1.3e-08 3.9e-07 2.53 1.85 3.41
+R-HSA-1236974 ER-Phagosome pathway 30 10 7.98 8 2e-07 5.6e-06 11.7 4.87 26.4
+R-HSA-198933 Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell 128 20 3.74 6.52 3.1e-07 7.8e-06 4.41 2.57 7.25
+R-HSA-76002 Platelet activation, signaling and aggregation 271 30 2.65 5.75 9.6e-07 2.3e-05 3 1.95 4.47
+R-HSA-168898 Toll-Like Receptors Cascades 153 21 3.29 5.95 1.4e-06 3.2e-05 3.79 2.25 6.12
+R-HSA-5602498 MyD88 deficiency (TLR2/4) 11 6 13.1 8.36 2e-06 3.9e-05 27.9 7.06 116
+R-HSA-5603041 IRAK4 deficiency (TLR2/4) 11 6 13.1 8.36 2e-06 3.9e-05 27.9 7.06 116
+R-HSA-114604 GPVI-mediated activation cascade 55 12 5.23 6.56 2.1e-06 3.9e-05 6.56 3.13 12.8
+R-HSA-202733 Cell surface interactions at the vascular wall 133 19 3.42 5.87 2.4e-06 4.4e-05 3.96 2.28 6.55
+R-HSA-5260271 Diseases of Immune System 25 8 7.67 6.96 5e-06 8.3e-05 11 4.08 27.1
+R-HSA-5602358 Diseases associated with the TLR signaling cascade 25 8 7.67 6.96 5e-06 8.3e-05 11 4.08 27.1
+R-HSA-5668599 RHO GTPases Activate NADPH Oxidases 13 6 11.1 7.57 6.8e-06 0.00011 19.9 5.51 69.6
+R-HSA-983695 Antigen activates B Cell Receptor (BCR) leading to generation of second messengers 27 8 7.1 6.62 9.5e-06 0.00014 9.83 3.7 23.7
+R-HSA-983705 Signaling by the B Cell Receptor (BCR) 108 16 3.55 5.56 9.5e-06 0.00014 4.11 2.23 7.12
+R-HSA-977606 Regulation of Complement cascade 47 10 5.1 5.88 1.9e-05 0.00026 6.33 2.79 13.1
+R-HSA-2424491 DAP12 signaling 30 8 6.39 6.17 2.2e-05 3e-04 8.49 3.25 19.9
+R-HSA-380108 Chemokine receptors bind chemokines 48 10 4.99 5.78 2.3e-05 3e-04 6.16 2.72 12.7
+R-HSA-202403 TCR signaling 116 16 3.3 5.21 2.4e-05 3e-04 3.78 2.06 6.52
+R-HSA-2562578 TRIF-mediated programmed cell death 10 5 12 7.25 2.6e-05 0.00032 23.2 5.32 101
+R-HSA-1222556 ROS, RNS production in phagocytes 32 8 5.99 5.9 3.7e-05 0.00045 7.78 3 18
+R-HSA-2172127 DAP12 interactions 42 9 5.13 5.6 4.6e-05 0.00053 6.37 2.66 13.7
+R-HSA-114608 Platelet degranulation  123 16 3.12 4.93 5e-05 0.00056 3.53 1.93 6.07
+R-HSA-3299685 Detoxification of Reactive Oxygen Species 34 8 5.64 5.65 6e-05 0.00065 7.18 2.79 16.5
+R-HSA-2454202 Fc epsilon receptor (FCERI) signaling 126 16 3.04 4.81 6.7e-05 0.00071 3.43 1.88 5.89
+R-HSA-166016 Toll Like Receptor 4 (TLR4) Cascade 127 16 3.02 4.78 7.4e-05 0.00076 3.4 1.86 5.84
+R-HSA-76005 Response to elevated platelet cytosolic Ca2+ 128 16 2.99 4.74 8.1e-05 0.00081 3.37 1.84 5.78
+R-HSA-1679131 Trafficking and processing of endosomal TLR 13 5 9.21 6.18 0.00012 0.0012 14.5 3.71 50.6
+R-HSA-166658 Complement cascade 58 10 4.13 4.99 0.00012 0.0012 4.87 2.18 9.84
+R-HSA-2871809 FCERI mediated Ca+2 mobilization 29 7 5.78 5.38 0.00015 0.0014 7.41 2.66 18.1
+R-HSA-446652 Interleukin-1 family signaling 138 16 2.78 4.39 2e-04 0.0018 3.09 1.7 5.28
+R-HSA-166663 Initial triggering of complement 23 6 6.25 5.26 0.00028 0.0025 8.2 2.63 21.9
+R-HSA-451927 Interleukin-2 family signaling 42 8 4.56 4.83 0.00029 0.0025 5.48 2.18 12.2
+R-HSA-983169 Class I MHC mediated antigen processing & presentation 365 30 1.97 3.94 3e-04 0.0025 2.14 1.4 3.16
+R-HSA-373076 Class A/1 (Rhodopsin-like receptors) 320 27 2.02 3.87 0.00039 0.0032 2.19 1.4 3.31
+R-HSA-140534 Ligand-dependent caspase activation 17 5 7.05 5.21 5e-04 0.0039 9.66 2.65 29.7
+R-HSA-9014325 TICAM1,TRAF6-dependent induction of TAK1 complex 17 5 7.05 5.21 5e-04 0.0039 9.66 2.65 29.7
+R-HSA-975163 IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation 17 5 7.05 5.21 5e-04 0.0039 9.66 2.65 29.7
+R-HSA-2029480 Fcgamma receptor (FCGR) dependent phagocytosis 81 11 3.25 4.25 0.00051 0.0039 3.68 1.74 7.06
+R-HSA-512988 Interleukin-3, 5 and GM-CSF signaling 47 8 4.08 4.41 0.00065 0.0048 4.78 1.92 10.5
+R-HSA-936964 Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon 18 5 6.65 5.01 0.00068 0.0049 8.92 2.48 26.8
+R-HSA-937072 TRAF6-mediated induction of TAK1 complex within TLR4 complex 18 5 6.65 5.01 0.00068 0.0049 8.92 2.48 26.8
+R-HSA-936440 Negative regulators of DDX58/IFIH1 signaling 27 6 5.32 4.69 0.00072 0.005 6.64 2.18 17.1
+R-HSA-2206281 Mucopolysaccharidoses 11 4 8.71 5.34 0.00078 0.0054 13.2 2.83 52.3
+R-HSA-2029481 FCGR activation 12 4 7.98 5.05 0.0011 0.0077 11.6 2.54 43.4
+R-HSA-202433 Generation of second messenger molecules 30 6 4.79 4.34 0.0013 0.0086 5.81 1.93 14.7
+R-HSA-5357769 Caspase activation via extrinsic apoptotic signalling pathway 21 5 5.7 4.5 0.0014 0.0095 7.24 2.07 20.8
+R-HSA-2871796 FCERI mediated MAPK activation 32 6 4.49 4.13 0.0018 0.012 5.36 1.79 13.4
+R-HSA-216083 Integrin cell surface interactions 81 10 2.96 3.69 0.0019 0.012 3.29 1.5 6.47
+R-HSA-416700 Other semaphorin interactions 14 4 6.84 4.57 0.0021 0.013 9.26 2.11 32.2
+R-HSA-450408 AUF1 (hnRNP D0) binds and destabilizes mRNA 56 8 3.42 3.79 0.0021 0.013 3.88 1.57 8.34
+R-HSA-1834949 Cytosolic sensors of pathogen-associated DNA  69 9 3.12 3.7 0.0022 0.013 3.5 1.51 7.15
+R-HSA-5607764 CLEC7A (Dectin-1) signaling 96 11 2.74 3.59 0.0021 0.013 3.02 1.44 5.74
+R-HSA-6783589 Interleukin-6 family signaling 24 5 4.99 4.09 0.0027 0.015 6.1 1.77 17
+R-HSA-1169408 ISG15 antiviral mechanism 71 9 3.04 3.59 0.0026 0.015 3.38 1.47 6.91
+R-HSA-1169410 Antiviral mechanism by IFN-stimulated genes 71 9 3.04 3.59 0.0026 0.015 3.38 1.47 6.91
+R-HSA-2173791 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition) 15 4 6.39 4.36 0.0028 0.016 8.41 1.95 28.6
+R-HSA-937041 IKK complex recruitment mediated by RIP1 25 5 4.79 3.96 0.0033 0.018 5.79 1.69 16
+R-HSA-1834941 STING mediated induction of host immune responses 16 4 5.99 4.17 0.0037 0.019 7.71 1.81 25.6
+R-HSA-975110 TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling 16 4 5.99 4.17 0.0037 0.019 7.71 1.81 25.6
+R-HSA-9020702 Interleukin-1 signaling 102 11 2.58 3.35 0.0034 0.019 2.82 1.35 5.35
+R-HSA-194138 Signaling by VEGF 103 11 2.56 3.32 0.0037 0.019 2.79 1.34 5.28
+R-HSA-168928 DDX58/IFIH1-mediated induction of interferon-alpha/beta 76 9 2.84 3.35 0.0042 0.022 3.13 1.36 6.36
+R-HSA-912526 Interleukin receptor SHC signaling 27 5 4.44 3.73 0.0047 0.024 5.27 1.55 14.3
+R-HSA-5621481 C-type lectin receptors (CLRs) 138 13 2.26 3.1 0.005 0.025 2.43 1.25 4.36
+R-HSA-373755 Semaphorin interactions 52 7 3.22 3.36 0.0055 0.027 3.61 1.37 8.14
+R-HSA-2871837 FCERI mediated NF-kB activation 79 9 2.73 3.22 0.0055 0.027 2.99 1.31 6.07
+R-HSA-1169091 Activation of NF-kappaB in B cells 66 8 2.9 3.24 0.0059 0.029 3.21 1.31 6.81
+R-HSA-4420097 VEGFA-VEGFR2 Pathway 95 10 2.52 3.11 0.0061 0.029 2.74 1.26 5.34
+R-HSA-1474244 Extracellular matrix organization 278 21 1.81 2.86 0.0063 0.029 1.92 1.16 3.04
+R-HSA-9020958 Interleukin-21 signaling 10 3 7.19 4.09 0.007 0.032 9.9 1.65 43.5
+R-HSA-197264 Nicotinamide salvaging 19 4 5.04 3.68 0.007 0.032 6.17 1.48 19.5
+R-HSA-5686938 Regulation of TLR by endogenous ligand 19 4 5.04 3.68 0.007 0.032 6.17 1.48 19.5
+R-HSA-202424 Downstream TCR signaling 98 10 2.44 3 0.0076 0.034 2.65 1.22 5.15
+R-HSA-5362768 Hh mutants that don't undergo autocatalytic processing are degraded by ERAD 56 7 2.99 3.12 0.0083 0.037 3.32 1.26 7.42
+R-HSA-1059683 Interleukin-6 signaling 11 3 6.53 3.83 0.0093 0.04 8.66 1.47 36.3
+R-HSA-418594 G alpha (i) signalling events 362 25 1.65 2.65 0.0093 0.04 1.75 1.1 2.66
+R-HSA-500792 GPCR ligand binding 419 28 1.6 2.62 0.0093 0.04 1.69 1.09 2.52
+R-HSA-5668541 TNFR2 non-canonical NF-kB pathway 102 10 2.35 2.86 0.01 0.042 2.53 1.17 4.92
+R-HSA-2029485 Role of phospholipids in phagocytosis 21 4 4.56 3.41 0.01 0.043 5.44 1.33 16.8
+R-HSA-1638074 Keratan sulfate/keratin metabolism 33 5 3.63 3.16 0.011 0.045 4.14 1.24 10.9
+R-HSA-933541 TRAF6 mediated IRF7 activation 33 5 3.63 3.16 0.011 0.045 4.14 1.24 10.9
+R-HSA-5387390 Hh mutants abrogate ligand secretion 59 7 2.84 2.96 0.011 0.045 3.13 1.19 6.96
+R-HSA-2022857 Keratan sulfate degradation 12 3 5.99 3.61 0.012 0.046 7.7 1.34 31
+R-HSA-210990 PECAM1 interactions 12 3 5.99 3.61 0.012 0.046 7.7 1.34 31
+R-HSA-2160916 Hyaluronan uptake and degradation 12 3 5.99 3.61 0.012 0.046 7.7 1.34 31
+R-HSA-844456 The NLRP3 inflammasome 12 3 5.99 3.61 0.012 0.046 7.7 1.34 31
+R-HSA-2029482 Regulation of actin dynamics for phagocytic cup formation 60 7 2.79 2.91 0.012 0.046 3.07 1.17 6.82
+R-HSA-5678895 Defective CFTR causes cystic fibrosis 61 7 2.75 2.86 0.013 0.05 3.01 1.15 6.69

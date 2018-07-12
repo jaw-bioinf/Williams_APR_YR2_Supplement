@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-977443	GABA receptor activation	55	7	6.01	5.48	0.00015	0.014	6.93	2.62	15.7
+R-HSA-416476	G alpha (q) signalling events	207	14	3.19	4.69	0.00013	0.014	3.52	1.85	6.19
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	11	3.37	4.37	0.00042	0.027	3.7	1.78	6.95
+R-HSA-390666	Serotonin receptors	12	3	11.8	5.51	0.0018	0.05	15.6	2.7	63.1
+R-HSA-114508	Effects of PIP2 hydrolysis	25	4	7.56	4.83	0.0017	0.05	8.95	2.21	26.8
+R-HSA-977444	GABA B receptor activation	39	5	6.06	4.65	0.0013	0.05	6.93	2.1	18.1
+R-HSA-991365	Activation of GABAB receptors	39	5	6.06	4.65	0.0013	0.05	6.93	2.1	18.1

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0060038	specific developmental disorder	242	17	4.39	6.85	2.3e-07	4.1e-05	5.3	2.91	9.12
+DOID:1059	intellectual disability	149	13	5.45	7.01	6e-07	5.3e-05	6.52	3.27	12
+DOID:0060037	developmental disorder of mental health	393	17	2.7	4.43	0.00015	0.0088	3.1	1.71	5.29

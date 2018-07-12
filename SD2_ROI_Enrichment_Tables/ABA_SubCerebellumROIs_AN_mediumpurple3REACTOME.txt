@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6802952	Signaling by BRAF and RAF fusions	60	5	13	7.5	3.8e-05	0.0023	15.2	4.59	39.7
+R-HSA-6802957	Oncogenic MAPK signaling	76	5	10.3	6.52	0.00012	0.0036	11.8	3.58	30.3
+R-HSA-5663202	Diseases of signal transduction	359	9	3.92	4.52	0.00043	0.0087	4.49	1.93	9.25
+R-HSA-6802948	Signaling by high-kinase activity BRAF mutants	36	3	13	5.8	0.0015	0.018	14.8	2.82	49.1
+R-HSA-5674135	MAP2K and MAPK activation	40	3	11.7	5.46	0.0021	0.018	13.2	2.53	43.4
+R-HSA-6802946	Signaling by moderate kinase activity BRAF mutants	40	3	11.7	5.46	0.0021	0.018	13.2	2.53	43.4
+R-HSA-6802955	Paradoxical activation of RAF signaling by kinase inactive BRAF	40	3	11.7	5.46	0.0021	0.018	13.2	2.53	43.4
+R-HSA-5683057	MAPK family signaling cascades	288	7	3.8	3.87	0.0023	0.018	4.22	1.61	9.39
+R-HSA-392499	Metabolism of proteins	1907	22	1.8	3.13	0.0027	0.018	2.24	1.27	3.85
+R-HSA-1227986	Signaling by ERBB2	49	3	9.58	4.83	0.0037	0.02	10.6	2.05	34.4
+R-HSA-6802949	Signaling by RAS mutants	53	3	8.86	4.6	0.0046	0.02	9.73	1.89	31.5
+R-HSA-8848021	Signaling by PTK6	54	3	8.69	4.55	0.0049	0.02	9.54	1.85	30.8
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	3	8.69	4.55	0.0049	0.02	9.54	1.85	30.8
+R-HSA-5673001	RAF/MAP kinase cascade	243	6	3.86	3.62	0.0044	0.02	4.24	1.48	9.93
+R-HSA-5684996	MAPK1/MAPK3 signaling	249	6	3.77	3.55	0.005	0.02	4.13	1.44	9.68
+R-HSA-597592	Post-translational protein modification	1353	16	1.85	2.7	0.0096	0.037	2.15	1.13	3.86

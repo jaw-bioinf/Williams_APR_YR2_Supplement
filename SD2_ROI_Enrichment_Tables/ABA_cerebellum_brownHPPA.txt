@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002185	Neurofibrillary tangles	11	7	7.11	6.36	1e-05	0.014	18.2	4.59	84.9
+HP:0100314	Cerebral inclusion bodies	19	9	5.3	5.88	1.4e-05	0.014	9.39	3.35	25.9
+HP:0000751	Personality changes	49	14	3.19	4.85	5.9e-05	0.04	4.21	2.07	8.14
+HP:0000726	Dementia	140	27	2.16	4.37	7.7e-05	0.04	2.57	1.59	4.01
+HP:0001268	Mental deterioration	214	36	1.88	4.17	1e-04	0.043	2.19	1.46	3.23

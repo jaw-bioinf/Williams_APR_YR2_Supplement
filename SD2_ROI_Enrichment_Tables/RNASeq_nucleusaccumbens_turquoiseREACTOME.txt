@@ -1,0 +1,30 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-1912408 Pre-NOTCH Transcription and Translation 30 14 4.56 6.6 3.8e-07 0.00022 7.77 3.5 17
+R-HSA-418360 Platelet calcium homeostasis 27 13 4.71 6.51 6.3e-07 0.00022 8.24 3.56 19
+R-HSA-1912422 Pre-NOTCH Expression and Processing 32 14 4.28 6.27 1e-06 0.00023 6.91 3.17 14.7
+R-HSA-1368082 RORA activates gene expression 22 10 4.44 5.46 2.5e-05 0.0042 7.37 2.85 18.7
+R-HSA-3247509 Chromatin modifying enzymes 227 43 1.85 4.38 4.5e-05 0.0052 2.1 1.46 2.96
+R-HSA-4839726 Chromatin organization 227 43 1.85 4.38 4.5e-05 0.0052 2.1 1.46 2.96
+R-HSA-5578775 Ion homeostasis 54 16 2.9 4.72 6.3e-05 0.0054 3.74 1.94 6.89
+R-HSA-157118 Signaling by NOTCH 65 18 2.71 4.66 6e-05 0.0054 3.4 1.85 6
+R-HSA-418346 Platelet homeostasis 79 20 2.48 4.44 9.6e-05 0.0073 3.01 1.71 5.1
+R-HSA-418359 Reduction of cytosolic Ca++ levels 14 7 4.89 4.91 0.00021 0.014 8.83 2.64 29.6
+R-HSA-3000157 Laminin interactions 28 10 3.49 4.46 0.00028 0.016 4.91 2.02 11.3
+R-HSA-3906995 Diseases associated with O-glycosylation of proteins 66 17 2.52 4.18 0.00025 0.016 3.08 1.66 5.47
+R-HSA-381340 Transcriptional regulation of white adipocyte differentiation 67 17 2.48 4.11 0.00031 0.016 3.02 1.63 5.35
+R-HSA-392154 Nitric oxide stimulates guanylate cyclase 16 7 4.28 4.43 0.00057 0.024 6.87 2.17 20.8
+R-HSA-114508 Effects of PIP2 hydrolysis 25 9 3.52 4.26 0.00053 0.024 4.97 1.93 12
+R-HSA-446728 Cell junction organization 70 17 2.37 3.9 0.00053 0.024 2.85 1.54 5.02
+R-HSA-400253 Circadian Clock 36 11 2.99 4.03 0.00066 0.026 3.89 1.72 8.23
+R-HSA-139853 Elevation of cytosolic Ca2+ levels 13 6 4.51 4.28 0.001 0.029 7.56 2.09 26.3
+R-HSA-350054 Notch-HLH transcription pathway 13 6 4.51 4.28 0.001 0.029 7.56 2.09 26.3
+R-HSA-418457 cGMP effects 13 6 4.51 4.28 0.001 0.029 7.56 2.09 26.3
+R-HSA-445095 Interaction between L1 and Ankyrins 13 6 4.51 4.28 0.001 0.029 7.56 2.09 26.3
+R-HSA-8934593 Regulation of RUNX1 Expression and Activity 17 7 4.03 4.21 0.00089 0.029 6.18 1.99 18
+R-HSA-1296072 Voltage gated Potassium channels 43 12 2.73 3.83 0.00093 0.029 3.43 1.6 6.89
+R-HSA-2672351 Stimuli-sensing channels 107 22 2.01 3.55 0.001 0.029 2.3 1.36 3.73
+R-HSA-400206 Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha) 120 24 1.96 3.55 0.00095 0.029 2.22 1.35 3.53
+R-HSA-9013508 NOTCH3 Intracellular Domain Regulates Transcription 18 7 3.8 4.02 0.0013 0.035 5.62 1.84 15.9
+R-HSA-1989781 PPARA activates gene expression 117 23 1.92 3.39 0.0015 0.039 2.17 1.31 3.48
+R-HSA-983712 Ion channel transport 183 32 1.71 3.27 0.0017 0.041 1.89 1.24 2.8
+R-HSA-1500931 Cell-Cell communication 92 19 2.02 3.32 0.0021 0.05 2.31 1.31 3.89

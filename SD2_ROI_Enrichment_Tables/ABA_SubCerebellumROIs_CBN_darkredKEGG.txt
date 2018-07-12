@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04750	Inflammatory mediator regulation of TRP channels	97	5	7.13	5.19	0.00062	0.01	8.21	2.48	21.4
+path:hsa04933	AGE-RAGE signaling pathway in diabetic complications	99	4	5.59	3.93	0.0055	0.029	6.22	1.59	17.6
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	5	4.64	3.84	0.0042	0.029	5.21	1.59	13.4
+path:hsa05010	Alzheimer's disease	171	5	4.05	3.44	0.0075	0.03	4.5	1.37	11.5
+path:hsa04060	Cytokine-cytokine receptor interaction	270	6	3.08	2.97	0.012	0.04	3.43	1.18	8.2
+path:hsa04371	Apelin signaling pathway	137	4	4.04	3.07	0.017	0.045	4.42	1.14	12.4

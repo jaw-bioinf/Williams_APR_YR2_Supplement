@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69275	G2/M Transition	195	17	2.69	4.35	2e-04	0.017	2.95	1.66	4.93
+R-HSA-453274	Mitotic G2-G2/M phases	197	17	2.66	4.31	0.00023	0.017	2.91	1.64	4.88
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	23	2.29	4.21	0.00019	0.017	2.49	1.53	3.89
+R-HSA-68882	Mitotic Anaphase	202	17	2.59	4.19	0.00031	0.017	2.83	1.6	4.74
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	17	2.58	4.17	0.00032	0.017	2.82	1.59	4.71
+R-HSA-1640170	Cell Cycle	607	37	1.88	4.09	0.00015	0.017	2.05	1.4	2.94
+R-HSA-69278	Cell Cycle, Mitotic	531	33	1.91	3.97	0.00024	0.017	2.09	1.39	3.03
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	25	2.11	3.96	0.00034	0.017	2.29	1.44	3.51
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	72	9	3.85	4.45	5e-04	0.02	4.35	1.88	8.9
+R-HSA-2467813	Separation of Sister Chromatids	191	16	2.58	4.04	0.00048	0.02	2.81	1.55	4.77
+R-HSA-8951664	Neddylation	235	18	2.36	3.86	0.00064	0.023	2.56	1.47	4.21
+R-HSA-68886	M Phase	391	25	1.97	3.58	0.00093	0.031	2.12	1.33	3.25
+R-HSA-1280218	Adaptive Immune System	746	40	1.65	3.39	0.0011	0.034	1.79	1.24	2.52
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	67	8	3.68	4.03	0.0014	0.037	4.12	1.68	8.75
+R-HSA-392499	Metabolism of proteins	1907	84	1.36	3.17	0.0013	0.037	1.5	1.15	1.95
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	9	3.22	3.79	0.0018	0.041	3.55	1.55	7.19
+R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	86	9	3.22	3.79	0.0018	0.041	3.55	1.55	7.19
+R-HSA-453276	Regulation of mitotic cell cycle	86	9	3.22	3.79	0.0018	0.041	3.55	1.55	7.19

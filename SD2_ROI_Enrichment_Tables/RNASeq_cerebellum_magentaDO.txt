@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:150	disease of mental health	1255	99	1.56	5.05	1.2e-06	0.00049	1.84	1.43	2.36
+DOID:1561	cognitive disorder	812	70	1.7	4.93	3.3e-06	0.00071	1.96	1.47	2.59
+DOID:2468	psychotic disorder	637	57	1.77	4.7	1.1e-05	0.0015	2.01	1.47	2.71
+DOID:9974	drug dependence	40	10	4.94	5.77	2.1e-05	0.0017	6.41	2.77	13.6
+DOID:9973	substance dependence	265	30	2.24	4.74	2.4e-05	0.0017	2.53	1.64	3.77
+DOID:5419	schizophrenia	635	56	1.74	4.54	2e-05	0.0017	1.97	1.43	2.66
+DOID:303	substance-related disorder	286	30	2.07	4.28	1e-04	0.0063	2.31	1.5	3.45
+DOID:594	panic disorder	36	8	4.39	4.71	0.00034	0.018	5.46	2.14	12.4
+DOID:2559	opiate dependence	15	5	6.59	5	0.00063	0.03	9.5	2.53	30.7
+DOID:9975	cocaine dependence	16	5	6.18	4.79	0.00088	0.038	8.64	2.34	27.1
+DOID:205	hyperostosis	24	6	4.94	4.47	0.00099	0.038	6.35	2.05	16.8
+DOID:0060084	cell type benign neoplasm	502	41	1.62	3.3	0.0014	0.048	1.76	1.22	2.48

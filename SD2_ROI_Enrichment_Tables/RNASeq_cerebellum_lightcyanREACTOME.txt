@@ -1,0 +1,34 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-9013508 NOTCH3 Intracellular Domain Regulates Transcription 18 5 36.1 13.1 1.9e-07 1.2e-05 52.9 14.4 163
+R-HSA-9012852 Signaling by NOTCH3 37 6 21.1 10.8 3.3e-07 1.2e-05 26.9 8.91 68.3
+R-HSA-350054 Notch-HLH transcription pathway 13 4 40 12.4 2.2e-06 5.3e-05 60.3 13.2 223
+R-HSA-8941856 RUNX3 regulates NOTCH signaling 14 4 37.2 11.9 3.1e-06 5.5e-05 54.2 12.1 193
+R-HSA-157118 Signaling by NOTCH 65 6 12 7.83 9.8e-06 0.00014 14.1 4.83 34.2
+R-HSA-1912408 Pre-NOTCH Transcription and Translation 30 4 17.3 7.89 7.6e-05 0.00048 20.9 5.16 62.3
+R-HSA-2644602 Signaling by NOTCH1 PEST Domain Mutants in Cancer 58 5 11.2 6.86 7.9e-05 0.00048 12.9 3.92 33.5
+R-HSA-2644603 Signaling by NOTCH1 in Cancer 58 5 11.2 6.86 7.9e-05 0.00048 12.9 3.92 33.5
+R-HSA-2644606 Constitutive Signaling by NOTCH1 PEST Domain Mutants 58 5 11.2 6.86 7.9e-05 0.00048 12.9 3.92 33.5
+R-HSA-2894858 Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer 58 5 11.2 6.86 7.9e-05 0.00048 12.9 3.92 33.5
+R-HSA-2894862 Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants 58 5 11.2 6.86 7.9e-05 0.00048 12.9 3.92 33.5
+R-HSA-194840 Rho GTPase cycle 138 7 6.6 5.83 8.7e-05 0.00048 7.48 2.85 16.7
+R-HSA-5663202 Diseases of signal transduction 359 11 3.98 5.07 8.6e-05 0.00048 4.59 2.17 8.86
+R-HSA-1912422 Pre-NOTCH Expression and Processing 32 4 16.3 7.61 9.9e-05 0.00051 19.4 4.81 57.4
+R-HSA-2122947 NOTCH1 Intracellular Domain Regulates Transcription 13 3 30 9.21 0.00012 0.00057 40.1 6.96 160
+R-HSA-1839117 Signaling by cytosolic FGFR1 fusion mutants 18 3 21.7 7.73 0.00033 0.0015 26.7 4.86 97.5
+R-HSA-1980143 Signaling by NOTCH1 22 3 17.7 6.92 0.00061 0.0026 21.1 3.92 74
+R-HSA-8878159 Transcriptional regulation by RUNX3 108 5 6.02 4.62 0.0014 0.0057 6.63 2.05 16.7
+R-HSA-1839124 FGFR1 mutant receptor activation 31 3 12.6 5.69 0.0017 0.0064 14.3 2.73 48
+R-HSA-5655302 Signaling by FGFR1 in disease 38 3 10.3 5.04 0.003 0.01 11.5 2.21 37.6
+R-HSA-1643685 Disease 984 16 2.11 3.24 0.0029 0.01 2.43 1.3 4.29
+R-HSA-416482 G alpha (12/13) signalling events 87 4 5.98 4.11 0.0044 0.015 6.5 1.69 18
+R-HSA-1226099 Signaling by FGFR in disease 47 3 8.3 4.42 0.0056 0.017 9.11 1.77 29.4
+R-HSA-1500931 Cell-Cell communication 92 4 5.65 3.95 0.0054 0.017 6.13 1.59 16.9
+R-HSA-194315 Signaling by Rho GTPases 441 9 2.65 3.13 0.0065 0.019 2.91 1.27 5.91
+R-HSA-373755 Semaphorin interactions 52 3 7.5 4.14 0.0074 0.02 8.17 1.59 26.3
+R-HSA-193648 NRAGE signals death through JNK 55 3 7.09 3.99 0.0086 0.023 7.7 1.5 24.7
+R-HSA-3906995 Diseases associated with O-glycosylation of proteins 66 3 5.91 3.52 0.014 0.036 6.35 1.25 20.1
+R-HSA-204998 Cell death signalling via NRAGE, NRIF and NADE 74 3 5.27 3.25 0.019 0.048 5.63 1.11 17.8
+R-HSA-6802957 Oncogenic MAPK signaling 76 3 5.13 3.18 0.021 0.048 5.48 1.08 17.3
+R-HSA-3781865 Diseases of glycosylation 135 4 3.85 2.94 0.02 0.048 4.1 1.07 11.2
+R-HSA-3214858 RMTs methylate histone arginines 79 3 4.94 3.09 0.023 0.05 5.26 1.04 16.6
+R-HSA-6806834 Signaling by MET 79 3 4.94 3.09 0.023 0.05 5.26 1.04 16.6

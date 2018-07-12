@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05133	Pertussis	76	3	12.5	5.67	0.0016	0.0082	14.9	2.76	52.7
+path:hsa04550	Signaling pathways regulating pluripotency of stem cells	139	3	6.83	3.91	0.009	0.023	7.94	1.48	27.7
+path:hsa05152	Tuberculosis	178	3	5.33	3.3	0.018	0.029	6.14	1.15	21.3
+path:hsa05205	Proteoglycans in cancer	203	3	4.68	2.99	0.025	0.031	5.35	1	18.5

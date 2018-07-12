@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0006309	decreased retinal ganglion cell number	41	5	16.6	8.62	1.1e-05	0.0065	20.2	5.99	54
+MP:0000597	delayed hepatic development	13	3	31.5	9.45	1e-04	0.016	42.3	7.32	169
+MP:0003052	omphalocele	61	5	11.2	6.86	7.9e-05	0.016	13	3.92	33.7
+MP:0002882	abnormal neuron morphology	1515	24	2.16	4.25	0.00011	0.016	2.82	1.64	4.76
+MP:0001436	abnormal suckling behavior	122	6	6.71	5.46	0.00026	0.023	7.58	2.63	18
+MP:0005241	abnormal retinal ganglion layer morphology	124	6	6.6	5.4	0.00028	0.023	7.45	2.58	17.6
+MP:0000783	abnormal forebrain morphology	1011	18	2.43	4.14	0.00026	0.023	2.98	1.63	5.22
+MP:0006303	abnormal retinal nerve fiber layer morphology	19	3	21.5	7.7	0.00034	0.025	26.4	4.83	95.8
+MP:0008056	abnormal retinal ganglion cell morphology	93	5	7.34	5.28	0.00058	0.037	8.22	2.52	20.9
+MP:0003257	abnormal abdominal wall morphology	95	5	7.18	5.2	0.00063	0.037	8.04	2.46	20.5
+MP:0000596	abnormal liver development	56	4	9.75	5.64	0.00073	0.039	11	2.81	31.2

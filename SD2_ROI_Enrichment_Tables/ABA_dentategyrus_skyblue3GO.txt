@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00595	148	99	7	0.071	0.047	GO:0050817	BP	3	coagulation	1	SCARA5,KNG1,F2,PROZ,RAB27A,F13A1,PIK3CD
+2	1	TRUE	0.00595	248	99	9	0.091	0.036	GO:0050878	BP	3	regulation of body fluid levels	1	SCARA5,KNG1,F2,PROZ,RAB27A,F13A1,PIK3CD,ADORA1,FOXB1
+3	1	TRUE	0.00595	147	99	7	0.071	0.048	GO:0007599	BP	3	hemostasis	2	SCARA5,KNG1,F2,PROZ,RAB27A,F13A1,PIK3CD
+4	1	TRUE	0.00595	145	99	7	0.071	0.048	GO:0007596	BP	3	blood coagulation	3	SCARA5,KNG1,F2,PROZ,RAB27A,F13A1,PIK3CD
+5	1	TRUE	0.0194	4	4	1	0.25	0.25	CORUM:2194	cor	6	Ubiquitin E3 ligase (Fbxo2, Skp1a, Cul1, Rbx1)	1	FBXO2
+6	1	TRUE	0.013	2	4	1	0.25	0.5	CORUM:109	cor	10	Fertilin complex (Adam1b, Adam2)	1	ADAM1B
+7	1	TRUE	0.013	2	4	1	0.25	0.5	CORUM:966	cor	4	Rab27a-Mlph-Myo5a complex	1	RAB27A
+8	1	TRUE	0.013	2	4	1	0.25	0.5	CORUM:1310	cor	2	Rab27a-Mlph-Myo5a complex	1	RAB27A
+9	1	TRUE	0.0167	3	4	1	0.25	0.333	CORUM:6227	cor	7	S4-synectin-RhoGDI1 complex	1	RHOG
+10	1	TRUE	0.013	2	4	1	0.25	0.5	CORUM:6201	cor	5	Dock3-Elmo-RhoG complex	1	RHOG
+11	1	TRUE	0.013	2	4	1	0.25	0.5	CORUM:3741	cor	1	Slp5-Rab27A complex	1	RAB27A
+12	1	TRUE	0.013	2	4	1	0.25	0.5	CORUM:3116	cor	8	Rab27a-Mlph-Myo5a complex	1	RAB27A

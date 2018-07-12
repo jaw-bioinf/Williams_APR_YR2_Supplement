@@ -1,0 +1,19 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0189	27	43	3	0.07	0.111	GO:0022617	BP	2	extracellular matrix disassembly	1	FAP,DPP4,PLG
+2	1	TRUE	0.0193	6	43	2	0.047	0.333	GO:1903054	BP	2	negative regulation of extracellular matrix organization	1	FAP,DPP4
+3	1	TRUE	0.00648	2	43	2	0.047	1	GO:0010716	BP	2	negative regulation of extracellular matrix disassembly	2	FAP,DPP4
+4	1	TRUE	0.0193	5	43	2	0.047	0.4	GO:0071438	CC	4	invadopodium membrane	1	FAP,DPP4
+5	1	TRUE	0.0193	6	43	2	0.047	0.333	GO:0008239	MF	8	dipeptidyl-peptidase activity	1	FAP,DPP4
+6	1	TRUE	0.0283	1	5	1	0.2	1	CORUM:3569	cor	5	Angiomotin isoform p80-Angiostatin complex	1	PLG
+7	1	TRUE	0.0283	3	5	1	0.2	0.333	CORUM:5883	cor	1	Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	RAF1
+8	1	TRUE	0.0301	4	5	1	0.2	0.25	CORUM:5882	cor	10	Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	RAF1
+9	1	TRUE	0.0283	3	5	1	0.2	0.333	CORUM:5145	cor	14	p19-Cdk4-cyclinD2 complex	1	CCND2
+10	1	TRUE	0.0283	2	5	1	0.2	0.5	CORUM:3457	cor	12	B23-NPM3 complex	1	NPM3
+11	1	TRUE	0.0436	7	5	1	0.2	0.143	CORUM:6669	cor	7	B9 complex	1	TMEM231
+12	1	TRUE	0.037	28	19	2	0.105	0.071	REAC:R-MMU-109606	rea	9	Intrinsic Pathway for Apoptosis	1	YWHAE,SFN
+13	1	TRUE	0.0234	18	19	2	0.105	0.111	REAC:R-MMU-114452	rea	9	Activation of BH3-only proteins	2	YWHAE,SFN
+14	1	TRUE	0.0154	12	19	2	0.105	0.167	REAC:R-MMU-111447	rea	9	Activation of BAD and translocation to mitochondria 	3	YWHAE,SFN
+15	1	TRUE	0.0154	9	19	2	0.105	0.222	REAC:R-MMU-1445148	rea	11	Translocation of GLUT4 to the plasma membrane	1	YWHAE,SFN
+16	1	TRUE	0.0234	216	19	4	0.211	0.019	REAC:R-MMU-112315	rea	6	Transmission across Chemical Synapses	1	RAF1,PPFIA1,SLC22A2,GNG5
+17	1	TRUE	0.0234	20	19	2	0.105	0.1	REAC:R-MMU-181430	rea	3	Norepinephrine Neurotransmitter Release Cycle	1	PPFIA1,SLC22A2
+18	1	TRUE	0.0154	12	19	2	0.105	0.167	REAC:R-MMU-75035	rea	13	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	1	YWHAE,SFN

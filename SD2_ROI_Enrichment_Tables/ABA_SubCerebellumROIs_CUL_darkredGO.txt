@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:5706	cor	7	Cdc2-Ccnb1 complex	1	CDK1
+2	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:1782	cor	1	TGF-beta receptor	1	TGFBR1
+3	1	TRUE	0.0412	4	6	1	0.167	0.25	CORUM:968	cor	6	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPP4
+4	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:6205	cor	5	Dkk1-Lrp6-Kremen2 complex	1	DKK1
+5	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:5547	cor	8	Cdc2-Ccnb1 complex	1	CDK1
+6	1	TRUE	0.0409	15	76	3	0.039	0.2	REAC:R-MMU-418038	rea	3	Nucleotide-like (purinergic) receptors	1	ADORA3,P2RY6,P2RY10
+7	1	TRUE	0.0409	36	76	4	0.053	0.111	REAC:R-MMU-5365859	rea	2	RA biosynthesis pathway	1	ALDH1A2,ALDH1A3,AKR1C13,DHRS3

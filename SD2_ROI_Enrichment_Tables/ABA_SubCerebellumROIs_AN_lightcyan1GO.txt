@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0386	2	6	1	0.167	0.5	CORUM:1109	cor	4	DNA polymerase alpha	1	POLA1
+2	1	TRUE	0.0386	2	6	1	0.167	0.5	CORUM:5952	cor	10	Mp1-p14 scaffolding complex	1	LAMTOR2
+3	1	TRUE	0.0386	2	6	1	0.167	0.5	CORUM:3741	cor	1	Slp5-Rab27A complex	1	SYTL5
+4	1	TRUE	0.0386	4	6	1	0.167	0.25	CORUM:5227	cor	7	p14-Mp1-Erk1/2 complex	1	LAMTOR2
+5	1	TRUE	0.0386	4	6	1	0.167	0.25	CORUM:47	cor	8	DNA polymerase alpha-primase complex	1	POLA1
+6	1	TRUE	0.0386	3	6	1	0.167	0.333	CORUM:5948	cor	9	p18-p14-Mp1 complex	1	LAMTOR2
+7	1	TRUE	0.0386	4	6	1	0.167	0.25	CORUM:1110	cor	5	DNA polymerase alpha-primase complex	1	POLA1
+8	1	TRUE	0.0428	5	6	1	0.167	0.2	CORUM:128	cor	2	ORC complex (origin recognition complex)	1	ORC2
+9	1	TRUE	0.0386	2	6	1	0.167	0.5	CORUM:5791	cor	3	PlexinA1-PlexinB1 complex	1	PLXNB1

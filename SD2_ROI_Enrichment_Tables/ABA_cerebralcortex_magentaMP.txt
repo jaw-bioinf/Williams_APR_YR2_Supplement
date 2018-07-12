@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003635	abnormal synaptic transmission	740	21	2.74	5.05	1.6e-05	0.01	3.3	1.92	5.44
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	7	6.51	5.77	9.5e-05	0.017	7.36	2.8	16.4
+MP:0002910	abnormal excitatory postsynaptic currents	139	8	5.56	5.54	9.1e-05	0.017	6.28	2.58	13.3
+MP:0002206	abnormal CNS synaptic transmission	653	18	2.66	4.51	0.00011	0.017	3.11	1.74	5.28
+MP:0002063	abnormal learning/memory/conditioning	664	17	2.47	4.03	0.00041	0.044	2.84	1.57	4.87
+MP:0014114	abnormal cognition	665	17	2.47	4.02	0.00042	0.044	2.83	1.56	4.87

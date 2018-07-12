@@ -1,0 +1,12 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04072 Phospholipase D signaling pathway 145 4 8.73 5.3 0.00098 0.007 10.8 2.61 33.7
+path:hsa04070 Phosphatidylinositol signaling system 97 3 9.78 4.91 0.0033 0.007 11.6 2.15 40.5
+path:hsa04915 Estrogen signaling pathway 98 3 9.69 4.88 0.0034 0.007 11.4 2.12 40.2
+path:hsa05231 Choline metabolism in cancer 99 3 9.59 4.85 0.0035 0.007 11.3 2.1 39.7
+path:hsa05142 Chagas disease (American trypanosomiasis) 102 3 9.31 4.76 0.0038 0.007 11 2.04 38.5
+path:hsa04024 cAMP signaling pathway 198 4 6.39 4.34 0.0031 0.007 7.79 1.89 24.2
+path:hsa04919 Thyroid hormone signaling pathway 116 3 8.18 4.39 0.0055 0.0083 9.59 1.78 33.5
+path:hsa04152 AMPK signaling pathway 120 3 7.91 4.3 0.006 0.0083 9.26 1.72 32.3
+path:hsa04140 Autophagy - animal 128 3 7.42 4.13 0.0072 0.0088 8.66 1.61 30.2
+path:hsa04810 Regulation of actin cytoskeleton 212 3 4.48 2.9 0.028 0.031 5.11 0.957 17.7
+path:hsa04144 Endocytosis 260 3 3.65 2.45 0.047 0.047 4.13 0.774 14.3

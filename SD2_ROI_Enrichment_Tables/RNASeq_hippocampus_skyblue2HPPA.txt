@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0004279	Short palm	99	3	17.7	6.99	0.00041	0.033	35.3	4.67	267
+HP:0001999	Abnormal facial shape	631	5	4.64	4.17	0.00095	0.033	23	2.56	1080
+HP:0001249	Intellectual disability	1135	6	3.09	3.55	0.0011	0.033	Inf	2.47	Inf

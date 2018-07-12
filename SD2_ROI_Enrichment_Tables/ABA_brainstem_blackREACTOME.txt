@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6794361	Neurexins and neuroligins	34	4	33.7	11.3	5.4e-06	0.00015	42.7	10.3	132
+R-HSA-6794362	Protein-protein interactions at synapses	70	4	16.3	7.63	9.7e-05	0.0013	19.3	4.83	57
+R-HSA-112316	Neuronal System	356	7	5.63	5.26	0.00019	0.0017	6.89	2.52	16.3
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	95	3	9.03	4.66	0.0043	0.029	10.1	1.94	33.1
+R-HSA-194138	Signaling by VEGF	103	3	8.33	4.43	0.0054	0.029	9.25	1.78	30.3
+R-HSA-112315	Transmission across Chemical Synapses	224	4	5.11	3.68	0.0074	0.033	5.72	1.45	16.4

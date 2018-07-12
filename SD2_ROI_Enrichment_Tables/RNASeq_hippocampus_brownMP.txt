@@ -1,0 +1,441 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002444	abnormal T cell physiology	665	86	2.19	7.98	1.3e-12	1.8e-09	2.62	2.03	3.36
+MP:0002019	abnormal tumor incidence	805	98	2.06	7.89	1.2e-12	1.8e-09	2.47	1.94	3.13
+MP:0002166	altered tumor susceptibility	819	98	2.03	7.7	3.3e-12	2.1e-09	2.42	1.9	3.06
+MP:0008037	abnormal T cell morphology	980	111	1.92	7.61	3.3e-12	2.1e-09	2.3	1.83	2.87
+MP:0003945	abnormal lymphocyte physiology	1033	115	1.89	7.56	3.8e-12	2.1e-09	2.26	1.8	2.82
+MP:0002020	increased tumor incidence	706	87	2.09	7.52	1.4e-11	6.3e-09	2.47	1.92	3.16
+MP:0008077	abnormal CD8-positive, alpha-beta T cell number	386	58	2.54	7.76	2.4e-11	7.3e-09	3.03	2.22	4.08
+MP:0010273	increased classified tumor incidence	571	75	2.22	7.56	2.1e-11	7.3e-09	2.63	2	3.43
+MP:0002006	neoplasm	897	102	1.93	7.31	2.5e-11	7.3e-09	2.28	1.8	2.87
+MP:0020188	abnormal classified tumor incidence	578	75	2.2	7.45	3.8e-11	1e-08	2.59	1.97	3.37
+MP:0013152	abnormal organ/body region tumor incidence	622	78	2.12	7.27	8.1e-11	2e-08	2.5	1.91	3.23
+MP:0002401	abnormal lymphopoiesis	637	79	2.1	7.21	1e-10	2.3e-08	2.47	1.89	3.19
+MP:0002619	abnormal lymphocyte morphology	1368	136	1.68	6.86	1.1e-10	2.3e-08	2.01	1.63	2.47
+MP:0010274	increased organ/body region tumor incidence	606	76	2.12	7.17	1.5e-10	2.5e-08	2.49	1.9	3.23
+MP:0006387	abnormal T cell number	911	101	1.88	6.98	1.4e-10	2.5e-08	2.21	1.74	2.78
+MP:0002442	abnormal leukocyte physiology	1401	138	1.67	6.8	1.5e-10	2.5e-08	1.99	1.61	2.44
+MP:0012382	abnormal blood cell physiology	1515	146	1.63	6.73	1.8e-10	2.8e-08	1.95	1.59	2.39
+MP:0005010	abnormal CD8-positive, alpha beta T cell morphology	417	59	2.4	7.31	2e-10	2.9e-08	2.82	2.07	3.79
+MP:0002421	abnormal cell-mediated immunity	1439	140	1.65	6.69	2.5e-10	3.5e-08	1.96	1.59	2.41
+MP:0002435	abnormal effector T cell morphology	710	84	2	6.97	2.8e-10	3.7e-08	2.34	1.81	3.01
+MP:0002420	abnormal adaptive immunity	1459	141	1.64	6.63	3.4e-10	4.3e-08	1.95	1.58	2.39
+MP:0001545	abnormal hematopoietic system physiology	1616	152	1.59	6.57	3.9e-10	4.8e-08	1.91	1.56	2.32
+MP:0013693	abnormal hemopoiesis	973	104	1.81	6.69	5.9e-10	6.6e-08	2.12	1.68	2.66
+MP:0001819	abnormal immune cell physiology	1428	138	1.64	6.55	5.7e-10	6.6e-08	1.94	1.57	2.38
+MP:0012762	abnormal alpha-beta T cell morphology	753	86	1.93	6.7	9.9e-10	1.1e-07	2.25	1.74	2.88
+MP:0002123	abnormal definitive hematopoiesis	946	101	1.81	6.57	1.2e-09	1.2e-07	2.11	1.66	2.65
+MP:0002145	abnormal T cell differentiation	428	58	2.29	6.87	1.5e-09	1.5e-07	2.67	1.96	3.59
+MP:0005013	increased lymphocyte cell number	744	84	1.91	6.5	2.8e-09	2.7e-07	2.21	1.71	2.84
+MP:0000717	abnormal lymphocyte cell number	1270	124	1.65	6.28	3.1e-09	2.8e-07	1.94	1.56	2.39
+MP:0005460	abnormal leukopoiesis	737	83	1.91	6.43	4e-09	3.5e-07	2.2	1.7	2.83
+MP:0005016	decreased lymphocyte cell number	1006	104	1.75	6.32	3.9e-09	3.5e-07	2.03	1.61	2.55
+MP:0005015	increased T cell number	509	64	2.13	6.56	4.4e-09	3.7e-07	2.46	1.83	3.26
+MP:0005018	decreased T cell number	707	80	1.92	6.35	6.5e-09	5.2e-07	2.21	1.7	2.85
+MP:0012763	abnormal alpha-beta T cell number	595	70	1.99	6.27	1.3e-08	1e-06	2.29	1.73	3
+MP:0010288	increased gland tumor incidence	280	42	2.54	6.55	1.7e-08	1.3e-06	2.96	2.06	4.18
+MP:0008247	abnormal mononuclear cell morphology	1680	150	1.51	5.81	2.2e-08	1.7e-06	1.77	1.45	2.16
+MP:0008762	embryonic lethality	1763	155	1.49	5.71	3.4e-08	2.4e-06	1.75	1.43	2.13
+MP:0002432	abnormal CD4-positive, alpha beta T cell morphology	504	61	2.05	6.07	4.5e-08	3e-06	2.34	1.74	3.12
+MP:0002429	abnormal blood cell morphology/development	1106	108	1.65	5.8	4.3e-08	3e-06	1.9	1.51	2.38
+MP:0013657	abnormal blood cell morphology	1813	158	1.48	5.66	4.3e-08	3e-06	1.73	1.42	2.11
+MP:0002723	abnormal immune serum protein physiology	1067	105	1.67	5.8	4.7e-08	3.1e-06	1.91	1.52	2.4
+MP:0002018	increased malignant tumor incidence	378	50	2.24	6.17	4.9e-08	3.2e-06	2.57	1.84	3.52
+MP:0000217	abnormal leukocyte cell number	1718	151	1.49	5.62	5.7e-08	3.5e-06	1.74	1.42	2.12
+MP:0008246	abnormal leukocyte morphology	1929	165	1.45	5.54	7e-08	4.2e-06	1.7	1.4	2.06
+MP:0000221	decreased leukocyte cell number	1275	119	1.58	5.59	9.7e-08	5.8e-06	1.82	1.46	2.25
+MP:0004939	abnormal B cell morphology	677	74	1.85	5.76	1.1e-07	6.4e-06	2.1	1.6	2.73
+MP:0008698	abnormal interleukin-4 secretion	140	26	3.14	6.41	1.4e-07	8e-06	3.76	2.34	5.86
+MP:0000716	abnormal immune system cell morphology	1949	165	1.43	5.39	1.4e-07	8e-06	1.68	1.38	2.03
+MP:0012765	decreased alpha-beta T cell number	392	50	2.16	5.88	1.6e-07	8.7e-06	2.46	1.77	3.37
+MP:0000218	increased leukocyte cell number	1080	104	1.63	5.52	1.7e-07	9e-06	1.86	1.47	2.33
+MP:0011180	abnormal hematopoietic cell number	1969	166	1.43	5.35	1.7e-07	9.1e-06	1.67	1.37	2.02
+MP:0008073	abnormal CD4-positive, alpha beta T cell number	440	54	2.08	5.8	1.8e-07	9.2e-06	2.36	1.72	3.2
+MP:0003009	abnormal cytokine secretion	661	72	1.84	5.64	1.9e-07	9.7e-06	2.09	1.59	2.72
+MP:0010296	increased hemolymphoid system tumor incidence	294	41	2.36	5.94	2e-07	9.9e-06	2.71	1.88	3.83
+MP:0002459	abnormal B cell physiology	638	70	1.86	5.62	2.2e-07	1.1e-05	2.1	1.59	2.75
+MP:0008078	increased CD8-positive, alpha-beta T cell number	163	28	2.91	6.16	2.6e-07	1.3e-05	3.43	2.17	5.24
+MP:0004196	abnormal prenatal growth/weight/body size	1147	108	1.59	5.39	2.9e-07	1.4e-05	1.82	1.44	2.27
+MP:0008079	decreased CD8-positive, alpha-beta T cell number	278	39	2.38	5.83	3.4e-07	1.6e-05	2.72	1.87	3.88
+MP:0014134	abnormal embryo morphology	1333	121	1.54	5.31	3.5e-07	1.6e-05	1.76	1.41	2.18
+MP:0011182	decreased hematopoietic cell number	1508	133	1.49	5.24	4e-07	1.8e-05	1.71	1.39	2.11
+MP:0001533	abnormal skeleton physiology	649	70	1.83	5.47	4.2e-07	1.9e-05	2.06	1.56	2.7
+MP:0002088	abnormal embryonic growth/weight/body size	966	94	1.65	5.33	4.7e-07	2e-05	1.87	1.46	2.36
+MP:0008000	increased ovary tumor incidence	56	15	4.54	6.65	5.2e-07	2.2e-05	5.96	3.05	11.1
+MP:0008699	increased interleukin-4 secretion	71	17	4.05	6.47	5.3e-07	2.2e-05	5.14	2.77	9.08
+MP:0000352	decreased cell proliferation	515	59	1.94	5.5	5.1e-07	2.2e-05	2.19	1.62	2.92
+MP:0004392	abnormal CD8-positive, alpha-beta T cell physiology	114	22	3.27	6.1	6.7e-07	2.7e-05	3.93	2.33	6.37
+MP:0001672	abnormal embryo development	1018	97	1.61	5.2	7.9e-07	3.1e-05	1.82	1.43	2.3
+MP:0005348	increased T cell proliferation	143	25	2.96	5.92	8.2e-07	3.2e-05	3.49	2.15	5.46
+MP:0000313	abnormal cell death	1427	126	1.5	5.09	8.6e-07	3.3e-05	1.71	1.37	2.1
+MP:0005463	abnormal CD4-positive, alpha-beta T cell physiology	173	28	2.74	5.79	9.3e-07	3.5e-05	3.19	2.03	4.86
+MP:0005094	abnormal T cell proliferation	345	44	2.16	5.5	9.1e-07	3.5e-05	2.44	1.72	3.41
+MP:0002339	abnormal lymph node morphology	392	48	2.07	5.44	9.6e-07	3.5e-05	2.34	1.67	3.22
+MP:0008171	abnormal mature B cell morphology	612	66	1.83	5.3	9.4e-07	3.5e-05	2.05	1.54	2.7
+MP:0003077	abnormal cell cycle	301	40	2.25	5.52	1e-06	3.7e-05	2.55	1.76	3.62
+MP:0008195	abnormal professional antigen presenting cell morphology	998	95	1.61	5.13	1.1e-06	3.9e-05	1.82	1.43	2.3
+MP:0001828	abnormal T cell activation	384	47	2.07	5.38	1.3e-06	4.4e-05	2.34	1.66	3.22
+MP:0008568	abnormal interleukin secretion	492	56	1.93	5.29	1.3e-06	4.4e-05	2.17	1.59	2.91
+MP:0010297	increased hepatobiliary system tumor incidence	137	24	2.97	5.81	1.3e-06	4.5e-05	3.49	2.13	5.52
+MP:0002144	abnormal B cell differentiation	339	43	2.15	5.39	1.4e-06	4.8e-05	2.43	1.7	3.4
+MP:0002038	increased carcinoma incidence	306	40	2.21	5.41	1.6e-06	5.2e-05	2.51	1.73	3.55
+MP:0002458	abnormal B cell number	609	65	1.81	5.16	1.7e-06	5.4e-05	2.03	1.52	2.67
+MP:0005380	embryo phenotype	1722	145	1.43	4.9	1.6e-06	5.4e-05	1.63	1.33	1.99
+MP:0011181	increased hematopoietic cell number	1247	112	1.52	4.95	1.8e-06	5.9e-05	1.72	1.37	2.14
+MP:0002409	decreased susceptibility to infection	180	28	2.63	5.55	2.1e-06	6.7e-05	3.04	1.94	4.62
+MP:0002722	abnormal immune system organ morphology	1323	117	1.5	4.89	2.2e-06	7e-05	1.69	1.36	2.1
+MP:0012431	increased lymphoma incidence	245	34	2.35	5.36	2.5e-06	7.9e-05	2.67	1.78	3.9
+MP:0001829	increased activated T cell number	41	12	4.96	6.36	2.6e-06	8e-05	6.71	3.1	13.7
+MP:0002452	abnormal professional antigen presenting cell physiology	967	91	1.59	4.88	3.2e-06	9.6e-05	1.79	1.39	2.27
+MP:0004946	abnormal regulatory T cell physiology	42	12	4.84	6.25	3.4e-06	1e-04	6.49	3.01	13.1
+MP:0008019	increased liver tumor incidence	135	23	2.88	5.53	3.6e-06	0.00011	3.37	2.04	5.37
+MP:0001793	altered susceptibility to infection	534	58	1.84	5	3.7e-06	0.00011	2.05	1.51	2.75
+MP:0010866	abnormal prenatal body size	862	83	1.63	4.87	3.8e-06	0.00011	1.82	1.41	2.33
+MP:0010383	increased adenoma incidence	179	27	2.55	5.26	5.8e-06	0.00016	2.92	1.85	4.47
+MP:0008075	decreased CD4-positive, alpha beta T cell number	299	38	2.15	5.07	5.6e-06	0.00016	2.42	1.65	3.45
+MP:0000350	abnormal cell proliferation	966	90	1.58	4.75	5.5e-06	0.00016	1.76	1.37	2.24
+MP:0005432	abnormal pro-B cell morphology	111	20	3.05	5.45	6.5e-06	0.00017	3.6	2.08	5.94
+MP:0002032	increased sarcoma incidence	139	23	2.8	5.36	6e-06	0.00017	3.25	1.97	5.17
+MP:0020189	abnormal adenoma incidence	180	27	2.54	5.23	6.4e-06	0.00017	2.9	1.84	4.44
+MP:0020174	abnormal IgG level	407	47	1.96	4.94	6.4e-06	0.00017	2.18	1.55	3.01
+MP:0001698	decreased embryo size	608	63	1.75	4.82	6.5e-06	0.00017	1.95	1.46	2.58
+MP:0002024	increased T cell derived lymphoma incidence	102	19	3.15	5.48	6.6e-06	0.00018	3.74	2.13	6.27
+MP:0002407	abnormal double-negative T cell morphology	181	27	2.53	5.19	7.2e-06	0.00019	2.89	1.82	4.41
+MP:0005025	abnormal response to infection	572	60	1.78	4.8	7.5e-06	0.00019	1.97	1.46	2.63
+MP:0010365	increased thymus tumor incidence	103	19	3.12	5.43	7.7e-06	2e-04	3.7	2.1	6.19
+MP:0001697	abnormal embryo size	709	70	1.67	4.66	1e-05	0.00026	1.85	1.4	2.42
+MP:0010639	altered tumor pathology	284	36	2.15	4.92	1.1e-05	0.00027	2.4	1.63	3.47
+MP:0006207	embryonic lethality during organogenesis	942	87	1.56	4.57	1.1e-05	0.00029	1.74	1.35	2.22
+MP:0005090	increased double-negative T cell number	117	20	2.89	5.17	1.5e-05	0.00036	3.37	1.96	5.55
+MP:0009590	increased gonad tumor incidence	72	15	3.53	5.39	1.5e-05	0.00037	4.28	2.24	7.73
+MP:0020175	abnormal IgG1 level	232	31	2.26	4.88	1.5e-05	0.00037	2.54	1.67	3.77
+MP:0010300	increased skin tumor incidence	90	17	3.2	5.25	1.7e-05	4e-04	3.8	2.08	6.56
+MP:0003331	increased hepatocellular carcinoma incidence	90	17	3.2	5.25	1.7e-05	4e-04	3.8	2.08	6.56
+MP:0006412	abnormal T cell apoptosis	148	23	2.63	5.01	1.7e-05	0.00041	3.02	1.83	4.78
+MP:0012764	increased alpha-beta T cell number	269	34	2.14	4.75	2e-05	0.00046	2.39	1.6	3.48
+MP:0002085	abnormal embryonic tissue morphology	987	89	1.53	4.39	2.3e-05	0.00053	1.69	1.32	2.15
+MP:0003579	increased ovarian carcinoma incidence	17	7	6.97	6.17	2.8e-05	0.00063	11.3	3.63	33
+MP:0008555	abnormal interferon secretion	320	38	2.01	4.61	2.7e-05	0.00063	2.23	1.53	3.18
+MP:0005017	decreased B cell number	468	50	1.81	4.5	2.8e-05	0.00063	2	1.44	2.72
+MP:0002490	abnormal immunoglobulin level	519	54	1.76	4.47	2.8e-05	0.00063	1.94	1.42	2.62
+MP:0013803	increased IgG2 level	103	18	2.96	5.01	2.9e-05	0.00064	3.45	1.94	5.84
+MP:0001648	abnormal apoptosis	1280	109	1.44	4.27	3e-05	0.00066	1.6	1.28	2
+MP:0001800	abnormal humoral immune response	561	57	1.72	4.41	3.3e-05	0.00072	1.89	1.39	2.54
+MP:0002052	decreased tumor incidence	209	28	2.27	4.65	3.8e-05	8e-04	2.54	1.63	3.84
+MP:0000627	abnormal mammary gland morphology	254	32	2.13	4.59	3.7e-05	8e-04	2.38	1.57	3.5
+MP:0013554	abnormal apocrine gland morphology	254	32	2.13	4.59	3.7e-05	8e-04	2.38	1.57	3.5
+MP:0003789	increased osteosarcoma incidence	30	9	5.08	5.61	3.8e-05	0.00081	6.92	2.78	15.9
+MP:0000703	abnormal thymus morphology	551	56	1.72	4.37	3.8e-05	0.00081	1.89	1.39	2.54
+MP:0008826	abnormal splenic cell ratio	61	13	3.61	5.12	4.4e-05	0.00091	4.39	2.17	8.3
+MP:0002224	abnormal spleen size	754	71	1.59	4.27	4.4e-05	0.00091	1.75	1.33	2.28
+MP:0013560	abnormal endocrine gland morphology	934	84	1.52	4.22	4.4e-05	0.00091	1.68	1.3	2.15
+MP:0008559	abnormal interferon-gamma secretion	280	34	2.06	4.5	4.6e-05	0.00093	2.28	1.53	3.32
+MP:0004028	chromosome breakage	70	14	3.39	5.02	4.8e-05	0.00097	4.06	2.07	7.45
+MP:0001272	increased metastatic potential	79	15	3.22	4.95	4.9e-05	0.00098	3.81	2	6.82
+MP:0009153	increased pancreas tumor incidence	31	9	4.92	5.47	5.1e-05	0.001	6.61	2.66	15
+MP:0002418	increased susceptibility to viral infection	127	20	2.67	4.74	5e-05	0.001	3.05	1.78	5
+MP:0002086	abnormal extraembryonic tissue morphology	663	64	1.63	4.25	5.1e-05	0.001	1.79	1.34	2.37
+MP:0005095	decreased T cell proliferation	214	28	2.22	4.51	5.8e-05	0.0011	2.47	1.58	3.74
+MP:0002493	increased IgG level	225	29	2.18	4.5	5.6e-05	0.0011	2.43	1.57	3.65
+MP:0010287	increased reproductive system tumor incidence	109	18	2.8	4.73	6.2e-05	0.0012	3.22	1.82	5.44
+MP:0006042	increased apoptosis	832	76	1.55	4.14	6.4e-05	0.0012	1.7	1.3	2.2
+MP:0003448	abnormal tumor morphology	194	26	2.27	4.48	7e-05	0.0013	2.54	1.6	3.89
+MP:0002408	abnormal double-positive T cell morphology	239	30	2.13	4.42	6.9e-05	0.0013	2.36	1.54	3.51
+MP:0000701	abnormal lymph node size	275	33	2.03	4.35	7.5e-05	0.0014	2.25	1.5	3.28
+MP:0008178	decreased germinal center B cell number	40	10	4.23	5.13	8e-05	0.0015	5.39	2.34	11.4
+MP:0009308	increased adenocarcinoma incidence	174	24	2.34	4.46	8.4e-05	0.0015	2.62	1.61	4.09
+MP:0012556	increased cell death	837	76	1.54	4.08	7.8e-05	0.0015	1.69	1.29	2.18
+MP:0000689	abnormal spleen morphology	992	87	1.49	4.05	8e-05	0.0015	1.63	1.27	2.08
+MP:0002221	abnormal lymph organ size	993	87	1.48	4.04	8.3e-05	0.0015	1.63	1.27	2.08
+MP:0008866	chromosomal instability	112	18	2.72	4.59	9e-05	0.0016	3.12	1.76	5.25
+MP:0000858	altered metastatic potential	133	20	2.55	4.5	9.7e-05	0.0017	2.89	1.69	4.72
+MP:0005000	abnormal immune tolerance	414	44	1.8	4.17	9.6e-05	0.0017	1.97	1.39	2.74
+MP:0008176	abnormal germinal center B cell morphology	66	13	3.34	4.77	1e-04	0.0018	3.98	1.98	7.45
+MP:0013680	abnormal germinal center B cell number	66	13	3.34	4.77	1e-04	0.0018	3.98	1.98	7.45
+MP:0008894	abnormal intraepithelial T cell morphology	27	8	5.02	5.24	0.00011	0.002	6.79	2.56	16.3
+MP:0010280	increased skeletal tumor incidence	34	9	4.48	5.1	0.00011	0.002	5.81	2.38	13
+MP:0010094	abnormal chromosome stability	114	18	2.67	4.5	0.00011	0.002	3.05	1.72	5.14
+MP:0020185	altered susceptibility to viral infection	167	23	2.33	4.35	0.00012	0.002	2.61	1.59	4.12
+MP:0001805	decreased IgG level	258	31	2.03	4.22	0.00012	0.002	2.25	1.48	3.32
+MP:0002460	decreased immunoglobulin level	330	37	1.9	4.16	0.00012	0.002	2.09	1.42	2.98
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	69	1.56	3.98	0.00012	0.002	1.7	1.29	2.22
+MP:0008192	abnormal germinal center B cell physiology	15	6	6.77	5.61	0.00013	0.0021	10.7	3.13	33.9
+MP:0001695	abnormal gastrulation	369	40	1.84	4.1	0.00013	0.0021	2.01	1.39	2.84
+MP:0002419	abnormal innate immunity	616	59	1.62	4	0.00013	0.0021	1.77	1.31	2.36
+MP:0002925	abnormal cardiovascular development	766	70	1.55	3.96	0.00013	0.0021	1.69	1.28	2.2
+MP:0008393	absent primordial germ cells	10	5	8.47	5.92	0.00014	0.0022	16.1	3.68	69.9
+MP:0008096	abnormal plasma cell number	77	14	3.08	4.59	0.00014	0.0022	3.61	1.85	6.56
+MP:0008495	decreased IgG1 level	147	21	2.42	4.34	0.00014	0.0022	2.72	1.61	4.38
+MP:0002425	altered susceptibility to autoimmune disorder	320	36	1.9	4.13	0.00014	0.0022	2.09	1.42	3
+MP:0011092	embryonic lethality, complete penetrance	420	44	1.77	4.07	0.00013	0.0022	1.94	1.37	2.69
+MP:0008392	decreased primordial germ cell number	35	9	4.35	4.98	0.00014	0.0023	5.59	2.29	12.4
+MP:0010293	increased integument system tumor incidence	169	23	2.3	4.29	0.00014	0.0023	2.58	1.57	4.06
+MP:0004751	increased length of allograft survival	28	8	4.84	5.1	0.00015	0.0024	6.45	2.45	15.4
+MP:0002461	increased immunoglobulin level	310	35	1.91	4.09	0.00016	0.0024	2.1	1.42	3.03
+MP:0008074	increased CD4-positive, alpha beta T cell number	205	26	2.15	4.16	0.00018	0.0027	2.38	1.5	3.64
+MP:0003721	increased tumor growth/size	70	13	3.14	4.51	0.00019	0.0028	3.7	1.84	6.89
+MP:0003111	abnormal cell nucleus morphology	172	23	2.26	4.19	0.00019	0.0028	2.52	1.54	3.97
+MP:0000715	decreased thymocyte number	183	24	2.22	4.18	0.00019	0.0028	2.47	1.52	3.85
+MP:0013802	abnormal IgG2 level	194	25	2.18	4.17	0.00018	0.0028	2.42	1.51	3.74
+MP:0014137	abnormal preimplantation embryo morphology	206	26	2.14	4.13	0.00019	0.0028	2.37	1.49	3.62
+MP:0004957	abnormal blastocyst morphology	206	26	2.14	4.13	0.00019	0.0028	2.37	1.49	3.62
+MP:0008271	abnormal bone ossification	426	44	1.75	3.96	0.00019	0.0028	1.91	1.35	2.65
+MP:0002084	abnormal developmental patterning	478	48	1.7	3.94	0.00019	0.0028	1.85	1.33	2.54
+MP:0009850	embryonic lethality between implantation and placentation	440	45	1.73	3.94	2e-04	0.0028	1.89	1.34	2.61
+MP:0002441	abnormal granulocyte morphology	558	54	1.64	3.9	0.00019	0.0028	1.78	1.3	2.4
+MP:0001929	abnormal gametogenesis	748	68	1.54	3.85	0.00019	0.0028	1.68	1.27	2.19
+MP:0010766	abnormal NK cell physiology	99	16	2.74	4.35	2e-04	0.0029	3.13	1.7	5.44
+MP:0001730	embryonic growth arrest	302	34	1.91	4.01	2e-04	0.0029	2.09	1.4	3.03
+MP:0008500	increased IgG2a level	80	14	2.96	4.42	0.00022	0.0031	3.44	1.77	6.24
+MP:0000060	delayed bone ossification	141	20	2.4	4.2	0.00022	0.0031	2.69	1.58	4.39
+MP:0002398	abnormal bone marrow cell morphology/development	575	55	1.62	3.84	0.00023	0.0032	1.76	1.29	2.37
+MP:0002127	abnormal cardiovascular system morphology	1950	149	1.29	3.66	0.00023	0.0032	1.44	1.17	1.75
+MP:0010292	increased alimentary system tumor incidence	131	19	2.46	4.2	0.00023	0.0033	2.76	1.59	4.56
+MP:0009152	increased pancreatic intraepithelial neoplasia incidence	11	5	7.7	5.57	0.00024	0.0034	13.4	3.22	52.8
+MP:0000691	enlarged spleen	510	50	1.66	3.84	0.00025	0.0034	1.81	1.3	2.46
+MP:0008255	decreased megakaryocyte cell number	30	8	4.52	4.83	0.00026	0.0035	5.86	2.25	13.8
+MP:0002404	increased intestinal adenoma incidence	54	11	3.45	4.52	0.00026	0.0035	4.14	1.91	8.22
+MP:0002439	abnormal plasma cell morphology	91	15	2.79	4.3	0.00026	0.0035	3.2	1.7	5.67
+MP:0004045	abnormal cell cycle checkpoint function	63	12	3.23	4.44	0.00027	0.0036	3.81	1.84	7.3
+MP:0008391	abnormal primordial germ cell morphology	38	9	4.01	4.66	0.00028	0.0038	5.01	2.07	10.9
+MP:0003762	abnormal immune organ physiology	188	24	2.16	4.03	0.00028	0.0038	2.39	1.48	3.73
+MP:0002026	increased leukemia incidence	92	15	2.76	4.25	0.00029	0.0039	3.16	1.68	5.59
+MP:0001845	abnormal inflammatory response	1235	101	1.38	3.64	3e-04	0.004	1.51	1.2	1.9
+MP:0008081	abnormal single-positive T cell number	124	18	2.46	4.09	0.00034	0.0044	2.76	1.56	4.62
+MP:0008942	abnormal induced cell death	250	29	1.96	3.87	0.00036	0.0047	2.15	1.39	3.21
+MP:0003984	embryonic growth retardation	560	53	1.6	3.68	0.00038	0.005	1.74	1.26	2.35
+MP:0002399	abnormal pluripotent precursor cell morphology	12	5	7.06	5.26	0.00039	0.0051	11.5	2.86	42.2
+MP:0008932	abnormal embryonic tissue physiology	301	33	1.86	3.78	0.00041	0.0053	2.02	1.35	2.95
+MP:0004760	increased mitotic index	18	6	5.64	4.94	0.00042	0.0054	8.04	2.47	23.2
+MP:0004973	increased regulatory T cell number	66	12	3.08	4.25	0.00042	0.0054	3.6	1.74	6.86
+MP:0009760	abnormal mitotic spindle morphology	40	9	3.81	4.46	0.00043	0.0055	4.68	1.95	10.1
+MP:0002406	increased susceptibility to infection	443	44	1.68	3.68	0.00044	0.0055	1.82	1.29	2.53
+MP:0002151	abnormal neural tube morphology	590	55	1.58	3.64	0.00043	0.0055	1.71	1.25	2.3
+MP:0001844	autoimmune response	404	41	1.72	3.7	0.00044	0.0056	1.86	1.3	2.62
+MP:0008704	abnormal interleukin-6 secretion	183	23	2.13	3.86	0.00047	0.0059	2.35	1.43	3.69
+MP:0013503	abnormal embryonic tissue cell apoptosis	172	22	2.17	3.87	0.00048	0.006	2.39	1.44	3.8
+MP:0005005	abnormal self tolerance	406	41	1.71	3.66	0.00049	0.0061	1.85	1.29	2.6
+MP:0020186	altered susceptibility to bacterial infection	331	35	1.79	3.67	0.00055	0.0067	1.94	1.31	2.8
+MP:0002109	abnormal limb morphology	806	70	1.47	3.5	0.00057	0.007	1.59	1.21	2.07
+MP:0020201	abnormal granulocyte number	529	50	1.6	3.56	0.00058	0.0071	1.73	1.25	2.35
+MP:0008250	abnormal myeloid leukocyte morphology	950	80	1.43	3.47	0.00058	0.0071	1.54	1.19	1.98
+MP:0004046	abnormal mitosis	141	19	2.28	3.84	0.00061	0.0073	2.53	1.46	4.17
+MP:0005092	decreased double-positive T cell number	198	24	2.05	3.75	0.00061	0.0073	2.25	1.39	3.5
+MP:0001863	vascular inflammation	42	9	3.63	4.28	0.00063	0.0075	4.4	1.84	9.46
+MP:0006208	lethality throughout fetal growth and development	504	48	1.61	3.54	0.00063	0.0075	1.74	1.25	2.38
+MP:0008700	decreased interleukin-4 secretion	79	13	2.79	3.99	0.00066	0.0078	3.19	1.6	5.88
+MP:0008803	abnormal placental labyrinth vasculature morphology	99	15	2.57	3.92	0.00065	0.0078	2.9	1.54	5.1
+MP:0013504	increased embryonic tissue cell apoptosis	142	19	2.27	3.81	0.00066	0.0078	2.51	1.45	4.13
+MP:0004972	abnormal regulatory T cell number	142	19	2.27	3.81	0.00066	0.0078	2.51	1.45	4.13
+MP:0008943	increased sensitivity to induced cell death	176	22	2.12	3.75	0.00067	0.0078	2.33	1.41	3.69
+MP:0013658	abnormal myeloid cell morphology	1702	130	1.29	3.35	0.00067	0.0078	1.42	1.15	1.74
+MP:0006043	decreased apoptosis	248	28	1.91	3.65	7e-04	0.0081	2.08	1.34	3.13
+MP:0002356	abnormal spleen red pulp morphology	143	19	2.25	3.77	0.00072	0.0082	2.49	1.44	4.1
+MP:0000628	abnormal mammary gland development	154	20	2.2	3.76	0.00071	0.0082	2.43	1.43	3.94
+MP:0001700	abnormal embryo turning	212	25	2	3.68	0.00071	0.0082	2.18	1.36	3.36
+MP:0001876	decreased inflammatory response	273	30	1.86	3.62	0.00072	0.0082	2.02	1.32	3
+MP:0010865	prenatal growth retardation	644	58	1.52	3.46	0.00072	0.0082	1.65	1.22	2.19
+MP:0008186	increased pro-B cell number	43	9	3.54	4.19	0.00076	0.0085	4.27	1.79	9.15
+MP:0002376	abnormal dendritic cell physiology	166	21	2.14	3.72	0.00075	0.0085	2.36	1.41	3.78
+MP:0001688	abnormal somite development	237	27	1.93	3.63	0.00075	0.0085	2.1	1.34	3.18
+MP:0004180	failure of initiation of embryo turning	61	11	3.05	4.03	0.00078	0.0086	3.56	1.66	6.97
+MP:0020176	abnormal IgG2a level	155	20	2.18	3.73	0.00077	0.0086	2.41	1.42	3.91
+MP:0002440	abnormal memory B cell morphology	20	6	5.08	4.58	0.00078	0.0087	6.89	2.16	19.2
+MP:0003884	decreased macrophage cell number	133	18	2.29	3.76	0.00079	0.0087	2.54	1.44	4.24
+MP:0004941	abnormal regulatory T cell morphology	144	19	2.23	3.74	0.00079	0.0087	2.47	1.43	4.06
+MP:0008251	abnormal phagocyte morphology	816	70	1.45	3.39	8e-04	0.0087	1.57	1.19	2.04
+MP:0000702	enlarged lymph nodes	214	25	1.98	3.63	0.00081	0.0089	2.16	1.35	3.32
+MP:0008058	abnormal DNA repair	112	16	2.42	3.78	0.00085	0.0092	2.7	1.48	4.66
+MP:0012555	decreased cell death	251	28	1.89	3.58	0.00085	0.0092	2.05	1.32	3.09
+MP:0008093	abnormal memory B cell number	14	5	6.05	4.73	9e-04	0.0096	8.92	2.34	29.8
+MP:0002957	increased intestinal adenocarcinoma incidence	44	9	3.46	4.1	9e-04	0.0096	4.15	1.74	8.86
+MP:0003419	delayed endochondral bone ossification	62	11	3	3.97	0.00089	0.0096	3.49	1.63	6.82
+MP:0002014	increased papilloma incidence	62	11	3	3.97	0.00089	0.0096	3.49	1.63	6.82
+MP:0013701	abnormal mature B cell number	366	37	1.71	3.48	9e-04	0.0096	1.85	1.26	2.64
+MP:0008701	abnormal interleukin-5 secretion	53	10	3.19	4.01	0.00092	0.0097	3.75	1.67	7.64
+MP:0008082	increased single-positive T cell number	53	10	3.19	4.01	0.00092	0.0097	3.75	1.67	7.64
+MP:0002498	abnormal acute inflammation	328	34	1.76	3.49	0.00093	0.0097	1.9	1.28	2.75
+MP:0000322	increased granulocyte number	328	34	1.76	3.49	0.00093	0.0097	1.9	1.28	2.75
+MP:0003861	abnormal nervous system development	1215	97	1.35	3.3	0.00092	0.0097	1.46	1.15	1.85
+MP:0006413	increased T cell apoptosis	103	15	2.47	3.75	0.001	0.01	2.76	1.47	4.85
+MP:0005350	increased susceptibility to autoimmune disorder	181	22	2.06	3.6	0.00097	0.01	2.25	1.36	3.57
+MP:0006414	decreased T cell apoptosis	45	9	3.39	4.02	0.0011	0.011	4.03	1.7	8.59
+MP:0001713	decreased trophoblast giant cell number	45	9	3.39	4.02	0.0011	0.011	4.03	1.7	8.59
+MP:0003702	abnormal chromosome morphology	73	12	2.78	3.83	0.0011	0.011	3.18	1.55	6.01
+MP:0002495	increased IgA level	73	12	2.78	3.83	0.0011	0.011	3.18	1.55	6.01
+MP:0005028	abnormal trophectoderm morphology	126	17	2.28	3.64	0.0011	0.011	2.53	1.41	4.28
+MP:0001718	abnormal visceral yolk sac morphology	219	25	1.93	3.5	0.0011	0.011	2.1	1.32	3.23
+MP:0005371	limbs/digits/tail phenotype	1030	84	1.38	3.25	0.0011	0.011	1.49	1.16	1.9
+MP:0009786	decreased susceptibility to infection induced morbidity/mortality	74	12	2.75	3.78	0.0012	0.012	3.13	1.53	5.91
+MP:0005087	decreased acute inflammation	196	23	1.99	3.5	0.0012	0.012	2.17	1.33	3.39
+MP:0002095	abnormal skin pigmentation	95	14	2.5	3.67	0.0013	0.013	2.8	1.46	5.01
+MP:0020177	abnormal IgG2b level	117	16	2.32	3.59	0.0014	0.013	2.57	1.4	4.42
+MP:0003355	decreased ovulation rate	30	7	3.95	4.06	0.0015	0.014	4.9	1.77	11.9
+MP:0004029	spontaneous chromosome breakage	30	7	3.95	4.06	0.0015	0.014	4.9	1.77	11.9
+MP:0004917	abnormal T cell selection	47	9	3.24	3.86	0.0015	0.014	3.82	1.62	8.09
+MP:0008687	increased interleukin-2 secretion	56	10	3.02	3.81	0.0014	0.014	3.51	1.57	7.1
+MP:0005070	impaired natural killer cell mediated cytotoxicity	56	10	3.02	3.81	0.0014	0.014	3.51	1.57	7.1
+MP:0002417	abnormal megakaryocyte morphology	107	15	2.37	3.58	0.0015	0.014	2.64	1.41	4.63
+MP:0000693	spleen hyperplasia	107	15	2.37	3.58	0.0015	0.014	2.64	1.41	4.63
+MP:0008561	decreased tumor necrosis factor secretion	129	17	2.23	3.53	0.0015	0.014	2.46	1.38	4.16
+MP:0020171	abnormal IgA level	129	17	2.23	3.53	0.0015	0.014	2.46	1.38	4.16
+MP:0002113	abnormal skeleton development	496	46	1.57	3.27	0.0014	0.014	1.69	1.2	2.32
+MP:0003051	curly tail	67	11	2.78	3.66	0.0017	0.016	3.17	1.49	6.17
+MP:0001869	pancreas inflammation	77	12	2.64	3.62	0.0017	0.016	2.98	1.46	5.62
+MP:0002413	abnormal megakaryocyte progenitor cell morphology	119	16	2.28	3.51	0.0016	0.016	2.52	1.38	4.33
+MP:0009250	abnormal appendicular skeleton morphology	724	62	1.45	3.16	0.0017	0.016	1.55	1.16	2.06
+MP:0008098	decreased plasma cell number	31	7	3.82	3.94	0.0018	0.017	4.69	1.7	11.3
+MP:0005033	abnormal trophoblast giant cell morphology	88	13	2.5	3.55	0.0019	0.017	2.8	1.42	5.13
+MP:0001726	abnormal allantois morphology	109	15	2.33	3.5	0.0018	0.017	2.59	1.38	4.52
+MP:0004499	increased incidence of tumors by chemical induction	120	16	2.26	3.47	0.0018	0.017	2.49	1.36	4.28
+MP:0008660	increased interleukin-10 secretion	49	9	3.11	3.71	0.002	0.018	3.63	1.54	7.64
+MP:0008208	decreased pro-B cell number	68	11	2.74	3.61	0.002	0.018	3.12	1.46	6.05
+MP:0009333	abnormal splenocyte physiology	78	12	2.6	3.57	0.0019	0.018	2.94	1.44	5.53
+MP:0001711	abnormal placenta morphology	356	35	1.66	3.2	0.002	0.018	1.79	1.21	2.57
+MP:0008057	abnormal DNA replication	24	6	4.23	3.97	0.0022	0.019	5.36	1.73	14.2
+MP:0000298	absent atrioventricular cushions	24	6	4.23	3.97	0.0022	0.019	5.36	1.73	14.2
+MP:0011719	abnormal natural killer cell mediated cytotoxicity	59	10	2.87	3.61	0.0022	0.019	3.29	1.48	6.63
+MP:0010307	abnormal tumor latency	69	11	2.7	3.55	0.0022	0.019	3.06	1.44	5.94
+MP:0013500	abnormal fibroblast apoptosis	69	11	2.7	3.55	0.0022	0.019	3.06	1.44	5.94
+MP:0009332	abnormal splenocyte morphology	69	11	2.7	3.55	0.0022	0.019	3.06	1.44	5.94
+MP:0012057	abnormal mural trophectoderm morphology	89	13	2.47	3.5	0.0021	0.019	2.77	1.4	5.06
+MP:0011239	abnormal skin coloration	111	15	2.29	3.42	0.0021	0.019	2.53	1.35	4.42
+MP:0008272	abnormal endochondral bone ossification	134	17	2.15	3.35	0.0022	0.019	2.36	1.32	3.97
+MP:0008211	decreased mature B cell number	279	29	1.76	3.23	0.0021	0.019	1.9	1.23	2.82
+MP:0001577	anemia	358	35	1.66	3.17	0.0022	0.019	1.78	1.2	2.55
+MP:0002164	abnormal gland physiology	673	58	1.46	3.1	0.002	0.019	1.56	1.15	2.08
+MP:0005370	liver/biliary system phenotype	1230	96	1.32	3.03	0.002	0.019	1.42	1.12	1.79
+MP:0000462	abnormal digestive system morphology	1053	84	1.35	3.03	0.0022	0.019	1.45	1.12	1.85
+MP:0010678	abnormal skin adnexa morphology	1024	82	1.36	3.03	0.0022	0.019	1.45	1.13	1.86
+MP:0000266	abnormal heart morphology	1397	107	1.3	3.02	0.0021	0.019	1.4	1.11	1.75
+MP:0002160	abnormal reproductive system morphology	1278	99	1.31	3.01	0.0022	0.019	1.41	1.11	1.78
+MP:0001694	absent egg cylinders	17	5	4.98	4.11	0.0024	0.02	6.69	1.84	20.5
+MP:0009544	abnormal thymus epithelium morphology	17	5	4.98	4.11	0.0024	0.02	6.69	1.84	20.5
+MP:0012411	increased granulosa cell tumor incidence	17	5	4.98	4.11	0.0024	0.02	6.69	1.84	20.5
+MP:0002023	increased B cell derived lymphoma incidence	80	12	2.54	3.47	0.0024	0.02	2.85	1.4	5.35
+MP:0010874	abnormal bone volume	158	19	2.04	3.29	0.0024	0.02	2.22	1.29	3.63
+MP:0002148	abnormal hypersensitivity reaction	170	20	1.99	3.27	0.0024	0.02	2.17	1.28	3.5
+MP:0006379	abnormal spermatocyte morphology	60	10	2.82	3.55	0.0025	0.021	3.23	1.45	6.48
+MP:0002217	small lymph nodes	70	11	2.66	3.49	0.0025	0.021	3.01	1.42	5.83
+MP:0004799	increased susceptibility to experimental autoimmune encephalomyelitis	70	11	2.66	3.49	0.0025	0.021	3.01	1.42	5.83
+MP:0008659	abnormal interleukin-10 secretion	91	13	2.42	3.41	0.0025	0.021	2.7	1.37	4.92
+MP:0013660	abnormal bone marrow hematopoietic cell morphology	113	15	2.25	3.34	0.0026	0.021	2.48	1.33	4.33
+MP:0003723	abnormal long bone morphology	580	51	1.49	3.05	0.0025	0.021	1.59	1.15	2.16
+MP:0002138	abnormal hepatobiliary system morphology	1104	87	1.33	2.97	0.0026	0.021	1.43	1.11	1.82
+MP:0000873	thin external granule cell layer	25	6	4.06	3.84	0.0028	0.022	5.07	1.65	13.3
+MP:0008828	abnormal lymph node cell ratio	33	7	3.59	3.74	0.0027	0.022	4.33	1.58	10.3
+MP:0001864	vasculitis	33	7	3.59	3.74	0.0027	0.022	4.33	1.58	10.3
+MP:0008102	lymph node hyperplasia	42	8	3.23	3.62	0.0028	0.022	3.79	1.51	8.39
+MP:0004227	increased cellular sensitivity to ionizing radiation	81	12	2.51	3.42	0.0027	0.022	2.81	1.38	5.27
+MP:0005078	abnormal cytotoxic T cell physiology	81	12	2.51	3.42	0.0027	0.022	2.81	1.38	5.27
+MP:0008706	decreased interleukin-6 secretion	92	13	2.39	3.36	0.0028	0.022	2.66	1.35	4.86
+MP:0011496	abnormal head size	114	15	2.23	3.3	0.0028	0.022	2.45	1.31	4.28
+MP:0010183	abnormal CD4-positive helper T cell morphology	114	15	2.23	3.3	0.0028	0.022	2.45	1.31	4.28
+MP:0000599	enlarged liver	258	27	1.77	3.15	0.0027	0.022	1.91	1.22	2.88
+MP:0011096	embryonic lethality between implantation and somite formation, complete penetrance	271	28	1.75	3.14	0.0027	0.022	1.88	1.21	2.82
+MP:0009043	increased pancreas adenoma incidence	11	4	6.16	4.29	0.0028	0.023	9.16	1.96	36.2
+MP:0000267	abnormal heart development	377	36	1.62	3.06	0.0028	0.023	1.73	1.18	2.48
+MP:0010279	increased gastrointestinal tumor incidence	115	15	2.21	3.27	0.003	0.024	2.43	1.3	4.24
+MP:0005022	abnormal immature B cell morphology	173	20	1.96	3.18	0.003	0.024	2.12	1.25	3.43
+MP:0000358	abnormal cell morphology	1156	90	1.32	2.9	0.0031	0.024	1.41	1.1	1.79
+MP:0006301	abnormal mesenchyme morphology	18	5	4.7	3.94	0.0032	0.025	6.17	1.72	18.5
+MP:0000491	crypts of Lieberkuhn abscesses	18	5	4.7	3.94	0.0032	0.025	6.17	1.72	18.5
+MP:0004197	abnormal fetal growth/weight/body size	287	29	1.71	3.07	0.0032	0.025	1.83	1.19	2.73
+MP:0011099	lethality throughout fetal growth and development, complete penetrance	326	32	1.66	3.05	0.0031	0.025	1.78	1.18	2.6
+MP:0000432	abnormal head morphology	875	71	1.37	2.91	0.0032	0.025	1.47	1.12	1.91
+MP:0008737	abnormal spleen physiology	83	12	2.45	3.32	0.0033	0.026	2.73	1.34	5.11
+MP:0000433	microcephaly	94	13	2.34	3.28	0.0034	0.026	2.59	1.32	4.73
+MP:0008567	decreased interferon-gamma secretion	175	20	1.94	3.13	0.0034	0.026	2.1	1.24	3.38
+MP:0013292	embryonic lethality prior to organogenesis	717	60	1.42	2.91	0.0034	0.026	1.51	1.12	2
+MP:0005381	digestive/alimentary phenotype	1328	101	1.29	2.84	0.0035	0.027	1.38	1.09	1.73
+MP:0008215	decreased immature B cell number	129	16	2.1	3.15	0.0038	0.029	2.29	1.26	3.92
+MP:0002209	decreased germ cell number	466	42	1.53	2.92	0.0038	0.029	1.63	1.14	2.27
+MP:0013151	abnormal incidence of induced tumors	240	25	1.76	3	0.004	0.03	1.89	1.19	2.9
+MP:0005004	abnormal lymphocyte anergy	12	4	5.64	4.03	0.0041	0.031	8.01	1.76	30
+MP:0013184	hemorrhagic ascites	12	4	5.64	4.03	0.0041	0.031	8.01	1.76	30
+MP:0000572	abnormal autopod morphology	386	36	1.58	2.91	0.0042	0.031	1.68	1.15	2.41
+MP:0000851	cerebellum hypoplasia	27	6	3.76	3.6	0.0042	0.032	4.59	1.51	11.8
+MP:0010308	decreased tumor latency	45	8	3.01	3.39	0.0044	0.032	3.48	1.39	7.64
+MP:0010948	abnormal double-strand DNA break repair	45	8	3.01	3.39	0.0044	0.032	3.48	1.39	7.64
+MP:0000714	increased thymocyte number	45	8	3.01	3.39	0.0044	0.032	3.48	1.39	7.64
+MP:0003763	abnormal thymus physiology	119	15	2.13	3.12	0.0042	0.032	2.33	1.25	4.07
+MP:0010499	abnormal ventricle myocardium morphology	119	15	2.13	3.12	0.0042	0.032	2.33	1.25	4.07
+MP:0013558	abnormal exocrine gland morphology	768	63	1.39	2.82	0.0043	0.032	1.48	1.11	1.95
+MP:0000512	intestinal ulcer	36	7	3.29	3.45	0.0045	0.033	3.88	1.43	9.11
+MP:0008044	increased NK cell number	65	10	2.6	3.25	0.0045	0.033	2.93	1.32	5.85
+MP:0002942	decreased circulating alanine transaminase level	86	12	2.36	3.18	0.0044	0.033	2.62	1.29	4.89
+MP:0008125	abnormal dendritic cell number	120	15	2.12	3.08	0.0046	0.033	2.31	1.24	4.02
+MP:0011702	abnormal fibroblast proliferation	167	19	1.93	3.03	0.0044	0.033	2.08	1.21	3.4
+MP:0005068	abnormal NK cell morphology	167	19	1.93	3.03	0.0044	0.033	2.08	1.21	3.4
+MP:0005351	decreased susceptibility to autoimmune disorder	192	21	1.85	2.99	0.0046	0.033	1.99	1.19	3.18
+MP:0002115	abnormal limb bone morphology	472	42	1.51	2.83	0.0048	0.035	1.6	1.12	2.23
+MP:0008702	increased interleukin-5 secretion	28	6	3.63	3.49	0.0051	0.036	4.38	1.45	11.2
+MP:0009542	decreased thymocyte apoptosis	28	6	3.63	3.49	0.0051	0.036	4.38	1.45	11.2
+MP:0010282	decreased organ/body region tumor incidence	46	8	2.94	3.31	0.005	0.036	3.39	1.36	7.42
+MP:0008566	increased interferon-gamma secretion	133	16	2.04	3.02	0.0051	0.036	2.21	1.22	3.78
+MP:0013293	embryonic lethality prior to tooth bud stage	788	64	1.38	2.76	0.005	0.036	1.46	1.1	1.92
+MP:0000885	ectopic Purkinje cell	37	7	3.2	3.36	0.0053	0.037	3.75	1.38	8.77
+MP:0008478	increased spleen white pulp amount	37	7	3.2	3.36	0.0053	0.037	3.75	1.38	8.77
+MP:0004800	decreased susceptibility to experimental autoimmune encephalomyelitis	99	13	2.22	3.07	0.0053	0.037	2.44	1.24	4.44
+MP:0005296	abnormal humerus morphology	110	14	2.16	3.05	0.0052	0.037	2.36	1.23	4.19
+MP:0011203	abnormal parietal yolk sac morphology	145	17	1.99	3	0.0051	0.037	2.15	1.21	3.62
+MP:0008248	abnormal mononuclear phagocyte morphology	644	54	1.42	2.77	0.0051	0.037	1.51	1.1	2.03
+MP:0020202	abnormal macrophage cell number	285	28	1.66	2.85	0.0054	0.038	1.78	1.15	2.66
+MP:0005466	abnormal T-helper 2 physiology	67	10	2.53	3.14	0.0056	0.039	2.83	1.28	5.63
+MP:0008470	abnormal spleen B cell follicle morphology	183	20	1.85	2.91	0.0056	0.039	1.99	1.17	3.21
+MP:0011703	increased fibroblast proliferation	47	8	2.88	3.24	0.0057	0.04	3.3	1.33	7.21
+MP:0008101	lymph node hypoplasia	47	8	2.88	3.24	0.0057	0.04	3.3	1.33	7.21
+MP:0001883	increased mammary adenocarcinoma incidence	57	9	2.67	3.18	0.0058	0.04	3.02	1.3	6.27
+MP:0010875	increased bone volume	78	11	2.39	3.08	0.0058	0.04	2.65	1.25	5.09
+MP:0012167	abnormal epigenetic regulation of gene expression	89	12	2.28	3.05	0.0059	0.04	2.52	1.24	4.69
+MP:0002411	decreased susceptibility to bacterial infection	100	13	2.2	3.03	0.0058	0.04	2.41	1.23	4.38
+MP:0010299	increased mammary gland tumor incidence	100	13	2.2	3.03	0.0058	0.04	2.41	1.23	4.38
+MP:0006205	embryonic lethality between implantation and somite formation	300	29	1.64	2.81	0.0059	0.04	1.74	1.13	2.59
+MP:0011504	abnormal limb long bone morphology	450	40	1.51	2.75	0.006	0.04	1.6	1.11	2.25
+MP:0008469	abnormal protein level	1092	84	1.3	2.67	0.0059	0.04	1.39	1.08	1.77
+MP:0009321	increased histiocytic sarcoma incidence	29	6	3.5	3.38	0.0061	0.041	4.19	1.39	10.6
+MP:0005065	abnormal neutrophil morphology	354	33	1.58	2.78	0.006	0.041	1.68	1.12	2.44
+MP:0000547	short limbs	136	16	1.99	2.92	0.0063	0.042	2.16	1.19	3.68
+MP:0001823	thymus hypoplasia	210	22	1.77	2.84	0.0063	0.042	1.9	1.15	2.99
+MP:0000428	abnormal craniofacial morphology	1095	84	1.3	2.64	0.0063	0.042	1.38	1.07	1.76
+MP:0020363	abnormal germ cell physiology	21	5	4.03	3.48	0.0065	0.043	5.01	1.43	14.4
+MP:0008783	decreased B cell apoptosis	21	5	4.03	3.48	0.0065	0.043	5.01	1.43	14.4
+MP:0002044	increased colonic adenoma incidence	21	5	4.03	3.48	0.0065	0.043	5.01	1.43	14.4
+MP:0013501	increased fibroblast apoptosis	48	8	2.82	3.17	0.0065	0.043	3.22	1.29	7.01
+MP:0012176	abnormal head development	58	9	2.63	3.11	0.0065	0.043	2.96	1.27	6.13
+MP:0002208	abnormal germ cell morphology	622	52	1.42	2.69	0.0064	0.043	1.5	1.09	2.03
+MP:0001156	abnormal spermatogenesis	608	51	1.42	2.69	0.0064	0.043	1.51	1.09	2.04
+MP:0002132	abnormal respiratory system morphology	901	71	1.33	2.65	0.0065	0.043	1.42	1.08	1.84
+MP:0005671	abnormal response to transplant	69	10	2.45	3.04	0.0069	0.045	2.73	1.24	5.42
+MP:0009657	failure of chorioallantoic fusion	69	10	2.45	3.04	0.0069	0.045	2.73	1.24	5.42
+MP:0005382	craniofacial phenotype	1099	84	1.29	2.6	0.0069	0.045	1.38	1.07	1.76
+MP:0002081	perinatal lethality	1327	99	1.26	2.59	0.0068	0.045	1.35	1.06	1.69
+MP:0002277	abnormal respiratory mucosa morphology	30	6	3.39	3.28	0.0073	0.046	4.02	1.34	10.1
+MP:0008703	decreased interleukin-5 secretion	30	6	3.39	3.28	0.0073	0.046	4.02	1.34	10.1
+MP:0008671	abnormal interleukin-13 secretion	59	9	2.58	3.06	0.0073	0.046	2.9	1.25	5.99
+MP:0002825	abnormal notochord morphology	80	11	2.33	2.99	0.0071	0.046	2.57	1.22	4.93
+MP:0005089	decreased double-negative T cell number	80	11	2.33	2.99	0.0071	0.046	2.57	1.22	4.93
+MP:0010298	increased respiratory system tumor incidence	138	16	1.96	2.86	0.0072	0.046	2.12	1.17	3.62
+MP:0008686	abnormal interleukin-2 secretion	138	16	1.96	2.86	0.0072	0.046	2.12	1.17	3.62
+MP:0008014	increased lung tumor incidence	138	16	1.96	2.86	0.0072	0.046	2.12	1.17	3.62
+MP:0001716	abnormal placenta labyrinth morphology	187	20	1.81	2.81	0.0071	0.046	1.94	1.15	3.13
+MP:0004198	abnormal fetal size	225	23	1.73	2.78	0.007	0.046	1.85	1.14	2.88
+MP:0005014	increased B cell number	318	30	1.6	2.72	0.0073	0.046	1.7	1.11	2.51
+MP:0009208	abnormal female genitalia morphology	441	39	1.5	2.68	0.0071	0.046	1.59	1.1	2.24
+MP:0009687	empty decidua capsularis	14	4	4.84	3.6	0.0075	0.047	6.41	1.46	22.3
+MP:0008399	abnormal alpha-beta intraepithelial T cell morphology	14	4	4.84	3.6	0.0075	0.047	6.41	1.46	22.3
+MP:0009309	increased small intestine adenocarcinoma incidence	14	4	4.84	3.6	0.0075	0.047	6.41	1.46	22.3
+MP:0008877	abnormal DNA methylation	49	8	2.76	3.1	0.0074	0.047	3.14	1.26	6.83
+MP:0005232	abnormal mesenteric lymph node morphology	49	8	2.76	3.1	0.0074	0.047	3.14	1.26	6.83
+MP:0003854	abnormal forelimb stylopod morphology	115	14	2.06	2.87	0.0076	0.048	2.24	1.17	3.97
+MP:0005461	abnormal dendritic cell morphology	151	17	1.91	2.81	0.0077	0.048	2.05	1.15	3.44
+MP:0002188	small heart	214	22	1.74	2.75	0.0078	0.048	1.86	1.13	2.93
+MP:0008713	abnormal cytokine level	415	37	1.51	2.66	0.0076	0.048	1.6	1.1	2.28
+MP:0005294	abnormal heart ventricle morphology	686	56	1.38	2.61	0.0076	0.048	1.46	1.08	1.96
+MP:0001846	increased inflammatory response	1058	81	1.3	2.57	0.0077	0.048	1.38	1.06	1.76
+MP:0008349	abnormal gamma-delta intraepithelial T cell morphology	22	5	3.85	3.35	0.008	0.049	4.72	1.36	13.4
+MP:0008895	abnormal intraepithelial T cell number	22	5	3.85	3.35	0.008	0.049	4.72	1.36	13.4
+MP:0004918	abnormal negative T cell selection	22	5	3.85	3.35	0.008	0.049	4.72	1.36	13.4
+MP:0004508	abnormal pectoral girdle bone morphology	267	26	1.65	2.7	0.0081	0.049	1.75	1.11	2.66
+MP:0001119	abnormal female reproductive system morphology	444	39	1.49	2.64	0.008	0.049	1.58	1.09	2.22
+MP:0002357	abnormal spleen white pulp morphology	348	32	1.56	2.65	0.0082	0.05	1.65	1.1	2.41

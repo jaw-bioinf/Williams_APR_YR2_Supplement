@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-193775	Synthesis of bile acids and bile salts via 24-hydroxycholesterol	14	3	16.6	6.69	0.00069	0.027	21.3	3.78	82.1
+R-HSA-390918	Peroxisomal lipid metabolism	29	4	10.7	5.98	0.00049	0.027	12.6	3.14	37.3
+R-HSA-192105	Synthesis of bile acids and bile salts	34	4	9.13	5.43	9e-04	0.027	10.5	2.65	30.4
+R-HSA-556833	Metabolism of lipids	696	19	2.12	3.5	0.0014	0.032	2.35	1.35	3.87
+R-HSA-194068	Bile acid and bile salt metabolism	43	4	7.22	4.67	0.0022	0.04	8.07	2.06	22.9

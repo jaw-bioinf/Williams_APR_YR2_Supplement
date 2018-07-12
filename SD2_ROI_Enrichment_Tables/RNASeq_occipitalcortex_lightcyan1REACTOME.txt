@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-446203	Asparagine N-linked glycosylation	299	9	5.48	5.84	3.2e-05	0.0013	6.52	2.78	13.6
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	5	6.79	5.02	0.00081	0.011	7.62	2.33	19.4
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	6	5.46	4.74	0.00076	0.011	6.16	2.13	14.6
+R-HSA-445717	Aquaporin-mediated transport	52	3	10.5	5.11	0.0029	0.02	11.7	2.25	38
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	3	10.5	5.11	0.0029	0.02	11.7	2.25	38
+R-HSA-6807878	COPI-mediated anterograde transport	102	4	7.14	4.63	0.0023	0.02	7.89	2.03	22.1
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	3	9.75	4.88	0.0035	0.021	10.8	2.09	35
+R-HSA-597592	Post-translational protein modification	1353	15	2.02	2.99	0.0051	0.027	2.42	1.24	4.48
+R-HSA-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	72	3	7.59	4.17	0.0072	0.032	8.26	1.61	26.5
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	74	3	7.38	4.09	0.0077	0.032	8.03	1.57	25.7
+R-HSA-199977	ER to Golgi Anterograde Transport	155	4	4.7	3.45	0.01	0.039	5.09	1.32	14.1
+R-HSA-382551	Transport of small molecules	705	9	2.32	2.71	0.014	0.048	2.6	1.12	5.41

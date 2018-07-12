@@ -1,0 +1,55 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	19	4.11	6.87	1.3e-07	5.6e-05	4.93	2.81	8.23
+R-HSA-72613	Eukaryotic Translation Initiation	119	19	3.87	6.53	3.6e-07	5.6e-05	4.58	2.62	7.62
+R-HSA-72737	Cap-dependent Translation Initiation	119	19	3.87	6.53	3.6e-07	5.6e-05	4.58	2.62	7.62
+R-HSA-72689	Formation of a pool of free 40S subunits	101	17	4.08	6.45	6.9e-07	6.5e-05	4.86	2.68	8.35
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	18	3.93	6.44	5.7e-07	6.5e-05	4.66	2.62	7.87
+R-HSA-5663205	Infectious disease	326	33	2.45	5.54	1.6e-06	0.00012	2.76	1.84	4.03
+R-HSA-192823	Viral mRNA Translation	89	15	4.09	6.07	3.1e-06	0.00021	4.85	2.56	8.62
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	15	3.91	5.85	5.4e-06	0.00032	4.6	2.44	8.15
+R-HSA-168255	Influenza Life Cycle	143	19	3.22	5.55	6.1e-06	0.00032	3.68	2.12	6.08
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	15	3.83	5.74	7.1e-06	0.00033	4.48	2.38	7.93
+R-HSA-168254	Influenza Infection	154	19	2.99	5.16	1.8e-05	0.00077	3.38	1.95	5.56
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	17	3.1	5.05	3.1e-05	0.0012	3.51	1.96	5.94
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	15	3.16	4.84	7.2e-05	0.0024	3.58	1.91	6.26
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	15	3.16	4.84	7.2e-05	0.0024	3.58	1.91	6.26
+R-HSA-936837	Ion transport by P-type ATPases	56	10	4.33	5.18	8.3e-05	0.0026	5.15	2.3	10.4
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	10	4.18	5.04	0.00011	0.0033	4.94	2.21	9.97
+R-HSA-72766	Translation	258	24	2.26	4.24	0.00016	0.0045	2.47	1.53	3.82
+R-HSA-983712	Ion channel transport	183	19	2.52	4.3	0.00019	0.005	2.77	1.61	4.53
+R-HSA-162909	Host Interactions of HIV factors	128	15	2.84	4.35	0.00024	0.006	3.16	1.7	5.51
+R-HSA-112315	Transmission across Chemical Synapses	224	21	2.27	4	0.00037	0.0084	2.48	1.49	3.95
+R-HSA-382551	Transport of small molecules	705	48	1.65	3.72	0.00037	0.0084	1.79	1.28	2.45
+R-HSA-72649	Translation initiation complex formation	58	9	3.76	4.38	0.00056	0.012	4.34	1.86	9.01
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	9	3.7	4.31	0.00064	0.013	4.25	1.83	8.82
+R-HSA-8953854	Metabolism of RNA	646	44	1.65	3.55	0.00065	0.013	1.78	1.26	2.47
+R-HSA-1643685	Disease	984	61	1.5	3.45	0.00072	0.014	1.63	1.21	2.16
+R-HSA-888590	GABA synthesis, release, reuptake and degradation	19	5	6.38	4.87	0.00084	0.015	8.39	2.35	24.8
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	18	2.28	3.72	0.00091	0.016	2.48	1.42	4.09
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	8	3.8	4.16	0.001	0.017	4.39	1.77	9.52
+R-HSA-166520	Signalling by NGF	147	15	2.47	3.73	0.0011	0.017	2.7	1.46	4.68
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	28	1.86	3.47	0.0011	0.018	2	1.29	2.99
+R-HSA-8849932	Synaptic adhesion-like molecules	21	5	5.77	4.54	0.0014	0.02	7.34	2.09	21.1
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	17	2.26	3.57	0.0014	0.02	2.45	1.38	4.1
+R-HSA-72312	rRNA processing	201	18	2.17	3.48	0.0016	0.022	2.34	1.34	3.86
+R-HSA-112316	Neuronal System	356	27	1.84	3.34	0.0016	0.022	1.97	1.26	2.97
+R-HSA-392499	Metabolism of proteins	1907	103	1.31	3.12	0.0015	0.022	1.44	1.13	1.81
+R-HSA-2682334	EPH-Ephrin signaling	81	10	2.99	3.74	0.0017	0.023	3.33	1.52	6.55
+R-HSA-5683057	MAPK family signaling cascades	288	23	1.94	3.34	0.0018	0.023	2.08	1.28	3.23
+R-HSA-351202	Metabolism of polyamines	84	10	2.89	3.6	0.0023	0.028	3.19	1.46	6.27
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	24	1.88	3.25	0.0022	0.028	2.01	1.25	3.1
+R-HSA-6798695	Neutrophil degranulation	477	33	1.68	3.14	0.0024	0.028	1.79	1.2	2.6
+R-HSA-422475	Axon guidance	295	23	1.89	3.22	0.0025	0.029	2.02	1.25	3.14
+R-HSA-5676590	NIK-->noncanonical NF-kB signaling	59	8	3.29	3.65	0.0027	0.031	3.7	1.51	7.92
+R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	60	8	3.23	3.6	0.0031	0.033	3.63	1.48	7.75
+R-HSA-5610785	GLI3 is processed to GLI3R by the proteasome	60	8	3.23	3.6	0.0031	0.033	3.63	1.48	7.75
+R-HSA-5687128	MAPK6/MAPK4 signaling	89	10	2.72	3.39	0.0035	0.037	2.99	1.37	5.85
+R-HSA-174084	Autodegradation of Cdh1 by Cdh1:APC/C	63	8	3.08	3.43	0.0041	0.042	3.43	1.4	7.3
+R-HSA-438066	Unblocking of NMDA receptor, glutamate binding and activation	17	4	5.7	4.03	0.0044	0.044	7.21	1.7	23.5
+R-HSA-112310	Neurotransmitter release cycle	51	7	3.33	3.46	0.0047	0.044	3.74	1.41	8.45
+R-HSA-350562	Regulation of ornithine decarboxylase (ODC)	51	7	3.33	3.46	0.0047	0.044	3.74	1.41	8.45
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	78	9	2.8	3.31	0.0046	0.044	3.08	1.34	6.24
+R-HSA-180534	Vpu mediated degradation of CD4	52	7	3.26	3.39	0.0052	0.048	3.66	1.38	8.25
+R-HSA-1169091	Activation of NF-kappaB in B cells	66	8	2.94	3.28	0.0055	0.049	3.25	1.33	6.9
+R-HSA-176408	Regulation of APC/C activators between G1/S and early anaphase	80	9	2.73	3.22	0.0055	0.049	2.99	1.3	6.06
+R-HSA-5673001	RAF/MAP kinase cascade	243	19	1.9	2.93	0.0056	0.049	2.02	1.18	3.27

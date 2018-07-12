@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5675482	Regulation of necroptotic cell death	18	3	16.7	6.69	0.00071	0.027	20.4	3.72	73.6
+R-HSA-5213460	RIPK1-mediated regulated necrosis	20	3	15	6.3	0.00097	0.027	18	3.32	63.6
+R-HSA-5218859	Regulated Necrosis	20	3	15	6.3	0.00097	0.027	18	3.32	63.6

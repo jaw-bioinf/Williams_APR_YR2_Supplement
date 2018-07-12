@@ -1,0 +1,93 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112316	Neuronal System	356	47	3.69	9.96	3.9e-15	1.2e-12	4.57	3.22	6.37
+R-HSA-1296071	Potassium Channels	99	20	5.65	8.95	2.2e-10	3.4e-08	7.17	4.11	12
+R-HSA-977444	GABA B receptor activation	39	10	7.17	7.44	7.6e-07	3.8e-05	9.53	4.11	20.3
+R-HSA-991365	Activation of GABAB receptors	39	10	7.17	7.44	7.6e-07	3.8e-05	9.53	4.11	20.3
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	20	3.63	6.34	5.5e-07	3.8e-05	4.2	2.46	6.86
+R-HSA-112315	Transmission across Chemical Synapses	224	25	3.12	6.18	4.1e-07	3.8e-05	3.57	2.22	5.51
+R-HSA-1296041	Activation of G protein gated Potassium channels	25	8	8.95	7.66	1.6e-06	5.3e-05	13	4.8	31.9
+R-HSA-1296059	G protein gated Potassium channels	25	8	8.95	7.66	1.6e-06	5.3e-05	13	4.8	31.9
+R-HSA-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	25	8	8.95	7.66	1.6e-06	5.3e-05	13	4.8	31.9
+R-HSA-977443	GABA receptor activation	55	11	5.59	6.58	3e-06	9.2e-05	6.92	3.2	13.8
+R-HSA-1296065	Inwardly rectifying K+ channels	31	8	7.22	6.68	9.5e-06	0.00026	9.57	3.67	22.3
+R-HSA-1296072	Voltage gated Potassium channels	43	9	5.85	6.14	1.7e-05	0.00042	7.29	3.05	15.7
+R-HSA-382551	Transport of small molecules	705	46	1.82	4.37	4.7e-05	0.0011	2.01	1.43	2.78
+R-HSA-5576891	Cardiac conduction	139	15	3.02	4.61	0.00013	0.0028	3.36	1.81	5.84
+R-HSA-6794362	Protein-protein interactions at synapses	70	10	4	4.84	0.00018	0.0036	4.59	2.08	9.14
+R-HSA-983712	Ion channel transport	183	17	2.6	4.2	0.00029	0.0055	2.85	1.6	4.77
+R-HSA-397014	Muscle contraction	201	18	2.5	4.15	0.00031	0.0055	2.74	1.57	4.52
+R-HSA-428157	Sphingolipid metabolism	90	11	3.42	4.44	0.00035	0.0058	3.84	1.83	7.34
+R-HSA-373755	Semaphorin interactions	52	8	4.3	4.6	0.00047	0.0075	4.99	2.01	10.8
+R-HSA-388844	Receptor-type tyrosine-protein phosphatases	20	5	6.99	5.17	0.00057	0.0086	9.1	2.57	26.5
+R-HSA-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	96	11	3.2	4.18	0.00061	0.0087	3.57	1.7	6.79
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	9	3.7	4.3	0.00066	0.0091	4.19	1.81	8.6
+R-HSA-5654695	PI-3K cascade:FGFR2	23	5	6.08	4.7	0.0011	0.014	7.58	2.19	21.3
+R-HSA-199418	Negative regulation of the PI3K/AKT network	103	11	2.99	3.9	0.0011	0.014	3.29	1.57	6.25
+R-HSA-194840	Rho GTPase cycle	138	13	2.63	3.72	0.0013	0.016	2.87	1.47	5.16
+R-HSA-975576	N-glycan antennae elongation in the medial/trans-Golgi	26	5	5.38	4.3	0.002	0.023	6.5	1.9	17.8
+R-HSA-422475	Axon guidance	295	21	1.99	3.33	0.0021	0.023	2.13	1.28	3.38
+R-HSA-164378	PKA activation in glucagon signalling	17	4	6.58	4.43	0.0026	0.024	8.38	1.98	27.3
+R-HSA-1839126	FGFR2 mutant receptor activation	17	4	6.58	4.43	0.0026	0.024	8.38	1.98	27.3
+R-HSA-2033519	Activated point mutants of FGFR2	17	4	6.58	4.43	0.0026	0.024	8.38	1.98	27.3
+R-HSA-438066	Unblocking of NMDA receptor, glutamate binding and activation	17	4	6.58	4.43	0.0026	0.024	8.38	1.98	27.3
+R-HSA-5655253	Signaling by FGFR2 in disease	27	5	5.18	4.19	0.0024	0.024	6.2	1.82	16.9
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	30	1.72	3.15	0.0025	0.024	1.84	1.21	2.72
+R-HSA-5654221	Phospholipase C-mediated cascade; FGFR2	18	4	6.22	4.26	0.0033	0.026	7.78	1.85	24.9
+R-HSA-5654710	PI-3K cascade:FGFR3	18	4	6.22	4.26	0.0033	0.026	7.78	1.85	24.9
+R-HSA-109704	PI3K Cascade	41	6	4.09	3.82	0.0031	0.026	4.68	1.6	11.4
+R-HSA-442755	Activation of NMDA receptor and postsynaptic events	41	6	4.09	3.82	0.0031	0.026	4.68	1.6	11.4
+R-HSA-5578775	Ion homeostasis	54	7	3.63	3.73	0.0029	0.026	4.08	1.54	9.16
+R-HSA-112399	IRS-mediated signalling	42	6	4	3.75	0.0035	0.027	4.55	1.56	11
+R-HSA-936837	Ion transport by P-type ATPases	56	7	3.5	3.61	0.0036	0.027	3.91	1.48	8.76
+R-HSA-5654696	Downstream signaling of activated FGFR2	30	5	4.66	3.87	0.0039	0.028	5.45	1.62	14.6
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	6	3.9	3.67	0.004	0.028	4.43	1.52	10.7
+R-HSA-416482	G alpha (12/13) signalling events	87	9	2.89	3.42	0.0038	0.028	3.17	1.38	6.39
+R-HSA-168799	Neurotoxicity of clostridium toxins	10	3	8.39	4.5	0.0045	0.029	11.6	1.93	51.2
+R-HSA-193697	p75NTR regulates axonogenesis	10	3	8.39	4.5	0.0045	0.029	11.6	1.93	51.2
+R-HSA-1660661	Sphingolipid de novo biosynthesis	44	6	3.81	3.6	0.0045	0.029	4.31	1.48	10.4
+R-HSA-8856828	Clathrin-mediated endocytosis	140	12	2.4	3.21	0.0043	0.029	2.58	1.29	4.72
+R-HSA-190241	FGFR2 ligand binding and activation	20	4	5.59	3.96	0.0049	0.031	6.8	1.65	21.2
+R-HSA-4641263	Regulation of FZD by ubiquitination	21	4	5.33	3.82	0.0059	0.033	6.4	1.56	19.8
+R-HSA-5654689	PI-3K cascade:FGFR1	21	4	5.33	3.82	0.0059	0.033	6.4	1.56	19.8
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	5	4.24	3.59	0.0059	0.033	4.87	1.46	12.9
+R-HSA-4085001	Sialic acid metabolism	33	5	4.24	3.59	0.0059	0.033	4.87	1.46	12.9
+R-HSA-2428928	IRS-related events triggered by IGF1R	46	6	3.65	3.47	0.0056	0.033	4.1	1.41	9.81
+R-HSA-425407	SLC-mediated transmembrane transport	241	17	1.97	2.94	0.0058	0.033	2.1	1.19	3.49
+R-HSA-5655332	Signaling by FGFR3 in disease	22	4	5.09	3.69	0.0071	0.034	6.05	1.48	18.5
+R-HSA-8853338	Signaling by FGFR3 point mutants in cancer	22	4	5.09	3.69	0.0071	0.034	6.05	1.48	18.5
+R-HSA-1226099	Signaling by FGFR in disease	47	6	3.57	3.4	0.0062	0.034	4	1.38	9.55
+R-HSA-2428924	IGF1R signaling cascade	47	6	3.57	3.4	0.0062	0.034	4	1.38	9.55
+R-HSA-1483249	Inositol phosphate metabolism	48	6	3.5	3.34	0.0069	0.034	3.9	1.35	9.3
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	48	6	3.5	3.34	0.0069	0.034	3.9	1.35	9.3
+R-HSA-74751	Insulin receptor signalling cascade	48	6	3.5	3.34	0.0069	0.034	3.9	1.35	9.3
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	9	2.68	3.15	0.0063	0.034	2.9	1.27	5.84
+R-HSA-1839130	Signaling by activated point mutants of FGFR3	12	3	6.99	4	0.0078	0.037	9.05	1.57	36.5
+R-HSA-1855183	Synthesis of IP2, IP, and Ins in the cytosol	12	3	6.99	4	0.0078	0.037	9.05	1.57	36.5
+R-HSA-2033514	FGFR3 mutant receptor activation	12	3	6.99	4	0.0078	0.037	9.05	1.57	36.5
+R-HSA-5654699	SHC-mediated cascade:FGFR2	23	4	4.86	3.57	0.0083	0.038	5.73	1.41	17.4
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	36	5	3.88	3.34	0.0086	0.039	4.4	1.33	11.5
+R-HSA-190239	FGFR3 ligand binding and activation	13	3	6.45	3.79	0.0099	0.04	8.15	1.43	31.8
+R-HSA-190372	FGFR3c ligand binding and activation	13	3	6.45	3.79	0.0099	0.04	8.15	1.43	31.8
+R-HSA-190375	FGFR2c ligand binding and activation	13	3	6.45	3.79	0.0099	0.04	8.15	1.43	31.8
+R-HSA-425561	Sodium/Calcium exchangers	13	3	6.45	3.79	0.0099	0.04	8.15	1.43	31.8
+R-HSA-5654227	Phospholipase C-mediated cascade; FGFR3	13	3	6.45	3.79	0.0099	0.04	8.15	1.43	31.8
+R-HSA-5658623	FGFRL1 modulation of FGFR1 signaling	13	3	6.45	3.79	0.0099	0.04	8.15	1.43	31.8
+R-HSA-438064	Post NMDA receptor activation events	37	5	3.78	3.26	0.0097	0.04	4.26	1.29	11.1
+R-HSA-5083635	Defective B3GALTL causes Peters-plus syndrome (PpS)	37	5	3.78	3.26	0.0097	0.04	4.26	1.29	11.1
+R-HSA-445717	Aquaporin-mediated transport	52	6	3.23	3.1	0.01	0.041	3.56	1.23	8.43
+R-HSA-3238698	WNT ligand biogenesis and trafficking	25	4	4.48	3.35	0.011	0.042	5.18	1.29	15.5
+R-HSA-5654700	FRS-mediated FGFR2 signaling	25	4	4.48	3.35	0.011	0.042	5.18	1.29	15.5
+R-HSA-5654708	Downstream signaling of activated FGFR3	25	4	4.48	3.35	0.011	0.042	5.18	1.29	15.5
+R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	38	5	3.68	3.19	0.011	0.042	4.13	1.25	10.7
+R-HSA-381771	Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	14	3	5.99	3.6	0.012	0.045	7.4	1.32	28.2
+R-HSA-418359	Reduction of cytosolic Ca++ levels	14	3	5.99	3.6	0.012	0.045	7.4	1.32	28.2
+R-HSA-400685	Sema4D in semaphorin signaling	15	3	5.59	3.43	0.015	0.05	6.79	1.22	25.3
+R-HSA-975577	N-Glycan antennae elongation	15	3	5.59	3.43	0.015	0.05	6.79	1.22	25.3
+R-HSA-111933	Calmodulin induced events	27	4	4.14	3.15	0.015	0.05	4.73	1.18	13.9
+R-HSA-111997	CaM pathway	27	4	4.14	3.15	0.015	0.05	4.73	1.18	13.9
+R-HSA-418360	Platelet calcium homeostasis	27	4	4.14	3.15	0.015	0.05	4.73	1.18	13.9
+R-HSA-112043	PLC beta mediated events	41	5	3.41	2.98	0.015	0.05	3.78	1.15	9.76
+R-HSA-8853659	RET signaling	41	5	3.41	2.98	0.015	0.05	3.78	1.15	9.76
+R-HSA-74752	Signaling by Insulin receptor	72	7	2.72	2.82	0.014	0.05	2.94	1.13	6.47
+R-HSA-2672351	Stimuli-sensing channels	107	9	2.35	2.71	0.014	0.05	2.51	1.11	5.03
+R-HSA-425393	Transport of inorganic cations/anions and amino acids/oligopeptides	108	9	2.33	2.68	0.015	0.05	2.49	1.1	4.97

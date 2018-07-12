@@ -1,0 +1,45 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001516	abnormal motor coordination/ balance	833	69	1.91	5.87	7.5e-08	7.4e-05	2.2	1.65	2.89
+MP:0003633	abnormal nervous system physiology	1903	127	1.54	5.63	6e-08	7.4e-05	1.85	1.47	2.3
+MP:0001447	abnormal nest building behavior	37	11	6.86	7.6	2.7e-07	0.00018	9.57	4.24	20.2
+MP:0003635	abnormal synaptic transmission	740	61	1.9	5.45	5.7e-07	0.00026	2.16	1.6	2.88
+MP:0003313	abnormal locomotor activation	1152	84	1.68	5.27	6.6e-07	0.00026	1.93	1.49	2.49
+MP:0001392	abnormal locomotor behavior	1537	104	1.56	5.13	8.4e-07	0.00028	1.81	1.43	2.29
+MP:0001405	impaired coordination	454	42	2.14	5.28	2.3e-06	0.00055	2.4	1.67	3.36
+MP:0002572	abnormal emotion/affect behavior	619	52	1.94	5.15	2.5e-06	0.00055	2.18	1.58	2.96
+MP:0003491	abnormal voluntary movement	1648	108	1.51	4.88	2.3e-06	0.00055	1.75	1.38	2.2
+MP:0004811	abnormal neuron physiology	667	54	1.87	4.96	4.8e-06	0.00095	2.09	1.52	2.83
+MP:0002206	abnormal CNS synaptic transmission	653	53	1.87	4.93	5.5e-06	0.001	2.09	1.52	2.84
+MP:0002882	abnormal neuron morphology	1515	99	1.51	4.6	8.2e-06	0.0014	1.72	1.35	2.18
+MP:0003492	abnormal involuntary movement	942	68	1.67	4.59	1.4e-05	0.0021	1.86	1.4	2.45
+MP:0001399	hyperactivity	475	41	1.99	4.72	1.7e-05	0.0024	2.21	1.54	3.11
+MP:0003106	abnormal fear-related response	65	12	4.26	5.61	1.9e-05	0.0025	5.12	2.47	9.8
+MP:0004859	abnormal synaptic plasticity	67	12	4.13	5.48	2.6e-05	0.003	4.93	2.38	9.42
+MP:0002152	abnormal brain morphology	1633	103	1.46	4.32	2.4e-05	0.003	1.65	1.3	2.09
+MP:0002915	abnormal synaptic depression	129	17	3.04	4.97	3.9e-05	0.0043	3.45	1.92	5.85
+MP:0001961	abnormal reflex	767	56	1.69	4.22	6.4e-05	0.0067	1.86	1.36	2.5
+MP:0002063	abnormal learning/memory/conditioning	664	50	1.74	4.2	7.6e-05	0.0075	1.91	1.38	2.61
+MP:0014114	abnormal cognition	665	50	1.74	4.19	7.9e-05	0.0075	1.91	1.37	2.6
+MP:0008428	abnormal spatial working memory	76	12	3.64	4.93	9.3e-05	0.0084	4.24	2.06	8
+MP:0001361	social withdrawal	19	6	7.29	5.84	0.00011	0.009	10.3	3.2	29.3
+MP:0003460	decreased fear-related response	45	9	4.62	5.17	0.00011	0.009	5.62	2.36	12
+MP:0002062	abnormal associative learning	290	27	2.15	4.23	0.00014	0.01	2.36	1.5	3.57
+MP:0002065	abnormal fear/anxiety-related behavior	369	32	2	4.18	0.00013	0.01	2.19	1.45	3.21
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	64	1.58	3.97	0.00013	0.01	1.74	1.3	2.3
+MP:0009538	abnormal synapse morphology	189	20	2.44	4.26	0.00019	0.014	2.7	1.59	4.36
+MP:0003312	abnormal locomotor coordination	672	49	1.68	3.91	2e-04	0.014	1.84	1.32	2.52
+MP:0002064	seizures	383	32	1.93	3.95	0.00026	0.018	2.1	1.39	3.07
+MP:0002068	abnormal parental behavior	169	18	2.46	4.07	0.00037	0.024	2.71	1.55	4.49
+MP:0001469	abnormal contextual conditioning behavior	144	16	2.56	4.03	0.00048	0.03	2.83	1.56	4.84
+MP:0001468	abnormal temporal memory	173	18	2.4	3.96	0.00049	0.03	2.64	1.51	4.36
+MP:0009357	abnormal seizure response to inducing agent	190	19	2.31	3.88	0.00057	0.033	2.53	1.47	4.12
+MP:0001360	abnormal social investigation	106	13	2.83	4.03	0.00063	0.035	3.16	1.61	5.73
+MP:0009142	decreased prepulse inhibition	133	15	2.6	3.96	0.00062	0.035	2.88	1.55	5
+MP:0000938	motor neuron degeneration	46	8	4.01	4.36	0.00071	0.038	4.72	1.89	10.4
+MP:0008415	abnormal neurite morphology	423	33	1.8	3.59	0.00073	0.038	1.95	1.3	2.83
+MP:0001900	impaired synaptic plasticity	47	8	3.93	4.28	0.00082	0.042	4.6	1.84	10.1
+MP:0012322	decreased total tissue mass	1833	105	1.32	3.28	0.00091	0.044	1.46	1.15	1.85
+MP:0001262	decreased body weight	1833	105	1.32	3.28	0.00091	0.044	1.46	1.15	1.85
+MP:0008540	abnormal cerebral hemisphere morphology	609	43	1.63	3.42	0.00096	0.045	1.76	1.24	2.45
+MP:0001513	limb grasping	246	22	2.06	3.6	0.00099	0.046	2.24	1.36	3.52
+MP:0000790	abnormal stratification in cerebral cortex	49	8	3.77	4.13	0.0011	0.049	4.37	1.76	9.53

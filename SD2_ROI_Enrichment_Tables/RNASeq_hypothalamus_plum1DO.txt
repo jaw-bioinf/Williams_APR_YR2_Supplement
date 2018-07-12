@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:10286 prostate carcinoma 125 5 6.36 4.81 0.001 0.048 7.3 2.21 19
+DOID:12849 autistic disorder 186 6 5.13 4.54 0.00099 0.048 5.94 2.03 14.4
+DOID:0060041 autism spectrum disorder 191 6 5 4.46 0.0011 0.048 5.78 1.97 14
+DOID:0060040 pervasive developmental disorder 201 6 4.75 4.29 0.0015 0.048 5.47 1.87 13.3

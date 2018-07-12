@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0006204	embryonic lethality before implantation	168	8	9.02	7.64	2.3e-06	0.00081	11	4.4	24.4
+MP:0011094	embryonic lethality before implantation, complete penetrance	143	7	9.27	7.26	8.9e-06	0.0015	11.1	4.15	25.6
+MP:0011702	abnormal fibroblast proliferation	167	7	7.94	6.59	2.5e-05	0.0025	9.44	3.52	21.6
+MP:0008762	embryonic lethality	1763	22	2.36	4.63	2.9e-05	0.0025	3.5	1.9	6.41
+MP:0001672	abnormal embryo development	1018	16	2.98	4.87	3.9e-05	0.0027	3.98	2.04	7.47
+MP:0008007	abnormal cellular replicative senescence	85	5	11.1	6.84	8e-05	0.0046	13	3.92	33.9
+MP:0000350	abnormal cell proliferation	966	14	2.74	4.17	0.00033	0.016	3.48	1.72	6.66
+MP:0008008	early cellular replicative senescence	73	4	10.4	5.86	0.00057	0.02	11.8	3	33.7
+MP:0009781	abnormal preimplantation embryo development	78	4	9.71	5.63	0.00073	0.02	11	2.8	31.3
+MP:0011704	decreased fibroblast proliferation	127	5	7.46	5.34	0.00052	0.02	8.48	2.58	21.8
+MP:0013293	embryonic lethality prior to tooth bud stage	788	12	2.88	4.03	0.00063	0.02	3.53	1.67	6.96
+MP:0004196	abnormal prenatal growth/weight/body size	1147	15	2.48	3.89	0.00058	0.02	3.16	1.59	5.97
+MP:0005380	embryo phenotype	1722	19	2.09	3.65	0.00073	0.02	2.8	1.48	5.15
+MP:0013292	embryonic lethality prior to organogenesis	717	11	2.91	3.87	0.001	0.026	3.49	1.6	7.01
+MP:0002088	abnormal embryonic growth/weight/body size	966	13	2.55	3.7	0.0012	0.026	3.14	1.52	6.08
+MP:0000352	decreased cell proliferation	515	9	3.31	3.93	0.0013	0.028	3.88	1.65	8.18
+MP:0010866	abnormal prenatal body size	862	12	2.64	3.67	0.0014	0.028	3.2	1.51	6.3
+MP:0010865	prenatal growth retardation	644	10	2.94	3.72	0.0017	0.032	3.48	1.54	7.13
+MP:0011703	increased fibroblast proliferation	47	3	12.1	5.55	0.0019	0.034	13.6	2.61	44.9
+MP:0000351	increased cell proliferation	251	6	4.53	4.13	0.0019	0.034	5.12	1.76	12.2
+MP:0003984	embryonic growth retardation	560	9	3.04	3.63	0.0023	0.038	3.54	1.5	7.47
+MP:0002007	increased cellular sensitivity to gamma-irradiation	54	3	10.5	5.11	0.0028	0.045	11.7	2.26	38.4

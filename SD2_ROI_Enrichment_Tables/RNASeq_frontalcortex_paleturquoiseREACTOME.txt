@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3371571	HSF1-dependent transactivation	24	4	32.1	11	6.4e-06	0.00022	41.3	9.89	130
+R-HSA-3371568	Attenuation phase	14	3	41.3	10.9	4.6e-05	0.00079	55.1	9.59	219
+R-HSA-3371556	Cellular response to heat stress	88	5	10.9	6.77	8.8e-05	0.00099	12.6	3.83	32.8
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	68	4	11.3	6.17	0.00041	0.0035	12.9	3.27	36.7
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	3	10.3	5.05	0.003	0.021	11.4	2.21	37.2
+R-HSA-3214841	PKMTs methylate histone lysines	71	3	8.14	4.36	0.0059	0.024	8.9	1.73	28.7
+R-HSA-3247509	Chromatin modifying enzymes	227	5	4.24	3.57	0.0063	0.024	4.67	1.43	11.8
+R-HSA-4839726	Chromatin organization	227	5	4.24	3.57	0.0063	0.024	4.67	1.43	11.8
+R-HSA-2262752	Cellular responses to stress	425	7	3.17	3.31	0.0061	0.024	3.55	1.34	8
+R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	86	3	6.72	3.85	0.01	0.034	7.28	1.42	23.3
+R-HSA-8953897	Cellular responses to external stimuli	493	7	2.73	2.85	0.013	0.041	3.03	1.15	6.82

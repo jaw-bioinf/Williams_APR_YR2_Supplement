@@ -1,0 +1,40 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72766	Translation	258	15	4.44	6.45	1.3e-06	0.00019	5.13	2.74	8.98
+R-HSA-392499	Metabolism of proteins	1907	47	1.88	4.94	3.9e-06	0.00028	2.41	1.65	3.5
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	8	6.44	6.13	3.2e-05	0.0016	7.32	3	15.5
+R-HSA-72689	Formation of a pool of free 40S subunits	101	8	6.05	5.88	5e-05	0.0018	6.84	2.81	14.5
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	8	5.51	5.5	9.9e-05	0.0019	6.17	2.54	13
+R-HSA-192823	Viral mRNA Translation	89	7	6.01	5.47	0.00016	0.0019	6.74	2.58	14.9
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	8	5.46	5.46	0.00011	0.0019	6.11	2.52	12.9
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	8	5.32	5.36	0.00013	0.0019	5.94	2.45	12.5
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	8	5.32	5.36	0.00013	0.0019	5.94	2.45	12.5
+R-HSA-72613	Eukaryotic Translation Initiation	119	8	5.14	5.23	0.00016	0.0019	5.72	2.36	12
+R-HSA-72737	Cap-dependent Translation Initiation	119	8	5.14	5.23	0.00016	0.0019	5.72	2.36	12
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	10	4.2	5.02	0.00013	0.0019	4.66	2.14	9.08
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	7	5.75	5.3	0.00021	0.0021	6.43	2.46	14.2
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	10	4	4.82	2e-04	0.0021	4.43	2.04	8.61
+R-HSA-8953854	Metabolism of RNA	646	20	2.37	4.13	0.00026	0.0025	2.66	1.56	4.35
+R-HSA-72312	rRNA processing	201	10	3.8	4.62	3e-04	0.0027	4.19	1.93	8.15
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	8	4.6	4.81	0.00035	0.0029	5.07	2.1	10.6
+R-HSA-5205647	Mitophagy	29	4	10.5	5.93	0.00052	0.0041	12.4	3.09	36.7
+R-HSA-168255	Influenza Life Cycle	143	8	4.28	4.54	0.00056	0.0043	4.69	1.94	9.81
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	34	4	8.99	5.37	0.00096	0.006	10.3	2.61	30
+R-HSA-5419276	Mitochondrial translation termination	86	6	5.33	4.65	0.00089	0.006	5.88	2.06	13.7
+R-HSA-5368287	Mitochondrial translation	87	6	5.27	4.61	0.00095	0.006	5.81	2.03	13.6
+R-HSA-168254	Influenza Infection	154	8	3.97	4.28	0.00091	0.006	4.34	1.8	9.04
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	4	7.28	4.7	0.0021	0.013	8.15	2.08	23.1
+R-HSA-390466	Chaperonin-mediated protein folding	43	4	7.11	4.62	0.0023	0.013	7.94	2.03	22.5
+R-HSA-391251	Protein folding	43	4	7.11	4.62	0.0023	0.013	7.94	2.03	22.5
+R-HSA-8856828	Clathrin-mediated endocytosis	140	7	3.82	3.87	0.0024	0.013	4.14	1.6	9.02
+R-HSA-5389840	Mitochondrial translation elongation	84	5	4.55	3.76	0.0048	0.025	4.92	1.53	12.3
+R-HSA-68886	M Phase	391	12	2.35	3.13	0.0051	0.025	2.53	1.26	4.64
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	7	3.24	3.34	0.0059	0.028	3.47	1.35	7.54
+R-HSA-381038	XBP1(S) activates chaperone genes	57	4	5.36	3.8	0.0065	0.03	5.84	1.51	16.2
+R-HSA-381070	IRE1alpha activates chaperones	59	4	5.18	3.71	0.0073	0.033	5.63	1.46	15.6
+R-HSA-195721	Signaling by WNT	314	10	2.43	2.97	0.0081	0.035	2.6	1.21	5.02
+R-HSA-201681	TCF dependent signaling in response to WNT	224	8	2.73	3.01	0.0091	0.039	2.91	1.21	6.02
+R-HSA-6807070	PTEN Regulation	140	6	3.28	3.12	0.01	0.04	3.49	1.24	8.01
+R-HSA-5663205	Infectious disease	326	10	2.34	2.84	0.01	0.04	2.5	1.16	4.82
+R-HSA-2262752	Cellular responses to stress	425	12	2.16	2.81	0.0097	0.04	2.31	1.15	4.23
+R-HSA-8948751	Regulation of PTEN stability and activity	69	4	4.43	3.29	0.013	0.046	4.76	1.24	13.1
+R-HSA-8953897	Cellular responses to external stimuli	493	13	2.02	2.66	0.012	0.046	2.16	1.11	3.87

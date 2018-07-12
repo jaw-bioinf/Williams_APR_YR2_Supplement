@@ -1,0 +1,20 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:5879	cor	8	Ksr1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	KSR1
+2	1	TRUE	0.0389	5	6	1	0.167	0.2	CORUM:5742	cor	10	Multicomponent signaling complex, anti-CD40 stimulated,(Birc2, Birc3, Cd40, Ikbkg, Map3k1, Traf2, Ube2n)	1	CD40
+3	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:5881	cor	3	Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	KSR1
+4	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:5743	cor	20	Membrane-associated multicomponent signaling complex, anti-CD40 stimulated (Cd40, Ikbkg, Map3k1, Traf2, Ube2n)	1	CD40
+5	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:5880	cor	17	Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	KSR1
+6	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:5886	cor	16	Ksr1 complex (Ksr1, Mek, 14-3-3), unstimulated	1	KSR1
+7	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:580	cor	13	Epo-R-IP(3)R type II-TRPC2 complex	1	TRPC2
+8	1	TRUE	0.0349	2	6	1	0.167	0.5	CORUM:2980	cor	6	Ccd1-Mekk4 complex	1	DIXDC1
+9	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:5909	cor	19	Ksr1 complex (Ksr1, Mek, 14-3-3, Mapk), EGF stimulated	1	KSR1
+10	1	TRUE	0.0349	1	6	1	0.167	1	CORUM:2977	cor	14	Ccd1-Axin complex	1	DIXDC1
+11	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:2870	cor	7	TEAD2-multiprotein complex	1	YWHAQ
+12	1	TRUE	0.0389	5	6	1	0.167	0.2	CORUM:5910	cor	1	Ksr1-CK2 complex	1	KSR1
+13	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:581	cor	2	Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex	1	TRPC2
+14	1	TRUE	0.0349	2	6	1	0.167	0.5	CORUM:2976	cor	15	Ccd1-Dvl2 complex	1	DIXDC1
+15	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:5946	cor	18	Ksr1-Mek-Braf complex, EGF induced	1	KSR1
+16	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:579	cor	5	Epo-R-PLC-gamma-TRPC2 complex	1	TRPC2
+17	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:5937	cor	12	B-Ksr1-MEK-MAPK-14-3-3 complex	1	KSR1
+18	1	TRUE	0.0349	3	6	1	0.167	0.333	CORUM:2973	cor	9	Ccd1-Dvl2-Rac complex	1	DIXDC1
+19	1	TRUE	0.0349	4	6	1	0.167	0.25	CORUM:5947	cor	4	Ksr1-Mek-Braf-Erk complex, EGF induced	1	KSR1

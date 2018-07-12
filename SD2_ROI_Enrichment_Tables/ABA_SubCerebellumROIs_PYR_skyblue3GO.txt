@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0216	10	1	1	1	0.1	CORUM:496	cor	3	TFIID complex	1	TAF12
+2	1	TRUE	0.0237	15	22	2	0.091	0.133	REAC:R-MMU-418038	rea	1	Nucleotide-like (purinergic) receptors	1	LPAR6,P2RY4
+3	1	TRUE	0.0237	11	22	2	0.091	0.182	REAC:R-MMU-417957	rea	1	P2Y receptors	2	LPAR6,P2RY4

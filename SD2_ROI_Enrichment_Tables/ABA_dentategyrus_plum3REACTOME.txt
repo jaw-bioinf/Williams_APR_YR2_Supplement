@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	4	7.83	4.93	0.0016	0.023	9.03	2.27	26.3
+R-HSA-983712	Ion channel transport	183	4	7.06	4.61	0.0023	0.023	8.11	2.04	23.6
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	3	9.69	4.87	0.0035	0.024	10.9	2.09	36.2
+R-HSA-382551	Transport of small molecules	705	7	3.21	3.39	0.0049	0.025	3.88	1.41	9.32
+R-HSA-8856828	Clathrin-mediated endocytosis	140	3	6.92	3.93	0.009	0.036	7.7	1.48	25.4

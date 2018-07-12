@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001261	obese	106	4	12.5	6.55	0.00027	0.014	14.9	3.7	44.5
+MP:0005455	increased susceptibility to weight gain	119	4	11.1	6.12	0.00042	0.014	13.2	3.28	39.3
+MP:0012323	increased total tissue mass	338	6	5.88	5.03	0.00043	0.014	7.32	2.41	18.8
+MP:0001260	increased body weight	338	6	5.88	5.03	0.00043	0.014	7.32	2.41	18.8
+MP:0001264	increased body size	368	6	5.4	4.74	0.00067	0.018	6.69	2.21	17.2
+MP:0011117	abnormal susceptibility to weight gain	252	5	6.58	4.94	0.00084	0.019	7.92	2.33	21.5
+MP:0010024	increased total body fat amount	166	4	7.99	5	0.0014	0.028	9.34	2.33	27.6
+MP:0001502	abnormal circadian rhythm	94	3	10.6	5.13	0.0027	0.046	12.1	2.29	40.6

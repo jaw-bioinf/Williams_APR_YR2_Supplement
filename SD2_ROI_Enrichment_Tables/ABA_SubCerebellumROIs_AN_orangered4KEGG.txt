@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04136	Autophagy - other	32	3	13.5	5.94	0.0013	0.0099	15.8	2.96	54
+path:hsa05016	Huntington's disease	193	6	4.49	4.11	0.002	0.0099	5.14	1.76	12.4
+path:hsa04520	Adherens junction	72	3	6.02	3.57	0.013	0.033	6.6	1.28	21.4
+path:hsa04140	Autophagy - animal	128	4	4.51	3.35	0.011	0.033	4.97	1.27	14

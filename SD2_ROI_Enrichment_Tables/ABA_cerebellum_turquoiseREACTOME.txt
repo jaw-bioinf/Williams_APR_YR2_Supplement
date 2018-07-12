@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	86	1.64	5.14	1e-06	0.00067	1.92	1.47	2.48
+R-HSA-500792	GPCR ligand binding	419	106	1.54	5.02	1.4e-06	0.00067	1.78	1.4	2.24
+R-HSA-196854	Metabolism of vitamins and cofactors	184	51	1.69	4.18	6.7e-05	0.022	1.98	1.4	2.77
+R-HSA-425366	Transport of bile salts and organic acids, metal ions and amine compounds	80	27	2.06	4.2	0.00011	0.027	2.62	1.58	4.26

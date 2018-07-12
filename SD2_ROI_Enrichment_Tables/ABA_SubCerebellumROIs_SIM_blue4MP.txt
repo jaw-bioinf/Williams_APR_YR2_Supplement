@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005108	abnormal ulna morphology	95	4	13.5	6.84	2e-04	0.033	16.1	3.99	47.9
+MP:0009674	decreased birth weight	119	4	10.8	6	0.00048	0.033	12.7	3.16	37.6
+MP:0009672	abnormal birth weight	121	4	10.6	5.94	0.00051	0.033	12.5	3.11	36.9
+MP:0003855	abnormal forelimb zeugopod morphology	121	4	10.6	5.94	0.00051	0.033	12.5	3.11	36.9
+MP:0004359	short ulna	58	3	16.5	6.65	0.00075	0.039	19.3	3.63	65.7
+MP:0004351	short humerus	64	3	15	6.29	0.001	0.043	17.3	3.28	59
+MP:0000149	abnormal scapula morphology	67	3	14.3	6.13	0.0011	0.043	16.5	3.13	56.1

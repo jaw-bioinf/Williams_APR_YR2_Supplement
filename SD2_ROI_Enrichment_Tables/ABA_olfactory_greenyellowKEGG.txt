@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04270 Vascular smooth muscle contraction 121 9 4.49 5.03 0.00016 0.012 5.11 2.21 10.4
+path:hsa05216 Thyroid cancer 29 4 8.33 5.13 0.0012 0.022 9.81 2.44 29.1
+path:hsa05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC) 72 6 5.03 4.46 0.0012 0.022 5.65 1.96 13.4
+path:hsa04080 Neuroactive ligand-receptor interaction 277 13 2.83 4.05 0.00061 0.022 3.18 1.61 5.79

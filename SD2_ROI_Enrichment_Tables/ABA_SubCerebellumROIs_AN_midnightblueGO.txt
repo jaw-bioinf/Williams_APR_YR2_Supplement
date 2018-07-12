@@ -1,0 +1,17 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0319	4	7	1	0.143	0.25	CORUM:968	cor	11	Crb1-Mupp1-Pals1-Mpp4 complex	1	CRB1
+2	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:498	cor	7	Ryk-Wny1-Fzd8 complex	1	RYK
+3	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:2900	cor	1	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	LAT2
+4	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:2539	cor	15	Lab-Grb2 complex, BCR stimulated	1	LAT2
+5	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:719	cor	4	S100A10-annexin 2 complex	1	S100A10
+6	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:501	cor	9	Ryk-Dvl1 complex	1	RYK
+7	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:2902	cor	8	Grb2-Lab-Blnk complex, BCR stimulated	1	LAT2
+8	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:3017	cor	6	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	STAG3
+9	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:6677	cor	10	Nphp1-Nphp4-Rpgrip1l complex	1	RPGRIP1L
+10	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:5439	cor	14	Eya1/3-Dach1/2-Six1 complex	1	DACH1
+11	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:718	cor	12	TRPV5-S100A10-annexin 2 complex	1	S100A10
+12	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:499	cor	13	Ryk-Wny1 complex	1	RYK
+13	1	TRUE	0.0256	2	7	1	0.143	0.5	CORUM:500	cor	17	Ryk-Wnt3a complex	1	RYK
+14	1	TRUE	0.0256	1	7	1	0.143	1	CORUM:3016	cor	3	Cohesin complex, incomplete (Stag3, Sycp3)	1	STAG3
+15	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:2899	cor	16	PLC-gamma-1-Lab-Blnk complex, BCR stimulated	1	LAT2
+16	1	TRUE	0.0256	3	7	1	0.143	0.333	CORUM:3014	cor	2	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	STAG3

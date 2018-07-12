@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004620	cervical vertebral fusion	49	4	14	7	0.00018	0.041	16.3	4.1	47.3
+MP:0011090	perinatal lethality, incomplete penetrance	332	9	4.66	5.19	0.00011	0.041	5.51	2.35	11.5
+MP:0000459	abnormal presacral vertebrae morphology	301	8	4.57	4.81	0.00032	0.049	5.3	2.14	11.5

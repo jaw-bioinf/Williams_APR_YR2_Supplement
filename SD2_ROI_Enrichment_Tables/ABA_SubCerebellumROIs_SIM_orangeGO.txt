@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0418	3	9	1	0.111	0.333	CORUM:6312	cor	5	P300–Clock–Bmal1 complex	1	CLOCK
+2	1	TRUE	0.0418	3	9	1	0.111	0.333	CORUM:1014	cor	4	Pcdhga1-Pcdha4 complex	1	PCDHGA1
+3	1	TRUE	0.0418	3	9	1	0.111	0.333	CORUM:480	cor	7	TIF-IB complex	1	TAF1B
+4	1	TRUE	0.0418	1	9	1	0.111	1	CORUM:2014	cor	2	Whrn homodimer complex	1	WHRN
+5	1	TRUE	0.0418	3	9	1	0.111	0.333	CORUM:6593	cor	6	Kinesin II complex (Kif3a-Kif3b-Kifap3)	1	KIF3A
+6	1	TRUE	0.0418	2	9	1	0.111	0.5	CORUM:1021	cor	8	Pcdha7-Pcdhga1 complex	1	PCDHGA1
+7	1	TRUE	0.0418	2	9	1	0.111	0.5	CORUM:6200	cor	3	Axin-TNKS2-KIF3A complex	1	KIF3A
+8	1	TRUE	0.0418	3	9	1	0.111	0.333	CORUM:3143	cor	9	Sos1-Abi1-Eps8 complex	1	EPS8
+9	1	TRUE	0.0418	3	9	1	0.111	0.333	CORUM:141	cor	1	Sos1-Abi1-Eps8 complex	1	EPS8

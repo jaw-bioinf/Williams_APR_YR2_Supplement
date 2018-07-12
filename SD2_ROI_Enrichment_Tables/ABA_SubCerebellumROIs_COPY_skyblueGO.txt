@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0291	2	6	1	0.167	0.5	CORUM:5119	cor	4	p19-Cdk4 complex	1	CDKN2D
+2	1	TRUE	0.0291	2	6	1	0.167	0.5	CORUM:6678	cor	6	Cep290-Iqcb1 complex	1	CEP290
+3	1	TRUE	0.0291	3	6	1	0.167	0.333	CORUM:991	cor	7	Tubulin polyglutamylase complex	1	TPGS1
+4	1	TRUE	0.0291	2	6	1	0.167	0.5	CORUM:5120	cor	8	p19-Cdk6 complex	1	CDKN2D
+5	1	TRUE	0.0291	3	6	1	0.167	0.333	CORUM:6696	cor	9	CPLANE complex	1	WDPCP
+6	1	TRUE	0.0291	3	6	1	0.167	0.333	CORUM:5145	cor	5	p19-Cdk4-cyclinD2 complex	1	CDKN2D
+7	1	TRUE	0.0291	3	6	1	0.167	0.333	CORUM:6595	cor	1	Ccp110-Cep290-Rab8a complex	1	CEP290
+8	1	TRUE	0.0291	2	6	1	0.167	0.5	CORUM:3114	cor	3	Itgax-Itgb2-Icam4 complex	1	ICAM4

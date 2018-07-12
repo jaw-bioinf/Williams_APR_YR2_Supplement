@@ -1,0 +1,16 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:141	cor	6	Sos1-Abi1-Eps8 complex	1	SOS1
+2	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:719	cor	8	S100A10-annexin 2 complex	1	S100A10
+3	1	TRUE	0.0264	1	6	1	0.167	1	CORUM:5296	cor	1	Cd3e homodimer complex	1	CD3E
+4	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:718	cor	14	TRPV5-S100A10-annexin 2 complex	1	S100A10
+5	1	TRUE	0.0297	4	6	1	0.167	0.25	CORUM:5311	cor	15	Cd3g-Cd3e-Cd247-Canx complex	1	CD3E
+6	1	TRUE	0.0344	5	6	1	0.167	0.2	CORUM:990	cor	7	Agap11-AP3 complex	1	AP3B1
+7	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:2545	cor	5	Grb2-mSos1 complex	1	SOS1
+8	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:5291	cor	9	Cd3e-Nck1-Mink1 complex	1	CD3E
+9	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:6812	cor	11	Arrb1-Becn1-Pik3c3 complex, induced by (OGD) oxygen-glucose deprivation	1	BECN1
+10	1	TRUE	0.0297	4	6	1	0.167	0.25	CORUM:5310	cor	13	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3E
+11	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:3143	cor	2	Sos1-Abi1-Eps8 complex	1	SOS1
+12	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:6677	cor	3	Nphp1-Nphp4-Rpgrip1l complex	1	NPHP4
+13	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:5309	cor	10	Cd3g-Cd3e complex	1	CD3E
+14	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:3180	cor	4	Shp2-Sos complex, FGF stimulated	1	SOS1
+15	1	TRUE	0.038	300	44	8	0.182	0.027	KEGG:04010	keg	12	MAPK signaling pathway	1	PRKACB,KIT,MAP2K6,RASA1,SOS1,RASGRP1,IL1B,PPM1B

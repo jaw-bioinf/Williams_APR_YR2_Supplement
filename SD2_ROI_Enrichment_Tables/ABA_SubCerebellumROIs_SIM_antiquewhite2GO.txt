@@ -1,0 +1,37 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0151	201	44	5	0.114	0.025	GO:0022409	BP	6	positive regulation of cell-cell adhesion	1	SPTA1,ITGAL,DENND6A,DOCK8,IFNG
+2	1	TRUE	0.0264	9	44	2	0.045	0.222	GO:0019883	BP	3	antigen processing and presentation of endogenous antigen	1	TAP2,TAP1
+3	1	TRUE	0.0226	8	44	2	0.045	0.25	GO:0002483	BP	3	antigen processing and presentation of endogenous peptide antigen	2	TAP2,TAP1
+4	1	TRUE	0.0151	6	44	2	0.045	0.333	GO:0019885	BP	3	antigen processing and presentation of endogenous peptide antigen via MHC class I	3	TAP2,TAP1
+5	1	TRUE	0.00272	2	44	2	0.045	1	GO:0046967	BP	16	cytosol to ER transport	1	TAP2,TAP1
+6	1	TRUE	0.00407	3	44	2	0.045	0.667	GO:0042824	CC	7	MHC class I peptide loading complex	1	TAP2,TAP1
+7	1	TRUE	0.00272	2	44	2	0.045	1	GO:0042825	CC	7	TAP complex	1	TAP2,TAP1
+8	1	TRUE	0.0322	409	44	6	0.136	0.015	GO:0098827	CC	11	endoplasmic reticulum subcompartment	1	PCYT1A,TAP2,PTDSS2,TAP1,SLN,TRPC2
+9	1	TRUE	0.0322	413	44	6	0.136	0.015	GO:0042175	CC	11	nuclear outer membrane-endoplasmic reticulum membrane network	1	PCYT1A,TAP2,PTDSS2,TAP1,SLN,TRPC2
+10	1	TRUE	0.0304	398	44	6	0.136	0.015	GO:0005789	CC	11	endoplasmic reticulum membrane	2	PCYT1A,TAP2,PTDSS2,TAP1,SLN,TRPC2
+11	1	TRUE	0.00407	3	44	2	0.045	0.667	GO:0033220	MF	8	amide-transporting ATPase activity	1	TAP2,TAP1
+12	1	TRUE	0.0391	13	44	2	0.045	0.154	GO:1904680	MF	8	peptide transmembrane transporter activity	1	TAP2,TAP1
+13	1	TRUE	0.00407	3	44	2	0.045	0.667	GO:0015440	MF	8	peptide-transporting ATPase activity	2	TAP2,TAP1
+14	1	TRUE	0.00272	2	44	2	0.045	1	GO:0015433	MF	8	peptide antigen-transporting ATPase activity	3	TAP2,TAP1
+15	1	TRUE	0.00697	4	44	2	0.045	0.5	GO:0023029	MF	12	MHC class Ib protein binding	1	TAP2,TAP1
+16	1	TRUE	0.0302	10	44	2	0.045	0.2	GO:0046977	MF	17	TAP binding	1	TAP2,TAP1
+17	1	TRUE	0.0146	3	3	1	0.333	0.333	CORUM:6214	cor	20	Dock8-Wipf1-Was complex	1	DOCK8
+18	1	TRUE	0.0155	4	3	1	0.333	0.25	CORUM:581	cor	9	Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex	1	TRPC2
+19	1	TRUE	0.0146	3	3	1	0.333	0.333	CORUM:580	cor	4	Epo-R-IP(3)R type II-TRPC2 complex	1	TRPC2
+20	1	TRUE	0.0146	1	3	1	0.333	1	CORUM:1995	cor	13	Sgk3 homodimer complex	1	SGK3
+21	1	TRUE	0.0146	3	3	1	0.333	0.333	CORUM:579	cor	19	Epo-R-PLC-gamma-TRPC2 complex	1	TRPC2
+22	1	TRUE	0.0102	99	11	4	0.364	0.04	HP:0000245	hp	2	Abnormality of the paranasal sinuses	1	TAP2,TAP1,DOCK8,HYDIN
+23	1	TRUE	0.00993	84	11	4	0.364	0.048	HP:0000246	hp	2	Sinusitis	2	TAP2,TAP1,DOCK8,HYDIN
+24	1	TRUE	0.0484	16	11	2	0.182	0.125	HP:0011109	hp	2	Chronic sinusitis	3	TAP2,TAP1
+25	1	TRUE	0.00993	165	11	5	0.455	0.03	HP:0000388	hp	15	Otitis media	1	PCYT1A,TAP2,TAP1,DOCK8,HYDIN
+26	1	TRUE	0.00508	18	11	3	0.273	0.167	HP:0000433	hp	10	Abnormality of the nasal mucosa	1	TAP2,TAP1,HYDIN
+27	1	TRUE	0.00359	13	11	3	0.273	0.231	HP:0100582	hp	10	Nasal polyposis	2	TAP2,TAP1,HYDIN
+28	1	TRUE	0.0144	44	11	3	0.273	0.068	HP:0012387	hp	14	Bronchitis	1	TAP2,TAP1,HYDIN
+29	1	TRUE	0.0357	149	11	4	0.364	0.027	HP:0000600	hp	14	Abnormality of the pharynx	1	TAP2,TAP1,DOCK8,HYDIN
+30	1	TRUE	0.0144	115	11	4	0.364	0.035	HP:0001739	hp	14	Abnormality of the nasopharynx	1	TAP2,TAP1,DOCK8,HYDIN
+31	1	TRUE	0.0102	100	11	4	0.364	0.04	HP:0002788	hp	14	Recurrent upper respiratory tract infections	2	TAP2,TAP1,DOCK8,HYDIN
+32	1	TRUE	0.00993	30	11	3	0.273	0.1	HP:0002837	hp	14	Recurrent bronchitis	3	TAP2,TAP1,HYDIN
+33	1	TRUE	0.0102	6	11	2	0.182	0.333	HP:0011948	hp	1	Acute respiratory tract infection	1	TAP2,TAP1
+34	1	TRUE	0.0102	6	11	2	0.182	0.333	HP:0011950	hp	1	Bronchiolitis	2	TAP2,TAP1
+35	1	TRUE	0.0127	47	19	3	0.158	0.064	KEGG:02010	keg	18	ABC transporters	1	TAP2,TAP1,ABCD2
+36	1	TRUE	0.0318	81	19	3	0.158	0.037	KEGG:04612	keg	21	Antigen processing and presentation	1	TAP2,TAP1,IFNG

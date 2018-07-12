@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004142	abnormal muscle tone	85	3	14.9	6.27	0.001	0.037	17.6	3.28	61.6
+MP:0001364	decreased anxiety-related response	150	4	11.2	6.17	0.00038	0.037	13.9	3.37	42.8
+MP:0000747	muscle weakness	94	3	13.5	5.92	0.0013	0.037	15.9	2.96	55.4
+MP:0001362	abnormal anxiety-related response	332	5	6.35	4.84	0.00091	0.037	8.03	2.3	22.8
+MP:0002065	abnormal fear/anxiety-related behavior	369	5	5.72	4.51	0.0015	0.037	7.18	2.06	20.4
+MP:0002106	abnormal muscle physiology	954	8	3.54	4.03	0.001	0.037	5.02	1.82	12.9
+MP:0002108	abnormal muscle morphology	963	8	3.5	4	0.0011	0.037	4.97	1.8	12.7
+MP:0001056	abnormal cranial nerve morphology	233	4	7.24	4.7	0.002	0.044	8.75	2.14	26.9
+MP:0004087	abnormal muscle fiber morphology	429	5	4.92	4.05	0.0028	0.049	6.12	1.76	17.4
+MP:0002572	abnormal emotion/affect behavior	619	6	4.09	3.88	0.0026	0.049	5.29	1.69	14.3
+MP:0005369	muscle phenotype	1401	9	2.71	3.39	0.0031	0.049	3.91	1.47	9.91

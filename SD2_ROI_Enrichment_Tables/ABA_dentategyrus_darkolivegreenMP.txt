@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002207	abnormal long term potentiation	237	11	5.82	6.74	2.4e-06	0.0016	6.93	3.25	13.5
+MP:0001463	abnormal spatial learning	234	10	5.36	6.05	1.5e-05	0.005	6.26	2.83	12.5
+MP:0002206	abnormal CNS synaptic transmission	653	16	3.07	4.92	4.3e-05	0.0095	3.71	1.98	6.59
+MP:0011003	reduced AMPA-mediated synaptic currents	17	3	22.1	7.82	0.00031	0.024	27.7	4.99	102
+MP:0001473	reduced long term potentiation	156	7	5.63	5.22	0.00023	0.024	6.35	2.42	14.1
+MP:0008143	abnormal dendrite morphology	198	8	5.07	5.19	0.00017	0.024	5.75	2.35	12.2
+MP:0001362	abnormal anxiety-related response	332	10	3.78	4.62	0.00028	0.024	4.31	1.95	8.55
+MP:0003635	abnormal synaptic transmission	740	16	2.71	4.35	0.00019	0.024	3.23	1.72	5.73
+MP:0002572	abnormal emotion/affect behavior	619	14	2.84	4.24	0.00032	0.024	3.32	1.7	6.05
+MP:0002799	abnormal passive avoidance behavior	51	4	9.83	5.67	7e-04	0.029	11.1	2.83	31.7
+MP:0001462	abnormal avoidance learning behavior	84	5	7.46	5.34	0.00053	0.029	8.36	2.56	21.3
+MP:0008415	abnormal neurite morphology	423	11	3.26	4.27	0.00048	0.029	3.73	1.76	7.2
+MP:0002065	abnormal fear/anxiety-related behavior	369	10	3.4	4.21	0.00065	0.029	3.85	1.75	7.63
+MP:0002063	abnormal learning/memory/conditioning	664	14	2.64	3.94	0.00066	0.029	3.07	1.58	5.6
+MP:0014114	abnormal cognition	665	14	2.64	3.93	0.00067	0.029	3.07	1.57	5.59
+MP:0002882	abnormal neuron morphology	1515	24	1.99	3.76	0.00046	0.029	2.48	1.45	4.13
+MP:0004998	decreased CNS synapse formation	24	3	15.7	6.45	0.00087	0.034	18.4	3.45	63.8
+MP:0001364	decreased anxiety-related response	150	6	5.02	4.45	0.0012	0.045	5.55	1.94	13
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	5	6.03	4.62	0.0014	0.046	6.66	2.05	16.8
+MP:0001732	postnatal growth retardation	974	17	2.19	3.52	0.0014	0.046	2.57	1.4	4.5
+MP:0002886	abnormal glutamate-mediated receptor currents	63	4	7.96	4.97	0.0016	0.048	8.85	2.27	24.9
+MP:0003008	enhanced long term potentiation	64	4	7.84	4.92	0.0016	0.048	8.7	2.24	24.5
+MP:0002912	abnormal excitatory postsynaptic potential	108	5	5.81	4.5	0.0017	0.048	6.4	1.97	16.2
+MP:0002885	abnormal AMPA-mediated synaptic currents	31	3	12.1	5.57	0.0019	0.049	13.8	2.63	46.4
+MP:0001731	abnormal postnatal growth	999	17	2.13	3.4	0.0018	0.049	2.5	1.36	4.37
+MP:0004859	abnormal synaptic plasticity	67	4	7.49	4.78	0.002	0.05	8.29	2.13	23.2

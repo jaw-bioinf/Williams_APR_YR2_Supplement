@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04022 cGMP-PKG signaling pathway 163 5 6.37 4.83 0.00098 0.017 7.56 2.24 20.3
+path:hsa04512 ECM-receptor interaction 82 3 7.6 4.18 0.0069 0.035 8.55 1.63 28.5
+path:hsa05410 Hypertrophic cardiomyopathy (HCM) 83 3 7.5 4.15 0.0072 0.035 8.44 1.61 28.1
+path:hsa05414 Dilated cardiomyopathy 89 3 7 3.96 0.0087 0.035 7.84 1.5 26.1
+path:hsa05146 Amoebiasis 95 3 6.56 3.79 0.01 0.035 7.33 1.4 24.3

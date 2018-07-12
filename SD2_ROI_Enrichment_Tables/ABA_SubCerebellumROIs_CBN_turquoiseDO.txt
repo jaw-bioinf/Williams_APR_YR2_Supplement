@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:3119	gastrointestinal system cancer	1536	660	1.13	4.37	7.7e-06	0.0041	1.29	1.15	1.45
+DOID:9256	colorectal cancer	811	365	1.18	4.25	1.4e-05	0.0041	1.38	1.18	1.6
+DOID:5672	large intestine cancer	812	365	1.18	4.22	1.6e-05	0.0041	1.37	1.18	1.6
+DOID:10155	intestinal cancer	820	368	1.18	4.2	1.8e-05	0.0041	1.37	1.18	1.59
+DOID:3355	fibrosarcoma	32	24	1.96	4.3	2.5e-05	0.0045	4.89	2.12	12.6
+DOID:219	colon cancer	153	82	1.4	3.97	6.5e-05	0.008	1.9	1.36	2.66
+DOID:1520	colon carcinoma	153	82	1.4	3.97	6.5e-05	0.008	1.9	1.36	2.66
+DOID:630	genetic disease	745	333	1.17	3.87	7.1e-05	0.008	1.35	1.16	1.58
+DOID:225	syndrome	1726	726	1.1	3.82	7.8e-05	0.008	1.24	1.11	1.39
+DOID:0050739	autosomal genetic disease	608	275	1.18	3.74	0.00012	0.011	1.38	1.16	1.63
+DOID:299	adenocarcinoma	755	334	1.16	3.63	0.00018	0.015	1.33	1.13	1.55
+DOID:0050177	monogenic disease	637	285	1.17	3.57	0.00023	0.017	1.35	1.14	1.59
+DOID:0050615	respiratory system cancer	509	232	1.19	3.57	0.00024	0.017	1.39	1.15	1.67
+DOID:9446	cholangitis	28	20	1.87	3.63	0.00036	0.024	4.07	1.71	10.7
+DOID:3507	dermatofibrosarcoma protuberans	11	10	2.38	3.6	0.00047	0.024	16.2	2.31	703
+DOID:1324	lung cancer	480	218	1.19	3.38	0.00047	0.024	1.38	1.14	1.67
+DOID:2871	endometrial carcinoma	134	70	1.37	3.38	0.00058	0.024	1.79	1.25	2.56
+DOID:1380	endometrial cancer	143	74	1.36	3.37	0.00059	0.024	1.76	1.24	2.49
+DOID:229	female reproductive system disease	333	156	1.23	3.34	0.00059	0.024	1.45	1.16	1.82
+DOID:0014667	disease of metabolism	1280	541	1.11	3.33	0.00051	0.024	1.23	1.09	1.4
+DOID:0050013	carbohydrate metabolism disease	858	372	1.14	3.33	0.00053	0.024	1.28	1.1	1.48
+DOID:4194	glucose metabolism disease	858	372	1.14	3.33	0.00053	0.024	1.28	1.1	1.48
+DOID:3905	lung carcinoma	479	217	1.19	3.32	0.00058	0.024	1.37	1.13	1.66
+DOID:363	uterine cancer	144	74	1.35	3.3	0.00077	0.03	1.73	1.23	2.45
+DOID:0050736	autosomal dominant disease	331	154	1.22	3.2	0.00092	0.033	1.43	1.14	1.8
+DOID:3908	non-small cell lung carcinoma	417	190	1.19	3.2	9e-04	0.033	1.38	1.13	1.69
+DOID:289	endometriosis	258	122	1.24	3.07	0.0015	0.05	1.47	1.14	1.91

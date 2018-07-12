@@ -1,0 +1,230 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0014134	abnormal embryo morphology	1333	33	3.89	9.13	9.7e-14	6.9e-11	7.73	4.47	13.5
+MP:0005380	embryo phenotype	1722	36	3.29	8.42	5.6e-13	2e-10	6.99	4.02	12.4
+MP:0008762	embryonic lethality	1763	35	3.12	7.92	7.6e-12	1.8e-09	6.32	3.64	11.1
+MP:0002085	abnormal embryonic tissue morphology	987	25	3.98	7.93	3e-10	5.4e-08	6.31	3.59	10.9
+MP:0010866	abnormal prenatal body size	862	23	4.2	7.88	7.7e-10	7.8e-08	6.38	3.59	11.1
+MP:0006207	embryonic lethality during organogenesis	942	24	4.01	7.79	7.2e-10	7.8e-08	6.2	3.51	10.8
+MP:0001672	abnormal embryo development	1018	25	3.86	7.74	5.8e-10	7.8e-08	6.09	3.47	10.6
+MP:0004196	abnormal prenatal growth/weight/body size	1147	26	3.56	7.42	1.3e-09	1.1e-07	5.69	3.26	9.85
+MP:0001697	abnormal embryo size	709	20	4.44	7.62	5.7e-09	4.5e-07	6.35	3.49	11.2
+MP:0002088	abnormal embryonic growth/weight/body size	966	23	3.74	7.21	7.2e-09	5.1e-07	5.61	3.16	9.77
+MP:0002151	abnormal neural tube morphology	590	18	4.8	7.63	1.2e-08	8e-07	6.63	3.56	11.9
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	20	4.19	7.29	1.5e-08	9.1e-07	5.95	3.27	10.5
+MP:0003861	abnormal nervous system development	1215	25	3.24	6.69	2.3e-08	1.3e-06	4.96	2.83	8.6
+MP:0001730	embryonic growth arrest	302	13	6.77	8.15	3.7e-08	1.9e-06	8.73	4.28	16.7
+MP:0001698	decreased embryo size	608	17	4.4	6.93	1.3e-07	6e-06	5.91	3.13	10.7
+MP:0002084	abnormal developmental patterning	478	15	4.94	7.07	1.9e-07	8.3e-06	6.44	3.31	11.9
+MP:0003720	abnormal neural tube closure	377	13	5.42	7.01	4.9e-07	2.1e-05	6.87	3.38	13.1
+MP:0000771	abnormal brain size	343	12	5.5	6.8	1.3e-06	5e-05	6.85	3.28	13.3
+MP:0000267	abnormal heart development	377	12	5.01	6.35	3.4e-06	0.00013	6.19	2.96	12
+MP:0005076	abnormal cell differentiation	712	16	3.53	5.63	5.9e-06	0.00021	4.56	2.38	8.3
+MP:0002152	abnormal brain morphology	1633	25	2.41	5.01	7.3e-06	0.00025	3.48	1.98	6.03
+MP:0001718	abnormal visceral yolk sac morphology	219	9	6.46	6.54	8.7e-06	0.00028	7.72	3.29	16.1
+MP:0002086	abnormal extraembryonic tissue morphology	663	15	3.56	5.47	1.1e-05	0.00035	4.51	2.32	8.31
+MP:0002925	abnormal cardiovascular development	766	16	3.29	5.28	1.5e-05	0.00044	4.2	2.2	7.65
+MP:0001695	abnormal gastrulation	369	11	4.69	5.78	1.7e-05	0.00048	5.67	2.63	11.2
+MP:0000913	abnormal brain development	780	16	3.23	5.2	1.9e-05	0.00051	4.12	2.15	7.5
+MP:0000266	abnormal heart morphology	1397	22	2.48	4.79	2.2e-05	0.00059	3.39	1.9	5.92
+MP:0005329	abnormal myocardium layer morphology	457	12	4.13	5.49	2.4e-05	6e-04	5.03	2.41	9.72
+MP:0000929	open neural tube	251	9	5.64	5.96	2.6e-05	0.00063	6.67	2.85	13.9
+MP:0010545	abnormal heart layer morphology	465	12	4.06	5.41	2.8e-05	0.00065	4.94	2.37	9.54
+MP:0001731	abnormal postnatal growth	999	18	2.83	4.91	2.9e-05	0.00065	3.69	1.99	6.59
+MP:0001722	pale yolk sac	102	6	9.25	6.7	4.3e-05	0.00095	10.7	3.69	25.8
+MP:0002127	abnormal cardiovascular system morphology	1950	26	2.1	4.36	5.5e-05	0.0012	2.99	1.71	5.16
+MP:0006208	lethality throughout fetal growth and development	504	12	3.74	5.07	6.2e-05	0.0013	4.53	2.17	8.74
+MP:0002108	abnormal muscle morphology	963	17	2.78	4.66	6.7e-05	0.0013	3.54	1.88	6.38
+MP:0009937	abnormal neuron differentiation	360	10	4.37	5.21	7.8e-05	0.0015	5.17	2.32	10.4
+MP:0001732	postnatal growth retardation	974	17	2.74	4.6	7.7e-05	0.0015	3.49	1.86	6.3
+MP:0000783	abnormal forebrain morphology	1011	17	2.64	4.43	0.00012	0.0023	3.35	1.78	6.04
+MP:0001780	decreased brown adipose tissue amount	42	4	15	7.26	0.00014	0.0025	17.5	4.4	51.2
+MP:0002023	increased B cell derived lymphoma incidence	80	5	9.83	6.34	0.00015	0.0025	11.3	3.42	29.1
+MP:0009768	impaired somite development	127	6	7.43	5.84	0.00015	0.0025	8.51	2.93	20.3
+MP:0004881	abnormal lung size	182	7	6.05	5.5	0.00014	0.0025	6.95	2.63	15.7
+MP:0011091	prenatal lethality, complete penetrance	390	10	4.03	4.89	0.00015	0.0025	4.75	2.13	9.58
+MP:0004261	abnormal embryonic neuroepithelium morphology	129	6	7.31	5.78	0.00016	0.0026	8.37	2.88	20
+MP:0000952	abnormal CNS glial cell morphology	320	9	4.42	4.99	0.00017	0.0026	5.16	2.21	10.7
+MP:0003984	embryonic growth retardation	560	12	3.37	4.63	0.00017	0.0026	4.04	1.94	7.79
+MP:0005312	pericardial effusion	133	6	7.09	5.66	0.00019	0.0028	8.1	2.79	19.3
+MP:0004057	thin myocardium compact layer	48	4	13.1	6.73	0.00023	0.0034	15.1	3.82	43.8
+MP:0013504	increased embryonic tissue cell apoptosis	142	6	6.65	5.42	0.00027	0.0039	7.56	2.61	18
+MP:0011094	embryonic lethality before implantation, complete penetrance	143	6	6.6	5.4	0.00028	0.0039	7.5	2.59	17.8
+MP:0010630	abnormal cardiac muscle tissue morphology	342	9	4.14	4.73	0.00028	0.0039	4.8	2.06	9.97
+MP:0012501	abnormal pericardial cavity morphology	147	6	6.42	5.3	0.00032	0.0043	7.29	2.52	17.3
+MP:0013293	embryonic lethality prior to tooth bud stage	788	14	2.79	4.21	0.00032	0.0043	3.39	1.71	6.33
+MP:0000774	decreased brain size	281	8	4.48	4.74	0.00037	0.0049	5.14	2.09	11
+MP:0009116	abnormal brown fat cell morphology	55	4	11.4	6.21	0.00039	0.0051	13.1	3.31	37.4
+MP:0000787	abnormal telencephalon morphology	808	14	2.72	4.11	0.00042	0.0053	3.3	1.67	6.16
+MP:0013292	embryonic lethality prior to organogenesis	717	13	2.85	4.13	0.00045	0.0057	3.42	1.69	6.47
+MP:0003084	abnormal skeletal muscle fiber morphology	221	7	4.98	4.79	0.00047	0.0058	5.66	2.14	12.7
+MP:0008932	abnormal embryonic tissue physiology	301	8	4.18	4.49	0.00059	0.0071	4.78	1.94	10.3
+MP:0001690	failure of somite differentiation	62	4	10.1	5.78	0.00062	0.0073	11.5	2.93	32.7
+MP:0010865	prenatal growth retardation	644	12	2.93	4.06	0.00061	0.0073	3.47	1.67	6.68
+MP:0006204	embryonic lethality before implantation	168	6	5.62	4.83	0.00066	0.0075	6.33	2.19	15
+MP:0010179	rough coat	28	3	16.9	6.72	0.00071	0.0081	19.7	3.7	67.3
+MP:0013503	abnormal embryonic tissue cell apoptosis	172	6	5.49	4.75	0.00074	0.0082	6.17	2.14	14.6
+MP:0000600	liver hypoplasia	66	4	9.53	5.56	0.00079	0.0086	10.7	2.74	30.4
+MP:0000350	abnormal cell proliferation	966	15	2.44	3.79	8e-04	0.0086	2.96	1.53	5.45
+MP:0011109	lethality throughout fetal growth and development, incomplete penetrance	247	7	4.46	4.41	0.00091	0.0095	5.03	1.91	11.3
+MP:0011087	neonatal lethality, complete penetrance	672	12	2.81	3.89	9e-04	0.0095	3.31	1.59	6.38
+MP:0005238	increased brain size	69	4	9.12	5.41	0.00094	0.0096	10.2	2.62	29
+MP:0004056	abnormal myocardium compact layer morphology	71	4	8.86	5.32	0.001	0.01	9.93	2.54	28.1
+MP:0003354	astrocytosis	121	5	6.5	4.87	0.00099	0.01	7.26	2.23	18.5
+MP:0003641	small lung	123	5	6.39	4.82	0.0011	0.01	7.14	2.19	18.2
+MP:0012065	increased astrocyte number	123	5	6.39	4.82	0.0011	0.01	7.14	2.19	18.2
+MP:0002182	abnormal astrocyte morphology	186	6	5.07	4.49	0.0011	0.01	5.68	1.97	13.4
+MP:0000288	abnormal pericardium morphology	255	7	4.32	4.3	0.0011	0.01	4.87	1.85	10.9
+MP:0003634	abnormal glial cell morphology	409	9	3.46	4.07	0.001	0.01	3.97	1.7	8.22
+MP:0005294	abnormal heart ventricle morphology	686	12	2.75	3.81	0.0011	0.01	3.24	1.56	6.23
+MP:0002081	perinatal lethality	1327	18	2.13	3.57	0.0011	0.01	2.65	1.43	4.74
+MP:0012064	abnormal astrocyte number	126	5	6.24	4.74	0.0012	0.011	6.96	2.13	17.7
+MP:0000914	exencephaly	260	7	4.23	4.23	0.0012	0.011	4.77	1.81	10.7
+MP:0002144	abnormal B cell differentiation	339	8	3.71	4.07	0.0013	0.011	4.21	1.71	9.04
+MP:0000807	abnormal hippocampus morphology	346	8	3.64	4	0.0015	0.012	4.12	1.68	8.84
+MP:0004087	abnormal muscle fiber morphology	429	9	3.3	3.9	0.0014	0.012	3.77	1.62	7.81
+MP:0008540	abnormal cerebral hemisphere morphology	609	11	2.84	3.76	0.0014	0.012	3.3	1.54	6.49
+MP:0011708	decreased fibroblast cell migration	37	3	12.8	5.73	0.0016	0.013	14.5	2.76	48.1
+MP:0000801	abnormal temporal lobe morphology	352	8	3.57	3.94	0.0016	0.013	4.05	1.65	8.68
+MP:0003091	abnormal cell migration	522	10	3.01	3.79	0.0015	0.013	3.47	1.56	6.98
+MP:0004275	abnormal postnatal subventricular zone morphology	38	3	12.4	5.64	0.0018	0.014	14	2.69	46.6
+MP:0003648	abnormal radial glial cell morphology	38	3	12.4	5.64	0.0018	0.014	14	2.69	46.6
+MP:0002190	disorganized myocardium	39	3	12.1	5.56	0.0019	0.014	13.7	2.61	45.2
+MP:0001778	abnormal brown adipose tissue amount	81	4	7.77	4.89	0.0017	0.014	8.63	2.22	24.3
+MP:0002183	gliosis	206	6	4.58	4.16	0.0019	0.014	5.1	1.77	12.1
+MP:0001923	reduced female fertility	280	7	3.93	3.98	0.0019	0.014	4.41	1.67	9.87
+MP:0001711	abnormal placenta morphology	356	8	3.53	3.9	0.0017	0.014	4	1.63	8.57
+MP:0006042	increased apoptosis	832	13	2.46	3.52	0.0018	0.014	2.9	1.43	5.48
+MP:0012556	increased cell death	837	13	2.44	3.5	0.0019	0.014	2.88	1.42	5.45
+MP:0002123	abnormal definitive hematopoiesis	946	14	2.33	3.45	0.002	0.015	2.77	1.4	5.16
+MP:0005369	muscle phenotype	1401	18	2.02	3.32	0.002	0.015	2.49	1.34	4.44
+MP:0009404	centrally nucleated skeletal muscle fibers	88	4	7.15	4.64	0.0023	0.017	7.9	2.03	22.1
+MP:0000930	wavy neural tube	43	3	11	5.24	0.0025	0.018	12.3	2.36	40.4
+MP:0004272	abnormal basement membrane morphology	45	3	10.5	5.1	0.0029	0.018	11.7	2.25	38.3
+MP:0000297	abnormal atrioventricular cushion morphology	93	4	6.76	4.47	0.0028	0.018	7.46	1.92	20.9
+MP:0009398	abnormal skeletal muscle fiber size	151	5	5.21	4.17	0.0026	0.018	5.75	1.77	14.6
+MP:0002189	abnormal myocardial trabeculae morphology	152	5	5.17	4.15	0.0027	0.018	5.71	1.76	14.5
+MP:0010296	increased hemolymphoid system tumor incidence	294	7	3.74	3.83	0.0025	0.018	4.19	1.59	9.37
+MP:0006113	abnormal heart septum morphology	379	8	3.32	3.69	0.0026	0.018	3.74	1.52	8.02
+MP:0001784	abnormal fluid regulation	761	12	2.48	3.41	0.0026	0.018	2.89	1.39	5.56
+MP:0013693	abnormal hemopoiesis	973	14	2.26	3.33	0.0026	0.018	2.68	1.35	4.99
+MP:0000432	abnormal head morphology	875	13	2.34	3.32	0.0029	0.018	2.74	1.35	5.18
+MP:0002058	neonatal lethality	979	14	2.25	3.31	0.0027	0.018	2.66	1.34	4.96
+MP:0000428	abnormal craniofacial morphology	1095	15	2.15	3.25	0.0029	0.018	2.57	1.32	4.73
+MP:0011706	abnormal fibroblast migration	46	3	10.3	5.03	0.0031	0.019	11.4	2.2	37.4
+MP:0004969	pale kidney	47	3	10	4.97	0.0032	0.019	11.2	2.15	36.5
+MP:0011521	decreased placental labyrinth size	48	3	9.83	4.91	0.0034	0.019	10.9	2.11	35.6
+MP:0006386	absent somites	48	3	9.83	4.91	0.0034	0.019	10.9	2.11	35.6
+MP:0003257	abnormal abdominal wall morphology	95	4	6.62	4.41	0.0031	0.019	7.29	1.88	20.4
+MP:0009400	decreased skeletal muscle fiber size	95	4	6.62	4.41	0.0031	0.019	7.29	1.88	20.4
+MP:0006107	abnormal fetal atrioventricular canal morphology	98	4	6.42	4.31	0.0034	0.019	7.06	1.82	19.7
+MP:0001787	pericardial edema	99	4	6.35	4.28	0.0035	0.019	6.98	1.8	19.5
+MP:0006126	abnormal cardiac outflow tract development	156	5	5.04	4.07	0.003	0.019	5.56	1.71	14.1
+MP:0000285	abnormal heart valve morphology	157	5	5.01	4.05	0.0031	0.019	5.52	1.7	14
+MP:0004166	abnormal limbic system morphology	393	8	3.2	3.57	0.0032	0.019	3.6	1.46	7.71
+MP:0001785	edema	483	9	2.93	3.49	0.0032	0.019	3.32	1.43	6.87
+MP:0010273	increased classified tumor incidence	571	10	2.75	3.46	0.0029	0.019	3.15	1.41	6.34
+MP:0020188	abnormal classified tumor incidence	578	10	2.72	3.42	0.0032	0.019	3.11	1.4	6.25
+MP:0001914	hemorrhage	582	10	2.7	3.39	0.0034	0.019	3.08	1.39	6.2
+MP:0005382	craniofacial phenotype	1099	15	2.15	3.24	0.003	0.019	2.56	1.32	4.71
+MP:0012322	decreased total tissue mass	1833	21	1.8	3.07	0.0032	0.019	2.26	1.26	3.96
+MP:0001262	decreased body weight	1833	21	1.8	3.07	0.0032	0.019	2.26	1.26	3.96
+MP:0009133	decreased white fat cell size	49	3	9.63	4.84	0.0037	0.02	10.7	2.06	34.8
+MP:0008254	increased megakaryocyte cell number	49	3	9.63	4.84	0.0037	0.02	10.7	2.06	34.8
+MP:0004258	abnormal placenta size	101	4	6.23	4.23	0.0038	0.02	6.84	1.76	19.1
+MP:0001176	abnormal lung development	165	5	4.77	3.9	0.0039	0.02	5.24	1.61	13.2
+MP:0001688	abnormal somite development	237	6	3.98	3.72	0.0038	0.02	4.4	1.53	10.4
+MP:0004174	abnormal spine curvature	314	7	3.51	3.61	0.0036	0.02	3.91	1.48	8.73
+MP:0011089	perinatal lethality, complete penetrance	317	7	3.47	3.58	0.0038	0.02	3.87	1.47	8.64
+MP:0001675	abnormal ectoderm development	51	3	9.25	4.73	0.0041	0.021	10.2	1.98	33.3
+MP:0002652	thin myocardium	103	4	6.11	4.17	0.0041	0.021	6.7	1.73	18.7
+MP:0011702	abnormal fibroblast proliferation	167	5	4.71	3.87	0.0041	0.021	5.17	1.59	13.1
+MP:0013258	abnormal extracellular matrix morphology	52	3	9.07	4.67	0.0043	0.022	10	1.94	32.5
+MP:0011519	abnormal placenta labyrinth size	53	3	8.9	4.61	0.0046	0.022	9.82	1.9	31.9
+MP:0004470	small nasal bone	53	3	8.9	4.61	0.0046	0.022	9.82	1.9	31.9
+MP:0001513	limb grasping	246	6	3.84	3.61	0.0045	0.022	4.23	1.47	9.98
+MP:0011099	lethality throughout fetal growth and development, complete penetrance	326	7	3.38	3.49	0.0044	0.022	3.76	1.43	8.39
+MP:0000281	abnormal interventricular septum morphology	329	7	3.35	3.47	0.0046	0.022	3.72	1.41	8.31
+MP:0010274	increased organ/body region tumor incidence	606	10	2.6	3.25	0.0045	0.022	2.95	1.33	5.94
+MP:0003279	aneurysm	54	3	8.74	4.56	0.0048	0.023	9.62	1.87	31.2
+MP:0000813	abnormal hippocampus layer morphology	108	4	5.82	4.03	0.0048	0.023	6.37	1.65	17.7
+MP:0000352	decreased cell proliferation	515	9	2.75	3.27	0.0049	0.023	3.1	1.33	6.41
+MP:0001696	failure to gastrulate	55	3	8.58	4.51	0.0051	0.024	9.44	1.83	30.6
+MP:0001921	reduced fertility	620	10	2.54	3.17	0.0053	0.025	2.88	1.29	5.79
+MP:0013152	abnormal organ/body region tumor incidence	622	10	2.53	3.16	0.0054	0.025	2.87	1.29	5.77
+MP:0011805	decreased cell migration	57	3	8.28	4.41	0.0056	0.026	9.09	1.77	29.4
+MP:0005460	abnormal leukopoiesis	737	11	2.35	3.05	0.0061	0.028	2.68	1.25	5.26
+MP:0002114	abnormal axial skeleton morphology	1303	16	1.93	2.9	0.006	0.028	2.29	1.2	4.17
+MP:0003052	omphalocele	61	3	7.73	4.22	0.0068	0.029	8.46	1.65	27.2
+MP:0002074	abnormal hair texture	61	3	7.73	4.22	0.0068	0.029	8.46	1.65	27.2
+MP:0003385	abnormal body wall morphology	119	4	5.29	3.76	0.0068	0.029	5.76	1.49	16
+MP:0002413	abnormal megakaryocyte progenitor cell morphology	119	4	5.29	3.76	0.0068	0.029	5.76	1.49	16
+MP:0003115	abnormal respiratory system development	188	5	4.18	3.53	0.0067	0.029	4.57	1.41	11.5
+MP:0002357	abnormal spleen white pulp morphology	348	7	3.16	3.29	0.0063	0.029	3.5	1.33	7.82
+MP:0000759	abnormal skeletal muscle morphology	445	8	2.83	3.16	0.0068	0.029	3.15	1.28	6.75
+MP:0013661	abnormal myeloid cell number	538	9	2.63	3.12	0.0065	0.029	2.96	1.27	6.12
+MP:0002401	abnormal lymphopoiesis	637	10	2.47	3.07	0.0064	0.029	2.8	1.26	5.62
+MP:0002083	premature death	1443	17	1.85	2.82	0.0069	0.029	2.21	1.18	3.98
+MP:0013657	abnormal blood cell morphology	1813	20	1.73	2.79	0.0065	0.029	2.12	1.17	3.74
+MP:0009698	heart hemorrhage	62	3	7.61	4.18	0.0071	0.03	8.31	1.62	26.7
+MP:0001436	abnormal suckling behavior	122	4	5.16	3.7	0.0074	0.031	5.61	1.45	15.6
+MP:0001577	anemia	358	7	3.08	3.2	0.0073	0.031	3.4	1.29	7.59
+MP:0008262	abnormal hippocampus region morphology	64	3	7.37	4.09	0.0077	0.032	8.04	1.57	25.8
+MP:0003400	kinked neural tube	65	3	7.26	4.05	0.0081	0.033	7.91	1.54	25.4
+MP:0000788	abnormal cerebral cortex morphology	363	7	3.03	3.16	0.0078	0.033	3.35	1.27	7.48
+MP:0002429	abnormal blood cell morphology/development	1106	14	1.99	2.81	0.0082	0.034	2.32	1.17	4.31
+MP:0011704	decreased fibroblast proliferation	127	4	4.95	3.59	0.0085	0.035	5.38	1.39	14.9
+MP:0002200	abnormal brain ventricular system morphology	370	7	2.98	3.1	0.0087	0.035	3.28	1.25	7.33
+MP:0000729	abnormal myogenesis	68	3	6.94	3.93	0.0091	0.037	7.54	1.47	24.2
+MP:0009940	abnormal hippocampus pyramidal cell morphology	69	3	6.84	3.89	0.0095	0.038	7.43	1.45	23.8
+MP:0003229	abnormal vitelline vasculature morphology	205	5	3.84	3.28	0.0095	0.038	4.17	1.29	10.5
+MP:0002018	increased malignant tumor incidence	378	7	2.91	3.04	0.0097	0.038	3.21	1.22	7.16
+MP:0004939	abnormal B cell morphology	677	10	2.32	2.86	0.0096	0.038	2.62	1.18	5.26
+MP:0004703	abnormal vertebral column morphology	785	11	2.2	2.82	0.0096	0.038	2.5	1.17	4.91
+MP:0001683	absent mesoderm	70	3	6.74	3.86	0.0099	0.039	7.31	1.43	23.4
+MP:0011019	abnormal adaptive thermogenesis	71	3	6.65	3.82	0.01	0.039	7.21	1.41	23.1
+MP:0000601	small liver	208	5	3.78	3.24	0.01	0.039	4.11	1.27	10.4
+MP:0008987	abnormal liver lobule morphology	208	5	3.78	3.24	0.01	0.039	4.11	1.27	10.4
+MP:0009115	abnormal fat cell morphology	209	5	3.76	3.23	0.01	0.039	4.09	1.26	10.3
+MP:0014141	abnormal mesoderm morphology	135	4	4.66	3.43	0.011	0.04	5.04	1.31	14
+MP:0011182	decreased hematopoietic cell number	1508	17	1.77	2.62	0.011	0.04	2.1	1.12	3.78
+MP:0008008	early cellular replicative senescence	73	3	6.46	3.75	0.011	0.041	7	1.37	22.4
+MP:0001706	abnormal left-right axis patterning	74	3	6.38	3.71	0.012	0.041	6.9	1.35	22
+MP:0009132	abnormal white fat cell size	74	3	6.38	3.71	0.012	0.041	6.9	1.35	22
+MP:0006009	abnormal neuronal migration	137	4	4.59	3.39	0.011	0.041	4.97	1.29	13.8
+MP:0001700	abnormal embryo turning	212	5	3.71	3.19	0.011	0.041	4.03	1.25	10.2
+MP:0010425	abnormal heart and great vessel attachment	213	5	3.69	3.18	0.011	0.041	4.01	1.24	10.1
+MP:0010426	abnormal heart and great artery attachment	213	5	3.69	3.18	0.011	0.041	4.01	1.24	10.1
+MP:0001586	abnormal erythrocyte cell number	296	6	3.19	3.06	0.011	0.041	3.49	1.21	8.19
+MP:0002019	abnormal tumor incidence	805	11	2.15	2.73	0.012	0.041	2.43	1.13	4.77
+MP:0002882	abnormal neuron morphology	1515	17	1.76	2.6	0.011	0.041	2.09	1.11	3.76
+MP:0004259	small placenta	75	3	6.29	3.68	0.012	0.042	6.8	1.33	21.7
+MP:0000102	abnormal nasal bone morphology	75	3	6.29	3.68	0.012	0.042	6.8	1.33	21.7
+MP:0009269	decreased fat cell size	76	3	6.21	3.65	0.012	0.042	6.71	1.31	21.4
+MP:0002971	abnormal brown adipose tissue morphology	141	4	4.46	3.31	0.012	0.042	4.82	1.25	13.3
+MP:0004046	abnormal mitosis	141	4	4.46	3.31	0.012	0.042	4.82	1.25	13.3
+MP:0003231	abnormal placenta vasculature	142	4	4.43	3.29	0.012	0.042	4.78	1.24	13.2
+MP:0001674	abnormal germ layer development	143	4	4.4	3.28	0.013	0.042	4.75	1.23	13.1
+MP:0002356	abnormal spleen red pulp morphology	143	4	4.4	3.28	0.013	0.042	4.75	1.23	13.1
+MP:0004200	decreased fetal size	216	5	3.64	3.14	0.012	0.042	3.95	1.22	9.95
+MP:0008986	abnormal liver parenchyma morphology	220	5	3.57	3.09	0.013	0.042	3.88	1.2	9.76
+MP:0003077	abnormal cell cycle	301	6	3.13	3.01	0.012	0.042	3.42	1.19	8.05
+MP:0000822	abnormal brain ventricle morphology	305	6	3.09	2.97	0.013	0.042	3.38	1.18	7.94
+MP:0002038	increased carcinoma incidence	306	6	3.08	2.97	0.013	0.042	3.37	1.17	7.91
+MP:0003699	abnormal female reproductive system physiology	700	10	2.25	2.74	0.012	0.042	2.52	1.13	5.07
+MP:0002020	increased tumor incidence	706	10	2.23	2.71	0.013	0.042	2.5	1.12	5.02
+MP:0002447	abnormal erythrocyte morphology	810	11	2.14	2.71	0.012	0.042	2.41	1.13	4.74
+MP:0000358	abnormal cell morphology	1156	14	1.9	2.63	0.012	0.042	2.2	1.11	4.1
+MP:0001648	abnormal apoptosis	1280	15	1.84	2.6	0.012	0.042	2.14	1.1	3.94
+MP:0002416	abnormal proerythroblast morphology	78	3	6.05	3.58	0.013	0.043	6.53	1.28	20.8
+MP:0001469	abnormal contextual conditioning behavior	144	4	4.37	3.26	0.013	0.043	4.71	1.22	13
+MP:0009931	abnormal skin appearance	501	8	2.51	2.78	0.013	0.043	2.78	1.13	5.94
+MP:0002166	altered tumor susceptibility	819	11	2.11	2.67	0.013	0.043	2.39	1.11	4.68
+MP:0004076	abnormal vitelline vascular remodeling	79	3	5.97	3.55	0.014	0.044	6.44	1.26	20.5
+MP:0004198	abnormal fetal size	225	5	3.49	3.03	0.014	0.044	3.79	1.17	9.53
+MP:0001614	abnormal blood vessel morphology	1178	14	1.87	2.55	0.014	0.044	2.15	1.09	4.01
+MP:0001701	incomplete embryo turning	80	3	5.9	3.52	0.014	0.045	6.36	1.25	20.2
+MP:0002128	abnormal blood circulation	719	10	2.19	2.65	0.014	0.045	2.45	1.1	4.92
+MP:0000313	abnormal cell death	1427	16	1.76	2.51	0.014	0.045	2.06	1.08	3.74
+MP:0001175	abnormal lung morphology	613	9	2.31	2.68	0.015	0.046	2.57	1.1	5.31
+MP:0004264	abnormal extraembryonic tissue physiology	317	6	2.98	2.86	0.015	0.047	3.24	1.13	7.62
+MP:0005014	increased B cell number	318	6	2.97	2.86	0.015	0.047	3.23	1.13	7.59

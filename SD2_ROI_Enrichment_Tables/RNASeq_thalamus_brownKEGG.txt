@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa03013	RNA transport	171	29	2.45	5.24	4.9e-06	0.00097	2.86	1.83	4.35
+path:hsa00072	Synthesis and degradation of ketone bodies	10	5	7.22	5.37	0.00029	0.029	13.6	3.11	59.2
+path:hsa03018	RNA degradation	77	14	2.63	3.91	7e-04	0.046	3.05	1.56	5.56

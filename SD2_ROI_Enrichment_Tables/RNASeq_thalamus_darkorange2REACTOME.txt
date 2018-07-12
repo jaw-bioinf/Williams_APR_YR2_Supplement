@@ -1,0 +1,14 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-8948216 Collagen chain trimerization 44 4 20.7 8.69 3.9e-05 0.0013 24.8 6.15 73.5
+R-HSA-419037 NCAM1 interactions 21 3 32.5 9.6 1e-04 0.0017 40.3 7.33 147
+R-HSA-1650814 Collagen biosynthesis and modifying enzymes 67 4 13.6 6.87 2e-04 0.0023 15.7 3.96 45.4
+R-HSA-375165 NCAM signaling for neurite out-growth 40 3 17.1 6.76 7e-04 0.0047 19.6 3.72 65.9
+R-HSA-1474290 Collagen formation 90 4 10.1 5.77 0.00063 0.0047 11.5 2.92 32.8
+R-HSA-3000178 ECM proteoglycans 50 3 13.7 5.96 0.0013 0.0073 15.4 2.95 51
+R-HSA-1442490 Collagen degradation 52 3 13.1 5.83 0.0015 0.0073 14.8 2.84 48.9
+R-HSA-186797 Signaling by PDGF 58 3 11.8 5.47 0.0021 0.0088 13.2 2.53 43.3
+R-HSA-2022090 Assembly of collagen fibrils and other multimeric structures 61 3 11.2 5.3 0.0024 0.009 12.5 2.41 41
+R-HSA-216083 Integrin cell surface interactions 81 3 8.43 4.46 0.0053 0.016 9.27 1.8 30
+R-HSA-9006934 Signaling by Receptor Tyrosine Kinases 487 7 3.27 3.41 0.0049 0.016 3.74 1.4 8.55
+R-HSA-5687128 MAPK6/MAPK4 signaling 89 3 7.67 4.2 0.0069 0.02 8.4 1.63 27.2
+R-HSA-1474228 Degradation of the extracellular matrix 119 3 5.74 3.45 0.015 0.04 6.21 1.21 19.9

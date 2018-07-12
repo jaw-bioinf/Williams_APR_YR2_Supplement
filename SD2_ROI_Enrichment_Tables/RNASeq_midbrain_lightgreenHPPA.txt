@@ -1,0 +1,49 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002131	Episodic ataxia	12	4	30.8	10.8	5.4e-06	0.0021	50.4	10.6	200
+HP:0011146	Dialeptic seizures	71	7	9.11	7.22	7.9e-06	0.0021	12	4.3	29.1
+HP:0000617	Abnormality of ocular smooth pursuit	109	8	6.78	6.41	1.5e-05	0.0027	8.88	3.43	20.5
+HP:0008366	Contractures involving the joints of the feet	83	7	7.79	6.55	2.2e-05	0.0028	10.1	3.63	24.3
+HP:0007359	Focal seizures	87	7	7.43	6.35	3e-05	0.0028	9.56	3.45	23
+HP:0005750	Contractures of the joints of the lower limbs	120	8	6.16	6.01	3.1e-05	0.0028	7.99	3.09	18.4
+HP:0002133	Status epilepticus	62	6	8.94	6.6	4.2e-05	0.0033	11.4	3.75	29.2
+HP:0002069	Generalized tonic-clonic seizures	100	7	6.47	5.8	7.5e-05	0.0051	8.19	2.97	19.6
+HP:0002384	Focal seizures with impairment of consciousness or awareness	44	5	10.5	6.63	9.1e-05	0.0055	13.3	3.85	36.9
+HP:0001771	Achilles tendon contracture	45	5	10.3	6.54	1e-04	0.0055	13	3.76	35.9
+HP:0005109	Abnormality of the Achilles tendon	46	5	10	6.46	0.00011	0.0056	12.6	3.67	35
+HP:0006813	Hemiclonic seizures	10	3	27.7	8.85	0.00013	0.0061	42.1	6.75	194
+HP:0002392	EEG with polyspike wave complexes	11	3	25.2	8.41	0.00018	0.0076	36.9	6.05	163
+HP:0011153	Focal motor seizures	12	3	23.1	8.02	0.00024	0.0088	32.8	5.48	139
+HP:0002266	Focal clonic seizures	12	3	23.1	8.02	0.00024	0.0088	32.8	5.48	139
+HP:0010850	EEG with spike-wave complexes	14	3	19.8	7.37	0.00039	0.012	26.8	4.61	108
+HP:0003121	Limb joint contracture	319	11	3.19	4.28	0.00037	0.012	4.18	1.85	8.81
+HP:0001260	Dysarthria	373	12	2.97	4.21	0.00036	0.012	3.97	1.81	8.24
+HP:0001289	Confusion	16	3	17.3	6.84	6e-04	0.014	22.7	3.98	88
+HP:0002301	Hemiplegia	16	3	17.3	6.84	6e-04	0.014	22.7	3.98	88
+HP:0002121	Absence seizures	35	4	10.6	5.94	0.00048	0.014	13	3.17	39.9
+HP:0005484	Postnatal microcephaly	65	5	7.11	5.2	0.00058	0.014	8.6	2.53	23.2
+HP:0007772	Impaired smooth pursuit	99	6	5.6	4.85	0.00057	0.014	6.8	2.27	17
+HP:0001317	Abnormality of the cerebellum	874	19	2.01	3.6	0.00069	0.016	3.06	1.53	6.14
+HP:0002381	Aphasia	18	3	15.4	6.4	0.00085	0.017	19.7	3.5	74.2
+HP:0011097	Epileptic spasms	41	4	9.01	5.4	0.00089	0.017	10.9	2.67	32.9
+HP:0011282	Abnormality of hindbrain morphology	889	19	1.97	3.52	0.00087	0.017	2.99	1.49	6
+HP:0011283	Abnormality of the metencephalon	889	19	1.97	3.52	0.00087	0.017	2.99	1.49	6
+HP:0010819	Atonic seizures	19	3	14.6	6.21	0.001	0.019	18.4	3.3	68.8
+HP:0002197	Generalized seizures	155	7	4.17	4.22	0.0011	0.021	5.07	1.85	12
+HP:0002357	Dysphasia	22	3	12.6	5.71	0.0016	0.028	15.5	2.82	56.3
+HP:0011198	EEG with generalized epileptiform discharges	82	5	5.63	4.44	0.0017	0.028	6.67	1.98	17.8
+HP:0002167	Neurological speech impairment	785	17	2	3.33	0.0017	0.028	2.85	1.4	5.7
+HP:0000640	Gaze-evoked nystagmus	23	3	12	5.56	0.0018	0.029	14.7	2.69	53.2
+HP:0011182	Epileptiform EEG discharges	84	5	5.5	4.36	0.0019	0.029	6.5	1.93	17.4
+HP:0010851	EEG with burst suppression	24	3	11.5	5.42	0.002	0.031	14	2.57	50.4
+HP:0010551	Paraplegia/paraparesis	129	6	4.3	3.99	0.0023	0.034	5.1	1.71	12.7
+HP:0030178	Abnormality of central nervous system electrophysiology	340	10	2.72	3.48	0.0025	0.035	3.4	1.46	7.29
+HP:0011443	Abnormality of coordination	663	15	2.09	3.26	0.0024	0.035	2.84	1.37	5.72
+HP:0001258	Spastic paraplegia	91	5	5.08	4.12	0.0027	0.036	5.96	1.77	15.9
+HP:0010818	Generalized tonic seizures	27	3	10.3	5.05	0.0029	0.037	12.3	2.26	43.4
+HP:0002373	Febrile seizures	56	4	6.6	4.42	0.0029	0.037	7.73	1.92	22.8
+HP:0010550	Paraplegia	93	5	4.97	4.05	0.0029	0.037	5.82	1.73	15.5
+HP:0007105	Infantile encephalopathy	28	3	9.9	4.94	0.0032	0.039	11.8	2.18	41.5
+HP:0010549	Weakness due to upper motor neuron dysfunction	352	10	2.62	3.36	0.0033	0.04	3.27	1.4	7
+HP:0001251	Ataxia	546	13	2.2	3.19	0.0034	0.041	2.87	1.34	5.86
+HP:0002353	EEG abnormality	246	8	3	3.41	0.004	0.047	3.62	1.42	8.2
+HP:0001151	Impaired horizontal smooth pursuit	31	3	8.94	4.64	0.0043	0.048	10.5	1.96	36.6

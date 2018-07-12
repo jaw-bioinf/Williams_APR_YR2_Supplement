@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-139853	Elevation of cytosolic Ca2+ levels	13	3	35	9.99	7.5e-05	0.0031	47.1	8.15	189
+R-HSA-418360	Platelet calcium homeostasis	27	3	16.9	6.72	0.00071	0.015	19.7	3.7	67.3

@@ -1,0 +1,27 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-5617833 Cilium Assembly 201 12 4.94 6.24 5.3e-06 0.00056 5.65 2.78 10.5
+R-HSA-5620912 Anchoring of the basal body to the plasma membrane 97 8 6.82 6.38 2.1e-05 0.00075 7.79 3.19 16.6
+R-HSA-1852241 Organelle biogenesis and maintenance 269 13 4 5.51 2.1e-05 0.00075 4.53 2.31 8.21
+R-HSA-77595 Processing of Intronless Pre-mRNAs 19 3 13.1 5.82 0.0014 0.022 15.7 2.89 55.7
+R-HSA-8948216 Collagen chain trimerization 44 4 7.52 4.8 0.0019 0.022 8.41 2.15 23.9
+R-HSA-1650814 Collagen biosynthesis and modifying enzymes 67 5 6.18 4.7 0.0013 0.022 6.83 2.1 17.3
+R-HSA-380259 Loss of Nlp from mitotic centrosomes 69 5 6 4.61 0.0014 0.022 6.62 2.04 16.7
+R-HSA-380284 Loss of proteins required for interphase microtubule organization from the centrosome 69 5 6 4.61 0.0014 0.022 6.62 2.04 16.7
+R-HSA-8854518 AURKA Activation by TPX2 72 5 5.75 4.47 0.0017 0.022 6.32 1.95 15.9
+R-HSA-380270 Recruitment of mitotic centrosome proteins and complexes 80 5 5.17 4.14 0.0028 0.027 5.64 1.75 14.1
+R-HSA-380287 Centrosome maturation 80 5 5.17 4.14 0.0028 0.027 5.64 1.75 14.1
+R-HSA-75067 Processing of Capped Intronless Pre-mRNA 28 3 8.87 4.61 0.0045 0.028 10 1.91 33.5
+R-HSA-2644602 Signaling by NOTCH1 PEST Domain Mutants in Cancer 58 4 5.71 3.98 0.0052 0.028 6.23 1.61 17.3
+R-HSA-2644603 Signaling by NOTCH1 in Cancer 58 4 5.71 3.98 0.0052 0.028 6.23 1.61 17.3
+R-HSA-2644606 Constitutive Signaling by NOTCH1 PEST Domain Mutants 58 4 5.71 3.98 0.0052 0.028 6.23 1.61 17.3
+R-HSA-2894858 Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer 58 4 5.71 3.98 0.0052 0.028 6.23 1.61 17.3
+R-HSA-2894862 Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants 58 4 5.71 3.98 0.0052 0.028 6.23 1.61 17.3
+R-HSA-2565942 Regulation of PLK1 Activity at G2/M Transition 87 5 4.76 3.89 0.004 0.028 5.16 1.6 12.9
+R-HSA-1474290 Collagen formation 90 5 4.6 3.79 0.0046 0.028 4.97 1.55 12.4
+R-HSA-380320 Recruitment of NuMA to mitotic centrosomes 93 5 4.45 3.7 0.0053 0.028 4.8 1.49 12
+R-HSA-72163 mRNA Splicing - Major Pathway 183 7 3.17 3.27 0.0067 0.034 3.39 1.31 7.36
+R-HSA-72172 mRNA Splicing 191 7 3.03 3.14 0.0084 0.04 3.24 1.26 7.03
+R-HSA-6794362 Protein-protein interactions at synapses 70 4 4.73 3.46 0.01 0.044 5.09 1.32 14
+R-HSA-397014 Muscle contraction 201 7 2.88 2.98 0.011 0.044 3.07 1.19 6.65
+R-HSA-112316 Neuronal System 356 10 2.32 2.81 0.011 0.044 2.49 1.15 4.8
+R-HSA-8953854 Metabolism of RNA 646 15 1.92 2.68 0.011 0.044 2.08 1.12 3.61

@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0258	10	2	1	0.5	0.1	CORUM:496	cor	4	TFIID complex	1	TAF7
+2	1	TRUE	0.00649	1	2	1	0.5	1	CORUM:560	cor	5	Kir6.2-Sur1 complex	1	KCNJ11
+3	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6674	cor	1	Ank2-Kcnj11-Abcc9(splice variant 1) complex	1	KCNJ11
+4	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6672	cor	3	Ank2-Kcnj11-Abcc8 complex	1	KCNJ11
+5	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6662	cor	6	Kcnj8-Kcnj11-Abcc9(splice variant 2) complex	1	KCNJ11

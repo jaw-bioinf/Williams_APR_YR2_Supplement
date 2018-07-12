@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:3908	non-small cell lung carcinoma	417	6	4.38	4.09	0.0018	0.03	5.64	1.81	15.1
+DOID:1324	lung cancer	480	6	3.8	3.66	0.0037	0.03	4.84	1.56	12.9
+DOID:3905	lung carcinoma	479	6	3.81	3.66	0.0037	0.03	4.85	1.56	13
+DOID:0050615	respiratory system cancer	509	6	3.59	3.48	0.005	0.03	4.54	1.46	12.1

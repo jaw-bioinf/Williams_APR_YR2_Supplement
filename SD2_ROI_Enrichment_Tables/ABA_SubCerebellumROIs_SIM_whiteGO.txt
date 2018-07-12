@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0204	2	6	1	0.167	0.5	CORUM:5358	cor	4	GTP-Rho-Rhpn1-Ropn1 complex	1	RHPN1
+2	1	TRUE	0.0204	2	6	1	0.167	0.5	CORUM:3222	cor	10	MAML3-RBP-Jkappa-Notch3 complex	1	RBPJ
+3	1	TRUE	0.0204	2	6	1	0.167	0.5	CORUM:3489	cor	9	Klf5-Pias1 complex	1	KLF5
+4	1	TRUE	0.0204	2	6	1	0.167	0.5	CORUM:3218	cor	3	MAML2-RBP-Jkappa-Notch3 complex	1	RBPJ
+5	1	TRUE	0.0204	2	6	1	0.167	0.5	CORUM:1020	cor	8	Pcdha7-Pcdhgb2 complex	1	PCDHGB2
+6	1	TRUE	0.0213	3	6	1	0.167	0.333	CORUM:3235	cor	6	PTF1 complex (Ptf1a, Tcf12, Rbpj)	1	RBPJ
+7	1	TRUE	0.0213	3	6	1	0.167	0.333	CORUM:2386	cor	1	Itga-Itgb1-Ppap2b complex	1	ITGA5
+8	1	TRUE	0.0204	2	6	1	0.167	0.5	CORUM:3019	cor	5	Cohesin complex, incomplete (Smc4, Crest/Ss18I1)	1	SMC4
+9	1	TRUE	0.0213	3	6	1	0.167	0.333	CORUM:1015	cor	7	Pcdhga1-Pcdhgb2 complex	1	PCDHGB2
+10	1	TRUE	0.0204	1	6	1	0.167	1	CORUM:6511	cor	2	L1cam-Itga5 complex	1	ITGA5
+11	1	TRUE	0.0217	385	91	13	0.143	0.034	REAC:R-MMU-418594	rea	12	G alpha (i) signalling events	1	PCP2,ADCY1,CCR1,GPSM1,LRP2,RRH,NMU,BDKRB1,TAS2R139,NPY4R,CCR2,HCAR1,TAS2R125

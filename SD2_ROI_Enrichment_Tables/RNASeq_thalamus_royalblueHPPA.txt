@@ -1,0 +1,142 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0000144 Decreased fertility 141 10 4.79 5.63 3e-05 0.0037 6.04 2.64 12.6
+HP:0011534 Abnormal spatial orientation of the cardiac segments 168 11 4.42 5.57 2.4e-05 0.0037 5.64 2.56 11.4
+HP:0001696 Situs inversus totalis 168 11 4.42 5.57 2.4e-05 0.0037 5.64 2.56 11.4
+HP:0000819 Diabetes mellitus 291 15 3.48 5.42 1.1e-05 0.0037 4.67 2.35 8.85
+HP:0001651 Dextrocardia 174 11 4.27 5.42 3.3e-05 0.0037 5.42 2.46 11
+HP:0004307 Abnormal anatomic location of the heart 175 11 4.24 5.4 3.5e-05 0.0037 5.38 2.45 10.9
+HP:0000080 Abnormality of reproductive system physiology 317 15 3.19 5.02 3.2e-05 0.0037 4.23 2.13 8.01
+HP:0000818 Abnormality of the endocrine system 858 27 2.12 4.64 1.6e-05 0.0037 3.41 1.89 6.17
+HP:0004408 Abnormality of the sense of smell 152 10 4.44 5.32 5.7e-05 0.0054 5.55 2.43 11.5
+HP:0012263 Immotile cilia 99 8 5.45 5.51 8.1e-05 0.0062 6.72 2.65 15
+HP:0012261 Abnormal respiratory motile cilium physiology 100 8 5.4 5.47 8.7e-05 0.0062 6.64 2.63 14.8
+HP:0012262 Abnormal ciliary motility 100 8 5.4 5.47 8.7e-05 0.0062 6.64 2.63 14.8
+HP:0005978 Type II diabetes mellitus 133 9 4.57 5.14 0.00011 0.0074 5.62 2.36 12
+HP:0002098 Respiratory distress 108 8 5 5.18 0.00015 0.0085 6.1 2.42 13.6
+HP:0000119 Abnormality of the genitourinary system 1666 38 1.54 3.73 0.00014 0.0085 3.05 1.61 6.12
+HP:0000078 Abnormality of the genital system 1098 29 1.78 3.84 2e-04 0.01 2.82 1.57 5.12
+HP:0002719 Recurrent infections 608 20 2.22 4.06 0.00022 0.011 3.05 1.64 5.54
+HP:0002099 Asthma 119 8 4.54 4.81 3e-04 0.014 5.48 2.17 12.1
+HP:0008678 Renal hypoplasia/aplasia 264 12 3.07 4.28 0.00035 0.015 3.81 1.8 7.53
+HP:0000550 Undetectable electroretinogram 124 8 4.35 4.66 0.00039 0.017 5.23 2.08 11.6
+HP:0008736 Hypoplasia of penis 353 14 2.68 4.07 0.00042 0.017 3.39 1.68 6.47
+HP:0000008 Abnormality of female internal genitalia 398 15 2.54 4.01 0.00043 0.017 3.25 1.64 6.14
+HP:0000789 Infertility 103 7 4.59 4.53 0.00069 0.024 5.44 2.02 12.6
+HP:0011014 Abnormal glucose homeostasis 462 16 2.34 3.78 0.00069 0.024 3 1.54 5.6
+HP:0000855 Insulin resistance 32 4 8.44 5.18 0.0011 0.025 10.2 2.5 30.8
+HP:0000873 Diabetes insipidus 54 5 6.25 4.77 0.0011 0.025 7.39 2.2 19.7
+HP:0001099 Fundus atrophy 79 6 5.13 4.55 0.00096 0.025 6.04 2.04 14.8
+HP:0000138 Ovarian cyst 80 6 5.06 4.51 0.001 0.025 5.96 2.02 14.6
+HP:0001146 Pigmentary retinal degeneration 80 6 5.06 4.51 0.001 0.025 5.96 2.02 14.6
+HP:0000622 Blurred vision 82 6 4.94 4.43 0.0012 0.025 5.8 1.96 14.2
+HP:0002527 Falls 82 6 4.94 4.43 0.0012 0.025 5.8 1.96 14.2
+HP:0100689 Decreased corneal thickness 110 7 4.3 4.31 0.001 0.025 5.06 1.88 11.7
+HP:0011486 Abnormality of corneal thickness 112 7 4.22 4.24 0.0011 0.025 4.96 1.84 11.4
+HP:0001007 Hirsutism 113 7 4.18 4.21 0.0012 0.025 4.91 1.83 11.3
+HP:0100326 Immunologic hypersensitivity 143 8 3.78 4.16 0.001 0.025 4.47 1.78 9.85
+HP:0000054 Micropenis 217 10 3.11 3.94 0.0011 0.025 3.74 1.65 7.71
+HP:0002205 Recurrent respiratory infections 422 15 2.4 3.76 0.00081 0.025 3.04 1.53 5.73
+HP:0003241 External genital hypoplasia 432 15 2.34 3.66 0.001 0.025 2.96 1.49 5.57
+HP:0011013 Abnormality of carbohydrate metabolism/homeostasis 521 17 2.2 3.65 0.00088 0.025 2.85 1.48 5.26
+HP:0000036 Abnormality of the penis 522 17 2.2 3.64 9e-04 0.025 2.84 1.48 5.25
+HP:0012243 Abnormal genital system morphology 965 25 1.75 3.35 0.0011 0.025 2.48 1.37 4.46
+HP:0001746 Asplenia 56 5 6.03 4.65 0.0013 0.026 7.1 2.12 18.8
+HP:0010460 Abnormality of the female genitalia 443 15 2.29 3.55 0.0013 0.027 2.87 1.45 5.41
+HP:0012208 Nonmotile sperm 36 4 7.5 4.81 0.0018 0.029 8.9 2.2 26.6
+HP:0012206 Abnormal sperm motility 38 4 7.11 4.64 0.0022 0.029 8.38 2.08 24.9
+HP:0012207 Reduced sperm motility 38 4 7.11 4.64 0.0022 0.029 8.38 2.08 24.9
+HP:0004409 Hyposmia 58 5 5.82 4.54 0.0015 0.029 6.82 2.04 18.1
+HP:0012041 Decreased fertility in males 61 5 5.53 4.38 0.0019 0.029 6.45 1.93 17
+HP:0003251 Male infertility 61 5 5.53 4.38 0.0019 0.029 6.45 1.93 17
+HP:0000458 Anosmia 87 6 4.66 4.23 0.0016 0.029 5.43 1.84 13.3
+HP:0007994 Peripheral visual field loss 87 6 4.66 4.23 0.0016 0.029 5.43 1.84 13.3
+HP:0008043 Retinal arteriolar constriction 87 6 4.66 4.23 0.0016 0.029 5.43 1.84 13.3
+HP:0000142 Abnormality of the vagina 88 6 4.6 4.2 0.0017 0.029 5.36 1.82 13.1
+HP:0010451 Aplasia/Hypoplasia of the spleen 65 5 5.19 4.18 0.0025 0.029 6.02 1.8 15.8
+HP:0001115 Posterior polar cataract 90 6 4.5 4.12 0.0019 0.029 5.23 1.78 12.8
+HP:0012045 Retinal flecks 91 6 4.45 4.09 0.002 0.029 5.17 1.76 12.6
+HP:0040214 Abnormal insulin level 92 6 4.4 4.05 0.0021 0.029 5.11 1.74 12.4
+HP:0040215 Abnormal circulating insulin level 92 6 4.4 4.05 0.0021 0.029 5.11 1.74 12.4
+HP:0000842 Hyperinsulinemia 92 6 4.4 4.05 0.0021 0.029 5.11 1.74 12.4
+HP:0000603 Central scotoma 93 6 4.35 4.02 0.0022 0.029 5.05 1.72 12.3
+HP:0000548 Cone/cone-rod dystrophy 120 7 3.94 4.01 0.0017 0.029 4.6 1.71 10.6
+HP:0000025 Functional abnormality of male internal genitalia 121 7 3.9 3.99 0.0018 0.029 4.56 1.7 10.5
+HP:0007875 Congenital blindness 94 6 4.31 3.99 0.0024 0.029 4.99 1.7 12.1
+HP:0007688 Undetectable light- and dark-adapted electroretinogram 94 6 4.31 3.99 0.0024 0.029 4.99 1.7 12.1
+HP:0007843 Attenuation of retinal blood vessels 94 6 4.31 3.99 0.0024 0.029 4.99 1.7 12.1
+HP:0010696 Polar cataract 124 7 3.81 3.91 0.0021 0.029 4.44 1.65 10.2
+HP:0012874 Abnormal male reproductive system physiology 128 7 3.69 3.8 0.0025 0.029 4.29 1.6 9.84
+HP:0000613 Photophobia 198 9 3.07 3.67 0.0021 0.029 3.62 1.53 7.67
+HP:0000812 Abnormal internal genitalia 452 15 2.24 3.46 0.0017 0.029 2.8 1.42 5.28
+HP:0000050 Hypoplastic male external genitalia 416 14 2.27 3.39 0.0022 0.029 2.8 1.39 5.34
+HP:0011947 Respiratory tract infection 470 15 2.15 3.3 0.0025 0.029 2.67 1.35 5.04
+HP:0002242 Abnormality of the intestine 570 17 2.01 3.24 0.0025 0.029 2.55 1.33 4.72
+HP:0000668 Hypodontia 96 6 4.22 3.92 0.0026 0.031 4.88 1.66 11.9
+HP:0000483 Astigmatism 167 8 3.23 3.63 0.0028 0.032 3.77 1.51 8.28
+HP:0003117 Abnormality of circulating hormone level 249 10 2.71 3.43 0.003 0.033 3.21 1.42 6.59
+HP:0000811 Abnormal external genitalia 795 21 1.78 3.08 0.003 0.033 2.35 1.27 4.25
+HP:0007707 Congenital primary aphakia 22 3 9.2 4.73 0.0039 0.034 11.1 2.03 39.4
+HP:0001769 Broad foot 46 4 5.87 4.08 0.0044 0.034 6.77 1.7 19.8
+HP:0007987 Progressive visual field defects 69 5 4.89 4 0.0032 0.034 5.64 1.69 14.8
+HP:0008028 Cystoid macular degeneration 69 5 4.89 4 0.0032 0.034 5.64 1.69 14.8
+HP:0007830 Adult-onset night blindness 70 5 4.82 3.96 0.0034 0.034 5.55 1.67 14.5
+HP:0200070 Peripheral retinal atrophy 70 5 4.82 3.96 0.0034 0.034 5.55 1.67 14.5
+HP:0007950 Peripapillary chorioretinal atrophy 70 5 4.82 3.96 0.0034 0.034 5.55 1.67 14.5
+HP:0000552 Tritanomaly 71 5 4.75 3.92 0.0036 0.034 5.46 1.64 14.3
+HP:0011505 Cystoid macular edema 71 5 4.75 3.92 0.0036 0.034 5.46 1.64 14.3
+HP:0040049 Macular edema 72 5 4.69 3.88 0.0039 0.034 5.38 1.62 14.1
+HP:0007722 Retinal pigment epithelial atrophy 72 5 4.69 3.88 0.0039 0.034 5.38 1.62 14.1
+HP:0000642 Red-green dyschromatopsia 73 5 4.62 3.84 0.0041 0.034 5.3 1.59 13.9
+HP:0011519 Anomalous trichromacy 73 5 4.62 3.84 0.0041 0.034 5.3 1.59 13.9
+HP:0030498 Macular thickening 73 5 4.62 3.84 0.0041 0.034 5.3 1.59 13.9
+HP:0000523 Subcapsular cataract 100 6 4.05 3.79 0.0032 0.034 4.66 1.59 11.3
+HP:0001141 Severe visual impairment 101 6 4.01 3.76 0.0034 0.034 4.61 1.57 11.2
+HP:0001792 Small nail 102 6 3.97 3.73 0.0036 0.034 4.56 1.56 11.1
+HP:0001162 Postaxial hand polydactyly 104 6 3.89 3.67 0.0039 0.034 4.47 1.52 10.8
+HP:0000533 Chorioretinal atrophy 104 6 3.89 3.67 0.0039 0.034 4.47 1.52 10.8
+HP:0200065 Chorioretinal degeneration 105 6 3.86 3.64 0.0041 0.034 4.42 1.51 10.7
+HP:0000403 Recurrent otitis media 106 6 3.82 3.62 0.0043 0.034 4.38 1.49 10.6
+HP:0001133 Constriction of peripheral visual field 106 6 3.82 3.62 0.0043 0.034 4.38 1.49 10.6
+HP:0030506 Yellow/white lesions of the retina 106 6 3.82 3.62 0.0043 0.034 4.38 1.49 10.6
+HP:0100692 Increased corneal curvature 106 6 3.82 3.62 0.0043 0.034 4.38 1.49 10.6
+HP:0000563 Keratoconus 106 6 3.82 3.62 0.0043 0.034 4.38 1.49 10.6
+HP:0007401 Macular atrophy 106 6 3.82 3.62 0.0043 0.034 4.38 1.49 10.6
+HP:0100699 Scarring 141 7 3.35 3.49 0.0043 0.034 3.86 1.44 8.83
+HP:0100691 Abnormality of the curvature of the cornea 209 9 2.91 3.49 0.0031 0.034 3.41 1.44 7.22
+HP:0000137 Abnormality of the ovary 142 7 3.33 3.47 0.0044 0.034 3.83 1.43 8.76
+HP:0001080 Biliary tract abnormality 176 8 3.07 3.45 0.0039 0.034 3.56 1.42 7.8
+HP:0002094 Dyspnea 213 9 2.85 3.42 0.0035 0.034 3.34 1.41 7.06
+HP:0100259 Postaxial polydactyly 217 9 2.8 3.36 0.004 0.034 3.27 1.38 6.92
+HP:0004324 Increased body weight 300 11 2.48 3.28 0.0037 0.034 2.94 1.35 5.9
+HP:0002086 Abnormality of the respiratory system 1338 30 1.51 2.93 0.0031 0.034 2.24 1.24 4.1
+HP:0001800 Hypoplastic toenails 47 4 5.74 4.02 0.0048 0.035 6.61 1.66 19.3
+HP:0000147 Polycystic ovaries 75 5 4.5 3.76 0.0046 0.035 5.14 1.55 13.4
+HP:0000575 Scotoma 108 6 3.75 3.56 0.0048 0.035 4.29 1.46 10.4
+HP:0030637 Cone dysfunction syndrome 144 7 3.28 3.43 0.0048 0.035 3.77 1.41 8.62
+HP:0000551 Abnormality of color vision 144 7 3.28 3.43 0.0048 0.035 3.77 1.41 8.62
+HP:0008020 Progressive cone degeneration 76 5 4.44 3.72 0.0049 0.036 5.07 1.53 13.2
+HP:0012043 Pendular nystagmus 109 6 3.72 3.53 0.005 0.036 4.25 1.45 10.3
+HP:0000032 Abnormality of male external genitalia 773 20 1.75 2.88 0.0051 0.036 2.24 1.21 4.07
+HP:0001829 Foot polydactyly 110 6 3.68 3.5 0.0052 0.037 4.2 1.43 10.2
+HP:0000512 Abnormal electroretinogram 226 9 2.69 3.22 0.0052 0.037 3.12 1.32 6.61
+HP:0009806 Nephrogenic diabetes insipidus 25 3 8.1 4.37 0.0056 0.039 9.54 1.77 33.4
+HP:0002459 Dysautonomia 25 3 8.1 4.37 0.0056 0.039 9.54 1.77 33.4
+HP:0009136 Duplication involving bones of the feet 112 6 3.62 3.45 0.0057 0.039 4.12 1.41 9.97
+HP:0000654 Decreased light- and dark-adapted electroretinogram amplitude 112 6 3.62 3.45 0.0057 0.039 4.12 1.41 9.97
+HP:0002088 Abnormality of lung morphology 837 21 1.69 2.82 0.0057 0.039 2.19 1.19 3.96
+HP:0011948 Acute respiratory tract infection 26 3 7.79 4.26 0.0063 0.041 9.13 1.7 31.7
+HP:0011950 Bronchiolitis 26 3 7.79 4.26 0.0063 0.041 9.13 1.7 31.7
+HP:0000630 Abnormality of retinal arteries 114 6 3.55 3.4 0.0062 0.041 4.04 1.38 9.77
+HP:0000540 Hypermetropia 191 8 2.83 3.18 0.0063 0.041 3.25 1.3 7.12
+HP:0012252 Abnormal respiratory system morphology 959 23 1.62 2.76 0.0062 0.041 2.14 1.17 3.85
+HP:0007737 Bone spicule pigmentation of the retina 82 5 4.12 3.5 0.0068 0.043 4.67 1.41 12.1
+HP:3000036 Abnormality of head blood vessel 116 6 3.49 3.35 0.0067 0.043 3.97 1.36 9.59
+HP:0025033 Abnormality of digestive system morphology 792 20 1.7 2.76 0.0067 0.043 2.17 1.17 3.94
+HP:0012718 Morphological abnormality of the gastrointestinal tract 792 20 1.7 2.76 0.0067 0.043 2.17 1.17 3.94
+HP:0007787 Posterior subcapsular cataract 83 5 4.07 3.47 0.0071 0.044 4.61 1.39 12
+HP:0000987 Atypical scarring of skin 117 6 3.46 3.32 0.007 0.044 3.93 1.34 9.49
+HP:0000601 Hypotelorism 117 6 3.46 3.32 0.007 0.044 3.93 1.34 9.49
+HP:0010461 Abnormality of the male genitalia 797 20 1.69 2.73 0.0073 0.045 2.16 1.16 3.91
+HP:0007641 Dyschromatopsia 84 5 4.02 3.43 0.0075 0.046 4.55 1.37 11.8
+HP:0000662 Nyctalopia 240 9 2.53 3.01 0.0077 0.047 2.92 1.24 6.17
+HP:0000130 Abnormality of the uterus 158 7 2.99 3.14 0.0079 0.048 3.4 1.27 7.78

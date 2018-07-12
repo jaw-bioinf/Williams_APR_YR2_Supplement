@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:5419	schizophrenia	635	14	3.43	5.16	2.6e-05	0.0018	4.61	2.25	8.97
+DOID:2468	psychotic disorder	637	14	3.42	5.15	2.7e-05	0.0018	4.59	2.24	8.94
+DOID:3211	lysosomal storage disease	142	6	6.57	5.4	0.00027	0.012	7.71	2.62	18.8
+DOID:1561	cognitive disorder	812	14	2.68	4.1	0.00038	0.013	3.48	1.7	6.78
+DOID:9455	lipid storage disease	122	5	6.38	4.82	0.001	0.028	7.3	2.21	19
+DOID:13250	diarrhea	34	3	13.7	5.98	0.0013	0.029	15.9	3	54.3
+DOID:0014667	disease of metabolism	1280	17	2.07	3.39	0.0016	0.031	2.74	1.4	5.2
+DOID:9452	fatty liver disease	92	4	6.76	4.48	0.0028	0.047	7.61	1.94	21.7

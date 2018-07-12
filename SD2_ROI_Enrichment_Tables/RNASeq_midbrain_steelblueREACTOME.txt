@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112316	Neuronal System	356	14	5.25	7.09	3.1e-07	2.1e-05	6.44	3.29	11.8
+R-HSA-5576891	Cardiac conduction	139	7	6.72	5.9	7.7e-05	0.0026	7.64	2.91	17.1
+R-HSA-397014	Muscle contraction	201	8	5.31	5.37	0.00012	0.0027	6.03	2.47	12.8
+R-HSA-112315	Transmission across Chemical Synapses	224	8	4.77	4.95	0.00026	0.0043	5.37	2.2	11.4
+R-HSA-888590	GABA synthesis, release, reuptake and degradation	19	3	21.1	7.61	0.00036	0.0048	25.8	4.71	93
+R-HSA-1296071	Potassium Channels	99	5	6.74	4.99	0.00085	0.0095	7.48	2.3	18.9
+R-HSA-399719	Trafficking of AMPA receptors	31	3	12.9	5.77	0.0016	0.013	14.7	2.8	49.4
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	3	12.9	5.77	0.0016	0.013	14.7	2.8	49.4
+R-HSA-418346	Platelet homeostasis	79	4	6.76	4.46	0.0029	0.021	7.4	1.91	20.6
+R-HSA-166520	Signalling by NGF	147	5	4.54	3.76	0.0048	0.032	4.93	1.53	12.3
+R-HSA-1483249	Inositol phosphate metabolism	48	3	8.34	4.43	0.0055	0.033	9.15	1.78	29.6
+R-HSA-112310	Neurotransmitter release cycle	51	3	7.85	4.26	0.0065	0.033	8.58	1.67	27.6
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	5	4.33	3.62	0.0059	0.033	4.69	1.46	11.7
+R-HSA-5673001	RAF/MAP kinase cascade	243	6	3.3	3.15	0.0096	0.046	3.56	1.25	8.26
+R-HSA-5684996	MAPK1/MAPK3 signaling	249	6	3.22	3.08	0.011	0.048	3.47	1.22	8.05

@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-77387	Insulin receptor recycling	26	9	5.63	6.05	1.4e-05	0.0088	8.18	3.2	19.5
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	17	2.88	4.73	6.7e-05	0.015	3.35	1.84	5.75
+R-HSA-72163	mRNA Splicing - Major Pathway	183	25	2.22	4.27	0.00014	0.015	2.47	1.54	3.82
+R-HSA-5663205	Infectious disease	326	38	1.89	4.21	1e-04	0.015	2.08	1.43	2.96
+R-HSA-3700989	Transcriptional Regulation by TP53	365	41	1.83	4.12	0.00012	0.015	2	1.39	2.8
+R-HSA-8953854	Metabolism of RNA	646	63	1.59	3.94	0.00015	0.015	1.72	1.29	2.27
+R-HSA-72172	mRNA Splicing	191	25	2.13	4.03	0.00027	0.024	2.35	1.47	3.63
+R-HSA-917977	Transferrin endocytosis and recycling	31	8	4.19	4.56	0.00044	0.033	5.36	2.06	12.5
+R-HSA-888590	GABA synthesis, release, reuptake and degradation	19	6	5.13	4.62	0.00072	0.042	7.1	2.2	20.1
+R-HSA-5676590	NIK-->noncanonical NF-kB signaling	59	11	3.03	4	0.00082	0.042	3.54	1.65	6.96
+R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	60	11	2.98	3.94	0.00094	0.042	3.47	1.62	6.8
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	17	2.34	3.75	0.00085	0.042	2.61	1.45	4.43
+R-HSA-5621481	C-type lectin receptors (CLRs)	138	19	2.24	3.75	0.00077	0.042	2.48	1.43	4.08
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	38	1.69	3.45	0.00096	0.042	1.82	1.25	2.59
+R-HSA-72165	mRNA Splicing - Minor Pathway	52	10	3.13	3.94	0.0011	0.044	3.67	1.64	7.49

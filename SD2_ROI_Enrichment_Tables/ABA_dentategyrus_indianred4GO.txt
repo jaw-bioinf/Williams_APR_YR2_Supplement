@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00812	1	2	1	0.5	1	CORUM:3152	cor	3	Notch1(N-TM)-Notch1(N-EC) heterodimer complex	1	NOTCH1
+2	1	TRUE	0.00812	3	2	1	0.5	0.333	CORUM:2940	cor	1	Acinar cell-specific C complex	1	PDX1
+3	1	TRUE	0.00812	3	2	1	0.5	0.333	CORUM:2941	cor	2	Acinar cell-specific C complex	1	PDX1
+4	1	TRUE	0.00812	2	2	1	0.5	0.5	CORUM:2954	cor	4	Smad1-Notch1-p300-Pcaf complex	1	NOTCH1

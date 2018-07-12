@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3296482	Defects in vitamin and cofactor metabolism	22	3	37.9	10.4	6.3e-05	0.00094	47.5	8.59	173
+R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	123	4	9.05	5.39	0.00094	0.0071	10.3	2.62	29.8
+R-HSA-196854	Metabolism of vitamins and cofactors	184	4	6.05	4.15	0.0041	0.021	6.8	1.73	19.5
+R-HSA-5668914	Diseases of metabolism	105	3	7.95	4.3	0.0062	0.023	8.79	1.7	28.8

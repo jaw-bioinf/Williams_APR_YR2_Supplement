@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	9	5.46	5.81	3.8e-05	0.0078	6.19	2.69	12.6
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	7	5.98	5.45	0.00016	0.0078	6.77	2.57	15.1
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	7	5.98	5.45	0.00016	0.0078	6.77	2.57	15.1
+R-HSA-69275	G2/M Transition	195	12	3.62	4.86	0.00012	0.0078	4.01	1.99	7.37
+R-HSA-453274	Mitotic G2-G2/M phases	197	12	3.59	4.82	0.00013	0.0078	3.96	1.97	7.29
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	6	6.8	5.51	0.00023	0.0081	7.79	2.68	18.6
+R-HSA-8854518	AURKA Activation by TPX2	72	7	5.73	5.29	0.00021	0.0081	6.46	2.46	14.4
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	6	6.31	5.24	0.00035	0.0089	7.16	2.47	17
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	7	5.15	4.9	4e-04	0.0089	5.75	2.2	12.7
+R-HSA-380287	Centrosome maturation	80	7	5.15	4.9	4e-04	0.0089	5.75	2.2	12.7
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	11	3.48	4.49	0.00032	0.0089	3.82	1.84	7.19
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	7	4.74	4.6	0.00067	0.013	5.24	2.01	11.5
+R-HSA-1852241	Organelle biogenesis and maintenance	269	13	2.85	4.03	0.00066	0.013	3.1	1.59	5.55
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	7	4.43	4.37	0.001	0.017	4.87	1.87	10.7
+R-HSA-199977	ER to Golgi Anterograde Transport	155	9	3.42	3.99	0.0013	0.019	3.71	1.63	7.42
+R-HSA-5663205	Infectious disease	326	14	2.53	3.69	0.0013	0.019	2.74	1.45	4.81
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	15	2.42	3.63	0.0014	0.019	2.62	1.42	4.52
+R-HSA-5339562	Uptake and actions of bacterial toxins	31	4	7.6	4.84	0.0018	0.021	8.75	2.2	25.5
+R-HSA-6807878	COPI-mediated anterograde transport	102	7	4.04	4.06	0.0017	0.021	4.4	1.7	9.64
+R-HSA-446203	Asparagine N-linked glycosylation	299	13	2.56	3.6	0.0017	0.021	2.77	1.42	4.95
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	10	2.94	3.65	0.0021	0.025	3.17	1.47	6.12
+R-HSA-5617833	Cilium Assembly	201	10	2.93	3.63	0.0022	0.025	3.16	1.46	6.09
+R-HSA-2262752	Cellular responses to stress	425	16	2.22	3.37	0.0023	0.025	2.4	1.32	4.06
+R-HSA-5632684	Hedgehog 'on' state	85	6	4.16	3.84	0.0032	0.032	4.52	1.59	10.5
+R-HSA-8953897	Cellular responses to external stimuli	493	17	2.03	3.09	0.0042	0.041	2.19	1.23	3.65
+R-HSA-5653656	Vesicle-mediated transport	631	20	1.87	2.96	0.0051	0.047	2.01	1.19	3.25

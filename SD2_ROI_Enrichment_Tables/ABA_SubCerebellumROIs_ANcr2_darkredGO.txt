@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0387	3	5	1	0.2	0.333	CORUM:5948	cor	4	p18-p14-Mp1 complex	1	LAMTOR3
+2	1	TRUE	0.0402	5	5	1	0.2	0.2	CORUM:122	cor	5	MCM complex	1	MCM6
+3	1	TRUE	0.0387	1	5	1	0.2	1	CORUM:6605	cor	6	Gli1-Kif7 complex	1	GLI1
+4	1	TRUE	0.0387	4	5	1	0.2	0.25	CORUM:5227	cor	3	p14-Mp1-Erk1/2 complex	1	LAMTOR3
+5	1	TRUE	0.0387	2	5	1	0.2	0.5	CORUM:5952	cor	9	Mp1-p14 scaffolding complex	1	LAMTOR3
+6	1	TRUE	0.0421	7	5	1	0.2	0.143	CORUM:385	cor	2	Caveolar macromolecular signaling complex, using anti-Cav-3	1	CAV3
+7	1	TRUE	0.0387	4	5	1	0.2	0.25	CORUM:2221	cor	8	RPA-MSH4-BLM complex	1	RPA3
+8	1	TRUE	0.0421	7	5	1	0.2	0.143	CORUM:384	cor	1	Caveolar macromolecular signaling complex	1	CAV3

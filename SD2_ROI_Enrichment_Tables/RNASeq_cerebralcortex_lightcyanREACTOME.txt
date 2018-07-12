@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5696400	Dual Incision in GG-NER	41	4	10.2	5.79	0.00061	0.05	11.6	2.94	33.3
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	3	9.48	4.8	0.0038	0.05	10.6	2.04	35.1
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	3	9.2	4.71	0.0041	0.05	10.3	1.98	33.9
+R-HSA-6782135	Dual incision in TC-NER	66	4	6.32	4.27	0.0036	0.05	6.91	1.79	19.2
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	3	7.82	4.25	0.0065	0.05	8.61	1.67	28
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	3	7.63	4.19	0.007	0.05	8.38	1.63	27.2
+R-HSA-162587	HIV Life Cycle	101	5	5.16	4.14	0.0028	0.05	5.62	1.74	14.1
+R-HSA-5696395	Formation of Incision Complex in GG-NER	43	3	7.28	4.06	0.008	0.05	7.96	1.55	25.7
+R-HSA-5696398	Nucleotide Excision Repair	111	5	4.7	3.85	0.0042	0.05	5.08	1.58	12.7
+R-HSA-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	79	4	5.28	3.76	0.0069	0.05	5.7	1.48	15.7
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	4	4.97	3.59	0.0085	0.05	5.34	1.39	14.7
+R-HSA-162906	HIV Infection	184	6	3.4	3.23	0.0084	0.05	3.65	1.29	8.41
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	7	3	3.11	0.0087	0.05	3.23	1.25	7.03
+R-HSA-8953854	Metabolism of RNA	646	13	2.1	2.84	0.0085	0.05	2.3	1.17	4.18
+R-HSA-74160	Gene expression (Transcription)	1335	22	1.72	2.78	0.0069	0.05	1.95	1.15	3.18

@@ -1,0 +1,18 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0010047 axonal spheroids 14 4 27.3 10.1 1e-05 0.0066 39.3 8.85 140
+MP:0003633 abnormal nervous system physiology 1903 38 1.91 4.58 1.8e-05 0.0066 2.53 1.63 3.88
+MP:0011966 abnormal auditory brainstem response waveform shape 39 5 12.3 7.24 4.9e-05 0.0089 14.6 4.36 38.7
+MP:0000920 abnormal myelination 200 10 4.78 5.56 4.3e-05 0.0089 5.44 2.48 10.7
+MP:0000921 demyelination 101 7 6.63 5.85 8.5e-05 0.012 7.52 2.86 16.7
+MP:0011448 decreased dopaminergic neuron number 25 4 15.3 7.36 0.00012 0.015 18.7 4.59 57.1
+MP:0004343 small scapula 27 4 14.2 7.04 0.00016 0.016 17.1 4.22 51.4
+MP:0003243 abnormal dopaminergic neuron morphology 51 5 9.38 6.17 0.00018 0.016 10.8 3.27 27.9
+MP:0005445 abnormal neurotransmitter secretion 82 6 7 5.61 0.00021 0.017 7.89 2.74 18.7
+MP:0010149 abnormal synaptic dopamine release 14 3 20.5 7.5 0.00037 0.025 26.5 4.68 103
+MP:0001486 abnormal startle reflex 259 10 3.69 4.52 0.00036 0.025 4.12 1.89 8.08
+MP:0001015 small superior cervical ganglion 16 3 17.9 6.97 0.00056 0.026 22.5 4.04 83.6
+MP:0000579 abnormal nail morphology 35 4 10.9 6.05 0.00046 0.026 12.7 3.19 36.9
+MP:0008918 microgliosis 65 5 7.36 5.29 0.00057 0.026 8.26 2.53 21
+MP:0005404 abnormal axon morphology 219 9 3.93 4.51 0.00046 0.026 4.37 1.91 8.83
+MP:0004811 abnormal neuron physiology 667 17 2.44 3.96 0.00049 0.026 2.79 1.54 4.78
+MP:0005298 abnormal clavicle morphology 38 4 10.1 5.76 0.00063 0.027 11.6 2.92 33.4

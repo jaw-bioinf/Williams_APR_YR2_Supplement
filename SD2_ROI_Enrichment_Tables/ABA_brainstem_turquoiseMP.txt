@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001793	altered susceptibility to infection	534	275	1.25	5.04	3.5e-07	0.0018	1.56	1.31	1.87
+MP:0005025	abnormal response to infection	572	289	1.23	4.74	1.5e-06	0.003	1.5	1.26	1.79
+MP:0020186	altered susceptibility to bacterial infection	331	177	1.3	4.67	2.4e-06	0.003	1.68	1.34	2.11
+MP:0002406	increased susceptibility to infection	443	229	1.26	4.66	2.4e-06	0.003	1.57	1.29	1.91
+MP:0020184	altered susceptibility to parasitic infection	127	77	1.48	4.51	6e-06	0.006	2.23	1.54	3.27
+MP:0001807	decreased IgA level	65	43	1.61	4.12	3.7e-05	0.025	2.82	1.65	4.97
+MP:0010055	abnormal sensory neuron physiology	67	44	1.6	4.11	3.9e-05	0.025	2.76	1.63	4.81
+MP:0001845	abnormal inflammatory response	1235	572	1.13	4.02	3.5e-05	0.025	1.28	1.13	1.45
+MP:0002412	increased susceptibility to bacterial infection	261	138	1.29	3.93	6.3e-05	0.032	1.63	1.27	2.11
+MP:0001846	increased inflammatory response	1058	493	1.13	3.88	6.4e-05	0.032	1.29	1.13	1.47
+MP:0009570	abnormal right lung morphology	46	32	1.69	3.94	8.5e-05	0.035	3.3	1.71	6.7
+MP:0005423	abnormal somatic nervous system physiology	80	50	1.52	3.91	8.4e-05	0.035	2.41	1.5	3.93
+MP:0005027	increased susceptibility to parasitic infection	100	60	1.46	3.87	9.6e-05	0.037	2.17	1.43	3.33
+MP:0002933	joint inflammation	147	83	1.37	3.82	0.00011	0.038	1.88	1.34	2.65
+MP:0020171	abnormal IgA level	129	74	1.4	3.79	0.00013	0.042	1.95	1.35	2.82

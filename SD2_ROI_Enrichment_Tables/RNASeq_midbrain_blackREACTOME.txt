@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	25	3.31	6.53	1.3e-07	3.4e-05	3.8	2.37	5.88
+R-HSA-72187	mRNA 3'-end processing	58	11	6.11	6.98	1.3e-06	0.00017	7.53	3.49	14.9
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	11	5.29	6.3	5.9e-06	0.00031	6.31	2.95	12.3
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	11	5.29	6.3	5.9e-06	0.00031	6.31	2.95	12.3
+R-HSA-72172	mRNA Splicing	191	19	3.2	5.5	7.3e-06	0.00031	3.6	2.09	5.9
+R-HSA-8953854	Metabolism of RNA	646	42	2.09	5.14	3.7e-06	0.00031	2.35	1.64	3.3
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	12	4.65	5.99	8.7e-06	0.00032	5.44	2.66	10.2
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	11	4.79	5.85	1.6e-05	0.00045	5.61	2.64	10.9
+R-HSA-5617833	Cilium Assembly	201	19	3.04	5.24	1.5e-05	0.00045	3.4	1.97	5.57
+R-HSA-1852241	Organelle biogenesis and maintenance	269	22	2.63	4.86	3.2e-05	0.00083	2.91	1.77	4.6
+R-HSA-72163	mRNA Splicing - Major Pathway	183	17	2.99	4.87	5.4e-05	0.0013	3.32	1.86	5.57
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	11	3.65	4.7	2e-04	0.0043	4.1	1.95	7.81
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	74	9	3.92	4.51	0.00045	0.0089	4.42	1.92	9.02

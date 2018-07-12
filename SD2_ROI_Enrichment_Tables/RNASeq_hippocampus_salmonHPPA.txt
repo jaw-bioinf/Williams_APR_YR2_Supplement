@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002720	IgA deficiency	27	6	11.8	7.81	7.6e-06	0.0082	16.2	5.18	43.6
+HP:0002721	Immunodeficiency	135	11	4.33	5.47	3.2e-05	0.017	5.35	2.46	10.7
+HP:0004315	IgG deficiency	43	6	7.42	5.86	0.00012	0.027	9.19	3.05	23.1
+HP:0002718	Recurrent bacterial infections	103	9	4.65	5.2	1e-04	0.027	5.62	2.37	11.9
+HP:0001739	Abnormality of the nasopharynx	178	12	3.59	4.9	8.9e-05	0.027	4.38	2.09	8.5
+HP:0002273	Tetraparesis	16	4	13.3	6.82	0.00018	0.031	18.4	4.2	62.9
+HP:0004313	Decreased antibody level in blood	112	9	4.27	4.87	2e-04	0.031	5.12	2.17	10.8
+HP:0002788	Recurrent upper respiratory tract infections	121	9	3.96	4.58	0.00036	0.035	4.69	1.99	9.86
+HP:0000600	Abnormality of the pharynx	202	12	3.16	4.38	3e-04	0.035	3.8	1.82	7.35
+HP:0011017	Abnormality of cell physiology	402	18	2.38	4.07	0.00029	0.035	2.99	1.62	5.29
+HP:0001871	Abnormality of blood and blood-forming tissues	992	32	1.72	3.68	0.00035	0.035	2.43	1.45	4.09
+HP:0001581	Recurrent skin infections	53	6	6.02	5.1	4e-04	0.036	7.22	2.43	17.8
+HP:0000113	Polycystic kidney dysplasia	100	8	4.25	4.57	0.00048	0.04	5.02	2.01	11

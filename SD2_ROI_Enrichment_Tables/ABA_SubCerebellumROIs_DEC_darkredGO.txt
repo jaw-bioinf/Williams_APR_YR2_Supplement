@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0329	1	8	1	0.125	1	CORUM:1941	cor	9	Sirpa-Pik3cg complex	1	PIK3CG
+2	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:3882	cor	1	Abcg5-Abcg8 complex	1	ABCG5
+3	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:3883	cor	7	Abcg5-Abcg1 complex	1	ABCG5
+4	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:2186	cor	11	Gata1-Snf2h complex	1	GATA1
+5	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:948	cor	13	Kif17-Lin10 complex	1	KIF17
+6	1	TRUE	0.0329	1	8	1	0.125	1	CORUM:3569	cor	10	Angiomotin isoform p80-Angiostatin complex	1	PLG
+7	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:2184	cor	2	Gata1-Gfi1b complex	1	GATA1
+8	1	TRUE	0.0451	3	8	1	0.125	0.333	CORUM:2185	cor	3	Gata1-Ldb1-Tal1 complex	1	GATA1
+9	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:2747	cor	8	Gata1-Fog1 complex	1	GATA1
+10	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:5348	cor	5	Pik3r5-Pik3cg complex	1	PIK3CG
+11	1	TRUE	0.0329	1	8	1	0.125	1	CORUM:3884	cor	6	Abcg5-Abcg2 complex	1	ABCG5
+12	1	TRUE	0.0329	2	8	1	0.125	0.5	CORUM:3886	cor	12	Abcg5-Abcg4 complex	1	ABCG5

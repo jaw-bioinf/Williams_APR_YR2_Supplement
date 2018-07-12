@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	53	1.89	4.97	4.7e-06	0.0024	2.1	1.53	2.84
+R-HSA-5653656	Vesicle-mediated transport	631	54	1.83	4.76	1e-05	0.0026	2.02	1.48	2.73
+R-HSA-112315	Transmission across Chemical Synapses	224	26	2.48	4.96	1.7e-05	0.0028	2.77	1.75	4.24
+R-HSA-399719	Trafficking of AMPA receptors	31	8	5.51	5.57	6.6e-05	0.0067	7.18	2.76	16.7
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	8	5.51	5.57	6.6e-05	0.0067	7.18	2.76	16.7
+R-HSA-196025	Formation of annular gap junctions	11	5	9.7	6.4	8.1e-05	0.0068	17.1	4.12	67.6
+R-HSA-190873	Gap junction degradation	12	5	8.9	6.07	0.00013	0.0096	14.7	3.66	53.9
+R-HSA-112316	Neuronal System	356	32	1.92	3.91	0.00029	0.019	2.08	1.38	3.04
+R-HSA-5663205	Infectious disease	326	29	1.9	3.66	0.00067	0.037	2.05	1.33	3.05
+R-HSA-416993	Trafficking of GluR2-containing AMPA receptors	17	5	6.28	4.83	0.00085	0.04	8.56	2.35	26.2
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	17	2.36	3.76	0.00086	0.04	2.58	1.45	4.33
+R-HSA-936837	Ion transport by P-type ATPases	56	9	3.43	4.04	0.0011	0.045	3.95	1.69	8.22
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	8	3.71	4.09	0.0012	0.046	4.34	1.74	9.51

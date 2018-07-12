@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0231	2	4	1	0.25	0.5	CORUM:1652	cor	7	Ccna2-Cdk2 complex	1	CDK2
+2	1	TRUE	0.0231	2	4	1	0.25	0.5	CORUM:5705	cor	6	Ccna2-Cdk2 complex	1	CDK2
+3	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6214	cor	5	Dock8-Wipf1-Was complex	1	WIPF1
+4	1	TRUE	0.0343	7	4	1	0.25	0.143	CORUM:6596	cor	4	Tectonic complex	1	CC2D2A
+5	1	TRUE	0.0343	5	4	1	0.25	0.2	CORUM:1475	cor	3	S-phase-specific E2F-p107 complex	1	CDK2
+6	1	TRUE	0.0231	2	4	1	0.25	0.5	CORUM:2729	cor	2	PIP complex	1	PARVA
+7	1	TRUE	0.0343	7	4	1	0.25	0.143	CORUM:6669	cor	1	B9 complex	1	CC2D2A

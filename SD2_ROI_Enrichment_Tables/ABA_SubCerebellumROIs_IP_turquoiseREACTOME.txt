@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1474244	Extracellular matrix organization	278	174	1.26	4.34	8.7e-06	0.011	1.71	1.33	2.21
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	195	1.22	4.06	2.9e-05	0.019	1.6	1.27	2.02
+R-HSA-216083	Integrin cell surface interactions	81	58	1.44	3.95	5e-05	0.021	2.56	1.55	4.36
+R-HSA-1989781	PPARA activates gene expression	117	79	1.36	3.86	7.1e-05	0.023	2.12	1.42	3.21
+R-HSA-400206	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	120	80	1.34	3.73	0.00012	0.032	2.04	1.37	3.06
+R-HSA-418594	G alpha (i) signalling events	362	214	1.19	3.62	0.00017	0.037	1.48	1.19	1.84

@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5654688	SHC-mediated cascade:FGFR1	21	3	14.2	6.09	0.0012	0.043	16.8	3.12	59
+R-HSA-5654693	FRS-mediated FGFR1 signaling	23	3	12.9	5.78	0.0015	0.043	15.1	2.83	52.2
+R-HSA-5654699	SHC-mediated cascade:FGFR2	23	3	12.9	5.78	0.0015	0.043	15.1	2.83	52.2
+R-HSA-5654700	FRS-mediated FGFR2 signaling	25	3	11.9	5.51	0.0019	0.043	13.8	2.59	46.9
+R-HSA-5655253	Signaling by FGFR2 in disease	27	3	11	5.26	0.0024	0.043	12.6	2.39	42.5
+R-HSA-5654696	Downstream signaling of activated FGFR2	30	3	9.91	4.94	0.0033	0.046	11.2	2.14	37.3
+R-HSA-5654687	Downstream signaling of activated FGFR1	31	3	9.59	4.84	0.0036	0.046	10.8	2.07	35.8

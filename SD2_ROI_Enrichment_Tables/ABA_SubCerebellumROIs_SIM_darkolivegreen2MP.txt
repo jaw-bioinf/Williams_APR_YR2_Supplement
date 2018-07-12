@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009743	preaxial polydactyly	43	4	37.5	12	3.3e-06	0.00033	49.5	11.7	159
+MP:0000562	polydactyly	152	4	10.6	5.96	0.00048	0.024	12.9	3.16	39.6
+MP:0002110	abnormal digit morphology	322	5	6.26	4.79	0.00098	0.032	7.83	2.26	22.1

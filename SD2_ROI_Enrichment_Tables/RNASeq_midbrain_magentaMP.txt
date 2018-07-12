@@ -1,0 +1,47 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004994	abnormal brain wave pattern	72	14	4.98	6.84	5.6e-07	0.00041	6.14	3.13	11.3
+MP:0001454	abnormal cued conditioning behavior	115	18	4.01	6.55	4.3e-07	0.00041	4.76	2.67	8.03
+MP:0012317	impaired conditioning behavior	107	17	4.07	6.44	7.2e-07	0.00041	4.83	2.67	8.28
+MP:0009456	impaired cued conditioning behavior	48	11	5.87	6.82	1.7e-06	0.00055	7.52	3.43	15.2
+MP:0009745	abnormal behavioral response to xenobiotic	295	30	2.61	5.65	1.3e-06	0.00055	2.95	1.92	4.39
+MP:0001362	abnormal anxiety-related response	332	32	2.47	5.5	1.9e-06	0.00055	2.78	1.84	4.09
+MP:0002065	abnormal fear/anxiety-related behavior	369	34	2.36	5.38	2.5e-06	0.00061	2.66	1.78	3.86
+MP:0002062	abnormal associative learning	290	28	2.47	5.14	8.3e-06	0.0018	2.77	1.78	4.17
+MP:0001363	increased anxiety-related response	202	22	2.79	5.19	1.2e-05	0.0023	3.14	1.89	4.98
+MP:0002906	increased susceptibility to pharmacologically induced seizures	106	15	3.63	5.48	1.4e-05	0.0024	4.19	2.23	7.38
+MP:0012349	increased susceptibility to induction of seizure by inducing agent	107	15	3.59	5.44	1.6e-05	0.0025	4.15	2.21	7.29
+MP:0004077	abnormal striatum morphology	91	13	3.66	5.14	4.7e-05	0.0058	4.22	2.13	7.74
+MP:0002063	abnormal learning/memory/conditioning	664	47	1.81	4.39	4.3e-05	0.0058	2.01	1.43	2.77
+MP:0014114	abnormal cognition	665	47	1.81	4.38	4.5e-05	0.0058	2	1.43	2.76
+MP:0002572	abnormal emotion/affect behavior	619	44	1.82	4.27	7e-05	0.008	2.01	1.41	2.79
+MP:0000505	decreased digestive secretion	13	5	9.86	6.44	8.7e-05	0.0093	15.6	3.99	54.3
+MP:0002689	abnormal molar morphology	49	9	4.71	5.24	9.8e-05	0.0093	5.66	2.39	12
+MP:0001399	hyperactivity	475	36	1.94	4.25	9.3e-05	0.0093	2.13	1.45	3.06
+MP:0009750	impaired behavioral response to addictive substance	51	9	4.52	5.08	0.00013	0.012	5.38	2.29	11.3
+MP:0009747	impaired behavioral response to xenobiotic	87	12	3.54	4.79	0.00013	0.012	4.04	1.98	7.57
+MP:0009748	abnormal behavioral response to addictive substance	101	13	3.3	4.68	0.00014	0.012	3.74	1.9	6.81
+MP:0009357	abnormal seizure response to inducing agent	190	19	2.56	4.39	0.00015	0.012	2.83	1.64	4.63
+MP:0000950	abnormal seizure response to pharmacological agent	134	15	2.87	4.39	0.00022	0.016	3.2	1.72	5.56
+MP:0003194	abnormal frequency of paradoxical sleep	16	5	8.01	5.65	0.00027	0.019	11.3	3.07	35.6
+MP:0000501	abnormal digestive secretion	35	7	5.13	4.93	0.00034	0.023	6.26	2.29	14.8
+MP:0008462	abnormal medium spiny neuron morphology	10	4	10.3	5.9	4e-04	0.024	16.6	3.43	70.4
+MP:0004830	short incisors	17	5	7.54	5.44	0.00037	0.024	10.4	2.85	31.9
+MP:0006007	abnormal basal ganglion morphology	127	14	2.83	4.17	0.00042	0.024	3.13	1.64	5.55
+MP:0001473	reduced long term potentiation	156	16	2.63	4.13	0.00038	0.024	2.9	1.59	4.94
+MP:0001468	abnormal temporal memory	173	17	2.52	4.06	0.00041	0.024	2.77	1.55	4.64
+MP:0009454	impaired contextual conditioning behavior	61	9	3.78	4.39	0.00055	0.03	4.35	1.87	8.99
+MP:0012288	abnormal paradoxical sleep pattern	19	5	6.75	5.05	0.00065	0.035	8.9	2.5	26.3
+MP:0002799	abnormal passive avoidance behavior	51	8	4.02	4.36	0.00073	0.038	4.66	1.88	10.1
+MP:0009746	enhanced behavioral response to xenobiotic	77	10	3.33	4.13	0.00077	0.039	3.75	1.71	7.42
+MP:0006402	small molars	12	4	8.54	5.27	0.00088	0.04	12.4	2.73	46.6
+MP:0003930	abnormal tooth hard tissue morphology	52	8	3.94	4.29	0.00083	0.04	4.56	1.84	9.88
+MP:0000116	abnormal tooth development	78	10	3.29	4.09	0.00085	0.04	3.7	1.68	7.3
+MP:0002206	abnormal CNS synaptic transmission	653	42	1.65	3.46	0.00086	0.04	1.78	1.25	2.5
+MP:0002207	abnormal long term potentiation	237	20	2.16	3.65	0.00095	0.042	2.34	1.39	3.77
+MP:0011396	abnormal sleep behavior	124	13	2.69	3.81	0.0011	0.043	2.95	1.51	5.33
+MP:0002910	abnormal excitatory postsynaptic currents	139	14	2.58	3.79	0.001	0.043	2.83	1.49	4.99
+MP:0003635	abnormal synaptic transmission	740	46	1.59	3.39	0.001	0.043	1.72	1.23	2.38
+MP:0001433	polyphagia	68	9	3.39	3.99	0.0012	0.048	3.83	1.65	7.85
+MP:0001982	decreased chemically-elicited antinociception	22	5	5.83	4.57	0.0013	0.05	7.33	2.1	20.8
+MP:0002818	abnormal dentin morphology	22	5	5.83	4.57	0.0013	0.05	7.33	2.1	20.8
+MP:0003633	abnormal nervous system physiology	1903	98	1.32	3.15	0.0014	0.05	1.46	1.14	1.86

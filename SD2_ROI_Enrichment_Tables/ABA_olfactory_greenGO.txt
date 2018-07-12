@@ -1,0 +1,2 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0252 86 346 13 0.038 0.151 KEGG:04610 keg 1 Complement and coagulation cascades 1 ITGB2,BDKRB2,SERPIND1,PROS1,C2,C4BP,TFPI,ITGAX,FGG,SERPINF2,BDKRB1,F2RL3,SERPINA1A

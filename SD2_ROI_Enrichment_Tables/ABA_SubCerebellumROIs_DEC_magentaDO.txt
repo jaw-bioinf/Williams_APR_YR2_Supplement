@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:8283	peritonitis	20	5	10.1	6.5	1e-04	0.028	13.5	3.79	39.7
+DOID:986	alopecia areata	25	5	8.09	5.66	0.00031	0.028	10.1	2.93	28.2
+DOID:4535	hypotrichosis	52	7	5.45	5.12	0.00026	0.028	6.35	2.38	14.5
+DOID:1040	chronic lymphocytic leukemia	191	14	2.97	4.39	0.00025	0.028	3.31	1.73	5.86
+DOID:421	hair disease	56	7	5.06	4.85	0.00042	0.03	5.83	2.19	13.2
+DOID:225	syndrome	1726	62	1.45	3.46	0.00058	0.035	1.73	1.24	2.4

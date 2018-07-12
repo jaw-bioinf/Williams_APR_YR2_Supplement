@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004905	decreased uterus weight	28	4	24.5	9.55	1.9e-05	0.008	30.6	7.44	93.9
+MP:0004903	abnormal uterus weight	42	4	16.4	7.64	9.7e-05	0.02	19.3	4.83	56.7
+MP:0002572	abnormal emotion/affect behavior	619	12	3.33	4.59	0.00018	0.025	4.06	1.93	7.9
+MP:0002065	abnormal fear/anxiety-related behavior	369	9	4.19	4.79	0.00025	0.026	4.92	2.1	10.3
+MP:0002637	small uterus	69	4	9.96	5.72	0.00067	0.04	11.3	2.87	32
+MP:0009940	abnormal hippocampus pyramidal cell morphology	69	4	9.96	5.72	0.00067	0.04	11.3	2.87	32
+MP:0001362	abnormal anxiety-related response	332	8	4.14	4.46	0.00061	0.04	4.78	1.93	10.3

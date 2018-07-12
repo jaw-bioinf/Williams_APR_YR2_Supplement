@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0242	2	6	1	0.167	0.5	CORUM:2552	cor	5	Il3rb1-Shc complex, IL-3 stimulated	1	SHC1
+2	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:3202	cor	3	Il3rb1-Shc-Ship complex, IL-3 stimulated	1	SHC1
+3	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:6278	cor	7	Cd22-Ship-Grb2-Shc complex	1	SHC1
+4	1	TRUE	0.0242	2	6	1	0.167	0.5	CORUM:719	cor	9	S100A10-annexin 2 complex	1	S100A10
+5	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:249	cor	11	Caspase-2-TRAF2-RIP1 complex	1	RALBP1
+6	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:5172	cor	4	Sh3kbp1-Cblb-Egfr complex	1	SH3KBP1
+7	1	TRUE	0.0242	2	6	1	0.167	0.5	CORUM:5173	cor	10	Sh3kbp1-Cblb-Pdgfrb complex	1	SH3KBP1
+8	1	TRUE	0.0242	2	6	1	0.167	0.5	CORUM:3201	cor	8	Ship-Shc complex, IL-3 stimulated	1	SHC1
+9	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:718	cor	6	TRPV5-S100A10-annexin 2 complex	1	S100A10
+10	1	TRUE	0.0371	5	6	1	0.167	0.2	CORUM:482	cor	2	cRET-Shc-Grb2-Gab2-P85PI3K-Shp2 complex	1	SHC1
+11	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:6383	cor	13	Nphp1-Ptk2b-Bcar1-tensin complex	1	BCAR1
+12	1	TRUE	0.0242	3	6	1	0.167	0.333	CORUM:3203	cor	1	Shc-Ship-Grb2 complex, IL-3 stimulated	1	SHC1
+13	1	TRUE	0.0242	2	6	1	0.167	0.5	CORUM:2553	cor	12	Shc-Grb2-mSos1 complex, EGF stimulated	1	SHC1

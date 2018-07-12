@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000849	abnormal cerebellum morphology	445	13	5.02	6.65	1.1e-06	6e-04	6.45	3.15	12.4
+MP:0000847	abnormal metencephalon morphology	479	13	4.66	6.3	2.5e-06	0.00069	5.96	2.91	11.4
+MP:0000841	abnormal hindbrain morphology	535	13	4.18	5.79	8.4e-06	0.0012	5.28	2.58	10.1
+MP:0000787	abnormal telencephalon morphology	808	16	3.4	5.47	8.4e-06	0.0012	4.48	2.32	8.28
+MP:0002152	abnormal brain morphology	1633	23	2.42	4.84	1.5e-05	0.0017	3.51	1.95	6.23
+MP:0000783	abnormal forebrain morphology	1011	17	2.89	4.87	3.5e-05	0.0033	3.8	2	6.96
+MP:0003232	abnormal forebrain development	247	8	5.57	5.56	8.1e-05	0.0064	6.54	2.63	14.2
+MP:0000913	abnormal brain development	780	14	3.08	4.65	0.00011	0.0065	3.86	1.93	7.29
+MP:0003861	abnormal nervous system development	1215	18	2.55	4.42	1e-04	0.0065	3.35	1.79	6.08
+MP:0008540	abnormal cerebral hemisphere morphology	609	12	3.39	4.66	0.00015	0.0085	4.13	1.97	8.04
+MP:0005222	abnormal somite size	52	4	13.2	6.76	0.00023	0.011	15.3	3.86	44.1
+MP:0000934	abnormal telencephalon development	163	6	6.33	5.25	0.00034	0.016	7.22	2.49	17.2
+MP:0010380	abnormal inner cell mass apoptosis	28	3	18.4	7.06	0.00055	0.024	21.6	4.05	74.2
+MP:0002705	dilated renal tubules	125	5	6.87	5.06	0.00076	0.03	7.74	2.36	19.8
+MP:0000807	abnormal hippocampus morphology	346	8	3.97	4.31	8e-04	0.03	4.57	1.85	9.88
+MP:0000801	abnormal temporal lobe morphology	352	8	3.91	4.25	0.00089	0.03	4.49	1.82	9.7
+MP:0004097	abnormal cerebellar cortex morphology	353	8	3.89	4.24	0.00091	0.03	4.47	1.81	9.67
+MP:0000774	decreased brain size	281	7	4.28	4.27	0.0011	0.034	4.86	1.84	11
+MP:0002082	postnatal lethality	1346	17	2.17	3.55	0.0012	0.034	2.73	1.44	4.99
+MP:0011732	decreased somite size	39	3	13.2	5.85	0.0015	0.037	15	2.86	50
+MP:0000780	abnormal corpus callosum morphology	143	5	6.01	4.62	0.0014	0.037	6.72	2.06	17.1
+MP:0008219	abnormal dorsal telencephalic commissure morphology	147	5	5.84	4.53	0.0016	0.037	6.52	2	16.6
+MP:0003717	pallor	213	6	4.84	4.34	0.0014	0.037	5.44	1.88	12.9
+MP:0001672	abnormal embryo development	1018	14	2.36	3.53	0.0016	0.037	2.87	1.43	5.4
+MP:0004166	abnormal limbic system morphology	393	8	3.5	3.87	0.0018	0.04	3.99	1.62	8.62
+MP:0012114	absent inner cell mass proliferation	43	3	12	5.53	0.002	0.042	13.5	2.59	44.5
+MP:0009956	abnormal cerebellar layer morphology	314	7	3.83	3.9	0.0021	0.044	4.33	1.64	9.73

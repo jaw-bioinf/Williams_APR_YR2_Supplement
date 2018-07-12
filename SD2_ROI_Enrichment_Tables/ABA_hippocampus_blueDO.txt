@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:150	disease of mental health	1255	403	1.29	6.58	7.4e-11	6.2e-08	1.56	1.36	1.79
+DOID:1561	cognitive disorder	812	269	1.33	5.81	9.6e-09	4e-06	1.59	1.35	1.87
+DOID:0060041	autism spectrum disorder	191	81	1.71	5.7	5.3e-08	1.4e-05	2.29	1.69	3.09
+DOID:0060040	pervasive developmental disorder	201	84	1.68	5.64	6.6e-08	1.4e-05	2.23	1.66	3
+DOID:0060037	developmental disorder of mental health	393	143	1.46	5.45	1e-07	1.7e-05	1.8	1.44	2.23
+DOID:12849	autistic disorder	186	78	1.69	5.47	1.7e-07	2.3e-05	2.24	1.64	3.04
+DOID:2468	psychotic disorder	637	212	1.34	5.17	3.1e-07	3.7e-05	1.58	1.32	1.89
+DOID:5419	schizophrenia	635	211	1.34	5.13	3.8e-07	4e-05	1.58	1.32	1.88
+DOID:3328	temporal lobe epilepsy	49	27	2.22	4.92	5.3e-06	0.00049	3.76	2.05	6.94
+DOID:2621	autonomic nervous system neoplasm	368	127	1.39	4.41	1.3e-05	0.00096	1.64	1.3	2.06
+DOID:769	neuroblastoma	368	127	1.39	4.41	1.3e-05	0.00096	1.64	1.3	2.06
+DOID:1192	peripheral nervous system neoplasm	381	130	1.37	4.31	1.9e-05	0.0013	1.61	1.29	2.02
+DOID:2234	focal epilepsy	59	28	1.91	4.04	0.00013	0.0077	2.76	1.59	4.77
+DOID:3093	nervous system cancer	523	166	1.28	3.8	0.00013	0.0077	1.45	1.19	1.76
+DOID:9973	substance dependence	265	90	1.37	3.5	0.00043	0.024	1.59	1.21	2.07
+DOID:303	substance-related disorder	286	95	1.34	3.35	0.00071	0.037	1.53	1.18	1.99
+DOID:0060038	specific developmental disorder	242	82	1.36	3.31	0.00083	0.041	1.58	1.19	2.08
+DOID:680	tauopathy	398	126	1.27	3.24	0.00093	0.043	1.43	1.14	1.79

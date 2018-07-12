@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0008986 abnormal liver parenchyma morphology 220 9 7.59 7.28 2.2e-06 8e-04 9.37 3.95 19.9
+MP:0008987 abnormal liver lobule morphology 208 7 6.25 5.63 0.00011 0.021 7.31 2.74 16.7
+MP:0000607 abnormal hepatocyte morphology 174 6 6.4 5.29 0.00032 0.04 7.35 2.53 17.6

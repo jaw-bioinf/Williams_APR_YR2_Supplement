@@ -1,0 +1,28 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-68877 Mitotic Prometaphase 199 19 3.87 6.5 4.4e-07 6.2e-05 4.44 2.56 7.29
+R-HSA-69278 Cell Cycle, Mitotic 531 33 2.52 5.72 8e-07 6.2e-05 2.87 1.9 4.21
+R-HSA-1640170 Cell Cycle 607 36 2.4 5.68 7.4e-07 6.2e-05 2.75 1.85 3.97
+R-HSA-141424 Amplification of signal from the kinetochores 96 12 5.07 6.37 3.9e-06 0.00015 5.88 2.88 11
+R-HSA-141444 Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal 96 12 5.07 6.37 3.9e-06 0.00015 5.88 2.88 11
+R-HSA-2500257 Resolution of Sister Chromatid Cohesion 127 14 4.47 6.26 2.8e-06 0.00015 5.13 2.68 9.14
+R-HSA-69620 Cell Cycle Checkpoints 292 21 2.92 5.28 1.1e-05 0.00035 3.25 1.94 5.2
+R-HSA-69618 Mitotic Spindle Checkpoint 112 12 4.34 5.66 1.9e-05 0.00056 4.93 2.43 9.17
+R-HSA-5663220 RHO GTPases Activate Formins 141 12 3.45 4.66 0.00019 0.0047 3.81 1.89 7.02
+R-HSA-194315 Signaling by Rho GTPases 441 24 2.21 4.12 0.00023 0.0052 2.41 1.5 3.73
+R-HSA-68886 M Phase 391 22 2.28 4.11 0.00026 0.0055 2.49 1.51 3.92
+R-HSA-8934593 Regulation of RUNX1 Expression and Activity 17 4 9.54 5.6 0.00067 0.013 12.3 2.91 40.3
+R-HSA-2467813 Separation of Sister Chromatids 191 13 2.76 3.9 0.00089 0.016 2.99 1.54 5.35
+R-HSA-68962 Activation of the pre-replicative complex 32 5 6.33 4.81 0.001 0.017 7.45 2.22 19.8
+R-HSA-110056 MAPK3 (ERK1) activation 10 3 12.2 5.62 0.0016 0.018 17.1 2.84 75.6
+R-HSA-8877330 RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs) 10 3 12.2 5.62 0.0016 0.018 17.1 2.84 75.6
+R-HSA-5693568 Resolution of D-loop Structures through Holliday Junction Intermediates 33 5 6.14 4.71 0.0012 0.018 7.18 2.15 19.1
+R-HSA-5693537 Resolution of D-Loop Structures 34 5 5.96 4.61 0.0014 0.018 6.93 2.08 18.3
+R-HSA-68882 Mitotic Anaphase 202 13 2.61 3.67 0.0015 0.018 2.81 1.45 5.03
+R-HSA-2555396 Mitotic Metaphase and Anaphase 203 13 2.6 3.65 0.0015 0.018 2.8 1.44 5
+R-HSA-195258 RHO GTPase Effectors 313 17 2.2 3.44 0.0019 0.021 2.36 1.34 3.93
+R-HSA-539107 Activation of E2F1 target genes at G1/S 24 4 6.76 4.49 0.0026 0.026 8.02 1.98 24.2
+R-HSA-69205 G1/S-Specific Transcription 24 4 6.76 4.49 0.0026 0.026 8.02 1.98 24.2
+R-HSA-75109 Triglyceride biosynthesis 13 3 9.36 4.79 0.0035 0.031 12 2.11 46.9
+R-HSA-5693554 Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA) 26 4 6.24 4.25 0.0035 0.031 7.29 1.81 21.7
+R-HSA-983189 Kinesins 60 6 4.05 3.77 0.0035 0.031 4.48 1.56 10.5
+R-HSA-194068 Bile acid and bile salt metabolism 43 5 4.71 3.88 0.0039 0.033 5.29 1.61 13.6

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04621	NOD-like receptor signaling pathway	167	4	8.84	5.35	0.00089	0.0027	11.3	2.68	36.5
+path:hsa04668	TNF signaling pathway	108	3	10.3	5.05	0.0029	0.0043	12.4	2.27	44.8
+path:hsa00230	Purine metabolism	173	3	6.4	3.75	0.011	0.011	7.59	1.4	27.2

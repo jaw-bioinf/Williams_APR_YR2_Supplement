@@ -1,0 +1,23 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0002151 abnormal neural tube morphology 590 16 3.54 5.61 7e-06 0.0023 4.37 2.32 7.81
+MP:0008762 embryonic lethality 1763 30 2.22 5.01 5.1e-06 0.0023 3.16 1.9 5.2
+MP:0004491 abnormal orientation of outer hair cell stereociliary bundles 30 4 17.4 7.91 7.4e-05 0.0096 21.1 5.2 63.1
+MP:0001672 abnormal embryo development 1018 20 2.57 4.65 5e-05 0.0096 3.23 1.81 5.53
+MP:0014134 abnormal embryo morphology 1333 23 2.25 4.35 8.9e-05 0.0096 2.89 1.67 4.86
+MP:0005380 embryo phenotype 1722 27 2.05 4.24 9e-05 0.0096 2.72 1.61 4.5
+MP:0002085 abnormal embryonic tissue morphology 987 19 2.52 4.42 0.00011 0.0099 3.11 1.73 5.38
+MP:0002084 abnormal developmental patterning 478 12 3.28 4.5 0.00024 0.019 3.81 1.85 7.23
+MP:0004522 abnormal orientation of cochlear hair cell stereociliary bundles 42 4 12.4 6.53 0.00028 0.02 14.4 3.63 41.7
+MP:0010872 increased trabecular bone mass 23 3 17 6.77 0.00068 0.031 20.2 3.76 70.6
+MP:0006386 absent somites 48 4 10.9 6.03 0.00048 0.031 12.4 3.15 35.6
+MP:0000929 open neural tube 251 8 4.17 4.46 0.00063 0.031 4.68 1.92 9.95
+MP:0003861 abnormal nervous system development 1215 20 2.15 3.78 0.00057 0.031 2.63 1.48 4.51
+MP:0002081 perinatal lethality 1327 21 2.07 3.69 0.00067 0.031 2.54 1.44 4.33
+MP:0000757 herniated abdominal wall 27 3 14.5 6.18 0.0011 0.043 16.9 3.17 57.6
+MP:0001690 failure of somite differentiation 62 4 8.43 5.16 0.0013 0.043 9.41 2.41 26.5
+MP:0004527 abnormal outer hair cell stereociliary bundle morphology 62 4 8.43 5.16 0.0013 0.043 9.41 2.41 26.5
+MP:0004399 abnormal cochlear outer hair cell morphology 153 6 5.13 4.52 0.0011 0.043 5.69 1.98 13.3
+MP:0011092 embryonic lethality, complete penetrance 420 10 3.11 3.89 0.0013 0.043 3.52 1.59 6.98
+MP:0000972 abnormal mechanoreceptor morphology 222 7 4.12 4.13 0.0015 0.048 4.57 1.75 10.1
+MP:0003786 premature aging 66 4 7.92 4.95 0.0016 0.049 8.8 2.26 24.7
+MP:0006207 embryonic lethality during organogenesis 942 16 2.22 3.47 0.0017 0.049 2.6 1.39 4.63

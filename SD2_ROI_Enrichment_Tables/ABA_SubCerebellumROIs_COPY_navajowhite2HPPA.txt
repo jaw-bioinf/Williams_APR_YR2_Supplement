@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001371	Flexion contracture	536	8	3.74	4.36	0.00036	0.049	7.49	2.27	26.3
+HP:0100261	Abnormal tendon morphology	547	8	3.67	4.3	0.00042	0.049	7.31	2.21	25.7

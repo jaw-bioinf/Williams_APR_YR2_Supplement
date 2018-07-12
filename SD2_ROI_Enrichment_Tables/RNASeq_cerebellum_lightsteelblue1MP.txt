@@ -1,0 +1,30 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002910	abnormal excitatory postsynaptic currents	139	7	12.6	8.74	1e-06	2e-04	16.1	5.86	38.2
+MP:0002206	abnormal CNS synaptic transmission	653	12	4.61	6.05	4.8e-06	0.00047	6.44	2.93	13.4
+MP:0002945	abnormal inhibitory postsynaptic currents	87	5	14.4	7.95	2.2e-05	0.0011	17.4	5.17	46.7
+MP:0003635	abnormal synaptic transmission	740	12	4.07	5.5	1.7e-05	0.0011	5.61	2.56	11.6
+MP:0009751	enhanced behavioral response to alcohol	16	3	47	11.7	3.2e-05	0.0012	62.3	10.9	241
+MP:0020157	abnormal behavioral response to alcohol	22	3	34.2	9.86	8.5e-05	0.0028	42.7	7.73	155
+MP:0009745	abnormal behavioral response to xenobiotic	295	7	5.95	5.47	0.00014	0.0037	7.25	2.67	17
+MP:0001968	abnormal touch/ nociception	299	7	5.87	5.42	0.00015	0.0037	7.15	2.63	16.8
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	12	3.22	4.52	0.00018	0.0038	4.32	1.97	8.96
+MP:0012312	impaired avoidance learning behavior	34	3	22.1	7.81	0.00032	0.0055	26.2	4.89	90.4
+MP:0001462	abnormal avoidance learning behavior	84	4	11.9	6.37	0.00033	0.0055	13.9	3.49	40.3
+MP:0001970	abnormal pain threshold	241	6	6.24	5.22	0.00034	0.0055	7.42	2.5	18.3
+MP:0009748	abnormal behavioral response to addictive substance	101	4	9.93	5.71	0.00066	0.0099	11.4	2.88	33
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	4	9.65	5.61	0.00074	0.01	11.1	2.8	32
+MP:0009749	enhanced behavioral response to addictive substance	50	3	15	6.3	0.001	0.012	17.2	3.27	57.9
+MP:0002062	abnormal associative learning	290	6	5.19	4.59	0.00091	0.012	6.1	2.06	15
+MP:0003633	abnormal nervous system physiology	1903	16	2.11	3.43	0.0014	0.016	2.97	1.45	5.99
+MP:0002886	abnormal glutamate-mediated receptor currents	63	3	11.9	5.51	0.002	0.021	13.5	2.58	44.7
+MP:0005407	hyperalgesia	67	3	11.2	5.32	0.0023	0.024	12.6	2.42	41.9
+MP:0012315	impaired learning	75	3	10	4.97	0.0032	0.028	11.2	2.16	37
+MP:0008428	abnormal spatial working memory	76	3	9.9	4.93	0.0034	0.028	11.1	2.13	36.4
+MP:0009746	enhanced behavioral response to xenobiotic	77	3	9.77	4.89	0.0035	0.028	10.9	2.1	35.9
+MP:0003997	tonic-clonic seizures	78	3	9.65	4.85	0.0036	0.028	10.8	2.07	35.5
+MP:0002733	abnormal thermal nociception	154	4	6.51	4.37	0.0031	0.028	7.34	1.87	21
+MP:0001473	reduced long term potentiation	156	4	6.43	4.33	0.0033	0.028	7.25	1.84	20.7
+MP:0003312	abnormal locomotor coordination	672	8	2.99	3.38	0.0043	0.032	3.56	1.4	8.03
+MP:0009747	impaired behavioral response to xenobiotic	87	3	8.65	4.53	0.0049	0.035	9.61	1.85	31.5
+MP:0000947	convulsive seizures	175	4	5.73	4	0.005	0.035	6.43	1.64	18.4
+MP:0009538	abnormal synapse morphology	189	4	5.31	3.79	0.0065	0.044	5.93	1.51	16.9

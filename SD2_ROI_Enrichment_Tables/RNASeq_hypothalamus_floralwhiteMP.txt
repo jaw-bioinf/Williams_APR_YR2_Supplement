@@ -1,0 +1,8 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0004481 abnormal conjunctival epithelium morphology 13 3 42.8 11.1 4.1e-05 0.012 58.6 10 237
+MP:0002295 abnormal pulmonary circulation 78 5 11.9 7.11 5.8e-05 0.012 13.9 4.19 36.4
+MP:0001310 abnormal conjunctiva morphology 18 3 30.9 9.36 0.00011 0.016 39.1 7.02 145
+MP:0001182 lung hemorrhage 57 4 13 6.7 0.00024 0.026 15 3.8 43.4
+MP:0001575 cyanosis 253 7 5.13 4.91 0.00038 0.032 5.94 2.23 13.5
+MP:0001574 abnormal oxygen level 285 7 4.56 4.49 0.00077 0.047 5.24 1.97 11.9
+MP:0002133 abnormal respiratory system physiology 897 13 2.69 3.92 7e-04 0.047 3.32 1.61 6.41

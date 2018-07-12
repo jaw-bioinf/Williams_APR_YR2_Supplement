@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0146	3	3	1	0.333	0.333	CORUM:718	cor	6	TRPV5-S100A10-annexin 2 complex	1	ANXA2
+2	1	TRUE	0.0146	3	3	1	0.333	0.333	CORUM:6560	cor	5	PHB-ANX2-CD36 complex	1	ANXA2
+3	1	TRUE	0.0155	4	3	1	0.333	0.25	CORUM:2193	cor	3	Ubiquitin E3 ligase (Fbxo32, Skp1a, Cul1, Rbx1)	1	FBXO32
+4	1	TRUE	0.0146	3	3	1	0.333	0.333	CORUM:6663	cor	2	Ezrin-Nherf1-Irbit-NHE3 complex	1	EZR
+5	1	TRUE	0.0146	2	3	1	0.333	0.5	CORUM:719	cor	1	S100A10-annexin 2 complex	1	ANXA2

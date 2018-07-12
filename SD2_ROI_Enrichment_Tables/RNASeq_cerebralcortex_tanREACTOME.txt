@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-77387	Insulin receptor recycling	26	8	8.68	7.52	2.1e-06	0.00068	12.3	4.61	30.1
+R-HSA-917977	Transferrin endocytosis and recycling	31	8	7.28	6.71	8.9e-06	0.0013	9.65	3.71	22.5
+R-HSA-1222556	ROS, RNS production in phagocytes	32	8	7.05	6.57	1.2e-05	0.0013	9.25	3.57	21.5
+R-HSA-975634	Retinoid metabolism and transport	41	7	4.82	4.69	0.00053	0.043	5.69	2.11	13.2

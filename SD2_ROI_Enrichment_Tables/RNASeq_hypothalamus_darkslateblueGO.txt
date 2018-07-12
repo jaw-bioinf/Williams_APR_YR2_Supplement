@@ -1,0 +1,35 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:0071543	BP	19	diphosphoinositol polyphosphate metabolic process	1	NUDT10,NUDT11
+2	1	TRUE	0.0126	94	53	4	0.075	0.043	GO:1901136	BP	7	carbohydrate derivative catabolic process	1	ABHD10,CHIA1,NUDT10,NUDT11
+3	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:1901910	BP	2	adenosine 5'-(hexahydrogen pentaphosphate) metabolic process	1	NUDT10,NUDT11
+4	1	TRUE	0.0261	11	53	2	0.038	0.182	GO:0009125	BP	2	nucleoside monophosphate catabolic process	1	NUDT10,NUDT11
+5	1	TRUE	0.0167	8	53	2	0.038	0.25	GO:0009158	BP	2	ribonucleoside monophosphate catabolic process	2	NUDT10,NUDT11
+6	1	TRUE	0.0187	9	53	2	0.038	0.222	GO:0009128	BP	2	purine nucleoside monophosphate catabolic process	1	NUDT10,NUDT11
+7	1	TRUE	0.0167	8	53	2	0.038	0.25	GO:0009169	BP	2	purine ribonucleoside monophosphate catabolic process	2	NUDT10,NUDT11
+8	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:1901911	BP	2	adenosine 5'-(hexahydrogen pentaphosphate) catabolic process	3	NUDT10,NUDT11
+9	1	TRUE	0.012	6	53	2	0.038	0.333	GO:0015959	BP	6	diadenosine polyphosphate metabolic process	1	NUDT10,NUDT11
+10	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:1901908	BP	6	diadenosine hexaphosphate metabolic process	2	NUDT10,NUDT11
+11	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:1901906	BP	6	diadenosine pentaphosphate metabolic process	2	NUDT10,NUDT11
+12	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:0015961	BP	6	diadenosine polyphosphate catabolic process	2	NUDT10,NUDT11
+13	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:1901909	BP	6	diadenosine hexaphosphate catabolic process	3	NUDT10,NUDT11
+14	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:1901907	BP	6	diadenosine pentaphosphate catabolic process	3	NUDT10,NUDT11
+15	1	TRUE	0.0187	9	53	2	0.038	0.222	GO:0032105	BP	8	negative regulation of response to extracellular stimulus	1	CARTPT,BBS4
+16	1	TRUE	0.0187	9	53	2	0.038	0.222	GO:0032108	BP	8	negative regulation of response to nutrient levels	1	CARTPT,BBS4
+17	1	TRUE	0.00833	29	53	3	0.057	0.103	GO:0032094	BP	8	response to food	1	CARTPT,BBS4,OXT
+18	1	TRUE	0.0355	13	53	2	0.038	0.154	GO:0032095	BP	8	regulation of response to food	2	CARTPT,BBS4
+19	1	TRUE	0.014	7	53	2	0.038	0.286	GO:0032096	BP	8	negative regulation of response to food	3	CARTPT,BBS4
+20	1	TRUE	0.014	7	53	2	0.038	0.286	GO:0032099	BP	8	negative regulation of appetite	1	CARTPT,BBS4
+21	1	TRUE	0.012	6	53	2	0.038	0.333	GO:0050072	MF	10	m7G(5')pppN diphosphatase activity	1	NUDT10,NUDT11
+22	1	TRUE	0.0261	11	53	2	0.038	0.182	GO:0004551	MF	4	nucleotide diphosphatase activity	1	NUDT10,NUDT11
+23	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:0034432	MF	4	bis(5'-adenosyl)-pentaphosphatase activity	2	NUDT10,NUDT11
+24	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:0034431	MF	4	bis(5'-adenosyl)-hexaphosphatase activity	2	NUDT10,NUDT11
+25	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:0000298	MF	13	endopolyphosphatase activity	1	NUDT10,NUDT11
+26	1	TRUE	0.00601	4	53	2	0.038	0.5	GO:0008486	MF	3	diphosphoinositol-polyphosphate diphosphatase activity	1	NUDT10,NUDT11
+27	1	TRUE	0.0194	3	3	1	0.333	0.333	CORUM:5886	cor	11	Ksr1 complex (Ksr1, Mek, 14-3-3), unstimulated	1	MAP2K1
+28	1	TRUE	0.029	8	3	1	0.333	0.125	CORUM:97	cor	14	Anaphase-promoting complex	1	CDC16
+29	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:5937	cor	1	B-Ksr1-MEK-MAPK-14-3-3 complex	1	MAP2K1
+30	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:5947	cor	5	Ksr1-Mek-Braf-Erk complex, EGF induced	1	MAP2K1
+31	1	TRUE	0.0194	2	3	1	0.333	0.5	CORUM:6541	cor	12	Spg33-Rtn1 complex	1	RTN1
+32	1	TRUE	0.0194	4	3	1	0.333	0.25	CORUM:5909	cor	18	Ksr1 complex (Ksr1, Mek, 14-3-3, Mapk), EGF stimulated	1	MAP2K1
+33	1	TRUE	0.0194	3	3	1	0.333	0.333	CORUM:5946	cor	15	Ksr1-Mek-Braf complex, EGF induced	1	MAP2K1
+34	1	TRUE	0.029	7	3	1	0.333	0.143	CORUM:5936	cor	17	Ksr1-CK2-MEK-14-3-3 complex, PDGF treated	1	MAP2K1

@@ -1,0 +1,45 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003635	abnormal synaptic transmission	740	44	3.12	8.37	4.6e-12	4.8e-09	3.99	2.75	5.71
+MP:0002206	abnormal CNS synaptic transmission	653	38	3.05	7.58	3.5e-10	1.8e-07	3.77	2.54	5.49
+MP:0003633	abnormal nervous system physiology	1903	67	1.85	5.77	6.4e-08	2.2e-05	2.41	1.74	3.31
+MP:0002063	abnormal learning/memory/conditioning	664	33	2.61	5.99	2.8e-07	6e-05	3.08	2.02	4.56
+MP:0014114	abnormal cognition	665	33	2.6	5.98	2.9e-07	6e-05	3.07	2.02	4.55
+MP:0009435	abnormal miniature inhibitory postsynaptic currents	41	8	10.2	8.26	8.4e-07	0.00015	13	5.11	29.2
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	38	2.13	5.08	4.8e-06	0.00071	2.5	1.69	3.62
+MP:0001516	abnormal motor coordination/ balance	833	34	2.14	4.81	1.5e-05	0.002	2.47	1.64	3.64
+MP:0002945	abnormal inhibitory postsynaptic currents	87	9	5.42	5.78	3.9e-05	0.0045	6.19	2.69	12.7
+MP:0004008	abnormal GABA-mediated receptor currents	23	5	11.4	6.96	6.1e-05	0.0058	14.7	4.2	41.6
+MP:0002910	abnormal excitatory postsynaptic currents	139	11	4.15	5.22	6.7e-05	0.0058	4.64	2.22	8.81
+MP:0001392	abnormal locomotor behavior	1537	50	1.71	4.22	5.8e-05	0.0058	2.02	1.42	2.83
+MP:0003491	abnormal voluntary movement	1648	52	1.65	4.08	8.9e-05	0.0071	1.96	1.38	2.74
+MP:0002574	increased vertical activity	80	8	5.24	5.31	0.00013	0.01	5.93	2.43	12.6
+MP:0003492	abnormal involuntary movement	942	34	1.89	4.03	0.00018	0.013	2.15	1.42	3.16
+MP:0009357	abnormal seizure response to inducing agent	190	12	3.31	4.49	0.00027	0.015	3.65	1.81	6.7
+MP:0001399	hyperactivity	475	21	2.32	4.11	0.00027	0.015	2.56	1.53	4.11
+MP:0002572	abnormal emotion/affect behavior	619	25	2.12	4.01	0.00028	0.015	2.36	1.47	3.65
+MP:0001961	abnormal reflex	767	29	1.98	3.96	0.00027	0.015	2.22	1.43	3.35
+MP:0004994	abnormal brain wave pattern	72	7	5.1	4.87	0.00042	0.02	5.72	2.18	12.7
+MP:0001413	abnormal response to new environment	226	13	3.02	4.28	0.00038	0.02	3.31	1.7	5.94
+MP:0003312	abnormal locomotor coordination	672	26	2.03	3.86	0.00041	0.02	2.25	1.42	3.46
+MP:0000243	myoclonus	35	5	7.49	5.36	0.00049	0.022	8.78	2.63	23.2
+MP:0009745	abnormal behavioral response to xenobiotic	295	15	2.67	4.05	0.00051	0.022	2.92	1.57	5.04
+MP:0012315	impaired learning	75	7	4.89	4.72	0.00054	0.023	5.47	2.09	12.1
+MP:0001968	abnormal touch/ nociception	299	15	2.63	4	0.00058	0.023	2.87	1.55	4.96
+MP:0001982	decreased chemically-elicited antinociception	22	4	9.53	5.59	0.00072	0.027	11.7	2.84	35.9
+MP:0002804	abnormal motor learning	57	6	5.52	4.77	0.00072	0.027	6.22	2.15	14.8
+MP:0002272	abnormal nervous system electrophysiology	339	16	2.47	3.86	0.00074	0.027	2.7	1.49	4.59
+MP:0005661	decreased circulating adrenaline level	11	3	14.3	6.15	0.001	0.031	19.6	3.32	82.5
+MP:0003993	abnormal ventral spinal root morphology	24	4	8.74	5.29	0.001	0.031	10.5	2.58	31.8
+MP:0005445	abnormal neurotransmitter secretion	82	7	4.48	4.41	0.00093	0.031	4.95	1.9	10.9
+MP:0003107	abnormal response to novelty	283	14	2.59	3.8	0.001	0.031	2.82	1.49	4.95
+MP:0002064	seizures	383	17	2.33	3.7	0.001	0.031	2.54	1.43	4.25
+MP:0001462	abnormal avoidance learning behavior	84	7	4.37	4.32	0.0011	0.032	4.82	1.85	10.6
+MP:0020167	abnormal vertical activity	222	12	2.83	3.86	0.0011	0.032	3.08	1.53	5.64
+MP:0002886	abnormal glutamate-mediated receptor currents	63	6	4.99	4.43	0.0012	0.034	5.57	1.93	13.1
+MP:0009747	impaired behavioral response to xenobiotic	87	7	4.22	4.21	0.0013	0.035	4.64	1.78	10.2
+MP:0002062	abnormal associative learning	290	14	2.53	3.69	0.0013	0.035	2.75	1.45	4.82
+MP:0001440	abnormal grooming behavior	114	8	3.68	4.01	0.0015	0.038	4.02	1.66	8.39
+MP:0000505	decreased digestive secretion	13	3	12.1	5.58	0.0017	0.043	15.7	2.75	61.5
+MP:0003313	abnormal locomotor activation	1152	36	1.64	3.23	0.0017	0.043	1.83	1.22	2.67
+MP:0000947	convulsive seizures	175	10	3	3.72	0.0019	0.045	3.24	1.5	6.26
+MP:0002207	abnormal long term potentiation	237	12	2.65	3.6	0.0019	0.045	2.87	1.43	5.25

@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000713	Agitation	74	8	6.22	6.04	3.2e-05	0.017	7.73	3.05	17.2
+HP:0000711	Restlessness	85	8	5.42	5.48	8.8e-05	0.017	6.6	2.62	14.6
+HP:0002342	Intellectual disability, moderate	90	8	5.11	5.26	0.00013	0.017	6.19	2.46	13.7
+HP:0000276	Long face	169	11	3.75	4.86	0.00012	0.017	4.58	2.11	9.13
+HP:0000303	Mandibular prognathia	198	12	3.49	4.79	0.00011	0.017	4.29	2.04	8.36
+HP:0100729	Large face	198	12	3.49	4.79	0.00011	0.017	4.29	2.04	8.36
+HP:0000306	Abnormality of the chin	269	14	2.99	4.53	0.00014	0.017	3.73	1.87	7
+HP:0000400	Macrotia	186	11	3.4	4.48	0.00028	0.028	4.11	1.9	8.18
+HP:0000053	Macroorchidism	38	5	7.57	5.42	0.00043	0.039	9.22	2.71	25
+HP:0011338	Abnormality of mouth shape	235	12	2.94	4.09	0.00056	0.046	3.54	1.69	6.88

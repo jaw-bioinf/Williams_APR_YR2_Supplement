@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-209776	Amine-derived hormones	18	3	13.5	5.92	0.0013	0.048	16.3	2.99	58.6
+R-HSA-5676594	TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	18	3	13.5	5.92	0.0013	0.048	16.3	2.99	58.6
+R-HSA-1280215	Cytokine Signaling in Immune system	678	18	2.14	3.45	0.0017	0.048	2.37	1.35	3.97

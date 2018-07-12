@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04725	Cholinergic synapse	112	6	6.84	5.54	0.00022	0.0065	7.97	2.72	19.3
+path:hsa04728	Dopaminergic synapse	130	6	5.9	5.01	0.00049	0.0073	6.8	2.33	16.4
+path:hsa04713	Circadian entrainment	96	5	6.65	4.96	0.00086	0.0083	7.59	2.3	19.6
+path:hsa04921	Oxytocin signaling pathway	152	6	5.04	4.48	0.0011	0.0083	5.76	1.98	13.8
+path:hsa04022	cGMP-PKG signaling pathway	163	6	4.7	4.25	0.0016	0.0095	5.34	1.84	12.8
+path:hsa04727	GABAergic synapse	88	4	5.81	4.03	0.0048	0.023	6.45	1.65	18.2
+path:hsa05032	Morphine addiction	91	4	5.62	3.94	0.0054	0.023	6.23	1.6	17.6
+path:hsa04915	Estrogen signaling pathway	98	4	5.22	3.73	0.007	0.026	5.76	1.48	16.2
+path:hsa04730	Long-term depression	60	3	6.39	3.72	0.011	0.032	7.01	1.36	22.8
+path:hsa04726	Serotonergic synapse	112	4	4.56	3.38	0.011	0.032	5	1.29	14
+path:hsa04724	Glutamatergic synapse	114	4	4.48	3.33	0.012	0.032	4.91	1.26	13.8
+path:hsa04611	Platelet activation	123	4	4.16	3.14	0.015	0.038	4.53	1.17	12.7
+path:hsa04971	Gastric acid secretion	75	3	5.11	3.18	0.021	0.047	5.54	1.08	17.8
+path:hsa04371	Apelin signaling pathway	137	4	3.73	2.87	0.022	0.047	4.05	1.04	11.3

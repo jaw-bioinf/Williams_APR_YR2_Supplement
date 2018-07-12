@@ -1,0 +1,90 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9074	systemic lupus erythematosus	299	22	3.82	6.98	4.6e-08	3.8e-06	4.63	2.75	7.49
+DOID:8857	lupus erythematosus	370	25	3.5	6.94	2.7e-08	3.8e-06	4.29	2.63	6.78
+DOID:417	hypersensitivity reaction type II disease	730	36	2.56	6.23	6.4e-08	3.8e-06	3.23	2.13	4.82
+DOID:0060056	hypersensitivity reaction disease	828	39	2.44	6.2	5.3e-08	3.8e-06	3.13	2.08	4.62
+DOID:65	connective tissue disease	1050	45	2.22	6.02	6e-08	3.8e-06	2.92	1.98	4.24
+DOID:2914	immune system disease	987	42	2.21	5.74	2.5e-07	1.2e-05	2.83	1.9	4.14
+DOID:0050117	disease by infectious agent	1330	50	1.95	5.4	5.5e-07	2.4e-05	2.57	1.76	3.7
+DOID:17	musculoskeletal system disease	1239	47	1.97	5.26	1.1e-06	4.2e-05	2.54	1.73	3.68
+DOID:3342	bone inflammation disease	686	31	2.34	5.19	4.4e-06	0.00015	2.83	1.81	4.3
+DOID:1749	squamous cell carcinoma	720	31	2.23	4.9	1.2e-05	0.00035	2.67	1.71	4.06
+DOID:0080001	bone disease	833	34	2.12	4.81	1.3e-05	0.00035	2.56	1.67	3.83
+DOID:7148	rheumatoid arthritis	498	24	2.5	4.87	2.3e-05	0.00057	2.92	1.77	4.62
+DOID:219	colon cancer	153	12	4.07	5.38	3.5e-05	7e-04	4.65	2.29	8.67
+DOID:1520	colon carcinoma	153	12	4.07	5.38	3.5e-05	7e-04	4.65	2.29	8.67
+DOID:848	arthritis	649	28	2.24	4.64	3.4e-05	7e-04	2.63	1.66	4.06
+DOID:77	gastrointestinal system disease	1039	37	1.85	4.15	1e-04	0.0019	2.21	1.46	3.28
+DOID:1205	allergic hypersensitivity disease	122	10	4.25	5.08	0.00011	0.002	4.82	2.2	9.5
+DOID:104	bacterial infectious disease	250	14	2.9	4.3	0.00031	0.0051	3.25	1.7	5.77
+DOID:16	integumentary system disease	595	24	2.09	3.9	0.00037	0.0059	2.38	1.45	3.77
+DOID:3118	hepatobiliary disease	637	25	2.04	3.84	0.00042	0.0063	2.32	1.43	3.64
+DOID:1116	pertussis	35	5	7.41	5.33	5e-04	0.0068	8.76	2.61	23.3
+DOID:37	skin disease	571	23	2.09	3.81	0.00051	0.0068	2.37	1.43	3.77
+DOID:409	liver disease	609	24	2.04	3.78	0.00053	0.0068	2.32	1.42	3.67
+DOID:1123	spondyloarthropathy	76	7	4.78	4.64	0.00061	0.0076	5.38	2.05	12
+DOID:3082	interstitial lung disease	179	11	3.19	4.16	0.00064	0.0077	3.54	1.69	6.71
+DOID:205	hyperostosis	24	4	8.64	5.26	0.001	0.012	10.4	2.56	31.8
+DOID:2531	hematologic cancer	1344	41	1.58	3.33	0.0011	0.012	1.86	1.25	2.73
+DOID:0050339	commensal bacterial infectious disease	43	5	6.03	4.64	0.0013	0.013	6.91	2.09	18
+DOID:0060049	autoimmune disease of urogenital tract	64	6	4.86	4.35	0.0014	0.013	5.46	1.89	12.9
+DOID:12236	primary biliary cirrhosis	64	6	4.86	4.35	0.0014	0.013	5.46	1.89	12.9
+DOID:0060083	immune system cancer	1356	41	1.57	3.27	0.0013	0.013	1.84	1.24	2.7
+DOID:7147	ankylosing spondylitis	67	6	4.64	4.2	0.0018	0.016	5.19	1.8	12.3
+DOID:6590	spondylitis	67	6	4.64	4.2	0.0018	0.016	5.19	1.8	12.3
+DOID:381	arthropathy	91	7	3.99	4.02	0.0018	0.016	4.41	1.69	9.76
+DOID:557	kidney disease	476	19	2.07	3.39	0.0018	0.016	2.3	1.32	3.79
+DOID:5082	liver cirrhosis	207	11	2.76	3.6	0.0021	0.017	3.02	1.44	5.71
+DOID:2377	multiple sclerosis	306	14	2.37	3.44	0.0022	0.018	2.6	1.37	4.61
+DOID:4448	macular degeneration	72	6	4.32	3.97	0.0025	0.019	4.79	1.67	11.3
+DOID:974	upper respiratory tract disease	123	8	3.37	3.72	0.0025	0.019	3.7	1.53	7.75
+DOID:3213	demyelinating disease	310	14	2.34	3.39	0.0025	0.019	2.57	1.35	4.55
+DOID:7166	thyroiditis	52	5	4.99	4.05	0.0031	0.02	5.58	1.7	14.3
+DOID:12361	Graves' disease	75	6	4.15	3.84	0.0031	0.02	4.58	1.6	10.8
+DOID:4481	allergic rhinitis	98	7	3.7	3.78	0.0027	0.02	4.07	1.56	8.97
+DOID:2163	nasal cavity disease	100	7	3.63	3.71	0.0031	0.02	3.98	1.53	8.77
+DOID:4483	rhinitis	100	7	3.63	3.71	0.0031	0.02	3.98	1.53	8.77
+DOID:18	urinary system disease	494	19	1.99	3.21	0.0028	0.02	2.2	1.27	3.64
+DOID:0050013	carbohydrate metabolism disease	858	28	1.69	3.04	0.0033	0.02	1.9	1.2	2.93
+DOID:4194	glucose metabolism disease	858	28	1.69	3.04	0.0033	0.02	1.9	1.2	2.93
+DOID:9351	diabetes mellitus	818	27	1.71	3.04	0.0033	0.02	1.92	1.2	2.97
+DOID:3443	mammary Paget's disease	33	4	6.29	4.27	0.0035	0.021	7.19	1.81	20.9
+DOID:1184	nephrotic syndrome	55	5	4.71	3.88	0.004	0.023	5.24	1.6	13.4
+DOID:1909	melanoma	706	24	1.76	3	0.004	0.023	1.96	1.2	3.09
+DOID:0060005	autoimmune disease of endocrine system	81	6	3.84	3.61	0.0046	0.024	4.21	1.47	9.85
+DOID:2825	nose disease	106	7	3.42	3.53	0.0042	0.024	3.74	1.44	8.21
+DOID:934	viral infectious disease	795	26	1.7	2.92	0.0045	0.024	1.89	1.17	2.94
+DOID:1240	leukemia	1133	34	1.56	2.87	0.0045	0.024	1.77	1.15	2.64
+DOID:10952	nephritis	200	10	2.59	3.2	0.0051	0.027	2.81	1.29	5.46
+DOID:2527	nephrosis	59	5	4.39	3.67	0.0054	0.028	4.85	1.49	12.3
+DOID:1542	head and neck carcinoma	235	11	2.43	3.12	0.0055	0.028	2.63	1.26	4.96
+DOID:3770	pulmonary fibrosis	113	7	3.21	3.32	0.006	0.029	3.49	1.34	7.65
+DOID:5520	head and neck squamous cell carcinoma	174	9	2.68	3.15	0.0063	0.029	2.9	1.27	5.82
+DOID:11934	head and neck cancer	239	11	2.39	3.06	0.0063	0.029	2.58	1.24	4.87
+DOID:3908	non-small cell lung carcinoma	417	16	1.99	2.92	0.0062	0.029	2.17	1.19	3.71
+DOID:3996	urinary system cancer	455	17	1.94	2.9	0.0063	0.029	2.11	1.18	3.57
+DOID:1579	respiratory system disease	691	23	1.73	2.82	0.0063	0.029	1.91	1.15	3.03
+DOID:3310	atopic dermatitis	145	8	2.86	3.18	0.0068	0.031	3.09	1.28	6.45
+DOID:3458	breast adenocarcinoma	41	4	5.06	3.66	0.0077	0.034	5.63	1.44	16
+DOID:2237	hepatitis	427	16	1.94	2.82	0.0078	0.034	2.11	1.16	3.61
+DOID:0050156	idiopathic pulmonary fibrosis	65	5	3.99	3.39	0.0081	0.035	4.36	1.34	11
+DOID:0050615	respiratory system cancer	509	18	1.83	2.74	0.0086	0.037	2	1.13	3.33
+DOID:2007	degeneration of macula and posterior pole	68	5	3.81	3.27	0.0098	0.039	4.15	1.28	10.5
+DOID:10871	age related macular degeneration	68	5	3.81	3.27	0.0098	0.039	4.15	1.28	10.5
+DOID:0060058	lymphoma	154	8	2.69	2.98	0.0096	0.039	2.9	1.2	6.04
+DOID:0050338	primary bacterial infectious disease	220	10	2.36	2.87	0.0098	0.039	2.54	1.17	4.91
+DOID:4450	renal cell carcinoma	324	13	2.08	2.79	0.0094	0.039	2.25	1.15	4.04
+DOID:2723	dermatitis	222	10	2.34	2.84	0.01	0.04	2.51	1.16	4.86
+DOID:4451	renal carcinoma	366	14	1.98	2.71	0.011	0.04	2.14	1.12	3.78
+DOID:3905	lung carcinoma	479	17	1.84	2.67	0.01	0.04	2	1.12	3.37
+DOID:1324	lung cancer	480	17	1.84	2.66	0.01	0.04	1.99	1.11	3.36
+DOID:0050589	inflammatory bowel disease	295	12	2.11	2.73	0.011	0.042	2.27	1.13	4.17
+DOID:5672	large intestine cancer	812	25	1.6	2.54	0.011	0.042	1.76	1.08	2.75
+DOID:9256	colorectal cancer	811	25	1.6	2.54	0.011	0.042	1.76	1.08	2.75
+DOID:0060060	non-Hodgkin lymphoma	100	6	3.11	2.98	0.012	0.044	3.35	1.18	7.77
+DOID:0060158	acquired metabolic disease	1078	31	1.49	2.46	0.012	0.044	1.66	1.07	2.51
+DOID:10155	intestinal cancer	820	25	1.58	2.48	0.013	0.045	1.74	1.07	2.72
+DOID:4960	bone marrow cancer	376	14	1.93	2.6	0.013	0.046	2.08	1.09	3.67
+DOID:50	thyroid gland disease	103	6	3.02	2.9	0.014	0.048	3.24	1.14	7.52
+DOID:2645	benign mesothelioma	103	6	3.02	2.9	0.014	0.048	3.24	1.14	7.52
+DOID:1883	hepatitis C	233	10	2.23	2.67	0.014	0.048	2.38	1.1	4.61

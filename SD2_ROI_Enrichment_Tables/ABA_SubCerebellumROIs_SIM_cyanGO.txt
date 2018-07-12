@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00454	3	9	2	0.222	0.667	CORUM:5308	cor	2	Rb-NeuroD1-Ngfi-B complex	1	RBL1,NEUROD1

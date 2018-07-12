@@ -1,0 +1,47 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0476	1	21	1	0.048	1	GO:0097497	BP	20	blood vessel endothelial cell delamination	1	TRPV4
+2	1	TRUE	0.0476	1	21	1	0.048	1	GO:0042538	BP	9	hyperosmotic salinity response	1	TRPV4
+3	1	TRUE	0.0476	1	21	1	0.048	1	GO:1903444	BP	7	negative regulation of brown fat cell differentiation	1	TRPV4
+4	1	TRUE	0.0476	1	21	1	0.048	1	GO:0032475	BP	12	otolith formation	1	SLC44A4
+5	1	TRUE	0.0476	1	21	1	0.048	1	GO:0048882	BP	29	lateral line development	1	SLC44A4
+6	1	TRUE	0.0476	1	21	1	0.048	1	GO:0048884	BP	29	neuromast development	2	SLC44A4
+7	1	TRUE	0.0476	1	21	1	0.048	1	GO:0048886	BP	29	neuromast hair cell differentiation	1	SLC44A4
+8	1	TRUE	0.0476	1	21	1	0.048	1	GO:0035675	BP	29	neuromast hair cell development	2	SLC44A4
+9	1	TRUE	0.0476	1	21	1	0.048	1	GO:0030103	BP	32	vasopressin secretion	1	TRPV4
+10	1	TRUE	0.0476	1	21	1	0.048	1	GO:0060280	BP	8	negative regulation of ovulation	1	GPR149
+11	1	TRUE	0.0476	1	21	1	0.048	1	GO:1903759	BP	13	signal transduction involved in regulation of aerobic respiration	1	TRPV4
+12	1	TRUE	0.0476	738	21	5	0.238	0.007	GO:0055085	BP	2	transmembrane transport	1	SLC44A4,TRPV4,HTR2B,KCNJ15,KCNB2
+13	1	TRUE	0.0476	724	21	5	0.238	0.007	GO:0006812	BP	2	cation transport	1	SLC44A4,TRPV4,HTR2B,KCNJ15,KCNB2
+14	1	TRUE	0.0476	576	21	5	0.238	0.009	GO:0034220	BP	2	ion transmembrane transport	1	SLC44A4,TRPV4,HTR2B,KCNJ15,KCNB2
+15	1	TRUE	0.0498	454	21	4	0.19	0.009	GO:0098660	BP	2	inorganic ion transmembrane transport	2	TRPV4,HTR2B,KCNJ15,KCNB2
+16	1	TRUE	0.0476	455	21	5	0.238	0.011	GO:0098655	BP	2	cation transmembrane transport	2	SLC44A4,TRPV4,HTR2B,KCNJ15,KCNB2
+17	1	TRUE	0.0476	411	21	4	0.19	0.01	GO:0098662	BP	2	inorganic cation transmembrane transport	3	TRPV4,HTR2B,KCNJ15,KCNB2
+18	1	TRUE	0.0476	1	21	1	0.048	1	GO:1903804	BP	2	glycine import across plasma membrane	1	SLC25A38
+19	1	TRUE	0.0476	1	21	1	0.048	1	GO:2000340	BP	3	positive regulation of chemokine (C-X-C motif) ligand 1 production	1	TRPV4
+20	1	TRUE	0.0476	1	21	1	0.048	1	GO:0016420	MF	23	malonyltransferase activity	1	MCAT
+21	1	TRUE	0.0476	1	21	1	0.048	1	GO:0016419	MF	23	S-malonyltransferase activity	1	MCAT
+22	1	TRUE	0.0476	1	21	1	0.048	1	GO:0004314	MF	23	[acyl-carrier-protein] S-malonyltransferase activity	1	MCAT
+23	1	TRUE	0.0476	1	21	1	0.048	1	GO:0090422	MF	21	thiamine pyrophosphate transmembrane transporter activity	1	SLC44A4
+24	1	TRUE	0.0476	1	21	1	0.048	1	GO:0005034	MF	15	osmosensor activity	1	TRPV4
+25	1	TRUE	0.0476	30	21	2	0.095	0.067	GO:0005326	MF	6	neurotransmitter transporter activity	1	SLC44A4,SLC25A38
+26	1	TRUE	0.0498	791	21	5	0.238	0.006	GO:0022857	MF	24	transmembrane transporter activity	1	SLC44A4,TRPV4,SLC25A38,KCNJ15,KCNB2
+27	1	TRUE	0.0476	675	21	5	0.238	0.007	GO:0015075	MF	24	ion transmembrane transporter activity	2	SLC44A4,TRPV4,SLC25A38,KCNJ15,KCNB2
+28	1	TRUE	0.0476	498	21	5	0.238	0.01	GO:0008324	MF	24	cation transmembrane transporter activity	3	SLC44A4,TRPV4,SLC25A38,KCNJ15,KCNB2
+29	1	TRUE	0.0403	1	5	1	0.2	1	HP:0004268	hp	25	Osteoarthritis of the small joints of the hand	1	TRPV4
+30	1	TRUE	0.0403	1	5	1	0.2	1	HP:0009060	hp	5	Scapular muscle atrophy	1	TRPV4
+31	1	TRUE	0.0403	1	5	1	0.2	1	HP:0005042	hp	14	Irregular, rachitic-like metaphyses	1	TRPV4
+32	1	TRUE	0.0403	1	5	1	0.2	1	HP:0003562	hp	22	Abnormal metaphyseal vascular invasion	1	TRPV4
+33	1	TRUE	0.0403	1	5	1	0.2	1	HP:0002766	hp	11	Relatively short spine	1	TRPV4
+34	1	TRUE	0.0403	1	5	1	0.2	1	HP:0006239	hp	18	Shortening of all middle phalanges of the toes	1	TRPV4
+35	1	TRUE	0.0403	1	5	1	0.2	1	HP:0003332	hp	28	Absent primary metaphyseal spongiosa	1	TRPV4
+36	1	TRUE	0.0403	1	5	1	0.2	1	HP:0011348	hp	17	Abnormality of the sixth cranial nerve	1	TRPV4
+37	1	TRUE	0.0403	1	5	1	0.2	1	HP:0011349	hp	17	Abducens palsy	2	TRPV4
+38	1	TRUE	0.0403	1	5	1	0.2	1	HP:0005872	hp	19	Brachytelomesophalangy	1	TRPV4
+39	1	TRUE	0.0403	1	5	1	0.2	1	HP:0006069	hp	27	Severe carpal ossification delay	1	TRPV4
+40	1	TRUE	0.0403	1	5	1	0.2	1	HP:0002831	hp	30	Long coccyx	1	TRPV4
+41	1	TRUE	0.0403	1	5	1	0.2	1	HP:0002810	hp	26	Dumbbell-shaped metaphyses	1	TRPV4
+42	1	TRUE	0.0403	1	5	1	0.2	1	HP:0002826	hp	31	Halberd-shaped pelvis	1	TRPV4
+43	1	TRUE	0.0403	1	5	1	0.2	1	HP:0007230	hp	1	Decreased distal sensory nerve action potential	1	TRPV4
+44	1	TRUE	0.0403	1	5	1	0.2	1	HP:0008964	hp	16	Nonprogressive muscular atrophy	1	TRPV4
+45	1	TRUE	0.0403	1	5	1	0.2	1	HP:0002822	hp	10	Hyperplasia of the femoral trochanters	1	TRPV4
+46	1	TRUE	0.0403	1	5	1	0.2	1	HP:0008922	hp	4	Childhood-onset short-trunk short stature	1	TRPV4

@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04664	Fc epsilon RI signaling pathway	67	6	5.95	5.03	0.00048	0.031	6.78	2.34	16.2
+path:hsa01521	EGFR tyrosine kinase inhibitor resistance	79	6	5.05	4.47	0.0011	0.031	5.65	1.96	13.4
+path:hsa04510	Focal adhesion	199	10	3.34	4.14	0.00077	0.031	3.73	1.7	7.34
+path:hsa03013	RNA transport	171	9	3.5	4.09	0.001	0.031	3.89	1.7	7.91
+path:hsa04072	Phospholipase D signaling pathway	145	8	3.67	4.01	0.0015	0.032	4.06	1.67	8.58
+path:hsa05230	Central carbon metabolism in cancer	65	5	5.11	4.12	0.0028	0.035	5.68	1.74	14.5
+path:hsa04071	Sphingolipid signaling pathway	118	7	3.94	3.98	0.0019	0.035	4.36	1.67	9.64
+path:hsa04917	Prolactin signaling pathway	70	5	4.75	3.89	0.0039	0.035	5.24	1.61	13.3
+path:hsa01522	Endocrine resistance	95	6	4.2	3.88	0.003	0.035	4.63	1.61	10.9
+path:hsa04611	Platelet activation	123	7	3.78	3.85	0.0024	0.035	4.17	1.6	9.21
+path:hsa04933	AGE-RAGE signaling pathway in diabetic complications	99	6	4.03	3.75	0.0036	0.035	4.43	1.54	10.4
+path:hsa05231	Choline metabolism in cancer	99	6	4.03	3.75	0.0036	0.035	4.43	1.54	10.4
+path:hsa04010	MAPK signaling pathway	255	10	2.61	3.23	0.0048	0.04	2.86	1.31	5.59
+path:hsa04668	TNF signaling pathway	108	6	3.69	3.49	0.0056	0.042	4.03	1.41	9.41
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	7	3.23	3.34	0.0058	0.042	3.52	1.35	7.74

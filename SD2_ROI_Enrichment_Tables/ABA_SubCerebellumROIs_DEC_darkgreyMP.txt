@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003628	abnormal leukocyte adhesion	55	7	11.1	8.11	2.7e-06	0.0017	13.4	5	30.8
+MP:0003156	abnormal leukocyte migration	168	10	5.21	5.92	2.1e-05	0.0066	5.94	2.71	11.7

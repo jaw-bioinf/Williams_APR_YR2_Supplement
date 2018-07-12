@@ -1,0 +1,25 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-556833 Metabolism of lipids 696 14 3.15 4.71 9.9e-05 0.0034 3.8 1.93 7.03
+R-HSA-1430728 Metabolism 1899 25 2.06 4.11 0.00014 0.0034 2.76 1.6 4.69
+R-HSA-1483257 Phospholipid metabolism 200 7 5.48 5.13 0.00027 0.0044 6.2 2.36 13.9
+R-HSA-3000171 Non-integrin membrane-ECM interactions 38 3 12.4 5.62 0.0018 0.018 13.9 2.67 46
+R-HSA-1483255 PI Metabolism 78 4 8.02 4.99 0.0015 0.018 8.89 2.29 24.9
+R-HSA-425393 Transport of inorganic cations/anions and amino acids/oligopeptides 108 4 5.79 4.02 0.005 0.04 6.31 1.63 17.5
+R-HSA-111885 Opioid Signalling 74 3 6.34 3.7 0.012 0.05 6.84 1.34 21.8
+R-HSA-168142 Toll Like Receptor 10 (TLR10) Cascade 82 3 5.72 3.44 0.015 0.05 6.14 1.21 19.5
+R-HSA-168176 Toll Like Receptor 5 (TLR5) Cascade 82 3 5.72 3.44 0.015 0.05 6.14 1.21 19.5
+R-HSA-975871 MyD88 cascade initiated on plasma membrane 82 3 5.72 3.44 0.015 0.05 6.14 1.21 19.5
+R-HSA-1474244 Extracellular matrix organization 278 6 3.38 3.22 0.0085 0.05 3.68 1.29 8.61
+R-HSA-975138 TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation 90 3 5.22 3.22 0.02 0.05 5.57 1.1 17.6
+R-HSA-166058 MyD88:Mal cascade initiated on plasma membrane 92 3 5.1 3.17 0.021 0.05 5.45 1.07 17.2
+R-HSA-168181 Toll Like Receptor 7/8 (TLR7/8) Cascade 92 3 5.1 3.17 0.021 0.05 5.45 1.07 17.2
+R-HSA-168188 Toll Like Receptor TLR6:TLR2 Cascade 92 3 5.1 3.17 0.021 0.05 5.45 1.07 17.2
+R-HSA-975155 MyD88 dependent cascade initiated on endosome 92 3 5.1 3.17 0.021 0.05 5.45 1.07 17.2
+R-HSA-168179 Toll Like Receptor TLR1:TLR2 Cascade 95 3 4.94 3.1 0.023 0.05 5.27 1.04 16.6
+R-HSA-181438 Toll Like Receptor 2 (TLR2) Cascade 95 3 4.94 3.1 0.023 0.05 5.27 1.04 16.6
+R-HSA-168138 Toll Like Receptor 9 (TLR9) Cascade 96 3 4.89 3.07 0.023 0.05 5.21 1.03 16.4
+R-HSA-168164 Toll Like Receptor 3 (TLR3) Cascade 97 3 4.84 3.05 0.024 0.05 5.15 1.02 16.2
+R-HSA-166166 MyD88-independent TLR4 cascade  98 3 4.79 3.02 0.025 0.05 5.1 1.01 16.1
+R-HSA-937061 TRIF(TICAM1)-mediated TLR4 signaling  98 3 4.79 3.02 0.025 0.05 5.1 1.01 16.1
+R-HSA-8978868 Fatty acid metabolism 168 4 3.73 2.86 0.022 0.05 3.98 1.04 10.9
+R-HSA-425407 SLC-mediated transmembrane transport 241 5 3.25 2.83 0.019 0.05 3.49 1.08 8.72

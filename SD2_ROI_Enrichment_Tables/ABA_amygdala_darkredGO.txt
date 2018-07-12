@@ -1,0 +1,7 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0272 13 20 2 0.1 0.154 GO:0045351 BP 6 type I interferon biosynthetic process 1 IRF7,TLR4
+2 1 TRUE 0.0272 11 20 2 0.1 0.182 GO:0002755 BP 4 MyD88-dependent toll-like receptor signaling pathway 1 IRF7,TLR4
+3 1 TRUE 0.022 7 20 2 0.1 0.286 GO:0002756 BP 7 MyD88-independent toll-like receptor signaling pathway 1 IRF7,TLR4
+4 1 TRUE 0.0438 23 20 2 0.1 0.087 GO:0032607 BP 1 interferon-alpha production 1 IRF7,TLR4
+5 1 TRUE 0.0438 22 20 2 0.1 0.091 GO:0032647 BP 1 regulation of interferon-alpha production 2 IRF7,TLR4
+6 1 TRUE 0.0354 17 20 2 0.1 0.118 GO:0032727 BP 1 positive regulation of interferon-alpha production 2 IRF7,TLR4

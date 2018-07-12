@@ -1,0 +1,24 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-909733 Interferon alpha/beta signaling 69 6 10.1 7.08 2.6e-05 0.0013 11.7 4.03 28.1
+R-HSA-1280215 Cytokine Signaling in Immune system 678 17 2.92 4.82 5.2e-05 0.0013 3.45 1.89 5.98
+R-HSA-168256 Immune System 1970 33 1.95 4.38 4.3e-05 0.0013 2.57 1.61 4.05
+R-HSA-3299685 Detoxification of Reactive Oxygen Species 34 4 13.7 6.9 0.00019 0.0021 16.1 4.02 47.1
+R-HSA-196854 Metabolism of vitamins and cofactors 184 8 5.06 5.18 0.00017 0.0021 5.68 2.33 12
+R-HSA-6798695 Neutrophil degranulation 477 13 3.17 4.53 2e-04 0.0021 3.63 1.83 6.66
+R-HSA-168249 Innate Immune System 1035 21 2.36 4.31 0.00013 0.0021 2.84 1.64 4.73
+R-HSA-913531 Interferon Signaling 196 8 4.75 4.94 0.00027 0.0025 5.31 2.18 11.2
+R-HSA-975634 Retinoid metabolism and transport 41 4 11.4 6.19 4e-04 0.0034 13 3.3 37.5
+R-HSA-1566948 Elastic fibre formation 45 4 10.3 5.85 0.00058 0.0039 11.8 2.99 33.6
+R-HSA-6806667 Metabolism of fat-soluble vitamins 45 4 10.3 5.85 0.00058 0.0039 11.8 2.99 33.6
+R-HSA-1236975 Antigen processing-Cross presentation 88 5 6.62 4.92 0.00093 0.0058 7.32 2.26 18.5
+R-HSA-1474290 Collagen formation 90 5 6.47 4.85 0.001 0.0059 7.14 2.2 18
+R-HSA-2022090 Assembly of collagen fibrils and other multimeric structures 61 4 7.63 4.84 0.0018 0.0098 8.44 2.17 23.6
+R-HSA-1236974 ER-Phagosome pathway 30 3 11.6 5.43 0.0021 0.011 13.2 2.52 44.3
+R-HSA-1474244 Extracellular matrix organization 278 8 3.35 3.7 0.0026 0.012 3.67 1.51 7.69
+R-HSA-432720 Lysosome Vesicle Biogenesis 35 3 9.98 4.95 0.0033 0.014 11.2 2.15 36.8
+R-HSA-2129379 Molecules associated with elastic fibres 38 3 9.19 4.71 0.0042 0.017 10.2 1.97 33.4
+R-HSA-6783783 Interleukin-10 signaling 49 3 7.13 4 0.0085 0.033 7.76 1.51 24.9
+R-HSA-75153 Apoptotic execution  phase 51 3 6.85 3.9 0.0095 0.034 7.44 1.45 23.8
+R-HSA-2187338 Visual phototransduction 96 4 4.85 3.53 0.0093 0.034 5.21 1.36 14.3
+R-HSA-5668541 TNFR2 non-canonical NF-kB pathway 102 4 4.57 3.37 0.011 0.039 4.89 1.28 13.4
+R-HSA-8957275 Post-translational protein phosphorylation 108 4 4.31 3.22 0.014 0.045 4.61 1.2 12.6

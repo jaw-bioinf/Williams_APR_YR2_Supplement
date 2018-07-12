@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0002491 decreased IgD level 11 3 33.3 9.74 8.3e-05 0.021 47.1 7.89 202
+MP:0004195 abnormal kidney calyx morphology 12 3 30.5 9.3 0.00011 0.021 41.8 7.14 172
+MP:0020172 abnormal IgD level 12 3 30.5 9.3 0.00011 0.021 41.8 7.14 172

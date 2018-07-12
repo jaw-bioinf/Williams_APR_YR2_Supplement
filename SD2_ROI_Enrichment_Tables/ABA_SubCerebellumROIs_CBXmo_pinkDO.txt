@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1561	cognitive disorder	812	67	1.83	5.46	4e-07	0.00014	2.15	1.6	2.85
+DOID:5419	schizophrenia	635	51	1.78	4.48	2.7e-05	0.0027	2.01	1.44	2.76
+DOID:2468	psychotic disorder	637	51	1.77	4.45	3e-05	0.0027	2	1.44	2.75
+DOID:150	disease of mental health	1255	86	1.52	4.41	1.9e-05	0.0027	1.76	1.35	2.29
+DOID:3093	nervous system cancer	523	42	1.78	4.03	0.00015	0.011	1.98	1.37	2.78
+DOID:4752	multiple system atrophy	21	6	6.33	5.32	0.00025	0.015	8.6	2.71	23.6
+DOID:680	tauopathy	398	32	1.78	3.49	0.00096	0.049	1.95	1.29	2.86

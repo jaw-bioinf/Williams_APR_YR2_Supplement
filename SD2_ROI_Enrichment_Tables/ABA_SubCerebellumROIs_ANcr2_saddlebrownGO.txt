@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0449	7	5	1	0.2	0.143	CORUM:3029	cor	5	Drosha complex	1	DHX15
+2	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:249	cor	3	Caspase-2-TRAF2-RIP1 complex	1	RALBP1
+3	1	TRUE	0.0323	4	5	1	0.2	0.25	CORUM:6454	cor	4	Zipzap/p200-Srf-p49/STRAP-Nkx2.5 complex	1	ARID2
+4	1	TRUE	0.0323	2	5	1	0.2	0.5	CORUM:396	cor	2	Succinyl-CoA synthetase, GDP-forming	1	SUCLG2
+5	1	TRUE	0.0323	2	5	1	0.2	0.5	CORUM:3741	cor	1	Slp5-Rab27A complex	1	SYTL5
+6	1	TRUE	0.0392	23	56	3	0.054	0.13	REAC:R-MMU-445355	rea	6	Smooth Muscle Contraction	1	TLN1,MYL12B,TRIM72
+7	1	TRUE	0.0499	414	56	9	0.161	0.022	REAC:R-MMU-194315	rea	7	Signaling by Rho GTPases	1	ARHGEF18,RALBP1,MYL12B,ARHGAP15,ARHGAP23,ARHGEF39,H2AFJ,OBSCN,NCF4
+8	1	TRUE	0.0392	140	56	6	0.107	0.043	REAC:R-MMU-194840	rea	7	Rho GTPase cycle	2	ARHGEF18,RALBP1,ARHGAP15,ARHGAP23,ARHGEF39,OBSCN

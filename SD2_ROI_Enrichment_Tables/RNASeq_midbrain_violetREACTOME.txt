@@ -1,0 +1,18 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-1430728 Metabolism 1899 32 2.14 4.9 7.1e-06 0.00049 2.94 1.81 4.72
+R-HSA-456926 Thrombin signalling through proteinase activated receptors (PARs) 32 4 15.8 7.5 0.00011 0.0038 18.8 4.69 55.8
+R-HSA-418217 G beta:gamma signalling through PLC beta 20 3 19 7.19 0.00049 0.0093 23 4.23 81.9
+R-HSA-500657 Presynaptic function of Kainate receptors 21 3 18.1 7 0.00057 0.0093 21.7 4.01 76.7
+R-HSA-397795 G-protein beta:gamma signalling 51 4 9.94 5.71 0.00068 0.0093 11.2 2.86 31.8
+R-HSA-556833 Metabolism of lipids 696 14 2.55 3.78 0.00098 0.011 2.92 1.51 5.29
+R-HSA-416476 G alpha (q) signalling events 207 7 4.29 4.26 0.0012 0.012 4.73 1.81 10.4
+R-HSA-451326 Activation of kainate receptors upon glutamate binding 32 3 11.9 5.5 0.002 0.017 13.5 2.57 44.9
+R-HSA-420092 Glucagon-type ligand receptors 33 3 11.5 5.4 0.0022 0.017 13 2.49 43.3
+R-HSA-432040 Vasopressin regulates renal water homeostasis via Aquaporins 43 3 8.84 4.6 0.0046 0.032 9.75 1.89 31.7
+R-HSA-76002 Platelet activation, signaling and aggregation 271 7 3.27 3.38 0.0054 0.034 3.56 1.37 7.82
+R-HSA-392451 G beta:gamma signalling through PI3Kgamma 48 3 7.92 4.29 0.0063 0.036 8.67 1.69 28
+R-HSA-445717 Aquaporin-mediated transport 52 3 7.31 4.07 0.0079 0.042 7.96 1.55 25.5
+R-HSA-4086398 Ca2+ pathway 55 3 6.91 3.92 0.0092 0.046 7.5 1.47 24
+R-HSA-8978868 Fatty acid metabolism 168 5 3.77 3.23 0.01 0.048 4.05 1.26 10.1
+R-HSA-373080 Class B/2 (Secretin family receptors) 61 3 6.23 3.66 0.012 0.05 6.72 1.32 21.4
+R-HSA-195721 Signaling by WNT 314 7 2.83 2.93 0.012 0.05 3.05 1.17 6.68

@@ -1,0 +1,32 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004859	abnormal synaptic plasticity	67	20	4.58	7.76	4.5e-09	1.1e-05	6.27	3.5	10.9
+MP:0001900	impaired synaptic plasticity	47	14	4.57	6.48	9.9e-07	0.00081	6.2	3.05	12
+MP:0013292	embryonic lethality prior to organogenesis	717	80	1.71	5.24	9e-07	0.00081	1.92	1.48	2.47
+MP:0003635	abnormal synaptic transmission	740	79	1.64	4.77	5.9e-06	0.0029	1.82	1.4	2.34
+MP:0013293	embryonic lethality prior to tooth bud stage	788	83	1.62	4.77	5.6e-06	0.0029	1.8	1.39	2.3
+MP:0011270	decreased excitatory postsynaptic current amplitude	26	9	5.31	5.81	2.3e-05	0.0095	7.69	3.01	18.3
+MP:0001516	abnormal motor coordination/ balance	833	83	1.53	4.22	4.5e-05	0.014	1.68	1.3	2.15
+MP:0003491	abnormal voluntary movement	1648	145	1.35	4.13	4.1e-05	0.014	1.5	1.23	1.83
+MP:0011267	abnormal excitatory postsynaptic current amplitude	31	9	4.45	5.09	0.00011	0.016	5.94	2.4	13.5
+MP:0009850	embryonic lethality between implantation and placentation	440	50	1.74	4.22	7.2e-05	0.016	1.91	1.38	2.61
+MP:0002206	abnormal CNS synaptic transmission	653	68	1.6	4.18	6.2e-05	0.016	1.75	1.32	2.29
+MP:0001402	hypoactivity	492	54	1.68	4.11	9.5e-05	0.016	1.84	1.34	2.48
+MP:0002063	abnormal learning/memory/conditioning	664	68	1.57	4.03	1e-04	0.016	1.72	1.3	2.25
+MP:0014114	abnormal cognition	665	68	1.57	4.02	0.00011	0.016	1.71	1.29	2.24
+MP:0003492	abnormal involuntary movement	942	90	1.47	3.98	1e-04	0.016	1.6	1.25	2.03
+MP:0008762	embryonic lethality	1763	152	1.32	3.97	7.3e-05	0.016	1.47	1.21	1.79
+MP:0001392	abnormal locomotor behavior	1537	135	1.35	3.93	9e-05	0.016	1.49	1.21	1.82
+MP:0000807	abnormal hippocampus morphology	346	41	1.82	4.09	0.00013	0.018	1.99	1.39	2.8
+MP:0011096	embryonic lethality between implantation and somite formation, complete penetrance	271	34	1.92	4.08	0.00017	0.022	2.12	1.42	3.08
+MP:0000801	abnormal temporal lobe morphology	352	41	1.79	3.97	0.00019	0.024	1.95	1.36	2.75
+MP:0001393	ataxia	320	38	1.82	3.95	0.00022	0.026	1.99	1.37	2.84
+MP:0002915	abnormal synaptic depression	129	20	2.38	4.16	0.00024	0.027	2.69	1.57	4.39
+MP:0002919	enhanced paired-pulse facilitation	42	10	3.65	4.55	0.00028	0.028	4.54	1.98	9.51
+MP:0006205	embryonic lethality between implantation and somite formation	300	36	1.84	3.91	0.00026	0.028	2.02	1.37	2.9
+MP:0004166	abnormal limbic system morphology	393	44	1.72	3.84	0.00027	0.028	1.87	1.32	2.6
+MP:0001405	impaired coordination	454	49	1.66	3.78	3e-04	0.028	1.8	1.29	2.46
+MP:0002572	abnormal emotion/affect behavior	619	62	1.54	3.65	0.00039	0.035	1.66	1.24	2.2
+MP:0003313	abnormal locomotor activation	1152	103	1.37	3.56	0.00039	0.035	1.49	1.18	1.87
+MP:0000952	abnormal CNS glial cell morphology	320	37	1.77	3.72	0.00045	0.038	1.93	1.32	2.76
+MP:0001447	abnormal nest building behavior	37	9	3.73	4.4	0.00048	0.039	4.66	1.93	10.2
+MP:0002882	abnormal neuron morphology	1515	129	1.31	3.44	0.00052	0.041	1.42	1.15	1.75

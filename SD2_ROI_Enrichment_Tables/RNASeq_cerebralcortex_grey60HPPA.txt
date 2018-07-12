@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001760	Abnormality of the foot	911	21	2.19	4.3	6.3e-05	0.022	3.81	1.88	7.84
+HP:0002814	Abnormality of the lower limb	1067	23	2.04	4.22	5.9e-05	0.022	3.82	1.88	8.07
+HP:0001836	Camptodactyly of toe	25	4	15.2	7.34	0.00011	0.026	19.8	4.7	63.4
+HP:0025270	Abnormality of esophagus physiology	301	11	3.47	4.62	0.00017	0.026	4.64	2.05	9.84
+HP:0003330	Abnormal bone structure	550	15	2.59	4.18	0.00023	0.026	3.74	1.79	7.6
+HP:0003011	Abnormality of the musculature	1823	30	1.56	3.57	0.00022	0.026	4.01	1.72	10.9
+HP:0100492	Joint contractures involving the joints of the feet	34	4	11.2	6.14	0.00039	0.03	13.9	3.36	42.7
+HP:0005830	Flexion contracture of toe	34	4	11.2	6.14	0.00039	0.03	13.9	3.36	42.7
+HP:0011805	Abnormality of muscle morphology	1023	21	1.95	3.72	0.00039	0.03	3.24	1.6	6.66
+HP:0001446	Abnormality of the musculature of the upper limbs	137	7	4.85	4.74	0.00046	0.032	5.99	2.18	14.3
+HP:0001376	Limitation of joint mobility	286	10	3.32	4.22	0.00053	0.034	4.29	1.83	9.26

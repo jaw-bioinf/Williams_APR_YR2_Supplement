@@ -1,0 +1,53 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003247 abnormal glutaminergic neuron morphology 10 3 27.6 8.82 0.00014 0.023 40 6.58 178
+MP:0012186 abnormal muscle precursor cell physiology 11 3 25.1 8.37 0.00019 0.023 35 5.89 148
+MP:0004289 abnormal bony labyrinth 11 3 25.1 8.37 0.00019 0.023 35 5.89 148
+MP:0003017 decreased circulating bicarbonate level 12 3 23 7.99 0.00026 0.023 31.1 5.34 128
+MP:0000441 increased cranium width 13 3 21.2 7.65 0.00033 0.023 28 4.88 111
+MP:0002026 increased leukemia incidence 92 7 6.99 6.06 6e-05 0.023 7.96 3.03 17.8
+MP:0008209 decreased pre-B cell number 105 7 6.12 5.54 0.00014 0.023 6.89 2.63 15.3
+MP:0002403 abnormal pre-B cell morphology 133 8 5.53 5.52 9.5e-05 0.023 6.23 2.56 13.2
+MP:0000550 abnormal forelimb morphology 206 10 4.46 5.27 7.7e-05 0.023 5.03 2.3 9.88
+MP:0012431 increased lymphoma incidence 245 10 3.75 4.58 0.00032 0.023 4.18 1.91 8.18
+MP:0010274 increased organ/body region tumor incidence 606 17 2.58 4.21 0.00026 0.023 2.95 1.63 5.05
+MP:0013152 abnormal organ/body region tumor incidence 622 17 2.51 4.09 0.00036 0.023 2.87 1.58 4.91
+MP:0008762 embryonic lethality 1763 34 1.77 3.78 0.00032 0.023 2.19 1.4 3.36
+MP:0010273 increased classified tumor incidence 571 16 2.57 4.07 0.00041 0.025 2.92 1.59 5.07
+MP:0020188 abnormal classified tumor incidence 578 16 2.54 4.02 0.00047 0.027 2.89 1.57 5
+MP:0006282 abnormal spinal cord dorsal horn morphology 18 3 15.3 6.38 0.00091 0.028 18.7 3.41 67.4
+MP:0000029 abnormal malleus morphology 39 4 9.42 5.53 0.00081 0.028 10.8 2.73 31
+MP:0010465 aberrant origin of the right subclavian artery 39 4 9.42 5.53 0.00081 0.028 10.8 2.73 31
+MP:0005105 abnormal middle ear ossicle morphology 66 5 6.96 5.1 0.00073 0.028 7.78 2.39 19.8
+MP:0002217 small lymph nodes 70 5 6.56 4.9 0.00096 0.028 7.3 2.24 18.5
+MP:0000049 abnormal middle ear morphology 97 6 5.68 4.86 0.00064 0.028 6.3 2.2 14.8
+MP:0002024 increased T cell derived lymphoma incidence 102 6 5.4 4.69 0.00083 0.028 5.97 2.09 14
+MP:0010365 increased thymus tumor incidence 103 6 5.35 4.66 0.00087 0.028 5.91 2.07 13.8
+MP:0003111 abnormal cell nucleus morphology 172 8 4.27 4.55 0.00055 0.028 4.73 1.95 9.92
+MP:0011096 embryonic lethality between implantation and somite formation, complete penetrance 271 10 3.39 4.19 0.00071 0.028 3.75 1.72 7.33
+MP:0010288 increased gland tumor incidence 280 10 3.28 4.07 0.00091 0.028 3.62 1.66 7.08
+MP:0002020 increased tumor incidence 706 18 2.34 3.89 0.00054 0.028 2.68 1.5 4.53
+MP:0013292 embryonic lethality prior to organogenesis 717 18 2.31 3.82 0.00065 0.028 2.63 1.48 4.45
+MP:0002019 abnormal tumor incidence 805 19 2.17 3.64 0.00096 0.028 2.47 1.41 4.14
+MP:0003015 abnormal circulating bicarbonate level 19 3 14.5 6.18 0.0011 0.03 17.5 3.22 62.5
+MP:0000039 abnormal otic capsule morphology 21 3 13.1 5.83 0.0014 0.032 15.6 2.89 54.5
+MP:0010487 abnormal right subclavian artery morphology 45 4 8.17 5.06 0.0014 0.032 9.18 2.34 26.1
+MP:0003358 abnormal hypaxial muscle morphology 153 7 4.2 4.19 0.0014 0.032 4.61 1.77 10.1
+MP:0010296 increased hemolymphoid system tumor incidence 294 10 3.12 3.88 0.0013 0.032 3.44 1.58 6.71
+MP:0002166 altered tumor susceptibility 819 19 2.13 3.56 0.0012 0.032 2.43 1.38 4.06
+MP:0002006 neoplasm 897 20 2.05 3.47 0.0014 0.032 2.34 1.35 3.87
+MP:0010678 abnormal skin adnexa morphology 1024 22 1.97 3.47 0.0013 0.032 2.27 1.34 3.7
+MP:0005371 limbs/digits/tail phenotype 1030 22 1.96 3.44 0.0014 0.032 2.26 1.33 3.68
+MP:0010464 abnormal aortic arch and aortic arch branch attachment 46 4 7.99 4.98 0.0015 0.033 8.96 2.29 25.4
+MP:0006205 embryonic lethality between implantation and somite formation 300 10 3.06 3.81 0.0015 0.033 3.37 1.55 6.57
+MP:0000556 abnormal hindlimb morphology 411 12 2.68 3.66 0.0016 0.034 2.97 1.46 5.5
+MP:0014134 abnormal embryo morphology 1333 26 1.79 3.28 0.0018 0.036 2.09 1.28 3.31
+MP:0013293 embryonic lethality prior to tooth bud stage 788 18 2.1 3.38 0.0019 0.038 2.37 1.33 4
+MP:0008271 abnormal bone ossification 426 12 2.59 3.52 0.0022 0.042 2.85 1.41 5.29
+MP:0008007 abnormal cellular replicative senescence 85 5 5.4 4.28 0.0023 0.043 5.92 1.83 14.9
+MP:0011087 neonatal lethality, complete penetrance 672 16 2.19 3.35 0.0023 0.043 2.44 1.33 4.23
+MP:0003395 abnormal subclavian artery morphology 53 4 6.93 4.54 0.0026 0.044 7.68 1.97 21.6
+MP:0006395 abnormal epiphyseal plate morphology 219 8 3.36 3.7 0.0026 0.044 3.66 1.51 7.64
+MP:0000438 abnormal cranium morphology 679 16 2.16 3.31 0.0026 0.044 2.42 1.31 4.18
+MP:0002109 abnormal limb morphology 806 18 2.05 3.28 0.0025 0.044 2.31 1.3 3.9
+MP:0002123 abnormal definitive hematopoiesis 946 20 1.94 3.21 0.0027 0.044 2.2 1.27 3.64
+MP:0001957 apnea 27 3 10.2 5.03 0.003 0.049 11.7 2.21 39.3

@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-111885	Opioid Signalling	74	5	9.53	6.22	0.00017	0.0062	10.8	3.3	27.8
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	7	6.41	5.72	1e-04	0.0062	7.29	2.77	16.3
+R-HSA-112315	Transmission across Chemical Synapses	224	8	5.04	5.16	0.00018	0.0062	5.72	2.34	12.2
+R-HSA-202040	G-protein activation	28	3	15.1	6.32	0.00099	0.021	17.5	3.3	59.4
+R-HSA-112316	Neuronal System	356	9	3.57	4.16	0.00087	0.021	4.01	1.74	8.21
+R-HSA-451326	Activation of kainate receptors upon glutamate binding	32	3	13.2	5.85	0.0015	0.026	15.1	2.87	50.5
+R-HSA-112043	PLC beta mediated events	41	3	10.3	5.05	0.003	0.033	11.5	2.22	37.6
+R-HSA-112040	G-protein mediated events	42	3	10.1	4.98	0.0032	0.033	11.2	2.16	36.6
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	42	3	10.1	4.98	0.0032	0.033	11.2	2.16	36.6
+R-HSA-3858494	Beta-catenin independent WNT signaling	137	5	5.15	4.13	0.0028	0.033	5.63	1.74	14.1
+R-HSA-168255	Influenza Life Cycle	143	5	4.93	4	0.0034	0.033	5.38	1.67	13.5
+R-HSA-163685	Integration of energy metabolism	92	4	6.13	4.18	0.0041	0.036	6.68	1.73	18.5
+R-HSA-168254	Influenza Infection	154	5	4.58	3.78	0.0046	0.038	4.98	1.54	12.5
+R-HSA-4086398	Ca2+ pathway	55	3	7.69	4.21	0.0069	0.049	8.39	1.64	26.9
+R-HSA-195721	Signaling by WNT	314	7	3.14	3.26	0.0067	0.049	3.43	1.32	7.57

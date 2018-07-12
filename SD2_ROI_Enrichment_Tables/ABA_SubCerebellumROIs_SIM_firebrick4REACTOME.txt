@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	74	3	10.1	5	0.0031	0.033	11.3	2.18	37
+R-HSA-3700989	Transcriptional Regulation by TP53	365	6	4.11	3.84	0.003	0.033	4.72	1.61	11.5

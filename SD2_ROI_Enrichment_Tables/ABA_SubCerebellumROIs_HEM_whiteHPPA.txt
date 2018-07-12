@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003808	Abnormal muscle tone	1269	24	2.01	4.39	1.9e-05	0.0049	4.78	2.14	11.7
+HP:0011804	Abnormality of muscle physiology	1558	27	1.84	4.35	1.1e-05	0.0049	5.72	2.3	17
+HP:0001252	Muscular hypotonia	1058	21	2.11	4.21	6.6e-05	0.0084	4.12	1.93	9.21
+HP:0011442	Abnormality of central motor function	1241	23	1.97	4.15	5.8e-05	0.0084	4.26	1.94	10.1
+HP:0003011	Abnormality of the musculature	1823	27	1.58	3.45	0.00034	0.035	4.21	1.7	12.5

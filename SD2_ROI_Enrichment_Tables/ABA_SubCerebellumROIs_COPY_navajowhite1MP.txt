@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001982	decreased chemically-elicited antinociception	22	4	52.7	14.3	8.2e-07	0.00012	72.7	16.9	241
+MP:0001980	abnormal chemically-elicited antinociception	30	4	38.7	12.2	3e-06	0.00023	50.4	12	160
+MP:0009747	impaired behavioral response to xenobiotic	87	4	13.3	6.8	0.00021	0.01	15.8	3.93	46.5
+MP:0005316	abnormal response to tactile stimuli	107	4	10.8	6.02	0.00047	0.01	12.7	3.17	37.1
+MP:0012079	abnormal spinal reflex	107	4	10.8	6.02	0.00047	0.01	12.7	3.17	37.1
+MP:0009745	abnormal behavioral response to xenobiotic	295	6	5.9	5.03	0.00044	0.01	7.15	2.39	17.9
+MP:0001968	abnormal touch/ nociception	299	6	5.82	4.98	0.00048	0.01	7.05	2.35	17.7
+MP:0005498	hyporesponsive to tactile stimuli	52	3	16.7	6.69	0.00073	0.014	19.4	3.66	65.8
+MP:0001970	abnormal pain threshold	241	5	6.02	4.64	0.0013	0.022	7.07	2.11	18.8
+MP:0000939	decreased motor neuron number	84	3	10.4	5.07	0.0029	0.037	11.7	2.24	38.9
+MP:0001462	abnormal avoidance learning behavior	84	3	10.4	5.07	0.0029	0.037	11.7	2.24	38.9
+MP:0001431	abnormal eating behavior	575	7	3.53	3.68	0.0029	0.037	4.28	1.56	10.2
+MP:0000937	abnormal motor neuron morphology	186	4	6.24	4.24	0.0036	0.04	7.11	1.79	20.6
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	9	2.79	3.39	0.0034	0.04	3.51	1.43	7.91

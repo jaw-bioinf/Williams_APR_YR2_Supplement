@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04064	NF-kappa B signaling pathway	94	7	6.43	5.74	9.7e-05	0.005	7.44	2.81	16.8
+path:hsa01523	Antifolate resistance	31	4	11.1	6.12	0.00041	0.011	13.3	3.29	39.4
+path:hsa04662	B cell receptor signaling pathway	70	5	6.16	4.7	0.0012	0.021	6.94	2.12	17.8
+path:hsa03015	mRNA surveillance pathway	91	5	4.74	3.89	0.0039	0.044	5.23	1.61	13.2
+path:hsa04657	IL-17 signaling pathway	93	5	4.64	3.83	0.0043	0.044	5.11	1.57	12.9

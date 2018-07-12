@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0412	11	3	1	0.333	0.091	CORUM:1001	cor	3	DNA synthesome complex	1	POLA1
+2	1	TRUE	0.0181	2	3	1	0.333	0.5	CORUM:1109	cor	4	DNA polymerase alpha	1	POLA1
+3	1	TRUE	0.0181	3	3	1	0.333	0.333	CORUM:5452	cor	7	Foxo4-Srf-Myocd complex	1	FOXO4
+4	1	TRUE	0.0181	4	3	1	0.333	0.25	CORUM:47	cor	1	DNA polymerase alpha-primase complex	1	POLA1
+5	1	TRUE	0.0181	2	3	1	0.333	0.5	CORUM:358	cor	5	DNA ligase IV-Xrcc4-DNA-protein kinase complex	1	LIG4
+6	1	TRUE	0.0181	4	3	1	0.333	0.25	CORUM:1110	cor	2	DNA polymerase alpha-primase complex	1	POLA1

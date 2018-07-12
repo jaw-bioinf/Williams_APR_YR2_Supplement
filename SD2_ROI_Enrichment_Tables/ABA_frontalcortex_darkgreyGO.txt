@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0428	3	5	1	0.2	0.333	CORUM:2608	cor	6	Brd4-P-TEFb complex	1	CCNT1
+2	1	TRUE	0.0428	4	5	1	0.2	0.25	CORUM:694	cor	2	Bad-Gk-Wave1-Pkaca-Ppp1cc complex	1	WASF1
+3	1	TRUE	0.0428	7	5	1	0.2	0.143	CORUM:6669	cor	5	B9 complex	1	TMEM17
+4	1	TRUE	0.0428	3	5	1	0.2	0.333	CORUM:1103	cor	1	Wave1-Bcl-xl-Pancortin-2 complex, focal ischemic stroke induced	1	WASF1
+5	1	TRUE	0.0428	7	5	1	0.2	0.143	CORUM:385	cor	8	Caveolar macromolecular signaling complex, using anti-Cav-3	1	PRKAR2B
+6	1	TRUE	0.0428	3	5	1	0.2	0.333	CORUM:77	cor	3	nNos-Capon-Dexras1 complex	1	NOS1AP
+7	1	TRUE	0.0428	7	5	1	0.2	0.143	CORUM:384	cor	4	Caveolar macromolecular signaling complex	1	PRKAR2B

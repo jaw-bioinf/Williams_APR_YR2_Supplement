@@ -1,0 +1,24 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-399719	Trafficking of AMPA receptors	31	5	13.8	7.76	2.7e-05	0.0012	16.9	4.98	46
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	5	13.8	7.76	2.7e-05	0.0012	16.9	4.98	46
+R-HSA-5682910	LGI-ADAM interactions	14	3	18.3	7.06	0.00052	0.0095	23.6	4.17	91.2
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	8	4.45	4.69	0.00043	0.0095	4.9	2.03	10.3
+R-HSA-5673001	RAF/MAP kinase cascade	243	10	3.52	4.33	0.00054	0.0095	3.87	1.78	7.53
+R-HSA-5684996	MAPK1/MAPK3 signaling	249	10	3.44	4.23	0.00065	0.0096	3.78	1.74	7.34
+R-HSA-112316	Neuronal System	356	12	2.88	3.94	9e-04	0.011	3.17	1.57	5.85
+R-HSA-112315	Transmission across Chemical Synapses	224	9	3.44	4.01	0.0012	0.013	3.75	1.65	7.52
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	4	7.44	4.76	0.002	0.017	8.3	2.13	23.5
+R-HSA-1483255	PI Metabolism	78	5	5.49	4.32	0.0021	0.017	6	1.86	15.1
+R-HSA-5683057	MAPK family signaling cascades	288	10	2.97	3.69	0.002	0.017	3.23	1.49	6.27
+R-HSA-114508	Effects of PIP2 hydrolysis	25	3	10.3	5.05	0.003	0.022	11.8	2.23	40.1
+R-HSA-5578775	Ion homeostasis	54	4	6.34	4.28	0.0036	0.024	6.97	1.8	19.5
+R-HSA-1855204	Synthesis of IP3 and IP4 in the cytosol	28	3	9.17	4.71	0.0041	0.026	10.4	1.98	34.8
+R-HSA-5576891	Cardiac conduction	139	6	3.69	3.48	0.0057	0.033	3.97	1.4	9.14
+R-HSA-166520	Signalling by NGF	147	6	3.49	3.31	0.0074	0.041	3.74	1.32	8.6
+R-HSA-438064	Post NMDA receptor activation events	37	3	6.94	3.94	0.009	0.045	7.63	1.48	24.8
+R-HSA-397014	Muscle contraction	201	7	2.98	3.08	0.0092	0.045	3.18	1.23	6.9
+R-HSA-5675221	Negative regulation of MAPK pathway	40	3	6.42	3.73	0.011	0.047	7.01	1.36	22.7
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	4	4.63	3.4	0.011	0.047	4.97	1.29	13.6
+R-HSA-416476	G alpha (q) signalling events	207	7	2.89	2.99	0.011	0.047	3.08	1.2	6.69
+R-HSA-442755	Activation of NMDA receptor and postsynaptic events	41	3	6.26	3.67	0.012	0.048	6.82	1.33	22
+R-HSA-375280	Amine ligand-binding receptors	42	3	6.11	3.61	0.013	0.049	6.65	1.3	21.4

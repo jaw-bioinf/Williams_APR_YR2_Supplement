@@ -1,0 +1,46 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000921	demyelination	101	8	18.8	11.7	6.9e-09	1.1e-06	25.3	9.79	58.3
+MP:0000920	abnormal myelination	200	10	11.9	10.1	6.4e-09	1.1e-06	16.4	7.03	35.2
+MP:0000953	abnormal oligodendrocyte morphology	58	6	24.6	11.7	1.3e-07	1e-05	32	10.5	82
+MP:0000755	hindlimb paralysis	94	7	17.7	10.6	1e-07	1e-05	23	8.33	54.9
+MP:0000745	tremors	313	10	7.6	7.72	4.4e-07	2.9e-05	10.2	4.38	21.7
+MP:0000753	paralysis	152	7	11	8.04	2.7e-06	0.00015	13.7	5.02	32.3
+MP:0003871	abnormal myelin sheath morphology	82	5	14.5	7.98	2.2e-05	0.001	17.5	5.2	46.7
+MP:0008814	decreased nerve conduction velocity	46	4	20.7	8.7	3.8e-05	0.0014	25	6.18	74.7
+MP:0003634	abnormal glial cell morphology	409	9	5.24	5.69	3.7e-05	0.0014	6.63	2.75	14.4
+MP:0005405	axon degeneration	98	5	12.1	7.2	5.1e-05	0.0015	14.4	4.31	38.3
+MP:0000952	abnormal CNS glial cell morphology	320	8	5.95	5.85	4.4e-05	0.0015	7.38	2.91	16.6
+MP:0005403	abnormal nerve conduction	73	4	13	6.71	0.00024	0.0065	15.2	3.81	44.1
+MP:0003492	abnormal involuntary movement	942	12	3.03	4.27	0.00033	0.0082	3.97	1.83	8.14
+MP:0011966	abnormal auditory brainstem response waveform shape	39	3	18.3	7.03	0.00057	0.013	21.3	4.01	72.3
+MP:0004738	abnormal auditory brainstem response	365	7	4.56	4.51	0.00071	0.016	5.42	2.01	12.6
+MP:0006335	abnormal hearing electrophysiology	381	7	4.37	4.37	0.00092	0.016	5.18	1.92	12.1
+MP:0001402	hypoactivity	492	8	3.87	4.25	0.00085	0.016	4.67	1.84	10.5
+MP:0001921	reduced fertility	620	9	3.45	4.11	0.00086	0.016	4.24	1.76	9.2
+MP:0003633	abnormal nervous system physiology	1903	17	2.13	3.58	0.00092	0.016	3.01	1.5	5.95
+MP:0001106	abnormal Schwann cell morphology	51	3	14	6.05	0.0012	0.02	15.9	3.04	53.2
+MP:0001105	abnormal PNS glial cell morphology	52	3	13.7	5.98	0.0013	0.021	15.6	2.98	52
+MP:0011967	increased or absent threshold for auditory brainstem response	311	6	4.59	4.18	0.0017	0.025	5.32	1.81	13
+MP:0008415	abnormal neurite morphology	423	7	3.94	4.02	0.0017	0.025	4.64	1.72	10.8
+MP:0003491	abnormal voluntary movement	1648	15	2.17	3.39	0.0018	0.025	2.91	1.42	5.8
+MP:0005404	abnormal axon morphology	219	5	5.43	4.31	0.0021	0.027	6.2	1.87	16.1
+MP:0001963	abnormal hearing physiology	443	7	3.76	3.87	0.0022	0.027	4.42	1.64	10.3
+MP:0003699	abnormal female reproductive system physiology	700	9	3.06	3.68	0.002	0.027	3.71	1.54	8.06
+MP:0005377	hearing/vestibular/ear phenotype	718	9	2.98	3.59	0.0024	0.028	3.61	1.5	7.84
+MP:0000780	abnormal corpus callosum morphology	143	4	6.66	4.43	0.0029	0.033	7.48	1.9	21.3
+MP:0009503	abnormal mammary gland duct morphology	76	3	9.39	4.77	0.0039	0.035	10.5	2.01	34.3
+MP:0008219	abnormal dorsal telencephalic commissure morphology	147	4	6.47	4.35	0.0032	0.035	7.27	1.85	20.7
+MP:0000628	abnormal mammary gland development	154	4	6.18	4.21	0.0038	0.035	6.92	1.76	19.7
+MP:0000627	abnormal mammary gland morphology	254	5	4.68	3.87	0.004	0.035	5.31	1.61	13.8
+MP:0013554	abnormal apocrine gland morphology	254	5	4.68	3.87	0.004	0.035	5.31	1.61	13.8
+MP:0002229	neurodegeneration	486	7	3.43	3.57	0.0037	0.035	4	1.48	9.29
+MP:0004262	abnormal physical strength	488	7	3.41	3.56	0.0038	0.035	3.98	1.48	9.25
+MP:0003878	abnormal ear physiology	490	7	3.4	3.54	0.0039	0.035	3.97	1.47	9.21
+MP:0002064	seizures	383	6	3.73	3.54	0.0049	0.042	4.27	1.45	10.4
+MP:0002566	abnormal sexual interaction	84	3	8.5	4.48	0.0052	0.044	9.42	1.82	30.8
+MP:0009661	abnormal pregnancy	170	4	5.6	3.93	0.0054	0.045	6.24	1.59	17.7
+MP:0009504	abnormal mammary gland epithelium morphology	90	3	7.93	4.29	0.0063	0.046	8.76	1.69	28.6
+MP:0002199	abnormal brain commissure morphology	174	4	5.47	3.87	0.0059	0.046	6.09	1.56	17.3
+MP:0000947	convulsive seizures	175	4	5.44	3.85	0.006	0.046	6.06	1.55	17.2
+MP:0001923	reduced female fertility	280	5	4.25	3.59	0.006	0.046	4.79	1.45	12.4
+MP:0003313	abnormal locomotor activation	1152	11	2.27	3	0.0064	0.046	2.79	1.25	5.8

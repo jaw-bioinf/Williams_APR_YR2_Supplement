@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0162	5	2	1	0.5	0.2	CORUM:6366	cor	1	MCC complex (p85alpha, p110alpha, Akt,14-3-3theta, beta-catenin)	1	PIK3CA
+2	1	TRUE	0.0162	3	2	1	0.5	0.333	CORUM:973	cor	4	Sec61alpha-CollagenIV-Hsp47 complex	1	SEC61A1
+3	1	TRUE	0.0207	72	54	5	0.093	0.069	KEGG:00562	keg	3	Inositol phosphate metabolism	1	INPP5A,PLCD4,PIK3CA,MTM1,PLCB4

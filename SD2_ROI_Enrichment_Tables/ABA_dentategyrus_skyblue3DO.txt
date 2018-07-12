@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2452	thrombophilia	34	4	25	9.64	1.7e-05	0.0016	31.8	7.65	98.9
+DOID:850	lung disease	435	8	3.9	4.3	0.00073	0.035	4.9	1.9	11.3
+DOID:326	ischemia	196	5	5.41	4.31	0.002	0.043	6.33	1.89	16.8
+DOID:74	hematopoietic system disease	435	7	3.41	3.58	0.0035	0.043	4.11	1.5	9.8
+DOID:0050161	lower respiratory tract disease	656	9	2.91	3.54	0.0026	0.043	3.66	1.49	8.2
+DOID:0050828	artery disease	931	11	2.51	3.4	0.0026	0.043	3.29	1.43	7.1
+DOID:10763	hypertension	569	8	2.98	3.4	0.0041	0.043	3.65	1.42	8.4
+DOID:1579	respiratory system disease	691	9	2.76	3.36	0.0037	0.043	3.46	1.41	7.74
+DOID:178	vascular disease	1088	12	2.34	3.31	0.0028	0.043	3.13	1.4	6.68
+DOID:1247	blood coagulation disease	164	4	5.17	3.72	0.007	0.048	5.87	1.48	17
+DOID:289	endometriosis	258	5	4.11	3.5	0.0067	0.048	4.74	1.42	12.6
+DOID:557	kidney disease	476	7	3.12	3.3	0.0058	0.048	3.73	1.36	8.88
+DOID:15	reproductive system disease	490	7	3.03	3.21	0.0068	0.048	3.61	1.32	8.6
+DOID:18	urinary system disease	494	7	3.01	3.18	0.0071	0.048	3.58	1.31	8.53
+DOID:10591	pre-eclampsia	268	5	3.96	3.4	0.0078	0.049	4.55	1.36	12.1
+DOID:17	musculoskeletal system disease	1239	12	2.05	2.82	0.0082	0.049	2.67	1.2	5.71

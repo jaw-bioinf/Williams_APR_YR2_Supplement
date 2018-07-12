@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00410	beta-Alanine metabolism	31	4	9.74	5.65	0.00069	0.02	11.5	2.86	34.1
+path:hsa00500	Starch and sucrose metabolism	36	4	8.39	5.15	0.0012	0.02	9.7	2.44	28.3
+path:hsa00240	Pyrimidine metabolism	101	6	4.49	4.09	0.0021	0.023	4.97	1.73	11.7

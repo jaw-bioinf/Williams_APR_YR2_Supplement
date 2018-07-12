@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0133	189	29	5	0.172	0.026	GO:0043209	CC	7	myelin sheath	1	TUBA1B,ACTB,CLDN11,ATP6V1A,PHGDH
+2	1	TRUE	0.0278	6	29	2	0.069	0.333	GO:0048156	MF	6	tau protein binding	1	APOE,HDAC6
+3	1	TRUE	0.027	6	2	1	0.5	0.167	CORUM:676	cor	4	Metallothionein-3 complex	1	ACTB
+4	1	TRUE	0.027	8	2	1	0.5	0.125	CORUM:2835	cor	1	Profilin 2 complex	1	ACTB
+5	1	TRUE	0.027	10	2	1	0.5	0.1	CORUM:572	cor	3	PYR complex	1	ACTB
+6	1	TRUE	0.027	3	2	1	0.5	0.333	CORUM:1035	cor	2	OAP-1-OSP/claudin-11-ITGB1 complex	1	CLDN11

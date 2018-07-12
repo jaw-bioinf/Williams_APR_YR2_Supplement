@@ -1,0 +1,25 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1640170	Cell Cycle	607	16	3.22	5.12	2.7e-05	0.0025	3.83	2.06	6.74
+R-HSA-2468052	Establishment of Sister Chromatid Cohesion	11	3	33.3	9.74	8.3e-05	0.0039	47	7.88	201
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	4	11.6	6.27	0.00037	0.011	13.3	3.38	38.4
+R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	121	6	6.06	5.08	0.00046	0.011	6.73	2.35	15.8
+R-HSA-2990846	SUMOylation	127	6	5.77	4.91	0.00059	0.011	6.4	2.23	15
+R-HSA-72163	mRNA Splicing - Major Pathway	183	7	4.67	4.55	0.00073	0.011	5.17	1.98	11.4
+R-HSA-72172	mRNA Splicing	191	7	4.48	4.41	0.00094	0.011	4.94	1.9	10.9
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	8	4.02	4.33	0.00081	0.011	4.46	1.84	9.4
+R-HSA-5693554	Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	26	3	14.1	6.07	0.0012	0.012	16.3	3.08	55.8
+R-HSA-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	33	3	11.1	5.28	0.0024	0.017	12.5	2.4	41.6
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	67	4	7.29	4.69	0.0022	0.017	8.03	2.07	22.4
+R-HSA-73886	Chromosome Maintenance	109	5	5.6	4.39	0.002	0.017	6.13	1.9	15.4
+R-HSA-8953854	Metabolism of RNA	646	13	2.46	3.48	0.0021	0.017	2.77	1.4	5.08
+R-HSA-5693537	Resolution of D-Loop Structures	34	3	10.8	5.19	0.0026	0.018	12.1	2.32	40.1
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	74	4	6.6	4.39	0.0031	0.019	7.22	1.87	20.1
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	4	6.43	4.32	0.0034	0.02	7.02	1.82	19.5
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	39	3	9.39	4.77	0.0039	0.021	10.4	2.01	34.1
+R-HSA-157579	Telomere Maintenance	81	4	6.03	4.13	0.0043	0.022	6.56	1.7	18.1
+R-HSA-69242	S Phase	138	5	4.42	3.68	0.0054	0.026	4.78	1.49	11.9
+R-HSA-68877	Mitotic Prometaphase	199	6	3.68	3.47	0.0057	0.027	3.98	1.4	9.23
+R-HSA-72187	mRNA 3'-end processing	58	3	6.32	3.69	0.012	0.046	6.81	1.34	21.7
+R-HSA-212165	Epigenetic regulation of gene expression	108	4	4.52	3.34	0.012	0.046	4.84	1.26	13.3
+R-HSA-5693532	DNA Double-Strand Break Repair	165	5	3.7	3.18	0.011	0.046	3.96	1.24	9.85
+R-HSA-69278	Cell Cycle, Mitotic	531	10	2.3	2.8	0.011	0.046	2.51	1.15	4.92

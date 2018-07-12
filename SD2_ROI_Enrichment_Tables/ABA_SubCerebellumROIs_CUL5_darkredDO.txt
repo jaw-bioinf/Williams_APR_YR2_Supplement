@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0080008	ischemic bone disease	45	4	8.76	5.29	0.0011	0.042	10	2.54	28.8
+DOID:3480	uveal disease	46	4	8.57	5.22	0.0011	0.042	9.78	2.48	28.1
+DOID:0050828	artery disease	931	21	2.22	4.06	0.00024	0.042	2.78	1.58	4.74
+DOID:0050739	autosomal genetic disease	608	15	2.43	3.74	0.00094	0.042	2.86	1.49	5.17
+DOID:178	vascular disease	1088	22	1.99	3.61	0.00078	0.042	2.47	1.42	4.18
+DOID:0050177	monogenic disease	637	15	2.32	3.54	0.0015	0.042	2.72	1.42	4.9
+DOID:1287	cardiovascular system disease	1292	24	1.83	3.35	0.0014	0.042	2.28	1.33	3.82
+DOID:1749	squamous cell carcinoma	720	16	2.19	3.42	0.0019	0.046	2.57	1.37	4.58

@@ -1,0 +1,24 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0469 11 43 2 0.047 0.182 GO:0051988 BP 10 regulation of attachment of spindle microtubules to kinetochore 1 SIRT2,BECN1
+2 1 TRUE 0.0246 4 43 2 0.047 0.5 GO:0051987 BP 10 positive regulation of attachment of spindle microtubules to kinetochore 1 SIRT2,BECN1
+3 1 TRUE 0.032 44 43 3 0.07 0.068 GO:0044304 CC 2 main axon 1 SIRT2,MAPK8IP3,KCNC1
+4 1 TRUE 0.0457 10 43 2 0.047 0.2 GO:0030673 CC 2 axolemma 1 MAPK8IP3,KCNC1
+5 1 TRUE 0.0469 1265 43 10 0.233 0.008 GO:0042995 CC 4 cell projection 1 SIRT2,MAP2,CFAP54,EVL,ASIC1,MAPK8IP3,SV2A,GAP43,KCNC1,FKBP15
+6 1 TRUE 0.0469 1252 43 10 0.233 0.008 GO:0120025 CC 4 plasma membrane bounded cell projection 2 SIRT2,MAP2,CFAP54,EVL,ASIC1,MAPK8IP3,SV2A,GAP43,KCNC1,FKBP15
+7 1 TRUE 0.032 687 43 8 0.186 0.012 GO:0044463 CC 4 cell projection part 2 SIRT2,MAP2,CFAP54,ASIC1,MAPK8IP3,GAP43,KCNC1,FKBP15
+8 1 TRUE 0.032 687 43 8 0.186 0.012 GO:0120038 CC 4 plasma membrane bounded cell projection part 3 SIRT2,MAP2,CFAP54,ASIC1,MAPK8IP3,GAP43,KCNC1,FKBP15
+9 1 TRUE 0.032 675 43 8 0.186 0.012 GO:0043005 CC 4 neuron projection 1 SIRT2,MAP2,ASIC1,MAPK8IP3,SV2A,GAP43,KCNC1,FKBP15
+10 1 TRUE 0.032 226 43 5 0.116 0.022 GO:0030424 CC 4 axon 2 SIRT2,MAPK8IP3,GAP43,KCNC1,FKBP15
+11 1 TRUE 0.0469 437 43 6 0.14 0.014 GO:1901265 MF 8 nucleoside phosphate binding 1 CHORDC1,SIRT2,GTPBP4,HSP90AB1,PPIP5K1,RHOB
+12 1 TRUE 0.0469 437 43 6 0.14 0.014 GO:0000166 MF 8 nucleotide binding 1 CHORDC1,SIRT2,GTPBP4,HSP90AB1,PPIP5K1,RHOB
+13 1 TRUE 0.0246 4 43 2 0.047 0.5 GO:0030911 MF 7 TPR domain binding 1 HSP90AB1,SRP72
+14 1 TRUE 0.0277 2 5 1 0.2 0.5 CORUM:6614 cor 12 GAP-43-Galphai complex 1 GAP43
+15 1 TRUE 0.0277 1 5 1 0.2 1 CORUM:1556 cor 1 Rpa2-Rrn3 complex 1 RRN3
+16 1 TRUE 0.0277 2 5 1 0.2 0.5 CORUM:1555 cor 9 Nmi-Rpa2-Rrn3 complex 1 RRN3
+17 1 TRUE 0.0277 2 5 1 0.2 0.5 CORUM:1560 cor 11 Nmi-Rrn3 complex 1 RRN3
+18 1 TRUE 0.0386 6 5 1 0.2 0.167 CORUM:6480 cor 5 Ncam-Fgfr4 signaling complex 1 GAP43
+19 1 TRUE 0.0323 4 5 1 0.2 0.25 CORUM:25 cor 14 9S-cytosolic aryl hydrocarbon (Ah) receptor non-ligand activated complex 1 HSP90AB1
+20 1 TRUE 0.0386 6 5 1 0.2 0.167 CORUM:676 cor 3 Metallothionein-3 complex 1 HSP90AB1
+21 1 TRUE 0.0277 3 5 1 0.2 0.333 CORUM:677 cor 6 Mt3-Hsp84-Ck complex 1 HSP90AB1
+22 1 TRUE 0.0277 3 5 1 0.2 0.333 CORUM:6812 cor 13 Arrb1-Becn1-Pik3c3 complex, induced by (OGD) oxygen-glucose deprivation 1 BECN1
+23 1 TRUE 0.0277 3 5 1 0.2 0.333 CORUM:2147 cor 16 Aip-Hsp90-Ahr complex 1 HSP90AB1

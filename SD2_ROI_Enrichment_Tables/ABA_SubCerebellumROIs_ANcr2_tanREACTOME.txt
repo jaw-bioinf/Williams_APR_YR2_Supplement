@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-209776	Amine-derived hormones	18	4	12.4	6.55	0.00025	0.025	16	3.8	51.6
+R-HSA-416476	G alpha (q) signalling events	207	12	3.24	4.4	0.00033	0.025	3.55	1.77	6.51
+R-HSA-209968	Thyroxine biosynthesis	10	3	16.8	6.74	0.00061	0.031	23.9	3.95	105

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0013293	embryonic lethality prior to tooth bud stage	788	21	2.78	5.14	1.2e-05	0.0091	3.39	1.96	5.64
+MP:0001516	abnormal motor coordination/ balance	833	21	2.63	4.85	2.9e-05	0.0093	3.19	1.84	5.29
+MP:0013292	embryonic lethality prior to organogenesis	717	19	2.76	4.84	3.8e-05	0.0093	3.3	1.87	5.58

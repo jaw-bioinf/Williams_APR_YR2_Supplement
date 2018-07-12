@@ -1,0 +1,104 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002460	decreased immunoglobulin level	330	38	2.46	5.97	2.2e-07	0.00047	2.8	1.92	4.01
+MP:0008559	abnormal interferon-gamma secretion	280	32	2.44	5.42	2.5e-06	0.0017	2.75	1.82	4.05
+MP:0002490	abnormal immunoglobulin level	519	49	2.01	5.27	1.7e-06	0.0017	2.26	1.62	3.1
+MP:0001800	abnormal humoral immune response	561	51	1.94	5.09	3.2e-06	0.0017	2.17	1.57	2.96
+MP:0013804	decreased IgG2 level	116	18	3.31	5.55	6.7e-06	0.002	3.85	2.17	6.48
+MP:0020180	abnormal IgM level	239	28	2.5	5.21	6.6e-06	0.002	2.81	1.8	4.25
+MP:0002723	abnormal immune serum protein physiology	1067	81	1.62	4.77	5.6e-06	0.002	1.82	1.4	2.35
+MP:0001845	abnormal inflammatory response	1235	90	1.55	4.64	8.1e-06	0.0021	1.75	1.36	2.24
+MP:0013802	abnormal IgG2 level	194	24	2.64	5.12	1.2e-05	0.0029	2.98	1.84	4.65
+MP:0008555	abnormal interferon secretion	320	33	2.2	4.84	1.6e-05	0.0033	2.45	1.63	3.57
+MP:0008567	decreased interferon-gamma secretion	175	22	2.68	4.98	2.2e-05	0.0042	3.03	1.82	4.81
+MP:0001805	decreased IgG level	258	28	2.31	4.75	2.8e-05	0.0049	2.58	1.65	3.88
+MP:0000726	absent lymphocyte	109	16	3.13	4.96	4.4e-05	0.0058	3.59	1.95	6.21
+MP:0000222	decreased neutrophil cell number	143	19	2.83	4.9	3.7e-05	0.0058	3.21	1.85	5.29
+MP:0002148	abnormal hypersensitivity reaction	170	21	2.64	4.77	4.4e-05	0.0058	2.96	1.76	4.75
+MP:0001793	altered susceptibility to infection	534	46	1.84	4.42	4e-05	0.0058	2.02	1.44	2.8
+MP:0002459	abnormal B cell physiology	638	52	1.74	4.29	5.5e-05	0.0068	1.91	1.39	2.6
+MP:0005011	increased eosinophil cell number	89	14	3.36	4.95	6.1e-05	0.0071	3.89	2.01	7.01
+MP:0008496	decreased IgG2a level	90	14	3.32	4.9	6.9e-05	0.0075	3.84	1.99	6.91
+MP:0020186	altered susceptibility to bacterial infection	331	32	2.06	4.36	7.6e-05	0.0075	2.27	1.5	3.33
+MP:0020174	abnormal IgG level	407	37	1.94	4.3	7.8e-05	0.0075	2.13	1.45	3.04
+MP:0003009	abnormal cytokine secretion	661	53	1.71	4.2	7.1e-05	0.0075	1.88	1.37	2.54
+MP:0001806	decreased IgM level	127	17	2.86	4.67	8.5e-05	0.0078	3.23	1.8	5.47
+MP:0020171	abnormal IgA level	129	17	2.81	4.59	1e-04	0.0089	3.17	1.77	5.37
+MP:0005025	abnormal response to infection	572	47	1.75	4.12	0.00011	0.0089	1.92	1.37	2.64
+MP:0020176	abnormal IgG2a level	155	19	2.61	4.5	0.00011	0.009	2.92	1.69	4.8
+MP:0008210	increased mature B cell number	183	21	2.45	4.39	0.00013	0.0098	2.72	1.62	4.35
+MP:0000217	abnormal leukocyte cell number	1718	111	1.38	3.85	0.00013	0.0098	1.54	1.22	1.93
+MP:0002498	abnormal acute inflammation	328	31	2.02	4.15	0.00015	0.011	2.21	1.45	3.25
+MP:0004800	decreased susceptibility to experimental autoimmune encephalomyelitis	99	14	3.02	4.47	2e-04	0.013	3.43	1.78	6.13
+MP:0000334	decreased granulocyte number	259	26	2.14	4.13	2e-04	0.013	2.35	1.48	3.58
+MP:0002406	increased susceptibility to infection	443	38	1.83	3.97	0.00021	0.013	1.99	1.37	2.83
+MP:0003945	abnormal lymphocyte physiology	1033	73	1.51	3.84	0.00018	0.013	1.66	1.26	2.16
+MP:0004751	increased length of allograft survival	28	7	5.33	5.09	0.00024	0.014	6.87	2.45	16.9
+MP:0008071	absent B cells	77	12	3.32	4.54	0.00022	0.014	3.83	1.87	7.22
+MP:0005351	decreased susceptibility to autoimmune disorder	192	21	2.33	4.14	0.00025	0.014	2.57	1.54	4.11
+MP:0005000	abnormal immune tolerance	414	36	1.85	3.95	0.00024	0.014	2.02	1.37	2.9
+MP:0005671	abnormal response to transplant	69	11	3.4	4.44	0.00033	0.017	3.93	1.85	7.63
+MP:0001844	autoimmune response	404	35	1.85	3.86	0.00031	0.017	2.01	1.36	2.89
+MP:0011180	abnormal hematopoietic cell number	1969	122	1.32	3.57	0.00033	0.017	1.48	1.18	1.84
+MP:0008212	absent mature B cells	59	10	3.62	4.47	0.00037	0.018	4.22	1.89	8.51
+MP:0005005	abnormal self tolerance	406	35	1.84	3.83	0.00034	0.018	2	1.35	2.88
+MP:0002420	abnormal adaptive immunity	1459	95	1.39	3.59	0.00035	0.018	1.53	1.2	1.94
+MP:0008217	abnormal B cell activation	199	21	2.25	3.96	0.00041	0.019	2.47	1.48	3.94
+MP:0008751	abnormal interleukin level	286	27	2.01	3.86	4e-04	0.019	2.19	1.4	3.31
+MP:0001545	abnormal hematopoietic system physiology	1616	103	1.36	3.53	0.00041	0.019	1.5	1.18	1.89
+MP:0001876	decreased inflammatory response	273	26	2.03	3.84	0.00045	0.02	2.21	1.4	3.37
+MP:0008568	abnormal interleukin secretion	492	40	1.73	3.71	0.00044	0.02	1.88	1.3	2.65
+MP:0020175	abnormal IgG1 level	232	23	2.11	3.81	0.00054	0.023	2.31	1.41	3.6
+MP:0002412	increased susceptibility to bacterial infection	261	25	2.04	3.79	0.00053	0.023	2.22	1.39	3.41
+MP:0008250	abnormal myeloid leukocyte morphology	950	66	1.48	3.48	0.00063	0.026	1.61	1.21	2.12
+MP:0002376	abnormal dendritic cell physiology	166	18	2.31	3.79	0.00076	0.031	2.54	1.45	4.2
+MP:0020184	altered susceptibility to parasitic infection	127	15	2.52	3.82	0.00085	0.032	2.78	1.49	4.84
+MP:0005153	abnormal B cell proliferation	182	19	2.23	3.71	0.00087	0.032	2.43	1.41	3.97
+MP:0008835	abnormal intercellular signaling peptide or protein level	426	35	1.75	3.53	0.00082	0.032	1.89	1.28	2.72
+MP:0002441	abnormal granulocyte morphology	558	43	1.64	3.48	0.00081	0.032	1.77	1.25	2.47
+MP:0002421	abnormal cell-mediated immunity	1439	92	1.36	3.33	0.00083	0.032	1.49	1.16	1.9
+MP:0008551	abnormal circulating interferon-gamma level	78	11	3.01	3.95	0.00096	0.034	3.4	1.61	6.54
+MP:0020179	abnormal IgG3 level	129	15	2.48	3.75	0.001	0.034	2.73	1.47	4.75
+MP:0005061	abnormal eosinophil morphology	157	17	2.31	3.67	0.0011	0.034	2.53	1.42	4.24
+MP:0002362	abnormal spleen marginal zone morphology	157	17	2.31	3.67	0.0011	0.034	2.53	1.42	4.24
+MP:0005014	increased B cell number	318	28	1.88	3.53	0.00096	0.034	2.03	1.31	3.04
+MP:0008713	abnormal cytokine level	415	34	1.75	3.46	0.001	0.034	1.88	1.27	2.72
+MP:0020201	abnormal granulocyte number	529	41	1.65	3.43	0.00096	0.034	1.78	1.24	2.5
+MP:0001846	increased inflammatory response	1058	71	1.43	3.31	0.001	0.034	1.55	1.18	2.03
+MP:0001819	abnormal immune cell physiology	1428	91	1.36	3.27	0.00099	0.034	1.49	1.16	1.89
+MP:0011182	decreased hematopoietic cell number	1508	95	1.34	3.24	0.0011	0.034	1.47	1.15	1.86
+MP:0008246	abnormal leukocyte morphology	1929	117	1.29	3.22	0.0011	0.034	1.43	1.14	1.78
+MP:0008214	increased immature B cell number	68	10	3.14	3.92	0.0012	0.035	3.56	1.61	7.1
+MP:0008750	abnormal interferon level	118	14	2.53	3.71	0.0012	0.035	2.79	1.46	4.95
+MP:0000689	abnormal spleen morphology	992	67	1.44	3.26	0.0012	0.035	1.56	1.17	2.05
+MP:0002722	abnormal immune system organ morphology	1323	85	1.37	3.23	0.0012	0.035	1.49	1.15	1.91
+MP:0008705	increased interleukin-6 secretion	93	12	2.75	3.77	0.0013	0.036	3.07	1.51	5.71
+MP:0002442	abnormal leukocyte physiology	1401	89	1.36	3.2	0.0013	0.036	1.48	1.15	1.88
+MP:0012382	abnormal blood cell physiology	1515	95	1.34	3.19	0.0013	0.036	1.46	1.14	1.85
+MP:0002500	granulomatous inflammation	37	7	4.04	4.1	0.0014	0.038	4.8	1.77	11.2
+MP:0008498	decreased IgG3 level	94	12	2.72	3.72	0.0014	0.038	3.03	1.49	5.64
+MP:0008495	decreased IgG1 level	147	16	2.32	3.58	0.0014	0.038	2.54	1.4	4.33
+MP:0008195	abnormal professional antigen presenting cell morphology	998	67	1.43	3.2	0.0014	0.038	1.55	1.16	2.03
+MP:0002391	abnormal Peyer's patch germinal center morphology	19	5	5.61	4.46	0.0015	0.039	7.33	2.06	21.7
+MP:0000552	abnormal radius morphology	95	12	2.69	3.68	0.0015	0.039	2.99	1.48	5.57
+MP:0005108	abnormal ulna morphology	95	12	2.69	3.68	0.0015	0.039	2.99	1.48	5.57
+MP:0002458	abnormal B cell number	609	45	1.58	3.26	0.0015	0.039	1.69	1.2	2.34
+MP:0000716	abnormal immune system cell morphology	1949	117	1.28	3.09	0.0016	0.039	1.41	1.12	1.76
+MP:0008171	abnormal mature B cell morphology	612	45	1.57	3.23	0.0016	0.04	1.68	1.19	2.33
+MP:0002452	abnormal professional antigen presenting cell physiology	967	65	1.43	3.16	0.0016	0.04	1.55	1.16	2.04
+MP:0009144	dilated pancreatic duct	12	4	7.11	4.7	0.0017	0.042	10.2	2.25	38.4
+MP:0001198	tight skin	20	5	5.33	4.3	0.0019	0.044	6.84	1.94	19.9
+MP:0008165	abnormal B-1b B cell morphology	20	5	5.33	4.3	0.0019	0.044	6.84	1.94	19.9
+MP:0008183	absent marginal zone B cells	20	5	5.33	4.3	0.0019	0.044	6.84	1.94	19.9
+MP:0008497	decreased IgG2b level	72	10	2.96	3.71	0.0018	0.044	3.33	1.51	6.61
+MP:0002409	decreased susceptibility to infection	180	18	2.13	3.4	0.0019	0.044	2.31	1.32	3.82
+MP:0002455	abnormal dendritic cell antigen presentation	39	7	3.83	3.93	0.002	0.045	4.5	1.67	10.5
+MP:0013701	abnormal mature B cell number	366	30	1.75	3.24	0.002	0.045	1.88	1.23	2.77
+MP:0002494	increased IgM level	139	15	2.3	3.43	0.0021	0.047	2.51	1.35	4.35
+MP:0005087	decreased acute inflammation	196	19	2.07	3.35	0.0021	0.047	2.24	1.3	3.64
+MP:0001828	abnormal T cell activation	384	31	1.72	3.2	0.0021	0.047	1.85	1.22	2.71
+MP:0008251	abnormal phagocyte morphology	816	56	1.46	3.08	0.0022	0.047	1.57	1.15	2.11
+MP:0002411	decreased susceptibility to bacterial infection	100	12	2.56	3.48	0.0024	0.049	2.82	1.39	5.23
+MP:0005027	increased susceptibility to parasitic infection	100	12	2.56	3.48	0.0024	0.049	2.82	1.39	5.23
+MP:0002602	abnormal eosinophil cell number	154	16	2.22	3.38	0.0023	0.049	2.41	1.33	4.1
+MP:0012440	abnormal neutrophil cell number	338	28	1.77	3.19	0.0024	0.049	1.89	1.22	2.83
+MP:0005065	abnormal neutrophil morphology	354	29	1.75	3.18	0.0024	0.049	1.87	1.22	2.78

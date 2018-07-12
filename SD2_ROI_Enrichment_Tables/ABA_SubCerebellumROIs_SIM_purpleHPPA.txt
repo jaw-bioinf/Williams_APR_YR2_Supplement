@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002483	Bulbar signs	35	6	7.62	5.97	1e-04	0.037	9.62	3.17	24.6
+HP:0003470	Paralysis	87	9	4.6	5.15	0.00012	0.037	5.52	2.34	11.6
+HP:0002460	Distal muscle weakness	122	11	4.01	5.13	6.9e-05	0.037	4.83	2.24	9.54

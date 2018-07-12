@@ -1,0 +1,12 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:65 connective tissue disease 1050 19 2.88 5.25 6.3e-06 0.00084 4.37 2.26 8.29
+DOID:0080001 bone disease 833 15 2.87 4.56 9.8e-05 0.0044 3.88 1.92 7.52
+DOID:17 musculoskeletal system disease 1239 19 2.44 4.44 7.1e-05 0.0044 3.57 1.85 6.78
+DOID:8398 osteoarthritis 187 7 5.96 5.46 0.00014 0.0048 7.12 2.64 16.5
+DOID:0060072 benign neoplasm 563 11 3.11 4.15 0.00054 0.012 3.87 1.75 7.9
+DOID:848 arthritis 649 12 2.94 4.13 0.00048 0.012 3.72 1.74 7.46
+DOID:3342 bone inflammation disease 686 12 2.78 3.91 0.00079 0.015 3.49 1.63 7.01
+DOID:1074 kidney failure 138 5 5.76 4.5 0.0016 0.027 6.57 1.99 17.1
+DOID:557 kidney disease 476 9 3.01 3.61 0.0024 0.036 3.57 1.5 7.64
+DOID:18 urinary system disease 494 9 2.9 3.48 0.0031 0.041 3.43 1.44 7.33
+DOID:0060084 cell type benign neoplasm 502 9 2.85 3.43 0.0034 0.042 3.37 1.42 7.2

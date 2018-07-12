@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0451	6	4	1	0.25	0.167	CORUM:676	cor	3	Metallothionein-3 complex	1	HSPA1A
+2	1	TRUE	0.0402	4	4	1	0.25	0.25	CORUM:367	cor	2	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	RAG2
+3	1	TRUE	0.0402	3	4	1	0.25	0.333	CORUM:296	cor	1	Pcna-Msh2-Msh6 complex	1	MSH6
+4	1	TRUE	0.0402	2	4	1	0.25	0.5	CORUM:366	cor	4	Rag1-Rag2 protein-DNA complex	1	RAG2

@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001421	Abnormality of the musculature of the hand	44	12	5.32	6.7	1.1e-06	0.0018	7.35	3.38	15
+HP:0000402	Stenosis of the external auditory canal	32	10	6.09	6.73	2.4e-06	0.0019	8.83	3.67	19.8
+HP:0004810	Congenital hypoplastic anemia	18	7	7.58	6.51	1.6e-05	0.0075	12.2	3.95	34.9
+HP:0001908	Hypoplastic anemia	19	7	7.18	6.28	2.5e-05	0.0075	11.2	3.68	31.2
+HP:0010486	Abnormality of the hypothenar eminence	15	6	7.8	6.14	5.7e-05	0.0075	12.7	3.68	40.5
+HP:0030270	Elevated red cell adenosine deaminase activity	15	6	7.8	6.14	5.7e-05	0.0075	12.7	3.68	40.5
+HP:0010487	Small hypothenar eminence	15	6	7.8	6.14	5.7e-05	0.0075	12.7	3.68	40.5
+HP:0008437	Bifid thoracic vertebrae	15	6	7.8	6.14	5.7e-05	0.0075	12.7	3.68	40.5
+HP:0008447	Hypoplastic coccygeal vertebrae	15	6	7.8	6.14	5.7e-05	0.0075	12.7	3.68	40.5
+HP:0008475	Hypoplastic sacral vertebrae	15	6	7.8	6.14	5.7e-05	0.0075	12.7	3.68	40.5
+HP:0001897	Normocytic anemia	20	7	6.82	6.07	3.6e-05	0.0075	10.3	3.44	28.2
+HP:0001446	Abnormality of the musculature of the upper limbs	137	19	2.7	4.73	5.2e-05	0.0075	3.21	1.82	5.4
+HP:0030272	Abnormal erythrocyte enzyme activity	16	6	7.31	5.88	8.7e-05	0.0098	11.4	3.37	35.2
+HP:0006368	Forearm reduction defects	16	6	7.31	5.88	8.7e-05	0.0098	11.4	3.37	35.2
+HP:0025065	Abnormal erythrocyte volume	17	6	6.88	5.65	0.00013	0.012	10.4	3.12	31.1
+HP:0005518	Increased mean corpuscular volume	17	6	6.88	5.65	0.00013	0.012	10.4	3.12	31.1
+HP:0012133	Erythroid hypoplasia	17	6	6.88	5.65	0.00013	0.012	10.4	3.12	31.1
+HP:0004590	Hypoplastic sacrum	18	6	6.5	5.44	0.00019	0.016	9.52	2.9	27.8
+HP:0005321	Mandibulofacial dysostosis	19	6	6.16	5.24	0.00026	0.021	8.79	2.7	25.1
+HP:0001895	Normochromic anemia	20	6	5.85	5.06	0.00036	0.028	8.16	2.54	22.9
+HP:0001609	Hoarse voice	66	11	3.25	4.29	0.00043	0.032	3.87	1.79	7.66
+HP:0011904	Persistence of hemoglobin F	22	6	5.32	4.72	0.00063	0.044	7.13	2.26	19.5
+HP:0012379	Abnormal enzyme/coenzyme activity	103	14	2.65	3.95	0.00065	0.044	3.07	1.58	5.57
+HP:0002669	Osteosarcoma	23	6	5.09	4.57	0.00081	0.047	6.71	2.14	18.1
+HP:0012131	Abnormal number of erythroid precursors	23	6	5.09	4.57	0.00081	0.047	6.71	2.14	18.1
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	6	5.09	4.57	0.00081	0.047	6.71	2.14	18.1
+HP:0002697	Parietal foramina	23	6	5.09	4.57	0.00081	0.047	6.71	2.14	18.1

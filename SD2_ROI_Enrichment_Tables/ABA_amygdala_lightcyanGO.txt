@@ -1,0 +1,13 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0262 8 132 3 0.023 0.375 GO:0006265 BP 5 DNA topological change 1 TOP1MT,TOP2B,TOP1
+2 1 TRUE 0.0262 8 132 3 0.023 0.375 GO:0003916 MF 1 DNA topoisomerase activity 1 TOP1MT,TOP2B,TOP1
+3 1 TRUE 0.0267 3 6 1 0.167 0.333 CORUM:1014 cor 2 Pcdhga1-Pcdha4 complex 1 PCDHA4
+4 1 TRUE 0.0267 1 6 1 0.167 1 CORUM:6607 cor 11 Kif7-Sufu homolog 1 SUFU
+5 1 TRUE 0.0267 2 6 1 0.167 0.5 CORUM:3289 cor 10 Ng2-Grip1-Glur2 complex 1 GRIP1
+6 1 TRUE 0.0267 1 6 1 0.167 1 CORUM:6537 cor 3 ANKS3-ANKS6 complex 1 ANKS3
+7 1 TRUE 0.0267 3 6 1 0.167 0.333 CORUM:1017 cor 13 Pcdhga1-Pcdhgb4 complex 1 PCDHA4
+8 1 TRUE 0.0267 3 6 1 0.167 0.333 CORUM:1015 cor 8 Pcdhga1-Pcdhgb2 complex 1 PCDHA4
+9 1 TRUE 0.0267 3 6 1 0.167 0.333 CORUM:1016 cor 6 Pcdhga1-Pcdhga3 complex 1 PCDHA4
+10 1 TRUE 0.0267 3 6 1 0.167 0.333 CORUM:6427 cor 4 Sufu-Mycbp-Gli1 complex 1 SUFU
+11 1 TRUE 0.0394 120 22 6 0.273 0.05 HP:0006711 hp 7 Aplasia/Hypoplasia involving bones of the thorax 1 NFIX,SUFU,BGN,NAA10,GRIP1,FGFR3
+12 1 TRUE 0.0394 63 22 5 0.227 0.079 HP:0009485 hp 9 Radial deviation of the hand or of fingers of the hand 1 WNT5A,BGN,NAA10,PHGDH,FGFR3

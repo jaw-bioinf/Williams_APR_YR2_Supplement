@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0464	3	8	1	0.125	0.333	CORUM:6338	cor	1	NRF2- Axin1-GSK-3beta-TrCP complex	1	GSK3B
+2	1	TRUE	0.0464	2	8	1	0.125	0.5	CORUM:4055	cor	9	Axin-Dvl-Gsk complex	1	GSK3B
+3	1	TRUE	0.0464	3	8	1	0.125	0.333	CORUM:5815	cor	12	Axin1-Dvl1-Gsk3b-Frat1 complex	1	GSK3B
+4	1	TRUE	0.0464	3	8	1	0.125	0.333	CORUM:2360	cor	2	Itgav-Itgb3-Gsn complex	1	GSN
+5	1	TRUE	0.0464	3	8	1	0.125	0.333	CORUM:4056	cor	8	Axin1-Dvl1-Gsk3b-Frat1 complex	1	GSK3B
+6	1	TRUE	0.0464	2	8	1	0.125	0.5	CORUM:6678	cor	11	Cep290-Iqcb1 complex	1	CEP290
+7	1	TRUE	0.0464	3	8	1	0.125	0.333	CORUM:6595	cor	3	Ccp110-Cep290-Rab8a complex	1	CEP290
+8	1	TRUE	0.0464	1	8	1	0.125	1	CORUM:2584	cor	5	c-Src-Muc1 complex	1	CSK
+9	1	TRUE	0.0464	2	8	1	0.125	0.5	CORUM:6105	cor	4	CCT-gelsolin complex	1	GSN
+10	1	TRUE	0.0464	2	8	1	0.125	0.5	CORUM:2583	cor	6	CSK-GAP-A.p62 complex	1	CSK
+11	1	TRUE	0.0205	17	55	3	0.055	0.176	REAC:R-MMU-399956	rea	7	CRMPs in Sema3A signaling	1	GSK3B,DPYSL3,DPYSL4
+12	1	TRUE	0.0205	49	55	4	0.073	0.082	REAC:R-MMU-936837	rea	10	Ion transport by P-type ATPases	1	ATP1A2,ATP10A,FXYD7,ATP13A2

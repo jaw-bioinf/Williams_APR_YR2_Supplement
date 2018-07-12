@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5653656	Vesicle-mediated transport	631	107	1.52	4.78	4.1e-06	0.0026	1.69	1.35	2.11
+R-HSA-199991	Membrane Trafficking	599	102	1.53	4.71	5.8e-06	0.0026	1.7	1.35	2.13
+R-HSA-8856828	Clathrin-mediated endocytosis	140	32	2.05	4.43	5.3e-05	0.016	2.4	1.56	3.61
+R-HSA-392499	Metabolism of proteins	1907	261	1.23	3.9	7.8e-05	0.017	1.34	1.15	1.56
+R-HSA-5696394	DNA Damage Recognition in GG-NER	38	13	3.07	4.52	0.00014	0.021	4.18	1.96	8.51
+R-HSA-111885	Opioid Signalling	74	20	2.42	4.35	0.00012	0.021	2.98	1.69	5.09
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	24	2.15	4.1	2e-04	0.022	2.55	1.53	4.1
+R-HSA-8951664	Neddylation	235	45	1.72	3.94	0.00018	0.022	1.92	1.35	2.69
+R-HSA-936964	Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	18	8	3.98	4.49	0.00037	0.036	6.41	2.19	18.1

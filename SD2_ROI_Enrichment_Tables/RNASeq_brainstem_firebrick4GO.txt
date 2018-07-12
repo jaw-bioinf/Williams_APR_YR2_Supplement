@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0104	3	2	1	0.5	0.333	CORUM:3195	cor	5	G protein complex (Btk, Gng2, Gnb1)	1	BTK
+2	1	TRUE	0.0104	4	2	1	0.5	0.25	CORUM:5703	cor	8	Bash-Bnas2/Cmtm3-Btk-Erk2 complex	1	BTK
+3	1	TRUE	0.0104	3	2	1	0.5	0.333	CORUM:2360	cor	2	Itgav-Itgb3-Gsn complex	1	GSN
+4	1	TRUE	0.0104	4	2	1	0.5	0.25	CORUM:6774	cor	4	Fhl1-Pdlim1-Gsn-Actn1 complex	1	GSN
+5	1	TRUE	0.0104	2	2	1	0.5	0.5	CORUM:6105	cor	1	CCT-gelsolin complex	1	GSN
+6	1	TRUE	0.0375	16	24	2	0.083	0.125	KEGG:00120	keg	7	Primary bile acid biosynthesis	1	HSD17B4,CYP27A1
+7	1	TRUE	0.0375	175	24	4	0.167	0.023	KEGG:05152	keg	3	Tuberculosis	1	H2-OA,BCL10,CTSS,FCGR3
+8	1	TRUE	0.0375	71	24	3	0.125	0.042	KEGG:04662	keg	6	B cell receptor signaling pathway	1	DAPP1,BCL10,BTK

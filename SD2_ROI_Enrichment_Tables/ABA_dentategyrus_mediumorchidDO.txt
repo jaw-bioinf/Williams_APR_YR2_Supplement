@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:784	chronic kidney disease	43	3	30.5	9.29	0.00011	0.0047	39.9	7.03	154
+DOID:10825	essential hypertension	116	3	11.3	5.36	0.0021	0.043	14	2.53	51.9
+DOID:1074	kidney failure	138	3	9.51	4.83	0.0035	0.048	11.7	2.11	43.2

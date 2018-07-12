@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112315	Transmission across Chemical Synapses	224	4	10.5	5.94	0.00046	0.0092	13.7	3.22	44.7
+R-HSA-112316	Neuronal System	356	4	6.62	4.45	0.0026	0.026	8.43	1.99	27.5
+R-HSA-76002	Platelet activation, signaling and aggregation	271	3	6.52	3.8	0.01	0.048	7.78	1.42	28.1
+R-HSA-1474244	Extracellular matrix organization	278	3	6.36	3.73	0.011	0.048	7.57	1.39	27.4
+R-HSA-69620	Cell Cycle Checkpoints	292	3	6.05	3.61	0.012	0.048	7.19	1.32	26
+R-HSA-195258	RHO GTPase Effectors	313	3	5.65	3.44	0.015	0.048	6.69	1.23	24.2
+R-HSA-1640170	Cell Cycle	607	4	3.88	3.02	0.017	0.048	4.79	1.13	15.6

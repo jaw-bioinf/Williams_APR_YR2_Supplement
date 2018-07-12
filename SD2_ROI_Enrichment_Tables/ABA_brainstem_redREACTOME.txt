@@ -1,0 +1,103 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	39	2.59	6.44	3.5e-08	6.8e-06	3.01	2.06	4.3
+R-HSA-8953854	Metabolism of RNA	646	41	2.52	6.43	3e-08	6.8e-06	2.94	2.03	4.17
+R-HSA-5663205	Infectious disease	326	26	3.17	6.4	1.8e-07	1.8e-05	3.63	2.28	5.56
+R-HSA-5653656	Vesicle-mediated transport	631	39	2.46	6.07	1.4e-07	1.8e-05	2.84	1.94	4.05
+R-HSA-8856828	Clathrin-mediated endocytosis	140	14	3.97	5.69	1.1e-05	0.00086	4.5	2.35	7.98
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	17	2.78	4.51	0.00013	0.0088	3.05	1.72	5.1
+R-HSA-162906	HIV Infection	184	14	3.02	4.45	0.00022	0.012	3.32	1.75	5.83
+R-HSA-5682910	LGI-ADAM interactions	14	4	11.4	6.23	0.00032	0.014	15.7	3.57	54.9
+R-HSA-72766	Translation	258	17	2.62	4.23	0.00028	0.014	2.86	1.61	4.77
+R-HSA-109606	Intrinsic Pathway for Apoptosis	40	6	5.96	5.05	0.00045	0.015	6.97	2.37	17
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	10	3.58	4.39	0.00047	0.015	3.95	1.82	7.7
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	10	3.55	4.36	0.00051	0.015	3.91	1.8	7.61
+R-HSA-168254	Influenza Infection	154	12	3.1	4.21	5e-04	0.015	3.39	1.69	6.21
+R-HSA-174084	Autodegradation of Cdh1 by Cdh1:APC/C	63	7	4.41	4.37	0.00098	0.017	4.95	1.88	11
+R-HSA-176408	Regulation of APC/C activators between G1/S and early anaphase	80	8	3.97	4.29	0.00087	0.017	4.41	1.81	9.3
+R-HSA-72613	Eukaryotic Translation Initiation	119	10	3.34	4.12	0.00082	0.017	3.66	1.68	7.1
+R-HSA-72689	Formation of a pool of free 40S subunits	101	9	3.54	4.12	0.00098	0.017	3.89	1.7	7.84
+R-HSA-72737	Cap-dependent Translation Initiation	119	10	3.34	4.12	0.00082	0.017	3.66	1.68	7.1
+R-HSA-72163	mRNA Splicing - Major Pathway	183	13	2.82	4	0.00072	0.017	3.07	1.58	5.49
+R-HSA-168255	Influenza Life Cycle	143	11	3.06	3.98	0.00095	0.017	3.33	1.6	6.26
+R-HSA-195721	Signaling by WNT	314	18	2.28	3.7	0.00097	0.017	2.46	1.41	4.04
+R-HSA-68886	M Phase	391	21	2.13	3.68	0.00086	0.017	2.31	1.38	3.66
+R-HSA-2132295	MHC class II antigen presentation	124	10	3.2	3.97	0.0011	0.018	3.5	1.61	6.78
+R-HSA-72172	mRNA Splicing	191	13	2.7	3.82	0.0011	0.018	2.93	1.51	5.23
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	67	7	4.15	4.16	0.0014	0.021	4.62	1.76	10.3
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	8	3.7	4.03	0.0014	0.021	4.07	1.68	8.55
+R-HSA-453276	Regulation of mitotic cell cycle	86	8	3.7	4.03	0.0014	0.021	4.07	1.68	8.55
+R-HSA-8948751	Regulation of PTEN stability and activity	69	7	4.03	4.06	0.0017	0.022	4.47	1.71	9.9
+R-HSA-109581	Apoptosis	108	9	3.31	3.88	0.0016	0.022	3.61	1.59	7.26
+R-HSA-194315	Signaling by Rho GTPases	441	22	1.98	3.39	0.0017	0.022	2.13	1.3	3.35
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	10	2.99	3.71	0.0019	0.023	3.24	1.5	6.26
+R-HSA-69278	Cell Cycle, Mitotic	531	25	1.87	3.31	0.0019	0.023	2.01	1.26	3.09
+R-HSA-177504	Retrograde neurotrophin signalling	11	3	10.8	5.24	0.0022	0.024	14.7	2.49	61.6
+R-HSA-196025	Formation of annular gap junctions	11	3	10.8	5.24	0.0022	0.024	14.7	2.49	61.6
+R-HSA-112308	Presynaptic depolarization and calcium channel opening	12	3	9.93	4.98	0.0029	0.024	13	2.26	52.7
+R-HSA-190873	Gap junction degradation	12	3	9.93	4.98	0.0029	0.024	13	2.26	52.7
+R-HSA-8866427	VLDLR internalisation and degradation	12	3	9.93	4.98	0.0029	0.024	13	2.26	52.7
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	72	7	3.86	3.92	0.0022	0.024	4.26	1.63	9.42
+R-HSA-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	72	7	3.86	3.92	0.0022	0.024	4.26	1.63	9.42
+R-HSA-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	73	7	3.81	3.87	0.0023	0.024	4.2	1.61	9.27
+R-HSA-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	75	7	3.71	3.78	0.0027	0.024	4.07	1.56	8.98
+R-HSA-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	76	7	3.66	3.74	0.0029	0.024	4.01	1.54	8.84
+R-HSA-373760	L1CAM interactions	76	7	3.66	3.74	0.0029	0.024	4.01	1.54	8.84
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	8	3.35	3.69	0.0027	0.024	3.64	1.51	7.62
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	10	2.97	3.68	0.002	0.024	3.21	1.48	6.21
+R-HSA-5357801	Programmed Cell Death	115	9	3.11	3.66	0.0024	0.024	3.37	1.48	6.75
+R-HSA-5689603	UCH proteinases	97	8	3.28	3.62	0.003	0.024	3.56	1.48	7.44
+R-HSA-6807070	PTEN Regulation	140	10	2.84	3.52	0.0028	0.024	3.06	1.42	5.91
+R-HSA-1640170	Cell Cycle	607	27	1.77	3.13	0.0028	0.024	1.9	1.21	2.87
+R-HSA-2467813	Separation of Sister Chromatids	191	12	2.5	3.35	0.0032	0.025	2.68	1.34	4.88
+R-HSA-5140745	WNT5A-dependent internalization of FZD2, FZD5 and ROR2	13	3	9.17	4.74	0.0037	0.028	11.7	2.06	45.9
+R-HSA-2871837	FCERI mediated NF-kB activation	79	7	3.52	3.61	0.0037	0.028	3.84	1.48	8.45
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	8	3.18	3.52	0.0036	0.028	3.45	1.43	7.18
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	81	7	3.43	3.53	0.0042	0.03	3.74	1.44	8.21
+R-HSA-453274	Mitotic G2-G2/M phases	197	12	2.42	3.24	0.0041	0.03	2.59	1.29	4.71
+R-HSA-174490	Membrane binding and targetting of GAG proteins	14	3	8.51	4.52	0.0047	0.031	10.7	1.9	40.7
+R-HSA-174495	Synthesis And Processing Of GAG, GAGPOL Polyproteins	14	3	8.51	4.52	0.0047	0.031	10.7	1.9	40.7
+R-HSA-69202	Cyclin E associated events during G1/S transition 	82	7	3.39	3.49	0.0045	0.031	3.69	1.42	8.1
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	12	2.38	3.18	0.0046	0.031	2.55	1.27	4.64
+R-HSA-162909	Host Interactions of HIV factors	128	9	2.79	3.28	0.005	0.032	3	1.32	5.98
+R-HSA-68882	Mitotic Anaphase	202	12	2.36	3.14	0.005	0.032	2.52	1.26	4.58
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	12	2.35	3.12	0.0052	0.032	2.51	1.25	4.56
+R-HSA-3700989	Transcriptional Regulation by TP53	365	18	1.96	3	0.005	0.032	2.09	1.2	3.42
+R-HSA-2262752	Cellular responses to stress	425	20	1.87	2.94	0.0053	0.032	1.99	1.18	3.19
+R-HSA-5099900	WNT5A-dependent internalization of FZD4	15	3	7.95	4.33	0.0057	0.033	9.78	1.76	36.6
+R-HSA-162588	Budding and maturation of HIV virion	29	4	5.48	3.88	0.0057	0.033	6.28	1.58	18.4
+R-HSA-5205647	Mitophagy	29	4	5.48	3.88	0.0057	0.033	6.28	1.58	18.4
+R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	86	7	3.23	3.34	0.0058	0.033	3.5	1.35	7.66
+R-HSA-195258	RHO GTPase Effectors	313	16	2.03	2.98	0.0057	0.033	2.16	1.2	3.64
+R-HSA-1169091	Activation of NF-kappaB in B cells	66	6	3.61	3.42	0.0062	0.035	3.94	1.38	9.22
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	11	2.4	3.07	0.0063	0.035	2.56	1.24	4.78
+R-HSA-175474	Assembly Of The HIV Virion	16	3	7.45	4.15	0.0069	0.036	9.03	1.64	33.1
+R-HSA-399719	Trafficking of AMPA receptors	31	4	5.13	3.7	0.0072	0.036	5.81	1.47	16.9
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	4	5.13	3.7	0.0072	0.036	5.81	1.47	16.9
+R-HSA-162599	Late Phase of HIV Life Cycle	88	7	3.16	3.27	0.0066	0.036	3.41	1.32	7.47
+R-HSA-192823	Viral mRNA Translation	89	7	3.13	3.24	0.007	0.036	3.37	1.3	7.37
+R-HSA-4086400	PCP/CE pathway	89	7	3.13	3.24	0.007	0.036	3.37	1.3	7.37
+R-HSA-69618	Mitotic Spindle Checkpoint	112	8	2.84	3.14	0.0072	0.036	3.04	1.27	6.32
+R-HSA-392499	Metabolism of proteins	1907	64	1.33	2.6	0.0072	0.036	1.46	1.08	1.96
+R-HSA-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	32	4	4.97	3.61	0.0081	0.04	5.61	1.42	16.2
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	8	2.76	3.06	0.0084	0.04	2.96	1.23	6.13
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	8	2.76	3.06	0.0084	0.04	2.96	1.23	6.13
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	7	2.99	3.1	0.0089	0.041	3.21	1.24	7.01
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	11	2.29	2.89	0.0089	0.041	2.43	1.18	4.53
+R-HSA-8964038	LDL clearance	18	3	6.62	3.84	0.0097	0.044	7.82	1.44	27.9
+R-HSA-180534	Vpu mediated degradation of CD4	52	5	3.82	3.28	0.0096	0.044	4.18	1.29	10.6
+R-HSA-69275	G2/M Transition	195	11	2.24	2.81	0.01	0.046	2.38	1.15	4.43
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	7	2.9	3	0.01	0.047	3.1	1.2	6.76
+R-HSA-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	19	3	6.27	3.7	0.011	0.048	7.33	1.36	25.9
+R-HSA-176412	Phosphorylation of the APC/C	19	3	6.27	3.7	0.011	0.048	7.33	1.36	25.9
+R-HSA-71403	Citric acid cycle (TCA cycle)	19	3	6.27	3.7	0.011	0.048	7.33	1.36	25.9
+R-HSA-8854050	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	54	5	3.68	3.17	0.011	0.048	4.01	1.24	10.1
+R-HSA-201681	TCF dependent signaling in response to WNT	224	12	2.13	2.74	0.011	0.048	2.25	1.13	4.09
+R-HSA-202424	Downstream TCR signaling	98	7	2.84	2.94	0.012	0.049	3.04	1.17	6.61
+R-HSA-166520	Signalling by NGF	147	9	2.43	2.81	0.012	0.049	2.58	1.14	5.13
+R-HSA-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	20	3	5.96	3.57	0.013	0.05	6.9	1.29	24.1
+R-HSA-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	20	3	5.96	3.57	0.013	0.05	6.9	1.29	24.1
+R-HSA-174113	SCF-beta-TrCP mediated degradation of Emi1	55	5	3.61	3.12	0.012	0.05	3.93	1.21	9.92
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	56	5	3.55	3.07	0.013	0.05	3.85	1.19	9.71
+R-HSA-69206	G1/S Transition	124	8	2.56	2.81	0.013	0.05	2.73	1.14	5.64
+R-HSA-72312	rRNA processing	201	11	2.17	2.7	0.013	0.05	2.3	1.11	4.28
+R-HSA-8953897	Cellular responses to external stimuli	493	21	1.69	2.53	0.013	0.05	1.79	1.08	2.83

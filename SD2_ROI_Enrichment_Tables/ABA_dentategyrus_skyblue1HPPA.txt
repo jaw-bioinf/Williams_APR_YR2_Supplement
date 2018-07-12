@@ -1,0 +1,57 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003128	Lactic acidosis	168	8	11.9	9.19	5.5e-08	1.1e-05	27.7	8.32	98.2
+HP:0002151	Increased serum lactate	131	7	13.4	9.15	2.4e-07	2.5e-05	27.1	7.98	92.2
+HP:0001941	Acidosis	277	8	7.24	6.85	2.7e-06	0.00019	16	4.82	56.2
+HP:0004360	Abnormality of acid-base homeostasis	296	8	6.78	6.57	4.5e-06	0.00023	14.8	4.48	52.2
+HP:0001404	Hepatocellular necrosis	43	4	23.3	9.32	1.8e-05	0.00072	35.2	7.73	129
+HP:0002605	Hepatic necrosis	47	4	21.3	8.88	2.6e-05	0.00072	31.9	7.03	116
+HP:0002311	Incoordination	377	8	5.32	5.62	2.8e-05	0.00072	11.3	3.41	39.7
+HP:0011443	Abnormality of coordination	663	10	3.78	5.03	2.6e-05	0.00072	10.9	3.12	47.7
+HP:0002878	Respiratory failure	111	5	11.3	6.97	4.6e-05	0.00091	17.7	4.58	60
+HP:0000712	Emotional lability	111	5	11.3	6.97	4.6e-05	0.00091	17.7	4.58	60
+HP:0001251	Ataxia	546	9	4.13	5.04	4.8e-05	0.00091	9.91	2.97	37.8
+HP:0001347	Hyperreflexia	560	9	4.03	4.95	5.9e-05	0.001	9.61	2.88	36.6
+HP:0030085	Abnormal CSF lactate level	69	4	14.5	7.18	0.00012	0.0015	21	4.69	75.4
+HP:0002490	Increased CSF lactate	69	4	14.5	7.18	0.00012	0.0015	21	4.69	75.4
+HP:0000602	Ophthalmoplegia	132	5	9.5	6.3	0.00011	0.0015	14.7	3.81	49.7
+HP:0001332	Dystonia	318	7	5.52	5.35	9.2e-05	0.0015	10.2	3.04	34.4
+HP:0002104	Apnea	231	6	6.51	5.48	0.00015	0.0017	10.9	3.08	36.1
+HP:0001276	Hypertonia	626	9	3.6	4.55	0.00015	0.0017	8.39	2.52	32
+HP:0007305	CNS demyelination	78	4	12.9	6.7	0.00019	0.0019	18.4	4.13	65.7
+HP:0100851	Abnormal emotion/affect behavior	484	8	4.14	4.71	0.00017	0.0019	8.45	2.56	29.7
+HP:0001257	Spasticity	491	8	4.08	4.66	0.00019	0.0019	8.31	2.52	29.2
+HP:0003808	Abnormal muscle tone	1269	12	2.37	3.87	2e-04	0.0019	10.7	2.37	98.4
+HP:0000998	Hypertrichosis	291	6	5.17	4.7	0.00052	0.0045	8.44	2.4	28
+HP:0002493	Upper motor neuron dysfunction	918	10	2.73	3.86	5e-04	0.0045	7.12	2.05	31.2
+HP:0002793	Abnormal pattern of respiration	297	6	5.06	4.63	0.00058	0.0049	8.25	2.34	27.3
+HP:0002171	Gliosis	120	4	8.36	5.19	0.001	0.008	11.6	2.62	41.1
+HP:0000580	Pigmentary retinopathy	340	6	4.42	4.2	0.0012	0.009	7.09	2.02	23.5
+HP:0011442	Abnormality of central motor function	1241	11	2.22	3.39	0.0012	0.009	6.75	1.78	37.8
+HP:0000597	Ophthalmoparesis	233	5	5.38	4.38	0.0015	0.01	7.95	2.08	26.7
+HP:0003011	Abnormality of the musculature	1823	13	1.79	3.07	0.0014	0.01	12.1	1.81	514
+HP:0001252	Muscular hypotonia	1058	10	2.37	3.37	0.0017	0.011	5.84	1.68	25.6
+HP:0100705	Abnormality of the glial cells	144	4	6.96	4.62	0.002	0.012	9.57	2.16	33.7
+HP:0011804	Abnormality of muscle physiology	1558	12	1.93	3.12	0.0018	0.012	7.56	1.68	69.8
+HP:0002921	Abnormality of the cerebrospinal fluid	381	6	3.95	3.86	0.0022	0.013	6.24	1.77	20.6
+HP:0001317	Abnormality of the cerebellum	874	9	2.58	3.41	0.002	0.013	5.47	1.64	20.8
+HP:0011282	Abnormality of hindbrain morphology	889	9	2.54	3.36	0.0023	0.013	5.35	1.6	20.4
+HP:0011283	Abnormality of the metencephalon	889	9	2.54	3.36	0.0023	0.013	5.35	1.6	20.4
+HP:0001508	Failure to thrive	574	7	3.06	3.41	0.0036	0.019	5.16	1.54	17.3
+HP:0002012	Abnormality of the abdominal organs	943	9	2.39	3.16	0.0036	0.019	4.93	1.48	18.8
+HP:0100022	Abnormality of movement	1159	10	2.16	3.06	0.0037	0.019	5.1	1.47	22.3
+HP:0001627	Abnormal heart morphology	955	9	2.36	3.12	0.004	0.02	4.85	1.46	18.5
+HP:0007703	Abnormality of retinal pigmentation	433	6	3.47	3.48	0.0043	0.021	5.39	1.53	17.8
+HP:0000639	Nystagmus	771	8	2.6	3.19	0.0044	0.021	4.77	1.45	16.7
+HP:0011400	Abnormal CNS myelination	184	4	5.45	3.92	0.0048	0.022	7.36	1.67	25.8
+HP:0012547	Abnormal involuntary eye movements	779	8	2.57	3.15	0.0047	0.022	4.71	1.43	16.5
+HP:0001392	Abnormality of the liver	787	8	2.55	3.12	0.005	0.023	4.65	1.41	16.3
+HP:0000708	Behavioral abnormality	997	9	2.26	2.98	0.0055	0.024	4.57	1.37	17.4
+HP:0003287	Abnormality of mitochondrial metabolism	99	3	7.6	4.21	0.0063	0.027	9.64	1.7	37.3
+HP:0030680	Abnormality of cardiovascular system morphology	1052	9	2.14	2.81	0.0081	0.034	4.23	1.27	16.1
+HP:0003546	Exercise intolerance	112	3	6.72	3.89	0.0089	0.036	8.46	1.49	32.6
+HP:0002093	Respiratory insufficiency	501	6	3	3.06	0.0089	0.036	4.54	1.29	15
+HP:0012103	Abnormality of the mitochondrion	113	3	6.66	3.87	0.0091	0.037	8.38	1.48	32.3
+HP:0002795	Functional respiratory abnormality	889	8	2.26	2.74	0.011	0.043	3.96	1.2	13.9
+HP:0001260	Dysarthria	373	5	3.36	3.05	0.012	0.044	4.72	1.24	15.8
+HP:0001939	Abnormality of metabolism/homeostasis	1857	12	1.62	2.46	0.011	0.044	5.37	1.19	49.4
+HP:0003487	Babinski sign	239	4	4.2	3.24	0.012	0.045	5.54	1.26	19.4

@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-177929	Signaling by EGFR	40	3	14.7	6.22	0.0011	0.039	16.8	3.19	55.8
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	4	7.85	4.93	0.0016	0.039	8.74	2.24	24.6
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	5.36	4.26	0.0023	0.039	5.97	1.83	15.2
+R-HSA-72172	mRNA Splicing	191	5	5.14	4.13	0.0028	0.039	5.71	1.75	14.5
+R-HSA-5654738	Signaling by FGFR2	73	3	8.07	4.34	0.006	0.049	8.83	1.72	28.5
+R-HSA-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta	76	3	7.75	4.23	0.0067	0.049	8.46	1.65	27.2
+R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	80	3	7.36	4.09	0.0078	0.049	8.02	1.56	25.7
+R-HSA-8856828	Clathrin-mediated endocytosis	140	4	5.61	3.93	0.0055	0.049	6.15	1.59	17.2
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	5	4.04	3.43	0.0076	0.049	4.44	1.36	11.3

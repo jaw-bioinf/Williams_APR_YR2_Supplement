@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0388	7	956	5	0.005	0.714	GO:0045630	BP	2	positive regulation of T-helper 2 cell differentiation	1	IL6,PRKCZ,IL4RA,NLRP3,IL18

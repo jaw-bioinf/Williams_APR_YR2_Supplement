@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005121	decreased circulating prolactin level	16	3	27.2	8.74	0.00016	0.034	34.7	6.19	130
+MP:0003962	abnormal adrenaline level	34	4	17.1	7.82	8.2e-05	0.034	20.4	5.06	60.5
+MP:0011168	abnormal fat cell differentiation	22	3	19.8	7.35	0.00044	0.034	23.7	4.39	83.8
+MP:0005138	decreased prolactin level	23	3	18.9	7.17	5e-04	0.034	22.6	4.19	78.9
+MP:0010019	liver vascular congestion	27	3	16.1	6.55	0.00081	0.034	18.8	3.53	64.4
+MP:0003363	decreased circulating gonadotropin level	60	4	9.67	5.61	0.00075	0.034	10.9	2.78	30.9
+MP:0005118	decreased circulating pituitary hormone level	100	5	7.25	5.24	0.00061	0.034	8.13	2.49	20.7
+MP:0005116	abnormal circulating pituitary hormone level	182	7	5.58	5.2	0.00024	0.034	6.34	2.41	14.2
+MP:0003361	abnormal circulating gonadotropin level	107	5	6.77	5.01	0.00082	0.034	7.57	2.32	19.2
+MP:0011479	abnormal catecholamine level	151	6	5.76	4.92	0.00058	0.034	6.47	2.24	15.3
+MP:0003965	abnormal pituitary hormone level	217	7	4.68	4.57	7e-04	0.034	5.26	2	11.8
+MP:0003968	abnormal growth hormone level	64	4	9.06	5.39	0.00096	0.036	10.2	2.6	28.7
+MP:0003970	abnormal prolactin level	32	3	13.6	5.95	0.0013	0.044	15.6	2.95	52.2
+MP:0003972	decreased pituitary hormone level	119	5	6.09	4.66	0.0013	0.044	6.76	2.08	17.1

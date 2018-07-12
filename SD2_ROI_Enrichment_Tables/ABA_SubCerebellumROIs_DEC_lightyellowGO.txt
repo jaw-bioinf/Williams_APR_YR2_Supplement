@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0136	3	3	1	0.333	0.333	CORUM:1151	cor	5	Sycp1-Syce1-Syce2 complex	1	SYCE1
+2	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:1310	cor	7	Rab27a-Mlph-Myo5a complex	1	RAB27A
+3	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:3741	cor	6	Slp5-Rab27A complex	1	RAB27A
+4	1	TRUE	0.0375	10	3	1	0.333	0.1	CORUM:495	cor	4	Cytochrome bc1-complex, mitochondrial	1	UQCR10
+5	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:966	cor	2	Rab27a-Mlph-Myo5a complex	1	RAB27A
+6	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:3116	cor	3	Rab27a-Mlph-Myo5a complex	1	RAB27A

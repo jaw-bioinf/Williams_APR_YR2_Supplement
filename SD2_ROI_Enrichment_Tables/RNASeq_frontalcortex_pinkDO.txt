@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:10595	Charcot-Marie-Tooth disease	31	7	10.2	7.72	3.8e-06	0.00084	13.4	4.81	32.8
+DOID:440	neuromuscular disease	76	9	5.35	5.74	4.1e-05	0.003	6.23	2.68	12.9
+DOID:574	peripheral nervous system disease	247	17	3.11	5.08	2.9e-05	0.003	3.54	1.97	6
+DOID:5419	schizophrenia	635	29	2.06	4.23	0.00012	0.0054	2.37	1.51	3.61
+DOID:2468	psychotic disorder	637	29	2.06	4.21	0.00012	0.0054	2.36	1.51	3.59
+DOID:870	neuropathy	218	14	2.9	4.29	0.00031	0.011	3.23	1.69	5.73
+DOID:2476	hereditary spastic paraplegia	18	4	10	5.78	0.00056	0.017	12.9	3.06	41.8
+DOID:1561	cognitive disorder	812	32	1.78	3.56	0.00074	0.02	2.02	1.32	3.03
+DOID:607	paraplegia	24	4	7.53	4.82	0.0017	0.042	9.03	2.22	27.4

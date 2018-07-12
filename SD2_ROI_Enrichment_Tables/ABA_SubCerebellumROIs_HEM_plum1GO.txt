@@ -1,0 +1,38 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0117	12	22	3	0.136	0.25	HP:0000034	hp	25	Hydrocele testis	1	AKT1,PTEN,FLT4
+2	1	TRUE	0.033	7	22	2	0.091	0.286	HP:0010497	hp	18	Sirenomelia	1	AKT1,PTEN
+3	1	TRUE	0.0293	6	22	2	0.091	0.333	HP:0007899	hp	19	Retinal nonattachment	1	AKT1,PTEN
+4	1	TRUE	0.0117	2	22	2	0.091	1	HP:0010516	hp	6	Thymus hyperplasia	1	AKT1,PTEN
+5	1	TRUE	0.0293	6	22	2	0.091	0.333	HP:0004418	hp	27	Thrombophlebitis	1	AKT1,PTEN
+6	1	TRUE	0.0442	9	22	2	0.091	0.222	HP:0002680	hp	9	J-shaped sella turcica	1	GUSB,IDUA
+7	1	TRUE	0.0442	9	22	2	0.091	0.222	HP:0100780	hp	17	Conjunctival hamartoma	1	AKT1,PTEN
+8	1	TRUE	0.0293	6	22	2	0.091	0.333	HP:0001140	hp	13	Epibulbar dermoid	1	AKT1,PTEN
+9	1	TRUE	0.0257	5	22	2	0.091	0.4	HP:0010619	hp	30	Fibroadenoma of the breast	1	AKT1,PTEN
+10	1	TRUE	0.0442	9	22	2	0.091	0.222	HP:0001031	hp	14	Subcutaneous lipoma	1	AKT1,PTEN
+11	1	TRUE	0.033	7	22	2	0.091	0.286	HP:0004099	hp	22	Macrodactyly	1	AKT1,PTEN
+12	1	TRUE	0.033	7	22	2	0.091	0.286	HP:0007552	hp	11	Abnormal subcutaneous fat tissue distribution	1	AKT1,PTEN
+13	1	TRUE	0.033	7	22	2	0.091	0.286	HP:0100521	hp	26	Neoplasm of the thymus	1	AKT1,PTEN
+14	1	TRUE	0.0492	10	22	2	0.091	0.2	HP:0000854	hp	28	Thyroid adenoma	1	AKT1,PTEN
+15	1	TRUE	0.0201	47	22	4	0.182	0.085	HP:0100774	hp	10	Hyperostosis	1	AKT1,PTEN,IDUA,HNRNPA1
+16	1	TRUE	0.0162	41	22	4	0.182	0.098	HP:0004437	hp	10	Cranial hyperostosis	2	AKT1,PTEN,IDUA,HNRNPA1
+17	1	TRUE	0.000136	9	22	4	0.182	0.444	HP:0004490	hp	10	Calvarial hyperostosis	3	AKT1,PTEN,IDUA,HNRNPA1
+18	1	TRUE	0.0206	4	22	2	0.091	0.5	HP:0100730	hp	15	Bronchogenic cyst	1	AKT1,PTEN
+19	1	TRUE	0.0257	23	22	3	0.136	0.13	HP:0100743	hp	4	Neoplasm of the rectum	1	AKT1,PTEN,EPCAM
+20	1	TRUE	0.0442	9	22	2	0.091	0.222	HP:0200063	hp	4	Colorectal polyposis	2	AKT1,PTEN
+21	1	TRUE	0.0201	19	22	3	0.136	0.158	HP:0200064	hp	8	Asymmetry of iris pigmentation	1	AKT1,PTEN,CHN1
+22	1	TRUE	0.0201	19	22	3	0.136	0.158	HP:0001100	hp	8	Heterochromia iridis	2	AKT1,PTEN,CHN1
+23	1	TRUE	0.00217	6	22	3	0.136	0.5	HP:0007818	hp	8	Central heterochromia	3	AKT1,PTEN,CHN1
+24	1	TRUE	0.033	7	22	2	0.091	0.286	HP:0001102	hp	3	Angioid streaks of the fundus	1	AKT1,PTEN
+25	1	TRUE	0.0257	5	22	2	0.091	0.4	HP:0010816	hp	29	Epidermal nevus	1	AKT1,PTEN
+26	1	TRUE	0.0492	10	22	2	0.091	0.2	HP:0003715	hp	20	Myofibrillar myopathy	1	AKT1,PTEN
+27	1	TRUE	0.0464	38	22	3	0.136	0.079	HP:0000567	hp	21	Chorioretinal coloboma	1	AKT1,PTEN,CHN1
+28	1	TRUE	0.0442	9	22	2	0.091	0.222	HP:0100560	hp	7	Upper limb asymmetry	1	AKT1,PTEN
+29	1	TRUE	0.0442	37	22	3	0.136	0.081	HP:0030186	hp	5	Kinetic tremor	1	AKT1,PTEN,ITM2B
+30	1	TRUE	0.0433	34	22	3	0.136	0.088	HP:0002080	hp	5	Intention tremor	2	AKT1,PTEN,ITM2B
+31	1	TRUE	0.0293	6	22	2	0.091	0.333	HP:0001555	hp	1	Asymmetry of the thorax	1	AKT1,PTEN
+32	1	TRUE	0.0257	5	22	2	0.091	0.4	HP:0012871	hp	23	Varicocele	1	AKT1,PTEN
+33	1	TRUE	0.0442	9	22	2	0.091	0.222	HP:0100764	hp	2	Lymphangioma	1	AKT1,PTEN
+34	1	TRUE	0.0206	51	22	4	0.182	0.078	HP:0001004	hp	24	Lymphedema	1	AKT1,PTEN,FLT4,GUSB
+35	1	TRUE	0.0201	19	22	3	0.136	0.158	HP:0011384	hp	16	Abnormality of the internal auditory canal	1	AKT1,PTEN,CHN1
+36	1	TRUE	0.0154	14	22	3	0.136	0.214	HP:0011386	hp	16	Narrow internal auditory canal	2	AKT1,PTEN,CHN1
+37	1	TRUE	0.0293	26	22	3	0.136	0.115	HP:0005306	hp	12	Capillary hemangiomas	1	AKT1,PTEN,FLT4

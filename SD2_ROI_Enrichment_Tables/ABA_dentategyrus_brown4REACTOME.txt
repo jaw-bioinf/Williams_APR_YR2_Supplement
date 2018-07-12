@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	3	15.8	6.48	0.00087	0.017	18.1	3.44	60.6
+R-HSA-9006925	Intracellular signaling by second messengers	282	7	4.97	4.79	0.00046	0.017	5.73	2.16	13
+R-HSA-1257604	PIP3 activates AKT signaling	254	6	4.73	4.27	0.0016	0.02	5.34	1.84	12.7
+R-HSA-186797	Signaling by PDGF	58	3	10.4	5.06	0.003	0.027	11.5	2.22	37.4
+R-HSA-8943724	Regulation of PTEN gene transcription	61	3	9.85	4.91	0.0034	0.027	10.9	2.11	35.4
+R-HSA-6807070	PTEN Regulation	140	4	5.72	3.99	0.0051	0.033	6.28	1.62	17.6

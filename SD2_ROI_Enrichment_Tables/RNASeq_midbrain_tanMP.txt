@@ -1,0 +1,32 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004046	abnormal mitosis	141	15	6.06	8.09	2.2e-08	2.1e-05	7.23	3.83	12.8
+MP:0004028	chromosome breakage	70	10	8.13	8.01	3.4e-07	0.00016	9.86	4.41	19.9
+MP:0008866	chromosomal instability	112	12	6.1	7.26	5.6e-07	0.00016	7.16	3.5	13.4
+MP:0010094	abnormal chromosome stability	114	12	5.99	7.17	6.8e-07	0.00016	7.02	3.44	13.2
+MP:0003077	abnormal cell cycle	301	19	3.59	6.12	1.3e-06	0.00024	4.13	2.38	6.81
+MP:0008943	increased sensitivity to induced cell death	176	14	4.53	6.32	2.4e-06	0.00038	5.19	2.71	9.24
+MP:0008762	embryonic lethality	1763	55	1.78	4.84	4.9e-06	0.00066	2.21	1.56	3.1
+MP:0008058	abnormal DNA repair	112	10	5.08	5.81	2.6e-05	0.0031	5.77	2.64	11.3
+MP:0004030	induced chromosome breakage	23	5	12.4	7.3	4.1e-05	0.0039	16	4.58	45.4
+MP:0003702	abnormal chromosome morphology	73	8	6.24	6.01	3.9e-05	0.0039	7.18	2.93	15.4
+MP:0000350	abnormal cell proliferation	966	34	2	4.41	5.4e-05	0.0047	2.31	1.53	3.42
+MP:0004024	aneuploidy	59	7	6.75	5.93	7.2e-05	0.0057	7.82	2.95	17.6
+MP:0004227	increased cellular sensitivity to ionizing radiation	81	8	5.62	5.59	8.3e-05	0.006	6.39	2.61	13.6
+MP:0000352	decreased cell proliferation	515	22	2.43	4.47	9.2e-05	0.0063	2.73	1.64	4.34
+MP:0008942	abnormal induced cell death	250	14	3.19	4.69	0.00012	0.0079	3.53	1.86	6.24
+MP:0004196	abnormal prenatal growth/weight/body size	1147	37	1.84	4.05	0.00015	0.0089	2.12	1.42	3.1
+MP:0004760	increased mitotic index	18	4	12.7	6.62	0.00023	0.012	16.3	3.87	52.7
+MP:0003111	abnormal cell nucleus morphology	172	11	3.64	4.67	0.00022	0.012	4.02	1.93	7.6
+MP:0004023	abnormal chromosome number	78	7	5.11	4.87	0.00042	0.02	5.71	2.18	12.7
+MP:0011092	embryonic lethality, complete penetrance	420	18	2.44	4.04	4e-04	0.02	2.69	1.53	4.46
+MP:0010866	abnormal prenatal body size	862	29	1.92	3.77	0.00045	0.02	2.15	1.38	3.26
+MP:0004197	abnormal fetal growth/weight/body size	287	14	2.78	4.09	0.00052	0.022	3.04	1.6	5.36
+MP:0004647	decreased lumbar vertebrae number	83	7	4.8	4.65	0.00061	0.025	5.34	2.04	11.8
+MP:0004045	abnormal cell cycle checkpoint function	63	6	5.42	4.71	8e-04	0.031	6.07	2.11	14.3
+MP:0006207	embryonic lethality during organogenesis	942	30	1.81	3.52	0.00089	0.032	2.03	1.31	3.05
+MP:0005380	embryo phenotype	1722	47	1.55	3.4	0.00084	0.032	1.8	1.25	2.56
+MP:0010101	increased sacral vertebrae number	69	6	4.95	4.4	0.0013	0.044	5.49	1.91	12.9
+MP:0011108	embryonic lethality during organogenesis, incomplete penetrance	315	14	2.53	3.69	0.0013	0.044	2.75	1.45	4.84
+MP:0003992	increased mortality induced by ionizing radiation	48	5	5.93	4.58	0.0015	0.046	6.67	2.04	17.1
+MP:0004200	decreased fetal size	216	11	2.9	3.78	0.0015	0.046	3.15	1.51	5.91
+MP:0001672	abnormal embryo development	1018	31	1.73	3.32	0.0015	0.046	1.93	1.26	2.9

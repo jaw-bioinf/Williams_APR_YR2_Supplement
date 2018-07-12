@@ -1,0 +1,43 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-168256	Immune System	1970	61	1.94	5.92	3.9e-08	5.9e-06	2.56	1.82	3.58
+R-HSA-168249	Innate Immune System	1035	34	2.06	4.57	3.2e-05	0.0024	2.39	1.57	3.53
+R-HSA-114608	Platelet degranulation 	123	9	4.58	5.09	0.00015	0.0061	5.09	2.23	10.3
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	9	4.4	4.93	2e-04	0.0061	4.87	2.13	9.81
+R-HSA-1280215	Cytokine Signaling in Immune system	678	24	2.22	4.18	0.00018	0.0061	2.48	1.53	3.88
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	5	8.23	5.69	0.00032	0.008	9.59	2.88	25.2
+R-HSA-933543	NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	12	3	15.6	6.47	0.00079	0.017	20.9	3.6	84.7
+R-HSA-8983432	Interleukin-15 signaling	13	3	14.4	6.18	0.001	0.019	18.8	3.29	73.9
+R-HSA-202733	Cell surface interactions at the vascular wall	133	8	3.76	4.09	0.0013	0.021	4.09	1.7	8.53
+R-HSA-109582	Hemostasis	608	20	2.06	3.43	0.0016	0.024	2.25	1.32	3.64
+R-HSA-3000170	Syndecan interactions	16	3	11.7	5.48	0.0019	0.025	14.5	2.62	53.3
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	17	2.18	3.42	0.002	0.025	2.37	1.33	3.98
+R-HSA-140534	Ligand-dependent caspase activation	17	3	11	5.28	0.0023	0.026	13.4	2.45	48.8
+R-HSA-1251985	Nuclear signaling by ERBB4	18	3	10.4	5.1	0.0027	0.026	12.5	2.3	44.9
+R-HSA-5675482	Regulation of necroptotic cell death	18	3	10.4	5.1	0.0027	0.026	12.5	2.3	44.9
+R-HSA-449147	Signaling by Interleukins	454	16	2.21	3.35	0.0024	0.026	2.39	1.32	4.06
+R-HSA-197264	Nicotinamide salvaging	19	3	9.88	4.94	0.0032	0.027	11.7	2.17	41.6
+R-HSA-2028269	Signaling by Hippo	20	3	9.39	4.78	0.0037	0.027	11	2.05	38.7
+R-HSA-5213460	RIPK1-mediated regulated necrosis	20	3	9.39	4.78	0.0037	0.027	11	2.05	38.7
+R-HSA-5218859	Regulated Necrosis	20	3	9.39	4.78	0.0037	0.027	11	2.05	38.7
+R-HSA-5357769	Caspase activation via extrinsic apoptotic signalling pathway	21	3	8.94	4.64	0.0043	0.027	10.4	1.95	36.3
+R-HSA-1433557	Signaling by SCF-KIT	41	4	6.11	4.17	0.004	0.027	6.8	1.74	19.3
+R-HSA-76002	Platelet activation, signaling and aggregation	271	11	2.54	3.28	0.0041	0.027	2.72	1.31	5.1
+R-HSA-6798695	Neutrophil degranulation	477	16	2.1	3.13	0.004	0.027	2.26	1.25	3.84
+R-HSA-2024096	HS-GAG degradation	22	3	8.53	4.51	0.0049	0.028	9.89	1.85	34.1
+R-HSA-1236394	Signaling by ERBB4	43	4	5.82	4.04	0.0048	0.028	6.45	1.65	18.2
+R-HSA-5260271	Diseases of Immune System	25	3	7.51	4.15	0.0071	0.037	8.53	1.62	28.9
+R-HSA-5602358	Diseases associated with the TLR signaling cascade	25	3	7.51	4.15	0.0071	0.037	8.53	1.62	28.9
+R-HSA-8854691	Interleukin-20 family signaling	25	3	7.51	4.15	0.0071	0.037	8.53	1.62	28.9
+R-HSA-6785807	Interleukin-4 and 13 signaling	108	6	3.48	3.3	0.0076	0.038	3.72	1.32	8.57
+R-HSA-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	51	4	4.91	3.57	0.0088	0.042	5.35	1.38	14.9
+R-HSA-3000157	Laminin interactions	28	3	6.71	3.85	0.0098	0.043	7.51	1.44	25
+R-HSA-186763	Downstream signal transduction	29	3	6.47	3.76	0.011	0.043	7.22	1.38	23.9
+R-HSA-2871809	FCERI mediated Ca+2 mobilization	29	3	6.47	3.76	0.011	0.043	7.22	1.38	23.9
+R-HSA-5669034	TNFs bind their physiological receptors	29	3	6.47	3.76	0.011	0.043	7.22	1.38	23.9
+R-HSA-216083	Integrin cell surface interactions	81	5	3.86	3.3	0.0095	0.043	4.15	1.29	10.3
+R-HSA-196854	Metabolism of vitamins and cofactors	184	8	2.72	3	0.0093	0.043	2.89	1.21	5.97
+R-HSA-202433	Generation of second messenger molecules	30	3	6.26	3.68	0.012	0.046	6.95	1.34	22.9
+R-HSA-1839124	FGFR1 mutant receptor activation	31	3	6.06	3.59	0.013	0.048	6.7	1.29	22
+R-HSA-196807	Nicotinate metabolism	31	3	6.06	3.59	0.013	0.048	6.7	1.29	22
+R-HSA-186797	Signaling by PDGF	58	4	4.32	3.23	0.014	0.049	4.65	1.21	12.8
+R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	123	6	3.05	2.92	0.014	0.049	3.24	1.15	7.43

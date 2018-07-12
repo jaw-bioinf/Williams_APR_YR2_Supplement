@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa00062 Fatty acid elongation 25 3 17.7 6.91 6e-04 0.009 21.3 3.93 75.1
+path:hsa00071 Fatty acid degradation 44 3 10.1 4.98 0.0032 0.02 11.4 2.18 38
+path:hsa04070 Phosphatidylinositol signaling system 97 4 6.09 4.17 0.004 0.02 6.82 1.74 19.4
+path:hsa00562 Inositol phosphate metabolism 71 3 6.24 3.66 0.012 0.034 6.85 1.33 22.3
+path:hsa03320 PPAR signaling pathway 72 3 6.15 3.63 0.013 0.034 6.75 1.31 22
+path:hsa04371 Apelin signaling pathway 137 4 4.31 3.23 0.013 0.034 4.74 1.22 13.4

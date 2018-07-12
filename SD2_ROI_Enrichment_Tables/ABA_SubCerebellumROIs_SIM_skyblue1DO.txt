@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2994	germ cell cancer	81	4	10.2	5.8	0.00059	0.026	11.9	2.98	35
+DOID:0060085	organ system benign neoplasm	207	6	5.97	5.07	0.00042	0.026	7.21	2.41	18

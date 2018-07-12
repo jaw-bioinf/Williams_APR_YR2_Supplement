@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0013293 embryonic lethality prior to tooth bud stage 788 24 2.62 5.15 9.1e-06 0.0058 3.14 1.9 5.03
+MP:0013292 embryonic lethality prior to organogenesis 717 22 2.64 4.95 2.1e-05 0.0067 3.12 1.85 5.07
+MP:0002075 abnormal coat/hair pigmentation 236 11 4 5.07 9e-05 0.019 4.51 2.15 8.58
+MP:0008762 embryonic lethality 1763 37 1.8 4.07 0.00012 0.019 2.25 1.46 3.4

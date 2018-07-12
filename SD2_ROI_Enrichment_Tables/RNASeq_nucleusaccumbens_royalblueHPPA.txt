@@ -1,0 +1,3 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0009804 Reduced number of teeth 190 10 4.99 5.84 1.6e-05 0.01 6.77 2.88 14.7
+HP:0006483 Abnormal number of teeth 213 10 4.45 5.37 4.5e-05 0.014 5.96 2.54 12.9

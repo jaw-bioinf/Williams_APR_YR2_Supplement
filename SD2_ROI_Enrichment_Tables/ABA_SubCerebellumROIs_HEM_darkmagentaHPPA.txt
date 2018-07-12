@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0012368	Flat face	83	5	8.46	5.82	0.00024	0.028	10.9	3.11	31
+HP:0004298	Abnormality of the abdominal wall	379	10	3.7	4.72	0.00014	0.028	5.62	2.24	13.5
+HP:0004299	Hernia of the abdominal wall	326	9	3.88	4.62	0.00025	0.028	5.62	2.17	13.6
+HP:0010866	Abdominal wall defect	328	9	3.85	4.59	0.00026	0.028	5.58	2.15	13.5
+HP:0011314	Abnormality of long bone morphology	478	11	3.23	4.44	2e-04	0.028	5.07	2.07	12.1
+HP:0001357	Plagiocephaly	51	4	11	6.1	4e-04	0.03	13.9	3.34	43.5
+HP:0001156	Brachydactyly syndrome	277	8	4.05	4.49	0.00045	0.03	5.62	2.08	13.9
+HP:0003549	Abnormality of connective tissue	1048	16	2.14	3.74	0.00041	0.03	4.22	1.75	10.9
+HP:0100790	Hernia	365	9	3.46	4.21	0.00058	0.031	4.94	1.91	12
+HP:0001999	Abnormal facial shape	631	12	2.67	3.92	0.00054	0.031	4.27	1.77	10.2

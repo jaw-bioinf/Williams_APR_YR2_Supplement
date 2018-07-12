@@ -1,0 +1,17 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-389513	CTLA4 inhibitory signaling	22	3	20.4	7.47	4e-04	0.0077	24.4	4.52	86.1
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	7	5.75	5.31	2e-04	0.0077	6.51	2.47	14.5
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	7	5.48	5.13	0.00027	0.0077	6.19	2.35	13.8
+R-HSA-72312	rRNA processing	201	7	5.2	4.94	0.00037	0.0077	5.86	2.23	13.1
+R-HSA-354192	Integrin alphaIIb beta3 signaling	27	3	16.6	6.66	0.00075	0.0095	19.3	3.64	66.2
+R-HSA-9006921	Integrin signaling	27	3	16.6	6.66	0.00075	0.0095	19.3	3.64	66.2
+R-HSA-388841	Costimulation by the CD28 family	71	4	8.42	5.15	0.0013	0.011	9.36	2.4	26.3
+R-HSA-5673001	RAF/MAP kinase cascade	243	7	4.31	4.28	0.0011	0.011	4.8	1.83	10.7
+R-HSA-5684996	MAPK1/MAPK3 signaling	249	7	4.2	4.2	0.0013	0.011	4.68	1.78	10.4
+R-HSA-76009	Platelet Aggregation (Plug Formation)	37	3	12.1	5.56	0.0019	0.014	13.7	2.62	45.1
+R-HSA-76002	Platelet activation, signaling and aggregation	271	7	3.86	3.92	0.0021	0.015	4.28	1.63	9.49
+R-HSA-5683057	MAPK family signaling cascades	288	7	3.63	3.72	0.003	0.019	4.01	1.53	8.89
+R-HSA-5663205	Infectious disease	326	7	3.21	3.33	0.0059	0.035	3.52	1.35	7.79
+R-HSA-162909	Host Interactions of HIV factors	128	4	4.67	3.43	0.011	0.05	5.03	1.31	13.8
+R-HSA-5663202	Diseases of signal transduction	359	7	2.91	3.03	0.0098	0.05	3.18	1.22	7.03
+R-HSA-449147	Signaling by Interleukins	454	8	2.63	2.92	0.01	0.05	2.89	1.18	6.12

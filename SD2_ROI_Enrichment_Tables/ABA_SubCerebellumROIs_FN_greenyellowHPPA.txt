@@ -1,0 +1,59 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002460	Distal muscle weakness	122	8	5.9	5.84	4.2e-05	0.012	7.59	2.95	17.4
+HP:0003202	Skeletal muscle atrophy	444	15	3.04	4.88	3.7e-05	0.012	4.43	2.14	8.87
+HP:0040290	Abnormality of skeletal muscles	534	16	2.7	4.51	8.2e-05	0.015	3.96	1.94	7.9
+HP:0030236	Abnormality of muscle size	543	16	2.65	4.44	1e-04	0.015	3.88	1.9	7.74
+HP:0001265	Hyporeflexia	280	11	3.54	4.69	0.00015	0.018	4.67	2.08	9.81
+HP:0003487	Babinski sign	239	10	3.77	4.69	0.00019	0.019	4.88	2.09	10.5
+HP:0002273	Tetraparesis	16	3	16.9	6.75	0.00064	0.022	22.1	3.87	85.4
+HP:0002166	Impaired vibration sensation in the lower limbs	17	3	15.9	6.52	0.00077	0.022	20.5	3.62	78.2
+HP:0002314	Degeneration of the lateral corticospinal tracts	36	4	10	5.75	0.00059	0.022	12.3	2.99	37.3
+HP:0007372	Atrophy/Degeneration involving the corticospinal tracts	37	4	9.73	5.66	0.00066	0.022	11.9	2.9	36.1
+HP:0002492	Abnormality of the corticospinal tract	39	4	9.23	5.48	0.00081	0.022	11.2	2.74	33.9
+HP:0001765	Hammertoe	39	4	9.23	5.48	0.00081	0.022	11.2	2.74	33.9
+HP:0002366	Abnormal lower motor neuron morphology	41	4	8.78	5.31	0.00098	0.022	10.6	2.6	31.9
+HP:0002127	Abnormal upper motor neuron morphology	41	4	8.78	5.31	0.00098	0.022	10.6	2.6	31.9
+HP:0100299	Muscle fiber inclusion bodies	43	4	8.37	5.16	0.0012	0.022	10	2.47	30.1
+HP:0001283	Bulbar palsy	65	5	6.92	5.11	0.00066	0.022	8.35	2.46	22.5
+HP:0012757	Abnormal neuron morphology	65	5	6.92	5.11	0.00066	0.022	8.35	2.46	22.5
+HP:0002450	Abnormal motor neuron morphology	65	5	6.92	5.11	0.00066	0.022	8.35	2.46	22.5
+HP:0002380	Fasciculations	71	5	6.34	4.82	0.00099	0.022	7.58	2.24	20.3
+HP:0007772	Impaired smooth pursuit	99	6	5.45	4.77	0.00066	0.022	6.6	2.2	16.5
+HP:0000617	Abnormality of ocular smooth pursuit	109	6	4.95	4.44	0.0011	0.022	5.94	1.99	14.8
+HP:0001600	Abnormality of the larynx	142	7	4.44	4.43	0.00079	0.022	5.4	1.98	12.8
+HP:0003693	Distal amyotrophy	143	7	4.41	4.41	0.00083	0.022	5.36	1.96	12.7
+HP:0002015	Dysphagia	227	9	3.57	4.24	0.00065	0.022	4.47	1.84	9.82
+HP:0001260	Dysarthria	373	12	2.9	4.1	0.00047	0.022	3.83	1.75	7.89
+HP:0000508	Ptosis	446	13	2.62	3.89	0.00067	0.022	3.51	1.64	7.14
+HP:0007256	Abnormal pyramidal signs	296	10	3.04	3.89	0.0011	0.022	3.84	1.65	8.2
+HP:0002793	Abnormal pattern of respiration	297	10	3.03	3.88	0.0011	0.022	3.82	1.64	8.17
+HP:0001347	Hyperreflexia	560	15	2.41	3.86	0.00055	0.022	3.35	1.62	6.71
+HP:0001315	Reduced tendon reflexes	399	12	2.71	3.84	0.00087	0.022	3.54	1.62	7.3
+HP:0009830	Peripheral neuropathy	405	12	2.67	3.78	0.001	0.022	3.48	1.59	7.17
+HP:0025270	Abnormality of esophagus physiology	301	10	2.99	3.83	0.0012	0.023	3.77	1.62	8.05
+HP:0001308	Tongue fasciculations	45	4	8	5.01	0.0014	0.025	9.54	2.36	28.5
+HP:0010546	Muscle fibrillation	47	4	7.66	4.87	0.0016	0.028	9.09	2.25	27.1
+HP:0001284	Areflexia	208	8	3.46	3.88	0.0017	0.028	4.22	1.65	9.54
+HP:0000641	Dysmetric saccades	24	3	11.2	5.34	0.0022	0.031	13.7	2.5	48.9
+HP:0008777	Abnormality of the vocal cords	49	4	7.35	4.74	0.0019	0.031	8.68	2.15	25.8
+HP:0003690	Limb muscle weakness	124	6	4.35	4.03	0.0022	0.031	5.16	1.73	12.8
+HP:0001761	Pes cavus	212	8	3.4	3.81	0.0019	0.031	4.13	1.62	9.34
+HP:0009127	Abnormality of the musculature of the limbs	266	9	3.05	3.68	0.002	0.031	3.75	1.55	8.21
+HP:0100022	Abnormality of movement	1159	22	1.71	3.12	0.0021	0.031	2.66	1.34	5.35
+HP:0002167	Neurological speech impairment	785	17	1.95	3.2	0.0024	0.034	2.72	1.35	5.39
+HP:0010551	Paraplegia/paraparesis	129	6	4.19	3.91	0.0026	0.035	4.94	1.66	12.3
+HP:0011024	Abnormality of the gastrointestinal tract	1015	20	1.77	3.1	0.0026	0.035	2.62	1.32	5.21
+HP:0002104	Apnea	231	8	3.12	3.53	0.0032	0.041	3.76	1.47	8.48
+HP:0000759	Abnormal peripheral nervous system morphology	660	15	2.05	3.16	0.0031	0.041	2.74	1.33	5.47
+HP:0011443	Abnormality of coordination	663	15	2.04	3.14	0.0033	0.041	2.72	1.32	5.44
+HP:0004305	Involuntary movements	664	15	2.03	3.13	0.0033	0.041	2.72	1.32	5.43
+HP:0030810	Abnormal tongue physiology	58	4	6.21	4.24	0.0036	0.042	7.22	1.8	21.2
+HP:0003474	Sensory impairment	183	7	3.44	3.6	0.0035	0.042	4.09	1.5	9.61
+HP:0008756	Bowing of the vocal cords	29	3	9.31	4.76	0.0038	0.044	11	2.04	38.5
+HP:0002529	Neuronal loss in central nervous system	60	4	6	4.14	0.0041	0.046	6.96	1.74	20.4
+HP:0003394	Muscle cramps	98	5	4.59	3.82	0.0042	0.046	5.34	1.59	14.2
+HP:0001251	Ataxia	546	13	2.14	3.08	0.0044	0.048	2.75	1.29	5.6
+HP:0001151	Impaired horizontal smooth pursuit	31	3	8.71	4.57	0.0046	0.049	10.2	1.9	35.5
+HP:0002174	Postural tremor	63	4	5.71	4	0.0048	0.05	6.6	1.65	19.3
+HP:0010628	Facial palsy	146	6	3.7	3.53	0.0049	0.05	4.32	1.46	10.7
+HP:0010827	Abnormality of the seventh cranial nerve	146	6	3.7	3.53	0.0049	0.05	4.32	1.46	10.7

@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0355	2	7	1	0.143	0.5	CORUM:823	cor	6	PAR-3-VE-cadherin complex, endothelial	1	PARD3
+2	1	TRUE	0.0355	1	7	1	0.143	1	CORUM:861	cor	8	Par-3-p75NTR complex	1	PARD3
+3	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:3192	cor	4	G protein complex (Hdac4, Gnb1, Gng2)	1	HDAC4
+4	1	TRUE	0.0355	2	7	1	0.143	0.5	CORUM:1023	cor	2	Par3-Prkcz-Tiam1 complex	1	PARD3
+5	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:1730	cor	7	Nfatc2ip-Prmt1	1	PRMT1
+6	1	TRUE	0.0355	2	7	1	0.143	0.5	CORUM:6475	cor	3	Dnm1l-Mff complex	1	MFF
+7	1	TRUE	0.0355	3	7	1	0.143	0.333	CORUM:686	cor	1	Apg16L-Apg12-Apg5 complex	1	ATG16L1

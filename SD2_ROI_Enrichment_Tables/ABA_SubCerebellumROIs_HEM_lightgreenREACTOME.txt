@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer	58	5	6.85	5.04	0.00078	0.026	7.66	2.35	19.5
+R-HSA-2644603	Signaling by NOTCH1 in Cancer	58	5	6.85	5.04	0.00078	0.026	7.66	2.35	19.5
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	58	5	6.85	5.04	0.00078	0.026	7.66	2.35	19.5
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	58	5	6.85	5.04	0.00078	0.026	7.66	2.35	19.5
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	58	5	6.85	5.04	0.00078	0.026	7.66	2.35	19.5
+R-HSA-418594	G alpha (i) signalling events	362	13	2.85	4.06	0.00062	0.026	3.14	1.61	5.67
+R-HSA-9012852	Signaling by NOTCH3	37	4	8.59	5.22	0.0011	0.033	9.78	2.48	28.1
+R-HSA-8963898	Plasma lipoprotein assembly	18	3	13.2	5.87	0.0014	0.035	16	2.94	57.6

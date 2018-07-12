@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0304	3	6	1	0.167	0.333	CORUM:161	cor	5	SWAP complex	1	NCL
+2	1	TRUE	0.0237	1	6	1	0.167	1	CORUM:1523	cor	9	Stat3-Crebbp complex	1	STAT3
+3	1	TRUE	0.0237	2	6	1	0.167	0.5	CORUM:3882	cor	1	Abcg5-Abcg8 complex	1	ABCG8
+4	1	TRUE	0.0237	2	6	1	0.167	0.5	CORUM:3888	cor	10	Abcg8-Abcg4 complex	1	ABCG8
+5	1	TRUE	0.0393	5	6	1	0.167	0.2	CORUM:716	cor	8	PU.1-associated protein complex	1	NCL
+6	1	TRUE	0.0237	2	6	1	0.167	0.5	CORUM:5566	cor	6	Isl1-Jak1-Stat3 complex	1	STAT3
+7	1	TRUE	0.0237	2	6	1	0.167	0.5	CORUM:2868	cor	3	TEAD3-YAP DNA-protein complex	1	TEAD3
+8	1	TRUE	0.0354	4	6	1	0.167	0.25	CORUM:1503	cor	7	Hdac1-Mecp2-Rcor1-Sin3a complex	1	RCOR1
+9	1	TRUE	0.0237	2	6	1	0.167	0.5	CORUM:1782	cor	4	TGF-beta receptor	1	TGFBR1

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69298	Association of licensing factors with the pre-replicative complex	15	3	14.5	6.19	0.001	0.04	18.2	3.27	68.7
+R-HSA-2514859	Inactivation, recovery and regulation of the phototransduction cascade	33	4	8.79	5.3	0.001	0.04	10.1	2.55	29.4
+R-HSA-2514856	The phototransduction cascade	34	4	8.54	5.2	0.0012	0.04	9.79	2.47	28.4

@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0283	2	5	1	0.2	0.5	CORUM:499	cor	2	Ryk-Wny1 complex	1	WNT1
+2	1	TRUE	0.0283	3	5	1	0.2	0.333	CORUM:498	cor	9	Ryk-Wny1-Fzd8 complex	1	WNT1
+3	1	TRUE	0.0283	3	5	1	0.2	0.333	CORUM:1549	cor	35	Kpna2-Kpnb1 complex	1	GM10184
+4	1	TRUE	0.0168	15	5	2	0.4	0.133	CORUM:2225	cor	43	MutS-alpha-histone H4 complex	1	HIST1H4B,HIST1H4F
+5	1	TRUE	0.0375	6	5	1	0.2	0.167	CORUM:5271	cor	7	Kif3-cadherin-catenin complex	1	GM28635
+6	1	TRUE	0.0301	4	5	1	0.2	0.25	CORUM:3867	cor	11	Xin-Cdh2-Ctnnb1-Ctnnd1 complex	1	GM28635
+7	1	TRUE	2.65e-06	195	33	9	0.273	0.046	KEGG:05034	keg	18	Alcoholism	1	HIST1H2AB,HIST1H2BK,HIST1H2AK,HIST1H4B,HIST1H4F,HIST1H2AI,HIST1H2AP,HIST1H3G,HIST1H2BM
+8	1	TRUE	2.24e-07	136	33	9	0.273	0.066	KEGG:05322	keg	33	Systemic lupus erythematosus	1	HIST1H2AB,HIST1H2BK,HIST1H2AK,HIST1H4B,HIST1H4F,HIST1H2AI,HIST1H2AP,HIST1H3G,HIST1H2BM

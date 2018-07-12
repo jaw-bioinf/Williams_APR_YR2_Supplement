@@ -1,0 +1,48 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	91	1.83	6.29	6.1e-09	1.8e-05	2.1	1.64	2.67
+MP:0003635	abnormal synaptic transmission	740	97	1.72	5.85	4.4e-08	6.5e-05	1.96	1.54	2.47
+MP:0003633	abnormal nervous system physiology	1903	201	1.38	5.4	1.2e-07	0.00012	1.6	1.34	1.9
+MP:0002152	abnormal brain morphology	1633	177	1.42	5.38	1.6e-07	0.00012	1.63	1.35	1.95
+MP:0000783	abnormal forebrain morphology	1011	120	1.56	5.38	2.7e-07	0.00016	1.76	1.42	2.17
+MP:0002882	abnormal neuron morphology	1515	165	1.43	5.23	3.6e-07	0.00018	1.63	1.34	1.96
+MP:0000787	abnormal telencephalon morphology	808	98	1.59	5.04	1.5e-06	0.00065	1.78	1.4	2.24
+MP:0000830	abnormal diencephalon morphology	289	44	2	4.94	6.8e-06	0.0019	2.25	1.58	3.15
+MP:0002063	abnormal learning/memory/conditioning	664	82	1.62	4.75	6.1e-06	0.0019	1.8	1.39	2.3
+MP:0014114	abnormal cognition	665	82	1.62	4.74	6.5e-06	0.0019	1.79	1.39	2.3
+MP:0002082	postnatal lethality	1346	144	1.4	4.59	6.9e-06	0.0019	1.57	1.28	1.9
+MP:0008540	abnormal cerebral hemisphere morphology	609	76	1.64	4.66	9.4e-06	0.0023	1.81	1.39	2.34
+MP:0000788	abnormal cerebral cortex morphology	363	51	1.84	4.7	1.3e-05	0.003	2.05	1.48	2.8
+MP:0003861	abnormal nervous system development	1215	130	1.4	4.32	2.2e-05	0.0046	1.55	1.26	1.9
+MP:0002062	abnormal associative learning	290	42	1.9	4.47	3.7e-05	0.0074	2.12	1.47	2.98
+MP:0001362	abnormal anxiety-related response	332	46	1.82	4.35	5e-05	0.0086	2.01	1.43	2.79
+MP:0000266	abnormal heart morphology	1397	144	1.35	4.09	4.9e-05	0.0086	1.49	1.22	1.81
+MP:0002065	abnormal fear/anxiety-related behavior	369	49	1.74	4.17	8.5e-05	0.014	1.92	1.37	2.63
+MP:0003246	loss of GABAergic neurons	12	6	6.55	5.53	0.00012	0.015	12.2	3.25	45.7
+MP:0008026	abnormal brain white matter morphology	218	33	1.98	4.23	0.00011	0.015	2.22	1.47	3.25
+MP:0002557	abnormal social/conspecific interaction	351	47	1.75	4.14	9.7e-05	0.015	1.93	1.38	2.67
+MP:0002064	seizures	383	50	1.71	4.08	0.00011	0.015	1.88	1.35	2.57
+MP:0004166	abnormal limbic system morphology	393	51	1.7	4.08	0.00011	0.015	1.87	1.35	2.54
+MP:0012317	impaired conditioning behavior	107	20	2.45	4.33	0.00014	0.017	2.83	1.64	4.68
+MP:0013560	abnormal endocrine gland morphology	934	101	1.42	3.86	0.00014	0.017	1.55	1.22	1.94
+MP:0001056	abnormal cranial nerve morphology	233	34	1.91	4.05	0.00018	0.02	2.12	1.42	3.09
+MP:0011819	increased pancreatic beta cell proliferation	13	6	6.05	5.24	0.00021	0.023	10.5	2.89	36.4
+MP:0004097	abnormal cerebellar cortex morphology	353	46	1.71	3.9	0.00022	0.023	1.87	1.33	2.59
+MP:0009745	abnormal behavioral response to xenobiotic	295	40	1.78	3.9	0.00024	0.024	1.95	1.35	2.76
+MP:0002081	perinatal lethality	1327	134	1.32	3.66	0.00025	0.024	1.44	1.18	1.76
+MP:0001454	abnormal cued conditioning behavior	115	20	2.28	3.97	4e-04	0.035	2.59	1.51	4.26
+MP:0000801	abnormal temporal lobe morphology	352	45	1.68	3.71	0.00039	0.035	1.83	1.29	2.53
+MP:0001399	hyperactivity	475	57	1.57	3.68	0.00036	0.035	1.71	1.26	2.29
+MP:0003247	abnormal glutaminergic neuron morphology	10	5	6.55	5.05	0.00046	0.039	12.2	2.8	53.1
+MP:0009956	abnormal cerebellar layer morphology	314	41	1.71	3.69	0.00045	0.039	1.87	1.3	2.63
+MP:0008428	abnormal spatial working memory	76	15	2.59	3.99	0.00053	0.042	3.02	1.58	5.41
+MP:0009357	abnormal seizure response to inducing agent	190	28	1.93	3.73	0.00054	0.042	2.14	1.37	3.23
+MP:0000807	abnormal hippocampus morphology	346	44	1.67	3.63	0.00051	0.042	1.81	1.28	2.52
+MP:0000778	abnormal nervous system tract morphology	210	30	1.87	3.67	6e-04	0.045	2.06	1.34	3.08
+MP:0001468	abnormal temporal memory	173	26	1.97	3.7	0.00063	0.046	2.18	1.37	3.36
+MP:0009937	abnormal neuron differentiation	360	45	1.64	3.55	0.00064	0.046	1.78	1.26	2.46
+MP:0011932	abnormal endocrine pancreas development	27	8	3.88	4.31	0.00066	0.047	5.14	1.94	12.4
+MP:0004250	tau protein deposits	11	5	5.96	4.73	8e-04	0.05	10.1	2.44	40
+MP:0004164	abnormal neurohypophysis morphology	16	6	4.91	4.5	8e-04	0.05	7.31	2.18	22.3
+MP:0009456	impaired cued conditioning behavior	48	11	3	4	0.00078	0.05	3.64	1.67	7.33
+MP:0011086	postnatal lethality, incomplete penetrance	786	84	1.4	3.37	0.00078	0.05	1.51	1.17	1.92
+MP:0002127	abnormal cardiovascular system morphology	1950	183	1.23	3.28	0.00076	0.05	1.34	1.12	1.6

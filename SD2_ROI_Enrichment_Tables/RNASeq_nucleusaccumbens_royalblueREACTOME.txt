@@ -1,0 +1,16 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-2173795 Downregulation of SMAD2/3:SMAD4 transcriptional activity 22 3 18.7 7.12 0.00052 0.017 22.3 4.14 78.6
+R-HSA-2173789 TGF-beta receptor signaling activates SMADs 23 3 17.9 6.95 0.00059 0.017 21.2 3.95 73.9
+R-HSA-442742 CREB phosphorylation through the activation of Ras 29 3 14.2 6.1 0.0012 0.017 16.3 3.09 55.2
+R-HSA-170834 Signaling by TGF-beta Receptor Complex 66 4 8.31 5.11 0.0013 0.017 9.23 2.37 25.9
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 6 5.34 4.66 0.00087 0.017 5.92 2.07 13.9
+R-HSA-112315 Transmission across Chemical Synapses 224 7 4.29 4.26 0.0012 0.017 4.75 1.82 10.5
+R-HSA-1640170 Cell Cycle 607 12 2.71 3.73 0.0013 0.017 3.09 1.51 5.83
+R-HSA-438064 Post NMDA receptor activation events 37 3 11.1 5.29 0.0024 0.026 12.5 2.4 41.1
+R-HSA-442755 Activation of NMDA receptor and postsynaptic events 41 3 10 4.97 0.0032 0.031 11.2 2.15 36.5
+R-HSA-2173793 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer 44 3 9.35 4.76 0.004 0.032 10.3 2 33.6
+R-HSA-112316 Neuronal System 356 8 3.08 3.43 0.0042 0.032 3.39 1.39 7.16
+R-HSA-5663202 Diseases of signal transduction 359 8 3.06 3.4 0.0044 0.032 3.36 1.38 7.1
+R-HSA-9006936 Signaling by TGF-beta family members 95 4 5.78 4.01 0.005 0.033 6.27 1.63 17.3
+R-HSA-5689880 Ub-specific processing proteases 220 6 3.74 3.52 0.0053 0.033 4.07 1.43 9.47
+R-HSA-2672351 Stimuli-sensing channels 107 4 5.13 3.68 0.0076 0.044 5.53 1.44 15.2

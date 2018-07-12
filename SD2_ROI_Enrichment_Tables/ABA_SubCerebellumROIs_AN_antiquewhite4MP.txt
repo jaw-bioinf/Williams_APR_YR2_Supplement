@@ -1,0 +1,44 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000219	increased neutrophil cell number	211	5	8.8	5.95	0.00021	0.0092	11	3.19	30.5
+MP:0000322	increased granulocyte number	328	6	6.79	5.55	0.00019	0.0092	8.75	2.84	23
+MP:0002442	abnormal leukocyte physiology	1401	12	3.18	4.6	1e-04	0.0092	5.23	2.17	12.4
+MP:0001819	abnormal immune cell physiology	1428	12	3.12	4.52	0.00012	0.0092	5.11	2.13	12.2
+MP:0002421	abnormal cell-mediated immunity	1439	12	3.1	4.49	0.00013	0.0092	5.06	2.11	12.1
+MP:0002420	abnormal adaptive immunity	1459	12	3.05	4.44	0.00015	0.0092	4.98	2.07	11.9
+MP:0012382	abnormal blood cell physiology	1515	12	2.94	4.29	0.00022	0.0092	4.76	1.98	11.3
+MP:0009116	abnormal brown fat cell morphology	55	3	20.2	7.44	0.00041	0.013	24.1	4.48	83.9
+MP:0005164	abnormal response to injury	546	7	4.76	4.7	0.00045	0.013	6.29	2.21	15.8
+MP:0001545	abnormal hematopoietic system physiology	1616	12	2.76	4.04	0.00041	0.013	4.4	1.83	10.5
+MP:0008250	abnormal myeloid leukocyte morphology	950	9	3.52	4.25	0.00053	0.014	4.97	1.93	12
+MP:0008775	abnormal heart ventricle pressure	68	3	16.4	6.61	0.00077	0.019	19.2	3.6	66.5
+MP:0009132	abnormal white fat cell size	74	3	15	6.31	0.00099	0.021	17.6	3.3	60.7
+MP:0008251	abnormal phagocyte morphology	816	8	3.64	4.1	0.00096	0.021	4.92	1.83	12.1
+MP:0001541	abnormal osteoclast physiology	80	3	13.9	6.03	0.0012	0.023	16.2	3.05	55.8
+MP:0005425	increased macrophage cell number	183	4	8.11	5.05	0.0013	0.023	9.65	2.38	29
+MP:0008248	abnormal mononuclear phagocyte morphology	644	7	4.03	4.15	0.0012	0.023	5.26	1.85	13.3
+MP:0008396	abnormal osteoclast differentiation	94	3	11.8	5.49	0.002	0.027	13.7	2.58	46.9
+MP:0009117	abnormal white fat cell morphology	99	3	11.2	5.33	0.0023	0.027	13	2.45	44.3
+MP:0008987	abnormal liver lobule morphology	208	4	7.14	4.65	0.0021	0.027	8.44	2.09	25.3
+MP:0009115	abnormal fat cell morphology	209	4	7.1	4.64	0.0022	0.027	8.4	2.08	25.2
+MP:0012440	abnormal neutrophil cell number	338	5	5.49	4.37	0.0018	0.027	6.69	1.95	18.5
+MP:0009763	increased sensitivity to induced morbidity/mortality	350	5	5.3	4.26	0.0021	0.027	6.45	1.88	17.8
+MP:0005065	abnormal neutrophil morphology	354	5	5.24	4.23	0.0022	0.027	6.38	1.86	17.6
+MP:0020201	abnormal granulocyte number	529	6	4.21	3.95	0.0023	0.027	5.27	1.72	13.8
+MP:0008986	abnormal liver parenchyma morphology	220	4	6.75	4.48	0.0026	0.03	7.97	1.97	23.9
+MP:0002452	abnormal professional antigen presenting cell physiology	967	8	3.07	3.54	0.0029	0.031	4.07	1.52	9.98
+MP:0002441	abnormal granulocyte morphology	558	6	3.99	3.79	0.003	0.032	4.98	1.62	13
+MP:0003068	enlarged kidney	126	3	8.84	4.6	0.0045	0.045	10.1	1.91	34.3
+MP:0005535	abnormal body temperature	131	3	8.5	4.49	0.005	0.045	9.71	1.84	32.9
+MP:0004937	dilated heart	262	4	5.67	3.98	0.0049	0.045	6.64	1.64	19.9
+MP:0003202	abnormal neuron apoptosis	267	4	5.56	3.93	0.0053	0.045	6.51	1.61	19.5
+MP:0006042	increased apoptosis	832	7	3.12	3.34	0.0052	0.045	3.97	1.4	10
+MP:0012556	increased cell death	837	7	3.1	3.32	0.0054	0.045	3.95	1.39	9.94
+MP:0002723	abnormal immune serum protein physiology	1067	8	2.78	3.22	0.0054	0.045	3.64	1.36	8.93
+MP:0000218	increased leukocyte cell number	1080	8	2.75	3.18	0.0058	0.047	3.59	1.34	8.8
+MP:0002971	abnormal brown adipose tissue morphology	141	3	7.9	4.29	0.0062	0.048	9	1.71	30.5
+MP:0001923	reduced female fertility	280	4	5.3	3.8	0.0062	0.048	6.19	1.54	18.5
+MP:0020202	abnormal macrophage cell number	285	4	5.21	3.75	0.0066	0.048	6.08	1.51	18.2
+MP:0000130	abnormal trabecular bone morphology	288	4	5.16	3.72	0.0069	0.048	6.01	1.49	18
+MP:0020148	abnormal sensitivity to induced morbidity/mortality	461	5	4.03	3.46	0.0069	0.048	4.82	1.41	13.3
+MP:0002446	abnormal macrophage morphology	461	5	4.03	3.46	0.0069	0.048	4.82	1.41	13.3
+MP:0004811	abnormal neuron physiology	667	6	3.34	3.26	0.0073	0.05	4.1	1.34	10.7

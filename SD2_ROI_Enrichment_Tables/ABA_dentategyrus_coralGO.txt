@@ -1,0 +1,16 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0302	8	2	1	0.5	0.125	CORUM:3072	cor	3	CCT complex (chaperonin containing TCP1 complex), testis specific	1	CCT8
+2	1	TRUE	0.0302	7	2	1	0.5	0.143	CORUM:51	cor	10	CCT complex (chaperonin containing TCP1 complex)	1	CCT8
+3	1	TRUE	0.0302	7	2	1	0.5	0.143	CORUM:52	cor	12	CCT complex (chaperonin containing TCP1 complex)	1	CCT8
+4	1	TRUE	0.0351	13	2	1	0.5	0.077	CORUM:39	cor	9	immunoproteasome	1	PSMA5
+5	1	TRUE	0.0302	7	2	1	0.5	0.143	CORUM:132	cor	1	CCT complex (chaperonin containing TCP1 complex)	1	CCT8
+6	1	TRUE	0.0351	14	2	1	0.5	0.071	CORUM:38	cor	2	20S proteasome	1	PSMA5
+7	1	TRUE	0.0308	1	4	1	0.25	1	HP:0005312	hp	8	Pulmonary aterial intimal fibrosis	1	BMPR2
+8	1	TRUE	0.0308	1	4	1	0.25	1	HP:0030847	hp	7	Abnormal jugular venous pressure	1	BMPR2
+9	1	TRUE	0.0308	1	4	1	0.25	1	HP:0030848	hp	7	Elevated jugular venous pressure	2	BMPR2
+10	1	TRUE	0.0308	1	4	1	0.25	1	HP:0011353	hp	4	Arterial intimal fibrosis	1	BMPR2
+11	1	TRUE	0.0308	1	4	1	0.25	1	HP:0025443	hp	5	Abnormal cardiac atrial physiology	1	BMPR2
+12	1	TRUE	0.0308	1	4	1	0.25	1	HP:0005168	hp	5	Elevated right atrial pressure	2	BMPR2
+13	1	TRUE	0.0308	1	4	1	0.25	1	HP:0030967	hp	11	Abnormal pulmonary artery physiology	1	BMPR2
+14	1	TRUE	0.0308	1	4	1	0.25	1	HP:0005308	hp	11	Pulmonary artery vasoconstriction	2	BMPR2
+15	1	TRUE	0.0308	1	4	1	0.25	1	HP:0001708	hp	6	Right ventricular failure	1	BMPR2

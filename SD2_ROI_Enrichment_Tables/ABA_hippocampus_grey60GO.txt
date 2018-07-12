@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0152	28	84	4	0.048	0.143	GO:0042169	MF	6	SH2 domain binding	1	SYNGR3,SYK,PAG1,DAB1
+2	1	TRUE	0.0167	2	3	1	0.333	0.5	CORUM:5348	cor	5	Pik3r5-Pik3cg complex	1	PIK3R5
+3	1	TRUE	0.0167	4	3	1	0.333	0.25	CORUM:3867	cor	1	Xin-Cdh2-Ctnnb1-Ctnnd1 complex	1	CTNND1
+4	1	TRUE	0.0167	2	3	1	0.333	0.5	CORUM:2684	cor	7	p53-Bcl-xL complex, DNA-damage induced	1	TRP53
+5	1	TRUE	0.0167	4	3	1	0.333	0.25	CORUM:6262	cor	9	L11-HDM2-p53-ARF complex	1	TRP53
+6	1	TRUE	0.0167	3	3	1	0.333	0.333	CORUM:2682	cor	3	Bcl-xL-p53-PUMA complex, DNA damage induced	1	TRP53
+7	1	TRUE	0.0167	4	3	1	0.333	0.25	CORUM:5725	cor	8	Mdm2-P53 complex	1	TRP53
+8	1	TRUE	0.0167	2	3	1	0.333	0.5	CORUM:5814	cor	2	Tp53-BAK1 complex	1	TRP53
+9	1	TRUE	0.0218	6	3	1	0.333	0.167	CORUM:5271	cor	4	Kif3-cadherin-catenin complex	1	CTNND1

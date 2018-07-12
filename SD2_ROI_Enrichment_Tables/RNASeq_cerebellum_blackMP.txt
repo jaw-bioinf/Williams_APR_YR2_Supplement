@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008966	abnormal chiasmata formation	12	6	11.8	7.88	4.1e-06	0.0041	22.9	6.1	86.2
+MP:0013292	embryonic lethality prior to organogenesis	717	56	1.84	4.95	4.6e-06	0.0041	2.07	1.51	2.78
+MP:0013293	embryonic lethality prior to tooth bud stage	788	57	1.71	4.37	3.7e-05	0.022	1.89	1.39	2.54
+MP:0005093	decreased B cell proliferation	112	15	3.16	4.84	7.1e-05	0.03	3.59	1.92	6.3
+MP:0010094	abnormal chromosome stability	114	15	3.11	4.76	8.7e-05	0.03	3.52	1.88	6.17

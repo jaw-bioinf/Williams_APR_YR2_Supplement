@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00361	2	1	1	1	0.5	CORUM:501	cor	3	Ryk-Dvl1 complex	1	RYK
+2	1	TRUE	0.00361	2	1	1	1	0.5	CORUM:500	cor	2	Ryk-Wnt3a complex	1	RYK
+3	1	TRUE	0.00361	2	1	1	1	0.5	CORUM:499	cor	1	Ryk-Wny1 complex	1	RYK
+4	1	TRUE	0.00406	3	1	1	1	0.333	CORUM:498	cor	4	Ryk-Wny1-Fzd8 complex	1	RYK

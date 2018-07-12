@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72163	mRNA Splicing - Major Pathway	183	32	2.79	6.33	9.6e-08	3e-05	3.29	2.15	4.89
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	38	2.5	6.11	1.3e-07	3e-05	2.89	1.97	4.15
+R-HSA-72187	mRNA 3'-end processing	58	16	4.41	6.72	3.1e-07	3.6e-05	5.82	3.04	10.6
+R-HSA-72172	mRNA Splicing	191	32	2.68	6.04	2.6e-07	3.6e-05	3.12	2.05	4.63
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	16	3.81	5.97	2.6e-06	2e-04	4.79	2.53	8.6
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	16	3.81	5.97	2.6e-06	2e-04	4.79	2.53	8.6
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	17	3.27	5.37	1.2e-05	0.00077	3.93	2.15	6.84
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	14	3.02	4.51	0.00017	0.0097	3.55	1.82	6.47
+R-HSA-77595	Processing of Intronless Pre-mRNAs	19	6	5.04	4.56	0.00079	0.039	6.96	2.16	19.7
+R-HSA-449836	Other interleukin signaling	26	7	4.3	4.35	0.00084	0.039	5.56	1.97	13.9

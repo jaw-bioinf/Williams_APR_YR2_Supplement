@@ -1,0 +1,53 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009357	abnormal seizure response to inducing agent	190	35	2.89	6.86	9.2e-09	2.6e-05	3.46	2.3	5.07
+MP:0002065	abnormal fear/anxiety-related behavior	369	47	2	5.1	3.5e-06	0.0031	2.24	1.59	3.09
+MP:0002064	seizures	383	48	1.96	5.03	4.4e-06	0.0031	2.2	1.57	3.02
+MP:0003633	abnormal nervous system physiology	1903	166	1.37	4.69	3.7e-06	0.0031	1.56	1.29	1.88
+MP:0012348	decreased susceptibility to induction of seizure by inducing agent	28	9	5.04	5.59	3.8e-05	0.011	7.04	2.79	16.4
+MP:0002887	decreased susceptibility to pharmacologically induced seizures	28	9	5.04	5.59	3.8e-05	0.011	7.04	2.79	16.4
+MP:0000950	abnormal seizure response to pharmacological agent	134	22	2.57	4.79	3.6e-05	0.011	2.95	1.77	4.74
+MP:0001362	abnormal anxiety-related response	332	41	1.94	4.53	3.2e-05	0.011	2.15	1.49	3.02
+MP:0011087	neonatal lethality, complete penetrance	672	70	1.63	4.45	2.3e-05	0.011	1.8	1.36	2.35
+MP:0001399	hyperactivity	475	53	1.75	4.37	4e-05	0.011	1.93	1.4	2.6
+MP:0005076	abnormal cell differentiation	712	72	1.59	4.24	4.7e-05	0.012	1.74	1.32	2.26
+MP:0002918	abnormal paired-pulse facilitation	75	15	3.13	4.85	6.3e-05	0.013	3.74	1.96	6.71
+MP:0002910	abnormal excitatory postsynaptic currents	139	22	2.48	4.59	6.3e-05	0.013	2.83	1.69	4.53
+MP:0002206	abnormal CNS synaptic transmission	653	67	1.61	4.21	5.7e-05	0.013	1.76	1.33	2.31
+MP:0010136	decreased DN4 thymocyte number	19	7	5.77	5.44	0.00011	0.017	8.65	2.87	23.9
+MP:0001092	abnormal trigeminal ganglion morphology	53	12	3.55	4.86	9.7e-05	0.017	4.36	2.08	8.52
+MP:0000947	convulsive seizures	175	25	2.24	4.32	0.00012	0.017	2.51	1.56	3.89
+MP:0003635	abnormal synaptic transmission	740	73	1.55	4.04	9.4e-05	0.017	1.69	1.29	2.19
+MP:0003313	abnormal locomotor activation	1152	104	1.42	3.93	0.00011	0.017	1.55	1.23	1.94
+MP:0001087	abnormal nodose ganglion morphology	14	6	6.72	5.59	0.00013	0.018	11.1	3.16	36.6
+MP:0008262	abnormal hippocampus region morphology	64	13	3.18	4.58	0.00016	0.022	3.8	1.89	7.14
+MP:0002058	neonatal lethality	979	90	1.44	3.81	0.00018	0.023	1.57	1.23	1.99
+MP:0000039	abnormal otic capsule morphology	21	7	5.22	5.06	0.00022	0.025	7.41	2.52	19.7
+MP:0000859	abnormal somatosensory cortex morphology	34	9	4.15	4.8	2e-04	0.025	5.35	2.19	11.9
+MP:0008395	abnormal osteoblast differentiation	66	13	3.09	4.44	0.00023	0.025	3.66	1.82	6.85
+MP:0002919	enhanced paired-pulse facilitation	42	10	3.73	4.63	0.00024	0.026	4.65	2.03	9.75
+MP:0009745	abnormal behavioral response to xenobiotic	295	35	1.86	3.92	0.00026	0.027	2.04	1.37	2.94
+MP:0002327	abnormal respiratory function	415	45	1.7	3.81	3e-04	0.03	1.85	1.31	2.56
+MP:0003580	increased fibroma incidence	11	5	7.12	5.31	0.00035	0.032	12.3	2.96	48.6
+MP:0000815	abnormal Ammon gyrus morphology	69	13	2.95	4.25	0.00036	0.032	3.46	1.73	6.45
+MP:0001951	abnormal breathing pattern	346	39	1.77	3.79	0.00034	0.032	1.92	1.33	2.73
+MP:0002081	perinatal lethality	1327	114	1.35	3.56	0.00037	0.032	1.47	1.18	1.82
+MP:0001392	abnormal locomotor behavior	1537	129	1.32	3.53	0.00038	0.032	1.44	1.17	1.77
+MP:0001084	abnormal petrosal ganglion morphology	17	6	5.53	4.88	0.00044	0.033	8.07	2.44	23.9
+MP:0001082	abnormal geniculate ganglion morphology	23	7	4.77	4.73	0.00041	0.033	6.48	2.25	16.7
+MP:0003409	decreased width of hypertrophic chondrocyte zone	53	11	3.25	4.29	0.00042	0.033	3.9	1.8	7.75
+MP:0002574	increased vertical activity	80	14	2.74	4.09	0.00047	0.033	3.16	1.63	5.73
+MP:0004986	abnormal osteoblast morphology	148	21	2.22	3.92	0.00044	0.033	2.48	1.47	3.99
+MP:0001363	increased anxiety-related response	202	26	2.02	3.82	0.00046	0.033	2.22	1.4	3.4
+MP:0001258	decreased body length	326	37	1.78	3.74	0.00043	0.033	1.94	1.32	2.77
+MP:0002272	abnormal nervous system electrophysiology	339	38	1.76	3.71	0.00046	0.033	1.91	1.31	2.72
+MP:0006288	small otic capsule	12	5	6.53	5	0.00056	0.037	10.6	2.63	38.8
+MP:0001085	small petrosal ganglion	12	5	6.53	5	0.00056	0.037	10.6	2.63	38.8
+MP:0006404	abnormal lumbar dorsal root ganglion morphology	18	6	5.22	4.68	0.00063	0.04	7.4	2.27	21.4
+MP:0003948	abnormal gas homeostasis	546	54	1.55	3.46	0.00075	0.046	1.67	1.22	2.25
+MP:0003491	abnormal voluntary movement	1648	135	1.28	3.32	0.00075	0.046	1.4	1.14	1.72
+MP:0000860	abnormal primary somatosensory cortex morphology	19	6	4.95	4.5	0.00087	0.049	6.83	2.12	19.3
+MP:0005472	abnormal triiodothyronine level	33	8	3.8	4.21	0.00087	0.049	4.74	1.84	10.9
+MP:0003202	abnormal neuron apoptosis	267	31	1.82	3.55	0.00084	0.049	1.98	1.3	2.92
+MP:0008415	abnormal neurite morphology	423	44	1.63	3.46	0.00084	0.049	1.76	1.24	2.44
+MP:0000794	abnormal parietal lobe morphology	41	9	3.44	4.09	0.00091	0.05	4.17	1.74	9
+MP:0004811	abnormal neuron physiology	667	63	1.48	3.36	0.00092	0.05	1.59	1.19	2.1

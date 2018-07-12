@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05144	Malaria	49	3	10.7	5.17	0.0027	0.016	12.2	2.32	40.9
+path:hsa04350	TGF-beta signaling pathway	84	3	6.24	3.67	0.012	0.036	6.9	1.33	22.6

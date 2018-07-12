@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1280218	Adaptive Immune System	746	14	3.08	4.62	0.00012	0.0048	3.75	1.9	6.97
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	8	3.6	3.96	0.0016	0.027	4.06	1.65	8.67
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	7	3.71	3.79	0.0027	0.027	4.13	1.57	9.2
+R-HSA-168256	Immune System	1970	22	1.83	3.23	0.002	0.027	2.32	1.31	4.02

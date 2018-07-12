@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0004400	Abnormality of the pylorus	83	4	10.6	5.97	0.00043	0.043	14.4	3.3	48.8
+HP:0002021	Pyloric stenosis	83	4	10.6	5.97	0.00043	0.043	14.4	3.3	48.8
+HP:0001643	Patent ductus arteriosus	246	6	5.35	4.79	0.00049	0.043	8.12	2.41	24.9
+HP:0000494	Downslanted palpebral fissures	332	7	4.63	4.7	0.00034	0.043	7.58	2.38	23

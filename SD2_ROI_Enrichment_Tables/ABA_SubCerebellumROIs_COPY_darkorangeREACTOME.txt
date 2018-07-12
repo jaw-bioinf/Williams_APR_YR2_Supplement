@@ -1,0 +1,25 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	8	6.94	6.45	1.9e-05	0.0012	7.93	3.24	16.8
+R-HSA-72613	Eukaryotic Translation Initiation	119	8	6.47	6.15	3.1e-05	0.0012	7.35	3.01	15.6
+R-HSA-72737	Cap-dependent Translation Initiation	119	8	6.47	6.15	3.1e-05	0.0012	7.35	3.01	15.6
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	7	7.09	6.11	5.6e-05	0.0016	8.05	3.06	17.9
+R-HSA-72689	Formation of a pool of free 40S subunits	101	7	6.67	5.87	8.2e-05	0.0016	7.53	2.87	16.7
+R-HSA-72766	Translation	258	11	4.1	5.18	7.2e-05	0.0016	4.62	2.2	8.81
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	9	4.76	5.25	0.00011	0.0018	5.33	2.33	10.8
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	7	6.02	5.47	0.00016	0.0019	6.73	2.58	14.9
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	7	5.86	5.37	0.00019	0.0019	6.55	2.51	14.5
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	7	5.86	5.37	0.00019	0.0019	6.55	2.51	14.5
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	9	4.54	5.06	0.00016	0.0019	5.06	2.21	10.2
+R-HSA-72312	rRNA processing	201	9	4.31	4.86	0.00023	0.0022	4.79	2.1	9.68
+R-HSA-192823	Viral mRNA Translation	89	6	6.49	5.33	0.00031	0.0028	7.24	2.52	17
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	6	6.21	5.17	4e-04	0.0032	6.91	2.41	16.2
+R-HSA-3928664	Ephrin signaling	19	3	15.2	6.35	0.00093	0.0071	18.3	3.37	65.5
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	6	4.34	3.98	0.0026	0.018	4.71	1.66	10.9
+R-HSA-168255	Influenza Life Cycle	143	6	4.04	3.75	0.0037	0.025	4.37	1.54	10.1
+R-HSA-168254	Influenza Infection	154	6	3.75	3.52	0.0053	0.033	4.04	1.42	9.32
+R-HSA-8953854	Metabolism of RNA	646	14	2.09	2.92	0.0068	0.041	2.28	1.19	4.06
+R-HSA-3928662	EPHB-mediated forward signaling	39	3	7.41	4.11	0.0076	0.043	8.14	1.58	26.4
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	3	6.88	3.91	0.0093	0.047	7.51	1.46	24.2
+R-HSA-390466	Chaperonin-mediated protein folding	43	3	6.72	3.85	0.0099	0.047	7.33	1.43	23.6
+R-HSA-391251	Protein folding	43	3	6.72	3.85	0.0099	0.047	7.33	1.43	23.6
+R-HSA-3214858	RMTs methylate histone arginines	79	4	4.87	3.54	0.0091	0.047	5.24	1.37	14.4

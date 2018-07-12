@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112315	Transmission across Chemical Synapses	224	32	2.25	4.92	1.2e-05	0.0074	2.53	1.67	3.74
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer	58	12	3.26	4.49	0.00023	0.02	3.9	1.87	7.53
+R-HSA-2644603	Signaling by NOTCH1 in Cancer	58	12	3.26	4.49	0.00023	0.02	3.9	1.87	7.53
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	58	12	3.26	4.49	0.00023	0.02	3.9	1.87	7.53
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	58	12	3.26	4.49	0.00023	0.02	3.9	1.87	7.53
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	58	12	3.26	4.49	0.00023	0.02	3.9	1.87	7.53
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	23	2.35	4.4	1e-04	0.02	2.65	1.61	4.18
+R-HSA-1980150	Signaling by NOTCH4	12	5	6.56	5.02	0.00055	0.041	10.6	2.65	38.9
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	14	2.62	3.89	0.00076	0.05	2.99	1.55	5.4

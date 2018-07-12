@@ -1,0 +1,53 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1474244	Extracellular matrix organization	278	26	10.2	14.9	1.2e-19	9.2e-18	15.1	9.04	24.6
+R-HSA-216083	Integrin cell surface interactions	81	12	16.1	13.2	7.3e-12	2.9e-10	21.4	10.1	41.8
+R-HSA-1566948	Elastic fibre formation	45	9	21.8	13.4	2.1e-10	5.6e-09	29.7	12.2	65.4
+R-HSA-2129379	Molecules associated with elastic fibres	38	8	22.9	13	1.5e-09	2.9e-08	31.3	12	72.6
+R-HSA-1474228	Degradation of the extracellular matrix	119	10	9.15	8.61	1.2e-07	1.9e-06	11	4.94	22
+R-HSA-3000178	ECM proteoglycans	50	7	15.2	9.72	3.2e-07	4.2e-06	18.9	6.97	44
+R-HSA-425366	Transport of bile salts and organic acids, metal ions and amine compounds	80	8	10.9	8.55	6.3e-07	7.1e-06	13	5.25	28.2
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	6	17.2	9.63	1.1e-06	1.1e-05	21.5	7.17	54
+R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	39	6	16.7	9.49	1.3e-06	1.1e-05	20.9	6.97	52.2
+R-HSA-8948216	Collagen chain trimerization	44	6	14.8	8.86	2.7e-06	2.1e-05	18.1	6.1	44.8
+R-HSA-8874081	MET activates PTK2 signaling	30	5	18.1	9.05	7e-06	4.9e-05	22.7	6.64	62.3
+R-HSA-1442490	Collagen degradation	52	6	12.6	8.05	7.4e-06	4.9e-05	15	5.09	36.4
+R-HSA-425407	SLC-mediated transmembrane transport	241	11	4.97	6	1.2e-05	7.3e-05	5.72	2.71	11
+R-HSA-2243919	Crosslinking of collagen fibrils	18	4	24.2	9.48	1.9e-05	9.3e-05	32.1	7.54	105
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	6	10.7	7.32	1.9e-05	9.3e-05	12.5	4.28	30.1
+R-HSA-1474290	Collagen formation	90	7	8.47	6.85	1.8e-05	9.3e-05	9.76	3.69	21.9
+R-HSA-8875878	MET promotes cell motility	41	5	13.3	7.58	3.4e-05	0.00015	15.8	4.72	41.6
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	6	9.75	6.92	3.2e-05	0.00015	11.3	3.88	27
+R-HSA-75892	Platelet Adhesion to exposed collagen	11	3	29.7	9.17	0.00012	0.00046	41.6	7	177
+R-HSA-3000157	Laminin interactions	28	4	15.5	7.42	0.00012	0.00046	18.7	4.62	56.1
+R-HSA-2022857	Keratan sulfate degradation	12	3	27.2	8.75	0.00016	0.00056	37	6.34	151
+R-HSA-430116	GP1b-IX-V activation signalling	12	3	27.2	8.75	0.00016	0.00056	37	6.34	151
+R-HSA-186797	Signaling by PDGF	58	5	9.38	6.17	0.00018	0.00063	10.7	3.26	27.5
+R-HSA-3781865	Diseases of glycosylation	135	7	5.64	5.23	0.00023	0.00077	6.3	2.41	13.9
+R-HSA-2214320	Anchoring fibril formation	15	3	21.8	7.75	0.00032	0.00096	27.8	4.95	106
+R-HSA-549132	Organic cation/anion/zwitterion transport	15	3	21.8	7.75	0.00032	0.00096	27.8	4.95	106
+R-HSA-3560782	Diseases associated with glycosaminoglycan metabolism	38	4	11.5	6.22	0.00039	0.0011	13.2	3.33	38.2
+R-HSA-442660	Na+/Cl- dependent neurotransmitter transporters	19	3	17.2	6.8	0.00065	0.0018	20.8	3.82	74.7
+R-HSA-6806834	Signaling by MET	79	5	6.89	5.06	0.00077	0.0021	7.64	2.35	19.3
+R-HSA-977606	Regulation of Complement cascade	47	4	9.26	5.47	0.00088	0.0023	10.4	2.66	29.6
+R-HSA-140837	Intrinsic Pathway of Fibrin Clot Formation	22	3	14.8	6.26	0.001	0.0025	17.5	3.27	61.1
+R-HSA-140875	Common Pathway of Fibrin Clot Formation	22	3	14.8	6.26	0.001	0.0025	17.5	3.27	61.1
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	12	2.68	3.66	0.0016	0.0038	2.98	1.47	5.55
+R-HSA-2022854	Keratan sulfate biosynthesis	27	3	12.1	5.56	0.0019	0.0043	13.9	2.63	47
+R-HSA-166658	Complement cascade	58	4	7.51	4.79	0.0019	0.0044	8.3	2.14	23.3
+R-HSA-8957275	Post-translational protein phosphorylation	108	5	5.04	4.06	0.0031	0.0068	5.48	1.7	13.7
+R-HSA-1638074	Keratan sulfate/keratin metabolism	33	3	9.89	4.93	0.0034	0.007	11.1	2.13	36.7
+R-HSA-2173782	Binding and Uptake of Ligands by Scavenger Receptors	33	3	9.89	4.93	0.0034	0.007	11.1	2.13	36.7
+R-HSA-109582	Hemostasis	608	13	2.33	3.25	0.0036	0.0072	2.58	1.31	4.7
+R-HSA-5083635	Defective B3GALTL causes Peters-plus syndrome (PpS)	37	3	8.82	4.59	0.0047	0.009	9.8	1.89	32
+R-HSA-76009	Platelet Aggregation (Plug Formation)	37	3	8.82	4.59	0.0047	0.009	9.8	1.89	32
+R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	38	3	8.59	4.52	0.005	0.0094	9.51	1.84	31.1
+R-HSA-1630316	Glycosaminoglycan metabolism	122	5	4.46	3.7	0.0052	0.0096	4.81	1.5	12
+R-HSA-114608	Platelet degranulation 	123	5	4.42	3.68	0.0054	0.0097	4.77	1.48	11.9
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	125	5	4.35	3.63	0.0058	0.01	4.69	1.46	11.7
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	5	4.25	3.57	0.0064	0.011	4.58	1.42	11.4
+R-HSA-112310	Neurotransmitter release cycle	51	3	6.4	3.72	0.011	0.019	6.93	1.36	22.1
+R-HSA-76002	Platelet activation, signaling and aggregation	271	7	2.81	2.91	0.012	0.02	3.01	1.16	6.57
+R-HSA-6785807	Interleukin-4 and 13 signaling	108	4	4.03	3.05	0.017	0.028	4.29	1.12	11.7
+R-HSA-3906995	Diseases associated with O-glycosylation of proteins	66	3	4.95	3.1	0.023	0.036	5.27	1.04	16.6
+R-HSA-382551	Transport of small molecules	705	12	1.85	2.26	0.027	0.042	2	0.986	3.71
+R-HSA-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	128	4	3.4	2.63	0.03	0.046	3.59	0.942	9.75

@@ -1,0 +1,95 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000429	Abnormality of the nasal alae	502	24	2.84	5.84	5.1e-07	0.00025	4.26	2.4	7.45
+HP:0005105	Abnormal nasal morphology	701	29	2.46	5.65	3.9e-07	0.00025	4	2.3	6.94
+HP:0002373	Febrile seizures	56	8	8.5	7.4	3e-06	0.00074	11.1	4.31	25.3
+HP:0010938	Abnormality of the external nose	676	27	2.38	5.21	2.7e-06	0.00074	3.64	2.08	6.32
+HP:0045060	Aplasia/hypoplasia involving bones of the extremities	469	21	2.66	5.06	1.1e-05	0.0021	3.7	2.04	6.54
+HP:0005927	Aplasia/hypoplasia involving bones of the hand	375	18	2.86	4.97	2.3e-05	0.0037	3.8	2.03	6.85
+HP:0000463	Anteverted nares	417	19	2.71	4.87	2.6e-05	0.0037	3.64	1.97	6.51
+HP:0005288	Abnormality of the nares	425	19	2.66	4.77	3.5e-05	0.0038	3.56	1.93	6.36
+HP:0009815	Aplasia/hypoplasia of the extremities	504	21	2.48	4.69	3.3e-05	0.0038	3.39	1.88	5.99
+HP:0001770	Toe syndactyly	137	10	4.34	5.22	7.2e-05	0.0062	5.34	2.35	11
+HP:0006496	Aplasia/hypoplasia involving bones of the upper limbs	405	18	2.64	4.6	6.5e-05	0.0062	3.47	1.86	6.26
+HP:0000174	Abnormality of the palate	708	25	2.1	4.29	7.5e-05	0.0062	2.98	1.69	5.18
+HP:0006101	Finger syndactyly	171	11	3.83	4.96	9.7e-05	0.0074	4.71	2.16	9.42
+HP:0001159	Syndactyly	277	14	3.01	4.55	0.00014	0.0095	3.77	1.88	7.1
+HP:0000218	High palate	430	18	2.49	4.31	0.00014	0.0095	3.24	1.73	5.83
+HP:0011182	Epileptiform EEG discharges	84	7	4.96	4.8	0.00044	0.016	5.89	2.19	13.6
+HP:0000003	Multicystic kidney dysplasia	109	8	4.37	4.67	4e-04	0.016	5.2	2.08	11.4
+HP:0006265	Aplasia/Hypoplasia of fingers	231	12	3.09	4.3	0.00035	0.016	3.77	1.79	7.34
+HP:0001172	Abnormality of the thumb	266	13	2.91	4.23	0.00035	0.016	3.57	1.75	6.83
+HP:0006493	Aplasia/hypoplasia involving bones of the lower limbs	303	14	2.75	4.16	0.00035	0.016	3.4	1.7	6.4
+HP:0001780	Abnormality of toe	449	18	2.38	4.11	0.00025	0.016	3.07	1.65	5.53
+HP:0000765	Abnormality of the thorax	633	22	2.07	3.88	0.00033	0.016	2.76	1.54	4.85
+HP:0001167	Abnormality of finger	784	25	1.9	3.73	0.00042	0.016	2.61	1.48	4.53
+HP:0009115	Aplasia/hypoplasia involving the skeleton	830	26	1.86	3.72	4e-04	0.016	2.59	1.48	4.5
+HP:0011297	Abnormality of digit	1030	30	1.73	3.66	0.00038	0.016	2.53	1.46	4.4
+HP:0001249	Intellectual disability	1135	32	1.68	3.63	0.00037	0.016	2.52	1.46	4.4
+HP:0011844	Abnormal appendicular skeleton morphology	1199	33	1.64	3.56	0.00044	0.016	2.49	1.43	4.35
+HP:0000159	Abnormality of the lip	748	24	1.91	3.66	0.00053	0.019	2.58	1.46	4.5
+HP:0200134	Epileptic encephalopathy	64	6	5.58	4.83	0.00061	0.02	6.61	2.23	16.2
+HP:0012759	Neurodevelopmental abnormality	1623	40	1.47	3.35	0.00062	0.02	2.48	1.4	4.56
+HP:0002814	Abnormality of the lower limb	1067	30	1.67	3.44	0.00074	0.024	2.41	1.39	4.18
+HP:0003763	Bruxism	12	3	14.9	6.29	0.00089	0.026	20.4	3.46	84.7
+HP:0007334	Generalized tonic-clonic seizures with focal onset	12	3	14.9	6.29	0.00089	0.026	20.4	3.46	84.7
+HP:0009601	Aplasia/Hypoplasia of the thumb	95	7	4.38	4.37	0.00092	0.026	5.14	1.91	11.8
+HP:0000107	Renal cyst	221	11	2.96	3.94	0.00091	0.026	3.53	1.63	7.03
+HP:0002813	Abnormality of limb bone morphology	1135	31	1.62	3.35	0.00095	0.026	2.35	1.36	4.09
+HP:0002167	Neurological speech impairment	785	24	1.82	3.4	0.0011	0.028	2.42	1.37	4.22
+HP:0000925	Abnormality of the vertebral column	935	27	1.72	3.35	0.0011	0.028	2.36	1.35	4.1
+HP:0000366	Abnormality of the nose	1197	32	1.59	3.29	0.0011	0.028	2.33	1.34	4.06
+HP:0008678	Renal hypoplasia/aplasia	264	12	2.7	3.76	0.0012	0.029	3.24	1.54	6.3
+HP:0000089	Renal hypoplasia	130	8	3.66	4.04	0.0013	0.031	4.28	1.71	9.34
+HP:0100886	Abnormality of globe location	744	23	1.84	3.37	0.0013	0.031	2.42	1.36	4.22
+HP:0000422	Abnormality of the nasal bridge	702	22	1.86	3.35	0.0015	0.033	2.42	1.35	4.25
+HP:0040068	Abnormality of limb bone	1160	31	1.59	3.21	0.0014	0.033	2.28	1.31	3.96
+HP:0012639	Abnormality of nervous system morphology	2000	45	1.34	3.02	0.0015	0.033	2.46	1.32	4.87
+HP:0040066	Abnormal morphology of bones of the lower limbs	136	8	3.5	3.89	0.0017	0.034	4.07	1.63	8.88
+HP:0000436	Abnormality of the nasal tip	202	10	2.95	3.72	0.0017	0.034	3.46	1.54	7.06
+HP:0001270	Motor delay	395	15	2.26	3.47	0.0017	0.034	2.75	1.41	5.1
+HP:0005918	Abnormality of phalanx of finger	479	17	2.11	3.42	0.0016	0.034	2.62	1.38	4.74
+HP:0002817	Abnormality of the upper limb	1063	29	1.62	3.18	0.0017	0.034	2.26	1.3	3.92
+HP:0000678	Dental crowding	108	7	3.86	3.94	0.002	0.038	4.46	1.67	10.2
+HP:0000240	Abnormality of skull size	968	27	1.66	3.15	0.002	0.038	2.25	1.29	3.9
+HP:0009767	Aplasia/Hypoplasia of the phalanges of the hand	173	9	3.09	3.69	0.0021	0.039	3.61	1.53	7.57
+HP:0001155	Abnormality of the hand	972	27	1.65	3.13	0.0021	0.039	2.24	1.28	3.88
+HP:0011198	EEG with generalized epileptiform discharges	82	6	4.35	4.02	0.0023	0.04	5.02	1.71	12.2
+HP:0001600	Abnormality of the larynx	142	8	3.35	3.74	0.0023	0.04	3.88	1.56	8.45
+HP:0000692	Misalignment of teeth	287	12	2.49	3.44	0.0024	0.04	2.95	1.41	5.73
+HP:0004207	Abnormality of the 5th finger	324	13	2.39	3.43	0.0022	0.04	2.85	1.4	5.44
+HP:0000356	Abnormality of the outer ear	776	23	1.76	3.15	0.0023	0.04	2.29	1.29	4
+HP:0004122	Midline defect of the nose	17	3	10.5	5.13	0.0026	0.043	13.1	2.35	48.9
+HP:0000817	Poor eye contact	59	5	5.04	4.09	0.0028	0.043	5.82	1.75	15.3
+HP:0000372	Abnormality of the auditory canal	85	6	4.2	3.9	0.0027	0.043	4.83	1.65	11.7
+HP:0007359	Focal seizures	87	6	4.1	3.83	0.0031	0.043	4.71	1.61	11.4
+HP:0012331	Abnormal autonomic nervous system morphology	116	7	3.59	3.71	0.003	0.043	4.12	1.54	9.4
+HP:0025028	Abnormality of enteric nervous system morphology	116	7	3.59	3.71	0.003	0.043	4.12	1.54	9.4
+HP:0004362	Abnormality of enteric ganglion morphology	116	7	3.59	3.71	0.003	0.043	4.12	1.54	9.4
+HP:0002251	Aganglionic megacolon	116	7	3.59	3.71	0.003	0.043	4.12	1.54	9.4
+HP:0006494	Aplasia/Hypoplasia involving bones of the feet	256	11	2.56	3.38	0.003	0.043	3	1.39	5.95
+HP:0000431	Wide nasal bridge	331	13	2.34	3.34	0.0027	0.043	2.78	1.36	5.31
+HP:0040064	Abnormality of limbs	1488	36	1.44	2.92	0.0028	0.043	2.15	1.24	3.83
+HP:0010609	Skin tags	61	5	4.88	3.99	0.0033	0.044	5.61	1.69	14.7
+HP:0000142	Abnormality of the vagina	88	6	4.06	3.8	0.0032	0.044	4.65	1.59	11.2
+HP:0100022	Abnormality of movement	1159	30	1.54	2.94	0.0032	0.044	2.13	1.23	3.69
+HP:0003808	Abnormal muscle tone	1269	32	1.5	2.92	0.0032	0.044	2.12	1.22	3.7
+HP:0010554	Cutaneous finger syndactyly	39	4	6.1	4.19	0.0038	0.046	7.09	1.77	20.8
+HP:0002133	Status epilepticus	62	5	4.8	3.94	0.0035	0.046	5.51	1.66	14.4
+HP:0001831	Short toe	120	7	3.47	3.6	0.0036	0.046	3.97	1.49	9.05
+HP:0000729	Autistic behavior	225	10	2.64	3.33	0.0037	0.046	3.07	1.37	6.24
+HP:0002060	Abnormality of the cerebrum	1167	30	1.53	2.89	0.0036	0.046	2.1	1.21	3.65
+HP:0100547	Abnormality of forebrain morphology	1170	30	1.53	2.88	0.0038	0.046	2.1	1.21	3.64
+HP:0000153	Abnormality of the mouth	1389	34	1.46	2.86	0.0035	0.046	2.1	1.21	3.7
+HP:0011446	Abnormality of higher mental function	1451	35	1.44	2.83	0.0038	0.046	2.1	1.21	3.7
+HP:0002197	Generalized seizures	155	8	3.07	3.45	0.0039	0.047	3.52	1.42	7.66
+HP:0100007	Neoplasm of the peripheral nervous system	40	4	5.95	4.12	0.0042	0.048	6.89	1.72	20.2
+HP:0002540	Inability to walk	124	7	3.36	3.5	0.0043	0.048	3.83	1.44	8.72
+HP:0002270	Abnormality of the autonomic nervous system	158	8	3.01	3.38	0.0044	0.048	3.45	1.39	7.5
+HP:0011927	Short digit	390	14	2.14	3.11	0.0042	0.048	2.54	1.28	4.77
+HP:0000036	Abnormality of the penis	522	17	1.94	3.03	0.0042	0.048	2.36	1.25	4.28
+HP:0001760	Abnormality of the foot	911	25	1.63	2.9	0.0042	0.048	2.13	1.21	3.7
+HP:0001595	Abnormality of the hair	863	24	1.65	2.89	0.0044	0.048	2.13	1.21	3.72
+HP:0009121	Abnormal axial skeleton morphology	1638	38	1.38	2.75	0.0043	0.048	2.09	1.19	3.77
+HP:0410008	Abnormality of the peripheral nervous system	159	8	2.99	3.36	0.0046	0.049	3.43	1.38	7.44
+HP:0040069	Abnormality of lower limb bone	528	17	1.92	2.98	0.0047	0.049	2.33	1.23	4.22
+HP:0011138	Abnormality of skin adnexa morphology	968	26	1.6	2.86	0.0045	0.049	2.1	1.2	3.64

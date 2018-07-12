@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003313	abnormal locomotor activation	1152	51	1.75	4.37	3.7e-05	0.021	2	1.43	2.76
+MP:0001392	abnormal locomotor behavior	1537	63	1.62	4.28	4e-05	0.021	1.88	1.38	2.54
+MP:0003491	abnormal voluntary movement	1648	66	1.58	4.19	5.1e-05	0.021	1.84	1.36	2.48

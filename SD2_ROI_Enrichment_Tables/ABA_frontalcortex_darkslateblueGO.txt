@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0222	3	5	1	0.2	0.333	CORUM:3195	cor	5	G protein complex (Btk, Gng2, Gnb1)	1	GNG2
+2	1	TRUE	0.0198	2	5	1	0.2	0.5	CORUM:3193	cor	11	G protein complex (Hdac5, Gnb1, Gng2)	1	GNG2
+3	1	TRUE	0.0198	2	5	1	0.2	0.5	CORUM:6673	cor	4	Foxo1-Yap1 complex	1	FOXO1
+4	1	TRUE	0.0198	2	5	1	0.2	0.5	CORUM:6424	cor	2	FOXO1-CREB1 complex	1	FOXO1
+5	1	TRUE	0.0222	3	5	1	0.2	0.333	CORUM:3192	cor	9	G protein complex (Hdac4, Gnb1, Gng2)	1	GNG2
+6	1	TRUE	0.0198	2	5	1	0.2	0.5	CORUM:44	cor	6	CASK-MINT complex	1	APBA1
+7	1	TRUE	0.0295	5	5	1	0.2	0.2	CORUM:122	cor	8	MCM complex	1	MCM6
+8	1	TRUE	0.0198	2	5	1	0.2	0.5	CORUM:6425	cor	10	FOXO1-ATF4 complex	1	FOXO1
+9	1	TRUE	0.0263	4	5	1	0.2	0.25	CORUM:3119	cor	1	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	APBA1
+10	1	TRUE	0.0198	2	5	1	0.2	0.5	CORUM:6542	cor	7	Spg33-Rtn3 complex	1	RTN3
+11	1	TRUE	0.00409	3403	69	28	0.406	0.008	TF:M01119_1	tf	3	Factor: Kaiso; motif: NTCCTGCNAN; match class: 1	1	CLEC10A,WAP,TEX22,LAMP2,SEPT4,SERPINA1F,UNC79,APBA1,FERMT3,LCN4,PROCR,SPARCL1,PAK1,FGFR2,TLR13,PCDH11X,CMTM5,FOXO1,OPALIN,GPR87,4930564D02RIK,GPER1,SLC51B,ZFP941,3110001I22RIK,ESRP2,UGT1A5,HIGD1C

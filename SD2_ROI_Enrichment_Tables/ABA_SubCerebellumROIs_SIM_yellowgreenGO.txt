@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0108	3	2	1	0.5	0.333	CORUM:3553	cor	5	Traf6-p62-aPKC complex, RANK-L stimulated	1	PRKCI
+2	1	TRUE	0.0108	3	2	1	0.5	0.333	CORUM:965	cor	6	mPar6c-Mlgl-aPKC complex	1	PRKCI
+3	1	TRUE	0.0108	4	2	1	0.5	0.25	CORUM:6262	cor	4	L11-HDM2-p53-ARF complex	1	RPL11
+4	1	TRUE	0.0108	4	2	1	0.5	0.25	CORUM:5725	cor	2	Mdm2-P53 complex	1	RPL11
+5	1	TRUE	0.0371	2	22	2	0.091	1	HP:0001483	hp	1	Eye poking	1	GUCY2E,RPE65

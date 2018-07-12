@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0012848	Small intestinal stenosis	45	5	9.07	6.07	0.00018	0.039	11.2	3.28	30.8
+HP:0100867	Duodenal stenosis	45	5	9.07	6.07	0.00018	0.039	11.2	3.28	30.8
+HP:0002246	Abnormality of the duodenum	63	6	7.77	6.04	9.5e-05	0.039	9.68	3.21	24.4

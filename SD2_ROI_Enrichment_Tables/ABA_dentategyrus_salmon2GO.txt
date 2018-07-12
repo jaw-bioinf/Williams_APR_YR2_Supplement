@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00606	2	2	1	0.5	0.5	CORUM:5722	cor	4	Cbl-Cd2ap complex	1	CD2AP
+2	1	TRUE	0.00606	2	2	1	0.5	0.5	CORUM:690	cor	2	Cd2ap-Synpo complex	1	CD2AP
+3	1	TRUE	0.00606	2	2	1	0.5	0.5	CORUM:5723	cor	6	Cbl-Cd2ap-Flt1 complex	1	CD2AP
+4	1	TRUE	0.00606	2	2	1	0.5	0.5	CORUM:688	cor	5	Cd2ap-Fyn complex	1	CD2AP
+5	1	TRUE	0.00758	3	2	1	0.5	0.333	CORUM:1014	cor	7	Pcdhga1-Pcdha4 complex	1	PCDHGA1
+6	1	TRUE	0.00606	2	2	1	0.5	0.5	CORUM:1021	cor	3	Pcdha7-Pcdhga1 complex	1	PCDHGA1

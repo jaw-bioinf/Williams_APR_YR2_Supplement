@@ -1,0 +1,8 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-77387 Insulin receptor recycling 26 3 17.5 6.86 0.00064 0.011 20.5 3.85 70.6
+R-HSA-917977 Transferrin endocytosis and recycling 31 3 14.7 6.21 0.0011 0.011 16.8 3.2 56.8
+R-HSA-1222556 ROS, RNS production in phagocytes 32 3 14.2 6.1 0.0012 0.011 16.3 3.09 54.7
+R-HSA-15869 Metabolism of nucleotides 101 5 7.51 5.36 0.00052 0.011 8.41 2.58 21.4
+R-HSA-204005 COPII (Coat Protein 2) Mediated Vesicle Transport 68 4 8.92 5.34 0.001 0.011 9.95 2.55 28
+R-HSA-8956319 Nucleobase catabolism 36 3 12.6 5.7 0.0017 0.013 14.3 2.73 47.4
+R-HSA-917937 Iron uptake and transport 58 3 7.85 4.26 0.0065 0.044 8.56 1.67 27.5

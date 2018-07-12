@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004820	abnormal urine potassium level	38	3	34.9	9.97	8e-05	0.011	43.8	7.9	160
+MP:0006274	abnormal urine sodium level	59	3	22.5	7.88	3e-04	0.013	27.3	5.02	97.5
+MP:0000231	hypertension	64	3	20.7	7.54	0.00038	0.013	25.1	4.61	89.2
+MP:0002842	increased systemic arterial blood pressure	150	4	11.8	6.34	0.00032	0.013	14.7	3.55	45.8
+MP:0011978	abnormal potassium ion homeostasis	112	3	11.8	5.49	0.0019	0.043	14	2.6	48.9
+MP:0000230	abnormal systemic arterial blood pressure	243	4	7.27	4.72	0.0019	0.043	8.87	2.16	27.5

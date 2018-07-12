@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0013239	impaired skeletal muscle regeneration	20	3	25.3	8.4	0.00021	0.037	31.2	5.68	112
+MP:0013160	impaired muscle regeneration	21	3	24.1	8.18	0.00024	0.037	29.4	5.39	105

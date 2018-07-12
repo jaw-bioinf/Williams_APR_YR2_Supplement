@@ -1,0 +1,11 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0004337 Abnormality of amino acid metabolism 196 37 2.39 5.87 2.4e-07 0.00024 2.98 1.98 4.4
+HP:0001941 Acidosis 277 47 2.15 5.84 1.5e-07 0.00024 2.67 1.85 3.78
+HP:0004360 Abnormality of acid-base homeostasis 296 48 2.05 5.55 4.5e-07 0.00029 2.52 1.76 3.56
+HP:0004354 Abnormality of carboxylic acid metabolism 229 40 2.21 5.56 6.6e-07 0.00032 2.72 1.83 3.95
+HP:0003128 Lactic acidosis 168 32 2.41 5.5 1.4e-06 0.00055 2.97 1.91 4.51
+HP:0012103 Abnormality of the mitochondrion 113 22 2.47 4.64 4.8e-05 0.014 2.98 1.75 4.88
+HP:0012072 Aciduria 198 32 2.05 4.44 5e-05 0.014 2.41 1.56 3.63
+HP:0003287 Abnormality of mitochondrial metabolism 99 20 2.56 4.61 6.2e-05 0.015 3.11 1.77 5.22
+HP:0003355 Aminoaciduria 159 27 2.15 4.35 8.5e-05 0.018 2.54 1.58 3.95
+HP:0001254 Lethargy 105 20 2.41 4.3 0.00015 0.029 2.88 1.65 4.83

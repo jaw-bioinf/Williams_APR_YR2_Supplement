@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0108	2	2	1	0.5	0.5	CORUM:5960	cor	3	p50-p65 Nf(kappa)B complex, Il-1-beta induced	1	NFKB1
+2	1	TRUE	0.0269	10	2	1	0.5	0.1	CORUM:582	cor	4	Ikaros complex	1	IKZF2
+3	1	TRUE	0.0108	2	2	1	0.5	0.5	CORUM:5368	cor	2	p50-p65 Nf(kappa)B complex	1	NFKB1
+4	1	TRUE	0.0144	4	2	1	0.5	0.25	CORUM:583	cor	5	Ikaros-NuRD complex	1	IKZF2

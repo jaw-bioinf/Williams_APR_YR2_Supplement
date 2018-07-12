@@ -1,0 +1,11 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-72203 Processing of Capped Intron-Containing Pre-mRNA 243 10 5.22 5.93 2e-05 0.0014 6.03 2.73 12
+R-HSA-72163 mRNA Splicing - Major Pathway 183 8 5.54 5.53 9.2e-05 0.003 6.28 2.57 13.3
+R-HSA-72172 mRNA Splicing 191 8 5.31 5.36 0.00012 0.003 6 2.46 12.7
+R-HSA-8956320 Nucleobase biosynthesis 15 3 25.3 8.42 2e-04 0.0036 32.6 5.78 124
+R-HSA-5693554 Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA) 26 3 14.6 6.2 0.0011 0.016 17 3.2 58.1
+R-HSA-5693568 Resolution of D-loop Structures through Holliday Junction Intermediates 33 3 11.5 5.4 0.0022 0.021 13 2.49 43.3
+R-HSA-5693537 Resolution of D-Loop Structures 34 3 11.2 5.3 0.0024 0.021 12.6 2.41 41.8
+R-HSA-5685942 HDR through Homologous Recombination (HRR) 67 4 7.57 4.81 0.0019 0.021 8.35 2.15 23.4
+R-HSA-5693616 Presynaptic phase of homologous DNA pairing and strand exchange 39 3 9.75 4.88 0.0035 0.028 10.8 2.09 35.5
+R-HSA-5693579 Homologous DNA Pairing and Strand Exchange 42 3 9.05 4.66 0.0043 0.031 10 1.94 32.6

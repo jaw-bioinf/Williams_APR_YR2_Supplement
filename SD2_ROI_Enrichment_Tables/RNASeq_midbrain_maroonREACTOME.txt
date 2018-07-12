@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72165	mRNA Splicing - Minor Pathway	52	4	21.4	8.86	3.4e-05	0.00035	25.8	6.38	77
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	7	8.01	6.65	2.1e-05	0.00035	9.96	3.64	23.5
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	7.6	5.41	0.00046	0.0023	8.87	2.66	23.4
+R-HSA-72172	mRNA Splicing	191	5	7.28	5.26	0.00056	0.0023	8.48	2.55	22.3
+R-HSA-8953854	Metabolism of RNA	646	9	3.87	4.54	0.00036	0.0023	4.89	2.01	10.8
+R-HSA-5578749	Transcriptional regulation by small RNAs	104	3	8.02	4.32	0.0061	0.021	8.88	1.72	29
+R-HSA-211000	Gene Silencing by RNA	117	3	7.13	4.01	0.0084	0.025	7.86	1.52	25.6

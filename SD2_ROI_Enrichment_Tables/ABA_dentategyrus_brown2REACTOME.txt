@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2682334	EPH-Ephrin signaling	81	4	15.5	7.39	0.00012	0.002	18.3	4.57	54.3
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	50	3	18.8	7.13	0.00052	0.0045	21.8	4.11	74.1
+R-HSA-422475	Axon guidance	295	5	5.3	4.25	0.0022	0.013	6.19	1.85	16.4

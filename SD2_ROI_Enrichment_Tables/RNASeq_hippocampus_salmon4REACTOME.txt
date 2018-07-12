@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1483257	Phospholipid metabolism	200	5	6.59	4.93	0.00089	0.0099	7.6	2.29	19.9
+R-HSA-556833	Metabolism of lipids	696	9	3.41	4.06	0.00094	0.0099	4.19	1.74	9.15
+R-HSA-1483255	PI Metabolism	78	3	10.1	5	0.0032	0.022	11.3	2.18	37.1
+R-HSA-1430728	Metabolism	1899	14	1.94	2.82	0.0074	0.039	2.5	1.19	5.05
+R-HSA-5663202	Diseases of signal transduction	359	5	3.67	3.18	0.011	0.046	4.12	1.25	10.7

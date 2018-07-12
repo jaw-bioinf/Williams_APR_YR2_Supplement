@@ -1,0 +1,78 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003633	abnormal nervous system physiology	1903	205	1.45	6.22	1.6e-09	4.6e-06	1.72	1.44	2.04
+MP:0002882	abnormal neuron morphology	1515	167	1.48	5.82	2e-08	2.9e-05	1.72	1.42	2.07
+MP:0002206	abnormal CNS synaptic transmission	653	87	1.79	5.95	3.5e-08	3.4e-05	2.04	1.59	2.61
+MP:0002064	seizures	383	57	2	5.67	2.6e-07	0.00017	2.28	1.67	3.07
+MP:0002152	abnormal brain morphology	1633	172	1.42	5.25	3e-07	0.00017	1.62	1.34	1.95
+MP:0003635	abnormal synaptic transmission	740	91	1.65	5.25	6.9e-07	0.00034	1.86	1.45	2.36
+MP:0009357	abnormal seizure response to inducing agent	190	34	2.41	5.55	1.2e-06	0.00051	2.8	1.86	4.12
+MP:0002063	abnormal learning/memory/conditioning	664	81	1.64	4.85	4.2e-06	0.0014	1.83	1.41	2.34
+MP:0014114	abnormal cognition	665	81	1.64	4.84	4.4e-06	0.0014	1.82	1.41	2.34
+MP:0002918	abnormal paired-pulse facilitation	75	18	3.23	5.49	6.6e-06	0.0019	4.01	2.21	6.96
+MP:0002921	abnormal post-tetanic potentiation	24	9	5.04	5.62	3.1e-05	0.0065	7.55	2.9	18.5
+MP:0008415	abnormal neurite morphology	423	55	1.75	4.47	2.8e-05	0.0065	1.93	1.41	2.61
+MP:0004811	abnormal neuron physiology	667	78	1.57	4.35	3e-05	0.0065	1.73	1.33	2.23
+MP:0001392	abnormal locomotor behavior	1537	154	1.35	4.23	2.8e-05	0.0065	1.5	1.23	1.81
+MP:0003216	absence seizures	37	11	4	5.18	5.1e-05	0.0081	5.33	2.37	11.2
+MP:0002804	abnormal motor learning	57	14	3.3	4.94	5.3e-05	0.0081	4.12	2.07	7.72
+MP:0003088	abnormal prepulse inhibition	186	30	2.17	4.56	4.2e-05	0.0081	2.46	1.59	3.68
+MP:0001393	ataxia	320	44	1.85	4.38	4.7e-05	0.0081	2.05	1.44	2.86
+MP:0009937	abnormal neuron differentiation	360	48	1.79	4.35	4.8e-05	0.0081	1.98	1.42	2.73
+MP:0008143	abnormal dendrite morphology	198	31	2.11	4.46	5.6e-05	0.0082	2.37	1.55	3.53
+MP:0003491	abnormal voluntary movement	1648	161	1.31	3.98	6.9e-05	0.0097	1.45	1.2	1.75
+MP:0003313	abnormal locomotor activation	1152	119	1.39	4	7.8e-05	0.01	1.52	1.23	1.88
+MP:0001961	abnormal reflex	767	85	1.49	4.02	9.1e-05	0.012	1.63	1.27	2.08
+MP:0000951	sporadic seizures	34	10	3.96	4.89	0.00012	0.014	5.25	2.23	11.4
+MP:0000801	abnormal temporal lobe morphology	352	46	1.76	4.11	0.00011	0.014	1.93	1.37	2.67
+MP:0000794	abnormal parietal lobe morphology	41	11	3.61	4.74	0.00014	0.015	4.62	2.08	9.53
+MP:0001516	abnormal motor coordination/ balance	833	90	1.45	3.88	0.00014	0.015	1.58	1.24	2.01
+MP:0003997	tonic-clonic seizures	78	16	2.76	4.42	0.00016	0.017	3.26	1.75	5.76
+MP:0000948	nonconvulsive seizures	42	11	3.52	4.64	0.00018	0.018	4.47	2.02	9.19
+MP:0002922	decreased post-tetanic potentiation	14	6	5.76	5.06	3e-04	0.02	9.4	2.68	31
+MP:0002920	decreased paired-pulse facilitation	31	9	3.9	4.59	3e-04	0.02	5.14	2.08	11.7
+MP:0001883	increased mammary adenocarcinoma incidence	57	13	3.07	4.44	0.00022	0.02	3.73	1.83	7.09
+MP:0002651	abnormal sciatic nerve morphology	52	12	3.1	4.31	0.00034	0.02	3.78	1.8	7.4
+MP:0000947	convulsive seizures	175	27	2.07	4.07	0.00021	0.02	2.32	1.47	3.55
+MP:0000950	abnormal seizure response to pharmacological agent	134	22	2.21	3.99	0.00033	0.02	2.49	1.49	3.99
+MP:0001463	abnormal spatial learning	234	33	1.9	3.94	0.00026	0.02	2.1	1.39	3.07
+MP:0002557	abnormal social/conspecific interaction	351	45	1.72	3.92	0.00021	0.02	1.89	1.34	2.62
+MP:0002327	abnormal respiratory function	415	51	1.65	3.86	0.00023	0.02	1.8	1.3	2.45
+MP:0003202	abnormal neuron apoptosis	267	36	1.81	3.82	0.00034	0.02	1.99	1.35	2.87
+MP:0001258	decreased body length	326	42	1.73	3.82	3e-04	0.02	1.9	1.32	2.66
+MP:0001951	abnormal breathing pattern	346	44	1.71	3.82	0.00029	0.02	1.87	1.32	2.6
+MP:0000807	abnormal hippocampus morphology	346	44	1.71	3.82	0.00029	0.02	1.87	1.32	2.6
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	98	1.41	3.73	0.00023	0.02	1.53	1.21	1.92
+MP:0011087	neonatal lethality, complete penetrance	672	74	1.48	3.67	0.00033	0.02	1.61	1.23	2.08
+MP:0002106	abnormal muscle physiology	954	99	1.4	3.66	0.00029	0.02	1.52	1.2	1.9
+MP:0000783	abnormal forebrain morphology	1011	104	1.38	3.66	0.00028	0.02	1.5	1.19	1.88
+MP:0000787	abnormal telencephalon morphology	808	86	1.43	3.64	0.00033	0.02	1.55	1.21	1.97
+MP:0012322	decreased total tissue mass	1833	172	1.26	3.55	0.00032	0.02	1.38	1.15	1.66
+MP:0001262	decreased body weight	1833	172	1.26	3.55	0.00032	0.02	1.38	1.15	1.66
+MP:0003312	abnormal locomotor coordination	672	73	1.46	3.52	0.00053	0.031	1.58	1.2	2.05
+MP:0004770	abnormal synaptic vesicle recycling	21	7	4.48	4.53	0.00056	0.032	6.28	2.14	16.7
+MP:0012506	brain atrophy	27	8	3.98	4.4	0.00056	0.032	5.29	2	12.7
+MP:0004753	abnormal miniature excitatory postsynaptic currents	104	18	2.33	3.86	0.00059	0.032	2.65	1.49	4.47
+MP:0012431	increased lymphoma incidence	245	33	1.81	3.65	6e-04	0.032	1.98	1.32	2.9
+MP:0000819	abnormal olfactory bulb morphology	159	24	2.03	3.71	0.00065	0.034	2.26	1.39	3.53
+MP:0008540	abnormal cerebral hemisphere morphology	609	67	1.48	3.47	0.00064	0.034	1.6	1.2	2.09
+MP:0002207	abnormal long term potentiation	237	32	1.82	3.61	0.00069	0.035	1.99	1.31	2.92
+MP:0000350	abnormal cell proliferation	966	98	1.36	3.39	0.00069	0.035	1.47	1.16	1.85
+MP:0002906	increased susceptibility to pharmacologically induced seizures	106	18	2.28	3.77	0.00075	0.037	2.59	1.46	4.36
+MP:0000890	thin cerebellar molecular layer	35	9	3.46	4.13	8e-04	0.039	4.35	1.79	9.63
+MP:0000876	Purkinje cell degeneration	81	15	2.49	3.82	0.00081	0.039	2.87	1.51	5.11
+MP:0012349	increased susceptibility to induction of seizure by inducing agent	107	18	2.26	3.72	0.00084	0.039	2.56	1.44	4.31
+MP:0001362	abnormal anxiety-related response	332	41	1.66	3.47	0.00084	0.039	1.8	1.25	2.53
+MP:0001458	abnormal object recognition memory	82	15	2.46	3.76	0.00092	0.04	2.83	1.49	5.03
+MP:0003651	abnormal axon extension	82	15	2.46	3.76	0.00092	0.04	2.83	1.49	5.03
+MP:0000877	abnormal Purkinje cell morphology	231	31	1.8	3.51	0.00092	0.04	1.97	1.29	2.92
+MP:0001943	abnormal respiration	594	65	1.47	3.37	0.00089	0.04	1.58	1.19	2.08
+MP:0000889	abnormal cerebellar molecular layer	74	14	2.54	3.78	0.00096	0.041	2.94	1.51	5.36
+MP:0009956	abnormal cerebellar layer morphology	314	39	1.67	3.42	0.001	0.042	1.81	1.25	2.57
+MP:0001399	hyperactivity	475	54	1.53	3.35	0.001	0.042	1.65	1.2	2.22
+MP:0003861	abnormal nervous system development	1215	118	1.31	3.24	0.001	0.042	1.41	1.13	1.74
+MP:0001405	impaired coordination	454	52	1.54	3.35	0.0011	0.043	1.66	1.21	2.25
+MP:0002065	abnormal fear/anxiety-related behavior	369	44	1.6	3.35	0.0011	0.046	1.73	1.22	2.41
+MP:0002024	increased T cell derived lymphoma incidence	102	17	2.24	3.57	0.0013	0.05	2.53	1.4	4.32
+MP:0002272	abnormal nervous system electrophysiology	339	41	1.63	3.33	0.0013	0.05	1.76	1.22	2.47
+MP:0004166	abnormal limbic system morphology	393	46	1.57	3.3	0.0013	0.05	1.7	1.21	2.34
+MP:0006042	increased apoptosis	832	85	1.37	3.2	0.0013	0.05	1.47	1.15	1.88

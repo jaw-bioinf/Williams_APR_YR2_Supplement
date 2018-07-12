@@ -1,0 +1,46 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001421	Abnormality of the musculature of the hand	44	13	6.17	7.74	6.2e-08	9.7e-05	8.94	4.21	18
+HP:0004810	Congenital hypoplastic anemia	18	8	9.29	7.9	6.8e-07	0.00031	16.6	5.62	47.5
+HP:0001908	Hypoplastic anemia	19	8	8.8	7.64	1.1e-06	0.00031	15.1	5.2	41.9
+HP:0010486	Abnormality of the hypothenar eminence	15	7	9.75	7.61	2.4e-06	0.00031	18.1	5.51	57.8
+HP:0030270	Elevated red cell adenosine deaminase activity	15	7	9.75	7.61	2.4e-06	0.00031	18.1	5.51	57.8
+HP:0010487	Small hypothenar eminence	15	7	9.75	7.61	2.4e-06	0.00031	18.1	5.51	57.8
+HP:0008437	Bifid thoracic vertebrae	15	7	9.75	7.61	2.4e-06	0.00031	18.1	5.51	57.8
+HP:0008447	Hypoplastic coccygeal vertebrae	15	7	9.75	7.61	2.4e-06	0.00031	18.1	5.51	57.8
+HP:0008475	Hypoplastic sacral vertebrae	15	7	9.75	7.61	2.4e-06	0.00031	18.1	5.51	57.8
+HP:0001897	Normocytic anemia	20	8	8.36	7.4	1.8e-06	0.00031	13.8	4.84	37.4
+HP:0000402	Stenosis of the external auditory canal	32	10	6.53	7.04	1.2e-06	0.00031	9.54	3.96	21.4
+HP:0001446	Abnormality of the musculature of the upper limbs	137	21	3.2	5.9	1.3e-06	0.00031	3.97	2.3	6.58
+HP:0030272	Abnormal erythrocyte enzyme activity	16	7	9.14	7.32	4e-06	0.00045	16.1	5.02	49.2
+HP:0006368	Forearm reduction defects	16	7	9.14	7.32	4e-06	0.00045	16.1	5.02	49.2
+HP:0025065	Abnormal erythrocyte volume	17	7	8.6	7.04	6.6e-06	0.00061	14.5	4.61	42.7
+HP:0005518	Increased mean corpuscular volume	17	7	8.6	7.04	6.6e-06	0.00061	14.5	4.61	42.7
+HP:0012133	Erythroid hypoplasia	17	7	8.6	7.04	6.6e-06	0.00061	14.5	4.61	42.7
+HP:0004590	Hypoplastic sacrum	18	7	8.12	6.79	1e-05	9e-04	13.1	4.26	37.6
+HP:0005321	Mandibulofacial dysostosis	19	7	7.7	6.56	1.6e-05	0.0013	12	3.96	33.7
+HP:0001895	Normochromic anemia	20	7	7.31	6.35	2.3e-05	0.0018	11.1	3.7	30.5
+HP:0011904	Persistence of hemoglobin F	22	7	6.65	5.96	4.7e-05	0.0035	9.63	3.27	25.5
+HP:0002669	Osteosarcoma	23	7	6.36	5.78	6.5e-05	0.0041	9.02	3.09	23.6
+HP:0012131	Abnormal number of erythroid precursors	23	7	6.36	5.78	6.5e-05	0.0041	9.02	3.09	23.6
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	7	6.36	5.78	6.5e-05	0.0041	9.02	3.09	23.6
+HP:0002697	Parietal foramina	23	7	6.36	5.78	6.5e-05	0.0041	9.02	3.09	23.6
+HP:0004439	Craniofacial dysostosis	24	7	6.09	5.61	8.8e-05	0.0051	8.49	2.93	21.9
+HP:0009944	Partial duplication of thumb phalanx	24	7	6.09	5.61	8.8e-05	0.0051	8.49	2.93	21.9
+HP:0009999	Partial duplication of the phalanx of hand	25	7	5.85	5.46	0.00012	0.0066	8.02	2.79	20.5
+HP:0011902	Abnormal hemoglobin	29	7	5.04	4.9	0.00032	0.017	6.55	2.33	16.2
+HP:0003003	Colon cancer	38	8	4.4	4.72	0.00033	0.017	5.51	2.15	12.6
+HP:0000921	Missing ribs	48	9	3.92	4.56	0.00036	0.017	4.79	2	10.3
+HP:0012379	Abnormal enzyme/coenzyme activity	103	14	2.84	4.25	0.00032	0.017	3.32	1.71	6.04
+HP:0000076	Vesicoureteral reflux	93	13	2.92	4.21	0.00039	0.019	3.42	1.71	6.35
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	7	4.72	4.66	5e-04	0.021	6	2.15	14.6
+HP:0008417	Vertebral hypoplasia	31	7	4.72	4.66	5e-04	0.021	6	2.15	14.6
+HP:0000776	Congenital diaphragmatic hernia	83	12	3.02	4.18	0.00048	0.021	3.54	1.71	6.75
+HP:0001636	Tetralogy of Fallot	145	17	2.45	4	0.00045	0.021	2.83	1.56	4.86
+HP:0001710	Conotruncal defect	148	17	2.4	3.9	0.00057	0.023	2.76	1.52	4.74
+HP:0001894	Thrombocytosis	32	7	4.57	4.55	0.00062	0.024	5.76	2.07	14
+HP:0002696	Abnormality of the parietal bone	32	7	4.57	4.55	0.00062	0.024	5.76	2.07	14
+HP:0100273	Neoplasm of the colon	52	9	3.62	4.26	0.00066	0.025	4.34	1.83	9.23
+HP:0001896	Reticulocytopenia	33	7	4.43	4.44	0.00075	0.028	5.54	2	13.4
+HP:0001647	Bicuspid aortic valve	126	15	2.49	3.81	0.00083	0.03	2.85	1.51	5.06
+HP:0001972	Macrocytic anemia	44	8	3.8	4.19	0.00094	0.034	4.59	1.81	10.2
+HP:0000878	11 pairs of ribs	35	7	4.18	4.24	0.0011	0.038	5.14	1.87	12.3

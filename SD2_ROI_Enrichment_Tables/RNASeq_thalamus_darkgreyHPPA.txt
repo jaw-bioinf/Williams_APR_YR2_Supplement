@@ -1,0 +1,22 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0025155	Abnormality of hepatobiliary system physiology	197	11	4.56	5.72	1.6e-05	0.0028	6.06	2.71	12.6
+HP:0001410	Decreased liver function	197	11	4.56	5.72	1.6e-05	0.0028	6.06	2.71	12.6
+HP:0003128	Lactic acidosis	168	10	4.86	5.71	2.3e-05	0.0028	6.34	2.74	13.5
+HP:0001399	Hepatic failure	170	10	4.8	5.66	2.6e-05	0.0028	6.26	2.7	13.3
+HP:0001637	Abnormality of the myocardium	418	16	3.12	5.15	1.5e-05	0.0028	4.52	2.25	8.78
+HP:0001638	Cardiomyopathy	394	15	3.11	4.94	3.4e-05	0.0028	4.36	2.14	8.54
+HP:0001392	Abnormality of the liver	787	22	2.28	4.55	3.1e-05	0.0028	3.7	1.93	7.11
+HP:0001639	Hypertrophic cardiomyopathy	279	12	3.51	4.87	8.2e-05	0.0058	4.64	2.14	9.41
+HP:0004354	Abnormality of carboxylic acid metabolism	229	10	3.56	4.47	0.00032	0.019	4.49	1.95	9.48
+HP:0001941	Acidosis	277	11	3.24	4.33	0.00035	0.019	4.13	1.86	8.53
+HP:0012443	Abnormality of brain morphology	1687	32	1.55	3.48	0.00037	0.019	3.18	1.56	7.03
+HP:0004337	Abnormality of amino acid metabolism	196	9	3.75	4.41	0.00047	0.022	4.64	1.93	10.1
+HP:0002910	Elevated hepatic transaminases	159	8	4.11	4.46	0.00056	0.023	5.01	1.97	11.2
+HP:0002012	Abnormality of the abdominal organs	943	22	1.9	3.62	0.00056	0.023	2.89	1.51	5.56
+HP:0004360	Abnormality of acid-base homeostasis	296	11	3.03	4.07	0.00063	0.024	3.84	1.73	7.91
+HP:0001508	Failure to thrive	574	16	2.28	3.72	0.00074	0.026	3.09	1.54	5.99
+HP:0005989	Redundant neck skin	16	3	15.3	6.39	0.00086	0.029	19.8	3.49	76.3
+HP:0002151	Increased serum lactate	131	7	4.36	4.37	9e-04	0.029	5.24	1.93	12.2
+HP:0004323	Abnormality of body weight	1071	23	1.75	3.29	0.0013	0.04	2.65	1.39	5.12
+HP:0002630	Fat malabsorption	41	4	7.96	4.99	0.0014	0.041	9.49	2.34	28.4
+HP:0004325	Decreased body weight	875	20	1.87	3.29	0.0016	0.044	2.66	1.38	5.08

@@ -1,0 +1,30 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	5	6.9	5.07	0.00077	0.04	7.67	2.36	19.4
+R-HSA-168271	Transport of Ribonucleoproteins into the Host Nucleus	30	3	10.2	5.03	0.003	0.04	11.6	2.21	38.5
+R-HSA-168333	NEP/NS2 Interacts with the Cellular Export Machinery	30	3	10.2	5.03	0.003	0.04	11.6	2.21	38.5
+R-HSA-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	3	10.2	5.03	0.003	0.04	11.6	2.21	38.5
+R-HSA-168274	Export of Viral Ribonucleoproteins from Nucleus	32	3	9.58	4.83	0.0037	0.04	10.8	2.06	35.6
+R-HSA-180910	Vpr-mediated nuclear import of PICs	32	3	9.58	4.83	0.0037	0.04	10.8	2.06	35.6
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	3	9.29	4.74	0.004	0.04	10.4	2	34.3
+R-HSA-165054	Rev-mediated nuclear export of HIV RNA	33	3	9.29	4.74	0.004	0.04	10.4	2	34.3
+R-HSA-6784531	tRNA processing in the nucleus	56	4	7.3	4.7	0.0021	0.04	8.07	2.08	22.6
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	5	6.16	4.69	0.0013	0.04	6.78	2.09	17.1
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	3	9.02	4.65	0.0044	0.04	10.1	1.94	33.1
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	3	9.02	4.65	0.0044	0.04	10.1	1.94	33.1
+R-HSA-176033	Interactions of Vpr with host cellular proteins	35	3	8.76	4.57	0.0047	0.04	9.75	1.88	32
+R-HSA-177243	Interactions of Rev with host cellular proteins	35	3	8.76	4.57	0.0047	0.04	9.75	1.88	32
+R-HSA-8953750	Transcriptional Regulation by E2F6	35	3	8.76	4.57	0.0047	0.04	9.75	1.88	32
+R-HSA-70171	Glycolysis	61	4	6.7	4.44	0.0029	0.04	7.36	1.9	20.5
+R-HSA-5619115	Disorders of transmembrane transporters	149	6	4.11	3.81	0.0034	0.04	4.46	1.57	10.3
+R-HSA-168276	NS1 Mediated Effects on Host Pathways	39	3	7.86	4.27	0.0064	0.047	8.66	1.68	28.2
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	3	7.66	4.2	0.0069	0.047	8.42	1.63	27.3
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	3	7.48	4.13	0.0074	0.047	8.2	1.59	26.6
+R-HSA-168253	Host Interactions with Influenza Factors	41	3	7.48	4.13	0.0074	0.047	8.2	1.59	26.6
+R-HSA-168325	Viral Messenger RNA Synthesis	42	3	7.3	4.07	0.0079	0.047	7.99	1.55	25.8
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	3	7.13	4	0.0085	0.047	7.79	1.52	25.1
+R-HSA-70326	Glucose metabolism	81	4	5.05	3.63	0.0081	0.047	5.44	1.42	14.9
+R-HSA-72306	tRNA processing	83	4	4.92	3.57	0.0088	0.047	5.3	1.38	14.6
+R-HSA-162909	Host Interactions of HIV factors	128	5	3.99	3.39	0.0083	0.047	4.28	1.33	10.6
+R-HSA-2262752	Cellular responses to stress	425	10	2.4	2.94	0.0085	0.047	2.6	1.2	5.06
+R-HSA-4570464	SUMOylation of RNA binding proteins	46	3	6.66	3.83	0.01	0.05	7.25	1.41	23.3
+R-HSA-8953854	Metabolism of RNA	646	13	2.06	2.76	0.01	0.05	2.24	1.14	4.07

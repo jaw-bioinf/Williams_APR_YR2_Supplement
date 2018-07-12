@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05030	Cocaine addiction	49	16	2.92	4.79	4.8e-05	0.0059	3.92	2	7.37
+path:hsa04728	Dopaminergic synapse	130	31	2.14	4.63	2.7e-05	0.0059	2.56	1.64	3.89
+path:hsa04724	Glutamatergic synapse	114	27	2.12	4.28	1e-04	0.0074	2.52	1.56	3.96
+path:hsa04024	cAMP signaling pathway	198	40	1.81	4.1	0.00012	0.0074	2.07	1.41	2.98
+path:hsa05031	Amphetamine addiction	68	18	2.37	4.03	0.00034	0.014	2.91	1.59	5.11
+path:hsa05032	Morphine addiction	91	22	2.16	3.97	0.00032	0.014	2.58	1.51	4.26
+path:hsa04713	Circadian entrainment	96	22	2.05	3.68	0.00071	0.025	2.41	1.41	3.95
+path:hsa04066	HIF-1 signaling pathway	99	22	1.99	3.52	0.0011	0.034	2.31	1.36	3.78
+path:hsa04722	Neurotrophin signaling pathway	119	25	1.88	3.44	0.0012	0.034	2.15	1.32	3.4
+path:hsa05211	Renal cell carcinoma	65	16	2.2	3.46	0.0017	0.041	2.63	1.39	4.74

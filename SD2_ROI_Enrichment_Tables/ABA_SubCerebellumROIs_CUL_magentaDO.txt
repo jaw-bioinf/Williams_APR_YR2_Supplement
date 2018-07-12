@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1561	cognitive disorder	812	64	1.6	4.14	7.1e-05	0.026	1.8	1.33	2.39
+DOID:12217	Lewy body dementia	38	8	4.27	4.6	0.00043	0.05	5.24	2.06	11.8
+DOID:5419	schizophrenia	635	50	1.6	3.6	5e-04	0.05	1.76	1.26	2.41
+DOID:2468	psychotic disorder	637	50	1.59	3.57	0.00054	0.05	1.75	1.26	2.4

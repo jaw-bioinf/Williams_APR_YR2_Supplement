@@ -1,0 +1,383 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000356	Abnormality of the outer ear	776	246	1.33	5.82	8.2e-09	2.5e-05	1.68	1.4	2.01
+HP:0000377	Abnormality of the pinna	540	181	1.41	5.73	1.8e-08	2.8e-05	1.78	1.45	2.18
+HP:0000189	Narrow palate	38	25	2.76	6.1	4.2e-08	4e-05	6.3	3.08	13.5
+HP:0000035	Abnormality of the testis	665	213	1.34	5.5	5.2e-08	4e-05	1.68	1.39	2.03
+HP:0000341	Narrow forehead	116	53	1.92	5.61	1.3e-07	4.9e-05	2.8	1.89	4.14
+HP:0000290	Abnormality of the forehead	647	207	1.34	5.38	9.7e-08	4.9e-05	1.67	1.37	2.02
+HP:0005105	Abnormal nasal morphology	701	221	1.32	5.33	1.2e-07	4.9e-05	1.64	1.36	1.97
+HP:0010938	Abnormality of the external nose	676	214	1.33	5.3	1.4e-07	4.9e-05	1.64	1.36	1.98
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	320	1.24	5.25	1.3e-07	4.9e-05	1.54	1.31	1.82
+HP:0000050	Hypoplastic male external genitalia	416	142	1.43	5.24	2.7e-07	8.3e-05	1.79	1.42	2.24
+HP:0003220	Abnormality of chromosome stability	36	23	2.68	5.67	3.3e-07	8.4e-05	5.78	2.79	12.5
+HP:0000032	Abnormality of male external genitalia	773	238	1.29	5.13	3.1e-07	8.4e-05	1.59	1.32	1.9
+HP:0006493	Aplasia/hypoplasia involving bones of the lower limbs	303	109	1.51	5.18	4.5e-07	8.5e-05	1.91	1.48	2.47
+HP:0004207	Abnormality of the 5th finger	324	115	1.49	5.16	4.7e-07	8.5e-05	1.88	1.46	2.41
+HP:0000429	Abnormality of the nasal alae	502	165	1.38	5.12	4.2e-07	8.5e-05	1.7	1.38	2.1
+HP:0040195	Decreased head circumference	731	226	1.3	5.04	5e-07	8.5e-05	1.59	1.32	1.91
+HP:0000252	Microcephaly	731	226	1.3	5.04	5e-07	8.5e-05	1.59	1.32	1.91
+HP:0001249	Intellectual disability	1135	330	1.22	5.02	4.1e-07	8.5e-05	1.51	1.28	1.78
+HP:0005656	Positional foot deformity	312	111	1.49	5.09	6.7e-07	9e-05	1.88	1.46	2.42
+HP:0003241	External genital hypoplasia	432	145	1.41	5.06	6.3e-07	9e-05	1.74	1.39	2.17
+HP:0000028	Cryptorchidism	505	165	1.37	5.03	6.6e-07	9e-05	1.68	1.36	2.08
+HP:0010461	Abnormality of the male genitalia	797	243	1.28	5.01	5.6e-07	9e-05	1.56	1.31	1.87
+HP:0000422	Abnormality of the nasal bridge	702	218	1.3	5.01	6e-07	9e-05	1.59	1.32	1.92
+HP:0011314	Abnormality of long bone morphology	478	157	1.38	4.97	9.2e-07	0.00011	1.69	1.36	2.09
+HP:0000549	Abnormal conjugate eye movement	793	241	1.27	4.91	8.7e-07	0.00011	1.55	1.3	1.86
+HP:0000486	Strabismus	774	236	1.28	4.91	9e-07	0.00011	1.56	1.3	1.87
+HP:0000400	Macrotia	186	73	1.65	5.06	1.1e-06	0.00012	2.16	1.57	2.96
+HP:0001883	Talipes	311	110	1.48	4.99	1.1e-06	0.00012	1.86	1.44	2.4
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	897	267	1.25	4.82	1.3e-06	0.00014	1.52	1.28	1.81
+HP:0000240	Abnormality of skull size	968	285	1.23	4.8	1.4e-06	0.00014	1.5	1.27	1.78
+HP:0012243	Abnormal genital system morphology	965	284	1.23	4.78	1.5e-06	0.00015	1.5	1.27	1.78
+HP:0000811	Abnormal external genitalia	795	240	1.27	4.77	1.7e-06	0.00017	1.53	1.28	1.84
+HP:0000436	Abnormality of the nasal tip	202	77	1.6	4.9	2.1e-06	0.00019	2.06	1.52	2.8
+HP:0005288	Abnormality of the nares	425	141	1.39	4.81	2e-06	0.00019	1.7	1.36	2.13
+HP:0008050	Abnormality of the palpebral fissures	566	179	1.33	4.74	2.4e-06	0.00021	1.61	1.31	1.96
+HP:0002650	Scoliosis	657	203	1.3	4.7	2.6e-06	0.00022	1.56	1.29	1.89
+HP:0002648	Abnormality of calvarial morphology	609	190	1.31	4.68	3e-06	0.00024	1.58	1.3	1.92
+HP:0012443	Abnormality of brain morphology	1687	460	1.14	4.57	2.9e-06	0.00024	1.44	1.23	1.69
+HP:0008736	Hypoplasia of penis	353	120	1.43	4.72	3.4e-06	0.00027	1.75	1.37	2.23
+HP:0011338	Abnormality of mouth shape	235	86	1.53	4.75	3.8e-06	0.00029	1.94	1.45	2.58
+HP:0001273	Abnormality of the corpus callosum	503	161	1.34	4.64	4e-06	0.00029	1.62	1.31	2
+HP:0010674	Abnormality of the curvature of the vertebral column	714	217	1.27	4.6	4e-06	0.00029	1.53	1.27	1.85
+HP:0000925	Abnormality of the vertebral column	935	274	1.23	4.57	4e-06	0.00029	1.48	1.25	1.76
+HP:0100547	Abnormality of forebrain morphology	1170	333	1.19	4.54	4.2e-06	0.00029	1.45	1.23	1.71
+HP:0002060	Abnormality of the cerebrum	1167	332	1.19	4.52	4.6e-06	0.00032	1.45	1.23	1.7
+HP:0011339	Abnormality of upper lip vermillion	233	85	1.53	4.68	5.1e-06	0.00034	1.93	1.44	2.57
+HP:0000463	Anteverted nares	417	137	1.38	4.6	5.3e-06	0.00035	1.67	1.33	2.1
+HP:0000054	Micropenis	217	80	1.55	4.65	6.2e-06	4e-04	1.96	1.45	2.63
+HP:0002438	Cerebellar malformation	255	91	1.5	4.61	6.7e-06	0.00042	1.87	1.41	2.46
+HP:0000177	Abnormality of upper lip	601	186	1.3	4.49	7.2e-06	0.00044	1.55	1.27	1.89
+HP:0010579	Cone-shaped epiphysis	57	29	2.13	4.83	7.5e-06	0.00045	3.39	1.93	5.95
+HP:0004097	Deviation of finger	323	110	1.43	4.52	8.5e-06	5e-04	1.75	1.35	2.24
+HP:0000078	Abnormality of the genital system	1098	313	1.2	4.37	9.1e-06	0.00053	1.44	1.22	1.7
+HP:0000233	Thin vermilion border	257	91	1.48	4.52	9.6e-06	0.00054	1.84	1.39	2.43
+HP:0001762	Talipes equinovarus	250	89	1.49	4.52	9.5e-06	0.00054	1.86	1.4	2.45
+HP:0000960	Sacral dimple	81	37	1.92	4.66	1.1e-05	6e-04	2.76	1.72	4.41
+HP:0000036	Abnormality of the penis	522	164	1.32	4.4	1.1e-05	6e-04	1.58	1.28	1.94
+HP:0010936	Abnormality of the lower urinary tract	474	151	1.34	4.4	1.2e-05	0.00062	1.6	1.29	1.99
+HP:0006494	Aplasia/Hypoplasia involving bones of the feet	256	90	1.47	4.41	1.5e-05	0.00077	1.82	1.37	2.4
+HP:0040069	Abnormality of lower limb bone	528	165	1.31	4.33	1.5e-05	0.00077	1.56	1.27	1.92
+HP:0000448	Prominent nose	79	36	1.91	4.58	1.5e-05	0.00078	2.75	1.7	4.41
+HP:0000357	Abnormal location of ears	540	168	1.3	4.31	1.6e-05	0.00081	1.55	1.26	1.91
+HP:0000154	Wide mouth	129	52	1.69	4.47	1.7e-05	0.00085	2.23	1.53	3.25
+HP:0000174	Abnormality of the palate	708	212	1.26	4.26	1.8e-05	0.00085	1.49	1.23	1.8
+HP:0002334	Abnormality of the cerebellar vermis	209	76	1.52	4.38	1.9e-05	9e-04	1.91	1.4	2.58
+HP:0040066	Abnormal morphology of bones of the lower limbs	136	54	1.67	4.43	2e-05	0.00092	2.18	1.5	3.14
+HP:0001773	Short foot	136	54	1.67	4.43	2e-05	0.00092	2.18	1.5	3.14
+HP:0000414	Bulbous nose	92	40	1.82	4.48	2.1e-05	0.00093	2.53	1.62	3.93
+HP:0002269	Abnormality of neuronal migration	279	96	1.44	4.31	2.1e-05	0.00093	1.76	1.34	2.3
+HP:0100543	Cognitive impairment	1131	319	1.18	4.18	2.1e-05	0.00093	1.41	1.2	1.66
+HP:0010781	Skin dimples	83	37	1.87	4.49	2.2e-05	0.00094	2.64	1.65	4.19
+HP:0005924	Abnormality of the epiphyses of the hand	54	27	2.1	4.54	2.3e-05	0.00099	3.27	1.83	5.82
+HP:0200007	Abnormal size of the palpebral fissures	248	87	1.47	4.31	2.3e-05	0.00099	1.81	1.36	2.4
+HP:0040019	Finger clinodactyly	228	81	1.49	4.28	2.7e-05	0.001	1.84	1.37	2.46
+HP:0004209	Clinodactyly of the 5th finger	228	81	1.49	4.28	2.7e-05	0.001	1.84	1.37	2.46
+HP:0002644	Abnormality of pelvic girdle bone morphology	421	135	1.34	4.22	2.6e-05	0.001	1.6	1.28	2.01
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	155	1.31	4.21	2.6e-05	0.001	1.56	1.26	1.93
+HP:0009118	Aplasia/Hypoplasia of the mandible	544	168	1.3	4.19	2.6e-05	0.001	1.53	1.25	1.88
+HP:0010993	Abnormality of the cerebral subcortex	589	180	1.28	4.19	2.5e-05	0.001	1.52	1.24	1.85
+HP:0000640	Gaze-evoked nystagmus	23	15	2.73	4.67	2.8e-05	0.0011	6.07	2.41	16.6
+HP:0006492	Aplasia/Hypoplasia of the fibula	38	21	2.32	4.57	2.8e-05	0.0011	4.02	2.01	8.15
+HP:0005920	Abnormality of the epiphyses of the phalanges of the hand	49	25	2.14	4.49	3e-05	0.0011	3.4	1.85	6.25
+HP:0000957	Cafe-au-lait spot	93	40	1.8	4.39	2.8e-05	0.0011	2.48	1.59	3.84
+HP:0001321	Cerebellar hypoplasia	174	65	1.57	4.29	3e-05	0.0011	1.98	1.42	2.75
+HP:0002538	Abnormality of the cerebral cortex	211	76	1.51	4.28	2.8e-05	0.0011	1.88	1.38	2.54
+HP:0009484	Deviation of the hand or of fingers of the hand	346	114	1.38	4.18	3.2e-05	0.0011	1.66	1.29	2.12
+HP:0002500	Abnormality of the cerebral white matter	538	166	1.29	4.15	3.2e-05	0.0011	1.53	1.24	1.88
+HP:0002011	Morphological abnormality of the central nervous system	1825	486	1.12	4.03	3.2e-05	0.0011	1.38	1.18	1.62
+HP:0000490	Deeply set eye	195	71	1.53	4.24	3.4e-05	0.0012	1.91	1.39	2.6
+HP:0000750	Delayed speech and language development	460	145	1.32	4.14	3.4e-05	0.0012	1.57	1.26	1.95
+HP:0005918	Abnormality of phalanx of finger	479	150	1.31	4.13	3.5e-05	0.0012	1.56	1.25	1.93
+HP:0000347	Micrognathia	543	167	1.29	4.11	3.6e-05	0.0012	1.52	1.24	1.87
+HP:0009179	Deviation of the 5th finger	230	81	1.48	4.19	3.9e-05	0.0013	1.81	1.35	2.43
+HP:0200006	Slanting of the palpebral fissure	461	145	1.32	4.11	3.8e-05	0.0013	1.56	1.25	1.94
+HP:0045060	Aplasia/hypoplasia involving bones of the extremities	469	147	1.31	4.09	4.1e-05	0.0013	1.56	1.25	1.93
+HP:0001999	Abnormal facial shape	631	190	1.26	4.08	3.9e-05	0.0013	1.49	1.22	1.81
+HP:0030791	Abnormal jaw morphology	724	214	1.24	4.05	4.2e-05	0.0013	1.46	1.21	1.75
+HP:0000581	Blepharophimosis	203	73	1.51	4.17	4.3e-05	0.0014	1.87	1.37	2.54
+HP:0000692	Misalignment of teeth	287	97	1.42	4.13	4.4e-05	0.0014	1.71	1.31	2.23
+HP:0009116	Aplasia/Hypoplasia involving bones of the skull	579	176	1.27	4.05	4.5e-05	0.0014	1.5	1.22	1.83
+HP:0000159	Abnormality of the lip	748	220	1.23	4.03	4.5e-05	0.0014	1.45	1.2	1.74
+HP:0002120	Cerebral cortical atrophy	235	82	1.46	4.11	5.1e-05	0.0015	1.79	1.33	2.38
+HP:0000431	Wide nasal bridge	331	109	1.38	4.07	5.1e-05	0.0015	1.65	1.28	2.12
+HP:0002683	Abnormality of the calvaria	691	205	1.24	4.01	5e-05	0.0015	1.46	1.21	1.76
+HP:0000219	Thin upper lip vermilion	164	61	1.56	4.11	6.1e-05	0.0018	1.96	1.39	2.75
+HP:0007360	Aplasia/Hypoplasia of the cerebellum	307	102	1.39	4.04	6.1e-05	0.0018	1.67	1.29	2.16
+HP:0000369	Low-set ears	514	158	1.29	3.97	6.5e-05	0.0018	1.51	1.22	1.87
+HP:0000277	Abnormality of the mandible	705	208	1.24	3.94	6.4e-05	0.0018	1.45	1.2	1.75
+HP:0010230	Cone-shaped epiphyses of the phalanges of the hand	37	20	2.27	4.33	6.6e-05	0.0019	3.82	1.89	7.81
+HP:0003683	Large beaked nose	13	10	3.23	4.5	7.9e-05	0.0021	10.8	2.76	61
+HP:0006706	Cystic liver disease	40	21	2.2	4.28	7.7e-05	0.0021	3.59	1.83	7.1
+HP:0002991	Abnormality of the fibula	57	27	1.99	4.2	7.9e-05	0.0021	2.94	1.67	5.14
+HP:0000194	Open mouth	135	52	1.62	4.08	7.5e-05	0.0021	2.07	1.42	2.99
+HP:0002007	Frontal bossing	323	106	1.38	3.97	7.6e-05	0.0021	1.64	1.27	2.11
+HP:0011218	Abnormal shape of the frontal region	323	106	1.38	3.97	7.6e-05	0.0021	1.64	1.27	2.11
+HP:0002307	Drooling	60	28	1.96	4.18	8.2e-05	0.0022	2.86	1.65	4.93
+HP:0000340	Sloping forehead	103	42	1.71	4.09	8.2e-05	0.0022	2.26	1.48	3.44
+HP:0000113	Polycystic kidney dysplasia	100	41	1.72	4.08	8.6e-05	0.0022	2.28	1.48	3.49
+HP:0003272	Abnormality of the hip bone	353	114	1.35	3.93	8.7e-05	0.0022	1.61	1.25	2.05
+HP:0002118	Abnormality of the cerebral ventricles	528	161	1.28	3.89	8.7e-05	0.0022	1.5	1.21	1.84
+HP:0002817	Abnormality of the upper limb	1063	298	1.18	3.84	8.5e-05	0.0022	1.38	1.17	1.63
+HP:0000929	Abnormality of the skull	1400	381	1.14	3.81	8.6e-05	0.0022	1.36	1.16	1.59
+HP:0000107	Renal cyst	221	77	1.46	3.96	9.2e-05	0.0023	1.78	1.32	2.39
+HP:0000366	Abnormality of the nose	1197	331	1.16	3.81	9.3e-05	0.0023	1.36	1.16	1.61
+HP:0010767	Sacrococcygeal pilonidal abnormality	91	38	1.75	4.06	9.8e-05	0.0024	2.35	1.5	3.66
+HP:0011446	Abnormality of higher mental function	1451	393	1.14	3.78	9.7e-05	0.0024	1.35	1.15	1.58
+HP:0001511	Intrauterine growth retardation	347	112	1.35	3.88	1e-04	0.0025	1.6	1.25	2.05
+HP:0003839	Abnormality of upper limb epiphysis morphology	58	27	1.95	4.09	0.00012	0.0027	2.84	1.62	4.95
+HP:0009815	Aplasia/hypoplasia of the extremities	504	154	1.28	3.82	0.00012	0.0027	1.5	1.21	1.85
+HP:0003038	Fibular hypoplasia	33	18	2.29	4.16	0.00013	0.003	3.89	1.84	8.34
+HP:0002866	Hypoplastic iliac wing	33	18	2.29	4.16	0.00013	0.003	3.89	1.84	8.34
+HP:0000582	Upslanted palpebral fissure	171	62	1.52	3.9	0.00013	0.003	1.88	1.34	2.62
+HP:0012639	Abnormality of nervous system morphology	2000	523	1.1	3.69	0.00013	0.003	1.35	1.15	1.59
+HP:0006505	Abnormality of limb epiphysis morphology	89	37	1.74	3.97	0.00014	0.0031	2.33	1.47	3.65
+HP:0006817	Aplasia/Hypoplasia of the cerebellar vermis	168	61	1.52	3.88	0.00014	0.0031	1.88	1.34	2.63
+HP:0006483	Abnormal number of teeth	213	74	1.46	3.85	0.00014	0.0031	1.77	1.3	2.39
+HP:0002143	Abnormality of the spinal cord	227	78	1.44	3.84	0.00014	0.0031	1.74	1.29	2.33
+HP:0009115	Aplasia/hypoplasia involving the skeleton	830	238	1.2	3.74	0.00014	0.0031	1.4	1.17	1.67
+HP:0009121	Abnormal axial skeleton morphology	1638	437	1.12	3.68	0.00014	0.0031	1.34	1.14	1.57
+HP:0030084	Clinodactyly	313	102	1.37	3.8	0.00014	0.0032	1.62	1.25	2.09
+HP:0100732	Pancreatic fibrosis	28	16	2.4	4.15	0.00015	0.0033	4.32	1.91	10
+HP:0001737	Pancreatic cysts	36	19	2.21	4.09	0.00015	0.0033	3.63	1.78	7.47
+HP:0001167	Abnormality of finger	784	226	1.21	3.71	0.00015	0.0033	1.4	1.17	1.68
+HP:0003083	Dislocated radial head	56	26	1.95	4	0.00016	0.0034	2.82	1.59	4.97
+HP:0000496	Abnormality of eye movement	1200	330	1.15	3.66	0.00016	0.0034	1.35	1.14	1.59
+HP:0000238	Hydrocephalus	285	94	1.38	3.78	0.00016	0.0035	1.64	1.25	2.15
+HP:0002814	Abnormality of the lower limb	1067	297	1.17	3.66	0.00017	0.0035	1.36	1.15	1.61
+HP:0009804	Reduced number of teeth	190	67	1.48	3.8	0.00018	0.0036	1.8	1.3	2.48
+HP:0030669	Abnormal morphology of the ocular adnexa	944	266	1.18	3.65	0.00018	0.0036	1.37	1.15	1.63
+HP:0012758	Neurodevelopmental delay	1201	330	1.15	3.64	0.00018	0.0036	1.35	1.14	1.59
+HP:0000153	Abnormality of the mouth	1389	376	1.14	3.63	0.00018	0.0036	1.34	1.14	1.57
+HP:0001155	Abnormality of the hand	972	273	1.18	3.65	0.00018	0.0037	1.37	1.15	1.62
+HP:0002536	Abnormal cortical gyration	194	68	1.47	3.77	2e-04	0.0039	1.79	1.3	2.45
+HP:0000164	Abnormality of the teeth	682	199	1.22	3.64	2e-04	0.0041	1.41	1.17	1.71
+HP:0011844	Abnormal appendicular skeleton morphology	1199	329	1.15	3.6	0.00021	0.0041	1.34	1.14	1.58
+HP:0010583	Ivory epiphyses	14	10	3	4.19	0.00022	0.0042	8.06	2.32	35.3
+HP:0000895	Lateral clavicle hook	21	13	2.6	4.1	0.00021	0.0042	5.25	2.01	14.7
+HP:0006288	Advanced eruption of teeth	48	23	2.01	3.94	0.00022	0.0042	2.99	1.61	5.53
+HP:0001320	Cerebellar vermis hypoplasia	160	58	1.52	3.77	0.00021	0.0042	1.88	1.32	2.64
+HP:0000483	Astigmatism	167	60	1.51	3.75	0.00022	0.0042	1.85	1.31	2.59
+HP:0008897	Postnatal growth retardation	198	69	1.46	3.74	0.00021	0.0042	1.77	1.29	2.42
+HP:0003995	Abnormality of the radial head	57	26	1.91	3.89	0.00023	0.0043	2.73	1.55	4.78
+HP:0001852	Sandal gap	57	26	1.91	3.89	0.00023	0.0043	2.73	1.55	4.78
+HP:0002023	Anal atresia	107	42	1.65	3.8	0.00023	0.0043	2.12	1.39	3.2
+HP:0005120	Abnormality of cardiac atrium	309	100	1.36	3.68	0.00023	0.0043	1.6	1.23	2.07
+HP:0010804	Tented upper lip vermilion	104	41	1.65	3.78	0.00024	0.0045	2.13	1.39	3.24
+HP:0000288	Abnormality of the philtrum	387	121	1.31	3.63	0.00025	0.0046	1.53	1.2	1.93
+HP:0011342	Mild global developmental delay	10	8	3.35	4.17	0.00029	0.0051	12.9	2.56	125
+HP:0004743	Chronic tubulointerstitial nephritis	10	8	3.35	4.17	0.00029	0.0051	12.9	2.56	125
+HP:0001631	Atrial septal defect	307	99	1.35	3.62	0.00028	0.0051	1.59	1.22	2.06
+HP:0011994	Abnormality of the atrial septum	307	99	1.35	3.62	0.00028	0.0051	1.59	1.22	2.06
+HP:0003254	Abnormality of DNA repair	24	14	2.45	3.98	0.00029	0.0052	4.53	1.86	11.4
+HP:0001382	Joint hypermobility	228	77	1.42	3.64	0.00029	0.0052	1.69	1.25	2.27
+HP:0000090	Nephronophthisis	46	22	2.01	3.84	0.00031	0.0053	2.98	1.58	5.58
+HP:0001288	Gait disturbance	663	193	1.22	3.53	0.00031	0.0053	1.4	1.16	1.7
+HP:0002813	Abnormality of limb bone morphology	1135	312	1.15	3.5	3e-04	0.0053	1.34	1.13	1.58
+HP:0001176	Large hands	32	17	2.23	3.9	0.00031	0.0054	3.67	1.72	7.94
+HP:0009122	Aplasia/hypoplasia affecting bones of the axial skeleton	644	188	1.22	3.52	0.00032	0.0055	1.41	1.16	1.71
+HP:0003368	Abnormality of the femoral head	58	26	1.88	3.78	0.00033	0.0056	2.64	1.5	4.61
+HP:0040064	Abnormality of limbs	1488	398	1.12	3.46	0.00032	0.0056	1.32	1.12	1.54
+HP:0008056	Aplasia/Hypoplasia affecting the eye	323	103	1.34	3.56	0.00034	0.0058	1.56	1.21	2.02
+HP:0006496	Aplasia/hypoplasia involving bones of the upper limbs	405	125	1.29	3.52	0.00036	0.0061	1.5	1.19	1.89
+HP:0002136	Broad-based gait	27	15	2.33	3.88	0.00037	0.0062	4.04	1.76	9.5
+HP:0000306	Abnormality of the chin	269	88	1.37	3.55	0.00037	0.0062	1.62	1.22	2.13
+HP:0000002	Abnormality of body height	1037	287	1.16	3.45	0.00037	0.0062	1.34	1.13	1.58
+HP:0000795	Abnormality of the urethra	302	97	1.35	3.53	0.00038	0.0063	1.58	1.21	2.05
+HP:0000286	Epicanthus	313	100	1.34	3.52	0.00039	0.0063	1.57	1.21	2.03
+HP:0000293	Full cheeks	93	37	1.67	3.66	0.00039	0.0064	2.16	1.38	3.36
+HP:0011297	Abnormality of digit	1030	285	1.16	3.43	4e-04	0.0065	1.34	1.13	1.58
+HP:0001159	Syndactyly	277	90	1.36	3.52	0.00041	0.0066	1.6	1.21	2.1
+HP:0000492	Abnormality of the eyelid	823	233	1.19	3.43	0.00041	0.0066	1.36	1.14	1.63
+HP:0000163	Abnormality of the oral cavity	1192	325	1.14	3.41	0.00041	0.0066	1.32	1.12	1.56
+HP:0000769	Abnormality of the breast	234	78	1.4	3.52	0.00042	0.0067	1.66	1.23	2.22
+HP:0040068	Abnormality of limb bone	1160	317	1.15	3.4	0.00043	0.0067	1.32	1.12	1.56
+HP:0001169	Broad palm	30	16	2.24	3.81	0.00044	0.0068	3.7	1.68	8.22
+HP:0003781	Excessive salivation	65	28	1.81	3.67	0.00044	0.0068	2.47	1.44	4.17
+HP:0002553	Highly arched eyebrow	113	43	1.6	3.6	0.00043	0.0068	2.01	1.33	3.01
+HP:0001760	Abnormality of the foot	911	255	1.17	3.41	0.00043	0.0068	1.35	1.13	1.6
+HP:0011867	Abnormality of the wing of the ilium	53	24	1.9	3.69	0.00046	0.007	2.69	1.49	4.82
+HP:0100871	Abnormality of the palm	307	98	1.34	3.48	0.00046	0.007	1.56	1.2	2.03
+HP:0000315	Abnormality of the orbital region	1226	333	1.14	3.38	0.00046	0.007	1.32	1.12	1.55
+HP:0000322	Short philtrum	154	55	1.5	3.53	0.00047	0.0072	1.83	1.28	2.59
+HP:0012759	Neurodevelopmental abnormality	1623	429	1.11	3.33	5e-04	0.0075	1.3	1.11	1.53
+HP:0002353	EEG abnormality	246	81	1.38	3.47	0.00051	0.0076	1.63	1.22	2.17
+HP:0002219	Facial hypertrichosis	151	54	1.5	3.51	0.00051	0.0077	1.83	1.28	2.61
+HP:0001763	Pes planus	200	68	1.43	3.47	0.00053	0.008	1.7	1.24	2.33
+HP:0002823	Abnormality of the femur	186	64	1.44	3.47	0.00054	0.008	1.73	1.24	2.39
+HP:0005927	Aplasia/hypoplasia involving bones of the hand	375	116	1.3	3.41	0.00054	0.0081	1.5	1.18	1.9
+HP:0100886	Abnormality of globe location	744	212	1.19	3.35	0.00056	0.0082	1.36	1.13	1.64
+HP:0000608	Macular degeneration	128	47	1.54	3.48	6e-04	0.0088	1.9	1.29	2.79
+HP:0000455	Broad nasal tip	95	37	1.63	3.5	0.00064	0.0092	2.08	1.33	3.23
+HP:0002981	Abnormality of the calf	180	62	1.44	3.43	0.00064	0.0092	1.73	1.24	2.4
+HP:0005930	Abnormality of epiphysis morphology	194	66	1.43	3.42	0.00063	0.0092	1.7	1.23	2.34
+HP:0002815	Abnormality of the knee	226	75	1.39	3.41	0.00063	0.0092	1.64	1.21	2.21
+HP:0000805	Enuresis	51	23	1.89	3.59	0.00065	0.0093	2.67	1.46	4.83
+HP:0005054	Metaphyseal spurs	13	9	2.9	3.85	0.00066	0.0095	7.25	2.02	32.3
+HP:0001250	Seizures	1138	310	1.14	3.27	0.00068	0.0096	1.31	1.11	1.55
+HP:0003026	Short long bone	170	59	1.46	3.41	0.00069	0.0098	1.75	1.24	2.45
+HP:0000568	Microphthalmia	195	66	1.42	3.37	0.00074	0.01	1.69	1.22	2.31
+HP:0000539	Abnormality of refraction	491	146	1.25	3.3	0.00072	0.01	1.43	1.15	1.77
+HP:0006644	Thoracic dysplasia	11	8	3.05	3.81	0.00083	0.011	8.58	2.05	50.3
+HP:0003042	Elbow dislocation	83	33	1.67	3.44	0.00081	0.011	2.15	1.33	3.43
+HP:0200055	Small hand	83	33	1.67	3.44	0.00081	0.011	2.15	1.33	3.43
+HP:0000617	Abnormality of ocular smooth pursuit	109	41	1.58	3.43	0.00076	0.011	1.97	1.29	2.98
+HP:0001833	Long foot	46	21	1.91	3.49	0.00091	0.012	2.72	1.44	5.1
+HP:0001363	Craniosynostosis	113	42	1.56	3.38	0.00088	0.012	1.94	1.28	2.9
+HP:0045005	Neural tube defect	147	52	1.48	3.35	0.00087	0.012	1.8	1.24	2.57
+HP:0010301	Spinal dysraphism	147	52	1.48	3.35	0.00087	0.012	1.8	1.24	2.57
+HP:0000664	Synophrys	137	49	1.5	3.34	0.00092	0.012	1.83	1.25	2.65
+HP:0001643	Patent ductus arteriosus	246	80	1.36	3.31	0.00084	0.012	1.6	1.19	2.12
+HP:0000729	Autistic behavior	225	74	1.38	3.29	0.00092	0.012	1.62	1.19	2.18
+HP:0009998	Complete duplication of phalanx of hand	21	12	2.4	3.59	0.001	0.013	4.3	1.66	11.6
+HP:0009943	Complete duplication of thumb phalanx	21	12	2.4	3.59	0.001	0.013	4.3	1.66	11.6
+HP:0009879	Cortical gyral simplification	68	28	1.73	3.39	0.001	0.013	2.28	1.34	3.81
+HP:0030310	Upper extremity joint dislocation	84	33	1.65	3.36	0.001	0.013	2.11	1.31	3.36
+HP:0001518	Small for gestational age	172	59	1.44	3.3	0.00097	0.013	1.72	1.22	2.4
+HP:0006482	Abnormality of dental morphology	186	63	1.42	3.3	0.00096	0.013	1.69	1.21	2.33
+HP:0000733	Stereotypy	155	54	1.46	3.28	0.0011	0.013	1.76	1.23	2.49
+HP:0100790	Hernia	365	112	1.29	3.24	0.00096	0.013	1.48	1.15	1.88
+HP:0007367	Atrophy/Degeneration affecting the central nervous system	479	142	1.24	3.2	0.001	0.013	1.42	1.14	1.76
+HP:0100744	Abnormality of the humeroradial joint	62	26	1.76	3.37	0.0011	0.014	2.35	1.35	4.03
+HP:0040065	Abnormal morphology of bones of the upper limbs	255	82	1.35	3.23	0.0011	0.014	1.57	1.18	2.08
+HP:0011603	Congenital malformation of the great arteries	318	99	1.31	3.2	0.0011	0.014	1.5	1.16	1.94
+HP:0001671	Abnormality of the cardiac septa	446	133	1.25	3.17	0.0011	0.014	1.42	1.13	1.78
+HP:0100957	Abnormality of the renal medulla	59	25	1.78	3.37	0.0012	0.015	2.39	1.36	4.15
+HP:0001302	Pachygyria	118	43	1.53	3.27	0.0012	0.015	1.88	1.25	2.79
+HP:0000678	Dental crowding	108	40	1.55	3.27	0.0013	0.016	1.92	1.26	2.91
+HP:0011927	Short digit	390	118	1.27	3.15	0.0012	0.016	1.45	1.14	1.83
+HP:0040070	Abnormality of upper limb bone	379	115	1.27	3.14	0.0013	0.016	1.45	1.14	1.85
+HP:0000464	Abnormality of the neck	440	131	1.25	3.12	0.0013	0.017	1.42	1.13	1.78
+HP:0011821	Abnormality of facial skeleton	874	242	1.16	3.08	0.0013	0.017	1.31	1.1	1.57
+HP:0009817	Aplasia involving bones of the lower limbs	14	9	2.7	3.56	0.0015	0.018	5.8	1.74	22.1
+HP:0009556	Absent tibia	14	9	2.7	3.56	0.0015	0.018	5.8	1.74	22.1
+HP:0040012	Chromosome breakage	19	11	2.43	3.49	0.0015	0.018	4.43	1.62	12.7
+HP:0100627	Displacement of the external urethral meatus	265	84	1.33	3.12	0.0015	0.018	1.54	1.16	2.03
+HP:0002079	Hypoplasia of the corpus callosum	287	90	1.32	3.12	0.0015	0.018	1.51	1.15	1.98
+HP:0100491	Abnormality of lower limb joint	369	112	1.27	3.1	0.0015	0.018	1.45	1.13	1.85
+HP:0001322	Brain very small	434	129	1.25	3.07	0.0016	0.019	1.41	1.12	1.77
+HP:0012444	Brain atrophy	434	129	1.25	3.07	0.0016	0.019	1.41	1.12	1.77
+HP:0012433	Abnormal social behavior	73	29	1.67	3.22	0.0017	0.02	2.14	1.28	3.53
+HP:0001539	Omphalocele	73	29	1.67	3.22	0.0017	0.02	2.14	1.28	3.53
+HP:0002714	Downturned corners of mouth	106	39	1.54	3.18	0.0017	0.02	1.9	1.24	2.89
+HP:0000426	Prominent nasal bridge	158	54	1.43	3.12	0.0017	0.02	1.7	1.19	2.41
+HP:0001156	Brachydactyly syndrome	277	87	1.32	3.08	0.0017	0.02	1.52	1.15	1.99
+HP:0000599	Abnormality of the frontal hairline	80	31	1.62	3.16	0.0019	0.021	2.06	1.26	3.32
+HP:0002566	Intestinal malrotation	93	35	1.58	3.16	0.0018	0.021	1.97	1.25	3.07
+HP:0004299	Hernia of the abdominal wall	326	100	1.29	3.04	0.0018	0.021	1.47	1.13	1.9
+HP:0004324	Increased body weight	300	93	1.3	3.04	0.0019	0.021	1.49	1.14	1.94
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	126	1.25	3.02	0.0018	0.021	1.41	1.12	1.78
+HP:0004322	Short stature	970	265	1.15	2.98	0.0018	0.021	1.29	1.09	1.54
+HP:0001263	Global developmental delay	946	259	1.15	2.98	0.0018	0.021	1.3	1.09	1.54
+HP:0006557	Polycystic liver disease	12	8	2.8	3.49	0.002	0.022	6.43	1.72	29.3
+HP:0008802	Hypoplasia of the femoral head	12	8	2.8	3.49	0.002	0.022	6.43	1.72	29.3
+HP:0004404	Abnormality of the nipple	117	42	1.51	3.11	0.0019	0.022	1.83	1.21	2.73
+HP:0100887	Abnormality of globe size	216	70	1.36	3.05	0.002	0.022	1.58	1.16	2.14
+HP:0002059	Cerebral atrophy	421	125	1.25	3	0.002	0.022	1.41	1.12	1.77
+HP:0012100	Abnormal circulating creatinine level	25	13	2.18	3.31	0.0021	0.023	3.5	1.46	8.42
+HP:0003259	Elevated serum creatinine	25	13	2.18	3.31	0.0021	0.023	3.5	1.46	8.42
+HP:0009821	Forearm undergrowth	87	33	1.59	3.12	0.0021	0.023	1.99	1.24	3.15
+HP:0000540	Hypermetropia	191	63	1.38	3.05	0.002	0.023	1.62	1.16	2.23
+HP:0100691	Abnormality of the curvature of the cornea	209	68	1.36	3.04	0.002	0.023	1.59	1.16	2.16
+HP:0001513	Obesity	290	90	1.3	3	0.0021	0.023	1.49	1.13	1.95
+HP:0002282	Heterotopia	58	24	1.74	3.16	0.0022	0.024	2.29	1.29	4
+HP:0000735	Impaired social interactions	71	28	1.65	3.11	0.0023	0.024	2.12	1.26	3.51
+HP:0007875	Congenital blindness	94	35	1.56	3.09	0.0022	0.024	1.93	1.23	3.01
+HP:0009824	Upper limb undergrowth	94	35	1.56	3.09	0.0022	0.024	1.93	1.23	3.01
+HP:0001395	Hepatic fibrosis	104	38	1.53	3.08	0.0022	0.024	1.88	1.22	2.87
+HP:0003774	Stage 5 chronic kidney disease	104	38	1.53	3.08	0.0022	0.024	1.88	1.22	2.87
+HP:0012732	Anorectal anomaly	188	62	1.38	3.02	0.0022	0.024	1.62	1.16	2.23
+HP:0000358	Posteriorly rotated ears	369	111	1.26	2.97	0.0022	0.024	1.43	1.12	1.82
+HP:0010866	Abdominal wall defect	328	100	1.28	2.96	0.0023	0.024	1.45	1.12	1.88
+HP:0000218	High palate	430	127	1.24	2.95	0.0022	0.024	1.4	1.11	1.76
+HP:0000773	Short ribs	52	22	1.77	3.15	0.0023	0.025	2.38	1.3	4.29
+HP:0000271	Abnormality of the face	1938	498	1.08	2.86	0.0024	0.025	1.26	1.07	1.48
+HP:0009792	Teratoma	10	7	2.94	3.43	0.0026	0.027	7.5	1.71	45.1
+HP:0000329	Facial hemangioma	10	7	2.94	3.43	0.0026	0.027	7.5	1.71	45.1
+HP:0100866	Short iliac bones	10	7	2.94	3.43	0.0026	0.027	7.5	1.71	45.1
+HP:0002973	Abnormality of the forearm	218	70	1.35	2.96	0.0026	0.027	1.56	1.14	2.11
+HP:0001172	Abnormality of the thumb	266	83	1.31	2.93	0.0027	0.027	1.5	1.13	1.98
+HP:0001595	Abnormality of the hair	863	237	1.15	2.87	0.0026	0.027	1.29	1.08	1.54
+HP:0006504	Anomaly of the limb diaphyses	193	63	1.37	2.95	0.0027	0.028	1.59	1.15	2.19
+HP:0006487	Bowing of the long bones	193	63	1.37	2.95	0.0027	0.028	1.59	1.15	2.19
+HP:0040072	Abnormality of forearm bone	215	69	1.35	2.93	0.0028	0.028	1.55	1.14	2.11
+HP:0000237	Small anterior fontanelle	15	9	2.52	3.29	0.0029	0.029	4.83	1.53	16.5
+HP:0000817	Poor eye contact	59	24	1.71	3.06	0.0029	0.029	2.22	1.26	3.87
+HP:0000736	Short attention span	179	59	1.38	2.94	0.0029	0.029	1.61	1.15	2.25
+HP:0000534	Abnormality of the eyebrow	406	120	1.24	2.87	0.0029	0.029	1.4	1.1	1.76
+HP:0001510	Growth delay	1225	326	1.12	2.82	0.0029	0.029	1.26	1.07	1.48
+HP:0012373	Abnormal eye physiology	1647	428	1.09	2.8	0.0029	0.029	1.25	1.07	1.46
+HP:0004279	Short palm	99	36	1.52	2.96	0.0031	0.031	1.86	1.19	2.87
+HP:0000689	Dental malocclusion	130	45	1.45	2.94	0.0031	0.031	1.73	1.17	2.54
+HP:0000276	Long face	169	56	1.39	2.9	0.0032	0.031	1.62	1.15	2.28
+HP:0001373	Joint dislocation	216	69	1.34	2.88	0.0032	0.031	1.54	1.13	2.09
+HP:0001780	Abnormality of toe	449	131	1.22	2.84	0.0031	0.031	1.37	1.09	1.72
+HP:0001317	Abnormality of the cerebellum	874	239	1.15	2.8	0.0032	0.031	1.28	1.07	1.53
+HP:0000545	Myopia	415	122	1.23	2.83	0.0033	0.032	1.39	1.09	1.75
+HP:0000639	Nystagmus	771	213	1.16	2.79	0.0033	0.032	1.29	1.07	1.56
+HP:0003549	Abnormality of connective tissue	1048	282	1.13	2.78	0.0033	0.032	1.26	1.07	1.5
+HP:0010574	Abnormality of the epiphysis of the femoral head	47	20	1.78	3.03	0.0034	0.033	2.4	1.27	4.46
+HP:0006855	Cerebellar vermis atrophy	18	10	2.33	3.16	0.0037	0.035	4.03	1.43	11.8
+HP:0012622	Chronic kidney disease	117	41	1.47	2.89	0.0036	0.035	1.76	1.16	2.63
+HP:0004378	Abnormality of the anus	145	49	1.42	2.87	0.0036	0.035	1.67	1.15	2.4
+HP:0003196	Short nose	276	85	1.29	2.82	0.0036	0.035	1.47	1.11	1.93
+HP:0000368	Low-set, posteriorly rotated ears	306	93	1.27	2.81	0.0036	0.035	1.44	1.1	1.88
+HP:0030178	Abnormality of central nervous system electrophysiology	340	102	1.26	2.8	0.0037	0.035	1.42	1.1	1.83
+HP:0011282	Abnormality of hindbrain morphology	889	242	1.14	2.73	0.0038	0.036	1.27	1.07	1.52
+HP:0011283	Abnormality of the metencephalon	889	242	1.14	2.73	0.0038	0.036	1.27	1.07	1.52
+HP:0000598	Abnormality of the ear	1481	387	1.1	2.71	0.0038	0.036	1.24	1.06	1.46
+HP:0000137	Abnormality of the ovary	142	48	1.42	2.84	0.004	0.037	1.67	1.14	2.41
+HP:0002414	Spina bifida	142	48	1.42	2.84	0.004	0.037	1.67	1.14	2.41
+HP:0000280	Coarse facial features	185	60	1.36	2.82	0.004	0.037	1.57	1.12	2.18
+HP:0000268	Dolichocephaly	203	65	1.34	2.81	0.0039	0.037	1.55	1.12	2.12
+HP:0007385	Aplasia cutis congenita of scalp	13	8	2.58	3.19	0.0041	0.038	5.15	1.48	20
+HP:0000574	Thick eyebrow	97	35	1.51	2.87	0.0041	0.038	1.84	1.17	2.85
+HP:0007565	Multiple cafe-au-lait spots	21	11	2.2	3.08	0.0042	0.039	3.54	1.36	9.34
+HP:0012090	Abnormality of pancreas morphology	67	26	1.63	2.9	0.0042	0.039	2.06	1.2	3.47
+HP:0002510	Spastic tetraplegia	87	32	1.54	2.87	0.0042	0.039	1.89	1.18	3
+HP:0001162	Postaxial hand polydactyly	104	37	1.49	2.85	0.0042	0.039	1.8	1.16	2.75
+HP:0200134	Epileptic encephalopathy	64	25	1.64	2.88	0.0045	0.04	2.08	1.2	3.55
+HP:0001274	Agenesis of corpus callosum	215	68	1.33	2.76	0.0045	0.04	1.52	1.11	2.06
+HP:0012547	Abnormal involuntary eye movements	779	214	1.15	2.69	0.0044	0.04	1.28	1.06	1.54
+HP:0030082	Abnormal drinking behavior	24	12	2.1	3.02	0.0047	0.041	3.22	1.32	7.88
+HP:0001959	Polydipsia	24	12	2.1	3.02	0.0047	0.041	3.22	1.32	7.88
+HP:0006499	Abnormality of femoral epiphysis	48	20	1.75	2.92	0.0045	0.041	2.31	1.23	4.28
+HP:0001531	Failure to thrive in infancy	45	19	1.77	2.91	0.0047	0.041	2.36	1.23	4.47
+HP:0000046	Scrotal hypoplasia	45	19	1.77	2.91	0.0047	0.041	2.36	1.23	4.47
+HP:0000294	Low anterior hairline	45	19	1.77	2.91	0.0047	0.041	2.36	1.23	4.47
+HP:0001028	Hemangioma	74	28	1.59	2.85	0.0046	0.041	1.98	1.18	3.25
+HP:0000179	Thick lower lip vermilion	168	55	1.37	2.77	0.0046	0.041	1.59	1.12	2.24
+HP:0000606	Abnormality of the periorbital region	500	143	1.2	2.69	0.0047	0.041	1.34	1.07	1.66
+HP:0010295	Aplasia/Hypoplasia of the tongue	42	18	1.8	2.91	0.0049	0.042	2.43	1.23	4.69
+HP:0009799	Supernumerary spleens	61	24	1.65	2.87	0.0048	0.042	2.1	1.2	3.63
+HP:0000069	Abnormality of the ureter	190	61	1.35	2.75	0.0048	0.042	1.55	1.11	2.14
+HP:0000105	Enlarged kidney	27	13	2.02	2.97	0.0049	0.043	3	1.29	6.9
+HP:0002885	Medulloblastoma	30	14	1.96	2.95	0.0051	0.043	2.82	1.27	6.2
+HP:0010582	Irregular epiphyses	30	14	1.96	2.95	0.0051	0.043	2.82	1.27	6.2
+HP:0002370	Poor coordination	39	17	1.83	2.91	0.005	0.043	2.5	1.24	4.95
+HP:0000695	Natal tooth	39	17	1.83	2.91	0.005	0.043	2.5	1.24	4.95
+HP:0000940	Abnormal diaphysis morphology	205	65	1.33	2.72	0.0051	0.043	1.52	1.1	2.08
+HP:0000654	Decreased light- and dark-adapted electroretinogram amplitude	112	39	1.46	2.77	0.0051	0.044	1.74	1.14	2.62
+HP:0001080	Biliary tract abnormality	176	57	1.36	2.73	0.0051	0.044	1.57	1.11	2.19
+HP:0010864	Intellectual disability, severe	198	63	1.33	2.71	0.0053	0.044	1.53	1.1	2.1
+HP:0100729	Large face	198	63	1.33	2.71	0.0053	0.044	1.53	1.1	2.1
+HP:0000178	Abnormality of lower lip	242	75	1.3	2.7	0.0052	0.044	1.48	1.1	1.98
+HP:0011362	Abnormal hair quantity	556	157	1.18	2.65	0.0052	0.044	1.32	1.07	1.62
+HP:0100000	Early onset of sexual maturation	55	22	1.68	2.83	0.0054	0.045	2.16	1.19	3.84
+HP:0000826	Precocious puberty	55	22	1.68	2.83	0.0054	0.045	2.16	1.19	3.84
+HP:0000546	Retinal degeneration	213	67	1.32	2.69	0.0055	0.046	1.51	1.1	2.05
+HP:0002474	Expressive language delay	11	7	2.67	3.1	0.0056	0.047	5.62	1.43	26.3
+HP:0100742	Vascular neoplasm	75	28	1.57	2.77	0.0057	0.047	1.93	1.16	3.18
+HP:0003016	Metaphyseal widening	75	28	1.57	2.77	0.0057	0.047	1.93	1.16	3.18
+HP:0000944	Abnormality of the metaphyses	155	51	1.38	2.71	0.0056	0.047	1.6	1.11	2.28
+HP:0001344	Absent speech	148	49	1.39	2.7	0.0057	0.047	1.62	1.11	2.32
+HP:0011442	Abnormality of central motor function	1241	327	1.1	2.57	0.0058	0.048	1.23	1.05	1.45
+HP:0000171	Microglossia	19	10	2.21	2.95	0.0061	0.049	3.58	1.3	9.99
+HP:0006500	Abnormality of lower limb epiphysis morphology	49	20	1.71	2.81	0.006	0.049	2.23	1.19	4.11
+HP:0000657	Oculomotor apraxia	82	30	1.53	2.74	0.006	0.049	1.87	1.15	3.01
+HP:0002527	Falls	82	30	1.53	2.74	0.006	0.049	1.87	1.15	3.01
+HP:0007772	Impaired smooth pursuit	99	35	1.48	2.73	0.0059	0.049	1.78	1.13	2.75
+HP:0002751	Kyphoscoliosis	159	52	1.37	2.68	0.0059	0.049	1.59	1.11	2.26
+HP:0000278	Retrognathia	192	61	1.33	2.65	0.0062	0.05	1.53	1.09	2.11
+HP:0008373	Puberty and gonadal disorders	353	104	1.24	2.61	0.0062	0.05	1.38	1.07	1.77

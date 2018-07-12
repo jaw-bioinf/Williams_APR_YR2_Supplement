@@ -1,0 +1,18 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0004390 Hamartomatous polyposis 14 3 39.6 10.7 4.7e-05 0.015 58.6 9.62 253
+HP:0012114 Endometrial carcinoma 21 3 26.4 8.61 0.00017 0.018 35.9 6.18 142
+HP:0030126 Abnormality of the endometrium 22 3 25.2 8.4 0.00019 0.018 34 5.88 134
+HP:0100559 Lower limb asymmetry 23 3 24.1 8.2 0.00022 0.018 32.3 5.6 127
+HP:0100777 Exostoses 28 3 19.8 7.36 4e-04 0.026 25.8 4.55 98.7
+HP:0005293 Venous insufficiency 35 3 15.8 6.51 0.00079 0.04 20.2 3.59 75.7
+HP:0005266 Intestinal polyp 38 3 14.6 6.21 0.001 0.04 18.4 3.3 68.8
+HP:0200008 Intestinal polyposis 38 3 14.6 6.21 0.001 0.04 18.4 3.3 68.8
+HP:0100555 Asymmetric growth 40 3 13.9 6.03 0.0012 0.04 17.4 3.13 64.8
+HP:0010784 Uterine neoplasm 41 3 13.5 5.95 0.0013 0.04 17 3.05 62.9
+HP:0100026 Arteriovenous malformation 43 3 12.9 5.79 0.0014 0.04 16.1 2.9 59.5
+HP:0000965 Cutis marmorata 44 3 12.6 5.71 0.0015 0.04 15.7 2.83 58
+HP:0002624 Venous abnormality 45 3 12.3 5.64 0.0017 0.04 15.3 2.76 56.5
+HP:0100660 Dyskinesia 46 3 12 5.56 0.0018 0.04 15 2.7 55.1
+HP:0001334 Communicating hydrocephalus 48 3 11.5 5.43 0.002 0.042 14.3 2.58 52.6
+HP:0012316 Fibrous tissue neoplasm 49 3 11.3 5.36 0.0021 0.042 14 2.53 51.5
+HP:0100615 Ovarian neoplasm 52 3 10.7 5.18 0.0025 0.047 13.1 2.38 48.1

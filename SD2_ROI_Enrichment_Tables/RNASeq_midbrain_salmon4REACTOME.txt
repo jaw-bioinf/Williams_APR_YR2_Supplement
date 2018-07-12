@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5617833	Cilium Assembly	201	5	7.33	5.29	0.00054	0.0059	8.6	2.57	22.8
+R-HSA-1852241	Organelle biogenesis and maintenance	269	5	5.47	4.34	0.002	0.011	6.34	1.9	16.7
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	3	9.11	4.68	0.0042	0.016	10.2	1.96	33.5

@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1561	cognitive disorder	812	159	1.61	6.85	7.6e-11	4.6e-08	1.93	1.58	2.34
+DOID:150	disease of mental health	1255	219	1.43	6.3	9.6e-10	2.9e-07	1.7	1.43	2.02
+DOID:5419	schizophrenia	635	127	1.64	6.31	2.3e-09	4.3e-07	1.94	1.56	2.4
+DOID:2468	psychotic disorder	637	127	1.64	6.27	2.9e-09	4.3e-07	1.93	1.56	2.39
+DOID:331	central nervous system disease	1234	199	1.32	4.66	3.7e-06	0.00045	1.5	1.26	1.79
+DOID:1289	neurodegenerative disease	925	149	1.32	3.92	9.2e-05	0.0092	1.47	1.2	1.78
+DOID:936	brain disease	438	77	1.44	3.57	0.00043	0.031	1.59	1.21	2.06
+DOID:680	tauopathy	398	71	1.46	3.55	0.00047	0.031	1.62	1.22	2.12
+DOID:863	nervous system disease	1770	257	1.19	3.48	0.00036	0.031	1.32	1.12	1.55
+DOID:1826	epilepsy	197	40	1.67	3.53	0.00068	0.037	1.88	1.28	2.69
+DOID:10652	Alzheimer's disease	395	70	1.45	3.46	0.00062	0.037	1.6	1.21	2.1

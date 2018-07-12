@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005138	decreased prolactin level	23	6	11.3	7.59	1e-05	0.016	15.3	4.88	41.1
+MP:0005164	abnormal response to injury	546	29	2.29	4.79	2.2e-05	0.017	2.58	1.66	3.87
+MP:0003970	abnormal prolactin level	32	6	8.09	6.19	7.9e-05	0.03	9.97	3.32	25.1
+MP:0005166	decreased susceptibility to injury	159	13	3.53	4.95	7.9e-05	0.03	3.93	2.01	7.08

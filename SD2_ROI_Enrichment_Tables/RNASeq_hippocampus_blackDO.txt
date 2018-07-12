@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1342	congenital hypoplastic anemia	10	6	14.6	8.9	8.4e-07	0.00034	35.6	8.39	173
+DOID:686	liver carcinoma	882	58	1.6	3.94	0.00015	0.012	1.8	1.31	2.44
+DOID:684	hepatocellular carcinoma	882	58	1.6	3.94	0.00015	0.012	1.8	1.31	2.44
+DOID:3571	liver cancer	883	58	1.6	3.93	0.00015	0.012	1.8	1.31	2.43
+DOID:3119	gastrointestinal system cancer	1536	90	1.42	3.9	0.00011	0.012	1.66	1.27	2.15
+DOID:1749	squamous cell carcinoma	720	49	1.65	3.84	0.00024	0.016	1.85	1.31	2.55
+DOID:12449	aplastic anemia	69	10	3.52	4.36	0.00047	0.027	4.06	1.83	8.1
+DOID:6713	cerebrovascular disease	114	13	2.77	3.95	0.00076	0.039	3.09	1.57	5.62

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011198	EEG with generalized epileptiform discharges	82	5	11.9	7.16	4.2e-05	0.007	17	4.63	52.4
+HP:0011182	Epileptiform EEG discharges	84	5	11.6	7.06	4.7e-05	0.007	16.6	4.51	51.1
+HP:0010660	Abnormal hand bone ossification	30	3	19.5	7.31	0.00042	0.042	25.5	4.48	97.8

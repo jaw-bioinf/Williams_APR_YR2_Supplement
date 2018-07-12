@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0171	285	56	9	0.161	0.032	KEGG:04080	keg	1	Neuroactive ligand-receptor interaction	1	ADORA2B,GPR35,NTSR1,GIPR,PTGER4,GLP2R,TAAR1,CHRNA10,1810009J06RIK

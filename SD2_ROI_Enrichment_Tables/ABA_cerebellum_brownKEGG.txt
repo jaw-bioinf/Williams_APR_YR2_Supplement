@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04722	Neurotrophin signaling pathway	119	24	2.41	4.68	3.9e-05	0.0086	2.84	1.72	4.53
+path:hsa05030	Cocaine addiction	49	13	3.16	4.6	0.00014	0.011	4.02	1.94	7.81
+path:hsa05032	Morphine addiction	91	19	2.49	4.33	0.00015	0.011	2.95	1.67	4.99
+path:hsa04728	Dopaminergic synapse	130	23	2.11	3.87	0.00043	0.024	2.41	1.45	3.84
+path:hsa04727	GABAergic synapse	88	17	2.3	3.73	0.00086	0.038	2.67	1.46	4.62

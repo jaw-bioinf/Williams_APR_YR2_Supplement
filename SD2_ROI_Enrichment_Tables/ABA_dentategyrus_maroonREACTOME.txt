@@ -1,0 +1,31 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	6	12.3	7.93	8.6e-06	0.00057	14.5	4.95	35.2
+R-HSA-1445148	Translocation of GLUT4 to the plasma membrane	11	3	47.9	11.8	2.8e-05	0.00061	68.8	11.4	296
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	12	3	43.9	11.3	3.7e-05	0.00061	61.1	10.4	254
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	12	3	43.9	11.3	3.7e-05	0.00061	61.1	10.4	254
+R-HSA-199991	Membrane Trafficking	599	12	3.52	4.81	0.00011	0.0015	4.26	2.04	8.24
+R-HSA-5653656	Vesicle-mediated transport	631	12	3.34	4.6	0.00018	0.002	4.02	1.93	7.78
+R-HSA-3247509	Chromatin modifying enzymes	227	7	5.42	5.09	0.00028	0.0023	6.19	2.34	13.9
+R-HSA-4839726	Chromatin organization	227	7	5.42	5.09	0.00028	0.0023	6.19	2.34	13.9
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	6	6.39	5.28	0.00033	0.0024	7.25	2.5	17.2
+R-HSA-114452	Activation of BH3-only proteins	27	3	19.5	7.29	0.00046	0.0031	22.9	4.3	78.9
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	5	7.44	5.33	0.00054	0.0032	8.37	2.56	21.4
+R-HSA-5625740	RHO GTPases activate PKNs	85	4	8.27	5.09	0.0014	0.0075	9.19	2.36	25.9
+R-HSA-109606	Intrinsic Pathway for Apoptosis	40	3	13.2	5.84	0.0015	0.0076	14.9	2.85	49.3
+R-HSA-611105	Respiratory electron transport	95	4	7.4	4.74	0.002	0.0096	8.18	2.11	22.9
+R-HSA-5663205	Infectious disease	326	7	3.77	3.85	0.0024	0.01	4.23	1.6	9.47
+R-HSA-109581	Apoptosis	108	4	6.51	4.35	0.0033	0.013	7.15	1.84	19.9
+R-HSA-5357801	Programmed Cell Death	115	4	6.11	4.17	0.0041	0.015	6.69	1.73	18.6
+R-HSA-162906	HIV Infection	184	5	4.77	3.91	0.0038	0.015	5.25	1.62	13.3
+R-HSA-3700989	Transcriptional Regulation by TP53	365	7	3.37	3.49	0.0044	0.015	3.75	1.43	8.39
+R-HSA-162909	Host Interactions of HIV factors	128	4	5.49	3.87	0.006	0.02	5.98	1.55	16.6
+R-HSA-1169408	ISG15 antiviral mechanism	71	3	7.42	4.11	0.0076	0.023	8.07	1.58	25.9
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	3	7.42	4.11	0.0076	0.023	8.07	1.58	25.9
+R-HSA-8856828	Clathrin-mediated endocytosis	140	4	5.02	3.62	0.0082	0.023	5.45	1.41	15.1
+R-HSA-168255	Influenza Life Cycle	143	4	4.91	3.57	0.0088	0.024	5.33	1.38	14.8
+R-HSA-3214858	RMTs methylate histone arginines	79	3	6.67	3.83	0.01	0.027	7.22	1.41	23.1
+R-HSA-168254	Influenza Infection	154	4	4.56	3.37	0.011	0.029	4.93	1.28	13.6
+R-HSA-69481	G2/M Checkpoints	167	4	4.21	3.16	0.015	0.036	4.53	1.18	12.5
+R-HSA-69473	G2/M DNA damage checkpoint	94	3	5.61	3.4	0.016	0.038	6.02	1.18	19.1
+R-HSA-162587	HIV Life Cycle	101	3	5.22	3.22	0.02	0.045	5.59	1.1	17.7
+R-HSA-1643685	Disease	984	11	1.96	2.41	0.021	0.047	2.21	1.03	4.34

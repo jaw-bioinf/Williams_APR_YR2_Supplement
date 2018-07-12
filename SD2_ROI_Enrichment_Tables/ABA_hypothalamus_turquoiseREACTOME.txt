@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3238698	WNT ligand biogenesis and trafficking	25	19	2.51	4.99	3e-06	0.0037	7.35	2.82	22.5
+R-HSA-500792	GPCR ligand binding	419	163	1.29	3.95	6.7e-05	0.03	1.5	1.22	1.84
+R-HSA-5663202	Diseases of signal transduction	359	142	1.31	3.92	7.8e-05	0.03	1.54	1.23	1.92
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	128	1.32	3.87	9.8e-05	0.03	1.56	1.23	1.97

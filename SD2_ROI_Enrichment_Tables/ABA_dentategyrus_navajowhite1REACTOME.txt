@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69275	G2/M Transition	195	4	7.61	4.84	0.0017	0.025	8.91	2.22	26.4
+R-HSA-453274	Mitotic G2-G2/M phases	197	4	7.53	4.81	0.0018	0.025	8.82	2.2	26.2
+R-HSA-69278	Cell Cycle, Mitotic	531	6	4.19	3.93	0.0025	0.025	5.15	1.69	13.3
+R-HSA-69242	S Phase	138	3	8.06	4.34	0.0059	0.036	9.12	1.74	30.6
+R-HSA-1640170	Cell Cycle	607	6	3.67	3.52	0.0048	0.036	4.46	1.47	11.5

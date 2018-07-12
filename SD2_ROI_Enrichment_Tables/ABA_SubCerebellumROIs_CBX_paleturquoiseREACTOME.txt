@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5674135	MAP2K and MAPK activation	40	3	17.1	6.76	7e-04	0.018	19.6	3.72	65.9
+R-HSA-6802952	Signaling by BRAF and RAF fusions	60	3	11.4	5.36	0.0023	0.028	12.7	2.45	41.7
+R-HSA-1632852	Macroautophagy	68	3	10	4.97	0.0033	0.028	11.1	2.15	36.3
+R-HSA-6802957	Oncogenic MAPK signaling	76	3	8.98	4.64	0.0045	0.029	9.91	1.92	32.2

@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00240	Pyrimidine metabolism	101	4	6.92	4.55	0.0025	0.028	7.89	1.99	22.7
+path:hsa04152	AMPK signaling pathway	120	4	5.83	4.05	0.0047	0.028	6.58	1.67	18.9
+path:hsa05220	Chronic myeloid leukemia	71	3	7.39	4.1	0.0075	0.03	8.23	1.58	27.1
+path:hsa00230	Purine metabolism	173	4	4.04	3.08	0.016	0.039	4.48	1.14	12.8
+path:hsa04144	Endocytosis	260	5	3.36	2.95	0.015	0.039	3.77	1.14	9.84

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1474244	Extracellular matrix organization	278	34	2.38	5.43	2.1e-06	0.00087	2.68	1.79	3.9
+R-HSA-1630316	Glycosaminoglycan metabolism	122	17	2.71	4.42	0.00016	0.033	3.05	1.7	5.17
+R-HSA-1971475	A tetrasaccharide linker sequence is required for GAG synthesis	26	7	5.23	5.03	0.00026	0.035	6.87	2.43	17.2
+R-HSA-71387	Metabolism of carbohydrates	263	27	2	3.81	0.00046	0.048	2.17	1.39	3.28

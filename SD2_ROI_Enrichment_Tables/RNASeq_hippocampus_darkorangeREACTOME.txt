@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-202733	Cell surface interactions at the vascular wall	133	7	5.07	4.84	0.00045	0.021	5.6	2.15	12.3
+R-HSA-69278	Cell Cycle, Mitotic	531	15	2.72	4.17	0.00036	0.021	3.07	1.64	5.38
+R-HSA-1640170	Cell Cycle	607	16	2.54	4	0.00049	0.021	2.87	1.56	4.96
+R-HSA-2028269	Signaling by Hippo	20	3	14.4	6.16	0.0011	0.035	17.3	3.19	60.9
+R-HSA-69273	Cyclin A/B1/B2 associated events during G2/M transition	25	3	11.6	5.41	0.0021	0.042	13.3	2.52	45.4
+R-HSA-375170	CDO in myogenesis	27	3	10.7	5.17	0.0027	0.042	12.2	2.32	41.2
+R-HSA-525793	Myogenesis	27	3	10.7	5.17	0.0027	0.042	12.2	2.32	41.2
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	6	4.55	4.12	0.002	0.042	4.95	1.74	11.5
+R-HSA-69620	Cell Cycle Checkpoints	292	9	2.97	3.5	0.0033	0.047	3.22	1.41	6.46

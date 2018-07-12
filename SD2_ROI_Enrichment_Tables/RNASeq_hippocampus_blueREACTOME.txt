@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5609975	Diseases associated with glycosylation precursor biosynthesis	15	9	6.35	6.7	1.7e-06	0.00058	14.5	4.6	49.6
+R-HSA-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	72	21	3.09	5.74	1.7e-06	0.00058	4.01	2.28	6.83
+R-HSA-446219	Synthesis of substrates in N-glycan biosythesis	61	17	2.95	4.93	3.2e-05	0.0072	3.75	2	6.73
+R-HSA-390522	Striated Muscle Contraction	36	12	3.53	4.91	6.9e-05	0.012	4.84	2.2	10.1

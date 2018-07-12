@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0006292	Abnormality of dental eruption	173	5	8.45	5.89	0.00016	0.026	14.1	3.5	52.4
+HP:0002007	Frontal bossing	323	6	5.43	4.9	0.00033	0.026	10	2.66	37.7
+HP:0011218	Abnormal shape of the frontal region	323	6	5.43	4.9	0.00033	0.026	10	2.66	37.7
+HP:0002011	Morphological abnormality of the central nervous system	1825	12	1.92	3.33	0.00038	0.026	Inf	2.58	Inf
+HP:0005107	Abnormality of the sacrum	144	4	8.12	5.11	0.001	0.045	12	2.61	45.3
+HP:0001155	Abnormality of the hand	972	9	2.71	3.67	0.00088	0.045	7.89	1.96	45.5
+HP:0012639	Abnormality of nervous system morphology	2000	12	1.76	3.01	0.0012	0.045	Inf	2.11	Inf

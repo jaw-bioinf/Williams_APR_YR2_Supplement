@@ -1,0 +1,36 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001999	Abnormal facial shape	631	93	1.52	4.7	4.9e-06	0.0083	1.83	1.4	2.38
+HP:0000729	Autistic behavior	225	42	1.92	4.69	1.5e-05	0.0083	2.29	1.56	3.3
+HP:0002167	Neurological speech impairment	785	109	1.43	4.48	1e-05	0.0083	1.73	1.35	2.22
+HP:0001249	Intellectual disability	1135	146	1.32	4.35	1.3e-05	0.0083	1.65	1.3	2.08
+HP:0000280	Coarse facial features	185	36	2	4.6	2.5e-05	0.011	2.39	1.58	3.54
+HP:0000490	Deeply set eye	195	37	1.95	4.49	3.4e-05	0.013	2.32	1.55	3.41
+HP:0011220	Prominent forehead	189	36	1.96	4.45	4e-05	0.013	2.33	1.54	3.44
+HP:0000736	Short attention span	179	34	1.96	4.3	7.1e-05	0.017	2.31	1.51	3.44
+HP:0000692	Misalignment of teeth	287	48	1.72	4.18	7.2e-05	0.017	2.01	1.41	2.82
+HP:0000177	Abnormality of upper lip	601	85	1.46	4.03	7.5e-05	0.017	1.71	1.3	2.23
+HP:0011446	Abnormality of higher mental function	1451	174	1.23	3.82	9.2e-05	0.017	1.54	1.23	1.94
+HP:0012759	Neurodevelopmental abnormality	1623	191	1.21	3.81	9e-05	0.017	1.54	1.23	1.95
+HP:0000717	Autism	175	33	1.94	4.19	0.00011	0.018	2.28	1.49	3.42
+HP:0000153	Abnormality of the mouth	1389	167	1.24	3.74	0.00013	0.021	1.53	1.21	1.93
+HP:0002373	Febrile seizures	56	15	2.76	4.35	0.00019	0.022	3.51	1.78	6.56
+HP:0007359	Focal seizures	87	20	2.37	4.23	0.00017	0.022	2.88	1.63	4.89
+HP:0002069	Generalized tonic-clonic seizures	100	22	2.26	4.21	0.00016	0.022	2.73	1.6	4.5
+HP:0001773	Short foot	136	27	2.04	4.07	0.00019	0.022	2.41	1.5	3.77
+HP:0002219	Facial hypertrichosis	151	29	1.98	4.02	2e-04	0.022	2.32	1.47	3.57
+HP:0000159	Abnormality of the lip	748	100	1.38	3.8	0.00015	0.022	1.61	1.25	2.08
+HP:0100886	Abnormality of globe location	744	99	1.37	3.73	2e-04	0.022	1.6	1.23	2.06
+HP:0002375	Hypokinesia	45	13	2.97	4.37	0.00022	0.023	3.88	1.85	7.7
+HP:0000735	Impaired social interactions	71	17	2.46	4.09	0.00031	0.031	3.03	1.62	5.38
+HP:0000817	Poor eye contact	59	15	2.62	4.11	0.00035	0.033	3.27	1.67	6.06
+HP:0012433	Abnormal social behavior	73	17	2.4	3.96	0.00045	0.04	2.92	1.57	5.16
+HP:0100716	Self-injurious behavior	122	24	2.02	3.78	5e-04	0.043	2.37	1.43	3.8
+HP:0002133	Status epilepticus	62	15	2.49	3.88	0.00063	0.045	3.05	1.57	5.64
+HP:0000319	Smooth philtrum	82	18	2.26	3.79	0.00066	0.045	2.7	1.49	4.69
+HP:0007018	Attention deficit hyperactivity disorder	109	22	2.08	3.75	0.00059	0.045	2.44	1.44	4
+HP:0000752	Hyperactivity	248	40	1.66	3.54	0.00066	0.045	1.89	1.29	2.73
+HP:0001167	Abnormality of finger	784	101	1.33	3.4	0.00059	0.045	1.53	1.18	1.97
+HP:0000925	Abnormality of the vertebral column	935	117	1.29	3.37	6e-04	0.045	1.5	1.17	1.91
+HP:0000366	Abnormality of the nose	1197	144	1.24	3.33	0.00062	0.045	1.47	1.16	1.85
+HP:0002577	Abnormality of the stomach	298	46	1.59	3.49	7e-04	0.047	1.8	1.26	2.54
+HP:0002197	Generalized seizures	155	28	1.86	3.59	0.00074	0.048	2.14	1.35	3.31

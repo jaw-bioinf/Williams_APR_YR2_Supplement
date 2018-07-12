@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0381	2	28	2	0.071	1	CORUM:5358	cor	1	GTP-Rho-Rhpn1-Ropn1 complex	1	RHPN1,ROPN1

@@ -1,0 +1,7 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0151 2 4 1 0.25 0.5 CORUM:3130 cor 1 Tle3-Aes complex 1 AES
+2 1 TRUE 0.0201 4 4 1 0.25 0.25 CORUM:5302 cor 11 Rab3a-Rims2-Rapgef4 complex 1 RIMS2
+3 1 TRUE 0.0151 2 4 1 0.25 0.5 CORUM:366 cor 6 Rag1-Rag2 protein-DNA complex 1 RAG1
+4 1 TRUE 0.0201 4 4 1 0.25 0.25 CORUM:367 cor 8 Rag1-Rag2-Ku70-Ku80 protein-DNA complex 1 RAG1
+5 1 TRUE 0.0151 2 4 1 0.25 0.5 CORUM:5252 cor 2 Htt-Hap1-Dctn1 complex 1 HAP1
+6 1 TRUE 0.0151 2 4 1 0.25 0.5 CORUM:465 cor 3 InsP3R1-HAP1A-Htt complex 1 HAP1

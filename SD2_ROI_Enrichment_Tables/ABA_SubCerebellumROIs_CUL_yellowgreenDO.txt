@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9970	obesity	348	4	8.05	5.1	0.00099	0.0076	12.9	2.66	54.6
+DOID:654	overnutrition	354	4	7.91	5.05	0.0011	0.0076	12.6	2.61	53.6
+DOID:374	nutrition disease	366	4	7.65	4.94	0.0012	0.0076	12.2	2.52	51.7

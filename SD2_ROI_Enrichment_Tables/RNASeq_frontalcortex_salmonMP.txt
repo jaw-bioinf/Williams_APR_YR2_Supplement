@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003111	abnormal cell nucleus morphology	172	16	6.25	8.55	4.5e-09	3.8e-06	7.55	4.08	13.1
+MP:0003077	abnormal cell cycle	301	20	4.47	7.51	1.7e-08	7.1e-06	5.34	3.1	8.78
+MP:0008762	embryonic lethality	1763	52	1.98	5.64	1.9e-07	5.3e-05	2.63	1.82	3.76
+MP:0004046	abnormal mitosis	141	12	5.72	6.94	1.1e-06	0.00024	6.65	3.26	12.4
+MP:0003702	abnormal chromosome morphology	73	8	7.37	6.71	1.2e-05	0.0016	8.59	3.49	18.4
+MP:0013293	embryonic lethality prior to tooth bud stage	788	28	2.39	5.01	1.1e-05	0.0016	2.81	1.77	4.31
+MP:0004023	abnormal chromosome number	78	8	6.9	6.43	1.9e-05	0.002	7.97	3.24	17
+MP:0013292	embryonic lethality prior to organogenesis	717	26	2.44	4.93	1.7e-05	0.002	2.84	1.76	4.42
+MP:0004024	aneuploidy	59	7	7.98	6.61	2.5e-05	0.0023	9.33	3.51	21.2
+MP:0006204	embryonic lethality before implantation	168	11	4.4	5.47	3.9e-05	0.0033	4.95	2.36	9.41
+MP:0001672	abnormal embryo development	1018	31	2.05	4.35	7e-05	0.0054	2.39	1.54	3.62
+MP:0011094	embryonic lethality before implantation, complete penetrance	143	9	4.23	4.79	0.00027	0.019	4.69	2.05	9.45
+MP:0000600	liver hypoplasia	66	6	6.11	5.12	0.00042	0.027	6.88	2.38	16.3
+MP:0011096	embryonic lethality between implantation and somite formation, complete penetrance	271	12	2.98	4.06	7e-04	0.042	3.27	1.62	6
+MP:0011702	abnormal fibroblast proliferation	167	9	3.62	4.2	0.00084	0.046	3.97	1.74	7.96
+MP:0000350	abnormal cell proliferation	966	27	1.88	3.55	0.00088	0.046	2.12	1.33	3.28
+MP:0005380	embryo phenotype	1722	41	1.6	3.39	0.00093	0.046	1.88	1.26	2.74
+MP:0003694	failure of blastocyst to hatch from the zona pellucida	31	4	8.68	5.26	0.0011	0.048	10.1	2.53	29.5
+MP:0009781	abnormal preimplantation embryo development	78	6	5.17	4.55	0.001	0.048	5.72	2	13.4

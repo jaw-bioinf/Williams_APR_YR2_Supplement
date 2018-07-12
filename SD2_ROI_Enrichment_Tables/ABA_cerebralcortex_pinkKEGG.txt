@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05016	Huntington's disease	193	9	3.92	4.52	0.00043	0.018	4.46	1.93	9.14
+path:hsa04137	Mitophagy - animal	65	5	6.47	4.86	0.00099	0.02	7.32	2.23	18.8
+path:hsa05012	Parkinson's disease	142	7	4.15	4.16	0.0014	0.02	4.63	1.76	10.3
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	7	3.95	4	0.0019	0.02	4.4	1.68	9.76
+path:hsa05169	Epstein-Barr virus infection	199	8	3.38	3.74	0.0024	0.02	3.76	1.54	7.96
+path:hsa00020	Citrate cycle (TCA cycle)	30	3	8.41	4.46	0.0052	0.025	9.55	1.82	32.1
+path:hsa04710	Circadian rhythm	30	3	8.41	4.46	0.0052	0.025	9.55	1.82	32.1
+path:hsa00190	Oxidative phosphorylation	133	6	3.79	3.57	0.0048	0.025	4.16	1.45	9.76
+path:hsa05034	Alcoholism	180	7	3.27	3.39	0.0053	0.025	3.59	1.37	7.94
+path:hsa04310	Wnt signaling pathway	142	6	3.55	3.37	0.0066	0.025	3.88	1.36	9.09
+path:hsa05168	Herpes simplex infection	185	7	3.18	3.3	0.0062	0.025	3.49	1.33	7.71
+path:hsa00270	Cysteine and methionine metabolism	45	3	5.61	3.4	0.016	0.045	6.13	1.19	19.8
+path:hsa04141	Protein processing in endoplasmic reticulum	165	6	3.06	2.94	0.013	0.045	3.31	1.16	7.72
+path:hsa04530	Tight junction	170	6	2.97	2.85	0.015	0.045	3.21	1.12	7.47
+path:hsa05010	Alzheimer's disease	171	6	2.95	2.84	0.016	0.045	3.19	1.12	7.42

@@ -1,0 +1,22 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:3559	cor	7	Fgf2-Ck2 complex	1	FGF2
+2	1	TRUE	0.0467	5	8	1	0.125	0.2	CORUM:482	cor	16	cRET-Shc-Grb2-Gab2-P85PI3K-Shp2 complex	1	SHC1
+3	1	TRUE	0.0371	3	8	1	0.125	0.333	CORUM:1151	cor	19	Sycp1-Syce1-Syce2 complex	1	SYCE1
+4	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:5237	cor	3	c-Myc-Max-Arf complex	1	CDKN2A
+5	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:5192	cor	20	Tiam1-Efnb1-Epha2 complex	1	EFNB1
+6	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:3837	cor	9	SP1-E2F1 complex	1	SP1
+7	1	TRUE	0.0371	3	8	1	0.125	0.333	CORUM:3202	cor	4	Il3rb1-Shc-Ship complex, IL-3 stimulated	1	SHC1
+8	1	TRUE	0.0371	3	8	1	0.125	0.333	CORUM:3203	cor	21	Shc-Ship-Grb2 complex, IL-3 stimulated	1	SHC1
+9	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:318	cor	10	Muscle-derived dystrobrevin-syntrophin complex	1	DTNA
+10	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:3563	cor	17	Fgf2-Rsk2 complex	1	FGF2
+11	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:3558	cor	11	Fgf2-Ck2 complex	1	FGF2
+12	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:3201	cor	13	Ship-Shc complex, IL-3 stimulated	1	SHC1
+13	1	TRUE	0.0394	4	8	1	0.125	0.25	CORUM:3539	cor	22	Limd1-p62-Traf6-Prkcz complex	1	PRKCZ
+14	1	TRUE	0.0394	4	8	1	0.125	0.25	CORUM:6262	cor	5	L11-HDM2-p53-ARF complex	1	CDKN2A
+15	1	TRUE	0.0394	4	8	1	0.125	0.25	CORUM:5725	cor	1	Mdm2-P53 complex	1	CDKN2A
+16	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:2552	cor	8	Il3rb1-Shc complex, IL-3 stimulated	1	SHC1
+17	1	TRUE	0.0371	3	8	1	0.125	0.333	CORUM:1066	cor	15	mPar6c-Mlgl-aPKCz complex	1	PRKCZ
+18	1	TRUE	0.0394	4	8	1	0.125	0.25	CORUM:317	cor	6	Dystrobrevin-syntrophin complex, brain-derived	1	DTNA
+19	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:2553	cor	12	Shc-Grb2-mSos1 complex, EGF stimulated	1	SHC1
+20	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:1023	cor	2	Par3-Prkcz-Tiam1 complex	1	PRKCZ
+21	1	TRUE	0.0371	3	8	1	0.125	0.333	CORUM:6278	cor	18	Cd22-Ship-Grb2-Shc complex	1	SHC1

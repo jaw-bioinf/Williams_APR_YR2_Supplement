@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-354192	Integrin alphaIIb beta3 signaling	27	4	8.62	5.24	0.0011	0.039	10.2	2.53	30.2
+R-HSA-9006921	Integrin signaling	27	4	8.62	5.24	0.0011	0.039	10.2	2.53	30.2
+R-HSA-983712	Ion channel transport	183	10	3.18	3.94	0.0012	0.039	3.45	1.59	6.66
+R-HSA-199991	Membrane Trafficking	599	22	2.14	3.8	0.00058	0.039	2.35	1.42	3.73
+R-HSA-5653656	Vesicle-mediated transport	631	22	2.03	3.53	0.0012	0.039	2.22	1.34	3.52
+R-HSA-372708	p130Cas linkage to MAPK signaling for integrins	15	3	11.6	5.45	0.0019	0.045	14.5	2.61	54.4
+R-HSA-6802948	Signaling by high-kinase activity BRAF mutants	36	4	6.47	4.35	0.0032	0.045	7.3	1.85	20.9
+R-HSA-6802949	Signaling by RAS mutants	53	5	5.49	4.33	0.0021	0.045	6.11	1.87	15.5
+R-HSA-76009	Platelet Aggregation (Plug Formation)	37	4	6.29	4.26	0.0036	0.045	7.07	1.8	20.2
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	4	6.13	4.19	0.0039	0.045	6.86	1.75	19.6
+R-HSA-5674135	MAP2K and MAPK activation	40	4	5.82	4.04	0.0047	0.045	6.48	1.66	18.4
+R-HSA-6802946	Signaling by moderate kinase activity BRAF mutants	40	4	5.82	4.04	0.0047	0.045	6.48	1.66	18.4
+R-HSA-6802955	Paradoxical activation of RAF signaling by kinase inactive BRAF	40	4	5.82	4.04	0.0047	0.045	6.48	1.66	18.4
+R-HSA-983189	Kinesins	60	5	4.85	3.96	0.0036	0.045	5.33	1.64	13.4
+R-HSA-2672351	Stimuli-sensing channels	107	7	3.81	3.86	0.0024	0.045	4.13	1.59	9.02
+R-HSA-109582	Hemostasis	608	20	1.91	3.08	0.0038	0.045	2.07	1.22	3.34
+R-HSA-382551	Transport of small molecules	705	22	1.82	2.97	0.0046	0.045	1.97	1.19	3.11

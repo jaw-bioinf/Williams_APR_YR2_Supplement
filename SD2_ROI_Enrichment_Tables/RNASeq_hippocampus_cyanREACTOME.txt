@@ -1,0 +1,33 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1474244	Extracellular matrix organization	278	24	5.03	9	5.6e-11	6.1e-09	6.12	3.73	9.66
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	12	11.5	10.8	3.8e-10	2.1e-08	15	7.11	29.2
+R-HSA-425407	SLC-mediated transmembrane transport	241	21	5.07	8.46	8.3e-10	3e-08	6.08	3.59	9.86
+R-HSA-1474290	Collagen formation	90	13	8.41	9.33	3.8e-09	1e-07	10.4	5.17	19.3
+R-HSA-382551	Transport of small molecules	705	33	2.72	6.28	9.7e-08	2.1e-06	3.24	2.13	4.81
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	10	8.69	8.35	1.8e-07	3.3e-06	10.6	4.73	21.4
+R-HSA-2243919	Crosslinking of collagen fibrils	18	6	19.4	10.3	3.7e-07	5.7e-06	29.5	8.99	86.3
+R-HSA-8948216	Collagen chain trimerization	44	8	10.6	8.42	6.7e-07	9.2e-06	13.3	5.25	29.6
+R-HSA-2453902	The canonical retinoid cycle in rods (twilight vision)	21	6	16.6	9.48	1e-06	1.2e-05	23.6	7.42	65.5
+R-HSA-2453864	Retinoid cycle disease events	14	5	20.8	9.8	2.5e-06	2.5e-05	32.6	8.5	110
+R-HSA-2474795	Diseases associated with visual transduction	14	5	20.8	9.8	2.5e-06	2.5e-05	32.6	8.5	110
+R-HSA-216083	Integrin cell surface interactions	81	9	6.47	6.53	9.5e-06	8.7e-05	7.49	3.23	15.4
+R-HSA-196780	Biotin transport and metabolism	11	4	21.2	8.85	2.5e-05	0.00021	33.4	7.1	133
+R-HSA-8978868	Fatty acid metabolism	168	12	4.16	5.46	3.1e-05	0.00024	4.66	2.31	8.59
+R-HSA-425366	Transport of bile salts and organic acids, metal ions and amine compounds	80	8	5.82	5.72	6.5e-05	0.00047	6.62	2.71	14
+R-HSA-3000157	Laminin interactions	28	5	10.4	6.58	1e-04	0.00069	12.8	3.75	34.9
+R-HSA-1474228	Degradation of the extracellular matrix	119	9	4.4	4.94	2e-04	0.0013	4.88	2.14	9.84
+R-HSA-1442490	Collagen degradation	52	6	6.72	5.46	0.00025	0.0014	7.69	2.65	18.4
+R-HSA-2187338	Visual phototransduction	96	8	4.85	5.01	0.00024	0.0014	5.4	2.23	11.4
+R-HSA-425381	Bicarbonate transporters	10	3	17.5	6.89	0.00055	0.0028	24.9	4.12	110
+R-HSA-425397	Transport of vitamins, nucleosides, and related molecules	39	5	7.46	5.35	0.00051	0.0028	8.63	2.6	22.6
+R-HSA-1566948	Elastic fibre formation	45	5	6.47	4.86	0.00099	0.0049	7.33	2.23	18.9
+R-HSA-196854	Metabolism of vitamins and cofactors	184	10	3.16	3.92	0.0013	0.006	3.43	1.59	6.62
+R-HSA-2142753	Arachidonic acid metabolism	56	5	5.2	4.16	0.0027	0.012	5.74	1.77	14.6
+R-HSA-425393	Transport of inorganic cations/anions and amino acids/oligopeptides	108	7	3.77	3.83	0.0025	0.012	4.09	1.58	8.93
+R-HSA-2142691	Synthesis of Leukotrienes (LT) and Eoxins (EX)	20	3	8.73	4.58	0.0046	0.019	10.3	1.91	35.9
+R-HSA-419037	NCAM1 interactions	21	3	8.32	4.44	0.0053	0.02	9.68	1.81	33.6
+R-HSA-425410	Metal ion SLC transporters	21	3	8.32	4.44	0.0053	0.02	9.68	1.81	33.6
+R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	123	7	3.31	3.41	0.0052	0.02	3.56	1.38	7.73
+R-HSA-3296482	Defects in vitamin and cofactor metabolism	22	3	7.94	4.31	0.006	0.021	9.17	1.72	31.6
+R-HSA-5365859	RA biosynthesis pathway	22	3	7.94	4.31	0.006	0.021	9.17	1.72	31.6
+R-HSA-5619102	SLC transporter disorders	68	5	4.28	3.59	0.0061	0.021	4.65	1.44	11.6

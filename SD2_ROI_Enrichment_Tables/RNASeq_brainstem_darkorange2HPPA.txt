@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0005268	Spontaneous abortion	12	3	146	20.9	6.1e-07	2e-05	369	43.9	3440
+HP:0001787	Abnormal delivery	68	3	25.8	8.55	0.00013	0.0022	52.5	6.91	395
+HP:0000140	Abnormality of the menstrual cycle	140	3	12.5	5.76	0.0011	0.011	24.5	3.25	185
+HP:0000858	Menstrual irregularities	149	3	11.8	5.56	0.0014	0.011	22.9	3.04	173
+HP:0000008	Abnormality of female internal genitalia	398	4	5.88	4.28	0.002	0.013	15.8	2.25	175
+HP:0010460	Abnormality of the female genitalia	443	4	5.28	3.99	0.003	0.016	13.9	1.99	154
+HP:0000812	Abnormal internal genitalia	452	4	5.18	3.94	0.0033	0.016	13.6	1.95	151
+HP:0000119	Abnormality of the genitourinary system	1666	6	2.11	2.58	0.011	0.047	Inf	1.31	Inf

@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.013	4	1	1	1	0.25	CORUM:367	cor	3	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	HMGB1
+2	1	TRUE	0.0162	10	1	1	1	0.1	CORUM:572	cor	2	PYR complex	1	HMGB1
+3	1	TRUE	0.0243	281	18	5	0.278	0.018	REAC:R-MMU-446203	rea	1	Asparagine N-linked glycosylation	1	TRAPPC2L,MAN2A1,ST8SIA2,GFPT1,COG7
+4	1	TRUE	0.0245	174	18	4	0.222	0.023	REAC:R-MMU-948021	rea	1	Transport to the Golgi and subsequent modification	2	TRAPPC2L,MAN2A1,ST8SIA2,COG7

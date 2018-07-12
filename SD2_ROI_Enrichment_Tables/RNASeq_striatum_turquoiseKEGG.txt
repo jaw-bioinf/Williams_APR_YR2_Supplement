@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04512	ECM-receptor interaction	82	37	2.18	5.48	5.1e-07	0.00014	3.2	2.01	5.08
+path:hsa04330	Notch signaling pathway	48	21	2.11	3.95	0.00026	0.019	3	1.61	5.54
+path:hsa04658	Th1 and Th2 cell differentiation	92	34	1.78	3.87	0.00023	0.019	2.27	1.44	3.55
+path:hsa04510	Focal adhesion	199	62	1.5	3.69	0.00029	0.019	1.77	1.28	2.42
+path:hsa04060	Cytokine-cytokine receptor interaction	270	79	1.41	3.53	0.00043	0.023	1.62	1.22	2.13
+path:hsa04976	Bile secretion	71	27	1.83	3.62	0.00058	0.026	2.37	1.41	3.94
+path:hsa04064	NF-kappa B signaling pathway	94	33	1.69	3.46	0.00081	0.027	2.1	1.32	3.27
+path:hsa05200	Pathways in cancer	395	108	1.32	3.34	0.00072	0.027	1.48	1.16	1.87
+path:hsa05146	Amoebiasis	95	33	1.68	3.39	0.001	0.03	2.06	1.3	3.21
+path:hsa03460	Fanconi anemia pathway	54	21	1.88	3.31	0.0017	0.044	2.46	1.35	4.39
+path:hsa05321	Inflammatory bowel disease (IBD)	65	24	1.78	3.24	0.0019	0.045	2.26	1.3	3.85
+path:hsa05217	Basal cell carcinoma	55	21	1.84	3.21	0.0022	0.048	2.38	1.31	4.24
+path:hsa00310	Lysine degradation	59	22	1.8	3.15	0.0024	0.05	2.29	1.28	4.01
+path:hsa04611	Platelet activation	123	39	1.53	3.03	0.0026	0.05	1.8	1.19	2.67

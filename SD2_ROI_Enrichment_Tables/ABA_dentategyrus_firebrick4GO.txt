@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0156	4	3	1	0.333	0.25	CORUM:694	cor	2	Bad-Gk-Wave1-Pkaca-Ppp1cc complex	1	GCK
+2	1	TRUE	0.00974	1	3	1	0.333	1	CORUM:1046	cor	4	Lnx1-Jam4 complex	1	LNX1
+3	1	TRUE	0.00974	2	3	1	0.333	0.5	CORUM:3559	cor	3	Fgf2-Ck2 complex	1	FGF2
+4	1	TRUE	0.00974	2	3	1	0.333	0.5	CORUM:3558	cor	5	Fgf2-Ck2 complex	1	FGF2
+5	1	TRUE	0.00974	2	3	1	0.333	0.5	CORUM:3563	cor	1	Fgf2-Rsk2 complex	1	FGF2

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002906	increased susceptibility to pharmacologically induced seizures	106	13	3.65	5.11	5.2e-05	0.031	4.15	2.1	7.55
+MP:0012349	increased susceptibility to induction of seizure by inducing agent	107	13	3.61	5.07	5.8e-05	0.031	4.1	2.08	7.47
+MP:0001440	abnormal grooming behavior	114	13	3.39	4.79	0.00011	0.031	3.82	1.94	6.92
+MP:0002063	abnormal learning/memory/conditioning	664	41	1.84	4.17	1e-04	0.031	2.03	1.41	2.85
+MP:0014114	abnormal cognition	665	41	1.83	4.16	1e-04	0.031	2.02	1.41	2.85
+MP:0003633	abnormal nervous system physiology	1903	93	1.45	4.14	4.8e-05	0.031	1.68	1.3	2.16

@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04727	GABAergic synapse	88	15	2.99	4.62	0.00012	0.01	3.49	1.84	6.22
+path:hsa04024	cAMP signaling pathway	198	26	2.3	4.57	5.1e-05	0.01	2.61	1.63	4.02
+path:hsa05032	Morphine addiction	91	15	2.89	4.46	0.00017	0.01	3.35	1.77	5.96
+path:hsa05205	Proteoglycans in cancer	203	25	2.16	4.12	2e-04	0.01	2.41	1.5	3.74
+path:hsa05030	Cocaine addiction	49	10	3.58	4.45	0.00036	0.015	4.32	1.91	8.91
+path:hsa05224	Breast cancer	144	19	2.31	3.92	0.00049	0.017	2.59	1.49	4.28
+path:hsa04724	Glutamatergic synapse	114	16	2.46	3.87	0.00069	0.02	2.77	1.51	4.79
+path:hsa04150	mTOR signaling pathway	150	19	2.22	3.72	0.00082	0.02	2.47	1.42	4.07
+path:hsa04550	Signaling pathways regulating pluripotency of stem cells	139	18	2.27	3.72	0.00086	0.02	2.53	1.43	4.23
+path:hsa04722	Neurotrophin signaling pathway	119	16	2.36	3.67	0.0011	0.023	2.64	1.44	4.55
+path:hsa00410	beta-Alanine metabolism	31	7	3.96	4.06	0.0015	0.028	4.89	1.77	11.8
+path:hsa04014	Ras signaling pathway	227	24	1.85	3.22	0.0024	0.041	2.02	1.25	3.14

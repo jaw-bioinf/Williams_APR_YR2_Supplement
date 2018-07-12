@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-399719	Trafficking of AMPA receptors	31	3	13.3	5.87	0.0014	0.046	15.2	2.88	50.9
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	3	13.3	5.87	0.0014	0.046	15.2	2.88	50.9
+R-HSA-112315	Transmission across Chemical Synapses	224	7	4.29	4.26	0.0012	0.046	4.75	1.82	10.5

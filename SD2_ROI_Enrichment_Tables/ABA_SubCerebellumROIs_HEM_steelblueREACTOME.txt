@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-975577	N-Glycan antennae elongation	15	3	25.3	8.42	2e-04	0.019	32.6	5.78	124
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	4	9.75	5.64	0.00073	0.023	11	2.8	31.1
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	7	4.77	4.63	0.00064	0.023	5.3	2.03	11.7
+R-HSA-975576	N-glycan antennae elongation in the medial/trans-Golgi	26	3	14.6	6.2	0.0011	0.026	17	3.2	58.1
+R-HSA-4085001	Sialic acid metabolism	33	3	11.5	5.4	0.0022	0.038	13	2.49	43.3
+R-HSA-446203	Asparagine N-linked glycosylation	299	8	3.39	3.74	0.0024	0.038	3.73	1.54	7.86
+R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	80	4	6.34	4.27	0.0036	0.048	6.91	1.79	19.2
+R-HSA-69275	G2/M Transition	195	6	3.9	3.65	0.0043	0.048	4.24	1.49	9.84
+R-HSA-453274	Mitotic G2-G2/M phases	197	6	3.86	3.62	0.0045	0.048	4.19	1.47	9.74

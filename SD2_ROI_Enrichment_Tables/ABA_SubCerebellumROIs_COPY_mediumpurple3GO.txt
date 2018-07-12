@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0427	7	5	1	0.2	0.143	CORUM:537	cor	2	Mediator complex	1	MED6
+2	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:1843	cor	4	EB1-APC-mDia2 complex	1	MAPRE1
+3	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:948	cor	7	Kif17-Lin10 complex	1	D230025D16RIK
+4	1	TRUE	0.0427	6	5	1	0.2	0.167	CORUM:1184	cor	8	Mediator complex	1	MED6
+5	1	TRUE	0.0344	4	5	1	0.2	0.25	CORUM:2221	cor	1	RPA-MSH4-BLM complex	1	RPA1
+6	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:488	cor	5	Vezf1-p68RacGap complex	1	ARHGAP22
+7	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:3013	cor	6	EB1-APC-mDia1 complex	1	MAPRE1

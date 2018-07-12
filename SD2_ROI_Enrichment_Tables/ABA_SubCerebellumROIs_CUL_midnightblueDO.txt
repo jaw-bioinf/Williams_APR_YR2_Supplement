@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1091	tooth disease	154	11	4.31	5.39	4.4e-05	0.0084	4.94	2.34	9.46
+DOID:3388	periodontal disease	132	10	4.57	5.38	6e-05	0.0084	5.23	2.38	10.3
+DOID:824	periodontitis	117	9	4.64	5.16	0.00013	0.0084	5.27	2.29	10.8
+DOID:0050155	sensory system disease	606	23	2.29	4.31	0.00012	0.0084	2.67	1.6	4.29
+DOID:5614	eye disease	531	21	2.39	4.31	0.00014	0.0084	2.76	1.62	4.51
+DOID:1492	eye and adnexa disease	537	21	2.36	4.26	0.00017	0.0084	2.73	1.6	4.46
+DOID:403	mouth disease	182	11	3.65	4.7	2e-04	0.0086	4.11	1.96	7.85
+DOID:2600	laryngeal carcinoma	78	7	5.42	5.09	0.00029	0.0097	6.16	2.34	13.8
+DOID:2876	laryngeal squamous cell carcinoma	78	7	5.42	5.09	0.00029	0.0097	6.16	2.34	13.8
+DOID:2596	larynx cancer	80	7	5.28	5	0.00033	0.01	5.99	2.27	13.4
+DOID:65	connective tissue disease	1050	31	1.78	3.57	0.00069	0.018	2.1	1.34	3.22
+DOID:17	musculoskeletal system disease	1239	35	1.7	3.55	0.00064	0.018	2.04	1.32	3.08
+DOID:0080001	bone disease	833	26	1.88	3.53	0.00093	0.022	2.18	1.34	3.42
+DOID:0080006	bone development disease	52	5	5.8	4.51	0.0016	0.035	6.55	1.99	16.9
+DOID:0050828	artery disease	931	27	1.75	3.19	0.0022	0.045	2.01	1.25	3.14

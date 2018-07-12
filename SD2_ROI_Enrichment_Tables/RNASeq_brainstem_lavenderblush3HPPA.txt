@@ -1,0 +1,35 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000572	Visual loss	228	4	12.3	6.67	8.2e-05	0.0033	58.5	5.75	2830
+HP:0000597	Ophthalmoparesis	233	4	12.1	6.59	9e-05	0.0033	57.1	5.61	2770
+HP:0000602	Ophthalmoplegia	132	3	16	6.61	0.00049	0.0093	39.1	4.44	468
+HP:0030637	Cone dysfunction syndrome	144	3	14.6	6.31	0.00064	0.0093	35.6	4.05	427
+HP:0000551	Abnormality of color vision	144	3	14.6	6.31	0.00064	0.0093	35.6	4.05	427
+HP:0002493	Upper motor neuron dysfunction	918	5	3.82	3.76	0.0012	0.015	Inf	2.59	Inf
+HP:0001103	Abnormality of the macula	226	3	9.32	4.88	0.0024	0.018	22	2.51	264
+HP:0002015	Dysphagia	227	3	9.28	4.87	0.0024	0.018	21.9	2.5	263
+HP:0000648	Optic atrophy	492	4	5.71	4.25	0.0017	0.018	24.7	2.44	1210
+HP:0012795	Abnormality of the optic disc	531	4	5.29	4.05	0.0023	0.018	22.6	2.23	1110
+HP:0001347	Hyperreflexia	560	4	5.01	3.91	0.0028	0.019	21.2	2.09	1040
+HP:0000587	Abnormality of the optic nerve	585	4	4.8	3.8	0.0033	0.019	20.1	1.98	986
+HP:0100543	Cognitive impairment	1131	5	3.1	3.24	0.0035	0.019	Inf	1.93	Inf
+HP:0100022	Abnormality of movement	1159	5	3.03	3.19	0.0039	0.02	Inf	1.86	Inf
+HP:0025270	Abnormality of esophagus physiology	301	3	7	4.11	0.0055	0.025	16.1	1.84	193
+HP:0011442	Abnormality of central motor function	1241	5	2.83	3.03	0.0055	0.025	Inf	1.68	Inf
+HP:0000407	Sensorineural hearing impairment	718	4	3.91	3.3	0.0073	0.031	15.6	1.54	767
+HP:0001337	Tremor	377	3	5.59	3.56	0.01	0.033	12.5	1.43	151
+HP:0011389	Functional abnormality of the inner ear	756	4	3.71	3.18	0.0089	0.033	14.6	1.44	718
+HP:0000359	Abnormality of the inner ear	764	4	3.68	3.16	0.0092	0.033	14.4	1.43	709
+HP:0000639	Nystagmus	771	4	3.64	3.14	0.0095	0.033	14.3	1.41	701
+HP:0012547	Abnormal involuntary eye movements	779	4	3.6	3.11	0.0099	0.033	14.1	1.39	691
+HP:0002167	Neurological speech impairment	785	4	3.58	3.09	0.01	0.033	13.9	1.38	685
+HP:0000504	Abnormality of vision	827	4	3.4	2.98	0.012	0.036	13	1.29	640
+HP:0011446	Abnormality of higher mental function	1451	5	2.42	2.67	0.012	0.036	Inf	1.3	Inf
+HP:0007703	Abnormality of retinal pigmentation	433	3	4.86	3.24	0.015	0.041	10.7	1.22	129
+HP:0001317	Abnormality of the cerebellum	874	4	3.21	2.85	0.015	0.041	12.1	1.2	595
+HP:0011282	Abnormality of hindbrain morphology	889	4	3.16	2.81	0.016	0.041	11.8	1.17	582
+HP:0011283	Abnormality of the metencephalon	889	4	3.16	2.81	0.016	0.041	11.8	1.17	582
+HP:0100851	Abnormal emotion/affect behavior	484	3	4.35	3	0.021	0.049	9.42	1.08	113
+HP:0001098	Abnormality of the fundus	954	4	2.94	2.66	0.021	0.049	10.7	1.06	528
+HP:0004329	Abnormality of the posterior segment of the globe	957	4	2.93	2.65	0.022	0.049	10.7	1.06	526
+HP:0012372	Abnormal eye morphology	1655	5	2.12	2.37	0.023	0.05	Inf	1.03	Inf
+HP:0012374	Abnormality of the globe	1652	5	2.12	2.37	0.023	0.05	Inf	1.03	Inf

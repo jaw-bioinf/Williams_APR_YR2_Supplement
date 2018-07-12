@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001739	abnormal adrenal gland secretion	22	3	33.3	9.73	9.2e-05	0.022	41.5	7.52	151
+MP:0011396	abnormal sleep behavior	124	5	9.85	6.36	0.00014	0.022	11.6	3.48	30.6
+MP:0002909	abnormal adrenal gland physiology	31	3	23.6	8.09	0.00026	0.028	28.1	5.23	97.8

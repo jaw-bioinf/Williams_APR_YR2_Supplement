@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:3213	demyelinating disease	310	52	1.74	4.35	4.1e-05	0.018	1.96	1.41	2.69
+DOID:2377	multiple sclerosis	306	51	1.73	4.26	5.8e-05	0.018	1.95	1.4	2.67

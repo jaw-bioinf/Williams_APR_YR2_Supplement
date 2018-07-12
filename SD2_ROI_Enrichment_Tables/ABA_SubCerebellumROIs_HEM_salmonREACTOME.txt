@@ -1,0 +1,40 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112315	Transmission across Chemical Synapses	224	17	4.11	6.45	7.9e-07	0.00012	4.7	2.63	7.94
+R-HSA-112316	Neuronal System	356	19	2.89	4.98	3.1e-05	0.0024	3.22	1.87	5.27
+R-HSA-166658	Complement cascade	58	7	6.53	5.8	8.9e-05	0.0047	7.54	2.84	17
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	11	3.87	4.92	0.00013	0.0051	4.28	2.05	8.08
+R-HSA-399719	Trafficking of AMPA receptors	31	5	8.73	5.91	0.00023	0.0062	10.5	3.1	28.1
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	5	8.73	5.91	0.00023	0.0062	10.5	3.1	28.1
+R-HSA-397014	Muscle contraction	201	12	3.23	4.38	0.00034	0.0078	3.54	1.76	6.48
+R-HSA-375276	Peptide ligand-binding receptors	187	11	3.18	4.14	0.00069	0.012	3.47	1.67	6.51
+R-HSA-1474244	Extracellular matrix organization	278	14	2.73	4	0.00064	0.012	2.97	1.57	5.2
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	15	2.54	3.83	0.00086	0.012	2.75	1.49	4.75
+R-HSA-500792	GPCR ligand binding	419	18	2.33	3.8	0.00074	0.012	2.53	1.45	4.18
+R-HSA-5576891	Cardiac conduction	139	9	3.5	4.08	0.0011	0.014	3.81	1.68	7.63
+R-HSA-2892247	POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation	13	3	12.5	5.69	0.0015	0.018	16.2	2.84	63.5
+R-HSA-1483191	Synthesis of PC	28	4	7.73	4.89	0.0016	0.018	9.02	2.25	26.6
+R-HSA-977606	Regulation of Complement cascade	47	5	5.76	4.49	0.0017	0.018	6.47	1.97	16.6
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	125	8	3.46	3.8	0.0022	0.022	3.75	1.56	7.8
+R-HSA-164378	PKA activation in glucagon signalling	17	3	9.55	4.84	0.0035	0.026	11.5	2.11	41.9
+R-HSA-416993	Trafficking of GluR2-containing AMPA receptors	17	3	9.55	4.84	0.0035	0.026	11.5	2.11	41.9
+R-HSA-1592389	Activation of Matrix Metalloproteinases	33	4	6.56	4.39	0.003	0.026	7.46	1.89	21.6
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	4	6.56	4.39	0.003	0.026	7.46	1.89	21.6
+R-HSA-216083	Integrin cell surface interactions	81	6	4.01	3.73	0.0038	0.026	4.36	1.53	10.1
+R-HSA-6785807	Interleukin-4 and 13 signaling	108	7	3.51	3.6	0.0038	0.026	3.79	1.46	8.25
+R-HSA-8957275	Post-translational protein phosphorylation	108	7	3.51	3.6	0.0038	0.026	3.79	1.46	8.25
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	36	4	6.01	4.13	0.0042	0.028	6.76	1.72	19.4
+R-HSA-422085	Synthesis, secretion, and deacylation of Ghrelin	19	3	8.55	4.52	0.0048	0.029	10.1	1.87	35.7
+R-HSA-888590	GABA synthesis, release, reuptake and degradation	19	3	8.55	4.52	0.0048	0.029	10.1	1.87	35.7
+R-HSA-163841	Gamma carboxylation, hypusine formation and arylsulfatase activation	38	4	5.7	3.98	0.0051	0.03	6.36	1.62	18.1
+R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	39	4	5.55	3.91	0.0056	0.032	6.18	1.58	17.5
+R-HSA-140837	Intrinsic Pathway of Fibrin Clot Formation	22	3	7.38	4.11	0.0074	0.034	8.5	1.6	29.3
+R-HSA-140875	Common Pathway of Fibrin Clot Formation	22	3	7.38	4.11	0.0074	0.034	8.5	1.6	29.3
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	42	4	5.15	3.7	0.0073	0.034	5.69	1.46	16
+R-HSA-422356	Regulation of insulin secretion	66	5	4.1	3.47	0.0073	0.034	4.45	1.38	11.1
+R-HSA-1474290	Collagen formation	90	6	3.61	3.41	0.0063	0.034	3.89	1.37	8.99
+R-HSA-1474228	Degradation of the extracellular matrix	119	7	3.18	3.29	0.0065	0.034	3.41	1.32	7.41
+R-HSA-166663	Initial triggering of complement	23	3	7.06	3.99	0.0084	0.036	8.08	1.52	27.6
+R-HSA-5627123	RHO GTPases activate PAKs	23	3	7.06	3.99	0.0084	0.036	8.08	1.52	27.6
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	4	5.03	3.64	0.0079	0.036	5.54	1.42	15.6
+R-HSA-422475	Axon guidance	295	12	2.2	2.87	0.0086	0.036	2.34	1.17	4.26
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	4	4.71	3.46	0.01	0.041	5.15	1.33	14.4

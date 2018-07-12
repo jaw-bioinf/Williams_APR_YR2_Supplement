@@ -1,0 +1,26 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000774	Narrow chest	149	8	7.85	7.09	3.6e-06	0.0013	11.8	4.31	29.9
+HP:0005257	Thoracic hypoplasia	159	8	7.36	6.81	5.9e-06	0.0013	11	4.02	27.8
+HP:0001263	Global developmental delay	946	17	2.63	4.86	8.6e-06	0.0013	6.68	2.62	19.1
+HP:0012758	Neurodevelopmental delay	1201	18	2.19	4.23	5.1e-05	0.0059	5.84	2.21	18
+HP:0000633	Decreased lacrimation	18	3	24.4	8.25	0.00021	0.014	32.8	5.68	129
+HP:0100755	Abnormality of salivation	84	5	8.71	5.93	0.00021	0.014	11.3	3.22	32.4
+HP:0002757	Recurrent fractures	133	6	6.6	5.46	2e-04	0.014	8.8	2.81	23.6
+HP:0003011	Abnormality of the musculature	1823	21	1.68	3.5	0.00027	0.015	6.54	1.95	34.3
+HP:0002980	Femoral bowing	51	4	11.5	6.25	0.00034	0.018	14.6	3.49	46
+HP:0100295	Muscle fiber atrophy	25	3	17.6	6.89	0.00059	0.025	22.4	3.99	83.6
+HP:0002659	Increased susceptibility to fractures	162	6	5.42	4.78	0.00059	0.025	7.11	2.28	19
+HP:0003781	Excessive salivation	65	4	9	5.4	0.00086	0.03	11.2	2.7	34.9
+HP:0000365	Hearing impairment	1053	15	2.08	3.49	0.00095	0.03	3.93	1.6	10.2
+HP:0001252	Muscular hypotonia	1058	15	2.07	3.47	0.001	0.03	3.9	1.59	10.1
+HP:0000364	Hearing abnormality	1063	15	2.06	3.45	0.0011	0.03	3.88	1.58	10.1
+HP:0002814	Abnormality of the lower limb	1067	15	2.06	3.43	0.0011	0.03	3.85	1.57	10
+HP:0012759	Neurodevelopmental abnormality	1623	19	1.71	3.25	0.001	0.03	4.46	1.6	15.3
+HP:0000218	High palate	430	9	3.06	3.79	0.0014	0.033	4.37	1.67	10.7
+HP:0002011	Morphological abnormality of the central nervous system	1825	20	1.6	3.08	0.0014	0.033	4.65	1.55	18.8
+HP:0012639	Abnormality of nervous system morphology	2000	21	1.54	3.03	0.0014	0.033	5.33	1.59	28
+HP:0012443	Abnormality of brain morphology	1687	19	1.65	3.06	0.0018	0.04	4.14	1.49	14.2
+HP:0001290	Generalized hypotonia	85	4	6.88	4.55	0.0024	0.044	8.39	2.04	25.8
+HP:0001284	Areflexia	208	6	4.22	3.97	0.0022	0.044	5.41	1.74	14.4
+HP:0001367	Abnormal joint morphology	1006	14	2.04	3.23	0.0022	0.044	3.52	1.45	8.88
+HP:0011804	Abnormality of muscle physiology	1558	18	1.69	3.03	0.0023	0.044	3.79	1.44	11.7

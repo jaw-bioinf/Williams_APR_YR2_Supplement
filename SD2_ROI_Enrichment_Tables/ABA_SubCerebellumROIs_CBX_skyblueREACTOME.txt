@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter	28	3	21.5	7.68	0.00035	0.0077	25.3	4.73	87.4
+R-HSA-74158	RNA Polymerase III Transcription	36	3	16.7	6.68	0.00074	0.0077	19.2	3.64	64.5
+R-HSA-76046	RNA Polymerase III Transcription Initiation	36	3	16.7	6.68	0.00074	0.0077	19.2	3.64	64.5
+R-HSA-1660661	Sphingolipid de novo biosynthesis	44	3	13.7	5.96	0.0013	0.01	15.4	2.95	51

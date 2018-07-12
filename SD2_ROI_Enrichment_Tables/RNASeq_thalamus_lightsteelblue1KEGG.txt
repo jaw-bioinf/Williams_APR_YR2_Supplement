@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa05100 Bacterial invasion of epithelial cells 76 3 8.2 4.39 0.0056 0.014 9.25 1.77 30.9
+path:hsa03015 mRNA surveillance pathway 91 3 6.84 3.91 0.0093 0.014 7.66 1.47 25.4
+path:hsa05164 Influenza A 173 3 3.6 2.41 0.05 0.05 3.92 0.757 12.8

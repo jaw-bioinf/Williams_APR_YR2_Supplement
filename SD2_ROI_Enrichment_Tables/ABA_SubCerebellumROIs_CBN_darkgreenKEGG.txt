@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04380	Osteoclast differentiation	127	4	5.1	3.68	0.0075	0.046	5.69	1.45	16.2
+path:hsa04010	MAPK signaling pathway	255	6	3.81	3.61	0.0044	0.046	4.37	1.49	10.6
+path:hsa04650	Natural killer cell mediated cytotoxicity	132	4	4.91	3.58	0.0085	0.046	5.47	1.39	15.5
+path:hsa05162	Measles	133	4	4.87	3.56	0.0088	0.046	5.42	1.38	15.4
+path:hsa04310	Wnt signaling pathway	142	4	4.56	3.38	0.011	0.046	5.06	1.29	14.4

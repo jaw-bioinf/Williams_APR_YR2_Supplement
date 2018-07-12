@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0000576 Centrocecal scotoma 11 4 27.7 10.2 8e-06 0.0045 46.6 9.65 192
+HP:0000631 Retinal arterial tortuosity 10 3 22.9 7.99 0.00024 0.045 34.2 5.53 157
+HP:0007768 Central retinal vessel vascular tortuosity 10 3 22.9 7.99 0.00024 0.045 34.2 5.53 157
+HP:0001112 Leber optic atrophy 11 3 20.8 7.58 0.00032 0.046 30 4.95 130

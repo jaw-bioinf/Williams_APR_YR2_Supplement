@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:2585	cor	3	nKHC-KLC1-uKHC kinesin complex	1	KIF5B
+2	1	TRUE	0.0239	4	5	1	0.2	0.25	CORUM:188	cor	7	Wave-2 complex	1	WASF2
+3	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:6564	cor	5	Nek8-Pkd2 complex	1	NEK8
+4	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:2586	cor	10	KLC2-nKHC-uKHC kinesin complex	1	KIF5B
+5	1	TRUE	0.0239	4	5	1	0.2	0.25	CORUM:3212	cor	6	Pax7-HMT complex	1	PAX7
+6	1	TRUE	0.0239	4	5	1	0.2	0.25	CORUM:187	cor	8	Wave-2 complex (Rac-activated)	1	WASF2
+7	1	TRUE	0.0239	3	5	1	0.2	0.333	CORUM:2415	cor	1	Itgb1-Rap1a-Prkd1 complex	1	PRKD1
+8	1	TRUE	0.0216	2	5	1	0.2	0.5	CORUM:6547	cor	9	Spg33-Kif5b complex	1	KIF5B
+9	1	TRUE	0.0216	1	5	1	0.2	1	CORUM:2840	cor	4	uKHC-KLC1-KLC2 kinesin complex	1	KIF5B

@@ -1,0 +1,59 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000914	exencephaly	260	18	3.92	6.4	7.1e-07	0.00069	4.52	2.56	7.55
+MP:0002152	abnormal brain morphology	1633	54	1.87	5.2	1.2e-06	0.00069	2.34	1.65	3.29
+MP:0000913	abnormal brain development	780	32	2.32	5.17	4.9e-06	0.0018	2.71	1.77	4.05
+MP:0003675	kidney cysts	166	12	4.09	5.39	3.6e-05	0.0096	4.59	2.27	8.49
+MP:0011089	perinatal lethality, complete penetrance	317	17	3.03	4.94	4.3e-05	0.0096	3.4	1.9	5.72
+MP:0004522	abnormal orientation of cochlear hair cell stereociliary bundles	42	6	8.08	6.17	8.6e-05	0.012	9.57	3.25	23.4
+MP:0005440	increased glycogen level	58	7	6.83	5.97	6.7e-05	0.012	7.92	2.98	17.9
+MP:0006208	lethality throughout fetal growth and development	504	22	2.47	4.55	7.4e-05	0.012	2.77	1.67	4.42
+MP:0001293	anophthalmia	109	9	4.67	5.17	0.00013	0.013	5.23	2.28	10.6
+MP:0003743	abnormal facial morphology	708	27	2.16	4.3	0.00011	0.013	2.44	1.54	3.74
+MP:0003861	abnormal nervous system development	1215	39	1.82	4.09	0.00012	0.013	2.11	1.42	3.06
+MP:0000925	abnormal floor plate morphology	48	6	7.07	5.66	0.00018	0.017	8.2	2.81	19.8
+MP:0000454	abnormal jaw morphology	442	19	2.43	4.14	0.00029	0.023	2.69	1.56	4.41
+MP:0000432	abnormal head morphology	875	30	1.94	3.92	0.00029	0.023	2.19	1.41	3.3
+MP:0005657	abnormal neural plate morphology	36	5	7.86	5.53	0.00039	0.029	9.21	2.76	24.3
+MP:0011747	myelofibrosis	10	3	17	6.78	0.00059	0.03	24.2	4	107
+MP:0004419	absent parietal bone	10	3	17	6.78	0.00059	0.03	24.2	4	107
+MP:0009744	postaxial polydactyly	11	3	15.4	6.42	0.00081	0.03	21.2	3.59	89.3
+MP:0010401	increased skeletal muscle glycogen level	21	4	10.8	6.02	0.00045	0.03	13.4	3.24	41.6
+MP:0009129	abnormal white fat cell number	23	4	9.84	5.69	0.00064	0.03	12	2.93	36.5
+MP:0008797	facial cleft	42	5	6.74	5	0.00081	0.03	7.71	2.33	20
+MP:0009640	abnormal renal tubule epithelium morphology	63	6	5.39	4.69	0.00082	0.03	6.03	2.09	14.2
+MP:0000929	open neural tube	251	13	2.93	4.16	0.00049	0.03	3.21	1.65	5.76
+MP:0002110	abnormal digit morphology	322	15	2.64	4.01	0.00056	0.03	2.89	1.56	4.99
+MP:0005274	abnormal viscerocranium morphology	501	20	2.26	3.89	0.00052	0.03	2.49	1.47	4.04
+MP:0002151	abnormal neural tube morphology	590	22	2.11	3.74	0.00068	0.03	2.33	1.4	3.7
+MP:0000428	abnormal craniofacial morphology	1095	34	1.76	3.58	0.00067	0.03	1.99	1.31	2.93
+MP:0000516	abnormal renal/urinary system morphology	927	30	1.83	3.58	0.00076	0.03	2.05	1.32	3.09
+MP:0005382	craniofacial phenotype	1099	34	1.75	3.55	0.00072	0.03	1.98	1.31	2.92
+MP:0014134	abnormal embryo morphology	1333	39	1.66	3.47	0.00081	0.03	1.89	1.27	2.74
+MP:0011495	abnormal head shape	88	7	4.5	4.43	0.00091	0.031	4.97	1.91	11
+MP:0000787	abnormal telencephalon morphology	808	27	1.89	3.55	0.00089	0.031	2.1	1.33	3.22
+MP:0014069	abnormal skeletal muscle glycogen level	26	4	8.7	5.28	0.001	0.034	10.3	2.56	30.9
+MP:0010413	complete atrioventricular septal defect	26	4	8.7	5.28	0.001	0.034	10.3	2.56	30.9
+MP:0002703	abnormal renal tubule morphology	277	13	2.66	3.75	0.0012	0.039	2.89	1.48	5.17
+MP:0001179	thick pulmonary interalveolar septum	48	5	5.89	4.56	0.0015	0.045	6.63	2.02	17
+MP:0003948	abnormal gas homeostasis	546	20	2.07	3.46	0.0015	0.045	2.27	1.33	3.67
+MP:0000650	mesocardia	14	3	12.1	5.59	0.0017	0.047	15.4	2.73	59
+MP:0008964	decreased carbon dioxide production	14	3	12.1	5.59	0.0017	0.047	15.4	2.73	59
+MP:0004491	abnormal orientation of outer hair cell stereociliary bundles	30	4	7.54	4.82	0.0018	0.047	8.73	2.19	25.6
+MP:0003115	abnormal respiratory system development	188	10	3.01	3.73	0.0018	0.047	3.26	1.51	6.3
+MP:0001575	cyanosis	253	12	2.68	3.64	0.0017	0.047	2.91	1.45	5.32
+MP:0008762	embryonic lethality	1763	47	1.51	3.18	0.0016	0.047	1.73	1.2	2.46
+MP:0014068	abnormal muscle glycogen level	31	4	7.3	4.71	0.002	0.048	8.41	2.11	24.5
+MP:0010412	atrioventricular septal defect	75	6	4.53	4.11	0.002	0.048	4.98	1.74	11.6
+MP:0004967	abnormal kidney epithelium morphology	76	6	4.47	4.07	0.0022	0.048	4.9	1.72	11.5
+MP:0000269	abnormal heart looping	131	8	3.46	3.8	0.0022	0.048	3.75	1.56	7.8
+MP:0001286	abnormal eye development	293	13	2.51	3.52	0.002	0.048	2.72	1.4	4.86
+MP:0002135	abnormal kidney morphology	858	27	1.78	3.22	0.0022	0.048	1.96	1.24	3.01
+MP:0002085	abnormal embryonic tissue morphology	987	30	1.72	3.21	0.0021	0.048	1.91	1.23	2.87
+MP:0002114	abnormal axial skeleton morphology	1303	37	1.61	3.17	0.002	0.048	1.81	1.21	2.64
+MP:0000846	abnormal medulla oblongata morphology	33	4	6.86	4.52	0.0026	0.049	7.83	1.98	22.7
+MP:0010592	abnormal atrioventricular septum morphology	78	6	4.35	3.99	0.0025	0.049	4.77	1.67	11.1
+MP:0000934	abnormal telencephalon development	163	9	3.12	3.67	0.0024	0.049	3.38	1.49	6.75
+MP:0001297	microphthalmia	195	10	2.9	3.6	0.0024	0.049	3.13	1.45	6.05
+MP:0003881	abnormal nephron morphology	487	18	2.09	3.32	0.0024	0.049	2.27	1.3	3.76
+MP:0000452	abnormal mouth morphology	529	19	2.03	3.28	0.0025	0.049	2.21	1.28	3.61
+MP:0002092	abnormal eye morphology	1412	39	1.56	3.08	0.0024	0.049	1.76	1.19	2.55

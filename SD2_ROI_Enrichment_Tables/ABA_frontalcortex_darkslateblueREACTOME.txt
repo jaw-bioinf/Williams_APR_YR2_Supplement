@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-76002	Platelet activation, signaling and aggregation	271	6	7.64	5.98	1e-04	0.0023	9.56	3.16	24.4
+R-HSA-5683057	MAPK family signaling cascades	288	5	5.99	4.63	0.0013	0.01	7.14	2.11	19.3
+R-HSA-109582	Hemostasis	608	7	3.98	4.08	0.0014	0.01	4.97	1.78	12.1
+R-HSA-114608	Platelet degranulation 	123	3	8.42	4.46	0.0052	0.026	9.48	1.81	31.6
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	3	8.09	4.35	0.0058	0.026	9.09	1.74	30.3
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	5	3.54	3.1	0.012	0.044	4.11	1.22	11

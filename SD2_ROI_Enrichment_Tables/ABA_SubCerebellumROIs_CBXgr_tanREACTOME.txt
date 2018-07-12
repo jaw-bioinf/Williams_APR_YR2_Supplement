@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	6	5.04	4.45	0.0012	0.044	5.52	1.94	12.8
+R-HSA-2262752	Cellular responses to stress	425	12	2.91	3.99	0.00079	0.044	3.25	1.6	6.03
+R-HSA-8953897	Cellular responses to external stimuli	493	13	2.72	3.88	9e-04	0.044	3.04	1.54	5.54

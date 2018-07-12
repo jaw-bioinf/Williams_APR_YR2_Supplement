@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04390	Hippo signaling pathway	153	11	4.59	5.67	2.4e-05	7e-04	5.33	2.51	10.3
+path:hsa05205	Proteoglycans in cancer	203	13	4.09	5.64	1.5e-05	7e-04	4.77	2.4	8.77
+path:hsa04610	Complement and coagulation cascades	79	7	5.66	5.25	0.00022	0.0043	6.48	2.45	14.5
+path:hsa04145	Phagosome	151	9	3.81	4.4	0.00056	0.0082	4.27	1.86	8.67
+path:hsa05217	Basal cell carcinoma	55	5	5.81	4.51	0.0016	0.016	6.55	2	16.8
+path:hsa04512	ECM-receptor interaction	82	6	4.67	4.22	0.0017	0.016	5.2	1.81	12.3
+path:hsa04350	TGF-beta signaling pathway	84	6	4.56	4.14	0.0019	0.016	5.07	1.76	11.9
+path:hsa05146	Amoebiasis	95	6	4.03	3.76	0.0036	0.022	4.44	1.55	10.4
+path:hsa04611	Platelet activation	123	7	3.64	3.72	0.003	0.022	3.99	1.53	8.81
+path:hsa04510	Focal adhesion	199	9	2.89	3.41	0.0038	0.022	3.17	1.38	6.39
+path:hsa04913	Ovarian steroidogenesis	50	4	5.11	3.68	0.0075	0.04	5.64	1.45	15.9

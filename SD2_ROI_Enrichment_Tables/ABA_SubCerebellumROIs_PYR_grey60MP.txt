@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009338	increased splenocyte number	28	5	11.7	7.05	5.8e-05	0.029	14.4	4.23	39.6
+MP:0009337	abnormal splenocyte number	62	7	7.38	6.28	4.1e-05	0.029	8.56	3.23	19.3
+MP:0009332	abnormal splenocyte morphology	69	7	6.63	5.85	8.3e-05	0.029	7.59	2.88	17
+MP:0013803	increased IgG2 level	103	8	5.08	5.18	0.00017	0.045	5.68	2.34	12

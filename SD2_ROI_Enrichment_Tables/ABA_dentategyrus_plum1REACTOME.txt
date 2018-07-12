@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-192823	Viral mRNA Translation	89	5	9.53	6.23	0.00017	0.0032	10.9	3.31	28
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	5	9.12	6.06	0.00021	0.0032	10.4	3.16	26.6
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	5	8.93	5.98	0.00023	0.0032	10.1	3.09	26
+R-HSA-72689	Formation of a pool of free 40S subunits	101	5	8.4	5.76	0.00031	0.0032	9.5	2.9	24.3
+R-HSA-168255	Influenza Life Cycle	143	6	7.12	5.68	0.00018	0.0032	8.11	2.8	19.3
+R-HSA-168254	Influenza Infection	154	6	6.61	5.4	0.00028	0.0032	7.5	2.59	17.8
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	5	7.64	5.42	0.00048	0.0034	8.6	2.63	21.9
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	5	7.58	5.39	5e-04	0.0034	8.51	2.61	21.7
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	5	7.38	5.3	0.00056	0.0034	8.28	2.54	21.1
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	5	7.38	5.3	0.00056	0.0034	8.28	2.54	21.1
+R-HSA-72613	Eukaryotic Translation Initiation	119	5	7.13	5.18	0.00065	0.0034	7.99	2.45	20.3
+R-HSA-72737	Cap-dependent Translation Initiation	119	5	7.13	5.18	0.00065	0.0034	7.99	2.45	20.3
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	5	6.38	4.81	0.0011	0.0052	7.1	2.18	18.1
+R-HSA-5663205	Infectious disease	326	7	3.64	3.74	0.0029	0.013	4.06	1.55	9.08
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	5	4.66	3.84	0.0043	0.017	5.11	1.58	12.9
+R-HSA-72766	Translation	258	6	3.95	3.69	0.004	0.017	4.36	1.52	10.3
+R-HSA-2029482	Regulation of actin dynamics for phagocytic cup formation	60	3	8.49	4.48	0.0052	0.018	9.3	1.81	30
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	5	4.44	3.7	0.0052	0.018	4.86	1.5	12.3
+R-HSA-5617833	Cilium Assembly	201	5	4.22	3.55	0.0065	0.02	4.61	1.42	11.6
+R-HSA-72312	rRNA processing	201	5	4.22	3.55	0.0065	0.02	4.61	1.42	11.6
+R-HSA-1643685	Disease	984	12	2.07	2.72	0.011	0.033	2.36	1.14	4.54
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	3	6.29	3.68	0.012	0.034	6.78	1.33	21.6

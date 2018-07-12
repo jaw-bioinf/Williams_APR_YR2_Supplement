@@ -1,0 +1,43 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0001393 ataxia 320 22 3.87 7.02 4.7e-08 4.5e-05 4.55 2.72 7.29
+MP:0009745 abnormal behavioral response to xenobiotic 295 19 3.62 6.16 1.1e-06 0.00027 4.17 2.4 6.87
+MP:0002064 seizures 383 22 3.23 6 1.1e-06 0.00027 3.73 2.24 5.95
+MP:0001516 abnormal motor coordination/ balance 833 35 2.36 5.55 1.1e-06 0.00027 2.81 1.86 4.13
+MP:0002272 abnormal nervous system electrophysiology 339 20 3.32 5.85 2.3e-06 0.00044 3.8 2.23 6.19
+MP:0003633 abnormal nervous system physiology 1903 57 1.68 4.51 1.6e-05 0.0027 2.08 1.47 2.9
+MP:0005307 head tossing 33 6 10.2 7.14 2.1e-05 0.003 12.7 4.22 31.9
+MP:0000745 tremors 313 17 3.05 4.97 4e-05 0.0048 3.42 1.91 5.76
+MP:0003491 abnormal voluntary movement 1648 50 1.71 4.25 5e-05 0.0054 2.04 1.43 2.89
+MP:0000947 convulsive seizures 175 12 3.86 5.13 6.4e-05 0.0062 4.31 2.13 7.95
+MP:0002206 abnormal CNS synaptic transmission 653 26 2.24 4.42 8.1e-05 0.0065 2.53 1.59 3.9
+MP:0001392 abnormal locomotor behavior 1537 47 1.72 4.16 7.7e-05 0.0065 2.04 1.41 2.9
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 33 1.98 4.27 8.8e-05 0.0066 2.27 1.49 3.37
+MP:0003635 abnormal synaptic transmission 740 28 2.13 4.3 1e-04 0.007 2.41 1.53 3.67
+MP:0000950 abnormal seizure response to pharmacological agent 134 10 4.2 5.02 0.00013 0.008 4.68 2.15 9.12
+MP:0003312 abnormal locomotor coordination 672 26 2.18 4.26 0.00013 0.008 2.45 1.54 3.78
+MP:0002945 abnormal inhibitory postsynaptic currents 87 8 5.17 5.26 0.00015 0.0081 5.82 2.39 12.3
+MP:0009357 abnormal seizure response to inducing agent 190 12 3.55 4.78 0.00014 0.0081 3.94 1.95 7.25
+MP:0002910 abnormal excitatory postsynaptic currents 139 10 4.05 4.87 0.00018 0.0091 4.49 2.06 8.75
+MP:0001410 head bobbing 49 6 6.89 5.56 0.00021 0.0099 7.96 2.73 19.2
+MP:0008143 abnormal dendrite morphology 198 12 3.41 4.61 0.00021 0.0099 3.76 1.87 6.92
+MP:0003492 abnormal involuntary movement 942 32 1.91 3.97 0.00023 0.01 2.17 1.42 3.23
+MP:0004994 abnormal brain wave pattern 72 7 5.47 5.12 0.00028 0.012 6.16 2.35 13.7
+MP:0000243 myoclonus 35 5 8.03 5.61 0.00035 0.014 9.46 2.83 25.1
+MP:0010053 decreased grip strength 275 14 2.86 4.22 0.00038 0.015 3.14 1.66 5.54
+MP:0004262 abnormal physical strength 488 20 2.3 3.98 4e-04 0.015 2.55 1.5 4.13
+MP:0005424 jerky movement 21 4 10.7 5.99 0.00046 0.016 13.3 3.22 41.4
+MP:0000848 abnormal pons morphology 57 6 5.92 5.01 0.00049 0.016 6.7 2.32 15.9
+MP:0005402 abnormal action potential 128 9 3.95 4.53 0.00045 0.016 4.36 1.91 8.77
+MP:0008415 abnormal neurite morphology 423 18 2.39 3.95 0.00051 0.016 2.63 1.5 4.36
+MP:0004781 abnormal surfactant composition 10 3 16.9 6.76 6e-04 0.018 24 3.98 107
+MP:0000878 abnormal Purkinje cell number 81 7 4.86 4.69 0.00057 0.018 5.41 2.07 12
+MP:0012490 abnormal cochlear VIII nucleus morphology 11 3 15.3 6.4 0.00082 0.024 21 3.56 88.7
+MP:0001515 abnormal grip strength 368 16 2.45 3.81 0.00084 0.024 2.67 1.47 4.55
+MP:0001961 abnormal reflex 767 26 1.91 3.53 0.001 0.028 2.11 1.32 3.26
+MP:0004716 abnormal cochlear nerve morphology 12 3 14.1 6.09 0.0011 0.029 18.7 3.23 75.9
+MP:0000801 abnormal temporal lobe morphology 352 15 2.4 3.59 0.0015 0.039 2.6 1.41 4.5
+MP:0008281 abnormal hippocampus size 51 5 5.51 4.35 0.002 0.049 6.16 1.88 15.7
+MP:0000743 muscle spasm 74 6 4.56 4.14 0.002 0.049 5.02 1.75 11.7
+MP:0001905 abnormal dopamine level 101 7 3.9 3.94 0.0021 0.049 4.25 1.64 9.31
+MP:0009748 abnormal behavioral response to addictive substance 101 7 3.9 3.94 0.0021 0.049 4.25 1.64 9.31
+MP:0001523 impaired righting response 129 8 3.49 3.83 0.0021 0.049 3.79 1.57 7.88

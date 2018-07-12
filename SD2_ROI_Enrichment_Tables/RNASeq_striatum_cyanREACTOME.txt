@@ -1,0 +1,34 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72163	mRNA Splicing - Major Pathway	183	11	6.54	7.29	8.4e-07	6.3e-05	7.69	3.63	14.8
+R-HSA-72172	mRNA Splicing	191	11	6.27	7.08	1.3e-06	6.3e-05	7.35	3.47	14.2
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	12	5.37	6.65	2.1e-06	6.8e-05	6.29	3.08	11.8
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	12	3	27.2	8.75	0.00016	0.0038	37	6.34	151
+R-HSA-8953854	Metabolism of RNA	646	16	2.7	4.29	0.00024	0.0047	3.1	1.68	5.41
+R-HSA-5663213	RHO GTPases Activate WASPs and WAVEs	36	4	12.1	6.42	0.00031	0.0052	14	3.53	40.8
+R-HSA-6804114	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	18	3	18.1	7.01	0.00055	0.0078	22.2	4.05	80.5
+R-HSA-2980766	Nuclear Envelope Breakdown	51	4	8.54	5.2	0.0012	0.011	9.54	2.44	27
+R-HSA-5389840	Mitochondrial translation elongation	84	5	6.48	4.86	0.001	0.011	7.16	2.21	18.1
+R-HSA-5419276	Mitochondrial translation termination	86	5	6.33	4.78	0.0011	0.011	6.98	2.15	17.6
+R-HSA-5368287	Mitochondrial translation	87	5	6.25	4.74	0.0012	0.011	6.89	2.13	17.4
+R-HSA-69273	Cyclin A/B1/B2 associated events during G2/M transition	25	3	13.1	5.81	0.0015	0.012	15.2	2.85	51.7
+R-HSA-77075	RNA Pol II CTD phosphorylation and interaction with CE	27	3	12.1	5.56	0.0019	0.013	13.9	2.63	47
+R-HSA-3700989	Transcriptional Regulation by TP53	365	10	2.98	3.71	0.0018	0.013	3.29	1.51	6.42
+R-HSA-72086	mRNA Capping	29	3	11.3	5.33	0.0023	0.014	12.8	2.44	43
+R-HSA-2029482	Regulation of actin dynamics for phagocytic cup formation	60	4	7.26	4.68	0.0022	0.014	8	2.06	22.4
+R-HSA-6804758	Regulation of TP53 Activity through Acetylation	30	3	10.9	5.22	0.0025	0.015	12.3	2.35	41.2
+R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	31	3	10.5	5.12	0.0028	0.015	11.9	2.27	39.6
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	3	9.6	4.84	0.0037	0.018	10.7	2.06	35.4
+R-HSA-5633007	Regulation of TP53 Activity	160	6	4.08	3.78	0.0035	0.018	4.42	1.56	10.2
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	4	5.37	3.81	0.0065	0.031	5.81	1.51	16
+R-HSA-73857	RNA Polymerase II Transcription	1230	20	1.77	2.78	0.0073	0.033	2	1.15	3.33
+R-HSA-73762	RNA Polymerase I Transcription Initiation	45	3	7.26	4.05	0.0081	0.035	7.92	1.54	25.5
+R-HSA-74160	Gene expression (Transcription)	1335	21	1.71	2.69	0.0086	0.035	1.94	1.13	3.2
+R-HSA-6791312	TP53 Regulates Transcription of Cell Cycle Genes	49	3	6.66	3.83	0.01	0.037	7.23	1.41	23.2
+R-HSA-73893	DNA Damage Bypass	49	3	6.66	3.83	0.01	0.037	7.23	1.41	23.2
+R-HSA-1640170	Cell Cycle	607	12	2.15	2.82	0.0094	0.037	2.35	1.16	4.37
+R-HSA-5620920	Cargo trafficking to the periciliary membrane	51	3	6.4	3.72	0.011	0.038	6.93	1.36	22.1
+R-HSA-72165	mRNA Splicing - Minor Pathway	52	3	6.28	3.68	0.012	0.038	6.79	1.33	21.7
+R-HSA-69473	G2/M DNA damage checkpoint	94	4	4.63	3.41	0.011	0.038	4.96	1.3	13.6
+R-HSA-1852241	Organelle biogenesis and maintenance	269	7	2.83	2.93	0.012	0.038	3.04	1.17	6.62
+R-HSA-162587	HIV Life Cycle	101	4	4.31	3.22	0.014	0.043	4.6	1.2	12.6
+R-HSA-72187	mRNA 3'-end processing	58	3	5.63	3.4	0.016	0.048	6.04	1.19	19.2

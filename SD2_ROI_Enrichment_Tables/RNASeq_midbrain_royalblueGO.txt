@@ -1,0 +1,25 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:1076	cor	13	Pkd2-Pkhd1 complex	1	PKHD1
+2	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:5886	cor	15	Ksr1 complex (Ksr1, Mek, 14-3-3), unstimulated	1	KSR1
+3	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:2585	cor	7	nKHC-KLC1-uKHC kinesin complex	1	KIF5A
+4	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:146	cor	12	Src-dynamin-synapsin complex	1	SYN1
+5	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:3193	cor	17	G protein complex (Hdac5, Gnb1, Gng2)	1	GNG2
+6	1	TRUE	0.0387	1	8	1	0.125	1	CORUM:2587	cor	20	nKHC-KLC1-KLC2 kinesin complex	1	KIF5A
+7	1	TRUE	0.0402	4	8	1	0.125	0.25	CORUM:5909	cor	22	Ksr1 complex (Ksr1, Mek, 14-3-3, Mapk), EGF stimulated	1	KSR1
+8	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:3195	cor	9	G protein complex (Btk, Gng2, Gnb1)	1	GNG2
+9	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:326	cor	2	Smooth muscle sarcoglycan complex SGC, beta-delta-zeta	1	SGCZ
+10	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:510	cor	5	TFIID subcomplex, testis-specific	1	TAF7L
+11	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:5881	cor	10	Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	KSR1
+12	1	TRUE	0.0402	4	8	1	0.125	0.25	CORUM:325	cor	23	Skeletal muscle sarcoglycan complex SGC, beta-gamma-delta-zeta	1	SGCZ
+13	1	TRUE	0.0402	4	8	1	0.125	0.25	CORUM:5937	cor	8	B-Ksr1-MEK-MAPK-14-3-3 complex	1	KSR1
+14	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:6544	cor	1	Spg33-Kif5a complex	1	KIF5A
+15	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:2586	cor	18	KLC2-nKHC-uKHC kinesin complex	1	KIF5A
+16	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:6241	cor	25	PMCA4-alpha-1-syntrophin-NOS-1 complex	1	ATP2B4
+17	1	TRUE	0.048	5	8	1	0.125	0.2	CORUM:5910	cor	3	Ksr1-CK2 complex	1	KSR1
+18	1	TRUE	0.0402	4	8	1	0.125	0.25	CORUM:5947	cor	6	Ksr1-Mek-Braf-Erk complex, EGF induced	1	KSR1
+19	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:5946	cor	19	Ksr1-Mek-Braf complex, EGF induced	1	KSR1
+20	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:511	cor	24	TFIID subcomplex, testis-specific	1	TAF7L
+21	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:5880	cor	4	Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	KSR1
+22	1	TRUE	0.0402	4	8	1	0.125	0.25	CORUM:5879	cor	14	Ksr1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	KSR1
+23	1	TRUE	0.0387	3	8	1	0.125	0.333	CORUM:3192	cor	21	G protein complex (Hdac4, Gnb1, Gng2)	1	GNG2
+24	1	TRUE	0.0387	2	8	1	0.125	0.5	CORUM:1073	cor	16	Pkd2-Pkhd1 complex	1	PKHD1

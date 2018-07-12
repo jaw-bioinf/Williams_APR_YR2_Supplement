@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2600	laryngeal carcinoma	78	6	4.64	4.2	0.0018	0.035	5.16	1.79	12.1
+DOID:2876	laryngeal squamous cell carcinoma	78	6	4.64	4.2	0.0018	0.035	5.16	1.79	12.1
+DOID:2596	larynx cancer	80	6	4.53	4.12	0.002	0.035	5.02	1.75	11.8
+DOID:3070	malignant glioma	432	17	2.38	3.83	7e-04	0.035	2.68	1.48	4.56
+DOID:0050615	respiratory system cancer	509	19	2.25	3.81	0.00063	0.035	2.56	1.46	4.25
+DOID:771	retinal cell cancer	113	7	3.74	3.81	0.0026	0.035	4.11	1.57	9.05
+DOID:768	retinoblastoma	113	7	3.74	3.81	0.0026	0.035	4.11	1.57	9.05
+DOID:170	endocrine gland cancer	399	16	2.42	3.79	0.00083	0.035	2.72	1.48	4.69
+DOID:3119	gastrointestinal system cancer	1536	42	1.65	3.74	0.00029	0.035	2.05	1.36	3.04
+DOID:1324	lung cancer	480	17	2.14	3.35	0.0022	0.035	2.38	1.32	4.05
+DOID:3571	liver cancer	883	26	1.78	3.21	0.0022	0.035	2.03	1.25	3.19
+DOID:686	liver carcinoma	882	26	1.78	3.21	0.0021	0.035	2.03	1.25	3.2
+DOID:684	hepatocellular carcinoma	882	26	1.78	3.21	0.0021	0.035	2.03	1.25	3.2
+DOID:4645	retinal cancer	115	7	3.67	3.75	0.0029	0.036	4.03	1.55	8.87
+DOID:0060116	sensory system cancer	118	7	3.58	3.67	0.0033	0.036	3.92	1.5	8.62
+DOID:2174	ocular cancer	118	7	3.58	3.67	0.0033	0.036	3.92	1.5	8.62
+DOID:3908	non-small cell lung carcinoma	417	15	2.17	3.2	0.0035	0.036	2.39	1.28	4.19
+DOID:3069	astrocytoma	393	14	2.15	3.05	0.0052	0.049	2.36	1.23	4.19
+DOID:3905	lung carcinoma	479	16	2.02	2.99	0.0053	0.049	2.22	1.21	3.82

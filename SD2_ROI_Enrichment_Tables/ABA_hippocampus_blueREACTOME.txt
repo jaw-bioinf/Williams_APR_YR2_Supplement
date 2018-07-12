@@ -1,0 +1,130 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-422475	Axon guidance	295	111	1.63	6.05	7.2e-09	6.7e-06	2.07	1.61	2.65
+R-HSA-112315	Transmission across Chemical Synapses	224	89	1.73	6.01	1.2e-08	6.7e-06	2.25	1.7	2.98
+R-HSA-1643685	Disease	984	290	1.28	5.06	4.8e-07	0.00018	1.45	1.25	1.69
+R-HSA-112316	Neuronal System	356	120	1.46	4.88	1.9e-06	0.00055	1.74	1.38	2.19
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	155	1.38	4.73	3.1e-06	0.00071	1.6	1.31	1.96
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	57	29	2.21	5.01	4e-06	0.00077	3.49	2	6.11
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	46	1.8	4.64	1.1e-05	0.0018	2.39	1.6	3.56
+R-HSA-881907	Gastrin-CREB signalling pathway via PKC and MAPK	18	13	3.14	4.96	1.3e-05	0.0019	8.74	2.92	31.3
+R-HSA-112308	Presynaptic depolarization and calcium channel opening	12	10	3.62	4.97	1.7e-05	0.002	16.8	3.57	158
+R-HSA-2682334	EPH-Ephrin signaling	81	36	1.93	4.6	1.6e-05	0.002	2.7	1.69	4.29
+R-HSA-8953854	Metabolism of RNA	646	193	1.3	4.28	1.9e-05	0.002	1.46	1.22	1.75
+R-HSA-5654687	Downstream signaling of activated FGFR1	31	18	2.52	4.64	2.7e-05	0.0021	4.66	2.15	10.4
+R-HSA-72689	Formation of a pool of free 40S subunits	101	42	1.81	4.45	2.3e-05	0.0021	2.41	1.58	3.65
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	40	1.83	4.44	2.6e-05	0.0021	2.46	1.59	3.77
+R-HSA-111885	Opioid Signalling	74	33	1.94	4.42	3.2e-05	0.0021	2.72	1.66	4.41
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	58	1.64	4.35	2.7e-05	0.0021	2.05	1.45	2.88
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	46	1.74	4.35	3.2e-05	0.0021	2.25	1.51	3.33
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	46	1.74	4.35	3.2e-05	0.0021	2.25	1.51	3.33
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	45	1.75	4.34	3.4e-05	0.0021	2.27	1.52	3.37
+R-HSA-72613	Eukaryotic Translation Initiation	119	47	1.72	4.29	3.9e-05	0.0021	2.21	1.49	3.24
+R-HSA-72737	Cap-dependent Translation Initiation	119	47	1.72	4.29	3.9e-05	0.0021	2.21	1.49	3.24
+R-HSA-5663205	Infectious disease	326	106	1.41	4.14	4.3e-05	0.0021	1.64	1.28	2.09
+R-HSA-5663202	Diseases of signal transduction	359	115	1.39	4.13	4.3e-05	0.0021	1.61	1.27	2.02
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	15	11	3.19	4.63	5e-05	0.0022	9.23	2.73	39.8
+R-HSA-5637812	Signaling by EGFRvIII in Cancer	15	11	3.19	4.63	5e-05	0.0022	9.23	2.73	39.8
+R-HSA-5655332	Signaling by FGFR3 in disease	22	14	2.76	4.53	5.4e-05	0.0022	5.88	2.3	16.2
+R-HSA-8853338	Signaling by FGFR3 point mutants in cancer	22	14	2.76	4.53	5.4e-05	0.0022	5.88	2.3	16.2
+R-HSA-5654716	Downstream signaling of activated FGFR4	27	16	2.57	4.48	5.5e-05	0.0022	4.89	2.13	11.7
+R-HSA-1236394	Signaling by ERBB4	43	22	2.22	4.39	5.2e-05	0.0022	3.53	1.85	6.76
+R-HSA-168254	Influenza Infection	154	57	1.61	4.16	5.6e-05	0.0022	1.99	1.4	2.8
+R-HSA-5655291	Signaling by FGFR4 in disease	11	9	3.55	4.63	6.2e-05	0.0023	15.1	3.12	144
+R-HSA-5654738	Signaling by FGFR2	73	32	1.9	4.24	6.3e-05	0.0023	2.63	1.6	4.29
+R-HSA-5655302	Signaling by FGFR1 in disease	38	20	2.29	4.34	6.8e-05	0.0024	3.74	1.87	7.51
+R-HSA-5654708	Downstream signaling of activated FGFR3	25	15	2.61	4.4	7.7e-05	0.0026	5.04	2.12	12.6
+R-HSA-168255	Influenza Life Cycle	143	53	1.61	4.02	9.7e-05	0.0032	1.99	1.39	2.84
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	50	1.63	4.02	1e-04	0.0032	2.04	1.4	2.94
+R-HSA-3928662	EPHB-mediated forward signaling	39	20	2.23	4.2	0.00011	0.0034	3.54	1.79	7.03
+R-HSA-8848021	Signaling by PTK6	54	25	2.01	4.07	0.00014	0.004	2.9	1.63	5.15
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	25	2.01	4.07	0.00014	0.004	2.9	1.63	5.15
+R-HSA-1250347	SHC1 events in ERBB4 signaling	14	10	3.1	4.31	0.00016	0.0046	8.39	2.42	36.7
+R-HSA-1963640	GRB2 events in ERBB2 signaling	14	10	3.1	4.31	0.00016	0.0046	8.39	2.42	36.7
+R-HSA-192823	Viral mRNA Translation	89	36	1.76	3.92	0.00017	0.0047	2.29	1.45	3.58
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	22	2.08	4.01	0.00019	0.005	3.08	1.65	5.76
+R-HSA-1227986	Signaling by ERBB2	49	23	2.04	3.99	0.00019	0.005	2.98	1.62	5.44
+R-HSA-72649	Translation initiation complex formation	58	26	1.95	3.96	0.00019	0.005	2.74	1.56	4.75
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	37	1.73	3.86	0.00021	0.0052	2.23	1.43	3.45
+R-HSA-8853334	Signaling by FGFR3 fusions in cancer	10	8	3.48	4.28	0.00022	0.0054	13.4	2.67	130
+R-HSA-166520	Signalling by NGF	147	53	1.57	3.78	0.00022	0.0054	1.91	1.33	2.71
+R-HSA-416476	G alpha (q) signalling events	207	70	1.47	3.73	0.00023	0.0054	1.73	1.27	2.33
+R-HSA-5655253	Signaling by FGFR2 in disease	27	15	2.41	4.02	0.00025	0.0058	4.2	1.83	9.84
+R-HSA-5654743	Signaling by FGFR4	41	20	2.12	3.93	0.00026	0.0058	3.2	1.64	6.22
+R-HSA-8853659	RET signaling	41	20	2.12	3.93	0.00026	0.0058	3.2	1.64	6.22
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	26	1.91	3.85	0.00027	0.0059	2.65	1.52	4.58
+R-HSA-5654712	FRS-mediated FGFR4 signaling	22	13	2.57	4.02	0.00029	0.0062	4.85	1.92	12.9
+R-HSA-5654696	Downstream signaling of activated FGFR2	30	16	2.32	3.95	3e-04	0.0062	3.84	1.75	8.51
+R-HSA-9006936	Signaling by TGF-beta family members	95	37	1.69	3.71	0.00034	0.0071	2.15	1.38	3.32
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	23	1.96	3.75	4e-04	0.008	2.76	1.52	4.99
+R-HSA-1266738	Developmental Biology	659	188	1.24	3.48	4e-04	0.008	1.36	1.14	1.63
+R-HSA-5654706	FRS-mediated FGFR3 signaling	20	12	2.61	3.93	0.00041	0.0081	5.04	1.89	14.2
+R-HSA-399719	Trafficking of AMPA receptors	31	16	2.24	3.79	0.00048	0.0092	3.58	1.66	7.8
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	16	2.24	3.79	0.00048	0.0092	3.58	1.66	7.8
+R-HSA-1502540	Signaling by Activin	13	9	3.01	3.96	0.00051	0.0093	7.55	2.1	33.6
+R-HSA-199991	Membrane Trafficking	599	172	1.25	3.41	5e-04	0.0093	1.37	1.14	1.66
+R-HSA-5654693	FRS-mediated FGFR1 signaling	23	13	2.46	3.82	0.00053	0.0095	4.37	1.77	11.1
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	25	1.87	3.64	0.00053	0.0095	2.55	1.45	4.43
+R-HSA-977443	GABA receptor activation	55	24	1.9	3.64	0.00055	0.0095	2.61	1.46	4.6
+R-HSA-190236	Signaling by FGFR	87	34	1.7	3.57	0.00055	0.0095	2.16	1.36	3.4
+R-HSA-5654741	Signaling by FGFR3	40	19	2.06	3.69	0.00057	0.0097	3.04	1.54	5.96
+R-HSA-1963642	PI3K events in ERBB2 signaling	16	10	2.72	3.75	0.00082	0.013	5.59	1.84	18.7
+R-HSA-5654736	Signaling by FGFR1	50	22	1.91	3.53	0.00081	0.013	2.64	1.44	4.8
+R-HSA-418346	Platelet homeostasis	79	31	1.7	3.44	0.00087	0.014	2.18	1.34	3.5
+R-HSA-5653656	Vesicle-mediated transport	631	178	1.23	3.2	0.001	0.016	1.34	1.11	1.61
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	19	11	2.51	3.61	0.0011	0.017	4.61	1.69	13.2
+R-HSA-1643713	Signaling by EGFR in Cancer	19	11	2.51	3.61	0.0011	0.017	4.61	1.69	13.2
+R-HSA-5637815	Signaling by Ligand-Responsive EGFR Variants in Cancer	19	11	2.51	3.61	0.0011	0.017	4.61	1.69	13.2
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	67	27	1.75	3.37	0.0011	0.017	2.27	1.34	3.8
+R-HSA-187687	Signalling to ERKs	22	12	2.37	3.52	0.0013	0.019	4.03	1.59	10.4
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	60	1.43	3.22	0.0013	0.019	1.66	1.19	2.29
+R-HSA-500792	GPCR ligand binding	419	123	1.28	3.15	0.0013	0.019	1.41	1.13	1.76
+R-HSA-418594	G alpha (i) signalling events	362	108	1.3	3.14	0.0014	0.02	1.44	1.14	1.82
+R-HSA-5654700	FRS-mediated FGFR2 signaling	25	13	2.26	3.45	0.0015	0.021	3.64	1.53	8.74
+R-HSA-381033	ATF6 (ATF6-alpha) activates chaperones	12	8	2.9	3.59	0.0016	0.022	6.71	1.79	30.5
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	94	1.32	3.1	0.0016	0.022	1.47	1.14	1.9
+R-HSA-421270	Cell-cell junction organization	43	19	1.92	3.3	0.0017	0.023	2.66	1.38	5.08
+R-HSA-375165	NCAM signaling for neurite out-growth	40	18	1.95	3.31	0.0017	0.024	2.75	1.39	5.38
+R-HSA-5654719	SHC-mediated cascade:FGFR4	20	11	2.39	3.4	0.0019	0.026	4.1	1.54	11.2
+R-HSA-5654720	PI-3K cascade:FGFR4	20	11	2.39	3.4	0.0019	0.026	4.1	1.54	11.2
+R-HSA-1250342	PI3K events in ERBB4 signaling	10	7	3.04	3.53	0.0021	0.027	7.82	1.78	46.9
+R-HSA-381183	ATF6 (ATF6-alpha) activates chaperone genes	10	7	3.04	3.53	0.0021	0.027	7.82	1.78	46.9
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	50	21	1.82	3.2	0.0022	0.027	2.43	1.32	4.43
+R-HSA-170834	Signaling by TGF-beta Receptor Complex	66	26	1.71	3.17	0.0021	0.027	2.19	1.28	3.68
+R-HSA-1226099	Signaling by FGFR in disease	47	20	1.85	3.19	0.0023	0.028	2.49	1.32	4.62
+R-HSA-186763	Downstream signal transduction	29	14	2.1	3.24	0.0025	0.031	3.13	1.4	6.97
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	34	1.57	3.04	0.0026	0.032	1.91	1.21	2.96
+R-HSA-210993	Tie2 Signaling	18	10	2.41	3.28	0.0028	0.033	4.19	1.49	12.2
+R-HSA-5654704	SHC-mediated cascade:FGFR3	18	10	2.41	3.28	0.0028	0.033	4.19	1.49	12.2
+R-HSA-5654710	PI-3K cascade:FGFR3	18	10	2.41	3.28	0.0028	0.033	4.19	1.49	12.2
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	61	1.39	2.96	0.0027	0.033	1.58	1.14	2.17
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	75	1.34	2.94	0.0027	0.033	1.51	1.13	2
+R-HSA-425561	Sodium/Calcium exchangers	13	8	2.67	3.3	0.0032	0.035	5.36	1.55	20.9
+R-HSA-8847993	ERBB2 Activates PTK6 Signaling	13	8	2.67	3.3	0.0032	0.035	5.36	1.55	20.9
+R-HSA-5654688	SHC-mediated cascade:FGFR1	21	11	2.28	3.2	0.0032	0.035	3.69	1.42	9.71
+R-HSA-5654689	PI-3K cascade:FGFR1	21	11	2.28	3.2	0.0032	0.035	3.69	1.42	9.71
+R-HSA-9008059	Interleukin-37 signaling	21	11	2.28	3.2	0.0032	0.035	3.69	1.42	9.71
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	95	1.29	2.88	0.003	0.035	1.43	1.11	1.83
+R-HSA-392499	Metabolism of proteins	1907	485	1.1	2.78	0.0032	0.035	1.18	1.05	1.32
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	18	1.86	3.06	0.0034	0.036	2.52	1.29	4.85
+R-HSA-186797	Signaling by PDGF	58	23	1.72	3.02	0.0033	0.036	2.21	1.24	3.86
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	26	1.66	2.99	0.0034	0.036	2.08	1.22	3.48
+R-HSA-418990	Adherens junctions interactions	33	15	1.97	3.07	0.0037	0.037	2.8	1.31	5.89
+R-HSA-5663213	RHO GTPases Activate WASPs and WAVEs	36	16	1.93	3.06	0.0036	0.037	2.69	1.3	5.47
+R-HSA-4086398	Ca2+ pathway	55	22	1.74	3	0.0035	0.037	2.24	1.24	3.97
+R-HSA-429914	Deadenylation-dependent mRNA decay	55	22	1.74	3	0.0035	0.037	2.24	1.24	3.97
+R-HSA-199992	trans-Golgi Network Vesicle Budding	72	27	1.63	2.93	0.0039	0.038	2.02	1.2	3.33
+R-HSA-421837	Clathrin derived vesicle budding	72	27	1.63	2.93	0.0039	0.038	2.02	1.2	3.33
+R-HSA-199418	Negative regulation of the PI3K/AKT network	103	36	1.52	2.89	0.0039	0.038	1.81	1.17	2.76
+R-HSA-72312	rRNA processing	201	63	1.36	2.83	0.0038	0.038	1.54	1.12	2.1
+R-HSA-392154	Nitric oxide stimulates guanylate cyclase	16	9	2.44	3.16	0.0041	0.04	4.31	1.43	13.6
+R-HSA-6811440	Retrograde transport at the Trans-Golgi-Network	46	19	1.79	2.95	0.0043	0.042	2.36	1.24	4.42
+R-HSA-177504	Retrograde neurotrophin signalling	11	7	2.76	3.2	0.0046	0.043	5.87	1.49	27.3
+R-HSA-180024	DARPP-32 events	19	10	2.29	3.07	0.0047	0.043	3.73	1.36	10.4
+R-HSA-390466	Chaperonin-mediated protein folding	43	18	1.82	2.94	0.0045	0.043	2.42	1.24	4.62
+R-HSA-391251	Protein folding	43	18	1.82	2.94	0.0045	0.043	2.42	1.24	4.62
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	56	22	1.71	2.9	0.0046	0.043	2.17	1.21	3.84
+R-HSA-422356	Regulation of insulin secretion	66	25	1.65	2.88	0.0046	0.043	2.05	1.19	3.46
+R-HSA-8856828	Clathrin-mediated endocytosis	140	46	1.43	2.78	0.0047	0.043	1.65	1.13	2.38
+R-HSA-429947	Deadenylation of mRNA	25	12	2.09	2.97	0.0053	0.047	3.1	1.29	7.38
+R-HSA-1839124	FGFR1 mutant receptor activation	31	14	1.96	2.93	0.0053	0.047	2.76	1.26	5.97
+R-HSA-383280	Nuclear Receptor transcription pathway	50	20	1.74	2.86	0.0053	0.047	2.24	1.2	4.09

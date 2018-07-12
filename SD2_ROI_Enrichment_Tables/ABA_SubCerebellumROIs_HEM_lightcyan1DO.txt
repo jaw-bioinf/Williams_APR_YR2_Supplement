@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:11054	urinary bladder cancer	53	3	12.8	5.74	0.0016	0.039	14.8	2.79	50.4
+DOID:4007	bladder carcinoma	53	3	12.8	5.74	0.0016	0.039	14.8	2.79	50.4

@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5632684	Hedgehog 'on' state	85	6	5.61	4.82	0.00068	0.041	6.2	2.17	14.5
+R-HSA-69275	G2/M Transition	195	9	3.67	4.25	0.00078	0.041	4.01	1.76	8.04
+R-HSA-453274	Mitotic G2-G2/M phases	197	9	3.63	4.21	0.00083	0.041	3.97	1.74	7.95
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	9	3.58	4.15	0.00093	0.041	3.9	1.72	7.82
+R-HSA-5663205	Infectious disease	326	12	2.93	3.99	0.00081	0.041	3.21	1.59	5.9
+R-HSA-5658442	Regulation of RAS by GAPs	68	5	5.84	4.52	0.0016	0.047	6.44	1.99	16.3
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	5	5.76	4.48	0.0017	0.047	6.34	1.96	16
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	5	5.76	4.48	0.0017	0.047	6.34	1.96	16
+R-HSA-8854518	AURKA Activation by TPX2	72	5	5.52	4.34	0.0021	0.047	6.05	1.87	15.2
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	12	2.61	3.54	0.0021	0.047	2.84	1.41	5.22
+R-HSA-69229	Ubiquitin-dependent degradation of Cyclin D1	51	4	6.23	4.23	0.0038	0.049	6.86	1.77	19.2
+R-HSA-75815	Ubiquitin-dependent degradation of Cyclin D	51	4	6.23	4.23	0.0038	0.049	6.86	1.77	19.2
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	5	4.97	4.02	0.0033	0.049	5.4	1.68	13.5
+R-HSA-380287	Centrosome maturation	80	5	4.97	4.02	0.0033	0.049	5.4	1.68	13.5
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	81	5	4.91	3.98	0.0035	0.049	5.33	1.65	13.3
+R-HSA-69202	Cyclin E associated events during G1/S transition 	82	5	4.85	3.95	0.0037	0.049	5.26	1.63	13.2
+R-HSA-168254	Influenza Infection	154	7	3.61	3.69	0.0033	0.049	3.9	1.51	8.48
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	4	6.11	4.17	0.0041	0.05	6.72	1.73	18.8

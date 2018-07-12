@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-375276	Peptide ligand-binding receptors	187	14	3.79	5.46	2e-05	0.0032	4.24	2.23	7.49
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	18	2.84	4.76	6.3e-05	0.0044	3.15	1.8	5.21
+R-HSA-500792	GPCR ligand binding	419	21	2.53	4.56	8.1e-05	0.0044	2.81	1.68	4.48
+R-HSA-6788656	Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism	43	5	5.88	4.55	0.0015	0.048	6.66	2.02	17.2
+R-HSA-71291	Metabolism of amino acids and derivatives	251	13	2.62	3.69	0.0014	0.048	2.83	1.46	5.05

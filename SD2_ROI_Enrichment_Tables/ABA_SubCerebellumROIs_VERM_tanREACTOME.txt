@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1482839	Acyl chain remodelling of PE	30	5	11.2	6.88	7.2e-05	0.0026	13.7	4.02	37
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	9	4.92	5.37	8.7e-05	0.0026	5.5	2.4	11.1
+R-HSA-1483257	Phospholipid metabolism	200	12	4.03	5.32	4.2e-05	0.0026	4.51	2.23	8.31

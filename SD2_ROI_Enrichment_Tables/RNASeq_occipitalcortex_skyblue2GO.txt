@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0242	4	4	1	0.25	0.25	CORUM:968	cor	1	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPDZ
+2	1	TRUE	0.0242	1	4	1	0.25	1	CORUM:2008	cor	3	Prnp homodimer complex	1	PRNP
+3	1	TRUE	0.0242	2	4	1	0.25	0.5	CORUM:5192	cor	2	Tiam1-Efnb1-Epha2 complex	1	EFNB1
+4	1	TRUE	0.0242	4	4	1	0.25	0.25	CORUM:2870	cor	5	TEAD2-multiprotein complex	1	MPDZ
+5	1	TRUE	0.0242	3	4	1	0.25	0.333	CORUM:296	cor	4	Pcna-Msh2-Msh6 complex	1	MSH6

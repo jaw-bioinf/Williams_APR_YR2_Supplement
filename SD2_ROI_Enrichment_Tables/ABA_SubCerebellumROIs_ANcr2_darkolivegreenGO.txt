@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0288	2	5	1	0.2	0.5	CORUM:3222	cor	6	MAML3-RBP-Jkappa-Notch3 complex	1	NOTCH3
+2	1	TRUE	0.0288	2	5	1	0.2	0.5	CORUM:3289	cor	3	Ng2-Grip1-Glur2 complex	1	CSPG4
+3	1	TRUE	0.0344	4	5	1	0.2	0.25	CORUM:968	cor	5	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPP5
+4	1	TRUE	0.0288	2	5	1	0.2	0.5	CORUM:3218	cor	1	MAML2-RBP-Jkappa-Notch3 complex	1	NOTCH3
+5	1	TRUE	0.0323	3	5	1	0.2	0.333	CORUM:1161	cor	8	Smrt-Sin3A-Hdac7 complex	1	NCOR2
+6	1	TRUE	0.00793	8	21	3	0.143	0.375	HP:0001934	hp	7	Persistent bleeding after trauma	1	VWF,F8,P2RY12
+7	1	TRUE	0.0286	9	36	2	0.056	0.222	REAC:R-MMU-75892	rea	9	Platelet Adhesion to exposed collagen	1	VWF,GP9
+8	1	TRUE	0.0286	39	36	3	0.083	0.077	REAC:R-MMU-140877	rea	4	Formation of Fibrin Clot (Clotting Cascade)	1	VWF,GP9,F8
+9	1	TRUE	0.0154	23	36	3	0.083	0.13	REAC:R-MMU-140837	rea	4	Intrinsic Pathway of Fibrin Clot Formation	2	VWF,GP9,F8
+10	1	TRUE	0.0286	10	36	2	0.056	0.2	REAC:R-MMU-430116	rea	2	GP1b-IX-V activation signalling	1	VWF,GP9

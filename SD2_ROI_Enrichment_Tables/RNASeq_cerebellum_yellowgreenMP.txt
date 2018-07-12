@@ -1,0 +1,42 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000913	abnormal brain development	780	11	3.74	4.92	8.8e-05	0.015	5.05	2.22	10.8
+MP:0002152	abnormal brain morphology	1633	16	2.6	4.38	0.00011	0.015	3.97	1.91	8.17
+MP:0004491	abnormal orientation of outer hair cell stereociliary bundles	30	3	26.5	8.61	0.00019	0.016	31.9	5.9	112
+MP:0008525	decreased cranium height	35	3	22.7	7.92	3e-04	0.016	26.9	5.02	93.1
+MP:0003861	abnormal nervous system development	1215	13	2.84	4.23	0.00028	0.016	3.95	1.82	8.23
+MP:0000914	exencephaly	260	6	6.12	5.15	0.00037	0.017	7.32	2.46	18.2
+MP:0004522	abnormal orientation of cochlear hair cell stereociliary bundles	42	3	18.9	7.17	0.00051	0.02	22.1	4.16	75.4
+MP:0005377	hearing/vestibular/ear phenotype	718	9	3.32	3.99	0.0011	0.036	4.17	1.71	9.22
+MP:0004527	abnormal outer hair cell stereociliary bundle morphology	62	3	12.8	5.75	0.0016	0.037	14.6	2.78	48.7
+MP:0003051	curly tail	67	3	11.9	5.49	0.002	0.037	13.4	2.57	44.6
+MP:0002397	abnormal bone marrow morphology	67	3	11.9	5.49	0.002	0.037	13.4	2.57	44.6
+MP:0005225	abnormal vertebrae development	74	3	10.7	5.18	0.0027	0.037	12.1	2.32	40.1
+MP:0004261	abnormal embryonic neuroepithelium morphology	129	4	8.22	5.08	0.0013	0.037	9.4	2.38	27.2
+MP:0004399	abnormal cochlear outer hair cell morphology	153	4	6.93	4.55	0.0025	0.037	7.87	1.99	22.7
+MP:0000285	abnormal heart valve morphology	157	4	6.75	4.47	0.0027	0.037	7.66	1.94	22.1
+MP:0000267	abnormal heart development	377	6	4.22	3.93	0.0026	0.037	4.95	1.67	12.2
+MP:0003720	abnormal neural tube closure	377	6	4.22	3.93	0.0026	0.037	4.95	1.67	12.2
+MP:0006208	lethality throughout fetal growth and development	504	7	3.68	3.81	0.0024	0.037	4.4	1.61	10.4
+MP:0001533	abnormal skeleton physiology	649	8	3.27	3.69	0.0024	0.037	3.98	1.55	9.04
+MP:0002752	abnormal somatic nervous system morphology	933	10	2.84	3.65	0.0018	0.037	3.61	1.54	7.8
+MP:0013203	abnormal primary cilium morphology	86	3	9.25	4.73	0.0041	0.043	10.3	1.99	34.1
+MP:0009458	abnormal skeletal muscle size	86	3	9.25	4.73	0.0041	0.043	10.3	1.99	34.1
+MP:0004521	abnormal cochlear hair cell stereociliary bundle morphology	86	3	9.25	4.73	0.0041	0.043	10.3	1.99	34.1
+MP:0000026	abnormal inner ear morphology	283	5	4.68	3.87	0.0039	0.043	5.37	1.62	14.1
+MP:0000111	cleft palate	287	5	4.62	3.83	0.0041	0.043	5.29	1.59	13.9
+MP:0000266	abnormal heart morphology	1397	12	2.28	3.19	0.0037	0.043	2.96	1.34	6.22
+MP:0010031	abnormal cranium size	89	3	8.94	4.63	0.0045	0.044	9.97	1.92	32.8
+MP:0020135	abnormal heart ventricle wall thickness	188	4	5.64	3.96	0.0052	0.044	6.35	1.61	18.2
+MP:0002622	abnormal cochlear hair cell morphology	190	4	5.58	3.93	0.0054	0.044	6.28	1.59	18
+MP:0003308	abnormal cochlear sensory epithelium morphology	196	4	5.41	3.84	0.0061	0.044	6.08	1.54	17.4
+MP:0000045	abnormal hair cell morphology	197	4	5.38	3.83	0.0062	0.044	6.05	1.54	17.3
+MP:0000042	abnormal organ of Corti morphology	197	4	5.38	3.83	0.0062	0.044	6.05	1.54	17.3
+MP:0011967	increased or absent threshold for auditory brainstem response	311	5	4.26	3.6	0.0058	0.044	4.87	1.46	12.8
+MP:0011101	prenatal lethality, incomplete penetrance	424	6	3.75	3.57	0.0046	0.044	4.37	1.47	10.8
+MP:0003755	abnormal palate morphology	315	5	4.21	3.56	0.0061	0.044	4.8	1.44	12.6
+MP:0011108	embryonic lethality during organogenesis, incomplete penetrance	315	5	4.21	3.56	0.0061	0.044	4.8	1.44	12.6
+MP:0002151	abnormal neural tube morphology	590	7	3.15	3.31	0.0057	0.044	3.71	1.36	8.75
+MP:0003635	abnormal synaptic transmission	740	8	2.87	3.26	0.0053	0.044	3.44	1.35	7.83
+MP:0002102	abnormal ear morphology	457	6	3.48	3.35	0.0066	0.046	4.03	1.36	9.95
+MP:0006207	embryonic lethality during organogenesis	942	9	2.53	3.05	0.0068	0.046	3.08	1.27	6.82
+MP:0011090	perinatal lethality, incomplete penetrance	332	5	3.99	3.42	0.0076	0.05	4.54	1.37	11.9

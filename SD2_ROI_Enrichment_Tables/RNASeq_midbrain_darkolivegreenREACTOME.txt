@@ -1,0 +1,3 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-3000157 Laminin interactions 28 4 14 7 0.00017 0.013 16.8 4.16 50.2
+R-HSA-425393 Transport of inorganic cations/anions and amino acids/oligopeptides 108 6 5.45 4.72 8e-04 0.029 6.01 2.1 14

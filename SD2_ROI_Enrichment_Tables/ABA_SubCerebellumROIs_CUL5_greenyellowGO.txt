@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0479	270	188	17	0.09	0.063	KEGG:04060	keg	2	Cytokine-cytokine receptor interaction	1	IL17RA,IL7R,MPL,CCL4,IFNGR1,IL13,OSMR,TSLP,FAS,BMP2,FIGF,IL10RA,CSF3,TNFRSF14,CXCR1,IFNG,LEPR

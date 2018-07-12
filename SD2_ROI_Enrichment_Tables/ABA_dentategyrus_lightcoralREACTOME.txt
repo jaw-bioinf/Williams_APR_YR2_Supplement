@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-193648	NRAGE signals death through JNK	55	3	27.3	8.75	0.00017	0.0013	33.6	6.13	122
+R-HSA-166520	Signalling by NGF	147	4	13.6	6.9	0.00018	0.0013	17.2	4.13	54.3
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	3	20.3	7.45	4e-04	0.0019	24.6	4.52	87.8
+R-HSA-416482	G alpha (12/13) signalling events	87	3	17.3	6.82	0.00065	0.002	20.8	3.83	73.7
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	3	16.7	6.69	0.00072	0.002	20.1	3.7	71.2
+R-HSA-194840	Rho GTPase cycle	138	3	10.9	5.23	0.0025	0.0049	12.9	2.39	45.2
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	5	5.14	4.19	0.0022	0.0049	6.57	1.86	19.1

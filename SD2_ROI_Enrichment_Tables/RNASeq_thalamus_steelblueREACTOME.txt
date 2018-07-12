@@ -1,0 +1,16 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-8875555 MET activates RAP1 and RAC1 11 3 30.3 9.27 0.00011 0.0095 42.6 7.16 181
+R-HSA-372708 p130Cas linkage to MAPK signaling for integrins 15 3 22.3 7.84 3e-04 0.013 28.4 5.06 108
+R-HSA-354192 Integrin alphaIIb beta3 signaling 27 3 12.4 5.63 0.0018 0.035 14.2 2.69 48.1
+R-HSA-9006921 Integrin signaling 27 3 12.4 5.63 0.0018 0.035 14.2 2.69 48.1
+R-HSA-6802952 Signaling by BRAF and RAF fusions 60 4 7.42 4.75 0.002 0.035 8.19 2.11 22.9
+R-HSA-6802948 Signaling by high-kinase activity BRAF mutants 36 3 9.27 4.73 0.004 0.036 10.3 1.99 33.9
+R-HSA-176187 Activation of ATR in response to replication stress 37 3 9.02 4.65 0.0044 0.036 10 1.93 32.8
+R-HSA-76009 Platelet Aggregation (Plug Formation) 37 3 9.02 4.65 0.0044 0.036 10 1.93 32.8
+R-HSA-5674135 MAP2K and MAPK activation 40 3 8.34 4.43 0.0055 0.036 9.21 1.78 30
+R-HSA-6802946 Signaling by moderate kinase activity BRAF mutants 40 3 8.34 4.43 0.0055 0.036 9.21 1.78 30
+R-HSA-6802955 Paradoxical activation of RAF signaling by kinase inactive BRAF 40 3 8.34 4.43 0.0055 0.036 9.21 1.78 30
+R-HSA-8875878 MET promotes cell motility 41 3 8.14 4.36 0.0058 0.036 8.96 1.74 29.1
+R-HSA-6802957 Oncogenic MAPK signaling 76 4 5.86 4.05 0.0048 0.036 6.36 1.65 17.6
+R-HSA-1640170 Cell Cycle 607 13 2.38 3.35 0.0029 0.036 2.65 1.34 4.84
+R-HSA-69242 S Phase 138 5 4.03 3.41 0.008 0.046 4.33 1.35 10.8

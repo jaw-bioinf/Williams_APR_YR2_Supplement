@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05012	Parkinson's disease	142	14	3.18	4.7	0.00012	0.011	3.59	1.88	6.4
+path:hsa04144	Endocytosis	260	20	2.48	4.36	0.00015	0.011	2.78	1.63	4.51
+path:hsa04137	Mitophagy - animal	65	8	3.97	4.3	0.00082	0.029	4.52	1.84	9.69
+path:hsa04722	Neurotrophin signaling pathway	119	11	2.98	3.9	0.0011	0.029	3.31	1.58	6.28
+path:hsa05010	Alzheimer's disease	171	14	2.64	3.89	0.00081	0.029	2.92	1.53	5.16
+path:hsa05418	Fluid shear stress and atherosclerosis	139	12	2.78	3.8	0.0012	0.029	3.07	1.52	5.68
+path:hsa00020	Citrate cycle (TCA cycle)	30	5	5.38	4.3	0.0021	0.043	6.38	1.89	17.2

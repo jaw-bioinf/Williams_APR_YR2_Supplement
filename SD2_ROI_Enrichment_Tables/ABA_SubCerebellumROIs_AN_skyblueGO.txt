@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0289	2	150	2	0.013	1	GO:0008358	BP	1	maternal determination of anterior/posterior axis, embryo	1	PLD6,TDRD5
+2	1	TRUE	0.0289	2	150	2	0.013	1	GO:0007308	BP	1	oocyte construction	1	PLD6,TDRD5
+3	1	TRUE	0.0289	2	150	2	0.013	1	GO:0007309	BP	1	oocyte axis specification	2	PLD6,TDRD5
+4	1	TRUE	0.0289	2	150	2	0.013	1	GO:0007314	BP	1	oocyte anterior/posterior axis specification	3	PLD6,TDRD5
+5	1	TRUE	0.0289	2	150	2	0.013	1	GO:0007315	BP	1	pole plasm assembly	1	PLD6,TDRD5
+6	1	TRUE	0.0289	2	150	2	0.013	1	GO:0030719	BP	1	P granule organization	1	PLD6,TDRD5
+7	1	TRUE	0.04	3	7	1	0.143	0.333	CORUM:5524	cor	6	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	CBX2
+8	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:440	cor	7	Succinate dehydrogenase complex II, mitochondrial	1	SDHC
+9	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:968	cor	5	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPP4
+10	1	TRUE	0.04	1	7	1	0.143	1	CORUM:216	cor	4	PDZK1-NaPiIIa-MAP17 complex	1	PDZK1IP1
+11	1	TRUE	0.04	3	7	1	0.143	0.333	CORUM:6227	cor	3	S4-synectin-RhoGDI1 complex	1	SDC4
+12	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:3212	cor	2	Pax7-HMT complex	1	PAX7

@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-168276	NS1 Mediated Effects on Host Pathways	39	7	6.44	5.76	8.7e-05	0.017	7.8	2.88	18.2
+R-HSA-168253	Host Interactions with Influenza Factors	41	7	6.13	5.57	0.00012	0.017	7.34	2.72	17
+R-HSA-2980766	Nuclear Envelope Breakdown	51	7	4.93	4.76	0.00049	0.027	5.66	2.13	12.8
+R-HSA-168271	Transport of Ribonucleoproteins into the Host Nucleus	30	5	5.98	4.63	0.0013	0.027	7.08	2.1	19
+R-HSA-168333	NEP/NS2 Interacts with the Cellular Export Machinery	30	5	5.98	4.63	0.0013	0.027	7.08	2.1	19
+R-HSA-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	5	5.98	4.63	0.0013	0.027	7.08	2.1	19
+R-HSA-72306	tRNA processing	83	9	3.89	4.48	0.00048	0.027	4.35	1.89	8.83
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	6	5.01	4.46	0.0011	0.027	5.76	1.97	13.9
+R-HSA-1296071	Potassium Channels	99	10	3.63	4.44	0.00042	0.027	4.03	1.85	7.87
+R-HSA-1169408	ISG15 antiviral mechanism	71	8	4.04	4.36	0.00076	0.027	4.53	1.86	9.61
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	8	4.04	4.36	0.00076	0.027	4.53	1.86	9.61
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	8	3.78	4.12	0.0012	0.027	4.2	1.72	8.86
+R-HSA-71387	Metabolism of carbohydrates	263	17	2.32	3.67	0.0011	0.027	2.5	1.41	4.17
+R-HSA-168274	Export of Viral Ribonucleoproteins from Nucleus	32	5	5.61	4.42	0.0018	0.03	6.56	1.96	17.4
+R-HSA-180910	Vpr-mediated nuclear import of PICs	32	5	5.61	4.42	0.0018	0.03	6.56	1.96	17.4
+R-HSA-4570464	SUMOylation of RNA binding proteins	46	6	4.68	4.24	0.0016	0.03	5.32	1.83	12.8
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	5	5.44	4.32	0.002	0.031	6.32	1.89	16.7
+R-HSA-165054	Rev-mediated nuclear export of HIV RNA	33	5	5.44	4.32	0.002	0.031	6.32	1.89	16.7
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	5	5.28	4.23	0.0023	0.032	6.1	1.83	16.1
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	5	5.28	4.23	0.0023	0.032	6.1	1.83	16.1
+R-HSA-176033	Interactions of Vpr with host cellular proteins	35	5	5.13	4.14	0.0027	0.033	5.9	1.77	15.5
+R-HSA-177243	Interactions of Rev with host cellular proteins	35	5	5.13	4.14	0.0027	0.033	5.9	1.77	15.5
+R-HSA-189451	Heme biosynthesis	11	3	9.79	4.94	0.003	0.034	13.2	2.24	55.4
+R-HSA-191859	snRNP Assembly	52	6	4.14	3.84	0.0031	0.034	4.63	1.6	11
+R-HSA-194441	Metabolism of non-coding RNA	52	6	4.14	3.84	0.0031	0.034	4.63	1.6	11
+R-HSA-6784531	tRNA processing in the nucleus	56	6	3.85	3.61	0.0045	0.047	4.26	1.48	10
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	5	4.49	3.74	0.0048	0.049	5.05	1.53	13.1

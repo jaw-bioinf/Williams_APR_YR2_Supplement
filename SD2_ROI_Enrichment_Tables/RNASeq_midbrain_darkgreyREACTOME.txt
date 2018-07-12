@@ -1,0 +1,22 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112316 Neuronal System 356 15 4.02 5.97 4.1e-06 0.00041 4.67 2.49 8.23
+R-HSA-422475 Axon guidance 295 13 4.2 5.75 1.2e-05 0.00059 4.82 2.44 8.79
+R-HSA-442982 Ras activation upon Ca2+ influx through NMDA receptor 19 4 20.1 8.57 3.9e-05 0.0013 26.1 6.19 83.7
+R-HSA-191273 Cholesterol biosynthesis 25 4 15.3 7.35 0.00012 0.0027 18.6 4.56 56.6
+R-HSA-442742 CREB phosphorylation through the activation of Ras 29 4 13.2 6.75 0.00022 0.0027 15.6 3.88 46.5
+R-HSA-373755 Semaphorin interactions 52 5 9.17 6.08 2e-04 0.0027 10.5 3.19 27
+R-HSA-373760 L1CAM interactions 76 6 7.53 5.88 0.00014 0.0027 8.51 2.95 20.1
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 8 4.95 5.09 0.00021 0.0027 5.51 2.27 11.6
+R-HSA-438066 Unblocking of NMDA receptor, glutamate binding and activation 17 3 16.8 6.72 0.00068 0.0056 20.7 3.77 76
+R-HSA-442729 CREB phosphorylation through the activation of CaMKII 17 3 16.8 6.72 0.00068 0.0056 20.7 3.77 76
+R-HSA-438064 Post NMDA receptor activation events 37 4 10.3 5.84 0.00058 0.0056 11.8 2.99 34.2
+R-HSA-112315 Transmission across Chemical Synapses 224 9 3.83 4.41 0.00056 0.0056 4.22 1.85 8.51
+R-HSA-442755 Activation of NMDA receptor and postsynaptic events 41 4 9.3 5.48 0.00086 0.0065 10.6 2.68 30.2
+R-HSA-445144 Signal transduction by L1 21 3 13.6 5.96 0.0013 0.0092 16.1 3 56.6
+R-HSA-1296071 Potassium Channels 99 5 4.82 3.93 0.0038 0.023 5.22 1.62 13
+R-HSA-1266738 Developmental Biology 659 15 2.17 3.2 0.0035 0.023 2.4 1.28 4.2
+R-HSA-70614 Amino acid synthesis and interconversion (transamination) 33 3 8.67 4.54 0.0049 0.028 9.68 1.86 31.9
+R-HSA-437239 Recycling pathway of L1 41 3 6.98 3.95 0.0089 0.047 7.64 1.48 24.7
+R-HSA-1474244 Extracellular matrix organization 278 8 2.74 3.04 0.0087 0.047 2.94 1.22 6.12
+R-HSA-1296072 Voltage gated Potassium channels 43 3 6.65 3.82 0.01 0.048 7.25 1.41 23.4
+R-HSA-2029480 Fcgamma receptor (FCGR) dependent phagocytosis 81 4 4.71 3.45 0.01 0.048 5.05 1.32 13.9

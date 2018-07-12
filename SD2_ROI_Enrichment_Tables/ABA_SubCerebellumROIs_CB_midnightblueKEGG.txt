@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00590	Arachidonic acid metabolism	62	5	7.05	5.15	0.00067	0.023	8.04	2.44	20.7
+path:hsa00592	alpha-Linolenic acid metabolism	25	3	10.5	5.11	0.0028	0.047	12.2	2.29	42
+path:hsa00591	Linoleic acid metabolism	29	3	9.04	4.67	0.0042	0.048	10.3	1.96	34.9

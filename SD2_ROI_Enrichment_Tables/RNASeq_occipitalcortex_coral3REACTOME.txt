@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	9.77	6.34	0.00013	0.0012	12	3.51	32.7
+R-HSA-72172	mRNA Splicing	191	5	9.36	6.18	0.00016	0.0012	11.4	3.36	31.2
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	5	7.36	5.31	5e-04	0.0023	8.9	2.62	24.2
+R-HSA-8953854	Metabolism of RNA	646	6	3.32	3.23	0.0078	0.027	3.98	1.32	10.2
+R-HSA-3700989	Transcriptional Regulation by TP53	365	4	3.92	3.01	0.018	0.05	4.44	1.11	13

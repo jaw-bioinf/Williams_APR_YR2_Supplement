@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5083635	Defective B3GALTL causes Peters-plus syndrome (PpS)	37	4	12.3	6.48	0.00029	0.0085	14.3	3.59	41.4
+R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	38	4	12	6.38	0.00033	0.0085	13.8	3.49	40.1
+R-HSA-3906995	Diseases associated with O-glycosylation of proteins	66	4	6.9	4.53	0.0027	0.046	7.57	1.96	21.1

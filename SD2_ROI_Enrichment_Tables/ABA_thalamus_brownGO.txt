@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0287	49	825	15	0.018	0.306	KEGG:05150	keg	3	Staphylococcus aureus infection	1	ITGB2L,ITGB2,C2,MBL2,CFH,MASP2,ITGAL,H2-AA,H2-DMB2,H2-DMA,C1RA,FCGR3,H2-EB1,CFD,C4B

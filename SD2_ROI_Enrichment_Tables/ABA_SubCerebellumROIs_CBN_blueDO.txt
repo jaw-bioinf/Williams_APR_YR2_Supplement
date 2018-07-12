@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:10584	retinitis pigmentosa	74	22	2.45	4.66	4e-05	0.023	3.12	1.79	5.25
+DOID:3612	retinitis	82	23	2.31	4.44	7.4e-05	0.023	2.87	1.68	4.75
+DOID:3829	pituitary adenoma	40	14	2.88	4.44	0.00015	0.031	3.94	1.9	7.87

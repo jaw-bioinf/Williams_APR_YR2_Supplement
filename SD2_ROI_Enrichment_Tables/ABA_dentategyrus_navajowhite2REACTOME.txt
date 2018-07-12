@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1483255	PI Metabolism	78	3	9.63	4.84	0.0037	0.048	10.7	2.06	35
+R-HSA-168164	Toll Like Receptor 3 (TLR3) Cascade	97	3	7.74	4.23	0.0067	0.048	8.52	1.65	27.7
+R-HSA-166166	MyD88-independent TLR4 cascade 	98	3	7.66	4.2	0.0069	0.048	8.42	1.63	27.3
+R-HSA-937061	TRIF(TICAM1)-mediated TLR4 signaling 	98	3	7.66	4.2	0.0069	0.048	8.42	1.63	27.3

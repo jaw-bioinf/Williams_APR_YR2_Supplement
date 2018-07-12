@@ -1,0 +1,9 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0005403 abnormal nerve conduction 73 7 7.54 6.37 3.7e-05 0.032 8.68 3.29 19.5
+MP:0003705 abnormal hypodermis morphology 144 9 4.91 5.37 8.7e-05 0.038 5.52 2.41 11.2
+MP:0000063 decreased bone mineral density 306 13 3.34 4.73 0.00013 0.038 3.75 1.91 6.79
+MP:0004126 thin hypodermis 10 3 23.6 8.11 0.00023 0.043 34 5.61 151
+MP:0008814 decreased nerve conduction velocity 46 5 8.55 5.82 0.00028 0.043 9.84 2.98 25.5
+MP:0000961 abnormal dorsal root ganglion morphology 134 8 4.69 4.89 3e-04 0.043 5.21 2.15 11
+MP:0002907 abnormal parturition 28 4 11.2 6.15 4e-04 0.044 13.3 3.31 39.7
+MP:0003797 abnormal compact bone morphology 174 9 4.07 4.64 0.00036 0.044 4.5 1.97 9.07

@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00389	2	68	2	0.029	1	GO:0036388	BP	5	pre-replicative complex assembly	1	CDC45,ORC3
+2	1	TRUE	0.00389	2	68	2	0.029	1	GO:1902299	BP	5	pre-replicative complex assembly involved in cell cycle DNA replication	1	CDC45,ORC3
+3	1	TRUE	0.00389	2	68	2	0.029	1	GO:0006267	BP	5	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	1	CDC45,ORC3
+4	1	TRUE	0.0322	5	68	2	0.029	0.4	GO:0031261	CC	3	DNA replication preinitiation complex	1	CDC45,ORC3
+5	1	TRUE	0.00389	2	68	2	0.029	1	GO:0036387	CC	2	pre-replicative complex	1	CDC45,ORC3
+6	1	TRUE	0.00389	2	68	2	0.029	1	GO:0005656	CC	2	nuclear pre-replicative complex	1	CDC45,ORC3
+7	1	TRUE	0.0202	3	3	1	0.333	0.333	CORUM:1035	cor	8	OAP-1-OSP/claudin-11-ITGB1 complex	1	CLDN11
+8	1	TRUE	0.0202	5	3	1	0.333	0.2	CORUM:128	cor	4	ORC complex (origin recognition complex)	1	ORC3
+9	1	TRUE	0.0202	4	3	1	0.333	0.25	CORUM:6262	cor	1	L11-HDM2-p53-ARF complex	1	MDM2
+10	1	TRUE	0.0202	4	3	1	0.333	0.25	CORUM:5725	cor	7	Mdm2-P53 complex	1	MDM2

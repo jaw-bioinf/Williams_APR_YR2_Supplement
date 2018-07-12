@@ -1,0 +1,45 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0009720	Adenoma sebaceum	22	3	31.9	9.53	9.3e-05	0.0061	45.3	7.61	188
+HP:0010615	Angiofibromas	22	3	31.9	9.53	9.3e-05	0.0061	45.3	7.61	188
+HP:0010614	Fibroma	47	4	19.9	8.55	3.5e-05	0.0061	29	6.48	103
+HP:0012316	Fibrous tissue neoplasm	49	4	19.1	8.36	4.1e-05	0.0061	27.7	6.2	98
+HP:0040290	Abnormality of skeletal muscles	534	9	3.94	4.84	8.7e-05	0.0061	8.48	2.68	29.1
+HP:0030236	Abnormality of muscle size	543	9	3.88	4.78	9.9e-05	0.0061	8.31	2.63	28.5
+HP:0100631	Neoplasm of the adrenal gland	26	3	27	8.72	0.00015	0.0082	37.5	6.37	153
+HP:0003202	Skeletal muscle atrophy	444	8	4.22	4.75	0.00018	0.0082	8.01	2.52	26.1
+HP:0001048	Cavernous hemangioma	30	3	23.4	8.07	0.00024	0.0095	31.9	5.47	128
+HP:0004375	Neoplasm of the nervous system	147	5	7.96	5.65	0.00026	0.0095	11.8	3.12	38.4
+HP:0008069	Neoplasm of the skin	157	5	7.45	5.42	0.00035	0.012	11	2.91	35.7
+HP:0100568	Neoplasm of the endocrine system	89	4	10.5	5.96	0.00043	0.013	14.5	3.31	50.4
+HP:0030448	Soft tissue sarcoma	91	4	10.3	5.88	0.00046	0.013	14.2	3.23	49.2
+HP:0000957	Cafe-au-lait spot	93	4	10.1	5.8	5e-04	0.013	13.9	3.16	48
+HP:0100007	Neoplasm of the peripheral nervous system	40	3	17.6	6.9	0.00057	0.014	23.3	4.05	91.4
+HP:0001012	Multiple lipomas	43	3	16.3	6.62	7e-04	0.016	21.5	3.75	84
+HP:0200013	Neoplasm of fatty tissue	46	3	15.3	6.38	0.00086	0.018	20	3.5	77.9
+HP:0012031	Lipomatous tumor	46	3	15.3	6.38	0.00086	0.018	20	3.5	77.9
+HP:0002890	Thyroid carcinoma	48	3	14.6	6.23	0.00097	0.019	19.1	3.34	74.2
+HP:0000098	Tall stature	115	4	8.14	5.1	0.0011	0.021	11.1	2.53	38.1
+HP:0100615	Ovarian neoplasm	52	3	13.5	5.95	0.0012	0.022	17.5	3.08	67.8
+HP:0000995	Melanocytic nevus	55	3	12.8	5.76	0.0015	0.024	16.5	2.9	63.7
+HP:0100013	Neoplasm of the breast	56	3	12.5	5.7	0.0015	0.025	16.2	2.85	62.4
+HP:0100031	Neoplasm of the thyroid gland	63	3	11.1	5.32	0.0022	0.033	14.3	2.52	54.7
+HP:0100242	Sarcoma	142	4	6.59	4.46	0.0025	0.037	8.83	2.03	30.3
+HP:0009124	Abnormality of adipose tissue	144	4	6.5	4.41	0.0026	0.037	8.7	2	29.8
+HP:0010785	Gonadal neoplasm	71	3	9.89	4.96	0.003	0.039	12.6	2.23	48.1
+HP:0001028	Hemangioma	74	3	9.49	4.83	0.0034	0.039	12	2.13	45.9
+HP:0003508	Proportionate short stature	74	3	9.49	4.83	0.0034	0.039	12	2.13	45.9
+HP:0100742	Vascular neoplasm	75	3	9.36	4.79	0.0035	0.039	11.9	2.1	45.2
+HP:0003764	Nevus	75	3	9.36	4.79	0.0035	0.039	11.9	2.1	45.2
+HP:0007379	Neoplasm of the genitourinary tract	149	4	6.28	4.32	0.003	0.039	8.39	1.92	28.7
+HP:0001943	Hypoglycemia	152	4	6.16	4.26	0.0032	0.039	8.21	1.88	28.1
+HP:0011013	Abnormality of carbohydrate metabolism/homeostasis	521	7	3.14	3.47	0.0033	0.039	5.07	1.56	16.1
+HP:0001252	Muscular hypotonia	1058	10	2.21	3.09	0.0037	0.039	4.67	1.45	17.4
+HP:0002659	Increased susceptibility to fractures	162	4	5.78	4.08	0.004	0.041	7.67	1.76	26.3
+HP:0000591	Abnormality of the sclera	82	3	8.56	4.54	0.0046	0.046	10.8	1.92	41.1
+HP:0011732	Abnormality of adrenal morphology	84	3	8.36	4.47	0.0049	0.046	10.5	1.87	40
+HP:0012733	Macule	84	3	8.36	4.47	0.0049	0.046	10.5	1.87	40
+HP:0010787	Genital neoplasm	88	3	7.98	4.34	0.0056	0.048	10	1.78	38
+HP:0011015	Abnormality of blood glucose concentration	176	4	5.32	3.85	0.0054	0.048	7.02	1.61	24
+HP:0000238	Hydrocephalus	285	5	4.11	3.58	0.0052	0.048	5.74	1.53	18.6
+HP:0000998	Hypertrichosis	291	5	4.02	3.52	0.0057	0.048	5.6	1.49	18.1
+HP:0003011	Abnormality of the musculature	1823	13	1.67	2.7	0.0056	0.048	6.05	1.37	55.2

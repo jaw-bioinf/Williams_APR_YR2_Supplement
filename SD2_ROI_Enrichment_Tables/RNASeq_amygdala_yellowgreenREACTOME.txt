@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1257604	PIP3 activates AKT signaling	254	6	5.5	4.77	7e-04	0.03	6.35	2.17	15.4
+R-HSA-9006925	Intracellular signaling by second messengers	282	6	4.95	4.42	0.0012	0.03	5.69	1.95	13.8
+R-HSA-8948751	Regulation of PTEN stability and activity	69	3	10.1	4.99	0.0032	0.035	11.2	2.17	36.7
+R-HSA-6807070	PTEN Regulation	140	4	6.65	4.42	0.003	0.035	7.41	1.9	21
+R-HSA-168249	Innate Immune System	1035	11	2.47	3.29	0.0035	0.035	3	1.36	6.14
+R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	86	3	8.12	4.36	0.0059	0.041	8.93	1.73	28.9
+R-HSA-4086400	PCP/CE pathway	89	3	7.85	4.26	0.0065	0.041	8.61	1.67	27.9
+R-HSA-168256	Immune System	1970	16	1.89	2.9	0.0056	0.041	2.43	1.22	4.69
+R-HSA-15869	Metabolism of nucleotides	101	3	6.92	3.92	0.0092	0.047	7.55	1.47	24.3
+R-HSA-9020702	Interleukin-1 signaling	102	3	6.85	3.9	0.0094	0.047	7.47	1.45	24.1
+R-HSA-195721	Signaling by WNT	314	5	3.71	3.2	0.011	0.048	4.11	1.25	10.6

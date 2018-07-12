@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1247	blood coagulation disease	164	3	18.3	7.09	0.00041	0.01	31.7	4.61	189
+DOID:1883	hepatitis C	233	3	12.9	5.83	0.0012	0.01	22	3.21	131
+DOID:10763	hypertension	569	4	7.03	4.75	0.0012	0.01	15.2	2.56	104
+DOID:0060158	acquired metabolic disease	1078	5	4.64	4.11	0.0014	0.01	13.8	2.25	145
+DOID:3393	coronary artery disease	351	3	8.55	4.59	0.0038	0.017	14.3	2.09	84.8
+DOID:8857	lupus erythematosus	370	3	8.11	4.44	0.0044	0.017	13.5	1.97	80.2
+DOID:2237	hepatitis	427	3	7.03	4.07	0.0066	0.017	11.6	1.7	68.8
+DOID:74	hematopoietic system disease	435	3	6.9	4.02	0.0069	0.017	11.4	1.66	67.6
+DOID:9351	diabetes mellitus	818	4	4.89	3.75	0.0048	0.017	10.1	1.71	69.1
+DOID:0014667	disease of metabolism	1280	5	3.91	3.64	0.0031	0.017	11.2	1.83	118
+DOID:0050013	carbohydrate metabolism disease	858	4	4.66	3.62	0.0058	0.017	9.58	1.62	65.6
+DOID:4194	glucose metabolism disease	858	4	4.66	3.62	0.0058	0.017	9.58	1.62	65.6
+DOID:0050828	artery disease	931	4	4.3	3.42	0.0078	0.017	8.72	1.47	59.7
+DOID:225	syndrome	1726	5	2.9	2.87	0.012	0.025	7.66	1.25	80.3
+DOID:178	vascular disease	1088	4	3.68	3.04	0.014	0.026	7.27	1.23	49.7
+DOID:409	liver disease	609	3	4.93	3.21	0.018	0.032	7.9	1.15	46.8
+DOID:3118	hepatobiliary disease	637	3	4.71	3.11	0.02	0.034	7.52	1.1	44.6
+DOID:1287	cardiovascular system disease	1292	4	3.1	2.64	0.025	0.041	5.9	0.998	40.4
+DOID:417	hypersensitivity reaction type II disease	730	3	4.11	2.81	0.029	0.044	6.46	0.945	38.3

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002127	abnormal cardiovascular system morphology	1950	904	1.12	4.86	7.1e-07	0.0036	1.28	1.16	1.42
+MP:0000266	abnormal heart morphology	1397	656	1.13	4.46	5e-06	0.013	1.3	1.15	1.46
+MP:0002138	abnormal hepatobiliary system morphology	1104	525	1.14	4.32	9.7e-06	0.016	1.32	1.16	1.5
+MP:0001614	abnormal blood vessel morphology	1178	556	1.14	4.22	1.5e-05	0.019	1.3	1.15	1.47

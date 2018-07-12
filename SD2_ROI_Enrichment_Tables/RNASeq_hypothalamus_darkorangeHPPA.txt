@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0000009 Functional abnormality of the bladder 219 9 4.97 5.54 4.1e-05 0.021 7 2.77 16.3
+HP:0000014 Abnormality of the bladder 255 9 4.27 4.95 0.00013 0.021 5.91 2.34 13.8
+HP:0002007 Frontal bossing 323 10 3.75 4.73 0.00015 0.021 5.32 2.19 12.2
+HP:0011218 Abnormal shape of the frontal region 323 10 3.75 4.73 0.00015 0.021 5.32 2.19 12.2
+HP:0000290 Abnormality of the forehead 647 14 2.62 4.16 0.00023 0.025 4.2 1.87 9.38
+HP:0002648 Abnormality of calvarial morphology 609 13 2.58 3.92 0.00051 0.046 3.93 1.73 8.77

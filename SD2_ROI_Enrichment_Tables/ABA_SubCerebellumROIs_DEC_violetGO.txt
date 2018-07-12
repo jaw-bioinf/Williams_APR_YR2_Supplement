@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0242	3	5	1	0.2	0.333	CORUM:965	cor	8	mPar6c-Mlgl-aPKC complex	1	PARD6A
+2	1	TRUE	0.0242	2	5	1	0.2	0.5	CORUM:1804	cor	4	Smurf1-Par6 complex	1	PARD6A
+3	1	TRUE	0.0276	4	5	1	0.2	0.25	CORUM:367	cor	2	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	RAG2
+4	1	TRUE	0.0242	3	5	1	0.2	0.333	CORUM:1066	cor	5	mPar6c-Mlgl-aPKCz complex	1	PARD6A
+5	1	TRUE	0.0242	2	5	1	0.2	0.5	CORUM:366	cor	7	Rag1-Rag2 protein-DNA complex	1	RAG2
+6	1	TRUE	0.0242	1	5	1	0.2	1	CORUM:6605	cor	3	Gli1-Kif7 complex	1	GLI1
+7	1	TRUE	0.0242	3	5	1	0.2	0.333	CORUM:6595	cor	1	Ccp110-Cep290-Rab8a complex	1	RAB8A

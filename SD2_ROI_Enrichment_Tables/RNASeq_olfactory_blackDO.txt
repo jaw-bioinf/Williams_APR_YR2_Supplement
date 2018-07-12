@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0050622	reproductive organ benign neoplasm	38	6	6.74	5.5	0.00022	0.029	8.07	2.72	19.9
+DOID:3312	bipolar disorder	153	12	3.35	4.55	0.00023	0.029	3.75	1.85	6.95
+DOID:12849	autistic disorder	186	13	2.98	4.25	4e-04	0.029	3.32	1.69	5.99
+DOID:3324	mood disorder	166	12	3.09	4.21	0.00049	0.029	3.42	1.69	6.33
+DOID:0060041	autism spectrum disorder	191	13	2.91	4.14	0.00051	0.029	3.22	1.64	5.82
+DOID:0060040	pervasive developmental disorder	201	13	2.76	3.92	0.00083	0.039	3.04	1.56	5.49
+DOID:631	fibromyalgia	22	4	7.76	4.92	0.0015	0.05	9.46	2.3	29.1
+DOID:5183	hereditary Wilms' tumor	55	6	4.66	4.22	0.0017	0.05	5.26	1.81	12.5
+DOID:2154	nephroblastoma	71	7	4.21	4.21	0.0013	0.05	4.72	1.79	10.5
+DOID:12603	acute leukemia	96	8	3.56	3.91	0.0018	0.05	3.93	1.62	8.28

@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6541	cor	3	Spg33-Rtn1 complex	1	ZFYVE27
+2	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:2184	cor	6	Gata1-Gfi1b complex	1	GFI1B
+3	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6547	cor	7	Spg33-Kif5b complex	1	ZFYVE27
+4	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6544	cor	8	Spg33-Kif5a complex	1	ZFYVE27
+5	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6548	cor	5	Spg33-Kif5c complex	1	ZFYVE27
+6	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6539	cor	4	Spg33-Plp1 complex	1	ZFYVE27
+7	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6543	cor	1	Spg33-Rtn4 complex	1	ZFYVE27
+8	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:6542	cor	2	Spg33-Rtn3 complex	1	ZFYVE27
+9	1	TRUE	0.00721	2	3	1	0.333	0.5	CORUM:3018	cor	9	Cohesin complex, incomplete (Sycp2, Crest/Ss18I1)	1	SYCP2

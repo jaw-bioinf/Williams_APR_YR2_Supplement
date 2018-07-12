@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001032	Absent distal interphalangeal creases	12	4	21.3	8.87	2.4e-05	0.015	33.6	7.17	130
+HP:0006109	Absent phalangeal crease	16	4	16	7.56	8.5e-05	0.026	22.4	5.09	77.3

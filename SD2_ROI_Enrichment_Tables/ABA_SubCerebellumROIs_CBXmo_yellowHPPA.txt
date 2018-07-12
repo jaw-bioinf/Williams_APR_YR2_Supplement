@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000036	Abnormality of the penis	522	88	1.57	4.89	2.5e-06	0.006	1.89	1.44	2.47
+HP:0008736	Hypoplasia of penis	353	64	1.69	4.73	7.2e-06	0.0087	2.01	1.47	2.72
+HP:0000431	Wide nasal bridge	331	60	1.69	4.56	1.5e-05	0.0089	2	1.45	2.72
+HP:0011968	Feeding difficulties	510	84	1.53	4.52	1.2e-05	0.0089	1.82	1.38	2.38
+HP:0000177	Abnormality of upper lip	601	94	1.46	4.26	2.9e-05	0.012	1.72	1.32	2.22
+HP:0000159	Abnormality of the lip	748	112	1.39	4.21	3e-05	0.012	1.66	1.3	2.11
+HP:0003272	Abnormality of the hip bone	353	61	1.61	4.18	5.7e-05	0.02	1.88	1.37	2.55
+HP:0040064	Abnormality of limbs	1488	195	1.22	3.88	7.1e-05	0.021	1.52	1.22	1.9
+HP:0000028	Cryptorchidism	505	80	1.47	4	8.8e-05	0.024	1.72	1.3	2.25
+HP:0000050	Hypoplastic male external genitalia	416	68	1.52	3.93	0.00013	0.03	1.76	1.3	2.35
+HP:0011844	Abnormal appendicular skeleton morphology	1199	161	1.25	3.7	0.00016	0.035	1.5	1.2	1.88
+HP:0008872	Feeding difficulties in infancy	391	64	1.52	3.81	2e-04	0.04	1.75	1.29	2.36
+HP:0000035	Abnormality of the testis	665	98	1.37	3.7	0.00022	0.041	1.59	1.23	2.05
+HP:0009815	Aplasia/hypoplasia of the extremities	504	78	1.44	3.71	0.00025	0.042	1.66	1.25	2.18
+HP:0002983	Micromelia	101	23	2.12	3.96	3e-04	0.045	2.54	1.5	4.16
+HP:0001373	Joint dislocation	216	40	1.72	3.81	0.00029	0.045	1.99	1.35	2.88
+HP:0000002	Abnormality of body height	1037	141	1.27	3.54	0.00031	0.045	1.49	1.18	1.87
+HP:0000032	Abnormality of male external genitalia	773	110	1.32	3.55	0.00035	0.047	1.53	1.2	1.96

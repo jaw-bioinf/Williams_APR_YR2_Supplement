@@ -1,0 +1,48 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002181	Cerebral edema	36	6	16.7	9.51	9.9e-07	4e-04	23.6	7.48	63.9
+HP:0004481	Progressive macrocephaly	31	5	16.2	8.52	1e-05	0.0011	22	6.18	63.9
+HP:0012103	Abnormality of the mitochondrion	113	8	7.1	6.61	1e-05	0.0011	9.49	3.64	22.1
+HP:0001941	Acidosis	277	12	4.34	5.82	7.4e-06	0.0011	6.31	2.83	13.4
+HP:0004360	Abnormality of acid-base homeostasis	296	12	4.07	5.53	1.5e-05	0.0012	5.86	2.63	12.4
+HP:0003128	Lactic acidosis	168	9	5.37	5.83	2.6e-05	0.0018	7.21	2.92	16.2
+HP:0003287	Abnormality of mitochondrial metabolism	99	7	7.09	6.17	4e-05	0.0024	9.18	3.3	22.2
+HP:0006965	Acute necrotizing encephalopathy	23	4	17.4	7.94	6.4e-05	0.0026	23.3	5.46	76.2
+HP:0001404	Hepatocellular necrosis	43	5	11.7	7.06	5.4e-05	0.0026	15	4.32	42.1
+HP:0001254	Lethargy	105	7	6.69	5.94	5.9e-05	0.0026	8.6	3.09	20.8
+HP:0002605	Hepatic necrosis	47	5	10.7	6.7	8.3e-05	0.0029	13.6	3.92	37.8
+HP:0000712	Emotional lability	111	7	6.32	5.72	8.5e-05	0.0029	8.09	2.92	19.5
+HP:0008316	Abnormal mitochondria in muscle tissue	27	4	14.9	7.25	0.00012	0.0035	19.3	4.58	61.4
+HP:0006846	Acute encephalopathy	27	4	14.9	7.25	0.00012	0.0035	19.3	4.58	61.4
+HP:0001259	Coma	82	6	7.34	5.83	0.00013	0.0035	9.23	3.04	23.5
+HP:0001939	Abnormality of metabolism/homeostasis	1857	29	1.57	3.57	2e-04	0.0052	4.35	1.77	12.9
+HP:0002151	Increased serum lactate	131	7	5.36	5.1	0.00024	0.0058	6.75	2.44	16.2
+HP:0000602	Ophthalmoplegia	132	7	5.32	5.07	0.00025	0.0058	6.69	2.42	16.1
+HP:0012447	Abnormal myelination	281	10	3.57	4.51	0.00028	0.006	4.73	2	10.3
+HP:0002104	Apnea	231	9	3.91	4.59	0.00031	0.0063	5.07	2.06	11.3
+HP:0011400	Abnormal CNS myelination	184	8	4.36	4.7	0.00034	0.0066	5.55	2.15	12.8
+HP:0030085	Abnormal CSF lactate level	69	5	7.27	5.28	0.00052	0.0093	8.87	2.6	24.1
+HP:0002490	Increased CSF lactate	69	5	7.27	5.28	0.00052	0.0093	8.87	2.6	24.1
+HP:0002878	Respiratory failure	111	6	5.42	4.75	0.00067	0.011	6.63	2.2	16.7
+HP:0007305	CNS demyelination	78	5	6.43	4.87	0.00092	0.015	7.76	2.28	21
+HP:0002171	Gliosis	120	6	5.01	4.49	0.001	0.016	6.09	2.03	15.3
+HP:0001315	Reduced tendon reflexes	399	11	2.76	3.76	0.0012	0.017	3.64	1.6	7.8
+HP:0003808	Abnormal muscle tone	1269	22	1.74	3.3	0.0011	0.017	3.02	1.45	6.56
+HP:0001265	Hyporeflexia	280	9	3.22	3.89	0.0013	0.018	4.09	1.67	9.12
+HP:0002793	Abnormal pattern of respiration	297	9	3.04	3.69	0.0019	0.026	3.83	1.56	8.53
+HP:0001252	Muscular hypotonia	1058	19	1.8	3.13	0.0024	0.031	2.78	1.35	5.81
+HP:0011442	Abnormality of central motor function	1241	21	1.7	3.06	0.0024	0.031	2.77	1.34	5.92
+HP:0100705	Abnormality of the glial cells	144	6	4.18	3.91	0.0026	0.032	5	1.67	12.5
+HP:0025155	Abnormality of hepatobiliary system physiology	197	7	3.56	3.72	0.0028	0.032	4.32	1.57	10.3
+HP:0001410	Decreased liver function	197	7	3.56	3.72	0.0028	0.032	4.32	1.57	10.3
+HP:0003202	Skeletal muscle atrophy	444	11	2.48	3.36	0.0028	0.032	3.22	1.41	6.88
+HP:0001272	Cerebellar atrophy	258	8	3.11	3.53	0.0031	0.035	3.82	1.48	8.76
+HP:0001943	Hypoglycemia	152	6	3.96	3.74	0.0034	0.037	4.71	1.58	11.8
+HP:0002415	Leukodystrophy	65	4	6.17	4.22	0.0036	0.038	7.21	1.79	21.3
+HP:0001284	Areflexia	208	7	3.38	3.54	0.0038	0.038	4.07	1.48	9.68
+HP:0008872	Feeding difficulties in infancy	391	10	2.56	3.29	0.0037	0.038	3.25	1.38	7.06
+HP:0002013	Vomiting	157	6	3.83	3.64	0.004	0.039	4.55	1.52	11.4
+HP:0003546	Exercise intolerance	112	5	4.48	3.75	0.0046	0.043	5.24	1.56	14
+HP:0011017	Abnormality of cell physiology	402	10	2.49	3.2	0.0045	0.043	3.14	1.34	6.84
+HP:0001251	Ataxia	546	12	2.2	3.07	0.0048	0.043	2.87	1.29	6.06
+HP:0001276	Hypertonia	626	13	2.08	3	0.0051	0.046	2.76	1.27	5.76
+HP:0002835	Aspiration	37	3	8.13	4.38	0.0056	0.049	9.47	1.77	32.6

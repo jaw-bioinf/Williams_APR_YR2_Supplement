@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00693	4	1	1	1	0.25	CORUM:578	cor	4	PYR complex	1	SMARCB1
+2	1	TRUE	0.0124	10	1	1	1	0.1	CORUM:572	cor	6	PYR complex	1	SMARCB1
+3	1	TRUE	0.00693	2	1	1	1	0.5	CORUM:5174	cor	2	Smarcb1/Ini1-Smarca2-Mecp2 complex	1	SMARCB1
+4	1	TRUE	0.00693	4	1	1	1	0.25	CORUM:5185	cor	5	SWI/SNF chromatin-remodeling complex (Mecp2, Smarc)	1	SMARCB1
+5	1	TRUE	0.00693	3	1	1	1	0.333	CORUM:1408	cor	1	Ets2-Smarca4-Smarcb1-Smarce1 complex	1	SMARCB1
+6	1	TRUE	0.00722	5	1	1	1	0.2	CORUM:5175	cor	3	SWI/SNF-related complex	1	SMARCB1
+7	1	TRUE	0.00693	3	1	1	1	0.333	CORUM:5292	cor	7	Ets2-Smarca4-Smarcb1-Smarce1 complex	1	SMARCB1

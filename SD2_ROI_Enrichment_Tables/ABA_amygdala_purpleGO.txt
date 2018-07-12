@@ -1,0 +1,17 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0276 1 8 1 0.125 1 CORUM:951 cor 8 Fmrp-Lgl complex 1 LLGL1
+2 1 TRUE 0.0276 3 8 1 0.125 0.333 CORUM:2874 cor 10 Slam-SAP-FynT complex 1 SH2D1A
+3 1 TRUE 0.0276 2 8 1 0.125 0.5 CORUM:5547 cor 6 Cdc2-Ccnb1 complex 1 CDK1
+4 1 TRUE 0.0276 3 8 1 0.125 0.333 CORUM:965 cor 13 mPar6c-Mlgl-aPKC complex 1 LLGL1
+5 1 TRUE 0.0276 3 8 1 0.125 0.333 CORUM:1016 cor 2 Pcdhga1-Pcdhga3 complex 1 PCDHGA3
+6 1 TRUE 0.0276 1 8 1 0.125 1 CORUM:216 cor 5 PDZK1-NaPiIIa-MAP17 complex 1 PDZK1IP1
+7 1 TRUE 0.0276 2 8 1 0.125 0.5 CORUM:5706 cor 4 Cdc2-Ccnb1 complex 1 CDK1
+8 1 TRUE 0.0276 3 8 1 0.125 0.333 CORUM:2569 cor 16 Slam-SAP-SHIP complex 1 SH2D1A
+9 1 TRUE 0.00974 5 8 2 0.25 0.4 CORUM:128 cor 7 ORC complex (origin recognition complex) 1 ORC4,ORC3
+10 1 TRUE 0.0276 3 8 1 0.125 0.333 CORUM:2568 cor 12 Slam-SAP-FynT complex 1 SH2D1A
+11 1 TRUE 0.0276 2 8 1 0.125 0.5 CORUM:1019 cor 14 Pcdha7-Pcdhga3 complex 1 PCDHGA3
+12 1 TRUE 0.0276 2 8 1 0.125 0.5 CORUM:2570 cor 3 Slam-SAP complex 1 SH2D1A
+13 1 TRUE 0.0276 3 8 1 0.125 0.333 CORUM:1066 cor 15 mPar6c-Mlgl-aPKCz complex 1 LLGL1
+14 1 TRUE 0.0276 2 8 1 0.125 0.5 CORUM:6320 cor 1 ERK5-MEK5 complex 1 MAPK7
+15 1 TRUE 0.0149 19 58 5 0.086 0.263 HP:0002293 hp 9 Alopecia of scalp 1 TRP63,CLDN1,COL7A1,EBP,MBTPS2
+16 1 TRUE 0.0466 14 58 4 0.069 0.286 HP:0004552 hp 9 Scarring alopecia of scalp 2 CLDN1,COL7A1,EBP,MBTPS2

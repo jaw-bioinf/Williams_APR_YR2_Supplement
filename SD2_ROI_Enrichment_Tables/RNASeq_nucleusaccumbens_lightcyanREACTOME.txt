@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-202131 Metabolism of nitric oxide 17 3 12.8 5.76 0.0015 0.047 15.6 2.85 56.9
+R-HSA-203765 eNOS activation and regulation 17 3 12.8 5.76 0.0015 0.047 15.6 2.85 56.9
+R-HSA-72203 Processing of Capped Intron-Containing Pre-mRNA 243 11 3.28 4.26 0.00052 0.047 3.6 1.73 6.78
+R-HSA-72163 mRNA Splicing - Major Pathway 183 9 3.57 4.15 0.00095 0.047 3.89 1.71 7.79
+R-HSA-72172 mRNA Splicing 191 9 3.42 3.99 0.0013 0.047 3.71 1.63 7.43

@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0060095	uterine benign neoplasm	32	4	9.62	5.61	0.00073	0.04	11.3	2.82	33.3
+DOID:13223	uterine fibroid	32	4	9.62	5.61	0.00073	0.04	11.3	2.82	33.3
+DOID:0060086	female reproductive organ benign neoplasm	34	4	9.05	5.4	0.00092	0.04	10.5	2.64	30.8
+DOID:1682	congenital heart disease	53	5	7.26	5.25	0.00058	0.04	8.3	2.52	21.5
+DOID:0050622	reproductive organ benign neoplasm	38	4	8.1	5.03	0.0014	0.049	9.29	2.34	26.9

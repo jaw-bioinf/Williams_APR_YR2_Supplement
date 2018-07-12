@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:6326	cor	3	Dystrophin complex (Dmd; Snta1)	1	DMD
+2	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:751	cor	10	Trpc1-dystrophin-alpha1-syntrophin complex	1	DMD
+3	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:396	cor	2	Succinyl-CoA synthetase, GDP-forming	1	SUCLG2
+4	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:6327	cor	11	Dystrophin complex (Dmd; Stnb1)	1	DMD
+5	1	TRUE	0.047	1	10	1	0.1	1	CORUM:1136	cor	1	Mss4-Itga7 complex	1	RABIF
+6	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:502	cor	8	Kir4.1-dystrophin complex	1	DMD
+7	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:6677	cor	5	Nphp1-Nphp4-Rpgrip1l complex	1	RPGRIP1L
+8	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:295	cor	6	PCNA-DNA ligase complex	1	PCNA
+9	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:416	cor	4	Nitric oxide synthase-dystrophin complex, skeletal muscle	1	DMD
+10	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:505	cor	9	Kir4.1-dystrophin complex	1	DMD
+11	1	TRUE	0.047	2	10	1	0.1	0.5	CORUM:1135	cor	7	Mss4-Itga3 complex	1	RABIF

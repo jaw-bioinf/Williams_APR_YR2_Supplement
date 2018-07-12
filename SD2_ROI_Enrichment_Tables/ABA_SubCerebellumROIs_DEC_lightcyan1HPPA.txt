@@ -1,0 +1,93 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002392	EEG with polyspike wave complexes	11	3	68.4	14.2	8.2e-06	0.00051	117	17.6	585
+HP:0011153	Focal motor seizures	12	3	62.7	13.5	1.1e-05	0.00051	103	16	504
+HP:0002266	Focal clonic seizures	12	3	62.7	13.5	1.1e-05	0.00051	103	16	504
+HP:0010850	EEG with spike-wave complexes	14	3	53.7	12.5	1.8e-05	0.00051	85	13.4	388
+HP:0001151	Impaired horizontal smooth pursuit	31	4	32.4	11.1	4.7e-06	0.00051	50.9	11	193
+HP:0006808	Cerebral hypomyelination	41	4	24.5	9.56	1.5e-05	0.00051	37.1	8.13	136
+HP:0001257	Spasticity	491	9	4.6	5.44	2e-05	0.00051	11.2	3.37	42.9
+HP:0001276	Hypertonia	626	10	4.01	5.25	1.5e-05	0.00051	11.7	3.35	51.2
+HP:0011400	Abnormal CNS myelination	184	6	8.18	6.33	4e-05	0.00091	14	3.94	46.4
+HP:0002373	Febrile seizures	56	4	17.9	8.07	5.2e-05	0.00095	26.4	5.84	95.5
+HP:0002079	Hypoplasia of the corpus callosum	287	7	6.11	5.72	4.7e-05	0.00095	11.5	3.41	38.6
+HP:0002133	Status epilepticus	62	4	16.2	7.63	7.7e-05	0.0013	23.6	5.25	85
+HP:0001263	Global developmental delay	946	11	2.92	4.36	8.2e-05	0.0013	10	2.64	56.1
+HP:0010851	EEG with burst suppression	24	3	31.3	9.44	9.7e-05	0.0014	44.7	7.48	187
+HP:0010818	Generalized tonic seizures	27	3	27.9	8.86	0.00014	0.0017	39.1	6.6	161
+HP:0011146	Dialeptic seizures	71	4	14.1	7.07	0.00013	0.0017	20.4	4.55	72.8
+HP:0003429	CNS hypomyelination	71	4	14.1	7.07	0.00013	0.0017	20.4	4.55	72.8
+HP:0007105	Infantile encephalopathy	28	3	26.9	8.69	0.00016	0.0018	37.6	6.35	155
+HP:0011198	EEG with generalized epileptiform discharges	82	4	12.2	6.51	0.00023	0.002	17.5	3.91	62.2
+HP:0002197	Generalized seizures	155	5	8.09	5.71	0.00023	0.002	12.4	3.22	41.7
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	8	4.05	4.64	2e-04	0.002	8.23	2.49	28.9
+HP:0001273	Abnormality of the corpus callosum	503	8	3.99	4.58	0.00023	0.002	8.08	2.45	28.4
+HP:0011804	Abnormality of muscle physiology	1558	13	2.09	3.66	0.00021	0.002	16.4	2.46	696
+HP:0011182	Epileptiform EEG discharges	84	4	11.9	6.42	0.00025	0.0022	17	3.82	60.6
+HP:0002121	Absence seizures	35	3	21.5	7.71	0.00031	0.0024	29.3	5.02	119
+HP:0007359	Focal seizures	87	4	11.5	6.29	0.00029	0.0024	16.4	3.68	58.3
+HP:0012759	Neurodevelopmental abnormality	1623	13	2.01	3.5	0.00034	0.0026	15.2	2.28	646
+HP:0002500	Abnormality of the cerebral white matter	538	8	3.73	4.35	0.00037	0.0027	7.45	2.26	26.2
+HP:0012447	Abnormal myelination	281	6	5.35	4.81	0.00043	0.003	8.77	2.49	29.1
+HP:0011097	Epileptic spasms	41	3	18.3	7.07	0.00049	0.0031	24.7	4.26	98.9
+HP:0007772	Impaired smooth pursuit	99	4	10.1	5.83	0.00048	0.0031	14.3	3.21	50.7
+HP:0002069	Generalized tonic-clonic seizures	100	4	10	5.8	5e-04	0.0031	14.1	3.18	50.1
+HP:0002493	Upper motor neuron dysfunction	918	10	2.73	3.86	5e-04	0.0031	7.12	2.05	31.2
+HP:0002384	Focal seizures with impairment of consciousness or awareness	44	3	17.1	6.8	0.00061	0.0035	22.9	3.95	91.2
+HP:0002123	Generalized myoclonic seizures	105	4	9.55	5.63	6e-04	0.0035	13.4	3.02	47.5
+HP:0000617	Abnormality of ocular smooth pursuit	109	4	9.2	5.5	0.00069	0.0038	12.9	2.9	45.6
+HP:0010993	Abnormality of the cerebral subcortex	589	8	3.41	4.05	7e-04	0.0038	6.68	2.03	23.5
+HP:0001336	Myoclonus	199	5	6.3	4.87	0.00073	0.0039	9.44	2.46	31.7
+HP:0002167	Neurological speech impairment	785	9	2.87	3.77	0.00089	0.0045	6.3	1.89	24
+HP:0012758	Neurodevelopmental delay	1201	11	2.3	3.5	0.00087	0.0045	7.1	1.87	39.7
+HP:0002061	Lower limb spasticity	121	4	8.29	5.16	0.001	0.0051	11.5	2.6	40.7
+HP:0002376	Developmental regression	219	5	5.72	4.57	0.0011	0.0055	8.51	2.22	28.6
+HP:0010551	Paraplegia/paraparesis	129	4	7.77	4.96	0.0013	0.0062	10.8	2.43	38
+HP:0003011	Abnormality of the musculature	1823	13	1.79	3.07	0.0014	0.0066	12.1	1.81	514
+HP:0003808	Abnormal muscle tone	1269	11	2.17	3.31	0.0015	0.0067	6.52	1.72	36.5
+HP:0004305	Involuntary movements	664	8	3.02	3.66	0.0016	0.0071	5.77	1.75	20.2
+HP:0001252	Muscular hypotonia	1058	10	2.37	3.37	0.0017	0.0073	5.84	1.68	25.6
+HP:0200134	Epileptic encephalopathy	64	3	11.8	5.49	0.0018	0.0077	15.3	2.68	59.9
+HP:0005484	Postnatal microcephaly	65	3	11.6	5.44	0.0019	0.0078	15.1	2.63	58.9
+HP:0002353	EEG abnormality	246	5	5.1	4.22	0.0019	0.0078	7.49	1.96	25.1
+HP:0000752	Hyperactivity	248	5	5.05	4.19	0.002	0.0079	7.43	1.94	24.9
+HP:0001337	Tremor	377	6	3.99	3.89	0.0021	0.0082	6.31	1.79	20.9
+HP:0001344	Absent speech	148	4	6.78	4.54	0.0022	0.0084	9.3	2.1	32.7
+HP:0002521	Hypsarrhythmia	71	3	10.6	5.17	0.0025	0.0092	13.7	2.4	53.5
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	897	9	2.52	3.33	0.0025	0.0092	5.28	1.59	20.1
+HP:0001251	Ataxia	546	7	3.21	3.56	0.0027	0.0097	5.48	1.63	18.4
+HP:0001285	Spastic tetraparesis	76	3	9.9	4.96	0.003	0.011	12.8	2.24	49.7
+HP:0001249	Intellectual disability	1135	10	2.21	3.13	0.0031	0.011	5.27	1.51	23.1
+HP:0001250	Seizures	1138	10	2.2	3.12	0.0032	0.011	5.25	1.51	23
+HP:0100022	Abnormality of movement	1159	10	2.16	3.06	0.0037	0.012	5.1	1.47	22.3
+HP:0002510	Spastic tetraplegia	87	3	8.65	4.57	0.0044	0.014	11.1	1.94	42.9
+HP:0001298	Encephalopathy	178	4	5.63	4.02	0.0043	0.014	7.63	1.73	26.8
+HP:0001322	Brain very small	434	6	3.47	3.47	0.0043	0.014	5.37	1.53	17.7
+HP:0012444	Brain atrophy	434	6	3.47	3.47	0.0043	0.014	5.37	1.53	17.7
+HP:0001258	Spastic paraplegia	91	3	8.27	4.44	0.005	0.015	10.5	1.86	40.8
+HP:0025270	Abnormality of esophagus physiology	301	5	4.16	3.63	0.0047	0.015	6	1.57	20.1
+HP:0001311	Abnormal nervous system electrophysiology	443	6	3.4	3.41	0.0048	0.015	5.25	1.49	17.3
+HP:0000496	Abnormality of eye movement	1200	10	2.09	2.94	0.0049	0.015	4.84	1.39	21.2
+HP:0010550	Paraplegia	93	3	8.09	4.38	0.0053	0.016	10.3	1.81	39.9
+HP:0001332	Dystonia	318	5	3.94	3.48	0.006	0.017	5.64	1.48	18.9
+HP:0010864	Intellectual disability, severe	198	4	5.06	3.73	0.0063	0.018	6.8	1.54	23.8
+HP:0011442	Abnormality of central motor function	1241	10	2.02	2.83	0.0065	0.018	4.6	1.32	20.1
+HP:0011344	Severe global developmental delay	103	3	7.3	4.11	0.0071	0.02	9.24	1.63	35.8
+HP:0007367	Atrophy/Degeneration affecting the central nervous system	479	6	3.14	3.19	0.0071	0.02	4.79	1.36	15.8
+HP:0030178	Abnormality of central nervous system electrophysiology	340	5	3.69	3.3	0.0079	0.021	5.24	1.37	17.5
+HP:0011443	Abnormality of coordination	663	7	2.65	2.98	0.0083	0.022	4.33	1.29	14.5
+HP:0002878	Respiratory failure	111	3	6.78	3.91	0.0087	0.023	8.54	1.51	32.9
+HP:0002015	Dysphagia	227	4	4.42	3.37	0.01	0.026	5.86	1.33	20.5
+HP:0001317	Abnormality of the cerebellum	874	8	2.29	2.79	0.0099	0.026	4.05	1.23	14.2
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	9	2.08	2.71	0.01	0.026	4.05	1.21	15.4
+HP:0011282	Abnormality of hindbrain morphology	889	8	2.26	2.74	0.011	0.027	3.96	1.2	13.9
+HP:0011283	Abnormality of the metencephalon	889	8	2.26	2.74	0.011	0.027	3.96	1.2	13.9
+HP:0003487	Babinski sign	239	4	4.2	3.24	0.012	0.029	5.54	1.26	19.4
+HP:0001260	Dysarthria	373	5	3.36	3.05	0.012	0.029	4.72	1.24	15.8
+HP:0006919	Abnormal aggressive, impulsive or violent behavior	249	4	4.03	3.14	0.014	0.034	5.3	1.21	18.6
+HP:0001347	Hyperreflexia	560	6	2.69	2.75	0.015	0.036	3.98	1.13	13.1
+HP:0002060	Abnormality of the cerebrum	1167	9	1.93	2.47	0.017	0.04	3.63	1.09	13.8
+HP:0100547	Abnormality of forebrain morphology	1170	9	1.93	2.46	0.017	0.04	3.62	1.09	13.8
+HP:0002059	Cerebral atrophy	421	5	2.98	2.74	0.019	0.044	4.11	1.08	13.7
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	5	2.96	2.72	0.02	0.045	4.08	1.07	13.6
+HP:0000708	Behavioral abnormality	997	8	2.01	2.39	0.022	0.05	3.38	1.03	11.8
+HP:0011446	Abnormality of higher mental function	1451	10	1.73	2.29	0.022	0.05	3.56	1.03	15.6

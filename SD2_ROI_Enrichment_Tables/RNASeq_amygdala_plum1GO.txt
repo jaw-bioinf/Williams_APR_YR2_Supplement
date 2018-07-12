@@ -1,0 +1,27 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0276	102	79	5	0.063	0.049	GO:0031214	BP	2	biomineral tissue development	1	IGF1,DDR2,PTGS2,ACVR2A,KL
+2	1	TRUE	0.0219	87	79	5	0.063	0.057	GO:0030282	BP	2	bone mineralization	1	IGF1,DDR2,PTGS2,ACVR2A,KL
+3	1	TRUE	0.0276	197	79	6	0.076	0.03	GO:0043062	BP	10	extracellular structure organization	1	FAP,ITGB3,SMOC2,DDR2,PDGFRA,EXOC8
+4	1	TRUE	0.0276	196	79	6	0.076	0.031	GO:0030198	BP	10	extracellular matrix organization	2	FAP,ITGB3,SMOC2,DDR2,PDGFRA,EXOC8
+5	1	TRUE	0.0276	26	79	3	0.038	0.115	GO:1903053	BP	10	regulation of extracellular matrix organization	3	FAP,ITGB3,DDR2
+6	1	TRUE	0.0276	874	79	12	0.152	0.014	GO:0010562	BP	16	positive regulation of phosphorus metabolic process	1	IGF1,ITGB3,STRADB,DDR2,PRKAG2,PDGFRA,PTGS2,GPR161,ACVR2A,NTRK2,KL,CALCRL
+7	1	TRUE	0.0276	874	79	12	0.152	0.014	GO:0045937	BP	16	positive regulation of phosphate metabolic process	1	IGF1,ITGB3,STRADB,DDR2,PRKAG2,PDGFRA,PTGS2,GPR161,ACVR2A,NTRK2,KL,CALCRL
+8	1	TRUE	0.0276	69	79	4	0.051	0.058	GO:0048144	BP	3	fibroblast proliferation	1	IGF1,ITGB3,DDR2,PDGFRA
+9	1	TRUE	0.0276	69	79	4	0.051	0.058	GO:0048145	BP	3	regulation of fibroblast proliferation	2	IGF1,ITGB3,DDR2,PDGFRA
+10	1	TRUE	0.0219	41	79	4	0.051	0.098	GO:0048146	BP	3	positive regulation of fibroblast proliferation	1	IGF1,ITGB3,DDR2,PDGFRA
+11	1	TRUE	0.0276	5	79	2	0.025	0.4	GO:0031547	BP	19	brain-derived neurotrophic factor receptor signaling pathway	1	NTRK2,SLC9A6
+12	1	TRUE	0.0276	3	79	2	0.025	0.667	GO:0035867	CC	11	alphav-beta3 integrin-IGF-1-IGF1R complex	1	IGF1,ITGB3
+13	1	TRUE	0.0276	1102	79	14	0.177	0.013	GO:0097708	CC	1	intracellular vesicle	1	IGF1,ITGB3,YWHAZ,DNM1L,BOK,KLHL12,SNX7,CPE,GPR161,MYRIP,NTRK2,CALCRL,SLC9A6,EXOC8
+14	1	TRUE	0.0276	1098	79	14	0.177	0.013	GO:0031410	CC	1	cytoplasmic vesicle	2	IGF1,ITGB3,YWHAZ,DNM1L,BOK,KLHL12,SNX7,CPE,GPR161,MYRIP,NTRK2,CALCRL,SLC9A6,EXOC8
+15	1	TRUE	0.0276	57	79	4	0.051	0.07	GO:0019199	MF	18	transmembrane receptor protein kinase activity	1	DDR2,PDGFRA,ACVR2A,NTRK2
+16	1	TRUE	0.00359	88	79	6	0.076	0.068	GO:0019838	MF	15	growth factor binding	1	ITGB3,PDGFRA,ACVR2A,LIFR,NTRK2,KL
+17	1	TRUE	0.0296	4	5	1	0.2	0.25	CORUM:5909	cor	9	Ksr1 complex (Ksr1, Mek, 14-3-3, Mapk), EGF stimulated	1	YWHAZ
+18	1	TRUE	0.0296	1	5	1	0.2	1	CORUM:6829	cor	6	Klotho-Kdr-Trpc1 complex	1	KL
+19	1	TRUE	0.0296	2	5	1	0.2	0.5	CORUM:6475	cor	12	Dnm1l-Mff complex	1	DNM1L
+20	1	TRUE	0.0296	4	5	1	0.2	0.25	CORUM:1164	cor	20	ActRIIA-ActRIB-Smad3-Arip1 complex	1	ACVR2A
+21	1	TRUE	0.0412	7	5	1	0.2	0.143	CORUM:5936	cor	8	Ksr1-CK2-MEK-14-3-3 complex, PDGF treated	1	YWHAZ
+22	1	TRUE	0.0296	2	5	1	0.2	0.5	CORUM:6478	cor	7	Dnm1l-Mief1 complex	1	DNM1L
+23	1	TRUE	0.0296	3	5	1	0.2	0.333	CORUM:2360	cor	14	Itgav-Itgb3-Gsn complex	1	ITGB3
+24	1	TRUE	0.0296	3	5	1	0.2	0.333	CORUM:5886	cor	5	Ksr1 complex (Ksr1, Mek, 14-3-3), unstimulated	1	YWHAZ
+25	1	TRUE	0.0328	5	5	1	0.2	0.2	CORUM:6366	cor	17	MCC complex (p85alpha, p110alpha, Akt,14-3-3theta, beta-catenin)	1	YWHAZ
+26	1	TRUE	0.0296	4	5	1	0.2	0.25	CORUM:5937	cor	4	B-Ksr1-MEK-MAPK-14-3-3 complex	1	YWHAZ

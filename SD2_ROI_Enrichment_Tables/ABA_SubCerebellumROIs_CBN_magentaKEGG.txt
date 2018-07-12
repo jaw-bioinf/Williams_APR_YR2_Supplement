@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04136	Autophagy - other	32	4	7.76	4.91	0.0016	0.045	9.02	2.26	26.5
+path:hsa04140	Autophagy - animal	128	8	3.88	4.21	0.001	0.045	4.32	1.77	9.12
+path:hsa04931	Insulin resistance	107	7	4.06	4.09	0.0016	0.045	4.5	1.72	9.97

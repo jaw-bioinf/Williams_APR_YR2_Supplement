@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9667	placental abruption	14	3	16.9	6.74	0.00065	0.031	21.8	3.84	84.7
+DOID:345	uterine disease	31	4	10.2	5.79	0.00059	0.031	12	2.98	35.5
+DOID:6713	cerebrovascular disease	114	7	4.83	4.68	0.00058	0.031	5.43	2.07	12.1
+DOID:114	heart disease	517	16	2.43	3.85	7e-04	0.031	2.8	1.51	4.91
+DOID:1287	cardiovascular system disease	1292	30	1.83	3.73	4e-04	0.031	2.28	1.41	3.61
+DOID:9408	acute myocardial infarction	90	6	5.24	4.6	0.00094	0.035	5.87	2.04	13.9
+DOID:3393	coronary artery disease	351	12	2.69	3.68	0.0015	0.047	3.02	1.48	5.65

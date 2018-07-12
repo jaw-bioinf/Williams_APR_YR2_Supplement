@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0008180	Mildly elevated creatine phosphokinase	36	6	7.6	5.96	0.00011	0.032	9.57	3.16	24.4
+HP:0003700	Generalized amyotrophy	30	5	7.6	5.43	0.00041	0.032	9.45	2.75	26.1
+HP:0000301	Abnormality of facial musculature	188	13	3.15	4.54	0.00018	0.032	3.78	1.87	7.1
+HP:0010628	Facial palsy	146	11	3.43	4.5	0.00028	0.032	4.07	1.89	7.99
+HP:0010827	Abnormality of the seventh cranial nerve	146	11	3.43	4.5	0.00028	0.032	4.07	1.89	7.99
+HP:0030319	Weakness of facial musculature	147	11	3.41	4.47	0.00029	0.032	4.04	1.88	7.93
+HP:0000276	Long face	169	12	3.24	4.46	0.00025	0.032	3.85	1.85	7.38
+HP:0100729	Large face	198	13	2.99	4.32	0.00029	0.032	3.56	1.77	6.69
+HP:0002015	Dysphagia	227	14	2.81	4.23	0.00032	0.032	3.36	1.71	6.18
+HP:0001291	Abnormality of the cranial nerves	258	15	2.65	4.12	0.00037	0.032	3.17	1.65	5.75
+HP:0011799	Abnormality of facial soft tissue	260	15	2.63	4.09	4e-04	0.032	3.15	1.64	5.7
+HP:0002033	Poor suck	49	6	5.58	4.84	6e-04	0.044	6.65	2.24	16.4
+HP:0100285	EMG: impaired neuromuscular transmission	20	4	9.12	5.45	0.00079	0.046	11.7	2.77	37.4
+HP:0003403	EMG: decremental response of compound muscle action potential to repetitive nerve stimulation	20	4	9.12	5.45	0.00079	0.046	11.7	2.77	37.4
+HP:0001612	Weak cry	34	5	6.7	5	0.00075	0.046	8.14	2.39	22.1

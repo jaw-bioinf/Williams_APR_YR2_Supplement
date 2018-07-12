@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:4896	bile duct adenocarcinoma	121	8	4.98	5.12	0.00019	0.013	5.66	2.31	12
+DOID:4947	cholangiocarcinoma	121	8	4.98	5.12	0.00019	0.013	5.66	2.31	12
+DOID:3347	osteosarcoma	214	11	3.87	4.95	0.00011	0.013	4.43	2.1	8.51
+DOID:184	bone cancer	230	11	3.6	4.65	0.00021	0.013	4.1	1.94	7.86
+DOID:4606	bile duct cancer	133	8	4.53	4.77	0.00036	0.015	5.1	2.09	10.8
+DOID:4897	bile duct carcinoma	133	8	4.53	4.77	0.00036	0.015	5.1	2.09	10.8
+DOID:0060100	musculoskeletal system cancer	427	15	2.64	4.07	0.00045	0.016	3.03	1.61	5.37
+DOID:201	connective tissue cancer	358	13	2.73	3.91	0.00083	0.025	3.09	1.56	5.66
+DOID:3565	meningioma	67	5	5.62	4.41	0.0019	0.045	6.27	1.92	16
+DOID:4607	biliary tract cancer	169	8	3.56	3.91	0.0017	0.045	3.94	1.62	8.31

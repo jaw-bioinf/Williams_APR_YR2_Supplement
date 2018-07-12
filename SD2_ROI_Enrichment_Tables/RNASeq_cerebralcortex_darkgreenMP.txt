@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0010899	abnormal pulmonary alveolar system morphology	277	10	4.72	5.52	4.4e-05	0.022	5.49	2.48	10.9
+MP:0000750	abnormal muscle regeneration	69	5	9.47	6.2	0.00017	0.028	10.8	3.29	27.8
+MP:0010911	abnormal pulmonary acinus morphology	265	9	4.44	4.99	0.00017	0.028	5.07	2.19	10.4

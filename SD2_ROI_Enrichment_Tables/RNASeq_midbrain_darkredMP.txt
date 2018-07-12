@@ -1,0 +1,56 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003635 abnormal synaptic transmission 740 31 3.24 7.27 2.6e-09 1.8e-06 4.15 2.64 6.36
+MP:0002206 abnormal CNS synaptic transmission 653 28 3.32 7.02 1.1e-08 3.8e-06 4.15 2.6 6.46
+MP:0003633 abnormal nervous system physiology 1903 47 1.91 5.09 1.9e-06 0.00045 2.53 1.71 3.72
+MP:0002910 abnormal excitatory postsynaptic currents 139 10 5.56 6.2 1.2e-05 0.0021 6.36 2.9 12.5
+MP:0001362 abnormal anxiety-related response 332 15 3.49 5.3 2.3e-05 0.0032 3.98 2.13 6.97
+MP:0001516 abnormal motor coordination/ balance 833 25 2.32 4.57 5e-05 0.0046 2.72 1.67 4.29
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 27 2.23 4.54 4.7e-05 0.0046 2.63 1.64 4.11
+MP:0003492 abnormal involuntary movement 942 27 2.22 4.51 5.3e-05 0.0046 2.62 1.63 4.08
+MP:0004432 abnormal cochlear hair cell physiology 35 5 11 6.82 7.9e-05 0.005 13.2 3.93 35.3
+MP:0002065 abnormal fear/anxiety-related behavior 369 15 3.14 4.81 7.8e-05 0.005 3.55 1.9 6.21
+MP:0001405 impaired coordination 454 17 2.9 4.74 7e-05 0.005 3.29 1.83 5.59
+MP:0004811 abnormal neuron physiology 667 21 2.43 4.4 0.00011 0.0061 2.79 1.65 4.55
+MP:0001961 abnormal reflex 767 23 2.32 4.36 0.00011 0.0061 2.68 1.61 4.29
+MP:0003879 abnormal hair cell physiology 43 5 8.99 6.01 0.00022 0.011 10.4 3.15 27.2
+MP:0001393 ataxia 320 13 3.14 4.46 0.00024 0.011 3.5 1.79 6.34
+MP:0004433 abnormal cochlear inner hair cell physiology 11 3 21.1 7.63 0.00032 0.014 29.3 4.94 124
+MP:0002572 abnormal emotion/affect behavior 619 19 2.37 4.05 0.00035 0.014 2.68 1.54 4.45
+MP:0001392 abnormal locomotor behavior 1537 35 1.76 3.74 0.00037 0.015 2.1 1.37 3.16
+MP:0002272 abnormal nervous system electrophysiology 339 13 2.97 4.22 0.00042 0.016 3.29 1.68 5.95
+MP:0004792 abnormal synaptic vesicle number 53 5 7.29 5.26 0.00058 0.019 8.25 2.52 21.2
+MP:0005423 abnormal somatic nervous system physiology 80 6 5.8 4.93 0.00057 0.019 6.46 2.25 15.2
+MP:0003491 abnormal voluntary movement 1648 36 1.69 3.53 0.00067 0.021 2.01 1.31 3.01
+MP:0004737 absent distortion product otoacoustic emissions 32 4 9.67 5.62 0.00072 0.022 11.2 2.82 32.9
+MP:0009538 abnormal synapse morphology 189 9 3.68 4.26 0.00075 0.022 4.04 1.77 8.13
+MP:0006329 sensorineural hearing impairment 34 4 9.1 5.41 0.00091 0.024 10.5 2.64 30.4
+MP:0004740 sensorineural hearing loss 34 4 9.1 5.41 0.00091 0.024 10.5 2.64 30.4
+MP:0003484 abnormal channel response 35 4 8.84 5.32 0.001 0.024 10.1 2.56 29.4
+MP:0004769 abnormal synaptic vesicle morphology 60 5 6.44 4.84 0.001 0.024 7.19 2.21 18.3
+MP:0001473 reduced long term potentiation 156 8 3.97 4.28 0.00091 0.024 4.35 1.8 9.09
+MP:0006325 impaired hearing 196 9 3.55 4.13 0.00097 0.024 3.89 1.71 7.81
+MP:0004736 abnormal distortion product otoacoustic emission 63 5 6.14 4.68 0.0013 0.028 6.82 2.1 17.3
+MP:0006336 abnormal otoacoustic response 64 5 6.04 4.63 0.0014 0.028 6.7 2.06 17
+MP:0002915 abnormal synaptic depression 129 7 4.2 4.18 0.0014 0.028 4.59 1.77 10.1
+MP:0003313 abnormal locomotor activation 1152 27 1.81 3.37 0.0014 0.028 2.07 1.29 3.23
+MP:0011966 abnormal auditory brainstem response waveform shape 39 4 7.93 4.96 0.0015 0.03 8.98 2.28 25.7
+MP:0004262 abnormal physical strength 488 15 2.38 3.58 0.0015 0.03 2.62 1.41 4.57
+MP:0003996 clonic seizures 19 3 12.2 5.6 0.0018 0.032 14.6 2.7 52.1
+MP:0011617 abnormal habituation 19 3 12.2 5.6 0.0018 0.032 14.6 2.7 52.1
+MP:0010055 abnormal sensory neuron physiology 67 5 5.77 4.49 0.0017 0.032 6.38 1.96 16.1
+MP:0000746 weakness 136 7 3.98 4.01 0.0019 0.033 4.33 1.67 9.48
+MP:0003880 abnormal central pattern generator function 20 3 11.6 5.43 0.002 0.035 13.8 2.55 48.6
+MP:0002578 impaired ability to fire action potentials 21 3 11 5.28 0.0024 0.038 13 2.42 45.4
+MP:0011616 abnormal nonassociative learning 21 3 11 5.28 0.0024 0.038 13 2.42 45.4
+MP:0003312 abnormal locomotor coordination 672 18 2.07 3.3 0.0024 0.038 2.29 1.3 3.84
+MP:0005316 abnormal response to tactile stimuli 107 6 4.34 3.97 0.0026 0.039 4.72 1.66 11
+MP:0012079 abnormal spinal reflex 107 6 4.34 3.97 0.0026 0.039 4.72 1.66 11
+MP:0012315 impaired learning 75 5 5.16 4.14 0.0028 0.042 5.64 1.74 14.2
+MP:0003998 decreased thermal nociceptive threshold 47 4 6.58 4.39 0.0031 0.043 7.31 1.87 20.6
+MP:0004404 cochlear outer hair cell degeneration 77 5 5.02 4.06 0.0031 0.043 5.49 1.7 13.8
+MP:0009357 abnormal seizure response to inducing agent 190 8 3.26 3.6 0.0032 0.043 3.52 1.46 7.33
+MP:0001504 abnormal posture 276 10 2.8 3.48 0.003 0.043 3.04 1.4 5.89
+MP:0005291 abnormal glucose tolerance 523 15 2.22 3.28 0.003 0.043 2.43 1.3 4.24
+MP:0003997 tonic-clonic seizures 78 5 4.96 4.02 0.0033 0.044 5.41 1.67 13.6
+MP:0020351 decreased vocalization 24 3 9.67 4.87 0.0035 0.045 11.1 2.1 38.1
+MP:0004434 abnormal cochlear outer hair cell physiology 25 3 9.28 4.74 0.0039 0.05 10.6 2.01 36.1

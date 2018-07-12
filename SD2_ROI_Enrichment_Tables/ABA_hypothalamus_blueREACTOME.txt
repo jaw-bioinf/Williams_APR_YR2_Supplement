@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	123	38	1.92	4.5	2.8e-05	0.028	2.37	1.56	3.52
+R-HSA-1187000	Fertilization	26	13	3.11	4.72	6e-05	0.029	5.26	2.24	12.3
+R-HSA-1474165	Reproduction	27	13	3	4.54	9.8e-05	0.032	4.88	2.11	11.2

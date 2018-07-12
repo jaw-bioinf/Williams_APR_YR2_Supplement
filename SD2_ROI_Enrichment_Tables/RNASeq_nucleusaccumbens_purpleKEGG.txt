@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa05032 Morphine addiction 91 9 3.91 4.5 0.00045 0.028 4.41 1.91 9
+path:hsa04080 Neuroactive ligand-receptor interaction 277 17 2.43 3.91 0.00059 0.028 2.69 1.5 4.54
+path:hsa00280 Valine, leucine and isoleucine degradation 48 6 4.94 4.42 0.0012 0.038 5.67 1.94 13.7
+path:hsa04727 GABAergic synapse 88 8 3.6 3.95 0.0016 0.038 4 1.64 8.45

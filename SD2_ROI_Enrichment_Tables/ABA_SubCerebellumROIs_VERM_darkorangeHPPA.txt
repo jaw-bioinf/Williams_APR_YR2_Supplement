@@ -1,0 +1,39 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001276	Hypertonia	626	11	3.25	4.57	1e-04	0.017	6.43	2.34	18.5
+HP:0011442	Abnormality of central motor function	1241	15	2.23	3.98	0.00013	0.017	6.92	2.2	28.7
+HP:0001285	Spastic tetraparesis	76	4	9.72	5.67	0.00061	0.019	12.6	2.98	41
+HP:0002151	Increased serum lactate	131	5	7.05	5.21	0.00051	0.019	9.52	2.64	28.5
+HP:0045010	Abnormality of peripheral nerves	136	5	6.79	5.08	0.00061	0.019	9.14	2.54	27.4
+HP:0001268	Mental deterioration	214	6	5.18	4.65	0.00066	0.019	7.27	2.24	20.8
+HP:0001260	Dysarthria	373	8	3.96	4.46	4e-04	0.019	6.22	2.16	17.1
+HP:0001257	Spasticity	491	9	3.39	4.21	0.00048	0.019	5.61	2.01	15.5
+HP:0100022	Abnormality of movement	1159	14	2.23	3.78	0.00033	0.019	5.73	1.95	20.4
+HP:0002493	Upper motor neuron dysfunction	918	12	2.41	3.68	0.00073	0.019	4.89	1.77	14.7
+HP:0000597	Ophthalmoparesis	233	6	4.76	4.38	0.001	0.02	6.63	2.05	18.9
+HP:0001322	Brain very small	434	8	3.41	3.95	0.0011	0.02	5.23	1.81	14.4
+HP:0012444	Brain atrophy	434	8	3.41	3.95	0.0011	0.02	5.23	1.81	14.4
+HP:0001311	Abnormal nervous system electrophysiology	443	8	3.34	3.88	0.0013	0.02	5.11	1.77	14
+HP:0000508	Ptosis	446	8	3.31	3.86	0.0013	0.02	5.07	1.76	13.9
+HP:0011443	Abnormality of coordination	663	10	2.79	3.77	0.00096	0.02	4.83	1.75	13.5
+HP:0002167	Neurological speech impairment	785	11	2.59	3.73	0.00083	0.02	4.82	1.76	13.9
+HP:0100543	Cognitive impairment	1131	13	2.12	3.39	0.0013	0.02	4.6	1.62	14.8
+HP:0007367	Atrophy/Degeneration affecting the central nervous system	479	8	3.09	3.62	0.0022	0.03	4.66	1.62	12.8
+HP:0002878	Respiratory failure	111	4	6.66	4.47	0.0025	0.031	8.42	2	27
+HP:0000712	Emotional lability	111	4	6.66	4.47	0.0025	0.031	8.42	2	27
+HP:0011400	Abnormal CNS myelination	184	5	5.02	4.13	0.0024	0.031	6.6	1.84	19.7
+HP:0012447	Abnormal myelination	281	6	3.94	3.8	0.0028	0.032	5.39	1.67	15.3
+HP:0001336	Myoclonus	199	5	4.64	3.9	0.0034	0.037	6.06	1.69	18
+HP:0040129	Abnormal nerve conduction velocity	128	4	5.77	4.06	0.0043	0.039	7.23	1.72	23.1
+HP:0000762	Decreased nerve conduction velocity	128	4	5.77	4.06	0.0043	0.039	7.23	1.72	23.1
+HP:0003134	Abnormality of peripheral nerve conduction	130	4	5.68	4.01	0.0045	0.039	7.11	1.69	22.8
+HP:0000602	Ophthalmoplegia	132	4	5.6	3.97	0.0048	0.039	7	1.67	22.4
+HP:0002376	Developmental regression	219	5	4.22	3.63	0.0051	0.039	5.46	1.53	16.2
+HP:0001332	Dystonia	318	6	3.49	3.43	0.0052	0.039	4.7	1.45	13.4
+HP:0002059	Cerebral atrophy	421	7	3.07	3.34	0.0047	0.039	4.33	1.44	12
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	7	3.05	3.32	0.0049	0.039	4.3	1.43	11.9
+HP:0001251	Ataxia	546	8	2.71	3.2	0.005	0.039	3.99	1.39	10.9
+HP:0003808	Abnormal muscle tone	1269	13	1.89	2.94	0.0042	0.039	3.85	1.36	12.4
+HP:0011446	Abnormality of higher mental function	1451	14	1.78	2.87	0.0043	0.039	4	1.36	14.2
+HP:0001618	Dysphonia	68	3	8.15	4.39	0.0054	0.04	9.86	1.8	35.7
+HP:0000726	Dementia	140	4	5.28	3.81	0.0059	0.041	6.57	1.57	21
+HP:0002015	Dysphagia	227	5	4.07	3.53	0.006	0.041	5.25	1.47	15.6

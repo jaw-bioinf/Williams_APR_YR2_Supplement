@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05110	Vibrio cholerae infection	50	10	6.27	6.79	3e-06	4e-04	7.91	3.47	16.4
+path:hsa04721	Synaptic vesicle cycle	63	9	4.48	5.03	0.00015	0.01	5.23	2.24	10.9
+path:hsa05120	Epithelial cell signaling in Helicobacter pylori infection	68	8	3.69	4.04	0.0013	0.032	4.16	1.7	8.89
+path:hsa05130	Pathogenic Escherichia coli infection	55	7	3.99	4.04	0.0017	0.032	4.54	1.71	10.3
+path:hsa04145	Phagosome	151	13	2.7	3.83	0.001	0.032	2.98	1.52	5.38
+path:hsa04810	Regulation of actin cytoskeleton	212	16	2.37	3.67	0.0011	0.032	2.6	1.43	4.43
+path:hsa04144	Endocytosis	260	18	2.17	3.49	0.0015	0.032	2.37	1.35	3.93

@@ -1,0 +1,37 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6798695	Neutrophil degranulation	477	39	4.05	9.8	3.6e-14	4.1e-12	5.12	3.47	7.41
+R-HSA-168249	Innate Immune System	1035	59	2.83	8.9	4.4e-14	4.1e-12	3.73	2.69	5.13
+R-HSA-168256	Immune System	1970	83	2.09	7.73	1.4e-12	8.9e-11	2.93	2.18	3.93
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	125	12	4.76	6.07	7.8e-06	0.00036	5.42	2.67	10.1
+R-HSA-114608	Platelet degranulation 	123	11	4.43	5.5	3.7e-05	0.0013	4.99	2.38	9.47
+R-HSA-449147	Signaling by Interleukins	454	23	2.51	4.73	4.2e-05	0.0013	2.8	1.71	4.38
+R-HSA-8957275	Post-translational protein phosphorylation	108	10	4.59	5.38	6.2e-05	0.0014	5.16	2.36	10.1
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	11	4.26	5.33	5.3e-05	0.0014	4.77	2.28	9.04
+R-HSA-1280215	Cytokine Signaling in Immune system	678	29	2.12	4.33	9.1e-05	0.0019	2.37	1.53	3.55
+R-HSA-1474244	Extracellular matrix organization	278	16	2.85	4.5	0.00016	0.0029	3.13	1.73	5.32
+R-HSA-6783783	Interleukin-10 signaling	49	6	6.07	5.1	0.00042	0.0072	6.95	2.39	16.7
+R-HSA-5663084	Diseases of carbohydrate metabolism	34	5	7.29	5.27	0.00055	0.0085	8.56	2.56	22.7
+R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	35	5	7.08	5.17	0.00063	0.009	8.27	2.48	21.8
+R-HSA-2024096	HS-GAG degradation	22	4	9.01	5.4	0.00088	0.012	11	2.68	33.8
+R-HSA-2206281	Mucopolysaccharidoses	11	3	13.5	5.96	0.0012	0.014	18.5	3.13	77.7
+R-HSA-76002	Platelet activation, signaling and aggregation	271	14	2.56	3.74	0.0012	0.014	2.77	1.46	4.85
+R-HSA-1679131	Trafficking and processing of endosomal TLR	13	3	11.4	5.4	0.002	0.018	14.8	2.59	57.9
+R-HSA-1566948	Elastic fibre formation	45	5	5.51	4.35	0.002	0.018	6.2	1.89	15.9
+R-HSA-1660662	Glycosphingolipid metabolism	46	5	5.39	4.28	0.0022	0.018	6.05	1.84	15.5
+R-HSA-1474290	Collagen formation	90	7	3.86	3.9	0.0022	0.018	4.21	1.62	9.22
+R-HSA-428157	Sphingolipid metabolism	90	7	3.86	3.9	0.0022	0.018	4.21	1.62	9.22
+R-HSA-8978868	Fatty acid metabolism	168	10	2.95	3.66	0.0021	0.018	3.18	1.47	6.13
+R-HSA-556833	Metabolism of lipids	696	26	1.85	3.34	0.0017	0.018	2.02	1.27	3.08
+R-HSA-380108	Chemokine receptors bind chemokines	48	5	5.16	4.15	0.0027	0.02	5.76	1.76	14.7
+R-HSA-109582	Hemostasis	608	23	1.88	3.19	0.0026	0.02	2.03	1.24	3.17
+R-HSA-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	15	3	9.91	4.96	0.0031	0.021	12.3	2.21	46
+R-HSA-5357956	TNFR1-induced NFkappaB signaling pathway	30	4	6.61	4.41	0.0029	0.021	7.6	1.91	22.2
+R-HSA-1638074	Keratan sulfate/keratin metabolism	33	4	6.01	4.13	0.0042	0.025	6.81	1.72	19.7
+R-HSA-5357905	Regulation of TNFR1 signaling	33	4	6.01	4.13	0.0042	0.025	6.81	1.72	19.7
+R-HSA-168898	Toll-Like Receptors Cascades	153	9	2.92	3.43	0.0038	0.025	3.13	1.38	6.23
+R-HSA-1430728	Metabolism	1899	54	1.41	2.84	0.004	0.025	1.58	1.13	2.17
+R-HSA-5668914	Diseases of metabolism	105	7	3.3	3.41	0.0053	0.031	3.56	1.38	7.75
+R-HSA-917937	Iron uptake and transport	58	5	4.27	3.59	0.0061	0.034	4.67	1.44	11.8
+R-HSA-6785807	Interleukin-4 and 13 signaling	108	7	3.21	3.32	0.0061	0.034	3.45	1.34	7.51
+R-HSA-71387	Metabolism of carbohydrates	263	12	2.26	2.98	0.007	0.037	2.41	1.2	4.38
+R-HSA-901032	ER Quality Control Compartment (ERQC)	21	3	7.08	4	0.0082	0.043	8.2	1.53	28.4

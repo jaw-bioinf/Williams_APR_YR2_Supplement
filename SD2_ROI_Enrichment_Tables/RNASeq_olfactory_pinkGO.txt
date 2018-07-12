@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00512	112	45	5	0.111	0.045	GO:0050803	BP	2	regulation of synapse structure or activity	1	SLITRK2,CUX2,LRTM1,ARHGEF15,NLGN1
+2	1	TRUE	0.00512	108	45	5	0.111	0.046	GO:0050807	BP	2	regulation of synapse organization	1	SLITRK2,CUX2,LRTM1,ARHGEF15,NLGN1
+3	1	TRUE	0.0132	77	45	4	0.089	0.052	GO:0051963	BP	2	regulation of synapse assembly	1	SLITRK2,CUX2,LRTM1,NLGN1
+4	1	TRUE	0.00698	61	45	4	0.089	0.066	GO:0051965	BP	2	positive regulation of synapse assembly	2	SLITRK2,CUX2,LRTM1,NLGN1
+5	1	TRUE	0.0448	42	45	3	0.067	0.071	GO:0072583	BP	1	clathrin-dependent endocytosis	1	SLC9B2,DNM3,NLGN1

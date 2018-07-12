@@ -1,0 +1,152 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003128	Lactic acidosis	168	63	3.12	10.4	1.7e-18	4e-15	4.98	3.52	7.01
+HP:0001941	Acidosis	277	82	2.46	9.37	1.3e-16	1.6e-13	3.58	2.66	4.77
+HP:0002151	Increased serum lactate	131	51	3.24	9.65	7.1e-16	5.2e-13	5.16	3.5	7.56
+HP:0004360	Abnormality of acid-base homeostasis	296	84	2.36	9.04	9e-16	5.2e-13	3.37	2.52	4.47
+HP:0030085	Abnormal CSF lactate level	69	31	3.74	8.49	5.5e-12	2.1e-09	6.36	3.78	10.6
+HP:0002490	Increased CSF lactate	69	31	3.74	8.49	5.5e-12	2.1e-09	6.36	3.78	10.6
+HP:0012103	Abnormality of the mitochondrion	113	39	2.87	7.47	1.8e-10	6e-08	4.15	2.7	6.29
+HP:0008316	Abnormal mitochondria in muscle tissue	27	17	5.24	8.17	4.5e-10	1.2e-07	12.9	5.54	31.8
+HP:0002878	Respiratory failure	111	38	2.85	7.31	4.2e-10	1.2e-07	4.08	2.65	6.22
+HP:0003546	Exercise intolerance	112	38	2.82	7.24	5.6e-10	1.3e-07	4.03	2.61	6.13
+HP:0003287	Abnormality of mitochondrial metabolism	99	35	2.94	7.24	7.8e-10	1.6e-07	4.27	2.71	6.65
+HP:0001639	Hypertrophic cardiomyopathy	279	68	2.03	6.61	1.6e-09	3.1e-07	2.62	1.92	3.54
+HP:0004481	Progressive macrocephaly	31	17	4.56	7.36	9e-09	1.6e-06	9.2	4.24	20.3
+HP:0002605	Hepatic necrosis	47	21	3.72	6.93	1.9e-08	3.1e-06	6.16	3.26	11.5
+HP:0000712	Emotional lability	111	35	2.62	6.42	2.5e-08	3.8e-06	3.58	2.3	5.5
+HP:0001895	Normochromic anemia	20	13	5.41	7.3	3.2e-08	4.2e-06	14	5.14	41.6
+HP:0001897	Normocytic anemia	20	13	5.41	7.3	3.2e-08	4.2e-06	14	5.14	41.6
+HP:0006965	Acute necrotizing encephalopathy	23	14	5.06	7.23	3.2e-08	4.2e-06	11.7	4.69	30.9
+HP:0006846	Acute encephalopathy	27	15	4.62	6.98	5.5e-08	6.7e-06	9.43	4.09	22.2
+HP:0008972	Decreased activity of mitochondrial respiratory chain	18	12	5.55	7.15	7.4e-08	8.2e-06	15	5.18	49
+HP:0001508	Failure to thrive	574	109	1.58	5.61	7.1e-08	8.2e-06	1.96	1.53	2.51
+HP:0001263	Global developmental delay	946	160	1.41	5.41	9.9e-08	1e-05	1.79	1.44	2.22
+HP:0001404	Hepatocellular necrosis	43	19	3.68	6.52	1.1e-07	1.1e-05	6.01	3.08	11.6
+HP:0011922	Abnormal activity of mitochondrial respiratory chain	19	12	5.25	6.87	1.8e-07	1.6e-05	12.9	4.64	38.8
+HP:0005321	Mandibulofacial dysostosis	19	12	5.25	6.87	1.8e-07	1.6e-05	12.9	4.64	38.8
+HP:0001638	Cardiomyopathy	394	81	1.71	5.53	1.8e-07	1.6e-05	2.11	1.59	2.77
+HP:0001254	Lethargy	105	32	2.53	5.9	2.5e-07	2.1e-05	3.39	2.13	5.28
+HP:0012133	Erythroid hypoplasia	17	11	5.38	6.69	4.2e-07	3.5e-05	13.7	4.63	45.5
+HP:0007305	CNS demyelination	78	26	2.77	5.85	5e-07	4e-05	3.83	2.27	6.33
+HP:0002171	Gliosis	120	34	2.36	5.59	7.1e-07	5.5e-05	3.06	1.96	4.67
+HP:0010486	Abnormality of the hypothenar eminence	15	10	5.55	6.52	9.8e-07	6.3e-05	14.9	4.63	56
+HP:0030270	Elevated red cell adenosine deaminase activity	15	10	5.55	6.52	9.8e-07	6.3e-05	14.9	4.63	56
+HP:0010487	Small hypothenar eminence	15	10	5.55	6.52	9.8e-07	6.3e-05	14.9	4.63	56
+HP:0008437	Bifid thoracic vertebrae	15	10	5.55	6.52	9.8e-07	6.3e-05	14.9	4.63	56
+HP:0008447	Hypoplastic coccygeal vertebrae	15	10	5.55	6.52	9.8e-07	6.3e-05	14.9	4.63	56
+HP:0008475	Hypoplastic sacral vertebrae	15	10	5.55	6.52	9.8e-07	6.3e-05	14.9	4.63	56
+HP:0002181	Cerebral edema	36	16	3.7	6.01	1.1e-06	6.7e-05	6.04	2.9	12.4
+HP:0011400	Abnormal CNS myelination	184	45	2.03	5.33	1.1e-06	6.9e-05	2.53	1.74	3.63
+HP:0001637	Abnormality of the myocardium	418	82	1.63	5.09	1.2e-06	7.2e-05	1.97	1.49	2.59
+HP:0030272	Abnormal erythrocyte enzyme activity	16	10	5.2	6.22	2.3e-06	0.00013	12.5	4.07	41.9
+HP:0006368	Forearm reduction defects	16	10	5.2	6.22	2.3e-06	0.00013	12.5	4.07	41.9
+HP:0002669	Osteosarcoma	23	12	4.34	5.94	3.1e-06	0.00016	8.18	3.28	20.6
+HP:0012131	Abnormal number of erythroid precursors	23	12	4.34	5.94	3.1e-06	0.00016	8.18	3.28	20.6
+HP:0002415	Leukodystrophy	65	22	2.82	5.46	2.9e-06	0.00016	3.89	2.19	6.73
+HP:0025065	Abnormal erythrocyte volume	17	10	4.89	5.95	5.1e-06	0.00026	10.7	3.64	33.2
+HP:0005518	Increased mean corpuscular volume	17	10	4.89	5.95	5.1e-06	0.00026	10.7	3.64	33.2
+HP:0004439	Craniofacial dysostosis	24	12	4.16	5.74	5.5e-06	0.00027	7.49	3.06	18.4
+HP:0004325	Decreased body weight	875	143	1.36	4.53	6.7e-06	0.00032	1.65	1.32	2.06
+HP:0100705	Abnormality of the glial cells	144	36	2.08	4.89	8.4e-06	4e-04	2.57	1.69	3.85
+HP:0004590	Hypoplastic sacrum	18	10	4.62	5.69	1e-05	0.00044	9.33	3.3	27.4
+HP:0004810	Congenital hypoplastic anemia	18	10	4.62	5.69	1e-05	0.00044	9.33	3.3	27.4
+HP:0011902	Abnormal hemoglobin	29	13	3.73	5.45	1e-05	0.00044	6.1	2.68	13.6
+HP:0004354	Abnormality of carboxylic acid metabolism	229	50	1.82	4.72	9.9e-06	0.00044	2.18	1.53	3.06
+HP:0002795	Functional respiratory abnormality	889	144	1.35	4.43	1e-05	0.00044	1.63	1.3	2.03
+HP:0100851	Abnormal emotion/affect behavior	484	88	1.51	4.49	1.3e-05	0.00054	1.79	1.37	2.33
+HP:0001939	Abnormality of metabolism/homeostasis	1857	264	1.18	4.23	1.3e-05	0.00054	1.57	1.27	1.95
+HP:0011904	Persistence of hemoglobin F	22	11	4.16	5.49	1.4e-05	0.00056	7.48	2.92	19.1
+HP:0002093	Respiratory insufficiency	501	90	1.49	4.42	1.7e-05	0.00067	1.77	1.35	2.29
+HP:0001252	Muscular hypotonia	1058	165	1.3	4.27	1.7e-05	0.00069	1.58	1.27	1.96
+HP:0001908	Hypoplastic anemia	19	10	4.38	5.46	1.9e-05	0.00072	8.29	3.01	23.2
+HP:0025155	Abnormality of hepatobiliary system physiology	197	44	1.86	4.58	1.9e-05	0.00072	2.23	1.53	3.2
+HP:0001410	Decreased liver function	197	44	1.86	4.58	1.9e-05	0.00072	2.23	1.53	3.2
+HP:0000602	Ophthalmoplegia	132	33	2.08	4.67	2e-05	0.00075	2.56	1.65	3.89
+HP:0000878	11 pairs of ribs	35	14	3.33	5.11	2.3e-05	0.00082	5.01	2.34	10.4
+HP:0000580	Pigmentary retinopathy	340	66	1.61	4.41	2.3e-05	0.00083	1.9	1.4	2.56
+HP:0002863	Myelodysplasia	74	22	2.47	4.73	3.1e-05	0.0011	3.21	1.84	5.45
+HP:0012758	Neurodevelopmental delay	1201	182	1.26	4.11	3.1e-05	0.0011	1.54	1.24	1.9
+HP:0012240	Increased intramyocellular lipid droplets	20	10	4.16	5.24	3.4e-05	0.0012	7.46	2.77	20.1
+HP:0001894	Thrombocytosis	32	13	3.38	5	3.7e-05	0.0012	5.13	2.31	11
+HP:0001298	Encephalopathy	178	40	1.87	4.4	4.1e-05	0.0013	2.24	1.51	3.26
+HP:0004337	Abnormality of amino acid metabolism	196	43	1.82	4.39	3.9e-05	0.0013	2.18	1.49	3.13
+HP:0001629	Ventricular septal defect	326	63	1.61	4.26	4.3e-05	0.0013	1.88	1.38	2.55
+HP:0001627	Abnormal heart morphology	955	150	1.31	4.1	3.8e-05	0.0013	1.56	1.25	1.95
+HP:0003808	Abnormal muscle tone	1269	190	1.25	4.04	4e-05	0.0013	1.52	1.23	1.88
+HP:0010438	Abnormality of the ventricular septum	333	64	1.6	4.24	4.4e-05	0.0014	1.87	1.37	2.53
+HP:0002012	Abnormality of the abdominal organs	943	148	1.31	4.05	4.6e-05	0.0014	1.56	1.25	1.94
+HP:0001896	Reticulocytopenia	33	13	3.28	4.86	5.4e-05	0.0016	4.87	2.21	10.4
+HP:0100273	Neoplasm of the colon	52	17	2.72	4.62	6.6e-05	0.002	3.66	1.9	6.78
+HP:0001943	Hypoglycemia	152	35	1.92	4.26	7.4e-05	0.0022	2.3	1.5	3.43
+HP:0030680	Abnormality of cardiovascular system morphology	1052	161	1.27	3.91	7.6e-05	0.0022	1.52	1.22	1.89
+HP:0012759	Neurodevelopmental abnormality	1623	232	1.19	3.84	7.8e-05	0.0022	1.49	1.21	1.84
+HP:0003355	Aminoaciduria	159	36	1.88	4.21	8.5e-05	0.0024	2.25	1.48	3.34
+HP:0000085	Horseshoe kidney	79	22	2.32	4.37	9.2e-05	0.0026	2.92	1.68	4.92
+HP:0012447	Abnormal myelination	281	55	1.63	4.06	9.7e-05	0.0027	1.9	1.36	2.61
+HP:0025031	Abnormality of the digestive system	1786	251	1.17	3.77	9.8e-05	0.0027	1.48	1.2	1.84
+HP:0012072	Aciduria	198	42	1.76	4.09	0.00011	0.0029	2.08	1.42	2.99
+HP:0002104	Apnea	231	47	1.69	4.02	0.00012	0.0033	1.98	1.38	2.79
+HP:0002793	Abnormal pattern of respiration	297	57	1.6	3.97	0.00013	0.0033	1.85	1.34	2.54
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	10	3.62	4.65	0.00015	0.0039	5.74	2.24	14.3
+HP:0002697	Parietal foramina	23	10	3.62	4.65	0.00015	0.0039	5.74	2.24	14.3
+HP:0009058	Increased muscle lipid content	24	10	3.47	4.48	0.00023	0.0058	5.33	2.1	13
+HP:0009944	Partial duplication of thumb phalanx	24	10	3.47	4.48	0.00023	0.0058	5.33	2.1	13
+HP:0001392	Abnormality of the liver	787	124	1.31	3.66	0.00023	0.0058	1.52	1.2	1.92
+HP:0011017	Abnormality of cell physiology	402	71	1.47	3.69	0.00028	0.0068	1.68	1.25	2.24
+HP:0000921	Missing ribs	48	15	2.6	4.12	0.00031	0.0076	3.41	1.71	6.52
+HP:0003688	Decreased activity of cytochrome C oxidase in muscle tissue	25	10	3.33	4.32	0.00035	0.0083	4.97	1.98	11.9
+HP:0009999	Partial duplication of the phalanx of hand	25	10	3.33	4.32	0.00035	0.0083	4.97	1.98	11.9
+HP:0100012	Neoplasm of the eye	30	11	3.05	4.17	0.00043	0.01	4.32	1.84	9.63
+HP:0100834	Neoplasm of the large intestine	65	18	2.3	3.92	0.00043	0.01	2.88	1.56	5.11
+HP:0002488	Acute leukemia	93	23	2.06	3.82	0.00044	0.01	2.48	1.46	4.08
+HP:0009777	Absent thumb	40	13	2.7	4	0.00051	0.011	3.6	1.69	7.29
+HP:0001259	Coma	82	21	2.13	3.83	0.00047	0.011	2.6	1.49	4.38
+HP:0001332	Dystonia	318	58	1.52	3.57	0.00046	0.011	1.73	1.25	2.36
+HP:0004323	Abnormality of body weight	1071	159	1.23	3.41	0.00048	0.011	1.44	1.16	1.79
+HP:0002376	Developmental regression	219	43	1.63	3.58	0.00055	0.012	1.88	1.29	2.68
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	11	2.95	4.03	6e-04	0.013	4.1	1.76	9.06
+HP:0008417	Vertebral hypoplasia	31	11	2.95	4.03	6e-04	0.013	4.1	1.76	9.06
+HP:0001399	Hepatic failure	170	35	1.71	3.52	0.00075	0.016	1.98	1.3	2.94
+HP:0001260	Dysarthria	373	65	1.45	3.39	0.00076	0.016	1.64	1.21	2.21
+HP:0000402	Stenosis of the external auditory canal	32	11	2.86	3.91	0.00081	0.017	3.91	1.69	8.55
+HP:0001903	Anemia	402	69	1.43	3.37	8e-04	0.017	1.62	1.2	2.15
+HP:0009778	Short thumb	63	17	2.24	3.68	0.00086	0.018	2.77	1.48	4.99
+HP:0012130	Abnormality of cells of the erythroid lineage	439	74	1.4	3.33	0.00087	0.018	1.59	1.19	2.1
+HP:0001877	Abnormality of erythrocytes	439	74	1.4	3.33	0.00087	0.018	1.59	1.19	2.1
+HP:0100547	Abnormality of forebrain morphology	1170	170	1.21	3.23	0.00085	0.018	1.41	1.14	1.74
+HP:0000465	Webbed neck	86	21	2.03	3.58	0.00094	0.019	2.43	1.4	4.09
+HP:0001257	Spasticity	491	81	1.37	3.29	0.00096	0.019	1.55	1.18	2.03
+HP:0003487	Babinski sign	239	45	1.57	3.35	0.0011	0.021	1.78	1.24	2.52
+HP:0002060	Abnormality of the cerebrum	1167	169	1.2	3.16	0.0011	0.021	1.4	1.13	1.73
+HP:0003003	Colon cancer	38	12	2.63	3.73	0.0011	0.022	3.44	1.57	7.14
+HP:0001909	Leukemia	149	31	1.73	3.37	0.0012	0.023	2	1.28	3.03
+HP:0004302	Functional motor problems	254	47	1.54	3.3	0.0012	0.023	1.74	1.22	2.45
+HP:0002086	Abnormality of the respiratory system	1338	190	1.18	3.11	0.0012	0.023	1.38	1.12	1.71
+HP:0011804	Abnormality of muscle physiology	1558	217	1.16	3.1	0.0012	0.023	1.38	1.12	1.7
+HP:0001972	Macrocytic anemia	44	13	2.46	3.6	0.0014	0.026	3.13	1.49	6.22
+HP:0011015	Abnormality of blood glucose concentration	176	35	1.65	3.29	0.0014	0.026	1.89	1.25	2.8
+HP:0000240	Abnormality of skull size	968	143	1.23	3.09	0.0014	0.026	1.41	1.12	1.75
+HP:0006495	Aplasia/Hypoplasia of the ulna	55	15	2.27	3.5	0.0015	0.027	2.81	1.43	5.25
+HP:0000776	Congenital diaphragmatic hernia	83	20	2	3.42	0.0015	0.027	2.39	1.35	4.05
+HP:0000709	Psychosis	101	23	1.89	3.37	0.0015	0.027	2.22	1.32	3.63
+HP:0004372	Reduced consciousness/confusion	230	43	1.56	3.22	0.0016	0.028	1.76	1.21	2.51
+HP:0001272	Cerebellar atrophy	258	47	1.52	3.18	0.0017	0.029	1.71	1.2	2.4
+HP:0001276	Hypertonia	626	98	1.3	3.08	0.0017	0.029	1.47	1.14	1.88
+HP:0009942	Duplication of thumb phalanx	45	13	2.4	3.5	0.0018	0.03	3.03	1.45	6
+HP:0011991	Abnormal neutrophil cell number	108	24	1.85	3.31	0.0017	0.03	2.16	1.29	3.48
+HP:0001875	Neutropenia	108	24	1.85	3.31	0.0017	0.03	2.16	1.29	3.48
+HP:0005561	Abnormality of bone marrow cell morphology	504	81	1.34	3.02	0.0021	0.036	1.5	1.14	1.96
+HP:0002921	Abnormality of the cerebrospinal fluid	381	64	1.4	3.03	0.0022	0.037	1.56	1.15	2.1
+HP:0007378	Neoplasm of the gastrointestinal tract	174	34	1.63	3.13	0.0023	0.038	1.84	1.21	2.75
+HP:0003800	Muscle abnormality related to mitochondrial dysfunction	41	12	2.43	3.41	0.0023	0.039	3.09	1.42	6.29
+HP:0002875	Exertional dyspnea	31	10	2.68	3.48	0.0024	0.04	3.54	1.48	7.93
+HP:0000774	Narrow chest	149	30	1.67	3.11	0.0026	0.042	1.91	1.22	2.91
+HP:0000086	Ectopic kidney	81	19	1.95	3.2	0.0027	0.043	2.3	1.29	3.95
+HP:0045009	Abnormal morphology of the radius	87	20	1.91	3.18	0.0027	0.043	2.24	1.27	3.79
+HP:0006561	Lipid accumulation in hepatocytes	99	22	1.85	3.16	0.0027	0.043	2.15	1.26	3.54
+HP:0000124	Renal tubular dysfunction	64	16	2.08	3.22	0.0029	0.046	2.49	1.31	4.52
+HP:0003201	Rhabdomyolysis	32	10	2.6	3.36	0.0031	0.048	3.38	1.42	7.5
+HP:0002696	Abnormality of the parietal bone	32	10	2.6	3.36	0.0031	0.048	3.38	1.42	7.5
+HP:0010622	Neoplasm of the skeletal system	76	18	1.97	3.16	0.0031	0.048	2.33	1.28	4.05
+HP:0010972	Anemia of inadequate production	94	21	1.86	3.12	0.0031	0.048	2.16	1.25	3.6
+HP:0001713	Abnormality of cardiac ventricle	459	74	1.34	2.9	0.0031	0.048	1.49	1.12	1.97

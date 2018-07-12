@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6794362	Protein-protein interactions at synapses	70	6	10.6	7.28	2e-05	0.0013	12.3	4.23	29.6
+R-HSA-112316	Neuronal System	356	11	3.82	4.89	0.00013	0.004	4.37	2.07	8.39
+R-HSA-3232118	SUMOylation of transcription factors	18	3	20.6	7.52	0.00038	0.0079	25.4	4.62	92.3
+R-HSA-8849932	Synaptic adhesion-like molecules	21	3	17.7	6.9	0.00061	0.0095	21.2	3.91	74.6
+R-HSA-5689896	Ovarian tumor domain proteases	38	3	9.76	4.89	0.0035	0.044	10.9	2.09	35.6

@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0385	4	8	1	0.125	0.25	CORUM:2193	cor	1	Ubiquitin E3 ligase (Fbxo32, Skp1a, Cul1, Rbx1)	1	FBXO32
+2	1	TRUE	0.0385	3	8	1	0.125	0.333	CORUM:1549	cor	7	Kpna2-Kpnb1 complex	1	KPNB1
+3	1	TRUE	0.0385	4	8	1	0.125	0.25	CORUM:5882	cor	4	Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	RAF1
+4	1	TRUE	0.0385	3	8	1	0.125	0.333	CORUM:161	cor	2	SWAP complex	1	SWAP70
+5	1	TRUE	0.014	36	8	3	0.375	0.083	CORUM:381	cor	5	Respiratory chain complex I, mitochondrial	1	NDUFA10,NDUFB5,NDUFB6
+6	1	TRUE	0.014	38	8	3	0.375	0.079	CORUM:382	cor	3	Respiratory chain complex I, mitochondrial	1	NDUFA10,NDUFB5,NDUFB6
+7	1	TRUE	0.0385	3	8	1	0.125	0.333	CORUM:5883	cor	6	Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	RAF1
+8	1	TRUE	0.0385	4	8	1	0.125	0.25	CORUM:953	cor	8	p97-Ufd1-Npl4-IP3 receptor complex	1	NPLOC4

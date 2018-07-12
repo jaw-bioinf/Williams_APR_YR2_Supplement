@@ -1,0 +1,68 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0002373 Febrile seizures 56 4 20.9 8.79 2.6e-05 0.0031 32.9 7.04 128
+HP:0011220 Prominent forehead 189 6 9.29 6.86 1.6e-05 0.0031 18.1 4.78 68.3
+HP:0200134 Epileptic encephalopathy 64 4 18.3 8.17 4.5e-05 0.0036 28.5 6.11 110
+HP:0000733 Stereotypy 155 5 9.44 6.29 9.7e-05 0.0058 15.9 3.93 59
+HP:0002510 Spastic tetraplegia 87 4 13.4 6.89 0.00015 0.006 20.5 4.43 78.5
+HP:0000179 Thick lower lip vermilion 168 5 8.71 5.99 0.00014 0.006 14.6 3.61 54
+HP:0012471 Thick vermilion border 190 5 7.7 5.56 0.00026 0.0088 12.8 3.16 47.2
+HP:0002123 Generalized myoclonic seizures 105 4 11.1 6.18 0.00031 0.0093 16.8 3.63 63.8
+HP:0000817 Poor eye contact 59 3 14.9 6.29 0.00089 0.01 20.4 3.46 84.7
+HP:0100716 Self-injurious behavior 122 4 9.59 5.66 0.00055 0.01 14.3 3.1 54.2
+HP:0002540 Inability to walk 124 4 9.44 5.6 0.00059 0.01 14 3.05 53.3
+HP:0008936 Muscular hypotonia of the trunk 138 4 8.48 5.25 0.00089 0.01 12.5 2.73 47.5
+HP:0000729 Autistic behavior 225 5 6.5 4.99 0.00057 0.01 10.6 2.64 39.2
+HP:0003487 Babinski sign 239 5 6.12 4.8 0.00075 0.01 9.95 2.47 36.8
+HP:0000178 Abnormality of lower lip 242 5 6.04 4.76 0.00079 0.01 9.81 2.44 36.2
+HP:0000752 Hyperactivity 248 5 5.9 4.68 0.00089 0.01 9.55 2.37 35.3
+HP:0006919 Abnormal aggressive, impulsive or violent behavior 249 5 5.87 4.67 9e-04 0.01 9.51 2.36 35.1
+HP:0001257 Spasticity 491 7 4.17 4.44 0.00042 0.01 8.71 2.37 35
+HP:0004305 Involuntary movements 664 8 3.52 4.23 0.00038 0.01 8.66 2.31 39.4
+HP:0000925 Abnormality of the vertebral column 935 9 2.82 3.8 0.00064 0.01 8.33 2.07 47.9
+HP:0100022 Abnormality of movement 1159 10 2.52 3.71 0.00049 0.01 10.2 2.17 96.1
+HP:0002133 Status epilepticus 62 3 14.2 6.12 0.001 0.011 19.4 3.29 80
+HP:0001347 Hyperreflexia 560 7 3.66 4.02 0.00096 0.011 7.45 2.03 29.9
+HP:0011146 Dialeptic seizures 71 3 12.4 5.66 0.0015 0.014 16.8 2.86 69.1
+HP:0000735 Impaired social interactions 71 3 12.4 5.66 0.0015 0.014 16.8 2.86 69.1
+HP:0002197 Generalized seizures 155 4 7.55 4.88 0.0014 0.014 11.1 2.41 41.9
+HP:0012433 Abnormal social behavior 73 3 12 5.57 0.0017 0.015 16.3 2.77 67.1
+HP:0007256 Abnormal pyramidal signs 296 5 4.94 4.15 0.002 0.016 7.86 1.95 29
+HP:0001276 Hypertonia 626 7 3.27 3.67 0.0019 0.016 6.51 1.77 26.1
+HP:0002305 Athetosis 79 3 11.1 5.32 0.0021 0.017 15 2.56 61.5
+HP:0200055 Small hand 83 3 10.6 5.17 0.0024 0.017 14.2 2.43 58.3
+HP:0000717 Autism 175 4 6.69 4.52 0.0022 0.017 9.71 2.12 36.7
+HP:0001298 Encephalopathy 178 4 6.57 4.47 0.0023 0.017 9.54 2.08 36
+HP:0007359 Focal seizures 87 3 10.1 5.03 0.0028 0.018 13.5 2.31 55.4
+HP:0000400 Macrotia 186 4 6.29 4.34 0.0027 0.018 9.1 1.99 34.4
+HP:0001332 Dystonia 318 5 4.6 3.94 0.0027 0.018 7.26 1.81 26.8
+HP:0001258 Spastic paraplegia 91 3 9.64 4.89 0.0031 0.019 12.9 2.21 52.8
+HP:0010550 Paraplegia 93 3 9.44 4.83 0.0033 0.019 12.6 2.16 51.6
+HP:0000490 Deeply set eye 195 4 6 4.21 0.0032 0.019 8.64 1.89 32.6
+HP:0100851 Abnormal emotion/affect behavior 484 6 3.63 3.64 0.0029 0.019 6.31 1.68 23.7
+HP:0001249 Intellectual disability 1135 9 2.32 3.16 0.003 0.019 6.32 1.57 36.3
+HP:0011344 Severe global developmental delay 103 3 8.52 4.54 0.0045 0.025 11.3 1.94 46.2
+HP:0002376 Developmental regression 219 4 5.34 3.89 0.0049 0.027 7.62 1.67 28.7
+HP:0000240 Abnormality of skull size 968 8 2.42 3.03 0.0053 0.029 5.28 1.41 24
+HP:0001337 Tremor 377 5 3.88 3.47 0.0058 0.031 6 1.49 22.1
+HP:0002936 Distal sensory impairment 119 3 7.37 4.14 0.0067 0.035 9.7 1.67 39.6
+HP:0002061 Lower limb spasticity 121 3 7.25 4.1 0.007 0.035 9.53 1.64 38.8
+HP:0003808 Abnormal muscle tone 1269 9 2.07 2.81 0.0071 0.035 5.33 1.33 30.6
+HP:0002353 EEG abnormality 246 4 4.76 3.58 0.0074 0.036 6.72 1.47 25.3
+HP:0010551 Paraplegia/paraparesis 129 3 6.8 3.93 0.0084 0.04 8.91 1.53 36.3
+HP:0000233 Thin vermilion border 257 4 4.55 3.46 0.0087 0.041 6.41 1.4 24.1
+HP:0001773 Short foot 136 3 6.45 3.8 0.0097 0.043 8.42 1.45 34.3
+HP:0000664 Synophrys 137 3 6.41 3.78 0.0099 0.043 8.36 1.44 34
+HP:0002059 Cerebral atrophy 421 5 3.47 3.17 0.0094 0.043 5.29 1.32 19.5
+HP:0007369 Atrophy/Degeneration affecting the cerebrum 424 5 3.45 3.15 0.0096 0.043 5.24 1.31 19.3
+HP:0001322 Brain very small 434 5 3.37 3.09 0.011 0.044 5.11 1.27 18.8
+HP:0012444 Brain atrophy 434 5 3.37 3.09 0.011 0.044 5.11 1.27 18.8
+HP:0009121 Abnormal axial skeleton morphology 1638 10 1.79 2.55 0.011 0.044 5.74 1.22 53.9
+HP:0001265 Hyporeflexia 280 4 4.18 3.25 0.012 0.047 5.83 1.28 21.9
+HP:0001311 Abnormal nervous system electrophysiology 443 5 3.3 3.03 0.012 0.047 4.99 1.24 18.3
+HP:0001344 Absent speech 148 3 5.93 3.59 0.012 0.048 7.7 1.33 31.3
+HP:0002219 Facial hypertrichosis 151 3 5.81 3.54 0.013 0.048 7.53 1.3 30.6
+HP:0002079 Hypoplasia of the corpus callosum 287 4 4.08 3.19 0.013 0.048 5.68 1.24 21.3
+HP:0000290 Abnormality of the forehead 647 6 2.71 2.82 0.013 0.048 4.45 1.19 16.7
+HP:0000750 Delayed speech and language development 460 5 3.18 2.94 0.014 0.05 4.77 1.19 17.6
+HP:0002650 Scoliosis 657 6 2.67 2.78 0.014 0.05 4.37 1.16 16.4
+HP:0012443 Abnormality of brain morphology 1687 10 1.73 2.45 0.014 0.05 5.43 1.15 51

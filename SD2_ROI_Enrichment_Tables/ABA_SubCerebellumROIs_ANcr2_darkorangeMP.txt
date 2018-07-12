@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004201	fetal growth retardation	103	6	7.21	5.72	0.00018	0.041	8.16	2.83	19.3
+MP:0006208	lethality throughout fetal growth and development	504	13	3.19	4.57	0.00017	0.041	3.72	1.86	6.89

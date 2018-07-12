@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-375276	Peptide ligand-binding receptors	187	22	2.79	5.19	1.2e-05	0.0039	3.14	1.89	4.98
+R-HSA-418594	G alpha (i) signalling events	362	32	2.1	4.46	5.7e-05	0.009	2.3	1.53	3.37
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	27	2	3.82	0.00046	0.036	2.17	1.39	3.27
+R-HSA-500792	GPCR ligand binding	419	33	1.87	3.81	0.00039	0.036	2.02	1.35	2.94

@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-212165	Epigenetic regulation of gene expression	108	7	11.6	8.3	2.1e-06	8.2e-05	13.9	5.19	31.9
+R-HSA-5250913	Positive epigenetic regulation of rRNA expression	90	5	9.93	6.38	0.00014	0.0018	11.4	3.46	29.3
+R-HSA-5250924	B-WICH complex positively regulates rRNA expression	90	5	9.93	6.38	0.00014	0.0018	11.4	3.46	29.3
+R-HSA-76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter	28	3	19.2	7.22	0.00049	0.0048	22.4	4.21	77.1
+R-HSA-74158	RNA Polymerase III Transcription	36	3	14.9	6.27	0.001	0.0049	17	3.24	56.9
+R-HSA-76046	RNA Polymerase III Transcription Initiation	36	3	14.9	6.27	0.001	0.0049	17	3.24	56.9
+R-HSA-5689901	Metalloprotease DUBs	37	3	14.5	6.17	0.0011	0.0049	16.5	3.15	55.1
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	74	4	9.67	5.61	0.00076	0.0049	10.9	2.78	30.7
+R-HSA-72172	mRNA Splicing	191	6	5.62	4.83	0.00065	0.0049	6.34	2.19	15
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	6	4.41	4.04	0.0023	0.0088	4.92	1.71	11.6
+R-HSA-72165	mRNA Splicing - Minor Pathway	52	3	10.3	5.05	0.003	0.011	11.4	2.21	37.2
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	4.89	3.98	0.0035	0.011	5.38	1.66	13.6
+R-HSA-74160	Gene expression (Transcription)	1335	15	2.01	2.97	0.0054	0.016	2.39	1.23	4.43
+R-HSA-73777	RNA Polymerase I Chain Elongation	89	3	6.03	3.57	0.013	0.037	6.49	1.27	20.7

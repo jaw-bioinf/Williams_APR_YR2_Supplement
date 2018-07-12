@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1482801	Acyl chain remodelling of PS	23	3	16.1	6.56	8e-04	0.041	19	3.55	66.1
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	3	11.2	5.32	0.0023	0.041	12.7	2.43	42.1
+R-HSA-6784531	tRNA processing in the nucleus	56	4	8.83	5.31	0.0011	0.041	9.86	2.53	27.8
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	3	10.9	5.23	0.0025	0.041	12.3	2.35	40.6
+R-HSA-1169408	ISG15 antiviral mechanism	71	4	6.96	4.55	0.0026	0.041	7.64	1.98	21.3
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	4	6.96	4.55	0.0026	0.041	7.64	1.98	21.3
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	9	3.05	3.6	0.0026	0.041	3.36	1.47	6.81
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	3	9.27	4.73	0.0041	0.045	10.3	1.99	33.5
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	3	9.05	4.66	0.0044	0.045	10	1.94	32.6
+R-HSA-2871837	FCERI mediated NF-kB activation	79	4	6.26	4.24	0.0038	0.045	6.82	1.77	18.9
+R-HSA-72306	tRNA processing	83	4	5.96	4.1	0.0045	0.045	6.48	1.68	17.9
+R-HSA-168256	Immune System	1970	26	1.63	2.82	0.0054	0.049	1.94	1.17	3.16

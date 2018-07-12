@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-68867	Assembly of the pre-replicative complex	68	3	13.4	5.89	0.0014	0.016	15.2	2.9	51
+R-HSA-69300	Removal of licensing factors from origins	73	3	12.5	5.66	0.0017	0.016	14.1	2.7	47.1
+R-HSA-1234174	Regulation of Hypoxia-inducible Factor (HIF) by oxygen	75	3	12.1	5.57	0.0019	0.016	13.8	2.63	45.8
+R-HSA-2262749	Cellular response to hypoxia	75	3	12.1	5.57	0.0019	0.016	13.8	2.63	45.8
+R-HSA-69304	Regulation of DNA replication	76	3	12	5.52	0.0019	0.016	13.6	2.59	45.1
+R-HSA-68874	M/G1 Transition	85	3	10.7	5.17	0.0027	0.016	12.1	2.31	40
+R-HSA-69002	DNA Replication Pre-Initiation	85	3	10.7	5.17	0.0027	0.016	12.1	2.31	40
+R-HSA-69306	DNA Replication	108	3	8.43	4.46	0.0053	0.028	9.4	1.81	31

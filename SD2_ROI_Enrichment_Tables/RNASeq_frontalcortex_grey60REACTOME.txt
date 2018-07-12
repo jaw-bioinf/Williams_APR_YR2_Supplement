@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5682910	LGI-ADAM interactions	14	3	21.5	7.69	0.00032	0.012	27.8	4.9	108
+R-HSA-1630316	Glycosaminoglycan metabolism	122	7	5.75	5.3	0.00021	0.012	6.41	2.45	14.2
+R-HSA-2022870	Chondroitin sulfate biosynthesis	20	3	15	6.3	0.00097	0.023	18	3.32	63.6
+R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	50	4	8.01	4.99	0.0015	0.023	8.93	2.29	25.2
+R-HSA-71387	Metabolism of carbohydrates	263	9	3.43	4.01	0.0012	0.023	3.76	1.65	7.57
+R-HSA-2022854	Keratan sulfate biosynthesis	27	3	11.1	5.29	0.0024	0.03	12.7	2.41	43
+R-HSA-1638074	Keratan sulfate/keratin metabolism	33	3	9.1	4.68	0.0042	0.046	10.2	1.96	33.6
+R-HSA-1430728	Metabolism	1899	30	1.58	2.83	0.005	0.048	1.84	1.16	2.88

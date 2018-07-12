@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1912408	Pre-NOTCH Transcription and Translation	30	3	19.6	7.31	0.00046	0.014	22.9	4.31	78.7
+R-HSA-1912422	Pre-NOTCH Expression and Processing	32	3	18.4	7.06	0.00056	0.014	21.4	4.03	72.6
+R-HSA-109581	Apoptosis	108	4	7.27	4.69	0.0022	0.035	8.06	2.07	22.6
+R-HSA-157118	Signaling by NOTCH	65	3	9.06	4.67	0.0044	0.035	9.97	1.94	32.3
+R-HSA-3906995	Diseases associated with O-glycosylation of proteins	66	3	8.92	4.62	0.0045	0.035	9.81	1.91	31.7
+R-HSA-5357801	Programmed Cell Death	115	4	6.83	4.5	0.0027	0.035	7.55	1.94	21.2
+R-HSA-3781865	Diseases of glycosylation	135	4	5.82	4.03	0.0048	0.035	6.38	1.65	17.8

@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.031	12	2	1	0.5	0.083	CORUM:2750	cor	6	Gata1-Fog1-MeCP1 complex	1	RBBP4
+2	1	TRUE	0.0173	2	2	1	0.5	0.5	CORUM:5628	cor	3	Ask1-Traf6 complex, LPS induced	1	TRAF6
+3	1	TRUE	0.0173	4	2	1	0.5	0.25	CORUM:3539	cor	1	Limd1-p62-Traf6-Prkcz complex	1	TRAF6
+4	1	TRUE	0.031	10	2	1	0.5	0.1	CORUM:582	cor	4	Ikaros complex	1	RBBP4
+5	1	TRUE	0.0173	3	2	1	0.5	0.333	CORUM:3553	cor	2	Traf6-p62-aPKC complex, RANK-L stimulated	1	TRAF6
+6	1	TRUE	0.00695	28	25	3	0.12	0.107	KEGG:04950	keg	5	Maturity onset diabetes of the young	1	INS2,RFX6,IAPP

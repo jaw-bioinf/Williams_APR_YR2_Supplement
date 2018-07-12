@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0013501	increased fibroblast apoptosis	48	3	18.7	7.12	0.00053	0.042	21.9	4.11	74.8
+MP:0008143	abnormal dendrite morphology	198	5	7.56	5.4	0.00045	0.042	9.02	2.68	24.2
+MP:0003313	abnormal locomotor activation	1152	11	2.86	3.9	0.00082	0.044	3.91	1.69	8.58

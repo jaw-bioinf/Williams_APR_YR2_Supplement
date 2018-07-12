@@ -1,0 +1,59 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1070	primary open angle glaucoma	49	6	9.02	6.61	4.7e-05	0.0026	10.7	3.64	26.3
+DOID:5082	liver cirrhosis	207	12	4.27	5.6	2e-05	0.0026	4.97	2.43	9.35
+DOID:3908	non-small cell lung carcinoma	417	17	3	4.95	3.7e-05	0.0026	3.54	1.95	6.11
+DOID:77	gastrointestinal system disease	1039	31	2.2	4.91	9.1e-06	0.0026	2.83	1.77	4.44
+DOID:3118	hepatobiliary disease	637	22	2.55	4.8	3e-05	0.0026	3.08	1.81	5.06
+DOID:1575	rheumatic disease	169	10	4.36	5.19	8.9e-05	0.0031	4.99	2.27	9.87
+DOID:419	scleroderma	169	10	4.36	5.19	8.9e-05	0.0031	4.99	2.27	9.87
+DOID:418	systemic scleroderma	169	10	4.36	5.19	8.9e-05	0.0031	4.99	2.27	9.87
+DOID:1067	open-angle glaucoma	59	6	7.49	5.88	0.00013	0.0037	8.71	2.98	21
+DOID:854	collagen disease	181	10	4.07	4.91	0.00016	0.0037	4.63	2.11	9.15
+DOID:0050615	respiratory system cancer	509	18	2.61	4.41	0.00014	0.0037	3.05	1.71	5.2
+DOID:409	liver disease	609	20	2.42	4.3	0.00015	0.0037	2.86	1.64	4.77
+DOID:3905	lung carcinoma	479	17	2.62	4.3	0.00021	0.0043	3.04	1.67	5.24
+DOID:1324	lung cancer	480	17	2.61	4.29	0.00021	0.0043	3.03	1.67	5.22
+DOID:299	adenocarcinoma	755	22	2.15	3.91	0.00038	0.0071	2.54	1.49	4.16
+DOID:1686	glaucoma	103	7	5.01	4.81	0.00047	0.0083	5.64	2.15	12.6
+DOID:120	female reproductive organ cancer	422	15	2.62	4.02	5e-04	0.0084	2.99	1.59	5.3
+DOID:6713	cerebrovascular disease	114	7	4.53	4.45	0.00086	0.014	5.05	1.93	11.2
+DOID:201	connective tissue cancer	358	13	2.68	3.82	0.001	0.015	3.01	1.52	5.51
+DOID:214	teeth hard tissue disease	18	3	12.3	5.62	0.0017	0.021	15	2.73	54.1
+DOID:234	colon adenocarcinoma	18	3	12.3	5.62	0.0017	0.021	15	2.73	54.1
+DOID:11612	polycystic ovary syndrome	163	8	3.62	3.96	0.0016	0.021	4	1.65	8.44
+DOID:0060100	musculoskeletal system cancer	427	14	2.42	3.54	0.0017	0.021	2.72	1.41	4.88
+DOID:3407	carotid artery disease	19	3	11.6	5.44	0.002	0.023	14	2.57	50.3
+DOID:12365	malaria	97	6	4.56	4.14	0.002	0.023	5.05	1.76	11.8
+DOID:2213	hemorrhagic disease	133	7	3.88	3.93	0.0021	0.023	4.28	1.64	9.45
+DOID:193	reproductive organ cancer	537	16	2.2	3.38	0.0021	0.023	2.48	1.34	4.32
+DOID:9952	acute lymphocytic leukemia	20	3	11.1	5.28	0.0023	0.024	13.2	2.44	46.8
+DOID:3326	purpura	71	5	5.19	4.16	0.0027	0.025	5.75	1.77	14.6
+DOID:10124	corneal disease	71	5	5.19	4.16	0.0027	0.025	5.75	1.77	14.6
+DOID:631	fibromyalgia	22	3	10	4.99	0.0031	0.028	11.8	2.2	41.1
+DOID:14069	cerebral malaria	25	3	8.84	4.61	0.0045	0.033	10.2	1.92	34.9
+DOID:986	alopecia areata	25	3	8.84	4.61	0.0045	0.033	10.2	1.92	34.9
+DOID:3962	follicular thyroid carcinoma	48	4	6.14	4.19	0.0039	0.033	6.85	1.75	19.4
+DOID:1398	parasitic infectious disease	150	7	3.44	3.54	0.0041	0.033	3.76	1.44	8.28
+DOID:219	colon cancer	153	7	3.37	3.48	0.0046	0.033	3.68	1.41	8.1
+DOID:1520	colon carcinoma	153	7	3.37	3.48	0.0046	0.033	3.68	1.41	8.1
+DOID:2621	autonomic nervous system neoplasm	368	12	2.4	3.24	0.0039	0.033	2.66	1.31	4.96
+DOID:769	neuroblastoma	368	12	2.4	3.24	0.0039	0.033	2.66	1.31	4.96
+DOID:9252	amino acid metabolic disorder	52	4	5.67	3.96	0.0052	0.036	6.28	1.61	17.7
+DOID:1192	peripheral nervous system neoplasm	381	12	2.32	3.11	0.0052	0.036	2.56	1.26	4.77
+DOID:1909	melanoma	706	18	1.88	2.89	0.006	0.041	2.11	1.18	3.59
+DOID:3526	cerebral infarction	55	4	5.36	3.81	0.0064	0.042	5.9	1.52	16.6
+DOID:1247	blood coagulation disease	164	7	3.15	3.26	0.0067	0.043	3.42	1.31	7.51
+DOID:9074	systemic lupus erythematosus	299	10	2.46	3.04	0.007	0.044	2.69	1.23	5.27
+DOID:0050155	sensory system disease	606	16	1.95	2.86	0.007	0.044	2.17	1.17	3.77
+DOID:2789	parasitic protozoa infectious disease	128	6	3.45	3.29	0.0077	0.045	3.75	1.31	8.72
+DOID:170	endocrine gland cancer	399	12	2.22	2.93	0.0074	0.045	2.43	1.2	4.53
+DOID:289	endometriosis	258	9	2.57	3.01	0.0081	0.047	2.8	1.22	5.65
+DOID:2706	synovium cancer	32	3	6.91	3.93	0.009	0.049	7.73	1.48	25.6
+DOID:5485	synovial sarcoma	32	3	6.91	3.93	0.009	0.049	7.73	1.48	25.6
+DOID:10316	pneumoconiosis	33	3	6.7	3.85	0.0098	0.049	7.47	1.43	24.7
+DOID:3454	brain infarction	61	4	4.83	3.53	0.0092	0.049	5.28	1.36	14.7
+DOID:2871	endometrial carcinoma	134	6	3.3	3.15	0.0095	0.049	3.57	1.25	8.29
+DOID:655	inherited metabolic disorder	363	11	2.23	2.83	0.0097	0.049	2.44	1.16	4.64
+DOID:114	heart disease	517	14	2	2.76	0.0095	0.049	2.2	1.14	3.94
+DOID:0014667	disease of metabolism	1280	27	1.55	2.57	0.0098	0.049	1.79	1.1	2.85
+DOID:1036	chronic leukemia	222	8	2.66	2.94	0.01	0.05	2.87	1.19	6.02

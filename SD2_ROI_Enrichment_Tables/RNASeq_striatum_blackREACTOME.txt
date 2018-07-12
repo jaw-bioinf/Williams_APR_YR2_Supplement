@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1250196	SHC1 events in ERBB2 signaling	17	4	11	6.09	0.00039	0.032	14.2	3.36	46.6
+R-HSA-9006925	Intracellular signaling by second messengers	282	16	2.64	4.14	0.00037	0.032	2.88	1.59	4.88
+R-HSA-418594	G alpha (i) signalling events	362	18	2.32	3.78	0.00079	0.042	2.51	1.44	4.13

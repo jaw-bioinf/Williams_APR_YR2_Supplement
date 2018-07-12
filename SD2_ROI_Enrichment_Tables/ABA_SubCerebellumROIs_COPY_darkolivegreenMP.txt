@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009937	abnormal neuron differentiation	360	14	3.84	5.56	1.4e-05	0.0084	4.47	2.31	8.04
+MP:0003861	abnormal nervous system development	1215	27	2.19	4.51	4.6e-05	0.014	2.71	1.66	4.32
+MP:0005567	decreased circulating total protein level	57	5	8.66	5.87	0.00026	0.04	9.86	3	25.4
+MP:0005076	abnormal cell differentiation	712	18	2.5	4.2	0.00024	0.04	2.9	1.62	4.93

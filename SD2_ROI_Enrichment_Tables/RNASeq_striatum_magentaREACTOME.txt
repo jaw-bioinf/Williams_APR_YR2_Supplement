@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2470946	Cohesin Loading onto Chromatin	10	4	23.8	9.44	1.5e-05	0.0024	39.9	8.21	170
+R-HSA-2468052	Establishment of Sister Chromatid Cohesion	11	4	21.7	8.96	2.3e-05	0.0024	34.2	7.27	136
+R-HSA-68884	Mitotic Telophase/Cytokinesis	14	4	17	7.84	6.7e-05	0.0047	23.9	5.43	84.1

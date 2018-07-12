@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-977443	GABA receptor activation	55	9	4.36	4.93	0.00019	0.034	5.11	2.18	10.7
+R-HSA-422475	Axon guidance	295	25	2.26	4.33	0.00012	0.034	2.47	1.55	3.79
+R-HSA-416476	G alpha (q) signalling events	207	19	2.44	4.15	0.00029	0.035	2.67	1.56	4.36
+R-HSA-3928664	Ephrin signaling	19	5	7.01	5.18	0.00055	0.04	9.26	2.6	27.4
+R-HSA-8957275	Post-translational protein phosphorylation	108	12	2.96	4.04	0.00071	0.04	3.28	1.62	6.06
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	15	2.59	3.94	0.00067	0.04	2.84	1.53	4.91
+R-HSA-112315	Transmission across Chemical Synapses	224	19	2.26	3.76	0.00077	0.04	2.45	1.43	3.98
+R-HSA-1663150	The activation of arylsulfatases	13	4	8.19	5.13	0.0011	0.044	11.5	2.57	41.4
+R-HSA-500792	GPCR ligand binding	419	29	1.84	3.48	0.0011	0.044	1.98	1.29	2.94

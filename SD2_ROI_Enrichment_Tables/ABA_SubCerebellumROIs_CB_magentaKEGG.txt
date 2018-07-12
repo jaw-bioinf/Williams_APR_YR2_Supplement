@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04727	GABAergic synapse	88	11	3.36	4.38	0.00038	0.03	3.82	1.81	7.35
+path:hsa00190	Oxidative phosphorylation	133	14	2.83	4.19	0.00039	0.03	3.17	1.66	5.64
+path:hsa05012	Parkinson's disease	142	14	2.65	3.91	0.00076	0.031	2.94	1.54	5.22
+path:hsa05016	Huntington's disease	193	17	2.37	3.79	0.00079	0.031	2.61	1.46	4.4

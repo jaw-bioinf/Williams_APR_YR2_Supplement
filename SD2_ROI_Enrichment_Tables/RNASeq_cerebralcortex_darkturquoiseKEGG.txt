@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa03460	Fanconi anemia pathway	54	3	14.8	6.24	0.001	0.0021	17.5	3.26	61
+path:hsa03013	RNA transport	171	4	6.22	4.25	0.0035	0.0035	7.35	1.82	22.1

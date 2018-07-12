@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04390	Hippo signaling pathway	153	40	1.91	4.55	2.5e-05	0.0049	2.29	1.55	3.34
+path:hsa05217	Basal cell carcinoma	55	19	2.53	4.53	6.8e-05	0.0049	3.38	1.82	6.09
+path:hsa04550	Signaling pathways regulating pluripotency of stem cells	139	36	1.9	4.24	7.8e-05	0.0049	2.26	1.49	3.35
+path:hsa05200	Pathways in cancer	395	82	1.52	4.23	4e-05	0.0049	1.72	1.32	2.23
+path:hsa04916	Melanogenesis	101	26	1.88	3.56	0.00082	0.041	2.22	1.36	3.54

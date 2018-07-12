@@ -1,0 +1,9 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-191273 Cholesterol biosynthesis 25 5 9.82 6.36 0.00013 0.015 12.3 3.57 34.2
+R-HSA-8862803 Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models 17 4 11.5 6.28 0.00032 0.015 15.1 3.54 49.3
+R-HSA-8863678 Neurodegenerative Diseases 17 4 11.5 6.28 0.00032 0.015 15.1 3.54 49.3
+R-HSA-556833 Metabolism of lipids 696 27 1.9 3.57 0.00089 0.031 2.08 1.33 3.16
+R-HSA-2426168 Activation of gene expression by SREBF (SREBP) 42 5 5.84 4.54 0.0015 0.039 6.63 2.01 17.2
+R-HSA-421270 Cell-cell junction organization 43 5 5.71 4.46 0.0017 0.039 6.46 1.96 16.7
+R-HSA-163560 Triglyceride catabolism 13 3 11.3 5.37 0.002 0.04 14.6 2.56 57.3
+R-HSA-1655829 Regulation of cholesterol biosynthesis by SREBP (SREBF) 47 5 5.22 4.18 0.0026 0.044 5.84 1.78 15

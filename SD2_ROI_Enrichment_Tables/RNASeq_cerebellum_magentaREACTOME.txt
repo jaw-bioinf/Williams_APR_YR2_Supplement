@@ -1,0 +1,94 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-500792	GPCR ligand binding	419	54	3.33	9.79	2.5e-15	7.5e-13	4.11	2.97	5.61
+R-HSA-112316	Neuronal System	356	48	3.49	9.59	1.8e-14	2.7e-12	4.28	3.03	5.95
+R-HSA-375276	Peptide ligand-binding receptors	187	33	4.57	9.87	1.5e-13	1.1e-11	5.73	3.75	8.54
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	44	3.56	9.32	1.2e-13	1.1e-11	4.34	3.03	6.11
+R-HSA-8875878	MET promotes cell motility	41	12	7.57	8.46	2.7e-08	1.4e-06	10.6	4.88	21.6
+R-HSA-416476	G alpha (q) signalling events	207	27	3.37	6.92	2.6e-08	1.4e-06	3.93	2.49	6.01
+R-HSA-418594	G alpha (i) signalling events	362	37	2.64	6.39	5.3e-08	2.3e-06	3.02	2.06	4.34
+R-HSA-8874081	MET activates PTK2 signaling	30	10	8.62	8.39	1e-07	3.8e-06	12.7	5.28	28.7
+R-HSA-1296071	Potassium Channels	99	16	4.18	6.38	1.1e-06	3.7e-05	4.96	2.68	8.64
+R-HSA-6806834	Signaling by MET	79	14	4.59	6.41	1.7e-06	4.4e-05	5.52	2.83	10
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	20	3.36	5.92	1.8e-06	4.4e-05	3.86	2.26	6.29
+R-HSA-112315	Transmission across Chemical Synapses	224	25	2.89	5.73	1.7e-06	4.4e-05	3.27	2.04	5.05
+R-HSA-372790	Signaling by GPCR	1118	74	1.71	5.07	1.9e-06	4.4e-05	1.94	1.48	2.53
+R-HSA-977443	GABA receptor activation	55	11	5.17	6.22	6.4e-06	0.00013	6.37	2.94	12.7
+R-HSA-388396	GPCR downstream signalling	1091	71	1.68	4.8	5.8e-06	0.00013	1.9	1.43	2.48
+R-HSA-202040	G-protein activation	28	8	7.39	6.79	7.3e-06	0.00014	10.1	3.83	24.2
+R-HSA-418597	G alpha (z) signalling events	30	8	6.9	6.49	1.3e-05	0.00022	9.21	3.52	21.6
+R-HSA-6794362	Protein-protein interactions at synapses	70	12	4.44	5.78	1.3e-05	0.00022	5.28	2.56	10
+R-HSA-400042	Adrenaline,noradrenaline inhibits insulin secretion	23	7	7.87	6.62	1.7e-05	0.00028	11.1	3.82	28.6
+R-HSA-111885	Opioid Signalling	74	12	4.2	5.53	2.3e-05	0.00036	4.94	2.4	9.35
+R-HSA-375280	Amine ligand-binding receptors	42	9	5.54	5.92	2.5e-05	0.00037	6.92	2.89	14.9
+R-HSA-1296072	Voltage gated Potassium channels	43	9	5.42	5.82	3.1e-05	0.00043	6.71	2.81	14.4
+R-HSA-8948216	Collagen chain trimerization	44	9	5.29	5.72	3.7e-05	5e-04	6.52	2.74	14
+R-HSA-3000178	ECM proteoglycans	50	9	4.66	5.2	0.00011	0.0014	5.56	2.36	11.7
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	36	1.91	4.14	0.00013	0.0016	2.09	1.42	2.99
+R-HSA-392170	ADP signalling through P2Y purinoceptor 12	22	6	7.06	5.7	0.00014	0.0017	9.45	3.01	25.6
+R-HSA-1474244	Extracellular matrix organization	278	24	2.23	4.18	0.00019	0.0022	2.44	1.51	3.77
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	7	5.49	5.18	0.00022	0.0023	6.8	2.48	16.2
+R-HSA-4086398	Ca2+ pathway	55	9	4.23	4.82	0.00023	0.0023	4.96	2.12	10.3
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	10	3.86	4.71	0.00023	0.0023	4.45	2.01	8.88
+R-HSA-1296041	Activation of G protein gated Potassium channels	25	6	6.21	5.23	3e-04	0.0028	7.96	2.59	20.9
+R-HSA-1296059	G protein gated Potassium channels	25	6	6.21	5.23	3e-04	0.0028	7.96	2.59	20.9
+R-HSA-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	25	6	6.21	5.23	3e-04	0.0028	7.96	2.59	20.9
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	36	7	5.03	4.86	0.00039	0.0035	6.09	2.24	14.3
+R-HSA-392851	Prostacyclin signalling through prostacyclin receptor	19	5	6.81	5.08	0.00062	0.0053	8.98	2.52	26.6
+R-HSA-977444	GABA B receptor activation	39	7	4.64	4.57	0.00064	0.0053	5.52	2.04	12.8
+R-HSA-991365	Activation of GABAB receptors	39	7	4.64	4.57	0.00064	0.0053	5.52	2.04	12.8
+R-HSA-1474290	Collagen formation	90	11	3.16	4.13	0.00067	0.0054	3.53	1.68	6.75
+R-HSA-388844	Receptor-type tyrosine-protein phosphatases	20	5	6.47	4.91	0.00081	0.0059	8.38	2.37	24.4
+R-HSA-418217	G beta:gamma signalling through PLC beta	20	5	6.47	4.91	0.00081	0.0059	8.38	2.37	24.4
+R-HSA-1442490	Collagen degradation	52	8	3.98	4.32	0.00078	0.0059	4.6	1.86	9.96
+R-HSA-76002	Platelet activation, signaling and aggregation	271	22	2.1	3.68	0.00081	0.0059	2.27	1.38	3.57
+R-HSA-390666	Serotonin receptors	12	4	8.62	5.3	0.00085	0.006	12.5	2.75	47
+R-HSA-419037	NCAM1 interactions	21	5	6.16	4.75	0.001	0.0069	7.86	2.24	22.6
+R-HSA-500657	Presynaptic function of Kainate receptors	21	5	6.16	4.75	0.001	0.0069	7.86	2.24	22.6
+R-HSA-1296065	Inwardly rectifying K+ channels	31	6	5.01	4.48	0.001	0.0069	6.04	2.02	15.2
+R-HSA-216083	Integrin cell surface interactions	81	10	3.19	3.98	0.0011	0.007	3.57	1.63	7.03
+R-HSA-418457	cGMP effects	13	4	7.96	5.04	0.0012	0.0073	11.2	2.5	40.2
+R-HSA-977441	GABA A receptor activation	13	4	7.96	5.04	0.0012	0.0073	11.2	2.5	40.2
+R-HSA-392518	Signal amplification	32	6	4.85	4.38	0.0012	0.0073	5.81	1.94	14.5
+R-HSA-456926	Thrombin signalling through proteinase activated receptors (PARs)	32	6	4.85	4.38	0.0012	0.0073	5.81	1.94	14.5
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	7	4.21	4.23	0.0012	0.0073	4.9	1.83	11.3
+R-HSA-420092	Glucagon-type ligand receptors	33	6	4.7	4.27	0.0015	0.0084	5.6	1.88	13.9
+R-HSA-428930	Thromboxane signalling through TP receptor	23	5	5.62	4.45	0.0016	0.009	6.98	2.02	19.6
+R-HSA-418592	ADP signalling through P2Y purinoceptor 1	25	5	5.17	4.19	0.0024	0.012	6.28	1.83	17.4
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	8	3.39	3.76	0.0023	0.012	3.81	1.55	8.14
+R-HSA-373080	Class B/2 (Secretin family receptors)	61	8	3.39	3.76	0.0023	0.012	3.81	1.55	8.14
+R-HSA-1474228	Degradation of the extracellular matrix	119	12	2.61	3.54	0.0021	0.012	2.85	1.41	5.24
+R-HSA-392154	Nitric oxide stimulates guanylate cyclase	16	4	6.47	4.39	0.0028	0.014	8.36	1.96	27.8
+R-HSA-5083635	Defective B3GALTL causes Peters-plus syndrome (PpS)	37	6	4.2	3.9	0.0027	0.014	4.87	1.65	11.9
+R-HSA-163685	Integration of energy metabolism	92	10	2.81	3.5	0.0028	0.014	3.09	1.42	6.03
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	6	4.09	3.82	0.0031	0.015	4.72	1.6	11.5
+R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	38	6	4.09	3.82	0.0031	0.015	4.72	1.6	11.5
+R-HSA-264642	Acetylcholine Neurotransmitter Release Cycle	17	4	6.09	4.21	0.0035	0.016	7.72	1.82	25.1
+R-HSA-418346	Platelet homeostasis	79	9	2.95	3.48	0.0033	0.016	3.25	1.42	6.59
+R-HSA-445717	Aquaporin-mediated transport	52	7	3.48	3.6	0.0036	0.017	3.92	1.48	8.83
+R-HSA-422356	Regulation of insulin secretion	66	8	3.14	3.49	0.0037	0.017	3.48	1.43	7.39
+R-HSA-5173105	O-linked glycosylation	112	11	2.54	3.29	0.004	0.018	2.76	1.32	5.21
+R-HSA-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	54	7	3.35	3.48	0.0045	0.02	3.75	1.42	8.43
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	8	3.04	3.39	0.0045	0.02	3.36	1.38	7.13
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	6	3.7	3.51	0.0052	0.022	4.19	1.44	10.1
+R-HSA-193697	p75NTR regulates axonogenesis	10	3	7.76	4.29	0.0056	0.023	10.7	1.78	47.2
+R-HSA-8875656	MET receptor recycling	10	3	7.76	4.29	0.0056	0.023	10.7	1.78	47.2
+R-HSA-2022928	HS-GAG biosynthesis	30	5	4.31	3.64	0.0054	0.023	5.02	1.49	13.5
+R-HSA-390466	Chaperonin-mediated protein folding	43	6	3.61	3.44	0.0058	0.023	4.08	1.4	9.83
+R-HSA-391251	Protein folding	43	6	3.61	3.44	0.0058	0.023	4.08	1.4	9.83
+R-HSA-3928663	EPHA-mediated growth cone collapse	20	4	5.17	3.75	0.0065	0.025	6.27	1.52	19.6
+R-HSA-416482	G alpha (12/13) signalling events	87	9	2.68	3.15	0.0063	0.025	2.91	1.27	5.88
+R-HSA-109582	Hemostasis	608	36	1.53	2.71	0.0068	0.026	1.62	1.11	2.32
+R-HSA-451326	Activation of kainate receptors upon glutamate binding	32	5	4.04	3.46	0.0072	0.027	4.65	1.39	12.3
+R-HSA-8875555	MET activates RAP1 and RAC1	11	3	7.06	4.03	0.0075	0.028	9.39	1.6	39.3
+R-HSA-1630316	Glycosaminoglycan metabolism	122	11	2.33	2.97	0.0075	0.028	2.51	1.21	4.71
+R-HSA-6807004	Negative regulation of MET activity	21	4	4.93	3.61	0.0078	0.029	5.9	1.44	18.2
+R-HSA-4085001	Sialic acid metabolism	33	5	3.92	3.37	0.0082	0.029	4.49	1.34	11.9
+R-HSA-75105	Fatty acyl-CoA biosynthesis	33	5	3.92	3.37	0.0082	0.029	4.49	1.34	11.9
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	6	3.37	3.24	0.0081	0.029	3.77	1.3	9.03
+R-HSA-6785807	Interleukin-4 and 13 signaling	108	10	2.4	2.92	0.0088	0.031	2.58	1.19	5
+R-HSA-6794361	Neurexins and neuroligins	34	5	3.8	3.28	0.0093	0.032	4.33	1.3	11.4
+R-HSA-392451	G beta:gamma signalling through PI3Kgamma	48	6	3.23	3.11	0.01	0.034	3.59	1.24	8.56
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	9	2.48	2.89	0.01	0.035	2.67	1.17	5.37
+R-HSA-422475	Axon guidance	295	20	1.75	2.64	0.01	0.035	1.85	1.1	2.96
+R-HSA-425366	Transport of bile salts and organic acids, metal ions and amine compounds	80	8	2.59	2.86	0.012	0.039	2.8	1.16	5.87
+R-HSA-397795	G-protein beta:gamma signalling	51	6	3.04	2.93	0.013	0.044	3.35	1.16	7.95

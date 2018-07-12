@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000883	Thin ribs	38	6	7.49	5.9	0.00012	0.049	9.37	3.1	23.7
+HP:0002091	Restrictive ventilatory defect	73	8	5.2	5.32	0.00012	0.049	6.28	2.5	13.8
+HP:0002037	Inflammation of the large intestine	58	7	5.72	5.32	0.00018	0.049	6.92	2.56	16.1
+HP:0002815	Abnormality of the knee	226	14	2.94	4.42	2e-04	0.049	3.55	1.8	6.55
+HP:0001671	Abnormality of the cardiac septa	446	21	2.23	4.09	0.00022	0.049	2.81	1.59	4.79

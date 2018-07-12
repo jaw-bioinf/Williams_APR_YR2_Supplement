@@ -1,0 +1,24 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8953854	Metabolism of RNA	646	31	2.58	5.72	8.8e-07	0.00012	3	1.95	4.47
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	9	7.23	7.04	3.7e-06	0.00017	8.56	3.67	17.8
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	17	3.77	6.01	2.6e-06	0.00017	4.27	2.39	7.2
+R-HSA-72163	mRNA Splicing - Major Pathway	183	14	4.12	5.86	7.5e-06	0.00026	4.65	2.44	8.23
+R-HSA-72172	mRNA Splicing	191	14	3.95	5.66	1.2e-05	0.00034	4.44	2.33	7.85
+R-HSA-1474290	Collagen formation	90	9	5.38	5.75	4.2e-05	0.00097	6.12	2.66	12.5
+R-HSA-8948216	Collagen chain trimerization	44	6	7.34	5.8	0.00015	0.0029	8.58	2.93	20.8
+R-HSA-77595	Processing of Intronless Pre-mRNAs	19	4	11.3	6.2	0.00036	0.0062	14.4	3.44	45.7
+R-HSA-75067	Processing of Capped Intronless Pre-mRNA	28	4	7.69	4.88	0.0017	0.026	8.97	2.24	26.5
+R-HSA-432720	Lysosome Vesicle Biogenesis	35	4	6.15	4.2	0.0038	0.035	6.94	1.76	19.9
+R-HSA-429914	Deadenylation-dependent mRNA decay	55	5	4.89	3.98	0.0034	0.035	5.4	1.66	13.7
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer	58	5	4.64	3.83	0.0043	0.035	5.09	1.57	12.9
+R-HSA-2644603	Signaling by NOTCH1 in Cancer	58	5	4.64	3.83	0.0043	0.035	5.09	1.57	12.9
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	58	5	4.64	3.83	0.0043	0.035	5.09	1.57	12.9
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	58	5	4.64	3.83	0.0043	0.035	5.09	1.57	12.9
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	58	5	4.64	3.83	0.0043	0.035	5.09	1.57	12.9
+R-HSA-72187	mRNA 3'-end processing	58	5	4.64	3.83	0.0043	0.035	5.09	1.57	12.9
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	5	4.41	3.68	0.0054	0.041	4.82	1.49	12.1
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	4	5.38	3.82	0.0063	0.045	5.97	1.53	16.9
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	4	5.25	3.75	0.0068	0.047	5.81	1.49	16.4
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	5	4.02	3.41	0.008	0.048	4.35	1.35	10.9
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	5	4.02	3.41	0.008	0.048	4.35	1.35	10.9
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	7	3.06	3.17	0.0079	0.048	3.27	1.27	7.1

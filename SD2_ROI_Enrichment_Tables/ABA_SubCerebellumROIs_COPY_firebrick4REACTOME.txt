@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	5	6.26	4.76	0.0011	0.015	7.11	2.16	18.4
+R-HSA-446203	Asparagine N-linked glycosylation	299	6	4.67	4.23	0.0016	0.015	5.35	1.83	12.9
+R-HSA-199991	Membrane Trafficking	599	9	3.5	4.14	0.00083	0.015	4.21	1.77	9.01
+R-HSA-5653656	Vesicle-mediated transport	631	9	3.32	3.96	0.0012	0.015	3.98	1.67	8.51
+R-HSA-392499	Metabolism of proteins	1907	17	2.08	3.43	0.0014	0.015	2.79	1.42	5.36
+R-HSA-199977	ER to Golgi Anterograde Transport	155	4	6.01	4.13	0.0043	0.031	6.67	1.71	18.8
+R-HSA-8953897	Cellular responses to external stimuli	493	7	3.31	3.45	0.0046	0.031	3.79	1.42	8.7
+R-HSA-5632684	Hedgehog 'on' state	85	3	8.22	4.39	0.0057	0.033	9.04	1.75	29.3
+R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	92	3	7.59	4.17	0.0071	0.033	8.32	1.62	26.9
+R-HSA-975155	MyD88 dependent cascade initiated on endosome	92	3	7.59	4.17	0.0071	0.033	8.32	1.62	26.9
+R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	96	3	7.28	4.06	0.008	0.034	7.96	1.55	25.7
+R-HSA-2262752	Cellular responses to stress	425	6	3.29	3.16	0.0091	0.035	3.7	1.27	8.9
+R-HSA-597592	Post-translational protein modification	1353	12	2.07	2.77	0.0096	0.035	2.49	1.16	5
+R-HSA-983705	Signaling by the B Cell Receptor (BCR)	108	3	6.47	3.75	0.011	0.037	7.04	1.37	22.7
+R-HSA-5663205	Infectious disease	326	5	3.57	3.1	0.012	0.039	3.95	1.21	10.2
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	126	3	5.54	3.37	0.017	0.049	6	1.17	19.2
+R-HSA-8951664	Neddylation	235	4	3.96	3.02	0.018	0.049	4.32	1.11	12.1

@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001117	absent gametes	193	31	2.33	5.08	7.7e-06	0.0085	2.66	1.74	3.97
+MP:0004806	absent germ cells	204	32	2.27	5.01	9.1e-06	0.0085	2.59	1.7	3.83
+MP:0000358	abnormal cell morphology	1156	117	1.47	4.62	7.1e-06	0.0085	1.64	1.31	2.03
+MP:0002209	decreased germ cell number	466	56	1.74	4.48	2.6e-05	0.018	1.92	1.41	2.58
+MP:0005159	azoospermia	182	28	2.23	4.56	4.7e-05	0.026	2.52	1.61	3.83
+MP:0004901	decreased male germ cell number	413	50	1.76	4.27	6e-05	0.027	1.93	1.39	2.64
+MP:0002673	abnormal sperm number	404	49	1.76	4.24	6.7e-05	0.027	1.93	1.39	2.65
+MP:0001732	postnatal growth retardation	974	97	1.44	3.99	9.3e-05	0.033	1.58	1.25	1.99
+MP:0001731	abnormal postnatal growth	999	98	1.42	3.85	0.00015	0.047	1.55	1.23	1.95
+MP:0000688	lymphoid hyperplasia	31	9	4.21	4.87	0.00017	0.048	5.58	2.25	12.7

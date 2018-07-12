@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-382551	Transport of small molecules	705	110	1.49	4.6	8.5e-06	0.0065	1.65	1.32	2.04
+R-HSA-425393	Transport of inorganic cations/anions and amino acids/oligopeptides	108	26	2.3	4.63	3.7e-05	0.014	2.75	1.69	4.34
+R-HSA-2514859	Inactivation, recovery and regulation of the phototransduction cascade	33	12	3.47	4.86	7.2e-05	0.019	4.92	2.2	10.5
+R-HSA-2514856	The phototransduction cascade	34	12	3.37	4.73	1e-04	0.019	4.7	2.11	9.95
+R-HSA-425407	SLC-mediated transmembrane transport	241	44	1.74	3.99	0.00016	0.025	1.95	1.36	2.73
+R-HSA-556833	Metabolism of lipids	696	101	1.38	3.59	0.00035	0.045	1.5	1.19	1.87

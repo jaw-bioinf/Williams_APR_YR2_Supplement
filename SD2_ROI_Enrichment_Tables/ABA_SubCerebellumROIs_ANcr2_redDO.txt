@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:11077	brucellosis	41	10	9.03	8.59	8.8e-08	3.1e-05	12.2	5.25	26
+DOID:2987	familial Mediterranean fever	27	7	9.6	7.46	5.3e-06	0.00092	13	4.6	32.6
+DOID:1123	spondyloarthropathy	76	8	3.9	4.23	0.00095	0.043	4.38	1.79	9.31
+DOID:16	integumentary system disease	595	30	1.87	3.69	0.00057	0.043	2.09	1.35	3.13
+DOID:104	bacterial infectious disease	250	16	2.37	3.68	0.0011	0.043	2.6	1.43	4.43
+DOID:1793	pancreatic cancer	228	15	2.44	3.67	0.0012	0.043	2.67	1.44	4.63
+DOID:4905	pancreatic carcinoma	228	15	2.44	3.67	0.0012	0.043	2.67	1.44	4.63
+DOID:417	hypersensitivity reaction type II disease	730	34	1.73	3.45	0.00098	0.043	1.93	1.28	2.83
+DOID:848	arthritis	649	31	1.77	3.43	0.0011	0.043	1.97	1.28	2.93
+DOID:37	skin disease	571	28	1.82	3.39	0.0013	0.043	2.01	1.28	3.05
+DOID:3342	bone inflammation disease	686	32	1.73	3.34	0.0014	0.043	1.92	1.26	2.85
+DOID:2914	immune system disease	987	42	1.58	3.25	0.0015	0.043	1.77	1.22	2.53

@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0485	176	126	9	0.071	0.051	KEGG:05152	keg	9	Tuberculosis	1	LSP1,H2-AA,H2-DMB2,CAMP,ATP6V0A4,BCL2,FCGR3,H2-EB1,IFNA4
+2	1	TRUE	0.013	78	126	7	0.056	0.09	KEGG:05416	keg	4	Viral myocarditis	1	CAV1,H2-M3,SGCG,H2-AA,H2-DMB2,H2-T22,H2-EB1
+3	1	TRUE	0.017	23	126	4	0.032	0.174	KEGG:05310	keg	6	Asthma	1	IL4,H2-AA,H2-DMB2,H2-EB1
+4	1	TRUE	0.0292	71	126	6	0.048	0.085	KEGG:04924	keg	8	Renin secretion	1	PLCB3,AGT,PTGER2,ITPR3,ADRB2,ACE3
+5	1	TRUE	0.013	70	126	7	0.056	0.1	KEGG:05320	keg	5	Autoimmune thyroid disease	1	IL4,H2-M3,H2-AA,H2-DMB2,H2-T22,H2-EB1,IFNA4
+6	1	TRUE	0.0485	56	126	5	0.04	0.089	KEGG:05332	keg	2	Graft-versus-host disease	1	H2-M3,H2-AA,H2-DMB2,H2-T22,H2-EB1
+7	1	TRUE	0.017	87	126	7	0.056	0.08	KEGG:04610	keg	3	Complement and coagulation cascades	1	MBL2,C4BP,F3,A2M,F10,CD59A,SERPINA1A
+8	1	TRUE	0.013	54	126	6	0.048	0.111	KEGG:05330	keg	7	Allograft rejection	1	IL4,H2-M3,H2-AA,H2-DMB2,H2-T22,H2-EB1
+9	1	TRUE	0.013	50	126	6	0.048	0.12	KEGG:05150	keg	10	Staphylococcus aureus infection	1	MBL2,H2-AA,H2-DMB2,FPR1,FCGR3,H2-EB1

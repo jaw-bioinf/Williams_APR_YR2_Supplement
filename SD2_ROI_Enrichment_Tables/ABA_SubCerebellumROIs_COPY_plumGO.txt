@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0404	11	3	1	0.333	0.091	CORUM:1001	cor	3	DNA synthesome complex	1	PRIM1
+2	1	TRUE	0.0207	4	3	1	0.333	0.25	CORUM:6454	cor	2	Zipzap/p200-Srf-p49/STRAP-Nkx2.5 complex	1	SRF
+3	1	TRUE	0.0207	4	3	1	0.333	0.25	CORUM:47	cor	5	DNA polymerase alpha-primase complex	1	PRIM1
+4	1	TRUE	0.0404	11	3	1	0.333	0.091	CORUM:538	cor	7	Cytochrome c oxidase, mitochondrial	1	COX8A
+5	1	TRUE	0.0207	4	3	1	0.333	0.25	CORUM:1110	cor	4	DNA polymerase alpha-primase complex	1	PRIM1
+6	1	TRUE	0.0207	3	3	1	0.333	0.333	CORUM:106	cor	1	Srf-myogenin-E12 complex	1	SRF
+7	1	TRUE	0.0207	3	3	1	0.333	0.333	CORUM:5452	cor	9	Foxo4-Srf-Myocd complex	1	SRF
+8	1	TRUE	0.0396	51	25	3	0.12	0.059	REAC:R-MMU-383280	rea	8	Nuclear Receptor transcription pathway	1	PPARG,NR2F6,NR1H2

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3700989	Transcriptional Regulation by TP53	365	3	5.88	3.55	0.013	0.04	7.26	1.29	27.6
+R-HSA-556833	Metabolism of lipids	696	4	4.11	3.18	0.013	0.04	5.38	1.23	18.7

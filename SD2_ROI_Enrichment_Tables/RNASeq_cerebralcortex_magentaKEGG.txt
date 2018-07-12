@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00071	Fatty acid degradation	44	9	4.02	4.65	3e-04	0.031	4.9	2.05	10.5
+path:hsa00410	beta-Alanine metabolism	31	7	4.44	4.44	0.00075	0.031	5.53	2	13.4
+path:hsa00640	Propanoate metabolism	32	7	4.3	4.33	0.00092	0.031	5.31	1.93	12.7
+path:hsa00280	Valine, leucine and isoleucine degradation	48	9	3.69	4.32	0.00059	0.031	4.39	1.86	9.32
+path:hsa00380	Tryptophan metabolism	40	8	3.93	4.3	0.00076	0.031	4.75	1.88	10.6
+path:hsa04024	cAMP signaling pathway	198	21	2.08	3.59	0.001	0.031	2.29	1.37	3.68
+path:hsa00062	Fatty acid elongation	25	6	4.72	4.31	0.0013	0.033	5.98	1.94	15.7
+path:hsa00250	Alanine, aspartate and glutamate metabolism	35	7	3.93	4.03	0.0016	0.036	4.74	1.73	11.2

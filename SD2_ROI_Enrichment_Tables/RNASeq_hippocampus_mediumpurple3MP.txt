@@ -1,0 +1,36 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003122	maternal imprinting	25	5	29.9	11.9	5.4e-07	0.00026	40.2	11.4	115
+MP:0003121	genetic imprinting	47	5	15.9	8.41	1.4e-05	0.003	19.1	5.7	50.8
+MP:0003635	abnormal synaptic transmission	740	16	3.24	5.2	1.9e-05	0.003	4.08	2.14	7.38
+MP:0003633	abnormal nervous system physiology	1903	27	2.12	4.51	3.3e-05	0.0039	3.02	1.75	5.15
+MP:0012317	impaired conditioning behavior	107	6	8.39	6.31	7.4e-05	0.0062	9.66	3.33	23.1
+MP:0002206	abnormal CNS synaptic transmission	653	14	3.21	4.8	7.8e-05	0.0062	3.91	1.98	7.27
+MP:0003477	abnormal nerve fiber response	20	3	22.4	7.88	3e-04	0.014	27.4	5.02	98.6
+MP:0009907	decreased tongue size	21	3	21.4	7.67	0.00035	0.014	25.9	4.77	92.4
+MP:0009456	impaired cued conditioning behavior	48	4	12.5	6.54	0.00028	0.014	14.4	3.63	41.4
+MP:0012167	abnormal epigenetic regulation of gene expression	89	5	8.41	5.76	0.00031	0.014	9.53	2.91	24.4
+MP:0013545	cleft hard palate	91	5	8.22	5.68	0.00034	0.014	9.31	2.84	23.9
+MP:0006009	abnormal neuronal migration	137	6	6.55	5.37	0.00029	0.014	7.43	2.57	17.6
+MP:0004811	abnormal neuron physiology	667	13	2.92	4.21	0.00038	0.014	3.47	1.72	6.54
+MP:0009890	cleft secondary palate	157	6	5.72	4.89	6e-04	0.019	6.43	2.23	15.2
+MP:0020167	abnormal vertical activity	222	7	4.72	4.6	0.00066	0.019	5.33	2.02	11.9
+MP:0000111	cleft palate	287	8	4.17	4.48	6e-04	0.019	4.75	1.93	10.2
+MP:0001454	abnormal cued conditioning behavior	115	5	6.51	4.87	0.00099	0.026	7.26	2.23	18.5
+MP:0009655	abnormal secondary palate development	118	5	6.34	4.79	0.0011	0.026	7.06	2.17	18
+MP:0003755	abnormal palate morphology	315	8	3.8	4.15	0.0011	0.026	4.3	1.75	9.19
+MP:0002115	abnormal limb bone morphology	472	10	3.17	3.97	0.001	0.026	3.64	1.64	7.31
+MP:0009653	abnormal palate development	121	5	6.18	4.71	0.0012	0.027	6.88	2.11	17.5
+MP:0013550	abnormal secondary palate morphology	179	6	5.02	4.45	0.0012	0.027	5.6	1.94	13.2
+MP:0009887	abnormal palatal shelf fusion at midline	73	4	8.2	5.07	0.0014	0.028	9.14	2.34	25.7
+MP:0003756	abnormal hard palate morphology	125	5	5.99	4.6	0.0014	0.028	6.65	2.04	16.9
+MP:0001716	abnormal placenta labyrinth morphology	187	6	4.8	4.31	0.0015	0.028	5.35	1.86	12.6
+MP:0002272	abnormal nervous system electrophysiology	339	8	3.53	3.89	0.0018	0.031	3.98	1.62	8.5
+MP:0011086	postnatal lethality, incomplete penetrance	786	13	2.48	3.55	0.0018	0.031	2.9	1.44	5.45
+MP:0004101	abnormal brain interneuron morphology	42	3	10.7	5.16	0.0027	0.043	12	2.3	39.3
+MP:0002945	abnormal inhibitory postsynaptic currents	87	4	6.88	4.52	0.0027	0.043	7.58	1.95	21.2
+MP:0005394	taste/olfaction phenotype	146	5	5.13	4.12	0.0028	0.043	5.64	1.74	14.3
+MP:0011504	abnormal limb long bone morphology	450	9	2.99	3.55	0.0028	0.043	3.38	1.46	6.97
+MP:0002062	abnormal associative learning	290	7	3.61	3.71	0.0031	0.045	4.02	1.53	8.95
+MP:0009885	abnormal palatal shelf elevation	45	3	9.98	4.95	0.0033	0.047	11.1	2.14	36.3
+MP:0009745	abnormal behavioral response to xenobiotic	295	7	3.55	3.65	0.0034	0.047	3.94	1.5	8.79
+MP:0002069	abnormal consumption behavior	655	11	2.51	3.29	0.0037	0.05	2.87	1.34	5.61

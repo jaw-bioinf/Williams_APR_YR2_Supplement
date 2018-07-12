@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:974	upper respiratory tract disease	123	35	1.94	4.35	5.4e-05	0.029	2.36	1.54	3.55
+DOID:2825	nose disease	106	31	1.99	4.27	8.1e-05	0.029	2.44	1.55	3.78
+DOID:5426	premature ovarian failure	40	15	2.55	4.09	0.00031	0.047	3.52	1.72	6.97
+DOID:2163	nasal cavity disease	100	28	1.91	3.79	0.00039	0.047	2.29	1.42	3.62
+DOID:4483	rhinitis	100	28	1.91	3.79	0.00039	0.047	2.29	1.42	3.62
+DOID:1579	respiratory system disease	691	133	1.31	3.57	0.00033	0.047	1.44	1.17	1.77

@@ -1,0 +1,9 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-75105 Fatty acyl-CoA biosynthesis 33 3 20.7 7.53 0.00039 0.015 24.2 4.55 82.7
+R-HSA-1655829 Regulation of cholesterol biosynthesis by SREBP (SREBF) 47 3 14.5 6.17 0.0011 0.021 16.5 3.15 54.9
+R-HSA-1474228 Degradation of the extracellular matrix 119 4 7.65 4.85 0.0018 0.022 8.56 2.19 24.3
+R-HSA-8957322 Metabolism of steroids 142 4 6.41 4.31 0.0034 0.025 7.12 1.83 20.1
+R-HSA-1643685 Disease 984 11 2.54 3.39 0.0029 0.025 3.08 1.4 6.27
+R-HSA-168249 Innate Immune System 1035 11 2.42 3.2 0.0042 0.026 2.91 1.32 5.93
+R-HSA-8978868 Fatty acid metabolism 168 4 5.42 3.84 0.0062 0.033 5.98 1.54 16.8
+R-HSA-196854 Metabolism of vitamins and cofactors 184 4 4.95 3.59 0.0084 0.039 5.44 1.4 15.3

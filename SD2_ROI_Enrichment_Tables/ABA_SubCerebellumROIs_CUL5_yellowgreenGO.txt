@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:2899	cor	4	PLC-gamma-1-Lab-Blnk complex, BCR stimulated	1	BLNK
+2	1	TRUE	0.00988	4	2	1	0.5	0.25	CORUM:5703	cor	2	Bash-Bnas2/Cmtm3-Btk-Erk2 complex	1	BLNK
+3	1	TRUE	0.00865	2	2	1	0.5	0.5	CORUM:3020	cor	1	Cohesin complex, incomplete (Rec8, Crest/Ss18I1)	1	REC8
+4	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:2900	cor	6	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	BLNK
+5	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:102	cor	7	Meiotic cohesin complex	1	REC8
+6	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:3022	cor	3	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	REC8
+7	1	TRUE	0.00865	3	2	1	0.5	0.333	CORUM:2902	cor	5	Grb2-Lab-Blnk complex, BCR stimulated	1	BLNK

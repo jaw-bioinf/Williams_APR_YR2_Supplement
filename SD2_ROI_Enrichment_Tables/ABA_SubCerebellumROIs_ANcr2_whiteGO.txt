@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0241	2	6	1	0.167	0.5	CORUM:2866	cor	11	TEAD2-YAP DNA-protein complex	1	YAP1
+2	1	TRUE	0.0241	2	6	1	0.167	0.5	CORUM:6677	cor	7	Nphp1-Nphp4-Rpgrip1l complex	1	NPHP4
+3	1	TRUE	0.0304	4	6	1	0.167	0.25	CORUM:3212	cor	5	Pax7-HMT complex	1	PAX7
+4	1	TRUE	0.0241	2	6	1	0.167	0.5	CORUM:2868	cor	4	TEAD3-YAP DNA-protein complex	1	YAP1
+5	1	TRUE	0.0304	4	6	1	0.167	0.25	CORUM:968	cor	1	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPP4
+6	1	TRUE	0.0241	1	6	1	0.167	1	CORUM:2867	cor	9	TEAD1-YAP DNA-protein complex	1	YAP1
+7	1	TRUE	0.0304	4	6	1	0.167	0.25	CORUM:2870	cor	10	TEAD2-multiprotein complex	1	YAP1
+8	1	TRUE	0.0304	3	6	1	0.167	0.333	CORUM:5172	cor	2	Sh3kbp1-Cblb-Egfr complex	1	EGFR
+9	1	TRUE	0.0241	2	6	1	0.167	0.5	CORUM:6673	cor	6	Foxo1-Yap1 complex	1	YAP1
+10	1	TRUE	0.0241	1	6	1	0.167	1	CORUM:2869	cor	3	TEAD4-YAP DNA-protein complex	1	YAP1
+11	1	TRUE	0.0241	2	6	1	0.167	0.5	CORUM:2548	cor	8	Egfr-Grb2-mSos1 complex, EGF stimulated	1	EGFR

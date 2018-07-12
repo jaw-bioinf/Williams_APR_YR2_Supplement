@@ -1,0 +1,21 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0332	4	7	1	0.143	0.25	CORUM:5310	cor	1	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3E
+2	1	TRUE	0.0332	4	7	1	0.143	0.25	CORUM:187	cor	20	Wave-2 complex (Rac-activated)	1	WASF2
+3	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:499	cor	19	Ryk-Wny1 complex	1	RYK
+4	1	TRUE	0.0332	4	7	1	0.143	0.25	CORUM:5311	cor	13	Cd3g-Cd3e-Cd247-Canx complex	1	CD3E
+5	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:2539	cor	12	Lab-Grb2 complex, BCR stimulated	1	LAT2
+6	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:6677	cor	2	Nphp1-Nphp4-Rpgrip1l complex	1	RPGRIP1L
+7	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2902	cor	7	Grb2-Lab-Blnk complex, BCR stimulated	1	LAT2
+8	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:5115	cor	16	Trip(Br1)-Dp1-E2F1 complex	1	TFDP1
+9	1	TRUE	0.0332	4	7	1	0.143	0.25	CORUM:188	cor	8	Wave-2 complex	1	WASF2
+10	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2899	cor	17	PLC-gamma-1-Lab-Blnk complex, BCR stimulated	1	LAT2
+11	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:501	cor	9	Ryk-Dvl1 complex	1	RYK
+12	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:498	cor	11	Ryk-Wny1-Fzd8 complex	1	RYK
+13	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:5309	cor	18	Cd3g-Cd3e complex	1	CD3E
+14	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:5291	cor	14	Cd3e-Nck1-Mink1 complex	1	CD3E
+15	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2900	cor	15	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	LAT2
+16	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:6427	cor	5	Sufu-Mycbp-Gli1 complex	1	MYCBP
+17	1	TRUE	0.0316	1	7	1	0.143	1	CORUM:5296	cor	3	Cd3e homodimer complex	1	CD3E
+18	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:5116	cor	10	Trip(Br2)-Dp1-E2F1 complex	1	TFDP1
+19	1	TRUE	0.0393	5	7	1	0.143	0.2	CORUM:1475	cor	6	S-phase-specific E2F-p107 complex	1	TFDP1
+20	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:500	cor	4	Ryk-Wnt3a complex	1	RYK

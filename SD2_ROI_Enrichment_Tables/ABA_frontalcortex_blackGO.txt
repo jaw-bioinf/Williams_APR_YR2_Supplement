@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0133	2	19	2	0.105	1	CORUM:5192	cor	1	Tiam1-Efnb1-Epha2 complex	1	EPHA2,EFNB1

@@ -1,0 +1,20 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0113 413 27 6 0.222 0.015 GO:0051606 BP 3 detection of stimulus 1 OLFR1318,OLFR284,NOD2,OLFR58,OLFR57,OLFR1314
+2 1 TRUE 0.00508 318 27 6 0.222 0.019 GO:0009593 BP 3 detection of chemical stimulus 2 OLFR1318,OLFR284,NOD2,OLFR58,OLFR57,OLFR1314
+3 1 TRUE 0.0307 342 27 5 0.185 0.015 GO:0050906 BP 3 detection of stimulus involved in sensory perception 2 OLFR1318,OLFR284,OLFR58,OLFR57,OLFR1314
+4 1 TRUE 0.0206 296 27 5 0.185 0.017 GO:0050907 BP 3 detection of chemical stimulus involved in sensory perception 1 OLFR1318,OLFR284,OLFR58,OLFR57,OLFR1314
+5 1 TRUE 0.017 7 2 1 0.5 0.143 CORUM:385 cor 13 Caveolar macromolecular signaling complex, using anti-Cav-3 1 PPP2R1A
+6 1 TRUE 0.013 3 2 1 0.5 0.333 CORUM:5883 cor 10 Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated 1 PPP2R1A
+7 1 TRUE 0.013 4 2 1 0.5 0.25 CORUM:5879 cor 5 Ksr1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated 1 PPP2R1A
+8 1 TRUE 0.013 2 2 1 0.5 0.5 CORUM:5365 cor 1 Ripk2-Nod2 complex 1 NOD2
+9 1 TRUE 0.013 3 2 1 0.5 0.333 CORUM:5881 cor 20 Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated 1 PPP2R1A
+10 1 TRUE 0.013 3 2 1 0.5 0.333 CORUM:5880 cor 16 Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated 1 PPP2R1A
+11 1 TRUE 0.017 7 2 1 0.5 0.143 CORUM:384 cor 12 Caveolar macromolecular signaling complex 1 PPP2R1A
+12 1 TRUE 0.013 4 2 1 0.5 0.25 CORUM:5882 cor 8 Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated 1 PPP2R1A
+13 1 TRUE 0.022 1 2 1 0.5 1 HP:0007758 hp 9 Congenital visual impairment 1 PPP2R1A
+14 1 TRUE 0.022 1 2 1 0.5 1 HP:0006770 hp 19 Clear cell renal cell carcinoma 1 NOD2
+15 1 TRUE 0.022 1 2 1 0.5 1 HP:0001101 hp 6 Iritis 1 NOD2
+16 1 TRUE 0.022 1 2 1 0.5 1 HP:0007813 hp 15 Nongranulomatous uveitis 1 NOD2
+17 1 TRUE 0.022 1 2 1 0.5 1 HP:0025230 hp 17 Tendonitis 1 NOD2
+18 1 TRUE 0.022 1 2 1 0.5 1 HP:0005310 hp 4 Large vessel vasculitis 1 NOD2
+19 1 TRUE 0.022 1 2 1 0.5 1 HP:0007432 hp 18 Intermittent generalized erythematous papular rash 1 NOD2

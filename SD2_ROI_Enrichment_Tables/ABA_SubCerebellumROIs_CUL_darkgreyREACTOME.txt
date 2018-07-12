@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-68962	Activation of the pre-replicative complex	32	3	16.2	6.57	0.00081	0.031	18.6	3.53	63.1
+R-HSA-176187	Activation of ATR in response to replication stress	37	3	14	6.05	0.0012	0.031	15.9	3.03	52.9
+R-HSA-380108	Chemokine receptors bind chemokines	48	3	10.8	5.19	0.0027	0.036	12	2.32	39.2
+R-HSA-2672351	Stimuli-sensing channels	107	4	6.45	4.33	0.0034	0.036	7.08	1.83	19.7
+R-HSA-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	65	3	7.97	4.3	0.0062	0.036	8.7	1.7	28
+R-HSA-6782135	Dual incision in TC-NER	66	3	7.85	4.26	0.0065	0.036	8.56	1.67	27.5
+R-HSA-69206	G1/S Transition	124	4	5.57	3.91	0.0057	0.036	6.07	1.57	16.8
+R-HSA-983712	Ion channel transport	183	5	4.72	3.87	0.004	0.036	5.18	1.6	13.1
+R-HSA-375276	Peptide ligand-binding receptors	187	5	4.62	3.81	0.0044	0.036	5.06	1.56	12.8
+R-HSA-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	79	3	6.56	3.78	0.011	0.041	7.09	1.39	22.6
+R-HSA-69242	S Phase	138	4	5	3.62	0.0082	0.041	5.43	1.41	15
+R-HSA-453279	Mitotic G1-G1/S phases	143	4	4.83	3.52	0.0093	0.041	5.23	1.36	14.5
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	6	3.24	3.1	0.01	0.041	3.54	1.23	8.33
+R-HSA-68874	M/G1 Transition	85	3	6.09	3.6	0.013	0.043	6.56	1.29	20.9
+R-HSA-69002	DNA Replication Pre-Initiation	85	3	6.09	3.6	0.013	0.043	6.56	1.29	20.9

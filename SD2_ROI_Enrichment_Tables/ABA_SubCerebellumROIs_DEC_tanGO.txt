@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0271	3	6	1	0.167	0.333	CORUM:1469	cor	2	E2f5-Rbl2-Hdac1 complex	1	RBL2
+2	1	TRUE	0.000246	2	6	2	0.333	1	CORUM:1782	cor	6	TGF-beta receptor	1	TGFBR1,TGFBR2
+3	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:3888	cor	1	Abcg8-Abcg4 complex	1	ABCG8
+4	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:3741	cor	4	Slp5-Rab27A complex	1	SYTL5
+5	1	TRUE	0.0227	2	6	1	0.167	0.5	CORUM:3882	cor	3	Abcg5-Abcg8 complex	1	ABCG8

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04728	Dopaminergic synapse	130	4	9.73	5.66	0.00065	0.0032	12.1	2.92	37.8
+path:hsa04371	Apelin signaling pathway	137	4	9.24	5.49	0.00079	0.0032	11.5	2.77	35.8
+path:hsa04920	Adipocytokine signaling pathway	69	3	13.8	6	0.0012	0.0033	16.5	3.05	58.5
+path:hsa04727	GABAergic synapse	88	3	10.8	5.2	0.0025	0.005	12.8	2.37	45
+path:hsa04724	Glutamatergic synapse	114	3	8.33	4.44	0.0052	0.0084	9.77	1.82	34.2
+path:hsa04530	Tight junction	170	3	5.58	3.41	0.016	0.021	6.44	1.2	22.4

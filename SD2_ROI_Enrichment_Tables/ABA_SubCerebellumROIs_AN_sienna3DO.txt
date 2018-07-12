@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9588	encephalitis	50	4	9.33	5.5	0.00084	0.028	10.7	2.7	30.8
+DOID:5419	schizophrenia	635	14	2.57	3.86	0.00075	0.028	3.1	1.56	5.77
+DOID:2468	psychotic disorder	637	14	2.56	3.85	0.00077	0.028	3.09	1.56	5.75
+DOID:8566	herpes simplex	94	5	6.21	4.72	0.0012	0.03	6.99	2.13	17.9

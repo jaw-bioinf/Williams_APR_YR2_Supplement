@@ -1,0 +1,69 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002714	Downturned corners of mouth	106	22	3.09	5.86	1.2e-06	0.0011	3.9	2.28	6.45
+HP:0100851	Abnormal emotion/affect behavior	484	60	1.84	5.37	5.6e-07	0.0011	2.29	1.65	3.15
+HP:0002172	Postural instability	31	11	5.28	6.42	2.6e-06	0.0012	7.94	3.39	17.6
+HP:0003808	Abnormal muscle tone	1269	119	1.39	4.72	2.4e-06	0.0012	1.88	1.43	2.47
+HP:0011338	Abnormality of mouth shape	235	35	2.22	5.18	3.6e-06	0.0014	2.68	1.76	3.97
+HP:0200055	Small hand	83	18	3.23	5.51	6e-06	0.0016	4.07	2.23	7.1
+HP:0000009	Functional abnormality of the bladder	219	33	2.24	5.09	5.5e-06	0.0016	2.7	1.76	4.04
+HP:0001317	Abnormality of the cerebellum	874	88	1.5	4.56	8.2e-06	0.0017	1.88	1.41	2.5
+HP:0011282	Abnormality of hindbrain morphology	889	89	1.49	4.53	9e-06	0.0017	1.87	1.4	2.48
+HP:0011283	Abnormality of the metencephalon	889	89	1.49	4.53	9e-06	0.0017	1.87	1.4	2.48
+HP:0200134	Epileptic encephalopathy	64	15	3.49	5.39	1.4e-05	0.0021	4.46	2.29	8.25
+HP:0001252	Muscular hypotonia	1058	101	1.42	4.39	1.4e-05	0.0021	1.81	1.37	2.39
+HP:0002067	Bradykinesia	65	15	3.43	5.31	1.7e-05	0.0024	4.37	2.24	8.07
+HP:0002360	Sleep disturbance	232	33	2.12	4.72	1.9e-05	0.0026	2.51	1.64	3.76
+HP:0012443	Abnormality of brain morphology	1687	144	1.27	4.12	2.4e-05	0.003	1.76	1.33	2.33
+HP:0000729	Autistic behavior	225	32	2.12	4.64	2.6e-05	0.0031	2.5	1.62	3.77
+HP:0001249	Intellectual disability	1135	105	1.38	4.13	3.6e-05	0.0039	1.75	1.32	2.3
+HP:0000014	Abnormality of the bladder	255	34	1.98	4.38	5.8e-05	0.0056	2.32	1.53	3.45
+HP:0000708	Behavioral abnormality	997	94	1.4	4.03	6e-05	0.0056	1.74	1.31	2.3
+HP:0100022	Abnormality of movement	1159	106	1.36	4.02	5.4e-05	0.0056	1.72	1.3	2.26
+HP:0001300	Parkinsonism	73	15	3.06	4.77	7.1e-05	0.0063	3.76	1.95	6.86
+HP:0006919	Abnormal aggressive, impulsive or violent behavior	249	33	1.97	4.27	8.5e-05	0.0072	2.3	1.5	3.43
+HP:0025270	Abnormality of esophagus physiology	301	37	1.83	4.03	0.00015	0.013	2.12	1.42	3.1
+HP:0002020	Gastroesophageal reflux	107	18	2.5	4.24	0.00021	0.015	2.95	1.64	5.05
+HP:0002019	Constipation	228	30	1.96	4.01	0.00021	0.015	2.26	1.45	3.43
+HP:0001250	Seizures	1138	102	1.33	3.67	0.00021	0.015	1.64	1.24	2.17
+HP:0001251	Ataxia	546	57	1.55	3.77	0.00024	0.016	1.81	1.3	2.5
+HP:0011804	Abnormality of muscle physiology	1558	131	1.25	3.56	0.00025	0.016	1.61	1.23	2.13
+HP:0002011	Morphological abnormality of the central nervous system	1825	149	1.21	3.55	0.00023	0.016	1.63	1.23	2.17
+HP:0002362	Shuffling gait	16	6	5.58	4.93	0.00039	0.022	8.5	2.52	26.1
+HP:0000076	Vesicoureteral reflux	93	16	2.56	4.09	0.00037	0.022	3.02	1.62	5.33
+HP:0002063	Rigidity	103	17	2.45	4.02	0.00041	0.022	2.88	1.57	4.98
+HP:0002553	Highly arched eyebrow	113	18	2.37	3.97	0.00043	0.022	2.76	1.54	4.71
+HP:0002167	Neurological speech impairment	785	75	1.42	3.59	0.00035	0.022	1.68	1.25	2.26
+HP:0002060	Abnormality of the cerebrum	1167	103	1.31	3.51	0.00036	0.022	1.61	1.22	2.12
+HP:0100547	Abnormality of forebrain morphology	1170	103	1.31	3.48	0.00041	0.022	1.6	1.21	2.11
+HP:0011442	Abnormality of central motor function	1241	108	1.29	3.46	0.00042	0.022	1.59	1.21	2.1
+HP:0100543	Cognitive impairment	1131	100	1.32	3.45	0.00045	0.022	1.6	1.21	2.11
+HP:0000687	Widely spaced teeth	52	11	3.15	4.19	0.00052	0.023	3.85	1.76	7.76
+HP:0000717	Autism	175	24	2.04	3.79	0.00051	0.023	2.34	1.42	3.71
+HP:0011443	Abnormality of coordination	663	65	1.46	3.52	0.00049	0.023	1.7	1.24	2.31
+HP:0004305	Involuntary movements	664	65	1.46	3.5	0.00052	0.023	1.7	1.24	2.3
+HP:0000378	Cupped ear	45	10	3.31	4.18	0.00061	0.026	4.09	1.78	8.58
+HP:0000574	Thick eyebrow	97	16	2.45	3.9	6e-04	0.026	2.87	1.54	5.04
+HP:0002071	Abnormality of extrapyramidal motor function	178	24	2.01	3.7	0.00065	0.027	2.29	1.39	3.63
+HP:0000735	Impaired social interactions	71	13	2.72	3.94	0.00071	0.029	3.23	1.6	6.08
+HP:0000066	Labial hypoplasia	31	8	3.84	4.26	0.00075	0.03	4.95	1.89	11.6
+HP:0012759	Neurodevelopmental abnormality	1623	133	1.22	3.23	8e-04	0.031	1.55	1.17	2.04
+HP:0000059	Hypoplastic labia majora	25	7	4.16	4.26	0.00096	0.035	5.52	1.93	14
+HP:0012815	Hypoplastic female external genitalia	32	8	3.72	4.15	0.00095	0.035	4.75	1.82	11.1
+HP:0012433	Abnormal social behavior	73	13	2.65	3.82	0.00094	0.035	3.12	1.55	5.86
+HP:0100716	Self-injurious behavior	122	18	2.19	3.6	0.0011	0.039	2.52	1.41	4.27
+HP:0000490	Deeply set eye	195	25	1.91	3.5	0.0011	0.039	2.16	1.33	3.39
+HP:0012881	Abnormality of the labia majora	26	7	4	4.13	0.0012	0.041	5.23	1.84	13.2
+HP:0000400	Macrotia	186	24	1.92	3.46	0.0012	0.041	2.17	1.32	3.44
+HP:0012639	Abnormality of nervous system morphology	2000	157	1.17	3.07	0.0012	0.041	1.54	1.16	2.07
+HP:0010864	Intellectual disability, severe	198	25	1.88	3.41	0.0013	0.043	2.12	1.31	3.33
+HP:0011138	Abnormality of skin adnexa morphology	968	86	1.32	3.15	0.0013	0.043	1.55	1.17	2.06
+HP:0000817	Poor eye contact	59	11	2.77	3.69	0.0016	0.047	3.28	1.52	6.53
+HP:0001298	Encephalopathy	178	23	1.92	3.39	0.0015	0.047	2.17	1.31	3.47
+HP:0000718	Aggressive behavior	200	25	1.86	3.36	0.0016	0.047	2.1	1.29	3.29
+HP:0011968	Feeding difficulties	510	51	1.49	3.2	0.0015	0.047	1.69	1.2	2.36
+HP:0001276	Hypertonia	626	60	1.43	3.15	0.0016	0.047	1.63	1.18	2.23
+HP:0001822	Hallux valgus	51	10	2.92	3.7	0.0017	0.049	3.49	1.54	7.2
+HP:0010993	Abnormality of the cerebral subcortex	589	57	1.44	3.14	0.0017	0.049	1.64	1.18	2.26
+HP:0000637	Long palpebral fissure	35	8	3.4	3.83	0.0018	0.05	4.22	1.64	9.68
+HP:0030085	Abnormal CSF lactate level	69	12	2.59	3.57	0.0018	0.05	3.02	1.45	5.8
+HP:0002490	Increased CSF lactate	69	12	2.59	3.57	0.0018	0.05	3.02	1.45	5.8

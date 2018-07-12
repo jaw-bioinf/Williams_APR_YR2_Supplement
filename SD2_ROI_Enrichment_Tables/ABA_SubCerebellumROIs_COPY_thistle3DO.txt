@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:4866	salivary gland adenoid cystic carcinoma	38	3	27.6	8.81	0.00016	0.0095	34.9	6.27	129
+DOID:8618	oral cavity cancer	55	3	19.1	7.21	0.00048	0.0095	23.5	4.28	84.7
+DOID:8850	salivary gland cancer	55	3	19.1	7.21	0.00048	0.0095	23.5	4.28	84.7
+DOID:0050904	salivary gland carcinoma	55	3	19.1	7.21	0.00048	0.0095	23.5	4.28	84.7

@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0269	5	4	1	0.25	0.2	CORUM:2793	cor	3	Brd4-Rfc complex	1	RFC2
+2	1	TRUE	0.0269	2	4	1	0.25	0.5	CORUM:2296	cor	6	Abi1-Wasl complex	1	WASL
+3	1	TRUE	0.0269	3	4	1	0.25	0.333	CORUM:6656	cor	5	Nherf1-Fzd4-Vangl2 complex	1	FZD4
+4	1	TRUE	0.0269	5	4	1	0.25	0.2	CORUM:6633	cor	2	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	FBXW8
+5	1	TRUE	0.0364	155	14	5	0.357	0.032	HP:0002981	hp	1	Abnormality of the calf	1	RFC2,CANT1,DDR2,ORC6,SETD2
+6	1	TRUE	0.0444	177	14	5	0.357	0.028	HP:0006504	hp	1	Anomaly of the limb diaphyses	1	RFC2,CANT1,DDR2,ORC6,SETD2
+7	1	TRUE	0.0444	174	14	5	0.357	0.029	HP:0006487	hp	1	Bowing of the long bones	2	RFC2,CANT1,DDR2,ORC6,SETD2
+8	1	TRUE	0.0364	130	14	5	0.357	0.038	HP:0002979	hp	1	Bowing of the legs	3	RFC2,CANT1,DDR2,ORC6,SETD2
+9	1	TRUE	0.0364	32	14	3	0.214	0.094	HP:0002970	hp	1	Genu varum	1	CANT1,ORC6,SETD2
+10	1	TRUE	0.0489	100	14	4	0.286	0.04	HP:0003336	hp	4	Abnormal enchondral ossification	1	CANT1,DDR2,ORC6,SETD2
+11	1	TRUE	0.0364	29	14	3	0.214	0.103	HP:0010660	hp	4	Abnormal hand bone ossification	1	CANT1,DDR2,SETD2
+12	1	TRUE	0.0364	22	14	3	0.214	0.136	HP:0006257	hp	4	Abnormality of carpal bone ossification	2	CANT1,DDR2,SETD2
+13	1	TRUE	0.0364	6	14	2	0.143	0.333	HP:0004233	hp	4	Advanced ossification of carpal bones	3	CANT1,SETD2

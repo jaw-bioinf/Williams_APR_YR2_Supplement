@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04512	ECM-receptor interaction	82	6	13.1	8.28	5e-06	4.5e-05	16.6	5.5	42
+path:hsa04510	Focal adhesion	199	8	7.22	6.67	1e-05	4.6e-05	9.26	3.61	21.1
+path:hsa05205	Proteoglycans in cancer	203	5	4.42	3.71	0.005	0.015	5.06	1.52	13.3
+path:hsa04151	PI3K-Akt signaling pathway	341	6	3.16	3.06	0.011	0.024	3.62	1.23	8.89
+path:hsa05146	Amoebiasis	95	3	5.67	3.43	0.015	0.028	6.24	1.21	20.4
+path:hsa04810	Regulation of actin cytoskeleton	212	4	3.39	2.64	0.029	0.044	3.73	0.951	10.6

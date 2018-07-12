@@ -1,0 +1,101 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001421	Abnormality of the musculature of the hand	44	13	8.86	9.75	7e-10	9.7e-07	13.5	6.3	27.6
+HP:0010486	Abnormality of the hypothenar eminence	15	7	14	9.37	2e-07	3.9e-05	26.8	8.12	86.5
+HP:0030270	Elevated red cell adenosine deaminase activity	15	7	14	9.37	2e-07	3.9e-05	26.8	8.12	86.5
+HP:0010487	Small hypothenar eminence	15	7	14	9.37	2e-07	3.9e-05	26.8	8.12	86.5
+HP:0008437	Bifid thoracic vertebrae	15	7	14	9.37	2e-07	3.9e-05	26.8	8.12	86.5
+HP:0008447	Hypoplastic coccygeal vertebrae	15	7	14	9.37	2e-07	3.9e-05	26.8	8.12	86.5
+HP:0008475	Hypoplastic sacral vertebrae	15	7	14	9.37	2e-07	3.9e-05	26.8	8.12	86.5
+HP:0030272	Abnormal erythrocyte enzyme activity	16	7	13.1	9.03	3.4e-07	5.1e-05	23.8	7.4	73.6
+HP:0006368	Forearm reduction defects	16	7	13.1	9.03	3.4e-07	5.1e-05	23.8	7.4	73.6
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	9	8.71	8.01	4.1e-07	5.1e-05	12.7	5.04	29.6
+HP:0008417	Vertebral hypoplasia	31	9	8.71	8.01	4.1e-07	5.1e-05	12.7	5.04	29.6
+HP:0025065	Abnormal erythrocyte volume	17	7	12.4	8.71	5.6e-07	5.6e-05	21.5	6.8	63.7
+HP:0005518	Increased mean corpuscular volume	17	7	12.4	8.71	5.6e-07	5.6e-05	21.5	6.8	63.7
+HP:0012133	Erythroid hypoplasia	17	7	12.4	8.71	5.6e-07	5.6e-05	21.5	6.8	63.7
+HP:0004590	Hypoplastic sacrum	18	7	11.7	8.42	9e-07	7.8e-05	19.5	6.28	56.4
+HP:0004810	Congenital hypoplastic anemia	18	7	11.7	8.42	9e-07	7.8e-05	19.5	6.28	56.4
+HP:0005321	Mandibulofacial dysostosis	19	7	11.1	8.16	1.4e-06	0.00011	17.9	5.84	50.4
+HP:0001908	Hypoplastic anemia	19	7	11.1	8.16	1.4e-06	0.00011	17.9	5.84	50.4
+HP:0001446	Abnormality of the musculature of the upper limbs	137	17	3.72	6.04	1.8e-06	0.00013	4.63	2.51	8.1
+HP:0001895	Normochromic anemia	20	7	10.5	7.91	2.1e-06	0.00014	16.5	5.46	45.6
+HP:0001897	Normocytic anemia	20	7	10.5	7.91	2.1e-06	0.00014	16.5	5.46	45.6
+HP:0011904	Persistence of hemoglobin F	22	7	9.55	7.47	4.3e-06	0.00027	14.3	4.83	38.1
+HP:0002669	Osteosarcoma	23	7	9.13	7.26	6e-06	0.00032	13.4	4.57	35.3
+HP:0012131	Abnormal number of erythroid precursors	23	7	9.13	7.26	6e-06	0.00032	13.4	4.57	35.3
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	7	9.13	7.26	6e-06	0.00032	13.4	4.57	35.3
+HP:0002697	Parietal foramina	23	7	9.13	7.26	6e-06	0.00032	13.4	4.57	35.3
+HP:0000402	Stenosis of the external auditory canal	32	8	7.5	6.86	6.5e-06	0.00033	10.3	3.9	24.3
+HP:0004439	Craniofacial dysostosis	24	7	8.75	7.07	8.3e-06	0.00039	12.6	4.33	32.8
+HP:0009944	Partial duplication of thumb phalanx	24	7	8.75	7.07	8.3e-06	0.00039	12.6	4.33	32.8
+HP:0009999	Partial duplication of the phalanx of hand	25	7	8.4	6.89	1.1e-05	0.00051	11.9	4.12	30.6
+HP:0000921	Missing ribs	48	9	5.62	5.99	2.1e-05	0.00094	7.16	2.97	15.5
+HP:0012379	Abnormal enzyme/coenzyme activity	103	13	3.79	5.33	2.7e-05	0.0012	4.58	2.28	8.58
+HP:0011902	Abnormal hemoglobin	29	7	7.24	6.27	3.2e-05	0.0014	9.73	3.44	24.2
+HP:0001647	Bicuspid aortic valve	126	14	3.33	4.95	5.7e-05	0.0023	3.98	2.04	7.26
+HP:0001894	Thrombocytosis	32	7	6.56	5.87	6.4e-05	0.0025	8.56	3.06	20.9
+HP:0002696	Abnormality of the parietal bone	32	7	6.56	5.87	6.4e-05	0.0025	8.56	3.06	20.9
+HP:0001896	Reticulocytopenia	33	7	6.36	5.75	7.9e-05	0.003	8.23	2.95	20
+HP:0008518	Aplasia/Hypoplasia involving the vertebral column	57	9	4.74	5.28	8.7e-05	0.0032	5.8	2.44	12.4
+HP:0000878	11 pairs of ribs	35	7	6	5.52	0.00012	0.0042	7.64	2.76	18.4
+HP:0000946	Hypoplastic ilia	61	9	4.43	5.01	0.00015	0.0052	5.35	2.26	11.3
+HP:0001622	Premature birth	123	13	3.17	4.55	0.00018	0.006	3.73	1.86	6.92
+HP:0003003	Colon cancer	38	7	5.53	5.21	2e-04	0.0067	6.89	2.51	16.4
+HP:0000076	Vesicoureteral reflux	93	11	3.55	4.62	0.00021	0.0069	4.19	1.95	8.19
+HP:0000175	Cleft palate	427	28	1.97	3.96	0.00024	0.0076	2.36	1.47	3.7
+HP:0100273	Neoplasm of the colon	52	8	4.62	4.88	0.00026	0.0079	5.58	2.21	12.4
+HP:0000270	Delayed cranial suture closure	95	11	3.47	4.54	0.00026	0.0079	4.08	1.91	7.99
+HP:0100737	Abnormality of the hard palate	430	28	1.95	3.92	0.00027	0.0081	2.34	1.45	3.67
+HP:0009777	Absent thumb	40	7	5.25	5.02	0.00029	0.0082	6.47	2.36	15.3
+HP:0006712	Aplasia/Hypoplasia of the ribs	98	11	3.37	4.41	0.00034	0.0096	3.94	1.84	7.69
+HP:0000776	Congenital diaphragmatic hernia	83	10	3.61	4.48	0.00036	0.0099	4.25	1.9	8.56
+HP:0009127	Abnormality of the musculature of the limbs	266	20	2.26	3.96	0.00039	0.01	2.64	1.52	4.39
+HP:0200006	Slanting of the palpebral fissure	461	29	1.89	3.79	0.00038	0.01	2.26	1.41	3.52
+HP:0001972	Macrocytic anemia	44	7	4.77	4.68	0.00053	0.013	5.76	2.12	13.5
+HP:0000465	Webbed neck	86	10	3.49	4.34	0.00048	0.013	4.08	1.83	8.2
+HP:0002867	Abnormality of the ilium	87	10	3.45	4.29	0.00053	0.013	4.02	1.8	8.09
+HP:0011329	Abnormality of cranial sutures	251	19	2.27	3.88	0.00051	0.013	2.64	1.5	4.44
+HP:0009942	Duplication of thumb phalanx	45	7	4.67	4.6	0.00061	0.014	5.61	2.07	13.1
+HP:0040073	Abnormal morphology of forearm bone	73	9	3.7	4.33	6e-04	0.014	4.33	1.85	9.05
+HP:0001646	Abnormality of the aortic valve	238	18	2.27	3.76	0.00073	0.017	2.62	1.46	4.46
+HP:0000177	Abnormality of upper lip	601	34	1.7	3.49	0.00079	0.018	2.04	1.31	3.11
+HP:0005107	Abnormality of the sacrum	144	13	2.71	3.89	0.00084	0.019	3.11	1.56	5.74
+HP:0000235	Abnormality of the fontanelles or cranial sutures	303	21	2.08	3.65	0.00082	0.019	2.41	1.41	3.97
+HP:0001511	Intrauterine growth retardation	347	23	1.99	3.6	0.00085	0.019	2.32	1.38	3.75
+HP:0009130	Hand muscle atrophy	14	4	8.57	5.27	0.00091	0.02	11.9	2.69	42.3
+HP:0040071	Abnormal morphology of ulna	49	7	4.29	4.3	0.001	0.021	5.07	1.88	11.7
+HP:0003022	Hypoplasia of the ulna	49	7	4.29	4.3	0.001	0.021	5.07	1.88	11.7
+HP:0004312	Abnormality of reticulocytes	63	8	3.81	4.18	0.001	0.021	4.45	1.79	9.7
+HP:0009778	Short thumb	63	8	3.81	4.18	0.001	0.021	4.45	1.79	9.7
+HP:0100627	Displacement of the external urethral meatus	265	19	2.15	3.62	0.001	0.021	2.48	1.41	4.17
+HP:0001263	Global developmental delay	946	47	1.49	3.28	0.0011	0.022	1.86	1.25	2.76
+HP:0100834	Neoplasm of the large intestine	65	8	3.69	4.07	0.0012	0.023	4.29	1.73	9.34
+HP:0000774	Narrow chest	149	13	2.62	3.75	0.0012	0.023	2.99	1.5	5.52
+HP:0008050	Abnormality of the palpebral fissures	566	32	1.7	3.36	0.0012	0.023	2.02	1.28	3.09
+HP:0000086	Ectopic kidney	81	9	3.33	3.94	0.0013	0.024	3.84	1.64	7.98
+HP:0000069	Abnormality of the ureter	190	15	2.37	3.6	0.0014	0.025	2.7	1.43	4.79
+HP:0009129	Upper limb amyotrophy	16	4	7.5	4.84	0.0016	0.027	9.95	2.3	33.5
+HP:0007149	Distal upper limb amyotrophy	16	4	7.5	4.84	0.0016	0.027	9.95	2.3	33.5
+HP:0000775	Abnormality of the diaphragm	99	10	3.03	3.8	0.0015	0.027	3.47	1.56	6.93
+HP:0002076	Migraine	135	12	2.67	3.67	0.0015	0.027	3.04	1.48	5.72
+HP:0000202	Oral cleft	479	28	1.75	3.3	0.0016	0.028	2.05	1.28	3.21
+HP:0000457	Depressed nasal ridge	101	10	2.97	3.73	0.0017	0.029	3.39	1.53	6.76
+HP:0100790	Hernia	365	23	1.89	3.34	0.0017	0.029	2.18	1.3	3.53
+HP:0011800	Midface retrusion	177	14	2.37	3.48	0.002	0.032	2.69	1.39	4.86
+HP:0000795	Abnormality of the urethra	302	20	1.99	3.33	0.002	0.032	2.27	1.31	3.78
+HP:0006495	Aplasia/Hypoplasia of the ulna	55	7	3.82	3.91	0.0021	0.033	4.43	1.65	10.1
+HP:0045009	Abnormal morphology of the radius	87	9	3.1	3.69	0.0021	0.034	3.54	1.52	7.32
+HP:0005257	Thoracic hypoplasia	159	13	2.45	3.48	0.0021	0.034	2.78	1.4	5.11
+HP:0001199	Triphalangeal thumb	56	7	3.75	3.85	0.0023	0.036	4.34	1.62	9.93
+HP:0000772	Abnormality of the ribs	223	16	2.15	3.3	0.0026	0.04	2.44	1.32	4.25
+HP:0000494	Downslanted palpebral fissures	332	21	1.9	3.19	0.0026	0.041	2.17	1.26	3.56
+HP:0030810	Abnormal tongue physiology	58	7	3.62	3.74	0.0028	0.043	4.17	1.56	9.51
+HP:0000036	Abnormality of the penis	522	29	1.67	3.07	0.0029	0.043	1.94	1.21	3.02
+HP:0001547	Abnormality of the rib cage	314	20	1.91	3.14	0.0031	0.046	2.17	1.25	3.61
+HP:0006711	Aplasia/Hypoplasia involving bones of the thorax	147	12	2.45	3.33	0.0032	0.047	2.76	1.35	5.18
+HP:0010668	Abnormality of the zygomatic bone	360	22	1.83	3.1	0.0032	0.047	2.09	1.24	3.41
+HP:0001308	Tongue fasciculations	45	6	4	3.76	0.0034	0.048	4.64	1.57	11.4
+HP:0003312	Abnormal form of the vertebral bodies	229	16	2.1	3.19	0.0034	0.048	2.36	1.28	4.12
+HP:0012759	Neurodevelopmental abnormality	1623	69	1.28	2.81	0.0033	0.048	1.7	1.15	2.53
+HP:0012369	Abnormality of malar bones	340	21	1.85	3.07	0.0035	0.049	2.11	1.23	3.46
+HP:0003573	Increased total bilirubin	10	3	9	4.7	0.0036	0.05	12.7	2.09	56.5

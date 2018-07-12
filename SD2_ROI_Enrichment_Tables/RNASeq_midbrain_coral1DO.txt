@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:15 reproductive system disease 490 3 6.12 3.72 0.0096 0.027 10 1.46 59.5
+DOID:178 vascular disease 1088 4 3.68 3.04 0.014 0.027 7.27 1.23 49.7
+DOID:1287 cardiovascular system disease 1292 4 3.1 2.64 0.025 0.034 5.9 0.998 40.4

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05322	Systemic lupus erythematosus	132	15	8.88	10.4	7.4e-11	1.3e-09	11.8	6.08	21.5
+path:hsa05034	Alcoholism	180	15	6.51	8.54	6e-09	5.4e-08	8.3	4.32	15
+path:hsa04217	Necroptosis	164	8	3.81	4.15	0.0011	0.0067	4.26	1.75	9.03
+path:hsa04972	Pancreatic secretion	96	5	4.07	3.45	0.0075	0.034	4.44	1.37	11.2
+path:hsa04975	Fat digestion and absorption	41	3	5.72	3.45	0.015	0.046	6.27	1.21	20.4
+path:hsa04630	Jak-STAT signaling pathway	156	6	3.01	2.89	0.014	0.046	3.24	1.14	7.55

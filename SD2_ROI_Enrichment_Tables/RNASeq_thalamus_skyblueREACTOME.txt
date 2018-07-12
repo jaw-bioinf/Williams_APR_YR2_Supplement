@@ -1,0 +1,44 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-597592 Post-translational protein modification 1353 41 2.53 6.66 5.8e-09 9.7e-07 3.39 2.26 5.03
+R-HSA-446203 Asparagine N-linked glycosylation 299 17 4.74 7.24 9e-08 7.5e-06 5.62 3.11 9.61
+R-HSA-392499 Metabolism of proteins 1907 47 2.06 5.65 2.1e-07 1.2e-05 2.78 1.88 4.08
+R-HSA-8856688 Golgi-to-ER retrograde transport 134 10 6.23 6.71 4.4e-06 0.00016 7.16 3.26 14.1
+R-HSA-72203 Processing of Capped Intron-Containing Pre-mRNA 243 13 4.46 6.02 6.4e-06 0.00016 5.1 2.59 9.27
+R-HSA-5653656 Vesicle-mediated transport 631 22 2.91 5.46 4.9e-06 0.00016 3.42 2.04 5.52
+R-HSA-199991 Membrane Trafficking 599 21 2.93 5.35 7.6e-06 0.00016 3.42 2.01 5.56
+R-HSA-8953854 Metabolism of RNA 646 22 2.84 5.33 7.1e-06 0.00016 3.33 1.98 5.38
+R-HSA-5696395 Formation of Incision Complex in GG-NER 43 6 11.6 7.7 1.1e-05 0.00021 14 4.74 34.4
+R-HSA-199977 ER to Golgi Anterograde Transport 155 10 5.38 6.06 1.6e-05 0.00027 6.11 2.79 12
+R-HSA-532668 N-glycan trimming in the ER and Calnexin/Calreticulin cycle 35 5 11.9 7.13 5.5e-05 0.00078 14.3 4.25 38.1
+R-HSA-5696398 Nucleotide Excision Repair 111 8 6.01 5.85 5.3e-05 0.00078 6.78 2.79 14.3
+R-HSA-5696399 Global Genome Nucleotide Excision Repair (GG-NER) 84 7 6.95 6.03 6.3e-05 8e-04 7.89 3 17.6
+R-HSA-72163 mRNA Splicing - Major Pathway 183 10 4.56 5.35 6.6e-05 8e-04 5.11 2.34 9.97
+R-HSA-948021 Transport to the Golgi and subsequent modification 186 10 4.49 5.29 7.6e-05 0.00085 5.02 2.3 9.8
+R-HSA-72172 mRNA Splicing 191 10 4.37 5.18 9.5e-05 0.001 4.88 2.24 9.52
+R-HSA-6811442 Intra-Golgi and retrograde Golgi-to-ER traffic 200 10 4.17 4.99 0.00014 0.0014 4.64 2.13 9.05
+R-HSA-6811434 COPI-dependent Golgi-to-ER retrograde traffic 100 7 5.84 5.36 0.00019 0.0018 6.52 2.5 14.4
+R-HSA-111447 Activation of BAD and translocation to mitochondria  12 3 20.9 7.58 0.00034 0.003 28.1 4.83 115
+R-HSA-983169 Class I MHC mediated antigen processing & presentation 365 13 2.97 4.23 0.00042 0.0035 3.29 1.68 5.95
+R-HSA-72187 mRNA 3'-end processing 58 5 7.19 5.21 0.00063 0.005 8.07 2.47 20.6
+R-HSA-109688 Cleavage of Growing Transcript in the Termination Region  67 5 6.23 4.73 0.0012 0.0085 6.89 2.12 17.4
+R-HSA-73856 RNA Polymerase II Transcription Termination 67 5 6.23 4.73 0.0012 0.0085 6.89 2.12 17.4
+R-HSA-983168 Antigen processing: Ubiquitination & Proteasome degradation 310 11 2.96 3.86 0.0012 0.0085 3.24 1.55 6.11
+R-HSA-204005 COPII (Coat Protein 2) Mediated Vesicle Transport 68 5 6.14 4.68 0.0013 0.0086 6.78 2.09 17.1
+R-HSA-6807878 COPI-mediated anterograde transport 102 6 4.91 4.37 0.0014 0.0086 5.37 1.88 12.5
+R-HSA-1280218 Adaptive Immune System 746 19 2.13 3.52 0.0013 0.0086 2.37 1.36 3.92
+R-HSA-159236 Transport of Mature mRNA derived from an Intron-Containing Transcript 74 5 5.64 4.41 0.0019 0.011 6.19 1.91 15.6
+R-HSA-8852135 Protein ubiquitination 77 5 5.42 4.29 0.0023 0.013 5.93 1.83 14.9
+R-HSA-5617833 Cilium Assembly 201 8 3.32 3.66 0.0028 0.016 3.59 1.49 7.46
+R-HSA-5620920 Cargo trafficking to the periciliary membrane 51 4 6.54 4.37 0.0032 0.017 7.22 1.86 20.2
+R-HSA-72202 Transport of Mature Transcript to Cytoplasm 83 5 5.03 4.06 0.0031 0.017 5.47 1.7 13.7
+R-HSA-901042 Calnexin/calreticulin cycle 26 3 9.63 4.85 0.0036 0.018 11 2.08 37.1
+R-HSA-114452 Activation of BH3-only proteins 27 3 9.27 4.74 0.004 0.019 10.5 2 35.4
+R-HSA-3371556 Cellular response to heat stress 88 5 4.74 3.88 0.004 0.019 5.14 1.6 12.8
+R-HSA-1852241 Organelle biogenesis and maintenance 269 9 2.79 3.28 0.005 0.023 3 1.32 6
+R-HSA-69473 G2/M DNA damage checkpoint 94 5 4.44 3.69 0.0053 0.024 4.79 1.49 11.9
+R-HSA-5694530 Cargo concentration in the ER 33 3 7.59 4.17 0.007 0.03 8.42 1.62 27.7
+R-HSA-8873719 RAB geranylgeranylation 64 4 5.22 3.73 0.0072 0.03 5.65 1.47 15.6
+R-HSA-8951664 Neddylation 235 8 2.84 3.14 0.0072 0.03 3.04 1.27 6.3
+R-HSA-3371453 Regulation of HSF1-mediated heat shock response 68 4 4.91 3.56 0.0089 0.036 5.29 1.38 14.6
+R-HSA-5696394 DNA Damage Recognition in GG-NER 38 3 6.59 3.8 0.01 0.042 7.22 1.4 23.4
+R-HSA-109606 Intrinsic Pathway for Apoptosis 40 3 6.26 3.67 0.012 0.047 6.83 1.33 22

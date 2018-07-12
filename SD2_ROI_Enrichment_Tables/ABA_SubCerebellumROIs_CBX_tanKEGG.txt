@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00340	Histidine metabolism	24	6	12.1	7.92	6.8e-06	4e-04	16.5	5.27	44.2
+path:hsa00380	Tryptophan metabolism	40	6	7.27	5.78	0.00015	0.0044	8.71	2.94	21.5
+path:hsa00591	Linoleic acid metabolism	29	5	8.36	5.76	0.00028	0.0054	10.2	3	27.9
+path:hsa00590	Arachidonic acid metabolism	62	6	4.69	4.24	0.0016	0.024	5.27	1.82	12.5

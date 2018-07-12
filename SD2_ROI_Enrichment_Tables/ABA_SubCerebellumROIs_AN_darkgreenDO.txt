@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:3121	gallbladder cancer	50	5	8.86	5.96	0.00023	0.021	10.3	3.11	27
+DOID:4948	gallbladder carcinoma	50	5	8.86	5.96	0.00023	0.021	10.3	3.11	27

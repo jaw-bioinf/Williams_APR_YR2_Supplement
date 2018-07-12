@@ -1,0 +1,49 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001421	Abnormality of the musculature of the hand	44	11	6.31	7.2	6.3e-07	0.00091	8.68	3.87	18.1
+HP:0004810	Congenital hypoplastic anemia	18	7	9.82	7.62	2.9e-06	0.0021	16.2	5.22	46.5
+HP:0001908	Hypoplastic anemia	19	7	9.3	7.37	4.4e-06	0.0021	14.8	4.86	41.6
+HP:0010486	Abnormality of the hypothenar eminence	15	6	10.1	7.17	1.3e-05	0.0021	16.8	4.85	53.7
+HP:0030270	Elevated red cell adenosine deaminase activity	15	6	10.1	7.17	1.3e-05	0.0021	16.8	4.85	53.7
+HP:0010487	Small hypothenar eminence	15	6	10.1	7.17	1.3e-05	0.0021	16.8	4.85	53.7
+HP:0008437	Bifid thoracic vertebrae	15	6	10.1	7.17	1.3e-05	0.0021	16.8	4.85	53.7
+HP:0008447	Hypoplastic coccygeal vertebrae	15	6	10.1	7.17	1.3e-05	0.0021	16.8	4.85	53.7
+HP:0008475	Hypoplastic sacral vertebrae	15	6	10.1	7.17	1.3e-05	0.0021	16.8	4.85	53.7
+HP:0030272	Abnormal erythrocyte enzyme activity	16	6	9.47	6.89	2e-05	0.0024	15.1	4.45	46.7
+HP:0006368	Forearm reduction defects	16	6	9.47	6.89	2e-05	0.0024	15.1	4.45	46.7
+HP:0002669	Osteosarcoma	23	7	7.69	6.53	1.9e-05	0.0024	11.1	3.79	29.1
+HP:0025065	Abnormal erythrocyte volume	17	6	8.91	6.64	3e-05	0.0029	13.8	4.11	41.3
+HP:0005518	Increased mean corpuscular volume	17	6	8.91	6.64	3e-05	0.0029	13.8	4.11	41.3
+HP:0012133	Erythroid hypoplasia	17	6	8.91	6.64	3e-05	0.0029	13.8	4.11	41.3
+HP:0001972	Macrocytic anemia	44	9	5.17	5.64	4e-05	0.0036	6.59	2.73	14.4
+HP:0004590	Hypoplastic sacrum	18	6	8.42	6.41	4.3e-05	0.0037	12.6	3.82	36.9
+HP:0005321	Mandibulofacial dysostosis	19	6	7.97	6.19	6.1e-05	0.0049	11.6	3.57	33.4
+HP:0001446	Abnormality of the musculature of the upper limbs	137	16	2.95	4.73	7.5e-05	0.0057	3.49	1.88	6.13
+HP:0001895	Normochromic anemia	20	6	7.58	5.99	8.5e-05	0.0058	10.8	3.35	30.5
+HP:0001897	Normocytic anemia	20	6	7.58	5.99	8.5e-05	0.0058	10.8	3.35	30.5
+HP:0011904	Persistence of hemoglobin F	22	6	6.89	5.62	0.00015	0.0096	9.44	2.98	25.9
+HP:0001636	Tetralogy of Fallot	145	16	2.79	4.46	0.00015	0.0096	3.27	1.76	5.72
+HP:0012131	Abnormal number of erythroid precursors	23	6	6.59	5.46	2e-04	0.0099	8.89	2.82	24.1
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	6	6.59	5.46	2e-04	0.0099	8.89	2.82	24.1
+HP:0002697	Parietal foramina	23	6	6.59	5.46	2e-04	0.0099	8.89	2.82	24.1
+HP:0000402	Stenosis of the external auditory canal	32	7	5.52	5.22	0.00019	0.0099	7.09	2.54	17.3
+HP:0012379	Abnormal enzyme/coenzyme activity	103	13	3.19	4.57	0.00017	0.0099	3.76	1.88	6.99
+HP:0001710	Conotruncal defect	148	16	2.73	4.37	0.00019	0.0099	3.19	1.72	5.58
+HP:0004439	Craniofacial dysostosis	24	6	6.31	5.3	0.00026	0.012	8.39	2.68	22.5
+HP:0009944	Partial duplication of thumb phalanx	24	6	6.31	5.3	0.00026	0.012	8.39	2.68	22.5
+HP:0009999	Partial duplication of the phalanx of hand	25	6	6.06	5.16	0.00033	0.015	7.95	2.55	21.1
+HP:0000776	Congenital diaphragmatic hernia	83	11	3.35	4.39	0.00035	0.015	3.93	1.84	7.7
+HP:0000921	Missing ribs	48	8	4.21	4.54	0.00049	0.021	5.08	2.01	11.3
+HP:0003003	Colon cancer	38	7	4.65	4.6	0.00059	0.024	5.71	2.08	13.5
+HP:0011902	Abnormal hemoglobin	29	6	5.22	4.64	0.00077	0.031	6.56	2.15	16.9
+HP:0009777	Absent thumb	40	7	4.42	4.42	0.00082	0.032	5.36	1.96	12.6
+HP:0100273	Neoplasm of the colon	52	8	3.88	4.26	0.00085	0.032	4.61	1.84	10.2
+HP:0001511	Intrauterine growth retardation	347	26	1.89	3.55	0.00087	0.032	2.19	1.35	3.43
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	6	4.89	4.41	0.0011	0.039	6.03	1.99	15.4
+HP:0008417	Vertebral hypoplasia	31	6	4.89	4.41	0.0011	0.039	6.03	1.99	15.4
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	60	1.4	3.19	0.0013	0.043	1.74	1.21	2.48
+HP:0001894	Thrombocytosis	32	6	4.73	4.31	0.0013	0.044	5.8	1.92	14.7
+HP:0002696	Abnormality of the parietal bone	32	6	4.73	4.31	0.0013	0.044	5.8	1.92	14.7
+HP:0005107	Abnormality of the sacrum	144	14	2.46	3.62	0.0014	0.045	2.79	1.44	5.03
+HP:0001896	Reticulocytopenia	33	6	4.59	4.21	0.0016	0.049	5.58	1.85	14.1
+HP:0000775	Abnormality of the diaphragm	99	11	2.81	3.7	0.0016	0.049	3.2	1.51	6.21
+HP:0002060	Abnormality of the cerebrum	1167	63	1.36	3.08	0.0017	0.05	1.7	1.19	2.43

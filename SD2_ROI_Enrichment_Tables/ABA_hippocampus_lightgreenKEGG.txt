@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04340	Hedgehog signaling pathway	46	3	17.3	6.83	0.00064	0.0039	20.8	3.84	73.3
+path:hsa00561	Glycerolipid metabolism	59	3	13.5	5.93	0.0013	0.004	16	2.97	55.5
+path:hsa04660	T cell receptor signaling pathway	103	3	7.74	4.24	0.0065	0.013	8.88	1.67	30.3

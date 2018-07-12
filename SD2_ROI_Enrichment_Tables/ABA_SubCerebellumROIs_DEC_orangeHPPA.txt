@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0040157	Abnormal intermamillary distance	45	5	11.5	6.99	5.8e-05	0.018	14.8	4.25	41.4
+HP:0006610	Wide intermamillary distance	45	5	11.5	6.99	5.8e-05	0.018	14.8	4.25	41.4
+HP:0000953	Hyperpigmentation of the skin	172	8	4.8	5.06	0.00017	0.035	6.21	2.39	14.4

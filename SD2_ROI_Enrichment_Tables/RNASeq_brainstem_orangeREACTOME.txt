@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	67	4	10.7	5.96	0.00052	0.012	12.1	3.08	34.3
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	3	12.8	5.73	0.0016	0.012	14.4	2.76	47.5
+R-HSA-5693567	HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)	131	5	6.82	5.03	0.00079	0.012	7.65	2.34	19.5
+R-HSA-5693538	Homology Directed Repair	137	5	6.53	4.88	0.00097	0.012	7.29	2.24	18.6
+R-HSA-5693532	DNA Double-Strand Break Repair	165	5	5.42	4.29	0.0022	0.012	6	1.84	15.2
+R-HSA-425407	SLC-mediated transmembrane transport	241	6	4.45	4.07	0.0022	0.012	4.96	1.72	11.7
+R-HSA-382551	Transport of small molecules	705	11	2.79	3.7	0.0016	0.012	3.26	1.51	6.44
+R-HSA-1660499	Synthesis of PIPs at the plasma membrane	51	3	10.5	5.11	0.0029	0.013	11.7	2.26	38
+R-HSA-73894	DNA Repair	315	6	3.41	3.25	0.008	0.033	3.75	1.3	8.83
+R-HSA-1483255	PI Metabolism	78	3	6.88	3.91	0.0094	0.035	7.45	1.46	23.8

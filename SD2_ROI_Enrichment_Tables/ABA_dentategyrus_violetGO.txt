@@ -1,0 +1,15 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0295	4	6	1	0.167	0.25	CORUM:47	cor	8	DNA polymerase alpha-primase complex	1	POLA2
+2	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:580	cor	11	Epo-R-IP(3)R type II-TRPC2 complex	1	TRPC2
+3	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:2900	cor	6	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	LAT2
+4	1	TRUE	0.0282	2	6	1	0.167	0.5	CORUM:1018	cor	12	Pcdha7-Pcdhgb4 complex	1	PCDHGB4
+5	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:2899	cor	14	PLC-gamma-1-Lab-Blnk complex, BCR stimulated	1	LAT2
+6	1	TRUE	0.0295	4	6	1	0.167	0.25	CORUM:1110	cor	2	DNA polymerase alpha-primase complex	1	POLA2
+7	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:2902	cor	3	Grb2-Lab-Blnk complex, BCR stimulated	1	LAT2
+8	1	TRUE	0.0282	2	6	1	0.167	0.5	CORUM:2539	cor	13	Lab-Grb2 complex, BCR stimulated	1	LAT2
+9	1	TRUE	0.0295	4	6	1	0.167	0.25	CORUM:581	cor	5	Epo-R-PLC-gamma 1-IP(3)R type II-TRPC2 signaling complex	1	TRPC2
+10	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:161	cor	9	SWAP complex	1	SWAP70
+11	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:1017	cor	10	Pcdhga1-Pcdhgb4 complex	1	PCDHGB4
+12	1	TRUE	0.0282	2	6	1	0.167	0.5	CORUM:1109	cor	7	DNA polymerase alpha	1	POLA2
+13	1	TRUE	0.0282	3	6	1	0.167	0.333	CORUM:579	cor	4	Epo-R-PLC-gamma-TRPC2 complex	1	TRPC2
+14	1	TRUE	0.0282	2	6	1	0.167	0.5	CORUM:3837	cor	1	SP1-E2F1 complex	1	SP1

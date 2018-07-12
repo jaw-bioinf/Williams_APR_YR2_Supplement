@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-8953854 Metabolism of RNA 646 10 4.56 5.46 3.7e-05 0.00059 6.12 2.6 13.3
+R-HSA-1852241 Organelle biogenesis and maintenance 269 6 6.57 5.4 0.00025 0.002 7.91 2.66 19.7
+R-HSA-5617833 Cilium Assembly 201 5 7.33 5.29 0.00054 0.0029 8.6 2.57 22.8

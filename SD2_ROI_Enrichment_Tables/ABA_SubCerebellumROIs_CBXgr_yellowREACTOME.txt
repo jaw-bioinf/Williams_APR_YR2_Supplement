@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	39	10	4.36	5.25	6.2e-05	0.022	5.59	2.42	11.9
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	10	4.05	4.95	0.00012	0.022	5.07	2.21	10.6
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	36	1.91	4.15	0.00013	0.022	2.09	1.42	3.01

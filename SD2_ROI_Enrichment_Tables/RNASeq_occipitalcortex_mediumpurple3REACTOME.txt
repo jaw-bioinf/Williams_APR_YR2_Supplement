@@ -1,0 +1,21 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-73894	DNA Repair	315	8	5.3	5.38	0.00011	0.0051	6.29	2.52	13.8
+R-HSA-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	33	3	19	7.17	0.00051	0.0064	22	4.16	74.9
+R-HSA-5693537	Resolution of D-Loop Structures	34	3	18.4	7.06	0.00056	0.0064	21.3	4.03	72.3
+R-HSA-74160	Gene expression (Transcription)	1335	16	2.5	4.09	0.00031	0.0064	3.28	1.67	6.17
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	3	15.6	6.44	9e-04	0.0066	17.9	3.4	59.8
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	3	15.3	6.35	0.00097	0.0066	17.4	3.32	58.1
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	6	5.15	4.55	0.001	0.0066	5.86	2.02	14
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	67	3	9.34	4.75	0.004	0.017	10.3	2	33.4
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	68	3	9.2	4.71	0.0042	0.017	10.1	1.97	32.9
+R-HSA-5693567	HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)	131	4	6.37	4.29	0.0035	0.017	7.04	1.81	19.8
+R-HSA-5693538	Homology Directed Repair	137	4	6.09	4.16	0.0041	0.017	6.72	1.73	18.8
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	3	7.54	4.15	0.0073	0.024	8.23	1.6	26.5
+R-HSA-72306	tRNA processing	83	3	7.54	4.15	0.0073	0.024	8.23	1.6	26.5
+R-HSA-5633007	Regulation of TP53 Activity	160	4	5.22	3.73	0.0071	0.024	5.71	1.47	16
+R-HSA-5693532	DNA Double-Strand Break Repair	165	4	5.06	3.65	0.0079	0.024	5.53	1.43	15.5
+R-HSA-3371556	Cellular response to heat stress	88	3	7.11	4	0.0085	0.025	7.74	1.51	24.9
+R-HSA-6804756	Regulation of TP53 Activity through Phosphorylation	92	3	6.8	3.88	0.0096	0.026	7.39	1.44	23.7
+R-HSA-72163	mRNA Splicing - Major Pathway	183	4	4.56	3.37	0.011	0.029	4.97	1.28	13.9
+R-HSA-72172	mRNA Splicing	191	4	4.37	3.26	0.013	0.031	4.75	1.23	13.2
+R-HSA-211000	Gene Silencing by RNA	117	3	5.35	3.28	0.018	0.042	5.76	1.13	18.4

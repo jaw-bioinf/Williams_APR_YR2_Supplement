@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04919	Thyroid hormone signaling pathway	116	25	2.68	5.4	3.7e-06	0.00078	3.25	1.98	5.16
+path:hsa04725	Cholinergic synapse	112	23	2.56	4.91	2.1e-05	0.0015	3.04	1.82	4.91
+path:hsa04024	cAMP signaling pathway	198	34	2.14	4.8	1.6e-05	0.0015	2.46	1.63	3.63
+path:hsa04080	Neuroactive ligand-receptor interaction	277	41	1.84	4.23	8.1e-05	0.0042	2.07	1.43	2.93
+path:hsa04360	Axon guidance	175	29	2.06	4.21	0.00013	0.0053	2.35	1.5	3.55
+path:hsa04020	Calcium signaling pathway	181	28	1.92	3.73	0.00053	0.018	2.15	1.37	3.28
+path:hsa04930	Type II diabetes mellitus	46	11	2.98	3.97	0.00081	0.024	3.65	1.66	7.4
+path:hsa04022	cGMP-PKG signaling pathway	163	25	1.91	3.47	0.0012	0.031	2.13	1.32	3.31
+path:hsa04960	Aldosterone-regulated sodium reabsorption	37	9	3.03	3.65	0.0021	0.044	3.72	1.54	8.17
+path:hsa04666	Fc gamma R-mediated phagocytosis	90	16	2.21	3.42	0.0019	0.044	2.52	1.36	4.41
+path:hsa00512	Mucin type O-glycan biosynthesis	31	8	3.21	3.65	0.0025	0.047	4.02	1.55	9.37

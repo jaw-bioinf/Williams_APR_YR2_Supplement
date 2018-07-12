@@ -1,0 +1,15 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:502	cor	6	Kir4.1-dystrophin complex	1	KCNJ10
+2	1	TRUE	0.0274	3	7	1	0.143	0.333	CORUM:6048	cor	11	dynein-dynactin complex	1	DCTN1
+3	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:6662	cor	13	Kcnj8-Kcnj11-Abcc9(splice variant 2) complex	1	KCNJ11
+4	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:507	cor	3	Kir4.1-beta-dystroglycan complex	1	KCNJ10
+5	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:506	cor	8	Kir4.1-alpha-1-syntrophin complex	1	KCNJ10
+6	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:5365	cor	1	Ripk2-Nod2 complex	1	RIPK2
+7	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:504	cor	4	Kir4.1-beta-dystroglycan complex	1	KCNJ10
+8	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:6674	cor	9	Ank2-Kcnj11-Abcc9(splice variant 1) complex	1	KCNJ11
+9	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:5252	cor	2	Htt-Hap1-Dctn1 complex	1	DCTN1
+10	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:6672	cor	5	Ank2-Kcnj11-Abcc8 complex	1	KCNJ11
+11	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:505	cor	15	Kir4.1-dystrophin complex	1	KCNJ10
+12	1	TRUE	0.0214	1	7	1	0.143	1	CORUM:560	cor	14	Kir6.2-Sur1 complex	1	KCNJ11
+13	1	TRUE	0.0274	3	7	1	0.143	0.333	CORUM:6279	cor	10	p65-IkappaBalpha-beta-arrestin-iNOS complex	1	NFKBIA
+14	1	TRUE	0.0214	2	7	1	0.143	0.5	CORUM:503	cor	7	Kir4.1-alpha-1-syntrophin complex	1	KCNJ10

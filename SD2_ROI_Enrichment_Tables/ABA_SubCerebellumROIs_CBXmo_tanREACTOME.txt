@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-446219	Synthesis of substrates in N-glycan biosythesis	61	5	8.21	5.67	0.00034	0.026	9.26	2.83	23.7
+R-HSA-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	72	5	6.95	5.09	0.00074	0.029	7.73	2.38	19.6

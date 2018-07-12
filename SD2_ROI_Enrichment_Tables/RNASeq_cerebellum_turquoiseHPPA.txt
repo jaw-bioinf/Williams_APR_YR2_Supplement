@@ -1,0 +1,29 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0012047	Hemeralopia	22	13	4.52	6.42	4.5e-07	0.0011	9.84	3.87	26.2
+HP:0030469	Abnormal dark-adapted electroretinogram	39	16	3.14	5.21	1.2e-05	0.0049	4.75	2.33	9.48
+HP:0030470	Abnormal dark-adapted bright flash electroretinogram	39	16	3.14	5.21	1.2e-05	0.0049	4.75	2.33	9.48
+HP:0030478	Abnormal amplitude of dark-adapted bright flash electroretinogram	39	16	3.14	5.21	1.2e-05	0.0049	4.75	2.33	9.48
+HP:0007984	Electronegative electroretinogram	39	16	3.14	5.21	1.2e-05	0.0049	4.75	2.33	9.48
+HP:0000608	Macular degeneration	128	35	2.09	4.88	8.8e-06	0.0049	2.62	1.7	3.97
+HP:0000572	Visual loss	228	52	1.74	4.51	2.1e-05	0.0073	2.09	1.47	2.91
+HP:0000662	Nyctalopia	240	53	1.69	4.29	4.4e-05	0.014	2	1.42	2.78
+HP:0000654	Decreased light- and dark-adapted electroretinogram amplitude	112	30	2.05	4.37	6e-05	0.017	2.53	1.59	3.94
+HP:0000512	Abnormal electroretinogram	226	50	1.69	4.17	7e-05	0.018	2	1.4	2.8
+HP:0002843	Abnormality of T cells	68	21	2.36	4.4	8.8e-05	0.019	3.06	1.72	5.28
+HP:0030466	Abnormal full-field electroretinogram	131	33	1.93	4.19	9.8e-05	0.019	2.33	1.5	3.55
+HP:0008323	Abnormal light- and dark-adapted electroretinogram	126	32	1.94	4.18	0.00011	0.019	2.36	1.51	3.61
+HP:0030453	Abnormal visual electrophysiology	265	56	1.62	4.04	9.9e-05	0.019	1.89	1.36	2.6
+HP:0008002	Abnormality of macular pigmentation	49	16	2.5	4.09	3e-04	0.031	3.3	1.68	6.23
+HP:0007737	Bone spicule pigmentation of the retina	82	23	2.14	4.07	0.00021	0.031	2.67	1.56	4.45
+HP:0012043	Pendular nystagmus	109	28	1.96	3.97	0.00023	0.031	2.38	1.47	3.75
+HP:0001123	Visual field defect	170	39	1.75	3.91	0.00021	0.031	2.07	1.39	3.03
+HP:0030637	Cone dysfunction syndrome	144	34	1.81	3.83	3e-04	0.031	2.14	1.39	3.22
+HP:0000551	Abnormality of color vision	144	34	1.81	3.83	3e-04	0.031	2.14	1.39	3.22
+HP:0000546	Retinal degeneration	213	46	1.65	3.8	0.00025	0.031	1.92	1.33	2.73
+HP:0007663	Reduced visual acuity	244	51	1.6	3.76	0.00028	0.031	1.85	1.31	2.58
+HP:0001103	Abnormality of the macula	226	48	1.62	3.76	0.00028	0.031	1.88	1.32	2.65
+HP:0011277	Abnormality of the urinary system physiology	729	125	1.31	3.66	0.00023	0.031	1.52	1.2	1.9
+HP:0007401	Macular atrophy	106	27	1.95	3.84	0.00035	0.034	2.35	1.44	3.73
+HP:0001141	Severe visual impairment	101	26	1.97	3.83	0.00037	0.034	2.38	1.45	3.81
+HP:0000613	Photophobia	198	43	1.66	3.71	0.00036	0.034	1.93	1.32	2.77
+HP:0007695	Abnormal pupillary light reflex	20	9	3.44	4.25	0.00046	0.041	5.52	2.01	14.7

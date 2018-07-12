@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2893	cervix carcinoma	51	4	16.1	7.59	9.9e-05	0.0077	19.6	4.82	58.9
+DOID:4362	cervical cancer	52	4	15.8	7.5	0.00011	0.0077	19.2	4.73	57.6
+DOID:8552	chronic myeloid leukemia	172	6	7.18	5.74	0.00015	0.0077	8.77	2.93	22
+DOID:5672	large intestine cancer	812	11	2.79	3.79	0.0011	0.026	3.68	1.61	7.89
+DOID:9256	colorectal cancer	811	11	2.79	3.79	0.0011	0.026	3.69	1.62	7.91
+DOID:10155	intestinal cancer	820	11	2.76	3.75	0.0012	0.026	3.64	1.6	7.81
+DOID:331	central nervous system disease	1234	14	2.34	3.61	0.0011	0.026	3.3	1.54	6.88
+DOID:3008	invasive ductal carcinoma	125	4	6.59	4.4	0.003	0.036	7.54	1.9	21.9
+DOID:3007	breast ductal carcinoma	196	5	5.25	4.22	0.0023	0.036	6.11	1.83	16.2
+DOID:0050615	respiratory system cancer	509	8	3.24	3.66	0.0025	0.036	3.97	1.55	9.09
+DOID:3908	non-small cell lung carcinoma	417	7	3.46	3.61	0.0033	0.036	4.14	1.51	9.83
+DOID:8692	myeloid leukemia	525	8	3.14	3.56	0.003	0.036	3.84	1.49	8.78
+DOID:1289	neurodegenerative disease	925	11	2.45	3.3	0.0032	0.036	3.17	1.39	6.79
+DOID:3119	gastrointestinal system cancer	1536	15	2.01	3.13	0.0032	0.036	2.83	1.33	5.88

@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa03013	RNA transport	171	32	4.59	9.8	1.8e-13	1.6e-11	6	3.87	9.09
+path:hsa03008	Ribosome biogenesis in eukaryotes	101	18	4.37	7.04	9.8e-08	4.3e-06	5.39	3	9.22
+path:hsa03015	mRNA surveillance pathway	91	14	3.77	5.49	1.6e-05	0.00047	4.45	2.29	8.06
+path:hsa03018	RNA degradation	77	12	3.82	5.13	5.7e-05	0.0013	4.49	2.18	8.53
+path:hsa00190	Oxidative phosphorylation	133	16	2.95	4.68	9.1e-05	0.0016	3.35	1.83	5.78
+path:hsa05012	Parkinson's disease	142	16	2.76	4.38	2e-04	0.0029	3.11	1.7	5.35
+path:hsa04136	Autophagy - other	32	7	5.36	5.1	0.00024	0.0031	6.73	2.43	16.2
+path:hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	25	6	5.88	5.04	4e-04	0.0044	7.56	2.45	19.9
+path:hsa04140	Autophagy - animal	128	14	2.68	3.96	0.00067	0.0066	2.99	1.56	5.32
+path:hsa05016	Huntington's disease	193	18	2.29	3.74	0.00084	0.0074	2.52	1.44	4.18
+path:hsa00640	Propanoate metabolism	32	6	4.6	4.21	0.0016	0.013	5.52	1.84	13.9
+path:hsa04114	Oocyte meiosis	124	12	2.37	3.18	0.0045	0.033	2.59	1.28	4.78
+path:hsa05134	Legionellosis	55	7	3.12	3.26	0.0066	0.045	3.49	1.32	7.86
+path:hsa05169	Epstein-Barr virus infection	199	16	1.97	2.87	0.0071	0.045	2.12	1.17	3.61

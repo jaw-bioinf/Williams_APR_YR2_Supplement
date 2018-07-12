@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00520	Amino sugar and nucleotide sugar metabolism	47	5	8.84	5.95	0.00023	0.0034	10.3	3.11	27.2
+path:hsa04330	Notch signaling pathway	48	5	8.65	5.87	0.00025	0.0034	10.1	3.04	26.5
+path:hsa00052	Galactose metabolism	31	4	10.7	5.99	0.00048	0.0043	12.7	3.16	37.8
+path:hsa00051	Fructose and mannose metabolism	33	3	7.55	4.16	0.0071	0.04	8.48	1.62	28.2
+path:hsa04922	Glucagon signaling pathway	102	5	4.07	3.45	0.0075	0.04	4.44	1.37	11.2

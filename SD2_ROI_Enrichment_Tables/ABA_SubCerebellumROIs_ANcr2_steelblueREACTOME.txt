@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	39	3	12.4	5.64	0.0018	0.048	14	2.68	46.2
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	3	11.5	5.4	0.0022	0.048	12.9	2.48	42.4

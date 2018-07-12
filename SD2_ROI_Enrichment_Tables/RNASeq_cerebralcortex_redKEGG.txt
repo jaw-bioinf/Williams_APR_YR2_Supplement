@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04610	Complement and coagulation cascades	79	5	16.2	8.5	1.1e-05	4.5e-05	21	6.03	59.3
+path:hsa05322	Systemic lupus erythematosus	132	4	7.74	4.9	0.0016	0.0032	9.21	2.27	27.7
+path:hsa05034	Alcoholism	180	3	4.26	2.78	0.032	0.043	4.74	0.904	15.9

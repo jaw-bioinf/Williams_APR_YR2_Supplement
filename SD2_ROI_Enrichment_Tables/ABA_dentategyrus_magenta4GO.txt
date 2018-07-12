@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0026	56	33	4	0.121	0.071	GO:0005811	CC	2	lipid droplet	1	LIPE,DGAT2,FIG4,METTL7A1
+2	1	TRUE	0.0176	7	2	1	0.5	0.143	CORUM:40	cor	5	COP9 signalosome complex (Gps1, Cops1, Cops2, Cops3, Cops4, Cops5, Cops6, Cops7a, Cops8)	1	COPS8
+3	1	TRUE	0.00758	2	2	1	0.5	0.5	CORUM:2586	cor	3	KLC2-nKHC-uKHC kinesin complex	1	KIF5B
+4	1	TRUE	0.00758	2	2	1	0.5	0.5	CORUM:2585	cor	7	nKHC-KLC1-uKHC kinesin complex	1	KIF5B
+5	1	TRUE	0.0121	4	2	1	0.5	0.25	CORUM:2173	cor	4	COP9 signalosome complex	1	COPS8
+6	1	TRUE	0.00758	2	2	1	0.5	0.5	CORUM:6547	cor	10	Spg33-Kif5b complex	1	KIF5B
+7	1	TRUE	0.00758	1	2	1	0.5	1	CORUM:2840	cor	9	uKHC-KLC1-KLC2 kinesin complex	1	KIF5B
+8	1	TRUE	0.0298	36	10	3	0.3	0.083	HP:0009380	hp	6	Aplasia of the fingers	1	NIPBL,FIG4,SLX4
+9	1	TRUE	0.0298	746	10	8	0.8	0.011	HP:0040195	hp	1	Decreased head circumference	1	SMG9,DGCR14,NIPBL,LIAS,CEP63,FIG4,SLX4,AGTR1B
+10	1	TRUE	0.0298	746	10	8	0.8	0.011	HP:0000252	hp	1	Microcephaly	2	SMG9,DGCR14,NIPBL,LIAS,CEP63,FIG4,SLX4,AGTR1B

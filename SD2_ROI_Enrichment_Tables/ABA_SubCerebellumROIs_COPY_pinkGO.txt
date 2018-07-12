@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00576	3	12	2	0.167	0.667	CORUM:2941	cor	1	Acinar cell-specific C complex	1	PDX1,PBX1
+2	1	TRUE	0.00576	3	12	2	0.167	0.667	CORUM:2940	cor	2	Acinar cell-specific C complex	1	PDX1,PBX1

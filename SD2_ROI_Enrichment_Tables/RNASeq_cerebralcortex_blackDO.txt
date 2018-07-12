@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2490	congenital nervous system abnormality	50	11	4.92	6.02	9.3e-06	0.0034	6.21	2.84	12.5
+DOID:4621	holoprosencephaly	15	5	7.46	5.41	0.00036	0.043	10.8	2.89	35
+DOID:0080015	physical disorder	162	18	2.49	4.14	0.00031	0.043	2.77	1.58	4.62

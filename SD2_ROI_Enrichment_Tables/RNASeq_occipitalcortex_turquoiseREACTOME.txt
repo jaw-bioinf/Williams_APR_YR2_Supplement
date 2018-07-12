@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3247509	Chromatin modifying enzymes	227	42	2.29	5.82	2.8e-07	9.2e-05	2.67	1.84	3.78
+R-HSA-4839726	Chromatin organization	227	42	2.29	5.82	2.8e-07	9.2e-05	2.67	1.84	3.78
+R-HSA-983695	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	27	10	4.58	5.52	2.7e-05	0.006	6.75	2.75	15.7
+R-HSA-3214841	PKMTs methylate histone lysines	71	17	2.96	4.92	3.7e-05	0.0062	3.63	1.96	6.4
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	96	19	2.45	4.23	0.00021	0.028	2.85	1.62	4.78

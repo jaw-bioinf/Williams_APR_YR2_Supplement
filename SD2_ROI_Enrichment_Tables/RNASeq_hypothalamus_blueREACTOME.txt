@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5419276	Mitochondrial translation termination	86	26	3.23	6.67	3.9e-08	1.6e-05	4.28	2.58	6.93
+R-HSA-5368287	Mitochondrial translation	87	26	3.19	6.6	5.1e-08	1.6e-05	4.21	2.54	6.81
+R-HSA-5389840	Mitochondrial translation elongation	84	25	3.18	6.44	1e-07	1.6e-05	4.18	2.5	6.82
+R-HSA-72766	Translation	258	52	2.15	6.02	6.9e-08	1.6e-05	2.53	1.81	3.47
+R-HSA-1430728	Metabolism	1899	240	1.35	5.43	9.3e-08	1.6e-05	1.54	1.31	1.8
+R-HSA-392499	Metabolism of proteins	1907	223	1.25	3.87	9.2e-05	0.012	1.37	1.16	1.61
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	31	2.01	4.19	0.00012	0.014	2.28	1.48	3.41
+R-HSA-611105	Respiratory electron transport	95	21	2.36	4.28	0.00015	0.015	2.79	1.62	4.6
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	24	2.17	4.11	2e-04	0.018	2.51	1.52	3.99
+R-HSA-189445	Metabolism of porphyrins	17	7	4.4	4.5	0.00052	0.042	6.81	2.2	19.9

@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0238	2	4	1	0.25	0.5	CORUM:5435	cor	1	Ccnd1-Cdk4 complex	1	CDK4
+2	1	TRUE	0.0238	2	4	1	0.25	0.5	CORUM:5119	cor	2	p19-Cdk4 complex	1	CDK4
+3	1	TRUE	0.0316	4	4	1	0.25	0.25	CORUM:5436	cor	4	Cyclin D1-associated protein complex	1	CDK4
+4	1	TRUE	0.0285	3	4	1	0.25	0.333	CORUM:5145	cor	6	p19-Cdk4-cyclinD2 complex	1	CDK4
+5	1	TRUE	0.0238	2	4	1	0.25	0.5	CORUM:1637	cor	5	Ccnd1-Cdk4 complex	1	CDK4
+6	1	TRUE	0.0238	2	4	1	0.25	0.5	CORUM:5127	cor	3	p18-Cdk4 complex	1	CDK4

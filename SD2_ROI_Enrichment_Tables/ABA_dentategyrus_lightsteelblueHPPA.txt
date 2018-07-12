@@ -1,0 +1,21 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001197	Abnormality of prenatal development or birth	498	10	4.7	5.84	4.7e-06	0.0015	12.3	3.81	46.1
+HP:0008839	Hypoplastic pelvis	22	3	31.9	9.53	9.3e-05	0.015	45.3	7.61	188
+HP:0002987	Elbow flexion contracture	67	4	14	7.02	0.00014	0.015	19.7	4.46	69
+HP:0030311	Lower extremity joint dislocation	147	5	7.96	5.65	0.00026	0.021	11.8	3.12	38.4
+HP:0002996	Limited elbow movement	98	4	9.55	5.62	0.00062	0.04	13.1	2.99	45.3
+HP:0001376	Limitation of joint mobility	286	6	4.91	4.52	0.00074	0.04	7.65	2.22	24.3
+HP:0009103	Aplasia/Hypoplasia involving the pelvis	60	3	11.7	5.48	0.0019	0.041	15	2.65	57.8
+HP:0000946	Hypoplastic ilia	61	3	11.5	5.42	0.002	0.041	14.8	2.61	56.7
+HP:0000768	Pectus carinatum	115	4	8.14	5.1	0.0011	0.041	11.1	2.53	38.1
+HP:0002827	Hip dislocation	122	4	7.67	4.91	0.0014	0.041	10.4	2.38	35.7
+HP:0001373	Joint dislocation	216	5	5.42	4.39	0.0015	0.041	7.77	2.07	25.2
+HP:0100360	Contractures of the joints of the upper limbs	233	5	5.02	4.16	0.0021	0.041	7.16	1.9	23.2
+HP:0002644	Abnormality of pelvic girdle bone morphology	421	7	3.89	4.14	0.00092	0.041	6.51	2	20.6
+HP:0001511	Intrauterine growth retardation	347	6	4.05	3.92	0.0021	0.041	6.16	1.79	19.5
+HP:0001167	Abnormality of finger	784	9	2.69	3.51	0.0018	0.041	5.26	1.67	18
+HP:0025033	Abnormality of digestive system morphology	792	9	2.66	3.48	0.0019	0.041	5.19	1.64	17.8
+HP:0012718	Morphological abnormality of the gastrointestinal tract	792	9	2.66	3.48	0.0019	0.041	5.19	1.64	17.8
+HP:0000358	Posteriorly rotated ears	369	6	3.8	3.73	0.0028	0.048	5.75	1.67	18.2
+HP:0009810	Abnormality of upper limb joint	372	6	3.77	3.71	0.003	0.048	5.69	1.66	18
+HP:0000028	Cryptorchidism	505	7	3.24	3.57	0.0028	0.048	5.26	1.62	16.7

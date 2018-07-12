@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0286	2	76	2	0.026	1	GO:0019976	MF	8	interleukin-2 binding	1	IL2RG,IL2RB
+2	1	TRUE	0.0151	3	4	1	0.25	0.333	CORUM:5402	cor	7	Cdk5-Cdk5r1-Pctk1 complex	1	CDK5R1
+3	1	TRUE	0.0151	2	4	1	0.25	0.5	CORUM:257	cor	4	Hop2-Mnd1 complex	1	MND1
+4	1	TRUE	0.0151	2	4	1	0.25	0.5	CORUM:1135	cor	2	Mss4-Itga3 complex	1	ITGA3
+5	1	TRUE	0.0151	3	4	1	0.25	0.333	CORUM:6663	cor	6	Ezrin-Nherf1-Irbit-NHE3 complex	1	EZR
+6	1	TRUE	0.0151	2	4	1	0.25	0.5	CORUM:255	cor	5	Hop2-Mnd1 complex	1	MND1
+7	1	TRUE	0.0151	2	4	1	0.25	0.5	CORUM:1115	cor	1	Cdk5-Cdk5r1 complex	1	CDK5R1

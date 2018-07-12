@@ -1,0 +1,18 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0357	2	123	2	0.016	1	GO:0003960	MF	1	NADPH:quinone reductase activity	1	CRYZ,ADH4
+2	1	TRUE	0.0357	2	123	2	0.016	1	GO:0050509	MF	14	N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase activity	1	EXT2,EXT1
+3	1	TRUE	0.0357	2	123	2	0.016	1	GO:0050508	MF	11	glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase activity	1	EXT2,EXT1
+4	1	TRUE	0.0241	4	4	1	0.25	0.25	CORUM:188	cor	15	Wave-2 complex	1	NCKAP1
+5	1	TRUE	0.0241	2	4	1	0.25	0.5	CORUM:1782	cor	12	TGF-beta receptor	1	TGFBR1
+6	1	TRUE	0.0241	3	4	1	0.25	0.333	CORUM:3037	cor	4	Ubiquitin E3 ligase (Fbxl20, Skp1, Cul1)	1	FBXL20
+7	1	TRUE	0.0399	8	4	1	0.25	0.125	CORUM:2835	cor	5	Profilin 2 complex	1	NCKAP1
+8	1	TRUE	0.0241	3	4	1	0.25	0.333	CORUM:2900	cor	3	PLC-gamma-2-Lab-Blnk complex, BCR stimulated	1	PLCG2
+9	1	TRUE	0.0241	4	4	1	0.25	0.25	CORUM:187	cor	2	Wave-2 complex (Rac-activated)	1	NCKAP1
+10	1	TRUE	0.0216	2	33	2	0.061	1	HP:0003406	hp	9	Peripheral nerve compression	1	EXT2,EXT1
+11	1	TRUE	0.0216	2	33	2	0.061	1	HP:0003105	hp	10	Protuberances at ends of long bones	1	EXT2,EXT1
+12	1	TRUE	0.0216	2	33	2	0.061	1	HP:0000896	hp	8	Rib exostoses	1	EXT2,EXT1
+13	1	TRUE	0.0216	2	33	2	0.061	1	HP:0000918	hp	7	Scapular exostoses	1	EXT2,EXT1
+14	1	TRUE	0.0216	2	33	2	0.061	1	HP:0003068	hp	13	Madelung-like forearm deformities	1	EXT2,EXT1
+15	1	TRUE	0.00659	14	59	3	0.051	0.214	REAC:R-MMU-1480926	rea	6	O2/CO2 exchange in erythrocytes	1	AQP1,SLC4A1,CAR1
+16	1	TRUE	0.00659	10	59	3	0.051	0.3	REAC:R-MMU-1247673	rea	6	Erythrocytes take up oxygen and release carbon dioxide	2	AQP1,SLC4A1,CAR1
+17	1	TRUE	0.00659	14	59	3	0.051	0.214	REAC:R-MMU-1237044	rea	6	Erythrocytes take up carbon dioxide and release oxygen	2	AQP1,SLC4A1,CAR1

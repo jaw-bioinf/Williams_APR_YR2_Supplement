@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00340	Histidine metabolism	24	5	10.7	6.72	8.1e-05	0.0051	13.8	3.95	38.9
+path:hsa00250	Alanine, aspartate and glutamate metabolism	35	5	7.36	5.31	0.00052	0.011	8.71	2.59	23.2
+path:hsa00330	Arginine and proline metabolism	49	6	6.31	5.25	0.00034	0.011	7.34	2.5	17.8

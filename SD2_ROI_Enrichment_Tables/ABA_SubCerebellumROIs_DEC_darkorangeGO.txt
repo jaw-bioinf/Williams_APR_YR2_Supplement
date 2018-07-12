@@ -1,0 +1,16 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0297	3	6	1	0.167	0.333	CORUM:3203	cor	14	Shc-Ship-Grb2 complex, IL-3 stimulated	1	INPP5D
+2	1	TRUE	0.0297	3	6	1	0.167	0.333	CORUM:6278	cor	3	Cd22-Ship-Grb2-Shc complex	1	INPP5D
+3	1	TRUE	0.0297	4	6	1	0.167	0.25	CORUM:1110	cor	12	DNA polymerase alpha-primase complex	1	POLA1
+4	1	TRUE	0.0297	3	6	1	0.167	0.333	CORUM:6696	cor	8	CPLANE complex	1	WDPCP
+5	1	TRUE	0.0297	1	6	1	0.167	1	CORUM:6239	cor	9	Fras1-Frem1-Frem2 complex	1	FRAS1
+6	1	TRUE	0.0297	3	6	1	0.167	0.333	CORUM:3202	cor	15	Il3rb1-Shc-Ship complex, IL-3 stimulated	1	INPP5D
+7	1	TRUE	0.0297	4	6	1	0.167	0.25	CORUM:6387	cor	5	Ship1-Hdac1-Hspa2-Kctd19 complex	1	INPP5D
+8	1	TRUE	0.0297	2	6	1	0.167	0.5	CORUM:3201	cor	7	Ship-Shc complex, IL-3 stimulated	1	INPP5D
+9	1	TRUE	0.0297	2	6	1	0.167	0.5	CORUM:1109	cor	10	DNA polymerase alpha	1	POLA1
+10	1	TRUE	0.0297	4	6	1	0.167	0.25	CORUM:1503	cor	6	Hdac1-Mecp2-Rcor1-Sin3a complex	1	RCOR1
+11	1	TRUE	0.0297	3	6	1	0.167	0.333	CORUM:3192	cor	4	G protein complex (Hdac4, Gnb1, Gng2)	1	HDAC4
+12	1	TRUE	0.0297	4	6	1	0.167	0.25	CORUM:47	cor	13	DNA polymerase alpha-primase complex	1	POLA1
+13	1	TRUE	0.0297	3	6	1	0.167	0.333	CORUM:2569	cor	11	Slam-SAP-SHIP complex	1	INPP5D
+14	1	TRUE	0.0342	1897	42	34	0.81	0.018	HP:0025031	hp	2	Abnormality of the digestive system	1	COL1A1,POLA1,NCF1,MLX,TBX3,WDPCP,APOB,NSD1,PIBF1,SLC5A7,COL7A1,MYO5B,CHRND,HDAC4,CYP7A1,HPD,ERCC2,CTSC,ALG3,ITGA2B,FRAS1,DHCR24,DCHS1,TMEM237,CDON,EPHX1,BRCA2,AR,HYLS1,SEPN1,KRT16,SUGCT,BCKDHA,SLC4A11
+15	1	TRUE	0.0342	1025	42	24	0.571	0.023	HP:0011024	hp	2	Abnormality of the gastrointestinal tract	2	COL1A1,POLA1,NCF1,MLX,TBX3,NSD1,PIBF1,SLC5A7,COL7A1,MYO5B,CHRND,HDAC4,ERCC2,ALG3,ITGA2B,FRAS1,DHCR24,DCHS1,TMEM237,EPHX1,BRCA2,AR,HYLS1,SEPN1

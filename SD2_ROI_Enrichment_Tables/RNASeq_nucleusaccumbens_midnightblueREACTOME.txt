@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-373076 Class A/1 (Rhodopsin-like receptors) 320 11 3.37 4.38 4e-04 0.024 3.76 1.79 7.13
+R-HSA-418594 G alpha (i) signalling events 362 11 2.98 3.9 0.0011 0.024 3.29 1.57 6.24
+R-HSA-500792 GPCR ligand binding 419 12 2.81 3.84 0.0011 0.024 3.11 1.54 5.77

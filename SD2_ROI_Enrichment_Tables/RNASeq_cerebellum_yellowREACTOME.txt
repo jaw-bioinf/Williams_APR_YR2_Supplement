@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-500792	GPCR ligand binding	419	36	2.41	5.67	8.1e-07	0.00022	2.71	1.84	3.91
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	29	2.54	5.39	3.5e-06	0.00048	2.84	1.84	4.25
+R-HSA-5083625	Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)	17	5	8.25	5.75	0.00024	0.0095	11.4	3.13	35
+R-HSA-5083632	Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)	17	5	8.25	5.75	0.00024	0.0095	11.4	3.13	35
+R-HSA-5083636	Defective GALNT12 causes colorectal cancer 1 (CRCS1)	17	5	8.25	5.75	0.00024	0.0095	11.4	3.13	35
+R-HSA-2173782	Binding and Uptake of Ligands by Scavenger Receptors	33	7	5.95	5.48	0.00013	0.0095	7.4	2.69	17.7
+R-HSA-6809371	Formation of the cornified envelope	128	14	3.07	4.53	0.00018	0.0095	3.42	1.79	6.05
+R-HSA-1474228	Degradation of the extracellular matrix	119	13	3.06	4.36	0.00031	0.011	3.4	1.74	6.15
+R-HSA-6805567	Keratinization	212	18	2.38	3.91	0.00057	0.017	2.59	1.48	4.26
+R-HSA-375276	Peptide ligand-binding receptors	187	16	2.4	3.72	0.001	0.029	2.6	1.44	4.41
+R-HSA-977068	Termination of O-glycan biosynthesis	24	5	5.84	4.57	0.0014	0.034	7.2	2.09	20.1
+R-HSA-156711	Polo-like kinase mediated events	16	4	7.01	4.63	0.0021	0.046	9.1	2.13	30.2
+R-HSA-5621480	Dectin-2 family	27	5	5.19	4.2	0.0024	0.046	6.22	1.83	17
+R-HSA-1474244	Extracellular matrix organization	278	20	2.02	3.31	0.0022	0.046	2.16	1.28	3.46

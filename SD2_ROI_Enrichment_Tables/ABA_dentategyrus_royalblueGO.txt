@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0267	3	7	1	0.143	0.333	CORUM:5524	cor	4	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	BMI1
+2	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:3018	cor	13	Cohesin complex, incomplete (Sycp2, Crest/Ss18I1)	1	SYCP2
+3	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:6698	cor	12	G-calpain	1	CAPN9
+4	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:5566	cor	10	Isl1-Jak1-Stat3 complex	1	ISL1
+5	1	TRUE	0.0267	3	7	1	0.143	0.333	CORUM:6656	cor	2	Nherf1-Fzd4-Vangl2 complex	1	VANGL2
+6	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:6763	cor	6	Vangl2-Dvl2 complex	1	VANGL2
+7	1	TRUE	0.0405	5	7	1	0.143	0.2	CORUM:6633	cor	7	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	CUL7
+8	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:6762	cor	11	Vangl2-Dvl1 complex	1	VANGL2
+9	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:6764	cor	9	Vangl2-Dvl3 complex	1	VANGL2
+10	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:5547	cor	1	Cdc2-Ccnb1 complex	1	CCNB1
+11	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:5706	cor	5	Cdc2-Ccnb1 complex	1	CCNB1
+12	1	TRUE	0.0218	2	7	1	0.143	0.5	CORUM:6407	cor	3	Vangl1-Vangl2 complex	1	VANGL2

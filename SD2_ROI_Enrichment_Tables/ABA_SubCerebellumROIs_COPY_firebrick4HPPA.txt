@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0025065	Abnormal erythrocyte volume	17	3	44.2	11.3	3.3e-05	0.0045	67	10.9	294
+HP:0005518	Increased mean corpuscular volume	17	3	44.2	11.3	3.3e-05	0.0045	67	10.9	294

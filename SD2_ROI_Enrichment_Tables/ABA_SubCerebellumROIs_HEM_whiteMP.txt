@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000788	abnormal cerebral cortex morphology	363	15	4.68	6.75	5.3e-07	0.00035	5.69	2.99	10.2
+MP:0000787	abnormal telencephalon morphology	808	22	3.08	5.85	1.2e-06	0.00039	3.92	2.28	6.53
+MP:0000783	abnormal forebrain morphology	1011	23	2.57	5.01	1.3e-05	0.003	3.24	1.9	5.35
+MP:0008540	abnormal cerebral hemisphere morphology	609	17	3.16	5.2	1.8e-05	0.0031	3.8	2.07	6.61
+MP:0003312	abnormal locomotor coordination	672	17	2.86	4.73	6.4e-05	0.0086	3.41	1.86	5.93
+MP:0008267	abnormal hippocampus CA3 region morphology	27	4	16.8	7.75	8.5e-05	0.0087	20.4	5.02	61.8
+MP:0000934	abnormal telencephalon development	163	8	5.55	5.54	9e-05	0.0087	6.3	2.58	13.4
+MP:0001393	ataxia	320	11	3.89	4.97	0.00011	0.0091	4.45	2.11	8.57
+MP:0012232	abnormal ceramide level	13	3	26.1	8.56	0.00018	0.013	34.8	6.04	138
+MP:0008262	abnormal hippocampus region morphology	64	5	8.84	5.94	0.00024	0.016	10	3.06	25.8
+MP:0000815	abnormal Ammon gyrus morphology	69	5	8.2	5.67	0.00034	0.019	9.26	2.83	23.7
+MP:0008415	abnormal neurite morphology	423	12	3.21	4.39	0.00031	0.019	3.66	1.79	6.88
+MP:0012230	abnormal sphingolipid level	18	3	18.9	7.16	0.00049	0.025	23.2	4.22	84.3
+MP:0001392	abnormal locomotor behavior	1537	26	1.91	3.7	0.00051	0.025	2.36	1.42	3.84
+MP:0002152	abnormal brain morphology	1633	27	1.87	3.66	0.00055	0.025	2.32	1.4	3.75
+MP:0003491	abnormal voluntary movement	1648	27	1.85	3.61	0.00064	0.027	2.29	1.39	3.71
+MP:0005220	abnormal exocrine pancreas morphology	81	5	6.99	5.11	0.00072	0.029	7.79	2.39	19.8
+MP:0005536	Leydig cell hypoplasia	22	3	15.4	6.4	0.00091	0.03	18.3	3.4	64
+MP:0002175	decreased brain weight	85	5	6.66	4.95	9e-04	0.03	7.4	2.27	18.7
+MP:0013762	abnormal effector T cell number	179	7	4.43	4.37	0.00099	0.03	4.9	1.88	10.8
+MP:0000801	abnormal temporal lobe morphology	352	10	3.21	4	0.001	0.03	3.6	1.64	7.08
+MP:0001516	abnormal motor coordination/ balance	833	17	2.31	3.74	0.00082	0.03	2.69	1.47	4.66
+MP:0002882	abnormal neuron morphology	1515	25	1.87	3.48	0.00099	0.03	2.27	1.35	3.7
+MP:0005277	abnormal brainstem morphology	237	8	3.82	4.15	0.0011	0.032	4.23	1.74	8.92
+MP:0003088	abnormal prepulse inhibition	186	7	4.26	4.24	0.0012	0.034	4.7	1.8	10.4
+MP:0003232	abnormal forebrain development	247	8	3.67	4.01	0.0015	0.038	4.05	1.67	8.53
+MP:0000745	tremors	313	9	3.25	3.83	0.0017	0.042	3.61	1.57	7.32

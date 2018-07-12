@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:7148	rheumatoid arthritis	498	18	2.48	4.17	0.00026	0.028	2.87	1.61	4.86
+DOID:848	arthritis	649	21	2.22	3.97	0.00035	0.028	2.59	1.51	4.26
+DOID:0080001	bone disease	833	25	2.06	3.96	0.00028	0.028	2.45	1.48	3.91
+DOID:17	musculoskeletal system disease	1239	32	1.77	3.65	0.00051	0.031	2.16	1.37	3.34
+DOID:3342	bone inflammation disease	686	21	2.1	3.69	0.00074	0.032	2.43	1.42	4
+DOID:65	connective tissue disease	1050	28	1.83	3.55	0.00078	0.032	2.18	1.35	3.42

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:11830	myopia	45	5	9.6	6.26	0.00016	0.027	11.3	3.39	29.8
+DOID:9835	refractive error	59	5	7.32	5.28	0.00056	0.027	8.36	2.54	21.6
+DOID:3312	bipolar disorder	153	8	4.52	4.76	0.00036	0.027	5.12	2.09	10.9
+DOID:3324	mood disorder	166	8	4.17	4.47	0.00062	0.027	4.69	1.92	9.96

@@ -1,0 +1,16 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:3888	cor	4	Abcg8-Abcg4 complex	1	ABCG8
+2	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:3882	cor	1	Abcg5-Abcg8 complex	1	ABCG8
+3	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:1018	cor	13	Pcdha7-Pcdhgb4 complex	1	PCDHGB4
+4	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:2771	cor	7	RAD51-DMC1 complex	1	DMC1
+5	1	TRUE	0.00713	5	8	2	0.25	0.4	CORUM:122	cor	8	MCM complex	1	MCM2,MCM6
+6	1	TRUE	0.0284	3	8	1	0.125	0.333	CORUM:1595	cor	5	Cdk5-c-Abl-Cables complex	1	CABLES1
+7	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:1782	cor	11	TGF-beta receptor	1	TGFBR2
+8	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:6773	cor	2	Tbx20-Tle3 repressor complex	1	TBX20
+9	1	TRUE	0.0237	2	8	1	0.125	0.5	CORUM:6772	cor	9	Tbx20-Tle1 repressor complex	1	TBX20
+10	1	TRUE	0.0284	3	8	1	0.125	0.333	CORUM:1017	cor	12	Pcdhga1-Pcdhgb4 complex	1	PCDHGB4
+11	1	TRUE	0.0362	3	26	2	0.077	0.667	HP:0030307	hp	6	Flared lower limb metaphysis	1	TRPV4,EZH2
+12	1	TRUE	0.0362	3	26	2	0.077	0.667	HP:0002834	hp	6	Flared femoral metaphysis	2	TRPV4,EZH2
+13	1	TRUE	0.0202	2	26	2	0.077	1	HP:0003856	hp	10	Upper limb metaphyseal widening	1	TRPV4,EZH2
+14	1	TRUE	0.0202	2	26	2	0.077	1	HP:0003849	hp	10	Flared upper limb metaphysis	1	TRPV4,EZH2
+15	1	TRUE	0.0202	2	26	2	0.077	1	HP:0003911	hp	10	Flared humeral metaphysis	2	TRPV4,EZH2

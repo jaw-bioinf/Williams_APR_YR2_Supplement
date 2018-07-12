@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0113	4	13	2	0.154	0.5	CORUM:5882	cor	3	Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	RAF1,PPP2R1A
+2	1	TRUE	0.0113	3	13	2	0.154	0.667	CORUM:5883	cor	1	Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	RAF1,PPP2R1A

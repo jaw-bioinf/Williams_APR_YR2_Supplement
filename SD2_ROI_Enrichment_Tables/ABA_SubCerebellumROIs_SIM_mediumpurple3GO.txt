@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0492	10	4	1	0.25	0.1	CORUM:582	cor	14	Ikaros complex	1	RBBP4
+2	1	TRUE	0.0358	5	4	1	0.25	0.2	CORUM:346	cor	3	Sarcoglycan-sarcospan-dystroglycan complex	1	SGCG
+3	1	TRUE	0.0386	6	4	1	0.25	0.167	CORUM:337	cor	6	Dystrophin-sarcoglycan-syntrophin complex, skeletal muscle	1	SGCG
+4	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:347	cor	2	Sarcoglycan-sarcospan-complex SG-SPN	1	SGCG
+5	1	TRUE	0.0409	7	4	1	0.25	0.143	CORUM:349	cor	1	Sarcoglycan-sarcospan-syntrophin-dystrobrevin complex	1	SGCG
+6	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:334	cor	7	Skeletal muscle sarcoglycan complex SGC, epsilon-beta-gamma-delta	1	SGCG
+7	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:325	cor	10	Skeletal muscle sarcoglycan complex SGC, beta-gamma-delta-zeta	1	SGCG
+8	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:329	cor	11	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCG
+9	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:332	cor	13	Skeletal muscle sarcoglycan complex SGC, alpha-beta-epsilon-gamma	1	SGCG
+10	1	TRUE	0.0323	3	4	1	0.25	0.333	CORUM:6398	cor	12	Dnajc5b-Sgta-Hsc70 complex	1	DNAJC5B
+11	1	TRUE	0.0492	10	4	1	0.25	0.1	CORUM:495	cor	5	Cytochrome bc1-complex, mitochondrial	1	UQCRQ
+12	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:131	cor	8	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCG
+13	1	TRUE	0.0323	4	4	1	0.25	0.25	CORUM:333	cor	4	Skeletal muscle sarcoglycan complex SGC, alpha-beta-gamma-delta	1	SGCG

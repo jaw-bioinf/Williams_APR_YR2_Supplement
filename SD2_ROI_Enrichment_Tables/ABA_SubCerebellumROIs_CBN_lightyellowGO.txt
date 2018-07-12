@@ -1,0 +1,15 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:5365	cor	8	Ripk2-Nod2 complex	1	NOD2
+2	1	TRUE	0.048	1	12	1	0.083	1	CORUM:37	cor	4	Harmonin-CAD23 complex	1	CDH23
+3	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:396	cor	5	Succinyl-CoA synthetase, GDP-forming	1	SUCLG1
+4	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:416	cor	12	Nitric oxide synthase-dystrophin complex, skeletal muscle	1	DMD
+5	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:1610	cor	11	G protein complex (Gngt2, Kcnj6, Gnb1)	1	GNGT2
+6	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:505	cor	15	Kir4.1-dystrophin complex	1	DMD
+7	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:488	cor	10	Vezf1-p68RacGap complex	1	ARHGAP22
+8	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:751	cor	1	Trpc1-dystrophin-alpha1-syntrophin complex	1	DMD
+9	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:395	cor	2	Succinyl-CoA synthetase, ADP-forming	1	SUCLG1
+10	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:6326	cor	9	Dystrophin complex (Dmd; Snta1)	1	DMD
+11	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:6327	cor	7	Dystrophin complex (Dmd; Stnb1)	1	DMD
+12	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:502	cor	14	Kir4.1-dystrophin complex	1	DMD
+13	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:1135	cor	3	Mss4-Itga3 complex	1	ITGA3
+14	1	TRUE	0.048	2	12	1	0.083	0.5	CORUM:5627	cor	6	Cdh23-Myo1c complex	1	CDH23

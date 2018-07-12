@@ -1,0 +1,32 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	5	7.87	5.52	0.00042	0.031	8.83	2.7	22.5
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	5	6.5	4.87	0.001	0.031	7.21	2.22	18.2
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	5	6.5	4.87	0.001	0.031	7.21	2.22	18.2
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	3	8.79	4.58	0.0047	0.033	9.66	1.88	31.2
+R-HSA-192823	Viral mRNA Translation	89	4	6.72	4.45	0.0029	0.033	7.36	1.9	20.5
+R-HSA-180585	Vif-mediated degradation of APOBEC3G	54	3	8.3	4.42	0.0056	0.033	9.09	1.77	29.3
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	5	5.62	4.4	0.0019	0.033	6.18	1.91	15.6
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	4	6.43	4.32	0.0034	0.033	7.03	1.82	19.5
+R-HSA-72649	Translation initiation complex formation	58	3	7.73	4.22	0.0068	0.033	8.42	1.64	27.1
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	3	7.73	4.22	0.0068	0.033	8.42	1.64	27.1
+R-HSA-168255	Influenza Life Cycle	143	5	5.23	4.18	0.0026	0.033	5.73	1.77	14.4
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	3	7.6	4.17	0.0071	0.033	8.27	1.61	26.5
+R-HSA-5678895	Defective CFTR causes cystic fibrosis	61	3	7.35	4.08	0.0078	0.033	7.99	1.56	25.6
+R-HSA-72689	Formation of a pool of free 40S subunits	101	4	5.92	4.08	0.0046	0.033	6.44	1.67	17.8
+R-HSA-5663205	Infectious disease	326	8	3.67	4.02	0.0014	0.033	4.1	1.68	8.72
+R-HSA-168254	Influenza Infection	154	5	4.85	3.95	0.0036	0.033	5.3	1.64	13.3
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	4	5.39	3.81	0.0064	0.033	5.84	1.52	16.1
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	4	5.34	3.79	0.0066	0.033	5.78	1.5	16
+R-HSA-72613	Eukaryotic Translation Initiation	119	4	5.02	3.62	0.0082	0.033	5.43	1.41	15
+R-HSA-72737	Cap-dependent Translation Initiation	119	4	5.02	3.62	0.0082	0.033	5.43	1.41	15
+R-HSA-8951664	Neddylation	235	6	3.82	3.58	0.0047	0.033	4.17	1.46	9.75
+R-HSA-72766	Translation	258	6	3.48	3.31	0.0074	0.033	3.78	1.32	8.83
+R-HSA-392499	Metabolism of proteins	1907	22	1.72	2.88	0.005	0.033	2.09	1.19	3.56
+R-HSA-1234176	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	66	3	6.79	3.88	0.0097	0.037	7.35	1.44	23.5
+R-HSA-5658442	Regulation of RAS by GAPs	68	3	6.59	3.8	0.011	0.037	7.12	1.4	22.7
+R-HSA-162909	Host Interactions of HIV factors	128	4	4.67	3.43	0.011	0.037	5.03	1.31	13.8
+R-HSA-1234174	Regulation of Hypoxia-inducible Factor (HIF) by oxygen	75	3	5.98	3.55	0.014	0.045	6.43	1.26	20.4
+R-HSA-2262749	Cellular response to hypoxia	75	3	5.98	3.55	0.014	0.045	6.43	1.26	20.4
+R-HSA-1483255	PI Metabolism	78	3	5.75	3.45	0.015	0.048	6.17	1.21	19.5
+R-HSA-5619084	ABC transporter disorders	81	3	5.54	3.36	0.017	0.05	5.93	1.17	18.8
+R-HSA-556833	Metabolism of lipids	696	10	2.15	2.58	0.017	0.05	2.37	1.07	4.71

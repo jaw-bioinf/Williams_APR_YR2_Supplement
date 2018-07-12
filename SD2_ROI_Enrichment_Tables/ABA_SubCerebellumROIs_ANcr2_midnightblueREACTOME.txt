@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5654704	SHC-mediated cascade:FGFR3	18	3	13.2	5.87	0.0014	0.041	16	2.94	57.6
+R-HSA-5654719	SHC-mediated cascade:FGFR4	20	3	11.9	5.52	0.0019	0.041	14.2	2.62	49.9
+R-HSA-5654688	SHC-mediated cascade:FGFR1	21	3	11.4	5.36	0.0022	0.041	13.4	2.49	46.6
+R-HSA-5654699	SHC-mediated cascade:FGFR2	23	3	10.4	5.08	0.0029	0.041	12	2.26	41.3
+R-HSA-451927	Interleukin-2 family signaling	42	4	7.57	4.82	0.0018	0.041	8.49	2.17	24.1
+R-HSA-5654708	Downstream signaling of activated FGFR3	25	3	9.54	4.82	0.0037	0.041	10.9	2.07	37.1
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	48	4	6.62	4.41	0.003	0.041	7.33	1.88	20.6
+R-HSA-449147	Signaling by Interleukins	454	14	2.45	3.57	0.0017	0.041	2.68	1.41	4.74
+R-HSA-5683057	MAPK family signaling cascades	288	10	2.76	3.42	0.0034	0.041	2.98	1.38	5.76
+R-HSA-1280215	Cytokine Signaling in Immune system	678	18	2.11	3.38	0.002	0.041	2.33	1.32	3.89
+R-HSA-5654716	Downstream signaling of activated FGFR4	27	3	8.83	4.6	0.0046	0.042	10	1.91	33.6
+R-HSA-114604	GPVI-mediated activation cascade	55	4	5.78	4.01	0.005	0.042	6.32	1.63	17.6
+R-HSA-5684996	MAPK1/MAPK3 signaling	249	9	2.87	3.38	0.0041	0.042	3.09	1.36	6.17
+R-HSA-5654696	Downstream signaling of activated FGFR2	30	3	7.95	4.3	0.0062	0.049	8.9	1.71	29.5
+R-HSA-5654687	Downstream signaling of activated FGFR1	31	3	7.69	4.21	0.0068	0.05	8.58	1.65	28.4

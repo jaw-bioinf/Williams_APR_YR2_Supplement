@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05202	Transcriptional misregulation in cancer	179	16	3.25	5.12	3e-05	0.0031	3.7	2.02	6.37
+path:hsa04068	FoxO signaling pathway	131	11	3.05	3.99	0.00092	0.047	3.38	1.61	6.42

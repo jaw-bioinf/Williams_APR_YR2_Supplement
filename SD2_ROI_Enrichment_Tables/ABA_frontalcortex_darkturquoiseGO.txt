@@ -1,0 +1,15 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0448	1	9	1	0.111	1	CORUM:2014	cor	14	Whrn homodimer complex	1	WHRN
+2	1	TRUE	0.0448	1	9	1	0.111	1	CORUM:3016	cor	5	Cohesin complex, incomplete (Stag3, Sycp3)	1	STAG3
+3	1	TRUE	0.0467	4	9	1	0.111	0.25	CORUM:187	cor	13	Wave-2 complex (Rac-activated)	1	CYFIP1
+4	1	TRUE	0.0448	3	9	1	0.111	0.333	CORUM:249	cor	9	Caspase-2-TRAF2-RIP1 complex	1	CASP2
+5	1	TRUE	0.0448	3	9	1	0.111	0.333	CORUM:3014	cor	8	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	STAG3
+6	1	TRUE	0.0467	4	9	1	0.111	0.25	CORUM:188	cor	4	Wave-2 complex	1	CYFIP1
+7	1	TRUE	0.0448	2	9	1	0.111	0.5	CORUM:719	cor	10	S100A10-annexin 2 complex	1	ANXA2
+8	1	TRUE	0.0448	2	9	1	0.111	0.5	CORUM:2729	cor	11	PIP complex	1	PARVA
+9	1	TRUE	0.0448	3	9	1	0.111	0.333	CORUM:718	cor	2	TRPV5-S100A10-annexin 2 complex	1	ANXA2
+10	1	TRUE	0.0448	2	9	1	0.111	0.5	CORUM:5120	cor	6	p19-Cdk6 complex	1	CDK6
+11	1	TRUE	0.0448	3	9	1	0.111	0.333	CORUM:6560	cor	3	PHB-ANX2-CD36 complex	1	ANXA2
+12	1	TRUE	0.0467	4	9	1	0.111	0.25	CORUM:3119	cor	15	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	LIN7A
+13	1	TRUE	0.0448	2	9	1	0.111	0.5	CORUM:3017	cor	12	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	STAG3
+14	1	TRUE	0.0448	2	9	1	0.111	0.5	CORUM:5128	cor	7	p18-Cdk6 complex	1	CDK6

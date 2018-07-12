@@ -1,0 +1,24 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2995383	Initiation of Nuclear Envelope Reformation	13	3	12.2	5.62	0.0016	0.031	15.8	2.77	62.1
+R-HSA-2995410	Nuclear Envelope Reassembly	13	3	12.2	5.62	0.0016	0.031	15.8	2.77	62.1
+R-HSA-156581	Methylation	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-4839735	AXIN mutants destabilize the destruction complex, activating WNT signaling	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-4839744	truncated APC mutants destabilize the destruction complex	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-4839748	AMER1 mutants destabilize the destruction complex	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-5467337	APC truncation mutants have impaired AXIN binding	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-5467340	AXIN missense mutants destabilize the destruction complex	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-5467348	Truncations of AMER1 destabilize the destruction complex	14	3	11.4	5.38	0.0021	0.031	14.4	2.55	55
+R-HSA-5673000	RAF activation	25	4	8.48	5.19	0.0011	0.031	10.1	2.49	30.3
+R-HSA-4839743	phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the destruction complex	15	3	10.6	5.16	0.0025	0.031	13.2	2.37	49.4
+R-HSA-5339716	Misspliced GSK3beta mutants stabilize beta-catenin	15	3	10.6	5.16	0.0025	0.031	13.2	2.37	49.4
+R-HSA-5358747	S33 mutants of beta-catenin aren't phosphorylated	15	3	10.6	5.16	0.0025	0.031	13.2	2.37	49.4
+R-HSA-5358749	S37 mutants of beta-catenin aren't phosphorylated	15	3	10.6	5.16	0.0025	0.031	13.2	2.37	49.4
+R-HSA-5358751	S45 mutants of beta-catenin aren't phosphorylated	15	3	10.6	5.16	0.0025	0.031	13.2	2.37	49.4
+R-HSA-5358752	T41 mutants of beta-catenin aren't phosphorylated	15	3	10.6	5.16	0.0025	0.031	13.2	2.37	49.4
+R-HSA-381038	XBP1(S) activates chaperone genes	57	6	5.58	4.81	0.00068	0.031	6.28	2.17	14.9
+R-HSA-381070	IRE1alpha activates chaperones	59	6	5.39	4.69	0.00082	0.031	6.04	2.1	14.3
+R-HSA-381119	Unfolded Protein Response (UPR)	93	7	3.99	4.01	0.0018	0.031	4.35	1.68	9.54
+R-HSA-392499	Metabolism of proteins	1907	56	1.56	3.74	0.00026	0.031	1.81	1.3	2.51
+R-HSA-196299	Beta-catenin phosphorylation cascade	17	3	9.35	4.78	0.0037	0.039	11.3	2.06	40.9
+R-HSA-432142	Platelet sensitization by LDL	17	3	9.35	4.78	0.0037	0.039	11.3	2.06	40.9
+R-HSA-4791275	Signaling by WNT in cancer	34	4	6.23	4.24	0.0037	0.039	7.05	1.79	20.3

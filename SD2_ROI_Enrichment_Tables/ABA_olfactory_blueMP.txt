@@ -1,0 +1,3 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003560 osteoarthritis 26 14 3.59 5.55 4.5e-06 0.018 6.66 2.85 15.8
+MP:0005166 decreased susceptibility to injury 159 44 1.84 4.51 2.5e-05 0.049 2.2 1.51 3.16

@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0391	189	60	6	0.1	0.032	GO:0043209	CC	5	myelin sheath	1	PGAM1,MDH1,SLC25A12,GOT2,THY1,ATP5H
+2	1	TRUE	0.0377	2	5	1	0.2	0.5	CORUM:6201	cor	2	Dock3-Elmo-RhoG complex	1	ELMO1
+3	1	TRUE	0.0377	2	5	1	0.2	0.5	CORUM:1804	cor	6	Smurf1-Par6 complex	1	SMURF1
+4	1	TRUE	0.045	6	5	1	0.2	0.167	CORUM:5271	cor	3	Kif3-cadherin-catenin complex	1	CTNND1
+5	1	TRUE	0.0377	4	5	1	0.2	0.25	CORUM:3867	cor	8	Xin-Cdh2-Ctnnb1-Ctnnd1 complex	1	CTNND1
+6	1	TRUE	0.0377	3	5	1	0.2	0.333	CORUM:6214	cor	4	Dock8-Wipf1-Was complex	1	DOCK8

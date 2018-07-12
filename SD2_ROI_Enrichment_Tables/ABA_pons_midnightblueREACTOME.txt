@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5358346	Hedgehog ligand biogenesis	64	3	20.4	7.47	4e-04	0.0032	24.4	4.52	85.2
+R-HSA-5358351	Signaling by Hedgehog	148	4	11.8	6.33	0.00033	0.0032	14.4	3.51	44
+R-HSA-5610787	Hedgehog 'off' state	113	3	11.6	5.42	0.0021	0.0067	13.5	2.52	46.4
+R-HSA-597592	Post-translational protein modification	1353	9	2.9	3.6	0.002	0.0067	4.14	1.58	10.3
+R-HSA-392499	Metabolism of proteins	1907	11	2.51	3.52	0.0016	0.0067	3.91	1.56	9.7
+R-HSA-5689880	Ub-specific processing proteases	220	3	5.94	3.55	0.013	0.032	6.75	1.28	23
+R-HSA-201681	TCF dependent signaling in response to WNT	224	3	5.83	3.51	0.014	0.032	6.63	1.25	22.6
+R-HSA-8951664	Neddylation	235	3	5.56	3.39	0.016	0.032	6.31	1.19	21.5
+R-HSA-71291	Metabolism of amino acids and derivatives	251	3	5.2	3.24	0.019	0.034	5.89	1.11	20
+R-HSA-5688426	Deubiquitination	295	3	4.43	2.87	0.029	0.046	4.98	0.942	16.9
+R-HSA-195721	Signaling by WNT	314	3	4.16	2.73	0.034	0.049	4.67	0.883	15.9

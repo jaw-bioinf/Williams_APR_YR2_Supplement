@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00190	Oxidative phosphorylation	133	60	3.41	11	9.7e-20	2.4e-17	5.7	3.95	8.2
+path:hsa05012	Parkinson's disease	142	60	3.19	10.3	5.1e-18	6.4e-16	5.07	3.54	7.22
+path:hsa05016	Huntington's disease	193	66	2.58	8.71	3.2e-14	2.7e-12	3.6	2.61	4.93
+path:hsa05010	Alzheimer's disease	171	59	2.6	8.31	5.1e-13	3.2e-11	3.63	2.58	5.06
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	46	2.33	6.42	1.2e-08	6e-07	3.03	2.08	4.37
+path:hsa03013	RNA transport	171	47	2.08	5.57	4.3e-07	1.8e-05	2.57	1.78	3.65
+path:hsa03018	RNA degradation	77	23	2.26	4.33	9.8e-05	0.0035	2.84	1.65	4.73
+path:hsa04146	Peroxisome	83	24	2.18	4.24	0.00012	0.0039	2.71	1.6	4.45
+path:hsa04130	SNARE interactions in vesicular transport	34	13	2.89	4.31	0.00022	0.0062	4.1	1.88	8.61
+path:hsa00280	Valine, leucine and isoleucine degradation	48	15	2.36	3.69	0.00093	0.024	3.01	1.51	5.73
+path:hsa00240	Pyrimidine metabolism	101	25	1.87	3.44	0.0012	0.027	2.19	1.33	3.5
+path:hsa04110	Cell cycle	124	29	1.77	3.36	0.0013	0.028	2.03	1.28	3.13

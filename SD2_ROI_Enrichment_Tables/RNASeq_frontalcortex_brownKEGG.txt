@@ -1,0 +1,18 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	72	29	2.67	6	1.7e-07	4.1e-05	3.88	2.32	6.39
+path:hsa04512	ECM-receptor interaction	82	31	2.5	5.78	3.5e-07	4.3e-05	3.49	2.15	5.6
+path:hsa04520	Adherens junction	72	27	2.48	5.34	2.4e-06	0.00019	3.44	2.04	5.7
+path:hsa00310	Lysine degradation	59	22	2.47	4.78	2.3e-05	0.0012	3.4	1.9	5.94
+path:hsa04919	Thyroid hormone signaling pathway	116	35	2	4.58	2.5e-05	0.0012	2.48	1.61	3.76
+path:hsa05410	Hypertrophic cardiomyopathy (HCM)	83	27	2.15	4.46	4.9e-05	0.002	2.76	1.67	4.47
+path:hsa04510	Focal adhesion	199	50	1.66	4.01	0.00012	0.0042	1.93	1.36	2.7
+path:hsa04060	Cytokine-cytokine receptor interaction	270	63	1.55	3.86	0.00017	0.005	1.76	1.29	2.36
+path:hsa04151	PI3K-Akt signaling pathway	341	76	1.48	3.81	0.00019	0.005	1.66	1.26	2.18
+path:hsa05202	Transcriptional misregulation in cancer	179	45	1.67	3.8	0.00026	0.0061	1.93	1.34	2.75
+path:hsa05200	Pathways in cancer	395	85	1.43	3.68	0.00028	0.0061	1.59	1.22	2.05
+path:hsa05414	Dilated cardiomyopathy	89	26	1.94	3.74	0.00047	0.0095	2.36	1.42	3.8
+path:hsa04330	Notch signaling pathway	48	16	2.21	3.54	0.0012	0.02	2.84	1.45	5.36
+path:hsa04550	Signaling pathways regulating pluripotency of stem cells	139	35	1.67	3.36	0.0012	0.02	1.92	1.27	2.87
+path:hsa04020	Calcium signaling pathway	181	43	1.57	3.3	0.0012	0.02	1.79	1.23	2.55
+path:hsa04024	cAMP signaling pathway	198	46	1.54	3.25	0.0014	0.021	1.74	1.21	2.45
+path:hsa05224	Breast cancer	144	35	1.61	3.12	0.0023	0.032	1.83	1.21	2.73

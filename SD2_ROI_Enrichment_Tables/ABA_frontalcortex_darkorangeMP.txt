@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002492	decreased IgE level	71	6	8.91	6.55	5.4e-05	0.011	10.3	3.53	24.5
+MP:0002148	abnormal hypersensitivity reaction	170	9	5.58	5.9	3.1e-05	0.011	6.39	2.77	13
+MP:0002498	abnormal acute inflammation	328	12	3.86	5.16	5.7e-05	0.011	4.43	2.17	8.31
+MP:0005087	decreased acute inflammation	196	9	4.84	5.32	9.4e-05	0.014	5.48	2.38	11.2
+MP:0002534	abnormal type IV hypersensitivity reaction	94	6	6.73	5.46	0.00026	0.026	7.56	2.63	17.8
+MP:0001876	decreased inflammatory response	273	10	3.86	4.7	0.00025	0.026	4.35	1.98	8.56
+MP:0020173	abnormal IgE level	143	7	5.16	4.91	4e-04	0.034	5.75	2.2	12.7
+MP:0003945	abnormal lymphocyte physiology	1033	21	2.14	3.81	0.00052	0.039	2.53	1.47	4.21

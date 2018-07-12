@@ -1,0 +1,19 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0001360 abnormal social investigation 106 13 7.2 8.45 2.5e-08 2.7e-05 8.7 4.36 16.1
+MP:0002062 abnormal associative learning 290 19 3.85 6.48 4.4e-07 0.00023 4.46 2.57 7.37
+MP:0001454 abnormal cued conditioning behavior 115 11 5.62 6.56 3.8e-06 0.0014 6.48 3.07 12.4
+MP:0014114 abnormal cognition 665 28 2.47 5.19 6.4e-06 0.0017 2.87 1.82 4.38
+MP:0001399 hyperactivity 475 22 2.72 5.06 1.7e-05 0.0032 3.09 1.86 4.94
+MP:0002063 abnormal learning/memory/conditioning 664 27 2.39 4.89 1.8e-05 0.0032 2.74 1.73 4.22
+MP:0001469 abnormal contextual conditioning behavior 144 11 4.49 5.55 3.3e-05 0.005 5.05 2.41 9.61
+MP:0001468 abnormal temporal memory 173 12 4.07 5.37 3.7e-05 0.005 4.57 2.26 8.45
+MP:0002557 abnormal social/conspecific interaction 351 17 2.84 4.64 9.5e-05 0.011 3.17 1.78 5.34
+MP:0001392 abnormal locomotor behavior 1537 45 1.72 4.06 0.00011 0.012 2.04 1.4 2.91
+MP:0001361 social withdrawal 19 4 12.4 6.53 0.00026 0.023 15.8 3.76 50.3
+MP:0009339 decreased splenocyte number 34 5 8.64 5.87 0.00025 0.023 10.2 3.05 27.2
+MP:0001299 abnormal eye distance/ position 77 7 5.34 5.03 0.00032 0.023 5.99 2.29 13.3
+MP:0002572 abnormal emotion/affect behavior 619 23 2.18 4.01 0.00031 0.023 2.44 1.48 3.85
+MP:0003491 abnormal voluntary movement 1648 46 1.64 3.77 0.00028 0.023 1.93 1.33 2.75
+MP:0009435 abnormal miniature inhibitory postsynaptic currents 41 5 7.16 5.2 0.00061 0.04 8.24 2.49 21.5
+MP:0001463 abnormal spatial learning 234 12 3.01 4.1 0.00064 0.04 3.29 1.64 6.05
+MP:0008415 abnormal neurite morphology 423 17 2.36 3.77 0.00085 0.05 2.59 1.45 4.34

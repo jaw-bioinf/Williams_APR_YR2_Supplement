@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69206	G1/S Transition	124	3	11	5.26	0.0024	0.012	12.9	2.41	44.5
+R-HSA-69242	S Phase	138	3	9.89	4.94	0.0033	0.012	11.5	2.16	39.8
+R-HSA-453279	Mitotic G1-G1/S phases	143	3	9.55	4.83	0.0036	0.012	11.1	2.08	38.3

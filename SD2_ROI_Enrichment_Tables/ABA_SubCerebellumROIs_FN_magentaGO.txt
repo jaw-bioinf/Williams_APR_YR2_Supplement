@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0449	2	8	1	0.125	0.5	CORUM:501	cor	5	Ryk-Dvl1 complex	1	RYK
+2	1	TRUE	0.0449	2	8	1	0.125	0.5	CORUM:168	cor	10	Protein-sorting complex (Stam2, Hgs, Eps15)	1	STAM2
+3	1	TRUE	0.0495	4	8	1	0.125	0.25	CORUM:1164	cor	1	ActRIIA-ActRIB-Smad3-Arip1 complex	1	ACVR2A
+4	1	TRUE	0.0479	3	8	1	0.125	0.333	CORUM:161	cor	7	SWAP complex	1	SWAP70
+5	1	TRUE	0.0495	4	8	1	0.125	0.25	CORUM:367	cor	3	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	RAG2
+6	1	TRUE	0.0449	2	8	1	0.125	0.5	CORUM:366	cor	9	Rag1-Rag2 protein-DNA complex	1	RAG2
+7	1	TRUE	0.0479	3	8	1	0.125	0.333	CORUM:498	cor	6	Ryk-Wny1-Fzd8 complex	1	RYK
+8	1	TRUE	0.0449	2	8	1	0.125	0.5	CORUM:500	cor	4	Ryk-Wnt3a complex	1	RYK
+9	1	TRUE	0.0449	2	8	1	0.125	0.5	CORUM:499	cor	2	Ryk-Wny1 complex	1	RYK

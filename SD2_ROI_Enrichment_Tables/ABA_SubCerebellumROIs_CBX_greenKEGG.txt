@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04722	Neurotrophin signaling pathway	119	24	3.09	6.09	4.9e-07	9.8e-05	3.78	2.28	6.04
+path:hsa05032	Morphine addiction	91	20	3.37	6.02	1.1e-06	0.00011	4.19	2.39	7.04
+path:hsa04727	GABAergic synapse	88	18	3.14	5.33	1.1e-05	0.00057	3.8	2.11	6.53
+path:hsa04724	Glutamatergic synapse	114	21	2.83	5.19	1.1e-05	0.00057	3.35	1.96	5.49
+path:hsa05211	Renal cell carcinoma	65	13	3.07	4.43	0.00023	0.0085	3.66	1.82	6.89
+path:hsa04728	Dopaminergic synapse	130	20	2.36	4.14	0.00025	0.0085	2.69	1.56	4.41
+path:hsa04726	Serotonergic synapse	112	18	2.47	4.13	3e-04	0.0085	2.82	1.59	4.76
+path:hsa05030	Cocaine addiction	49	10	3.13	3.95	0.001	0.021	3.74	1.65	7.7
+path:hsa04360	Axon guidance	175	23	2.02	3.6	0.00092	0.021	2.24	1.36	3.53
+path:hsa04024	cAMP signaling pathway	198	25	1.94	3.54	0.001	0.021	2.14	1.33	3.31
+path:hsa04725	Cholinergic synapse	112	16	2.19	3.36	0.0023	0.037	2.44	1.33	4.22
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	19	2.02	3.28	0.0024	0.037	2.23	1.29	3.68
+path:hsa05169	Epstein-Barr virus infection	199	24	1.85	3.22	0.0024	0.037	2.02	1.25	3.15

@@ -1,0 +1,62 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011442	Abnormality of central motor function	1241	28	1.93	4.44	1.6e-05	0.0085	4	2	8.45
+HP:0003808	Abnormal muscle tone	1269	28	1.89	4.31	2.6e-05	0.0085	3.87	1.93	8.16
+HP:0002353	EEG abnormality	246	11	3.83	5	7.7e-05	0.011	5.04	2.25	10.5
+HP:0001276	Hypertonia	626	18	2.46	4.39	8.9e-05	0.011	3.68	1.86	7.18
+HP:0001263	Global developmental delay	946	23	2.08	4.23	7e-05	0.011	3.52	1.81	6.96
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	897	22	2.1	4.15	1e-04	0.011	3.43	1.76	6.74
+HP:0002167	Neurological speech impairment	785	20	2.18	4.08	0.00016	0.011	3.36	1.72	6.56
+HP:0002493	Upper motor neuron dysfunction	918	22	2.05	4.03	0.00015	0.011	3.32	1.71	6.53
+HP:0001250	Seizures	1138	25	1.88	3.93	0.00015	0.011	3.31	1.69	6.66
+HP:0011804	Abnormality of muscle physiology	1558	30	1.65	3.73	0.00016	0.011	3.46	1.68	7.68
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	15	2.59	4.16	0.00026	0.015	3.59	1.75	7.1
+HP:0002280	Enlarged cisterna magna	12	3	21.4	7.7	3e-04	0.016	30.2	5.06	127
+HP:0001273	Abnormality of the corpus callosum	503	15	2.55	4.09	0.00031	0.016	3.52	1.72	6.96
+HP:0002540	Inability to walk	124	7	4.83	4.72	0.00048	0.019	5.89	2.16	13.9
+HP:0001249	Intellectual disability	1135	24	1.81	3.61	0.00046	0.019	3	1.54	5.97
+HP:0012759	Neurodevelopmental abnormality	1623	30	1.58	3.48	4e-04	0.019	3.21	1.56	7.13
+HP:0003011	Abnormality of the musculature	1823	32	1.5	3.37	0.00049	0.019	3.33	1.55	7.96
+HP:0002059	Cerebral atrophy	421	13	2.64	3.91	0.00065	0.02	3.48	1.64	7.01
+HP:0002500	Abnormality of the cerebral white matter	538	15	2.39	3.8	0.00065	0.02	3.25	1.59	6.41
+HP:0011443	Abnormality of coordination	663	17	2.2	3.71	0.00065	0.02	3.09	1.55	6.04
+HP:0100022	Abnormality of movement	1159	24	1.77	3.49	0.00065	0.02	2.9	1.49	5.78
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	13	2.62	3.88	7e-04	0.021	3.45	1.63	6.95
+HP:0001629	Ventricular septal defect	326	11	2.89	3.89	0.00092	0.024	3.67	1.64	7.62
+HP:0001322	Brain very small	434	13	2.56	3.78	0.00088	0.024	3.36	1.58	6.77
+HP:0012444	Brain atrophy	434	13	2.56	3.78	0.00088	0.024	3.36	1.58	6.77
+HP:0011344	Severe global developmental delay	103	6	4.99	4.46	0.0011	0.026	5.95	2	14.8
+HP:0010438	Abnormality of the ventricular septum	333	11	2.83	3.81	0.0011	0.026	3.58	1.6	7.44
+HP:0001311	Abnormal nervous system electrophysiology	443	13	2.51	3.7	0.0011	0.026	3.28	1.55	6.6
+HP:0012758	Neurodevelopmental delay	1201	24	1.71	3.3	0.0012	0.026	2.75	1.41	5.47
+HP:0030178	Abnormality of central nervous system electrophysiology	340	11	2.77	3.73	0.0013	0.027	3.5	1.57	7.26
+HP:0001252	Muscular hypotonia	1058	22	1.78	3.3	0.0013	0.027	2.72	1.4	5.34
+HP:0100543	Cognitive impairment	1131	23	1.74	3.29	0.0013	0.027	2.72	1.4	5.38
+HP:0002536	Abnormal cortical gyration	194	8	3.53	3.94	0.0015	0.029	4.28	1.68	9.61
+HP:0010993	Abnormality of the cerebral subcortex	589	15	2.18	3.41	0.0017	0.033	2.91	1.42	5.74
+HP:0001302	Pachygyria	118	6	4.35	4.03	0.0022	0.035	5.13	1.73	12.7
+HP:0007367	Atrophy/Degeneration affecting the central nervous system	479	13	2.32	3.39	0.0022	0.035	2.99	1.41	6.02
+HP:0001371	Flexion contracture	536	14	2.24	3.38	0.0021	0.035	2.93	1.41	5.82
+HP:0040195	Decreased head circumference	731	17	1.99	3.27	0.0021	0.035	2.73	1.37	5.34
+HP:0000252	Microcephaly	731	17	1.99	3.27	0.0021	0.035	2.73	1.37	5.34
+HP:0001317	Abnormality of the cerebellum	874	19	1.86	3.19	0.0022	0.035	2.64	1.34	5.14
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	22	1.74	3.17	0.0019	0.035	2.62	1.35	5.14
+HP:0001180	Hand oligodactyly	24	3	10.7	5.18	0.0025	0.036	12.9	2.37	46
+HP:0200055	Small hand	83	5	5.16	4.17	0.0025	0.036	6.03	1.8	16
+HP:0002538	Abnormality of the cerebral cortex	211	8	3.25	3.66	0.0025	0.036	3.9	1.54	8.75
+HP:0100261	Abnormal tendon morphology	547	14	2.19	3.3	0.0025	0.036	2.86	1.37	5.68
+HP:0001251	Ataxia	546	14	2.2	3.3	0.0025	0.036	2.86	1.38	5.69
+HP:0003121	Limb joint contracture	319	10	2.68	3.43	0.0029	0.037	3.3	1.43	6.98
+HP:0002119	Ventriculomegaly	374	11	2.52	3.38	0.0029	0.037	3.14	1.41	6.5
+HP:0002311	Incoordination	377	11	2.5	3.35	0.003	0.037	3.11	1.39	6.44
+HP:0001257	Spasticity	491	13	2.27	3.29	0.0028	0.037	2.9	1.37	5.84
+HP:0011282	Abnormality of hindbrain morphology	889	19	1.83	3.11	0.0027	0.037	2.58	1.31	5.02
+HP:0011283	Abnormality of the metencephalon	889	19	1.83	3.11	0.0027	0.037	2.58	1.31	5.02
+HP:0000240	Abnormality of skull size	968	20	1.77	3.06	0.003	0.037	2.53	1.3	4.93
+HP:0000496	Abnormality of eye movement	1200	23	1.64	2.97	0.0031	0.037	2.49	1.28	4.91
+HP:0011446	Abnormality of higher mental function	1451	26	1.53	2.89	0.0034	0.04	2.49	1.26	5.07
+HP:0002373	Febrile seizures	56	4	6.11	4.19	0.0038	0.043	7.09	1.77	20.8
+HP:0001671	Abnormality of the cardiac septa	446	12	2.3	3.2	0.0037	0.043	2.89	1.33	5.9
+HP:0001265	Hyporeflexia	280	9	2.75	3.32	0.0041	0.045	3.32	1.38	7.2
+HP:0002814	Abnormality of the lower limb	1067	21	1.68	2.92	0.004	0.045	2.43	1.25	4.75
+HP:0100360	Contractures of the joints of the upper limbs	233	8	2.94	3.33	0.0047	0.05	3.49	1.38	7.83
+HP:0001713	Abnormality of cardiac ventricle	459	12	2.24	3.09	0.0047	0.05	2.8	1.29	5.7

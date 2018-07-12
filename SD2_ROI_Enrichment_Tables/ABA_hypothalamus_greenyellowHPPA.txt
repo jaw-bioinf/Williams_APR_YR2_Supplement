@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003383	Onion bulb formation	26	3	28.9	9.04	0.00012	0.017	40.8	6.87	169
+HP:0011096	Peripheral demyelination	33	3	22.8	7.96	0.00026	0.018	31.3	5.34	127
+HP:0040129	Abnormal nerve conduction velocity	128	4	7.83	4.98	0.0013	0.031	10.9	2.45	38.3
+HP:0000762	Decreased nerve conduction velocity	128	4	7.83	4.98	0.0013	0.031	10.9	2.45	38.3
+HP:0003134	Abnormality of peripheral nerve conduction	130	4	7.71	4.94	0.0013	0.031	10.7	2.41	37.6
+HP:0045010	Abnormality of peripheral nerves	136	4	7.37	4.8	0.0016	0.031	10.2	2.3	35.9
+HP:0030177	Abnormality of peripheral nervous system electrophysiology	221	5	5.67	4.54	0.0012	0.031	8.43	2.2	28.3
+HP:0003130	Abnormal peripheral myelination	75	3	10	5	0.0029	0.05	12.9	2.27	50.4

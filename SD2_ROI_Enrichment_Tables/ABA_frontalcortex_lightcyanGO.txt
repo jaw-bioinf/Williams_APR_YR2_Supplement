@@ -1,0 +1,19 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0413	3	11	1	0.091	0.333	CORUM:973	cor	2	Sec61alpha-CollagenIV-Hsp47 complex	1	COL4A1
+2	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:3882	cor	10	Abcg5-Abcg8 complex	1	ABCG5
+3	1	TRUE	0.0413	3	11	1	0.091	0.333	CORUM:6427	cor	15	Sufu-Mycbp-Gli1 complex	1	SUFU
+4	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:1074	cor	8	Pkd2-Fpc-Kif3b complex	1	PKD2
+5	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:1073	cor	9	Pkd2-Pkhd1 complex	1	PKD2
+6	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:5960	cor	14	p50-p65 Nf(kappa)B complex, Il-1-beta induced	1	NFKB1
+7	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:6667	cor	17	Glis3-Wwtr1 complex	1	WWTR1
+8	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:935	cor	19	Scrib-APC-beta-catenin complex	1	SCRIB
+9	1	TRUE	0.0413	3	11	1	0.091	0.333	CORUM:931	cor	4	Scrib-beta-PIX-GIT1 complex	1	SCRIB
+10	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:1043	cor	5	Car-Lnx2 complex	1	LNX2
+11	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:3883	cor	11	Abcg5-Abcg1 complex	1	ABCG5
+12	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:5368	cor	3	p50-p65 Nf(kappa)B complex	1	NFKB1
+13	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:6564	cor	6	Nek8-Pkd2 complex	1	PKD2
+14	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:3886	cor	13	Abcg5-Abcg4 complex	1	ABCG5
+15	1	TRUE	0.0332	1	11	1	0.091	1	CORUM:6607	cor	12	Kif7-Sufu homolog	1	SUFU
+16	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:1782	cor	7	TGF-beta receptor	1	TGFBR2
+17	1	TRUE	0.0332	2	11	1	0.091	0.5	CORUM:1076	cor	18	Pkd2-Pkhd1 complex	1	PKD2
+18	1	TRUE	0.0332	1	11	1	0.091	1	CORUM:3884	cor	1	Abcg5-Abcg2 complex	1	ABCG5

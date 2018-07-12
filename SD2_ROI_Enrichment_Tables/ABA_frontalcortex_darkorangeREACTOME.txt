@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	4	7.03	4.58	0.0025	0.043	7.72	1.99	21.5
+R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	121	5	5.52	4.34	0.0021	0.043	6.05	1.87	15.2
+R-HSA-2990846	SUMOylation	127	5	5.26	4.19	0.0026	0.043	5.74	1.78	14.4

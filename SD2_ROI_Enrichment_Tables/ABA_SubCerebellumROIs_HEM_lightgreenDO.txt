@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9973	substance dependence	265	14	3.63	5.3	2.6e-05	0.0044	4.21	2.18	7.58
+DOID:303	substance-related disorder	286	14	3.36	4.95	6.1e-05	0.0044	3.87	2.01	6.96
+DOID:150	disease of mental health	1255	35	1.91	4.35	4.9e-05	0.0044	2.43	1.56	3.73
+DOID:9588	encephalitis	50	5	6.86	5.06	0.00075	0.041	7.84	2.38	20.3

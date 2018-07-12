@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:5419	schizophrenia	635	73	1.68	4.85	4.5e-06	0.00078	1.9	1.44	2.48
+DOID:2468	psychotic disorder	637	73	1.67	4.82	5e-06	0.00078	1.89	1.43	2.47
+DOID:1561	cognitive disorder	812	88	1.58	4.77	4.8e-06	0.00078	1.8	1.39	2.3
+DOID:3093	nervous system cancer	523	58	1.62	3.98	0.00013	0.016	1.79	1.31	2.4
+DOID:150	disease of mental health	1255	116	1.35	3.69	0.00022	0.021	1.51	1.2	1.88
+DOID:4851	pilocytic astrocytoma	11	5	6.63	5.07	0.00048	0.038	11.4	2.75	45.1

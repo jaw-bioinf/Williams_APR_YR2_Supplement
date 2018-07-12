@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-168898	Toll-Like Receptors Cascades	153	4	7.08	4.61	0.0023	0.035	7.99	2.03	22.9
+R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	92	3	8.82	4.59	0.0047	0.035	9.8	1.89	32
+R-HSA-975155	MyD88 dependent cascade initiated on endosome	92	3	8.82	4.59	0.0047	0.035	9.8	1.89	32
+R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	96	3	8.46	4.47	0.0052	0.035	9.37	1.81	30.6

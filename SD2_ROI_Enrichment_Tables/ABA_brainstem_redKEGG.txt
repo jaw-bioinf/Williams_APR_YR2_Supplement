@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04137	Mitophagy - animal	65	9	5.29	5.7	4.3e-05	0.0024	6.24	2.67	13
+path:hsa05169	Epstein-Barr virus infection	199	16	3.07	4.86	5.9e-05	0.0024	3.48	1.9	5.98
+path:hsa05016	Huntington's disease	193	14	2.77	4.09	5e-04	0.014	3.07	1.61	5.45
+path:hsa04721	Synaptic vesicle cycle	63	7	4.24	4.24	0.0012	0.024	4.8	1.82	10.8
+path:hsa05132	Salmonella infection	86	8	3.55	3.91	0.0018	0.028	3.95	1.62	8.35
+path:hsa04144	Endocytosis	260	15	2.2	3.24	0.0032	0.044	2.4	1.29	4.15

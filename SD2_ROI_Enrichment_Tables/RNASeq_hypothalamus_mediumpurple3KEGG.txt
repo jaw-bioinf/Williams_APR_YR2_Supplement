@@ -1,0 +1,30 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04510 Focal adhesion 199 16 8.9 10.8 1.1e-11 6.8e-10 12.7 6.56 23.5
+path:hsa04512 ECM-receptor interaction 82 10 13.5 10.9 2.1e-09 6.7e-08 18.1 7.85 37.8
+path:hsa05146 Amoebiasis 95 9 10.5 8.89 1.4e-07 2.9e-06 13.3 5.58 28.4
+path:hsa04810 Regulation of actin cytoskeleton 212 12 6.27 7.44 3e-07 4.7e-06 7.97 3.79 15.5
+path:hsa05222 Small cell lung cancer 84 7 9.23 7.24 9e-06 9.5e-05 11.1 4.14 25.7
+path:hsa04151 PI3K-Akt signaling pathway 341 13 4.22 5.83 7.9e-06 9.5e-05 5.27 2.59 10
+path:hsa04520 Adherens junction 72 6 9.23 6.7 4.1e-05 0.00037 11 3.72 26.7
+path:hsa05205 Proteoglycans in cancer 203 9 4.91 5.4 7.4e-05 0.00059 5.81 2.48 12.1
+path:hsa04540 Gap junction 88 6 7.55 5.9 0.00013 9e-04 8.8 3.01 21.2
+path:hsa05145 Toxoplasmosis 113 6 5.88 4.99 5e-04 0.0032 6.72 2.31 16.1
+path:hsa01521 EGFR tyrosine kinase inhibitor resistance 79 5 7.01 5.13 0.00069 0.0036 7.99 2.43 20.6
+path:hsa05200 Pathways in cancer 395 11 3.08 4.08 0.00069 0.0036 3.62 1.68 7.13
+path:hsa04210 Apoptosis 138 6 4.81 4.32 0.0014 0.007 5.43 1.87 12.9
+path:hsa05416 Viral myocarditis 58 4 7.64 4.85 0.0018 0.0075 8.63 2.2 24.6
+path:hsa04915 Estrogen signaling pathway 98 5 5.65 4.43 0.0018 0.0075 6.34 1.94 16.2
+path:hsa05231 Choline metabolism in cancer 99 5 5.59 4.39 0.0019 0.0075 6.27 1.92 16
+path:hsa04670 Leukocyte transendothelial migration 112 5 4.94 4.02 0.0033 0.012 5.5 1.68 14
+path:hsa04918 Thyroid hormone synthesis 74 4 5.99 4.12 0.0043 0.014 6.64 1.7 18.7
+path:hsa04530 Tight junction 170 6 3.91 3.67 0.0041 0.014 4.35 1.51 10.3
+path:hsa05100 Bacterial invasion of epithelial cells 76 4 5.83 4.04 0.0048 0.015 6.46 1.66 18.2
+path:hsa05132 Salmonella infection 86 4 5.15 3.7 0.0074 0.022 5.66 1.46 15.9
+path:hsa05215 Prostate cancer 87 4 5.09 3.67 0.0077 0.022 5.59 1.44 15.7
+path:hsa05224 Breast cancer 144 5 3.84 3.29 0.0094 0.026 4.21 1.3 10.7
+path:hsa04922 Glucagon signaling pathway 102 4 4.34 3.25 0.013 0.035 4.72 1.22 13.2
+path:hsa05206 MicroRNAs in cancer 299 7 2.59 2.69 0.017 0.044 2.85 1.08 6.35
+path:hsa05214 Glioma 64 3 5.19 3.22 0.02 0.046 5.62 1.1 18.1
+path:hsa05131 Shigellosis 65 3 5.11 3.18 0.021 0.046 5.53 1.08 17.8
+path:hsa05230 Central carbon metabolism in cancer 65 3 5.11 3.18 0.021 0.046 5.53 1.08 17.8
+path:hsa04020 Calcium signaling pathway 181 5 3.06 2.68 0.023 0.05 3.31 1.02 8.34

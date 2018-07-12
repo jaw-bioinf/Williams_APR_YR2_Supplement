@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04512	ECM-receptor interaction	82	28	2.22	4.73	1.9e-05	0.0048	2.9	1.76	4.69
+path:hsa04060	Cytokine-cytokine receptor interaction	270	63	1.52	3.69	0.00031	0.039	1.72	1.26	2.31

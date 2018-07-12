@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-209776	Amine-derived hormones	18	3	13.9	6.04	0.0012	0.033	16.9	3.09	60.7
+R-HSA-73884	Base Excision Repair	39	4	8.56	5.21	0.0012	0.033	9.71	2.47	27.8
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	39	4	8.56	5.21	0.0012	0.033	9.71	2.47	27.8

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	5	11.8	7.08	5.9e-05	0.0018	14.1	4.19	37.4
+R-HSA-2682334	EPH-Ephrin signaling	81	4	13.7	6.91	0.00019	0.0027	16.1	4.03	46.9
+R-HSA-611105	Respiratory electron transport	95	4	11.7	6.3	0.00035	0.0027	13.6	3.42	39.4
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	5	8.43	5.78	0.00029	0.0027	9.89	2.96	26.1
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	50	3	16.7	6.68	0.00074	0.0045	19.2	3.64	64.5
+R-HSA-5688426	Deubiquitination	295	5	4.71	3.89	0.0038	0.019	5.39	1.62	14.1

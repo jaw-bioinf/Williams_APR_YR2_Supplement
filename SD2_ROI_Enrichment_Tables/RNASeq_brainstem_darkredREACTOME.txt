@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	19	3	20.3	7.45	4e-04	0.021	24.7	4.53	89
+R-HSA-877300	Interferon gamma signaling	90	5	7.13	5.18	0.00066	0.021	7.93	2.44	20.1
+R-HSA-390522	Striated Muscle Contraction	36	3	10.7	5.16	0.0027	0.038	12	2.3	39.6
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	4	7.55	4.8	0.0019	0.038	8.33	2.15	23.3
+R-HSA-168256	Immune System	1970	26	1.69	3.05	0.003	0.038	2.06	1.23	3.36
+R-HSA-913531	Interferon Signaling	196	6	3.93	3.67	0.0042	0.044	4.27	1.5	9.93
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	4	5.46	3.85	0.0061	0.046	5.91	1.54	16.3
+R-HSA-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	96	4	5.35	3.79	0.0066	0.046	5.78	1.5	15.9
+R-HSA-168249	Innate Immune System	1035	16	1.98	2.96	0.0055	0.046	2.26	1.21	3.98

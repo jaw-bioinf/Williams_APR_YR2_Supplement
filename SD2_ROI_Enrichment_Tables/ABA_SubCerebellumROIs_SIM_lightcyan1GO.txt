@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6397	cor	2	Dnajc5-Sgta complex	1	SGTA
+2	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6312	cor	4	P300–Clock–Bmal1 complex	1	EP300
+3	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6398	cor	3	Dnajc5b-Sgta-Hsc70 complex	1	SGTA

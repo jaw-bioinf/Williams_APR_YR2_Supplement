@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-611105	Respiratory electron transport	95	7	18.9	11	6.6e-08	1.2e-06	24.5	8.9	58.6
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	8	12.4	9.27	1.8e-07	1.6e-06	16.1	6.3	36.6
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	7	15.2	9.72	3e-07	1.8e-06	19.4	7.08	46
+R-HSA-6799198	Complex I biogenesis	55	4	18.7	8.22	5.8e-05	0.00026	22.2	5.53	65.5
+R-HSA-1430728	Metabolism	1899	17	2.3	3.93	0.00036	0.0013	3.32	1.65	6.57
+R-HSA-5620920	Cargo trafficking to the periciliary membrane	51	3	15.1	6.31	0.001	0.003	17.2	3.28	57.5

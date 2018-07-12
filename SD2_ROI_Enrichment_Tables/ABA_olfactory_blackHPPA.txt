@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0001561 Polyhydramnios 147 14 3.52 5.2 3e-05 0.039 4.26 2.17 7.82
+HP:0000457 Depressed nasal ridge 101 11 4.02 5.14 6.8e-05 0.039 4.83 2.25 9.51
+HP:0011119 Abnormality of the nasal dorsum 184 15 3.01 4.68 9.5e-05 0.039 3.6 1.88 6.46
+HP:0002334 Abnormality of the cerebellar vermis 209 16 2.83 4.55 0.00012 0.039 3.38 1.81 5.97

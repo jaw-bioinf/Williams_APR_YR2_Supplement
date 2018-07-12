@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:74	hematopoietic system disease	435	11	3.69	4.81	0.00013	0.018	4.58	2.09	9.24
+DOID:12177	common variable immunodeficiency	29	3	15.1	6.32	0.00098	0.041	17.7	3.32	61.2
+DOID:2452	thrombophilia	34	3	12.9	5.76	0.0016	0.041	14.9	2.81	50.4
+DOID:2583	agammaglobulinemia	35	3	12.5	5.67	0.0017	0.041	14.4	2.72	48.7
+DOID:2115	B cell deficiency	40	3	10.9	5.24	0.0025	0.041	12.4	2.37	41.6
+DOID:9974	drug dependence	40	3	10.9	5.24	0.0025	0.041	12.4	2.37	41.6
+DOID:303	substance-related disorder	286	8	4.08	4.42	0.00064	0.041	4.8	1.92	10.5
+DOID:9973	substance dependence	265	7	3.85	3.93	0.002	0.041	4.43	1.66	10.1
+DOID:5082	liver cirrhosis	207	6	4.23	3.92	0.0027	0.041	4.8	1.65	11.5

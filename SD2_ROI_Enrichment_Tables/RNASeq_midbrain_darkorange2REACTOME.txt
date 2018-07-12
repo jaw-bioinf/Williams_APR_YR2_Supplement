@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	35	3	13.2	5.85	0.0015	0.017	15	2.86	49.9
+R-HSA-114608	Platelet degranulation 	123	5	6.26	4.75	0.0012	0.017	6.94	2.14	17.6
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	5	6.02	4.62	0.0014	0.017	6.65	2.05	16.8
+R-HSA-76002	Platelet activation, signaling and aggregation	271	7	3.98	4.02	0.0018	0.017	4.43	1.69	9.84
+R-HSA-1430728	Metabolism	1899	22	1.78	3.07	0.0031	0.024	2.2	1.25	3.77

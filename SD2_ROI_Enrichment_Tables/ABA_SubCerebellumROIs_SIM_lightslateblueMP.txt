@@ -1,0 +1,26 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003051	curly tail	67	4	19.1	8.33	5.1e-05	0.0036	23.3	5.72	70.2
+MP:0001700	abnormal embryo turning	212	6	9.06	6.64	4.1e-05	0.0036	11.4	3.77	29.3
+MP:0002085	abnormal embryonic tissue morphology	987	12	3.89	5.38	1.8e-05	0.0036	5.99	2.6	13.3
+MP:0000929	open neural tube	251	6	7.65	5.98	1e-04	0.0038	9.58	3.16	24.5
+MP:0001695	abnormal gastrulation	369	7	6.07	5.56	0.00011	0.0038	7.81	2.8	19.1
+MP:0003720	abnormal neural tube closure	377	7	5.94	5.48	0.00012	0.0038	7.63	2.74	18.7
+MP:0014134	abnormal embryo morphology	1333	13	3.12	4.68	7.5e-05	0.0038	4.88	2.15	10.8
+MP:0003054	spina bifida	89	4	14.4	7.1	0.00016	0.0041	17.2	4.26	51.4
+MP:0002111	abnormal tail morphology	402	7	5.57	5.25	0.00019	0.0044	7.13	2.56	17.4
+MP:0005380	embryo phenotype	1722	14	2.6	4.12	0.00026	0.0054	4.12	1.84	9.18
+MP:0001258	decreased body length	326	6	5.89	5.03	0.00043	0.0083	7.27	2.41	18.6
+MP:0002759	abnormal caudal vertebrae morphology	125	4	10.2	5.82	0.00057	0.0094	12.1	3	35.7
+MP:0002084	abnormal developmental patterning	478	7	4.69	4.63	0.00053	0.0094	5.93	2.13	14.5
+MP:0001672	abnormal embryo development	1018	10	3.14	4.06	0.00068	0.01	4.3	1.78	9.76
+MP:0001256	abnormal body length	377	6	5.09	4.54	0.00093	0.013	6.24	2.07	15.9
+MP:0006207	embryonic lethality during organogenesis	942	9	3.06	3.73	0.0017	0.022	4.01	1.6	9.25
+MP:0001701	incomplete embryo turning	80	3	12	5.53	0.0019	0.023	13.7	2.61	46.3
+MP:0008932	abnormal embryonic tissue physiology	301	5	5.32	4.26	0.0022	0.023	6.3	1.86	17
+MP:0001730	embryonic growth arrest	302	5	5.3	4.25	0.0022	0.023	6.28	1.86	16.9
+MP:0002151	abnormal neural tube morphology	590	7	3.8	3.93	0.0018	0.023	4.73	1.7	11.5
+MP:0004264	abnormal extraembryonic tissue physiology	317	5	5.05	4.1	0.0027	0.028	5.97	1.77	16.1
+MP:0005371	limbs/digits/tail phenotype	1030	9	2.8	3.42	0.0032	0.03	3.63	1.45	8.36
+MP:0006208	lethality throughout fetal growth and development	504	6	3.81	3.63	0.0041	0.037	4.58	1.52	11.6
+MP:0000157	abnormal sternum morphology	220	4	5.82	4.05	0.0046	0.041	6.69	1.68	19.6
+MP:0009250	abnormal appendicular skeleton morphology	724	7	3.09	3.28	0.0058	0.05	3.79	1.36	9.22

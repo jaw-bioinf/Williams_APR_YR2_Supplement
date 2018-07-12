@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00662	2	14	2	0.143	1	CORUM:6772	cor	2	Tbx20-Tle1 repressor complex	1	TLE1,TBX20

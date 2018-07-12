@@ -1,0 +1,9 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0249 3 6 1 0.167 0.333 CORUM:718 cor 9 TRPV5-S100A10-annexin 2 complex 1 S100A10
+2 1 TRUE 0.0249 1 6 1 0.167 1 CORUM:1136 cor 4 Mss4-Itga7 complex 1 RABIF
+3 1 TRUE 0.0249 3 6 1 0.167 0.333 CORUM:106 cor 8 Srf-myogenin-E12 complex 1 MYOG
+4 1 TRUE 0.0249 2 6 1 0.167 0.5 CORUM:719 cor 1 S100A10-annexin 2 complex 1 S100A10
+5 1 TRUE 0.0249 2 6 1 0.167 0.5 CORUM:1135 cor 6 Mss4-Itga3 complex 1 RABIF
+6 1 TRUE 0.0249 3 6 1 0.167 0.333 CORUM:5308 cor 5 Rb-NeuroD1-Ngfi-B complex 1 NEUROD1
+7 1 TRUE 0.0249 3 6 1 0.167 0.333 CORUM:5439 cor 3 Eya1/3-Dach1/2-Six1 complex 1 DACH1
+8 1 TRUE 0.0337 714 93 13 0.14 0.018 MI:mmu-miR-764-5p mi 2 MI:mmu-miR-764-5p 1 PRSS16,RCVRN,MYOG,IFT74,TMEM54,ITGA2B,LRFN3,MXD4,ACKR1,C3AR1,S100A10,WDR6,PTGDR

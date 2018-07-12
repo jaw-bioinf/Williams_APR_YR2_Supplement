@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	8	5.15	5.25	0.00015	0.0063	5.9	2.4	12.6
+R-HSA-8953854	Metabolism of RNA	646	12	2.91	4.02	0.00069	0.015	3.39	1.64	6.48
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	4	8.46	5.16	0.0012	0.018	9.4	2.42	26.4
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	4	7.54	4.8	0.0019	0.021	8.32	2.15	23.3
+R-HSA-427359	SIRT1 negatively regulates rRNA expression	62	3	7.57	4.16	0.0072	0.031	8.24	1.61	26.4
+R-HSA-5250941	Negative epigenetic regulation of rRNA expression	63	3	7.45	4.12	0.0075	0.031	8.1	1.58	26
+R-HSA-73886	Chromosome Maintenance	109	4	5.74	3.99	0.0051	0.031	6.25	1.62	17.3
+R-HSA-211000	Gene Silencing by RNA	117	4	5.35	3.79	0.0066	0.031	5.8	1.51	16
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	4.27	3.59	0.0062	0.031	4.65	1.44	11.7
+R-HSA-72172	mRNA Splicing	191	5	4.1	3.46	0.0074	0.031	4.45	1.38	11.2
+R-HSA-2559583	Cellular Senescence	194	5	4.03	3.42	0.0078	0.031	4.37	1.35	11
+R-HSA-2559586	DNA Damage/Telomere Stress Induced Senescence	79	3	5.94	3.54	0.014	0.049	6.39	1.25	20.3
+R-HSA-157579	Telomere Maintenance	81	3	5.79	3.47	0.015	0.049	6.22	1.22	19.7

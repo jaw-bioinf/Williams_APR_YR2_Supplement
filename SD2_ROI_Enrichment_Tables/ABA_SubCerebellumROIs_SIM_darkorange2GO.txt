@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0251	4	5	1	0.2	0.25	CORUM:5882	cor	4	Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	PPP2CA
+2	1	TRUE	0.0251	3	5	1	0.2	0.333	CORUM:6809	cor	13	Arrb2-Akt-Ppp2ca complex	1	PPP2CA
+3	1	TRUE	0.0251	2	5	1	0.2	0.5	CORUM:6555	cor	2	Dcdc2-Dvl1 complex	1	DCDC2A
+4	1	TRUE	0.0251	3	5	1	0.2	0.333	CORUM:5883	cor	10	Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	PPP2CA
+5	1	TRUE	0.0251	3	5	1	0.2	0.333	CORUM:5880	cor	11	Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	PPP2CA
+6	1	TRUE	0.0251	4	5	1	0.2	0.25	CORUM:6810	cor	1	Akt-Arrb2-Ppp2ca-Ppp2r2a complex	1	PPP2CA
+7	1	TRUE	0.0251	2	5	1	0.2	0.5	CORUM:6556	cor	6	Dcdc2-Dvl2 complex	1	DCDC2A
+8	1	TRUE	0.0289	5	5	1	0.2	0.2	CORUM:128	cor	7	ORC complex (origin recognition complex)	1	ORC5
+9	1	TRUE	0.0251	3	5	1	0.2	0.333	CORUM:5881	cor	9	Ksr1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	PPP2CA
+10	1	TRUE	0.0251	2	5	1	0.2	0.5	CORUM:6557	cor	12	Dcdc2-Dvl3 complex	1	DCDC2A
+11	1	TRUE	0.0251	3	5	1	0.2	0.333	CORUM:77	cor	8	nNos-Capon-Dexras1 complex	1	RASD1
+12	1	TRUE	0.0251	2	5	1	0.2	0.5	CORUM:1782	cor	5	TGF-beta receptor	1	TGFBR1
+13	1	TRUE	0.0251	4	5	1	0.2	0.25	CORUM:5879	cor	14	Ksr1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	PPP2CA

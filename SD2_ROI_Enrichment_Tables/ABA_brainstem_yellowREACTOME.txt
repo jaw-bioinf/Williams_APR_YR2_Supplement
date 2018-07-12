@@ -1,0 +1,73 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72766	Translation	258	57	2.22	6.6	4.4e-09	1.3e-06	2.66	1.93	3.61
+R-HSA-199991	Membrane Trafficking	599	105	1.76	6.38	2.9e-09	1.3e-06	2.03	1.61	2.54
+R-HSA-5653656	Vesicle-mediated transport	631	109	1.73	6.34	3.3e-09	1.3e-06	2	1.59	2.49
+R-HSA-392499	Metabolism of proteins	1907	259	1.36	5.87	8.7e-09	2e-06	1.57	1.34	1.83
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	31	2.8	6.36	6.6e-08	1.2e-05	3.58	2.27	5.52
+R-HSA-72689	Formation of a pool of free 40S subunits	101	29	2.88	6.33	9e-08	1.3e-05	3.72	2.32	5.83
+R-HSA-192823	Viral mRNA Translation	89	26	2.93	6.09	2.8e-07	3e-05	3.8	2.3	6.13
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	27	2.85	6.04	3.1e-07	3e-05	3.66	2.24	5.83
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	30	2.69	5.98	2.9e-07	3e-05	3.38	2.14	5.22
+R-HSA-72613	Eukaryotic Translation Initiation	119	31	2.62	5.9	3.7e-07	3e-05	3.26	2.08	4.98
+R-HSA-72737	Cap-dependent Translation Initiation	119	31	2.62	5.9	3.7e-07	3e-05	3.26	2.08	4.98
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	26	2.81	5.82	7.3e-07	5.5e-05	3.58	2.17	5.73
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	27	2.71	5.72	9.6e-07	6.6e-05	3.41	2.1	5.4
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	40	2.21	5.47	1.1e-06	6.8e-05	2.61	1.78	3.76
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	29	2.53	5.5	1.8e-06	1e-04	3.11	1.96	4.82
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	29	2.53	5.5	1.8e-06	1e-04	3.11	1.96	4.82
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	40	2.1	5.12	3.8e-06	2e-04	2.45	1.68	3.52
+R-HSA-8856828	Clathrin-mediated endocytosis	140	32	2.3	5.13	5.2e-06	0.00026	2.73	1.77	4.12
+R-HSA-72312	rRNA processing	201	41	2.05	4.99	5.8e-06	0.00027	2.37	1.63	3.39
+R-HSA-111885	Opioid Signalling	74	21	2.85	5.31	6.5e-06	0.00029	3.64	2.07	6.16
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	30	2.27	4.89	1.4e-05	0.00058	2.68	1.72	4.09
+R-HSA-168254	Influenza Infection	154	33	2.15	4.79	1.6e-05	0.00065	2.52	1.65	3.75
+R-HSA-112315	Transmission across Chemical Synapses	224	43	1.93	4.67	1.7e-05	0.00066	2.2	1.53	3.11
+R-HSA-168255	Influenza Life Cycle	143	31	2.18	4.71	2.3e-05	0.00084	2.55	1.65	3.85
+R-HSA-163685	Integration of energy metabolism	92	23	2.51	4.84	2.4e-05	0.00086	3.06	1.81	5
+R-HSA-8953854	Metabolism of RNA	646	96	1.49	4.3	3e-05	0.001	1.64	1.29	2.06
+R-HSA-180024	DARPP-32 events	19	9	4.76	5.45	3.4e-05	0.0011	8.2	2.94	22.5
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	12	3.65	5.07	4.3e-05	0.0014	5.22	2.33	11.1
+R-HSA-3858494	Beta-catenin independent WNT signaling	137	29	2.13	4.41	6.5e-05	0.002	2.47	1.57	3.77
+R-HSA-72649	Translation initiation complex formation	58	16	2.77	4.5	0.00012	0.0035	3.48	1.82	6.36
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	16	2.72	4.42	0.00015	0.0042	3.4	1.78	6.19
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	13	3.04	4.45	0.00019	0.0052	3.96	1.89	7.85
+R-HSA-9006925	Intracellular signaling by second messengers	282	47	1.67	3.82	0.00027	0.0073	1.85	1.31	2.56
+R-HSA-446203	Asparagine N-linked glycosylation	299	49	1.65	3.77	3e-04	0.0079	1.81	1.3	2.49
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	14	2.76	4.18	0.00033	0.0084	3.46	1.72	6.57
+R-HSA-1430728	Metabolism	1899	230	1.22	3.48	0.00037	0.0093	1.32	1.12	1.55
+R-HSA-379724	tRNA Aminoacylation	35	11	3.16	4.25	4e-04	0.0095	4.18	1.84	8.89
+R-HSA-445717	Aquaporin-mediated transport	52	14	2.7	4.1	0.00041	0.0095	3.36	1.68	6.38
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	15	2.6	4.06	0.00041	0.0095	3.19	1.64	5.88
+R-HSA-193639	p75NTR signals via NF-kB	16	7	4.39	4.52	0.00048	0.011	7.07	2.23	21.4
+R-HSA-382551	Transport of small molecules	705	97	1.38	3.5	5e-04	0.011	1.49	1.18	1.87
+R-HSA-422356	Regulation of insulin secretion	66	16	2.43	3.89	0.00059	0.013	2.92	1.55	5.25
+R-HSA-5610787	Hedgehog 'off' state	113	23	2.04	3.71	0.00065	0.013	2.34	1.41	3.76
+R-HSA-199977	ER to Golgi Anterograde Transport	155	29	1.88	3.67	6e-04	0.013	2.11	1.35	3.21
+R-HSA-597592	Post-translational protein modification	1353	169	1.25	3.35	0.00065	0.013	1.35	1.12	1.61
+R-HSA-164378	PKA activation in glucagon signalling	17	7	4.14	4.3	0.00075	0.014	6.37	2.05	18.6
+R-HSA-5663205	Infectious disease	326	51	1.57	3.49	7e-04	0.014	1.71	1.24	2.34
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	30	1.83	3.56	8e-04	0.015	2.04	1.32	3.07
+R-HSA-209543	p75NTR recruits signalling complexes	13	6	4.64	4.36	0.00089	0.016	7.79	2.16	27.1
+R-HSA-209560	NF-kB is activated and signals survival	13	6	4.64	4.36	0.00089	0.016	7.79	2.16	27.1
+R-HSA-5696394	DNA Damage Recognition in GG-NER	38	11	2.91	3.92	0.00087	0.016	3.71	1.66	7.76
+R-HSA-4086400	PCP/CE pathway	89	19	2.14	3.6	0.001	0.018	2.48	1.41	4.19
+R-HSA-5358351	Signaling by Hedgehog	148	27	1.83	3.39	0.0014	0.023	2.05	1.29	3.14
+R-HSA-111931	PKA-mediated phosphorylation of CREB	19	7	3.7	3.92	0.0016	0.026	5.3	1.76	14.6
+R-HSA-163615	PKA activation	19	7	3.7	3.92	0.0016	0.026	5.3	1.76	14.6
+R-HSA-379716	Cytosolic tRNA aminoacylation	24	8	3.35	3.83	0.0016	0.026	4.55	1.68	11.3
+R-HSA-418346	Platelet homeostasis	79	17	2.16	3.45	0.0017	0.026	2.5	1.37	4.36
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	18	2.1	3.41	0.0017	0.027	2.42	1.35	4.14
+R-HSA-1643685	Disease	984	125	1.28	3.03	0.0019	0.029	1.36	1.11	1.67
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	15	6	4.02	3.89	0.0022	0.032	6.06	1.77	19.1
+R-HSA-9007101	Rab regulation of trafficking	123	23	1.88	3.26	0.0021	0.032	2.11	1.27	3.36
+R-HSA-1257604	PIP3 activates AKT signaling	254	40	1.58	3.12	0.0022	0.032	1.72	1.19	2.44
+R-HSA-109582	Hemostasis	608	82	1.35	3	0.0024	0.034	1.45	1.12	1.85
+R-HSA-5625970	RHO GTPases activate KTN1	11	5	4.57	3.93	0.0027	0.037	7.56	1.82	29.8
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	56	13	2.33	3.32	0.0028	0.038	2.76	1.36	5.24
+R-HSA-195721	Signaling by WNT	314	47	1.5	3.01	0.0028	0.038	1.62	1.15	2.24
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	90	18	2.01	3.2	0.003	0.039	2.28	1.28	3.89
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	126	23	1.83	3.13	0.003	0.039	2.04	1.23	3.25
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	44	11	2.51	3.34	0.0032	0.041	3.04	1.38	6.18
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	24	1.8	3.1	0.0031	0.041	2	1.22	3.15
+R-HSA-75105	Fatty acyl-CoA biosynthesis	33	9	2.74	3.33	0.004	0.049	3.41	1.39	7.63
+R-HSA-917937	Iron uptake and transport	58	13	2.25	3.18	0.0039	0.049	2.63	1.3	4.99

@@ -1,0 +1,34 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002920	decreased paired-pulse facilitation	31	5	18.7	9.21	6e-06	0.0042	23.5	6.85	64.4
+MP:0010334	pleural effusion	20	3	17.4	6.85	0.00063	0.034	21	3.87	74.8
+MP:0008235	increased susceptibility to neuronal excitotoxicity	42	4	11	6.09	0.00045	0.034	12.7	3.21	36.5
+MP:0002918	abnormal paired-pulse facilitation	75	5	7.73	5.46	0.00045	0.034	8.69	2.66	22.1
+MP:0001701	incomplete embryo turning	80	5	7.25	5.23	0.00061	0.034	8.1	2.49	20.6
+MP:0008261	arrest of male meiosis	122	6	5.7	4.88	0.00062	0.034	6.35	2.21	14.9
+MP:0001700	abnormal embryo turning	212	8	4.38	4.64	0.00046	0.034	4.9	2.01	10.4
+MP:0001784	abnormal fluid regulation	761	17	2.59	4.27	0.00021	0.034	3.07	1.67	5.34
+MP:0001914	hemorrhage	582	14	2.79	4.16	4e-04	0.034	3.22	1.66	5.84
+MP:0002128	abnormal blood circulation	719	16	2.58	4.12	0.00035	0.034	3.02	1.62	5.32
+MP:0001544	abnormal cardiovascular system physiology	1571	27	1.99	4.03	0.00018	0.034	2.53	1.52	4.1
+MP:0001698	decreased embryo size	608	14	2.67	3.97	0.00062	0.034	3.07	1.58	5.57
+MP:0002088	abnormal embryonic growth/weight/body size	966	19	2.28	3.92	0.00044	0.034	2.71	1.52	4.63
+MP:0003750	increased mouth tumor incidence	23	3	15.1	6.33	0.00097	0.04	17.8	3.33	62
+MP:0003984	embryonic growth retardation	560	13	2.69	3.85	0.00092	0.04	3.07	1.54	5.65
+MP:0001697	abnormal embryo size	709	15	2.45	3.76	0.00094	0.04	2.83	1.49	5.05
+MP:0001672	abnormal embryo development	1018	19	2.16	3.67	0.00084	0.04	2.56	1.44	4.36
+MP:0000784	forebrain hypoplasia	30	3	11.6	5.42	0.0021	0.05	13.2	2.51	44.3
+MP:0004180	failure of initiation of embryo turning	61	4	7.61	4.83	0.0018	0.05	8.43	2.17	23.7
+MP:0004036	abnormal muscle relaxation	64	4	7.25	4.68	0.0022	0.05	8.01	2.06	22.4
+MP:0006138	congestive heart failure	99	5	5.86	4.53	0.0016	0.05	6.45	1.99	16.3
+MP:0005165	increased susceptibility to injury	147	6	4.73	4.26	0.0016	0.05	5.21	1.82	12.2
+MP:0001155	arrest of spermatogenesis	200	7	4.06	4.08	0.0016	0.05	4.47	1.71	9.86
+MP:0006043	decreased apoptosis	248	8	3.74	4.08	0.0013	0.05	4.15	1.71	8.74
+MP:0012555	decreased cell death	251	8	3.7	4.04	0.0014	0.05	4.09	1.68	8.63
+MP:0004215	abnormal myocardial fiber physiology	158	6	4.4	4.03	0.0024	0.05	4.82	1.69	11.2
+MP:0003202	abnormal neuron apoptosis	267	8	3.48	3.83	0.002	0.05	3.83	1.58	8.08
+MP:0005620	abnormal muscle contractility	398	10	2.91	3.64	0.0021	0.05	3.24	1.48	6.39
+MP:0011110	preweaning lethality, incomplete penetrance	469	11	2.72	3.57	0.0022	0.05	3.04	1.44	5.84
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	15	2.32	3.51	0.0017	0.05	2.65	1.4	4.73
+MP:0006207	embryonic lethality during organogenesis	942	17	2.09	3.3	0.0024	0.05	2.41	1.32	4.2
+MP:0005380	embryo phenotype	1722	26	1.75	3.22	0.0019	0.05	2.13	1.28	3.47
+MP:0003633	abnormal nervous system physiology	1903	28	1.71	3.22	0.0018	0.05	2.1	1.28	3.4

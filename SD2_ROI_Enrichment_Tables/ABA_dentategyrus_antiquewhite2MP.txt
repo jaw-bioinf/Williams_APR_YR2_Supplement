@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002633	persistent truncus arteriosis	94	3	17.4	6.85	0.00062	0.027	21.6	3.91	79
+MP:0010650	abnormal aorticopulmonary septum morphology	95	3	17.2	6.81	0.00064	0.027	21.3	3.86	78.4
+MP:0010651	aorticopulmonary septal defect	95	3	17.2	6.81	0.00064	0.027	21.3	3.86	78.4
+MP:0008803	abnormal placental labyrinth vasculature morphology	99	3	16.5	6.66	0.00072	0.027	20.4	3.7	74.9
+MP:0010454	abnormal truncus arteriosus septation	107	3	15.3	6.38	9e-04	0.027	18.8	3.42	69
+MP:0012775	abnormal brain weight	115	3	14.2	6.12	0.0011	0.028	17.5	3.18	63.8
+MP:0003231	abnormal placenta vasculature	142	3	11.5	5.42	0.002	0.041	14.1	2.56	51.2
+MP:0000274	enlarged heart	535	5	5.1	4.19	0.0022	0.041	6.86	1.89	21
+MP:0006126	abnormal cardiac outflow tract development	156	3	10.5	5.12	0.0027	0.045	12.7	2.32	46.3

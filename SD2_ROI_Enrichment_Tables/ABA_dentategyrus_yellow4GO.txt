@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00867	6	1	1	1	0.167	CORUM:5271	cor	3	Kif3-cadherin-catenin complex	1	KIF3B
+2	1	TRUE	0.0065	2	1	1	1	0.5	CORUM:1074	cor	1	Pkd2-Fpc-Kif3b complex	1	KIF3B
+3	1	TRUE	0.0065	3	1	1	1	0.333	CORUM:6593	cor	2	Kinesin II complex (Kif3a-Kif3b-Kifap3)	1	KIF3B

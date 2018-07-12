@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0223	48	62	4	0.065	0.083	GO:0007193	BP	17	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	1	HTR7,OPRK1,OPRL1,CHRM5
+2	1	TRUE	0.0223	64	62	4	0.065	0.062	GO:0019233	BP	6	sensory perception of pain	1	ALOXE3,OPRK1,OPRL1,NOV
+3	1	TRUE	0.0223	125	62	5	0.081	0.04	GO:0007187	BP	14	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	1	HTR7,OPRK1,OPRL1,NPBWR1,CHRM5
+4	1	TRUE	0.0223	4	62	2	0.032	0.5	GO:0004985	MF	7	opioid receptor activity	1	OPRK1,OPRL1
+5	1	TRUE	0.0223	17	62	3	0.048	0.176	GO:0042923	MF	1	neuropeptide binding	1	OPRK1,OPRL1,NPBWR1
+6	1	TRUE	0.0223	404	62	8	0.129	0.02	GO:0004930	MF	19	G-protein coupled receptor activity	1	HTR7,OPRK1,OPRL1,NPBWR1,GPR176,OXTR,QRFPR,CHRM5
+7	1	TRUE	0.0269	5	4	1	0.25	0.2	CORUM:990	cor	9	Agap11-AP3 complex	1	AP3M2
+8	1	TRUE	0.0216	1	4	1	0.25	1	CORUM:1046	cor	8	Lnx1-Jam4 complex	1	LNX1
+9	1	TRUE	0.0216	3	4	1	0.25	0.333	CORUM:5616	cor	18	Hsp110-Hsc70-Hsp25 complex	1	HSPH1
+10	1	TRUE	0.0216	2	4	1	0.25	0.5	CORUM:50	cor	12	Rab5 GDP/GTP exchange factor complex	1	RABGEF1
+11	1	TRUE	5.57e-05	285	23	8	0.348	0.028	KEGG:04080	keg	10	Neuroactive ligand-receptor interaction	1	NMBR,HTR7,OPRK1,OPRL1,TACR3,NPBWR1,OXTR,CHRM5
+12	1	TRUE	0.00521	183	23	5	0.217	0.027	KEGG:04020	keg	5	Calcium signaling pathway	1	HTR7,TACR3,PLCZ1,OXTR,CHRM5

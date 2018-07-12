@@ -1,0 +1,10 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04961 Endocrine and other factor-regulated calcium reabsorption 47 8 6.46 6.18 2.6e-05 0.0033 7.89 3.14 17.5
+path:hsa04918 Thyroid hormone synthesis 74 9 4.62 5.15 0.00013 0.0081 5.34 2.3 11
+path:hsa04141 Protein processing in endoplasmic reticulum 165 13 2.99 4.26 0.00038 0.016 3.33 1.7 6.03
+path:hsa04260 Cardiac muscle contraction 78 8 3.89 4.23 0.00096 0.031 4.38 1.79 9.31
+path:hsa04978 Mineral absorption 51 6 4.47 4.09 0.0021 0.044 5.07 1.74 12.1
+path:hsa04911 Insulin secretion 85 8 3.57 3.93 0.0017 0.044 3.98 1.63 8.41
+path:hsa04964 Proximal tubule bicarbonate reclamation 23 4 6.6 4.43 0.0028 0.049 7.93 1.94 24.2
+path:hsa04971 Gastric acid secretion 75 7 3.54 3.64 0.0034 0.049 3.92 1.5 8.7
+path:hsa04919 Thyroid hormone signaling pathway 116 9 2.95 3.48 0.0034 0.049 3.22 1.41 6.5

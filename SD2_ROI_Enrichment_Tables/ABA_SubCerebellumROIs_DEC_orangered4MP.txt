@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0012382	abnormal blood cell physiology	1515	21	2.38	4.5	5.7e-05	0.025	3.29	1.8	5.88
+MP:0001545	abnormal hematopoietic system physiology	1616	21	2.23	4.17	0.00015	0.025	3.04	1.67	5.44
+MP:0002442	abnormal leukocyte physiology	1401	19	2.33	4.13	2e-04	0.025	3.08	1.66	5.55
+MP:0001819	abnormal immune cell physiology	1428	19	2.29	4.04	0.00026	0.025	3.01	1.62	5.43
+MP:0002421	abnormal cell-mediated immunity	1439	19	2.27	4.01	0.00029	0.025	2.98	1.61	5.38
+MP:0002420	abnormal adaptive immunity	1459	19	2.24	3.94	0.00035	0.025	2.93	1.58	5.29
+MP:0003945	abnormal lymphocyte physiology	1033	15	2.5	3.9	0.00059	0.037	3.1	1.58	5.78

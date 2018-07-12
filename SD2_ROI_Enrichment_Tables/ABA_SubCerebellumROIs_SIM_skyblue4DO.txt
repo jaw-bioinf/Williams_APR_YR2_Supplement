@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2043	hepatitis B	195	4	7.18	4.68	0.002	0.023	8.88	2.14	27.9
+DOID:299	adenocarcinoma	755	8	3.71	4.22	0.00068	0.023	5.56	1.97	14.8
+DOID:686	liver carcinoma	882	8	3.18	3.7	0.0019	0.023	4.66	1.65	12.4
+DOID:684	hepatocellular carcinoma	882	8	3.18	3.7	0.0019	0.023	4.66	1.65	12.4
+DOID:3571	liver cancer	883	8	3.17	3.69	0.0019	0.023	4.65	1.64	12.4
+DOID:2237	hepatitis	427	5	4.1	3.54	0.006	0.048	5.18	1.47	15.1
+DOID:3119	gastrointestinal system cancer	1536	10	2.28	3.04	0.0052	0.048	3.57	1.33	9.59

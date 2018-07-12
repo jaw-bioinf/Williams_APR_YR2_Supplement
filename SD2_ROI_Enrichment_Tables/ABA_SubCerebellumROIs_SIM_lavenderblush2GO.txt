@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0478	4	6	1	0.167	0.25	CORUM:294	cor	4	DNA polymerase delta complex	1	POLD1
+2	1	TRUE	0.0337	2	6	1	0.167	0.5	CORUM:2585	cor	3	nKHC-KLC1-uKHC kinesin complex	1	KIF5A
+3	1	TRUE	0.0337	1	6	1	0.167	1	CORUM:2587	cor	6	nKHC-KLC1-KLC2 kinesin complex	1	KIF5A
+4	1	TRUE	0.0337	2	6	1	0.167	0.5	CORUM:6544	cor	5	Spg33-Kif5a complex	1	KIF5A
+5	1	TRUE	0.0337	2	6	1	0.167	0.5	CORUM:5447	cor	1	Grin2a-Lrp8 complex	1	GRIN2A
+6	1	TRUE	0.0478	4	6	1	0.167	0.25	CORUM:968	cor	2	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPP5
+7	1	TRUE	0.0337	2	6	1	0.167	0.5	CORUM:2586	cor	7	KLC2-nKHC-uKHC kinesin complex	1	KIF5A

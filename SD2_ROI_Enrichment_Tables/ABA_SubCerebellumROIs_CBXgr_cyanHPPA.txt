@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001836	Camptodactyly of toe	25	4	29.6	10.6	7.2e-06	0.0027	43.7	9.75	154
+HP:0100492	Joint contractures involving the joints of the feet	34	4	21.7	8.96	2.6e-05	0.0032	30.6	6.98	104
+HP:0005830	Flexion contracture of toe	34	4	21.7	8.96	2.6e-05	0.0032	30.6	6.98	104
+HP:0001163	Abnormality of the metacarpal bones	181	6	6.12	5.22	0.00027	0.025	8.73	2.69	25
+HP:0003016	Metaphyseal widening	75	4	9.85	5.72	0.00058	0.043	12.8	3.02	41.6
+HP:0001640	Cardiomegaly	42	3	13.2	5.87	0.0014	0.05	16.5	2.97	61.2
+HP:0008366	Contractures involving the joints of the feet	83	4	8.9	5.37	0.00086	0.05	11.5	2.71	37.2
+HP:0000414	Bulbous nose	92	4	8.03	5.04	0.0013	0.05	10.3	2.44	33.2
+HP:0000615	Abnormality of the pupil	93	4	7.95	5.01	0.0013	0.05	10.2	2.41	32.8
+HP:0000944	Abnormality of the metaphyses	155	5	5.96	4.66	0.0011	0.05	7.94	2.21	23.7

@@ -1,0 +1,34 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-500792	GPCR ligand binding	419	35	2.76	6.5	4.2e-08	9.3e-06	3.17	2.13	4.6
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	28	2.89	6.07	4e-07	4.5e-05	3.28	2.11	4.95
+R-HSA-112316	Neuronal System	356	29	2.69	5.74	1.1e-06	8.2e-05	3.04	1.96	4.54
+R-HSA-375276	Peptide ligand-binding receptors	187	19	3.36	5.75	3.7e-06	2e-04	3.8	2.2	6.23
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	8	5.75	5.7	6.1e-05	0.0027	6.9	2.76	15.2
+R-HSA-111933	Calmodulin induced events	27	6	7.34	5.83	0.00013	0.0035	9.31	3.05	24.1
+R-HSA-111997	CaM pathway	27	6	7.34	5.83	0.00013	0.0035	9.31	3.05	24.1
+R-HSA-418594	G alpha (i) signalling events	362	25	2.28	4.39	1e-04	0.0035	2.5	1.57	3.84
+R-HSA-1489509	DAG and IP3 signaling	28	6	7.08	5.69	0.00016	0.0039	8.89	2.93	22.8
+R-HSA-111996	Ca-dependent events	29	6	6.84	5.56	0.00019	0.0041	8.5	2.81	21.7
+R-HSA-112043	PLC beta mediated events	41	7	5.64	5.26	2e-04	0.0041	6.73	2.5	15.6
+R-HSA-112040	G-protein mediated events	42	7	5.51	5.17	0.00024	0.0044	6.53	2.43	15.1
+R-HSA-111885	Opioid Signalling	74	9	4.02	4.6	0.00037	0.0063	4.54	1.97	9.28
+R-HSA-416476	G alpha (q) signalling events	207	16	2.55	3.99	0.00054	0.0086	2.78	1.54	4.71
+R-HSA-445717	Aquaporin-mediated transport	52	7	4.45	4.4	9e-04	0.013	5.08	1.92	11.5
+R-HSA-392154	Nitric oxide stimulates guanylate cyclase	16	4	8.26	5.13	0.0011	0.016	10.8	2.52	35.9
+R-HSA-112315	Transmission across Chemical Synapses	224	16	2.36	3.64	0.0013	0.017	2.55	1.41	4.31
+R-HSA-375280	Amine ligand-binding receptors	42	6	4.72	4.27	0.0015	0.018	5.43	1.85	13.1
+R-HSA-1296072	Voltage gated Potassium channels	43	6	4.61	4.19	0.0017	0.018	5.28	1.81	12.7
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	6	4.61	4.19	0.0017	0.018	5.28	1.81	12.7
+R-HSA-372790	Signaling by GPCR	1118	51	1.51	3.18	0.0017	0.018	1.64	1.18	2.24
+R-HSA-418597	G alpha (z) signalling events	30	5	5.51	4.37	0.0019	0.019	6.5	1.93	17.4
+R-HSA-111931	PKA-mediated phosphorylation of CREB	19	4	6.96	4.59	0.0022	0.021	8.64	2.08	27.4
+R-HSA-163615	PKA activation	19	4	6.96	4.59	0.0022	0.021	8.64	2.08	27.4
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	12	2.58	3.48	0.0025	0.022	2.78	1.39	5.08
+R-HSA-1296071	Potassium Channels	99	9	3	3.54	0.003	0.026	3.27	1.43	6.58
+R-HSA-5576891	Cardiac conduction	139	11	2.62	3.39	0.0033	0.027	2.82	1.36	5.29
+R-HSA-1630316	Glycosaminoglycan metabolism	122	10	2.71	3.35	0.0038	0.031	2.92	1.35	5.66
+R-HSA-388396	GPCR downstream signalling	1091	48	1.45	2.81	0.0048	0.037	1.56	1.12	2.15
+R-HSA-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	54	6	3.67	3.48	0.0056	0.041	4.07	1.41	9.62
+R-HSA-418457	cGMP effects	13	3	7.63	4.22	0.0063	0.045	9.69	1.71	37.9
+R-HSA-163685	Integration of energy metabolism	92	8	2.87	3.19	0.0066	0.046	3.11	1.29	6.49
+R-HSA-1971475	A tetrasaccharide linker sequence is required for GAG synthesis	26	4	5.08	3.68	0.0073	0.049	5.89	1.47	17.5

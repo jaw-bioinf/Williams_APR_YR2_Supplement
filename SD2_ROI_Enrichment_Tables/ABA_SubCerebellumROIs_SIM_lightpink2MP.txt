@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005668	decreased circulating leptin level	111	3	15.7	6.46	0.00083	0.024	19.5	3.52	72.6
+MP:0005535	abnormal body temperature	131	3	13.3	5.88	0.0013	0.024	16.4	2.97	60.8
+MP:0005667	abnormal circulating leptin level	225	3	7.73	4.25	0.0062	0.049	9.39	1.7	34.5
+MP:0005292	improved glucose tolerance	231	3	7.53	4.18	0.0067	0.049	9.14	1.66	33.6
+MP:0000010	abnormal abdominal fat pad morphology	239	3	7.28	4.09	0.0074	0.049	8.82	1.6	32.4
+MP:0001560	abnormal circulating insulin level	490	4	4.73	3.53	0.0084	0.049	6.02	1.41	19.9

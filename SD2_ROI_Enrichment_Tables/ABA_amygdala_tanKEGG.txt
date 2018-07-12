@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05219	Bladder cancer	41	4	8.21	5.08	0.0013	0.014	9.4	2.37	27.2
+path:hsa05218	Melanoma	69	5	6.09	4.67	0.0013	0.014	6.86	2.09	17.6
+path:hsa04066	HIF-1 signaling pathway	99	6	5.1	4.51	0.0011	0.014	5.72	1.98	13.5
+path:hsa05231	Choline metabolism in cancer	99	6	5.1	4.51	0.0011	0.014	5.72	1.98	13.5
+path:hsa05224	Breast cancer	144	7	4.09	4.11	0.0015	0.014	4.56	1.74	10.1
+path:hsa01521	EGFR tyrosine kinase inhibitor resistance	79	5	5.32	4.24	0.0024	0.016	5.92	1.82	15.1
+path:hsa05200	Pathways in cancer	395	12	2.55	3.5	0.0022	0.016	2.89	1.41	5.45
+path:hsa05215	Prostate cancer	87	5	4.83	3.95	0.0036	0.021	5.34	1.64	13.5
+path:hsa05223	Non-small cell lung cancer	58	4	5.8	4.03	0.0048	0.025	6.43	1.65	18.1
+path:hsa01522	Endocrine resistance	95	5	4.43	3.69	0.0053	0.025	4.86	1.5	12.3

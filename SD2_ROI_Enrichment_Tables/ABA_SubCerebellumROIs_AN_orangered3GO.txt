@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00866	4	1	1	1	0.25	CORUM:5302	cor	1	Rab3a-Rims2-Rapgef4 complex	1	RAPGEF4
+2	1	TRUE	0.0311	12804	32	30	0.938	0.002	TF:M04662_1	tf	2	Factor: FOXN4; motif: NNWANNCGWMCGCGTCNNNNMT; match class: 1	1	SEC24B,CLUAP1,WIF1,AHSA1,SLC4A7,SAMD8,CRIM1,MPZL1,SMYD2,FAM73B,TMEM230,ATAD3A,STK32B,PITPNM2,DOCK6,FAAH,BTG1,LETM2,NR0B2,DNTTIP2,CRTAC1,CXXC5,CSL,RAPGEF4,XKR4,TUSC1,AASDH,CTTNBP2NL,CDK7,ELL

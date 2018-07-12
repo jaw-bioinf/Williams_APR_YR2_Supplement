@@ -1,0 +1,94 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	35	2.72	6.44	4.9e-08	7.9e-06	3.18	2.13	4.64
+R-HSA-5653656	Vesicle-mediated transport	631	36	2.66	6.37	5.6e-08	7.9e-06	3.11	2.09	4.52
+R-HSA-72766	Translation	258	19	3.43	5.86	2.7e-06	0.00026	3.88	2.25	6.35
+R-HSA-936837	Ion transport by P-type ATPases	56	8	6.65	6.28	2.3e-05	0.0012	7.85	3.16	17
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	10	5.01	5.75	2.9e-05	0.0012	5.71	2.6	11.2
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	11	4.62	5.67	2.5e-05	0.0012	5.23	2.49	9.96
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	11	4.57	5.63	2.7e-05	0.0012	5.17	2.47	9.85
+R-HSA-72613	Eukaryotic Translation Initiation	119	11	4.3	5.37	4.8e-05	0.0015	4.84	2.31	9.18
+R-HSA-72737	Cap-dependent Translation Initiation	119	11	4.3	5.37	4.8e-05	0.0015	4.84	2.31	9.18
+R-HSA-72689	Formation of a pool of free 40S subunits	101	10	4.61	5.4	5.9e-05	0.0017	5.2	2.38	10.2
+R-HSA-5663205	Infectious disease	326	19	2.71	4.66	7.4e-05	0.0019	3	1.74	4.89
+R-HSA-192823	Viral mRNA Translation	89	9	4.71	5.21	0.00012	0.0025	5.3	2.31	10.8
+R-HSA-397014	Muscle contraction	201	14	3.24	4.76	0.00011	0.0025	3.58	1.89	6.3
+R-HSA-174490	Membrane binding and targetting of GAG proteins	14	4	13.3	6.83	0.00017	0.0027	18.5	4.21	64.9
+R-HSA-174495	Synthesis And Processing Of GAG, GAGPOL Polyproteins	14	4	13.3	6.83	0.00017	0.0027	18.5	4.21	64.9
+R-HSA-5578775	Ion homeostasis	54	7	6.04	5.5	0.00014	0.0027	6.98	2.63	15.8
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	10	4.05	4.87	0.00018	0.0027	4.5	2.07	8.78
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	10	4.05	4.87	0.00018	0.0027	4.5	2.07	8.78
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	9	4.41	4.95	0.00019	0.0029	4.93	2.15	9.99
+R-HSA-72649	Translation initiation complex formation	58	7	5.62	5.23	0.00023	0.003	6.43	2.43	14.5
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	7	5.62	5.23	0.00023	0.003	6.43	2.43	14.5
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	7	5.53	5.16	0.00025	0.0032	6.3	2.39	14.2
+R-HSA-175474	Assembly Of The HIV Virion	16	4	11.6	6.31	0.00031	0.0037	15.4	3.6	51.4
+R-HSA-162588	Budding and maturation of HIV virion	29	5	8.03	5.62	0.00034	0.0037	9.69	2.86	26.2
+R-HSA-166520	Signalling by NGF	147	11	3.48	4.5	0.00032	0.0037	3.83	1.84	7.22
+R-HSA-112315	Transmission across Chemical Synapses	224	14	2.91	4.28	0.00033	0.0037	3.18	1.68	5.58
+R-HSA-399719	Trafficking of AMPA receptors	31	5	7.51	5.38	0.00047	0.0046	8.94	2.66	24
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	5	7.51	5.38	0.00047	0.0046	8.94	2.66	24
+R-HSA-168254	Influenza Infection	154	11	3.33	4.31	0.00047	0.0046	3.64	1.75	6.85
+R-HSA-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	32	5	7.28	5.27	0.00055	0.0051	8.61	2.56	23
+R-HSA-983712	Ion channel transport	183	12	3.05	4.15	0.00057	0.0052	3.33	1.66	6.09
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	6	5.48	4.75	0.00073	0.0064	6.22	2.14	14.8
+R-HSA-5576891	Cardiac conduction	139	10	3.35	4.13	0.00081	0.0069	3.66	1.69	7.08
+R-HSA-8856828	Clathrin-mediated endocytosis	140	10	3.33	4.11	0.00085	0.007	3.63	1.67	7.02
+R-HSA-168255	Influenza Life Cycle	143	10	3.26	4.03	0.001	0.008	3.54	1.64	6.86
+R-HSA-1445148	Translocation of GLUT4 to the plasma membrane	11	3	12.7	5.75	0.0014	0.01	17.3	2.94	72.7
+R-HSA-177504	Retrograde neurotrophin signalling	11	3	12.7	5.75	0.0014	0.01	17.3	2.94	72.7
+R-HSA-196025	Formation of annular gap junctions	11	3	12.7	5.75	0.0014	0.01	17.3	2.94	72.7
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	8	3.73	4.06	0.0014	0.01	4.08	1.69	8.52
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	12	3	11.6	5.46	0.0019	0.011	15.4	2.66	62.2
+R-HSA-190873	Gap junction degradation	12	3	11.6	5.46	0.0019	0.011	15.4	2.66	62.2
+R-HSA-3371511	HSF1 activation	12	3	11.6	5.46	0.0019	0.011	15.4	2.66	62.2
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	12	3	11.6	5.46	0.0019	0.011	15.4	2.66	62.2
+R-HSA-8866427	VLDLR internalisation and degradation	12	3	11.6	5.46	0.0019	0.011	15.4	2.66	62.2
+R-HSA-109606	Intrinsic Pathway for Apoptosis	40	5	5.82	4.53	0.0016	0.011	6.64	2.01	17.3
+R-HSA-450294	MAP kinase activation in TLR cascade	60	6	4.66	4.21	0.0017	0.011	5.18	1.8	12.2
+R-HSA-6807878	COPI-mediated anterograde transport	102	8	3.65	3.99	0.0015	0.011	3.99	1.65	8.33
+R-HSA-209543	p75NTR recruits signalling complexes	13	3	10.7	5.21	0.0024	0.013	13.8	2.43	54.2
+R-HSA-209560	NF-kB is activated and signals survival	13	3	10.7	5.21	0.0024	0.013	13.8	2.43	54.2
+R-HSA-5140745	WNT5A-dependent internalization of FZD2, FZD5 and ROR2	13	3	10.7	5.21	0.0024	0.013	13.8	2.43	54.2
+R-HSA-114452	Activation of BH3-only proteins	27	4	6.9	4.55	0.0025	0.013	8.05	2.01	23.9
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	9	3.15	3.7	0.0022	0.013	3.41	1.5	6.81
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	5	5.06	4.09	0.0029	0.015	5.66	1.73	14.5
+R-HSA-448424	Interleukin-17 signaling	68	6	4.11	3.81	0.0033	0.017	4.51	1.58	10.5
+R-HSA-5099900	WNT5A-dependent internalization of FZD4	15	3	9.31	4.77	0.0037	0.018	11.5	2.07	43.2
+R-HSA-937039	IRAK1 recruits IKK complex	15	3	9.31	4.77	0.0037	0.018	11.5	2.07	43.2
+R-HSA-975144	IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	15	3	9.31	4.77	0.0037	0.018	11.5	2.07	43.2
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	11	2.56	3.3	0.0039	0.019	2.74	1.32	5.12
+R-HSA-112316	Neuronal System	356	16	2.09	3.11	0.0042	0.02	2.24	1.24	3.78
+R-HSA-193639	p75NTR signals via NF-kB	16	3	8.73	4.59	0.0044	0.021	10.6	1.93	39.1
+R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	96	7	3.4	3.49	0.0045	0.021	3.67	1.42	8.02
+R-HSA-416993	Trafficking of GluR2-containing AMPA receptors	17	3	8.22	4.41	0.0053	0.024	9.88	1.81	35.7
+R-HSA-438066	Unblocking of NMDA receptor, glutamate binding and activation	17	3	8.22	4.41	0.0053	0.024	9.88	1.81	35.7
+R-HSA-168898	Toll-Like Receptors Cascades	153	9	2.74	3.21	0.0057	0.025	2.93	1.29	5.82
+R-HSA-8953854	Metabolism of RNA	646	24	1.73	2.84	0.006	0.026	1.85	1.15	2.87
+R-HSA-8964038	LDL clearance	18	3	7.76	4.25	0.0063	0.027	9.22	1.7	32.9
+R-HSA-442982	Ras activation upon Ca2+ influx through NMDA receptor	19	3	7.35	4.11	0.0073	0.03	8.65	1.6	30.5
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	57	5	4.09	3.46	0.0074	0.03	4.46	1.38	11.3
+R-HSA-168142	Toll Like Receptor 10 (TLR10) Cascade	82	6	3.41	3.24	0.0083	0.032	3.67	1.29	8.5
+R-HSA-168176	Toll Like Receptor 5 (TLR5) Cascade	82	6	3.41	3.24	0.0083	0.032	3.67	1.29	8.5
+R-HSA-975871	MyD88 cascade initiated on plasma membrane	82	6	3.41	3.24	0.0083	0.032	3.67	1.29	8.5
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	8	2.78	3.07	0.0082	0.032	2.97	1.24	6.14
+R-HSA-442755	Activation of NMDA receptor and postsynaptic events	41	4	4.54	3.37	0.011	0.043	5	1.28	14.1
+R-HSA-422475	Axon guidance	295	13	2.05	2.72	0.011	0.043	2.17	1.12	3.86
+R-HSA-5357801	Programmed Cell Death	115	7	2.83	2.93	0.012	0.044	3.02	1.17	6.55
+R-HSA-174048	APC/C:Cdc20 mediated degradation of Cyclin B	23	3	6.07	3.61	0.013	0.045	6.91	1.31	23.6
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	6	3.1	2.97	0.013	0.045	3.32	1.17	7.65
+R-HSA-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	90	6	3.1	2.97	0.013	0.045	3.32	1.17	7.65
+R-HSA-446203	Asparagine N-linked glycosylation	299	13	2.02	2.67	0.012	0.045	2.14	1.11	3.8
+R-HSA-3371571	HSF1-dependent transactivation	24	3	5.82	3.5	0.014	0.046	6.58	1.25	22.3
+R-HSA-379716	Cytosolic tRNA aminoacylation	24	3	5.82	3.5	0.014	0.046	6.58	1.25	22.3
+R-HSA-422356	Regulation of insulin secretion	66	5	3.53	3.05	0.013	0.046	3.8	1.18	9.5
+R-HSA-166058	MyD88:Mal cascade initiated on plasma membrane	92	6	3.04	2.91	0.014	0.046	3.24	1.14	7.47
+R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	92	6	3.04	2.91	0.014	0.046	3.24	1.14	7.47
+R-HSA-168188	Toll Like Receptor TLR6:TLR2 Cascade	92	6	3.04	2.91	0.014	0.046	3.24	1.14	7.47
+R-HSA-975155	MyD88 dependent cascade initiated on endosome	92	6	3.04	2.91	0.014	0.046	3.24	1.14	7.47
+R-HSA-179409	APC-Cdc20 mediated degradation of Nek2A	25	3	5.59	3.4	0.016	0.049	6.29	1.2	21.2
+R-HSA-210991	Basigin interactions	25	3	5.59	3.4	0.016	0.049	6.29	1.2	21.2
+R-HSA-376176	Signaling by ROBO receptors	25	3	5.59	3.4	0.016	0.049	6.29	1.2	21.2
+R-HSA-5619102	SLC transporter disorders	68	5	3.42	2.97	0.015	0.049	3.68	1.14	9.18
+R-HSA-168179	Toll Like Receptor TLR1:TLR2 Cascade	95	6	2.94	2.82	0.016	0.05	3.13	1.11	7.2
+R-HSA-181438	Toll Like Receptor 2 (TLR2) Cascade	95	6	2.94	2.82	0.016	0.05	3.13	1.11	7.2
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	9	2.3	2.63	0.017	0.05	2.43	1.08	4.81

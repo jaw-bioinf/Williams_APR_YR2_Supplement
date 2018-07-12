@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004275	abnormal postnatal subventricular zone morphology	38	5	11.5	6.98	6.6e-05	0.018	13.7	4.09	36.4
+MP:0008284	abnormal hippocampus pyramidal cell layer	87	7	7.04	6.09	5.7e-05	0.018	8.03	3.05	17.9
+MP:0003633	abnormal nervous system physiology	1903	40	1.84	4.42	3.1e-05	0.018	2.38	1.56	3.59
+MP:0001516	abnormal motor coordination/ balance	833	22	2.31	4.27	0.00015	0.018	2.7	1.6	4.39
+MP:0000783	abnormal forebrain morphology	1011	25	2.16	4.22	0.00014	0.018	2.56	1.56	4.08
+MP:0002152	abnormal brain morphology	1633	35	1.88	4.19	8.4e-05	0.018	2.34	1.51	3.56
+MP:0001392	abnormal locomotor behavior	1537	33	1.88	4.06	0.00014	0.018	2.3	1.47	3.54
+MP:0000813	abnormal hippocampus layer morphology	108	7	5.67	5.25	0.00023	0.02	6.35	2.43	14.1
+MP:0000812	abnormal dentate gyrus morphology	109	7	5.62	5.22	0.00024	0.02	6.28	2.4	13.9
+MP:0003312	abnormal locomotor coordination	672	19	2.48	4.27	0.00019	0.02	2.85	1.63	4.76
+MP:0004407	increased cochlear hair cell number	29	4	12.1	6.42	0.00031	0.024	14.3	3.56	42.6
+MP:0012533	uveal coloboma	13	3	20.2	7.45	0.00038	0.026	26.6	4.64	106
+MP:0001406	abnormal gait	437	14	2.8	4.15	0.00043	0.026	3.15	1.64	5.61
+MP:0002082	postnatal lethality	1346	29	1.89	3.78	4e-04	0.026	2.25	1.41	3.5
+MP:0001405	impaired coordination	454	14	2.7	3.99	0.00062	0.031	3.02	1.58	5.38
+MP:0002882	abnormal neuron morphology	1515	31	1.79	3.62	0.00058	0.031	2.14	1.36	3.31
+MP:0003491	abnormal voluntary movement	1648	33	1.75	3.62	0.00054	0.031	2.12	1.35	3.25
+MP:0000269	abnormal heart looping	131	7	4.68	4.56	0.00073	0.033	5.16	1.98	11.3
+MP:0000787	abnormal telencephalon morphology	808	20	2.17	3.73	0.00072	0.033	2.47	1.43	4.09
+MP:0009940	abnormal hippocampus pyramidal cell morphology	69	5	6.34	4.79	0.0011	0.045	7.04	2.17	17.8
+MP:0001722	pale yolk sac	102	6	5.15	4.53	0.0011	0.045	5.67	1.98	13.2
+MP:0008476	increased spleen red pulp amount	70	5	6.25	4.74	0.0012	0.046	6.93	2.13	17.6

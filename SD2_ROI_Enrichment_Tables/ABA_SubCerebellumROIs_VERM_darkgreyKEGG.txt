@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05224	Breast cancer	144	6	6.59	5.41	0.00026	0.0036	7.8	2.64	19.1
+path:hsa05217	Basal cell carcinoma	55	3	8.63	4.53	0.0049	0.023	9.68	1.86	32
+path:hsa04916	Melanogenesis	101	4	6.26	4.25	0.0036	0.023	7.05	1.79	20.2
+path:hsa05205	Proteoglycans in cancer	203	5	3.9	3.34	0.0086	0.03	4.37	1.33	11.3
+path:hsa04150	mTOR signaling pathway	150	4	4.22	3.18	0.014	0.036	4.65	1.19	13.2
+path:hsa04390	Hippo signaling pathway	153	4	4.14	3.13	0.015	0.036	4.56	1.17	12.9
+path:hsa04666	Fc gamma R-mediated phagocytosis	90	3	5.27	3.26	0.019	0.038	5.76	1.12	18.7

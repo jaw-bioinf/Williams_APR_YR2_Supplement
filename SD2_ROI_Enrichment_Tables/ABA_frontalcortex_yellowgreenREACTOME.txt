@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	32	3	14.7	6.21	0.0011	0.028	16.8	3.19	56.5
+R-HSA-156590	Glutathione conjugation	36	3	13	5.8	0.0015	0.028	14.8	2.82	49.1
+R-HSA-597592	Post-translational protein modification	1353	17	1.97	3.06	0.004	0.048	2.33	1.25	4.15

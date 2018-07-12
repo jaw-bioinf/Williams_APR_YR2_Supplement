@@ -1,0 +1,39 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003323	Progressive muscle weakness	42	4	11.5	6.26	0.00034	0.05	14.5	3.49	44.8
+HP:0100299	Muscle fiber inclusion bodies	43	4	11.3	6.18	0.00037	0.05	14.1	3.4	43.6
+HP:0000722	Obsessive-compulsive behavior	48	4	10.1	5.78	0.00057	0.05	12.5	3.03	38.3
+HP:0008777	Abnormality of the vocal cords	49	4	9.88	5.71	0.00062	0.05	12.2	2.96	37.4
+HP:0008756	Bowing of the vocal cords	29	3	12.5	5.69	0.0016	0.05	15.3	2.79	54.8
+HP:0001348	Brisk reflexes	33	3	11	5.27	0.0023	0.05	13.2	2.43	46.9
+HP:0030223	Perseveration	34	3	10.7	5.18	0.0026	0.05	12.8	2.36	45.2
+HP:0002145	Frontotemporal dementia	34	3	10.7	5.18	0.0026	0.05	12.8	2.36	45.2
+HP:0002483	Bulbar signs	35	3	10.4	5.09	0.0028	0.05	12.4	2.29	43.7
+HP:0002529	Neuronal loss in central nervous system	60	4	8.07	5.04	0.0013	0.05	9.76	2.39	29.6
+HP:0007024	Pseudobulbar paralysis	36	3	10.1	5	0.003	0.05	12	2.22	42.2
+HP:0002314	Degeneration of the lateral corticospinal tracts	36	3	10.1	5	0.003	0.05	12	2.22	42.2
+HP:0002835	Aspiration	37	3	9.81	4.92	0.0033	0.05	11.7	2.16	41
+HP:0000734	Disinhibition	37	3	9.81	4.92	0.0033	0.05	11.7	2.16	41
+HP:0007372	Atrophy/Degeneration involving the corticospinal tracts	37	3	9.81	4.92	0.0033	0.05	11.7	2.16	41
+HP:0002300	Mutism	38	3	9.56	4.84	0.0035	0.05	11.3	2.1	39.7
+HP:0004303	Abnormality of muscle fibers	173	7	4.9	4.8	0.00039	0.05	6.35	2.26	15.7
+HP:0003325	Limb-girdle muscle weakness	65	4	7.45	4.79	0.0018	0.05	8.95	2.2	27.1
+HP:0002492	Abnormality of the corticospinal tract	39	3	9.31	4.76	0.0038	0.05	11	2.04	38.5
+HP:0007354	Amyotrophic lateral sclerosis	39	3	9.31	4.76	0.0038	0.05	11	2.04	38.5
+HP:0001609	Hoarse voice	66	4	7.34	4.74	0.0019	0.05	8.81	2.16	26.6
+HP:0001618	Dysphonia	68	4	7.12	4.65	0.0021	0.05	8.53	2.1	25.7
+HP:0000719	Inappropriate behavior	41	3	8.86	4.62	0.0044	0.05	10.4	1.94	36.3
+HP:0002366	Abnormal lower motor neuron morphology	41	3	8.86	4.62	0.0044	0.05	10.4	1.94	36.3
+HP:0003805	Rimmed vacuoles	41	3	8.86	4.62	0.0044	0.05	10.4	1.94	36.3
+HP:0002127	Abnormal upper motor neuron morphology	41	3	8.86	4.62	0.0044	0.05	10.4	1.94	36.3
+HP:0002063	Rigidity	103	5	5.88	4.58	0.0013	0.05	7.18	2.1	19.7
+HP:0006685	Endocardial fibrosis	42	3	8.65	4.55	0.0047	0.05	10.2	1.89	35.3
+HP:0002385	Paraparesis	42	3	8.65	4.55	0.0047	0.05	10.2	1.89	35.3
+HP:0006957	Loss of ability to walk	42	3	8.65	4.55	0.0047	0.05	10.2	1.89	35.3
+HP:0007126	Proximal amyotrophy	73	4	6.63	4.44	0.0028	0.05	7.9	1.95	23.8
+HP:0002747	Respiratory insufficiency due to muscle weakness	113	5	5.36	4.3	0.002	0.05	6.5	1.9	17.8
+HP:0004347	Weakness of muscles of respiration	116	5	5.22	4.22	0.0023	0.05	6.32	1.85	17.3
+HP:0002305	Athetosis	79	4	6.13	4.21	0.0037	0.05	7.25	1.79	21.8
+HP:0001653	Mitral regurgitation	79	4	6.13	4.21	0.0037	0.05	7.25	1.79	21.8
+HP:0004306	Abnormality of the endocardium	80	4	6.05	4.17	0.0039	0.05	7.16	1.77	21.5
+HP:0002460	Distal muscle weakness	122	5	4.96	4.06	0.0028	0.05	5.98	1.75	16.4
+HP:0001639	Hypertrophic cardiomyopathy	279	8	3.47	3.93	0.0014	0.05	4.51	1.71	10.7

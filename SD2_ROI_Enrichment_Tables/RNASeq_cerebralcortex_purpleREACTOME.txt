@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1187000	Fertilization	26	3	33	9.68	9.6e-05	0.001	40.4	7.41	145
+R-HSA-1474165	Reproduction	27	3	31.8	9.49	0.00011	0.001	38.8	7.12	138

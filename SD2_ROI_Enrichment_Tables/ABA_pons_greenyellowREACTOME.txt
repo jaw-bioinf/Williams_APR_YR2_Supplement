@@ -1,0 +1,14 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72689	Formation of a pool of free 40S subunits	101	7	7.23	6.19	4.9e-05	0.0022	8.21	3.13	18.3
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	9	5.69	5.98	2.7e-05	0.0022	6.47	2.81	13.2
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	7	6.58	5.81	9e-05	0.0022	7.42	2.83	16.5
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	7	6.52	5.78	9.5e-05	0.0022	7.35	2.8	16.3
+R-HSA-72613	Eukaryotic Translation Initiation	119	7	6.14	5.54	0.00014	0.0022	6.88	2.63	15.2
+R-HSA-72737	Cap-dependent Translation Initiation	119	7	6.14	5.54	0.00014	0.0022	6.88	2.63	15.2
+R-HSA-72766	Translation	258	10	4.04	4.87	0.00017	0.0024	4.53	2.07	8.88
+R-HSA-71403	Citric acid cycle (TCA cycle)	19	3	16.5	6.64	0.00074	0.0089	19.9	3.66	71.4
+R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	47	4	8.88	5.33	0.001	0.011	9.97	2.55	28.3
+R-HSA-611105	Respiratory electron transport	95	5	5.49	4.33	0.0021	0.021	6	1.86	15
+R-HSA-5696394	DNA Damage Recognition in GG-NER	38	3	8.23	4.4	0.0057	0.042	9.1	1.76	29.7
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	5	4.42	3.68	0.0054	0.042	4.77	1.48	11.9
+R-HSA-392499	Metabolism of proteins	1907	29	1.59	2.8	0.0055	0.042	1.85	1.15	2.91

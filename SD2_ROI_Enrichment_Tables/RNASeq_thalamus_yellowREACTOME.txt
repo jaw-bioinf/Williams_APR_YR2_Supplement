@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	46	5.62	13.8	1.4e-23	8.4e-21	9.11	6.1	13.5
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	52	4.55	12.5	1.5e-21	4.7e-19	6.6	4.61	9.34
+R-HSA-5389840	Mitochondrial translation elongation	84	36	6.18	13	2.3e-20	4.7e-18	10.6	6.61	16.7
+R-HSA-5419276	Mitochondrial translation termination	86	36	6.04	12.8	6.1e-20	9.2e-18	10.1	6.37	16
+R-HSA-5368287	Mitochondrial translation	87	36	5.97	12.7	9.7e-20	1.2e-17	9.94	6.25	15.6
+R-HSA-611105	Respiratory electron transport	95	34	5.16	11.1	2.1e-16	2.2e-14	7.82	4.94	12.2
+R-HSA-72766	Translation	258	51	2.85	8.22	5e-12	4.3e-10	3.49	2.49	4.82
+R-HSA-6799198	Complex I biogenesis	55	20	5.25	8.62	2.5e-10	1.8e-08	7.87	4.28	14.1
+R-HSA-1430728	Metabolism	1899	197	1.5	6.56	2.6e-10	1.8e-08	1.77	1.48	2.11
+R-HSA-163210	Formation of ATP by chemiosmotic coupling	18	11	8.82	9.06	3.3e-09	1.8e-07	21.4	7.55	65.3
+R-HSA-8949613	Cristae formation	18	11	8.82	9.06	3.3e-09	1.8e-07	21.4	7.55	65.3
+R-HSA-392499	Metabolism of proteins	1907	185	1.4	5.29	2.3e-07	1.1e-05	1.6	1.34	1.92
+R-HSA-1268020	Mitochondrial protein import	20	8	5.77	5.83	3e-05	0.0014	9.04	3.19	24.1
+R-HSA-8953854	Metabolism of RNA	646	71	1.59	4.2	5.6e-05	0.0024	1.73	1.32	2.25
+R-HSA-1592230	Mitochondrial biogenesis	68	14	2.97	4.45	0.00019	0.0068	3.53	1.8	6.49
+R-HSA-1632852	Macroautophagy	68	14	2.97	4.45	0.00019	0.0068	3.53	1.8	6.49
+R-HSA-69278	Cell Cycle, Mitotic	531	59	1.6	3.9	0.00018	0.0068	1.74	1.29	2.32
+R-HSA-3700989	Transcriptional Regulation by TP53	365	44	1.74	3.93	0.00021	0.007	1.9	1.34	2.64
+R-HSA-72306	tRNA processing	83	15	2.61	4.01	0.00051	0.015	3	1.59	5.35
+R-HSA-8953897	Cellular responses to external stimuli	493	54	1.58	3.61	0.00048	0.015	1.71	1.25	2.3
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	15	2.52	3.85	0.00075	0.022	2.88	1.52	5.1
+R-HSA-453279	Mitotic G1-G1/S phases	143	21	2.12	3.68	0.00082	0.023	2.35	1.4	3.79
+R-HSA-69190	DNA strand elongation	24	7	4.21	4.29	0.00091	0.024	5.57	1.95	14.2
+R-HSA-69620	Cell Cycle Checkpoints	292	35	1.73	3.45	0.001	0.025	1.87	1.26	2.7
+R-HSA-1640170	Cell Cycle	607	62	1.47	3.29	0.0012	0.028	1.58	1.18	2.08
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	26	1.85	3.33	0.0017	0.04	2.01	1.27	3.07
+R-HSA-69186	Lagging Strand Synthesis	20	6	4.33	4.07	0.0018	0.041	5.79	1.82	16.1

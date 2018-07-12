@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0009882	Short distal phalanx of finger	82	4	10.7	6.01	0.00041	0.043	14.6	3.35	49.5
+HP:0009811	Abnormality of the elbow	200	6	6.58	5.5	0.00016	0.043	10.2	3.01	31.3
+HP:0009803	Short phalanx of finger	149	5	7.36	5.37	0.00039	0.043	10.6	2.84	33.5
+HP:0009835	Aplasia/Hypoplasia of the distal phalanges of the hand	93	4	9.44	5.58	0.00066	0.049	12.7	2.93	43
+HP:0009767	Aplasia/Hypoplasia of the phalanges of the hand	173	5	6.34	4.87	0.00077	0.049	8.98	2.42	28.5
+HP:0002645	Wormian bones	49	3	13.4	5.93	0.0013	0.05	17.2	3.05	65.7
+HP:0002857	Genu valgum	105	4	8.36	5.18	0.001	0.05	11.2	2.58	37.7
+HP:0003019	Abnormality of the wrist	107	4	8.2	5.12	0.0011	0.05	11	2.53	36.9

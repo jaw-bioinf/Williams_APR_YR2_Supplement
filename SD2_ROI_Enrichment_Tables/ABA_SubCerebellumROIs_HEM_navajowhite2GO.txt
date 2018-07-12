@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00834	2	3	1	0.333	0.5	CORUM:6205	cor	8	Dkk1-Lrp6-Kremen2 complex	1	DKK1
+2	1	TRUE	0.00834	2	3	1	0.333	0.5	CORUM:2868	cor	1	TEAD3-YAP DNA-protein complex	1	YAP1
+3	1	TRUE	0.00834	2	3	1	0.333	0.5	CORUM:2866	cor	7	TEAD2-YAP DNA-protein complex	1	YAP1
+4	1	TRUE	0.00834	2	3	1	0.333	0.5	CORUM:3018	cor	2	Cohesin complex, incomplete (Sycp2, Crest/Ss18I1)	1	SYCP2
+5	1	TRUE	0.00834	1	3	1	0.333	1	CORUM:2869	cor	4	TEAD4-YAP DNA-protein complex	1	YAP1
+6	1	TRUE	0.0146	4	3	1	0.333	0.25	CORUM:2870	cor	6	TEAD2-multiprotein complex	1	YAP1
+7	1	TRUE	0.00834	2	3	1	0.333	0.5	CORUM:6673	cor	3	Foxo1-Yap1 complex	1	YAP1
+8	1	TRUE	0.00834	1	3	1	0.333	1	CORUM:2867	cor	5	TEAD1-YAP DNA-protein complex	1	YAP1

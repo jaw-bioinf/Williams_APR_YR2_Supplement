@@ -1,0 +1,60 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112316 Neuronal System 356 78 2.56 9.18 2.6e-15 1.8e-12 3.2 2.43 4.18
+R-HSA-1296071 Potassium Channels 99 31 3.66 8.14 7.4e-11 2.6e-08 5.02 3.15 7.84
+R-HSA-181429 Serotonin Neurotransmitter Release Cycle 18 12 7.8 8.83 1.6e-09 3.8e-07 21.7 7.5 70.6
+R-HSA-112315 Transmission across Chemical Synapses 224 47 2.45 6.73 4.8e-09 8.4e-07 2.95 2.07 4.12
+R-HSA-212676 Dopamine Neurotransmitter Release Cycle 23 13 6.61 8.24 6.1e-09 8.5e-07 14.1 5.69 36
+R-HSA-181430 Norepinephrine Neurotransmitter Release Cycle 18 11 7.15 7.98 3e-08 3.5e-06 17 6 51.8
+R-HSA-210500 Glutamate Neurotransmitter Release Cycle 24 12 5.85 7.27 1.5e-07 1.4e-05 10.8 4.43 26.4
+R-HSA-264642 Acetylcholine Neurotransmitter Release Cycle 17 10 6.88 7.42 2.2e-07 1.9e-05 15.4 5.29 47.9
+R-HSA-112310 Neurotransmitter release cycle 51 17 3.9 6.35 5.4e-07 4.2e-05 5.43 2.83 10.1
+R-HSA-191273 Cholesterol biosynthesis 25 11 5.15 6.35 2.4e-06 0.00017 8.5 3.48 20.2
+R-HSA-168799 Neurotoxicity of clostridium toxins 10 7 8.19 6.95 3.1e-06 2e-04 25.1 5.73 151
+R-HSA-888590 GABA synthesis, release, reuptake and degradation 19 9 5.54 6.06 9.8e-06 0.00055 9.71 3.48 26.7
+R-HSA-977444 GABA B receptor activation 39 13 3.9 5.55 1.2e-05 0.00055 5.41 2.54 11
+R-HSA-991365 Activation of GABAB receptors 39 13 3.9 5.55 1.2e-05 0.00055 5.41 2.54 11
+R-HSA-500792 GPCR ligand binding 419 62 1.73 4.67 1.1e-05 0.00055 1.92 1.43 2.55
+R-HSA-1296041 Activation of G protein gated Potassium channels 25 10 4.68 5.63 2e-05 0.00068 7.2 2.88 17.2
+R-HSA-1296059 G protein gated Potassium channels 25 10 4.68 5.63 2e-05 0.00068 7.2 2.88 17.2
+R-HSA-373752 Netrin-1 signaling 25 10 4.68 5.63 2e-05 0.00068 7.2 2.88 17.2
+R-HSA-997272 Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits 25 10 4.68 5.63 2e-05 0.00068 7.2 2.88 17.2
+R-HSA-9006934 Signaling by Receptor Tyrosine Kinases 487 69 1.66 4.55 1.6e-05 0.00068 1.83 1.39 2.4
+R-HSA-1296065 Inwardly rectifying K+ channels 31 11 4.15 5.37 2.9e-05 0.00095 5.95 2.56 13.1
+R-HSA-977443 GABA receptor activation 55 15 3.19 4.98 3.9e-05 0.0012 4.06 2.08 7.56
+R-HSA-5576891 Cardiac conduction 139 27 2.27 4.62 4e-05 0.0012 2.63 1.65 4.06
+R-HSA-397014 Muscle contraction 201 34 1.98 4.29 8.4e-05 0.0024 2.23 1.48 3.26
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 28 2.13 4.31 9.8e-05 0.0027 2.42 1.54 3.7
+R-HSA-5339562 Uptake and actions of bacterial toxins 31 10 3.77 4.73 0.00017 0.0044 5.14 2.15 11.5
+R-HSA-163359 Glucagon signaling in metabolic regulation 33 10 3.54 4.48 3e-04 0.0075 4.69 1.99 10.3
+R-HSA-373076 Class A/1 (Rhodopsin-like receptors) 320 46 1.68 3.79 3e-04 0.0075 1.84 1.31 2.55
+R-HSA-445717 Aquaporin-mediated transport 52 13 2.92 4.25 0.00032 0.0078 3.6 1.76 6.93
+R-HSA-437239 Recycling pathway of L1 41 11 3.14 4.19 0.00048 0.011 3.96 1.78 8.16
+R-HSA-190840 Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane 19 7 4.31 4.41 0.00066 0.014 6.28 2.09 17.4
+R-HSA-2022928 HS-GAG biosynthesis 30 9 3.51 4.21 0.00064 0.014 4.62 1.86 10.6
+R-HSA-381676 Glucagon-like Peptide-1 (GLP1) regulates insulin secretion 36 10 3.25 4.13 0.00064 0.014 4.15 1.78 8.93
+R-HSA-428643 Organic anion transporters 10 5 5.85 4.69 0.00079 0.016 10.7 2.47 46.8
+R-HSA-190872 Transport of connexons to the plasma membrane 20 7 4.09 4.23 0.00094 0.019 5.8 1.95 15.7
+R-HSA-77387 Insulin receptor recycling 26 8 3.6 4.06 0.0011 0.021 4.79 1.8 11.6
+R-HSA-6811436 COPI-independent Golgi-to-ER retrograde traffic 52 12 2.7 3.76 0.0012 0.022 3.24 1.54 6.33
+R-HSA-382551 Transport of small molecules 705 83 1.38 3.18 0.0014 0.026 1.47 1.14 1.88
+R-HSA-1638091 Heparan sulfate/heparin (HS-GAG) metabolism 54 12 2.6 3.6 0.0017 0.029 3.09 1.47 6
+R-HSA-373080 Class B/2 (Secretin family receptors) 61 13 2.49 3.58 0.0016 0.029 2.93 1.45 5.51
+R-HSA-2132295 MHC class II antigen presentation 124 21 1.98 3.36 0.0018 0.031 2.21 1.31 3.58
+R-HSA-1296346 Tandem pore domain potassium channels 12 5 4.87 4.11 0.0021 0.034 7.68 1.92 28.2
+R-HSA-1839130 Signaling by activated point mutants of FGFR3 12 5 4.87 4.11 0.0021 0.034 7.68 1.92 28.2
+R-HSA-2033514 FGFR3 mutant receptor activation 12 5 4.87 4.11 0.0021 0.034 7.68 1.92 28.2
+R-HSA-375280 Amine ligand-binding receptors 42 10 2.79 3.54 0.0023 0.036 3.37 1.47 7.06
+R-HSA-375276 Peptide ligand-binding receptors 187 28 1.75 3.17 0.0024 0.036 1.91 1.22 2.89
+R-HSA-5654704 SHC-mediated cascade:FGFR3 18 6 3.9 3.76 0.0029 0.04 5.38 1.65 15.5
+R-HSA-418597 G alpha (z) signalling events 30 8 3.12 3.55 0.0029 0.04 3.92 1.5 9.17
+R-HSA-1296072 Voltage gated Potassium channels 43 10 2.72 3.46 0.0028 0.04 3.27 1.43 6.82
+R-HSA-432040 Vasopressin regulates renal water homeostasis via Aquaporins 43 10 2.72 3.46 0.0028 0.04 3.27 1.43 6.82
+R-HSA-74752 Signaling by Insulin receptor 72 14 2.27 3.32 0.0028 0.04 2.61 1.34 4.76
+R-HSA-190239 FGFR3 ligand binding and activation 13 5 4.5 3.86 0.0032 0.042 6.72 1.72 23.3
+R-HSA-190372 FGFR3c ligand binding and activation 13 5 4.5 3.86 0.0032 0.042 6.72 1.72 23.3
+R-HSA-5654227 Phospholipase C-mediated cascade; FGFR3 13 5 4.5 3.86 0.0032 0.042 6.72 1.72 23.3
+R-HSA-422356 Regulation of insulin secretion 66 13 2.3 3.25 0.0034 0.043 2.65 1.32 4.95
+R-HSA-917977 Transferrin endocytosis and recycling 31 8 3.02 3.44 0.0037 0.045 3.75 1.44 8.71
+R-HSA-114608 Platelet degranulation  123 20 1.9 3.08 0.0037 0.045 2.1 1.23 3.44
+R-HSA-3000171 Non-integrin membrane-ECM interactions 38 9 2.77 3.34 0.004 0.047 3.34 1.39 7.29
+R-HSA-422475 Axon guidance 295 39 1.55 2.91 0.004 0.047 1.66 1.14 2.35

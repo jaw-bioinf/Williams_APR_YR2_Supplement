@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000046	Scrotal hypoplasia	45	4	13.6	6.89	0.00017	0.038	17.6	4.18	56.4
+HP:0000045	Abnormality of the scrotum	86	5	8.87	6	0.00019	0.038	11.7	3.3	33.6

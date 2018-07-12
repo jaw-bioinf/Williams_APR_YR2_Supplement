@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0007305	CNS demyelination	78	5	16.1	8.52	8.2e-06	0.0012	25.9	6.66	88.9
+HP:0001404	Hepatocellular necrosis	43	3	17.5	6.88	0.00057	0.019	23.4	4.05	93.6
+HP:0002605	Hepatic necrosis	47	3	16	6.55	0.00074	0.019	21.3	3.69	84.6
+HP:0000712	Emotional lability	111	4	9.03	5.44	0.00074	0.019	12.6	2.85	44.7
+HP:0011400	Abnormal CNS myelination	184	5	6.81	5.13	0.00051	0.019	10.3	2.68	34.5
+HP:0012447	Abnormal myelination	281	6	5.35	4.81	0.00043	0.019	8.77	2.49	29.1
+HP:0001276	Hypertonia	626	8	3.2	3.85	0.0011	0.02	6.2	1.88	21.8
+HP:0000708	Behavioral abnormality	997	10	2.51	3.58	0.001	0.02	6.35	1.83	27.8
+HP:0030085	Abnormal CSF lactate level	69	3	10.9	5.26	0.0023	0.032	14.1	2.47	55.2
+HP:0002490	Increased CSF lactate	69	3	10.9	5.26	0.0023	0.032	14.1	2.47	55.2
+HP:0100705	Abnormality of the glial cells	144	4	6.96	4.62	0.002	0.032	9.57	2.16	33.7

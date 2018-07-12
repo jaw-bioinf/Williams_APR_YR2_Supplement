@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8848021	Signaling by PTK6	54	3	9.93	4.94	0.0034	0.05	11	2.13	35.7
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	3	9.93	4.94	0.0034	0.05	11	2.13	35.7

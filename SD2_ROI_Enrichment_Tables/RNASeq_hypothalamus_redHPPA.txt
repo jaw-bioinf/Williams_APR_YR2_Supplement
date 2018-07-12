@@ -1,0 +1,44 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0005927	Aplasia/hypoplasia involving bones of the hand	375	48	1.88	4.87	6.1e-06	0.012	2.26	1.58	3.19
+HP:0010938	Abnormality of the external nose	676	72	1.56	4.41	1.9e-05	0.018	1.9	1.4	2.56
+HP:0000189	Narrow palate	38	10	3.86	4.8	0.00015	0.031	5.05	2.16	10.9
+HP:0000599	Abnormality of the frontal hairline	80	16	2.94	4.74	6.8e-05	0.031	3.59	1.91	6.42
+HP:0000294	Low anterior hairline	45	11	3.59	4.73	0.00015	0.031	4.59	2.07	9.43
+HP:0006496	Aplasia/hypoplasia involving bones of the upper limbs	405	48	1.74	4.28	5.1e-05	0.031	2.05	1.43	2.89
+HP:0010720	Abnormal hair pattern	149	23	2.27	4.27	0.00014	0.031	2.66	1.59	4.27
+HP:0009803	Short phalanx of finger	149	23	2.27	4.27	0.00014	0.031	2.66	1.59	4.27
+HP:0000290	Abnormality of the forehead	647	67	1.52	3.96	0.00011	0.031	1.81	1.32	2.45
+HP:0100886	Abnormality of globe location	744	74	1.46	3.83	0.00016	0.031	1.74	1.29	2.34
+HP:0009553	Abnormality of the hairline	125	20	2.35	4.15	0.00023	0.037	2.75	1.58	4.57
+HP:0005105	Abnormal nasal morphology	701	70	1.47	3.73	0.00023	0.037	1.73	1.27	2.34
+HP:0000889	Abnormality of the clavicle	90	16	2.61	4.18	0.00029	0.038	3.1	1.66	5.48
+HP:0000414	Bulbous nose	92	16	2.55	4.08	0.00038	0.038	3.01	1.61	5.32
+HP:0009381	Short finger	190	26	2.01	3.87	0.00037	0.038	2.31	1.43	3.61
+HP:0006265	Aplasia/Hypoplasia of fingers	231	30	1.91	3.86	0.00033	0.038	2.19	1.41	3.32
+HP:0045060	Aplasia/hypoplasia involving bones of the extremities	469	51	1.6	3.75	0.00028	0.038	1.85	1.31	2.58
+HP:0011927	Short digit	390	44	1.66	3.72	0.00035	0.038	1.91	1.32	2.71
+HP:0002648	Abnormality of calvarial morphology	609	62	1.5	3.63	0.00035	0.038	1.74	1.27	2.38
+HP:0002474	Expressive language delay	11	5	6.68	5.1	0.00046	0.039	11.6	2.78	46
+HP:0000448	Prominent nose	79	14	2.6	3.89	0.00072	0.039	3.07	1.56	5.63
+HP:0100037	Abnormality of the scalp hair	181	25	2.03	3.84	0.00042	0.039	2.33	1.43	3.67
+HP:0000574	Thick eyebrow	97	16	2.42	3.84	0.00069	0.039	2.82	1.52	4.97
+HP:0009767	Aplasia/Hypoplasia of the phalanges of the hand	173	24	2.04	3.78	0.00051	0.039	2.34	1.42	3.71
+HP:0011361	Congenital abnormal hair pattern	135	20	2.18	3.77	0.00065	0.039	2.51	1.45	4.15
+HP:0000729	Autistic behavior	225	29	1.89	3.74	0.00048	0.039	2.17	1.38	3.3
+HP:0001965	Abnormality of the scalp	186	25	1.97	3.69	0.00064	0.039	2.26	1.39	3.54
+HP:0000483	Astigmatism	167	23	2.02	3.66	0.00075	0.039	2.31	1.39	3.7
+HP:0040019	Finger clinodactyly	228	29	1.87	3.66	6e-04	0.039	2.13	1.36	3.25
+HP:0004209	Clinodactyly of the 5th finger	228	29	1.87	3.66	6e-04	0.039	2.13	1.36	3.25
+HP:0005922	Abnormal hand morphology	239	30	1.84	3.65	6e-04	0.039	2.1	1.35	3.18
+HP:0009179	Deviation of the 5th finger	230	29	1.85	3.61	0.00069	0.039	2.11	1.34	3.21
+HP:0000539	Abnormality of refraction	491	52	1.56	3.59	0.00047	0.039	1.79	1.27	2.49
+HP:0002644	Abnormality of pelvic girdle bone morphology	421	46	1.6	3.57	0.00053	0.039	1.84	1.28	2.6
+HP:0003272	Abnormality of the hip bone	353	40	1.66	3.56	0.00062	0.039	1.9	1.29	2.74
+HP:0000159	Abnormality of the lip	748	72	1.41	3.45	0.00058	0.039	1.65	1.22	2.22
+HP:0000422	Abnormality of the nasal bridge	702	68	1.42	3.38	0.00073	0.039	1.65	1.21	2.23
+HP:0001182	Tapered finger	80	14	2.57	3.84	0.00082	0.04	3.02	1.54	5.54
+HP:0011220	Prominent forehead	189	25	1.94	3.6	0.00081	0.04	2.21	1.36	3.47
+HP:0004207	Abnormality of the 5th finger	324	37	1.68	3.46	0.00088	0.041	1.9	1.28	2.78
+HP:0009815	Aplasia/hypoplasia of the extremities	504	52	1.52	3.38	0.00088	0.041	1.73	1.23	2.41
+HP:0000436	Abnormality of the nasal tip	202	26	1.89	3.52	0.00097	0.044	2.15	1.33	3.34
+HP:0100711	Abnormality of the thoracic spine	25	7	4.11	4.22	0.001	0.046	5.45	1.9	13.8

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6794362	Protein-protein interactions at synapses	70	13	7.18	8.45	2.2e-08	5e-06	8.98	4.45	16.9
+R-HSA-6794361	Neurexins and neuroligins	34	8	9.1	7.71	1.8e-06	0.00014	11.9	4.61	27.4
+R-HSA-112316	Neuronal System	356	26	2.82	5.71	1.7e-06	0.00014	3.19	2.01	4.87

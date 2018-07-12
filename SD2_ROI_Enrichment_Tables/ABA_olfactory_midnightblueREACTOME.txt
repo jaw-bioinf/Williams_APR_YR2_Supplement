@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-8953854 Metabolism of RNA 646 23 2.23 4.11 0.00023 0.033 2.49 1.51 3.92
+R-HSA-6791226 Major pathway of rRNA processing in the nucleolus and cytosol 182 10 3.44 4.23 0.00066 0.046 3.75 1.73 7.26
+R-HSA-8868773 rRNA processing in the nucleus and cytosol 191 10 3.28 4.05 0.00096 0.046 3.56 1.65 6.88

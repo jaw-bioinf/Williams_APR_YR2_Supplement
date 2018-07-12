@@ -1,0 +1,23 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:967	cor	4	Pallidin-Mu complex	1	BLOC1S5
+2	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:3022	cor	5	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	SYCP1
+3	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:1151	cor	7	Sycp1-Syce1-Syce2 complex	1	SYCP1
+4	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:3014	cor	2	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	SYCP1
+5	1	TRUE	0.0498	1	11	1	0.091	1	CORUM:3049	cor	22	Mad-Max-mSin3a complex	1	SIN3A
+6	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:3019	cor	16	Cohesin complex, incomplete (Smc4, Crest/Ss18I1)	1	SMC4
+7	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:6813	cor	1	Arrb2-Akt-Src complex, insulin induced	1	SRC
+8	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:146	cor	10	Src-dynamin-synapsin complex	1	SRC
+9	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:3024	cor	21	Cohesin complex, incomplete (Smc3, Sycp1, Crest/Ss18I1)	1	SYCP1
+10	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:3023	cor	14	Cohesin complex, incomplete (Smc1b, Sycp1, Crest/Ss18I1)	1	SYCP1
+11	1	TRUE	0.0119	4	11	2	0.182	0.5	CORUM:1164	cor	8	ActRIIA-ActRIB-Smad3-Arip1 complex	1	SMAD3,ACVR2A
+12	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:2832	cor	6	Smad4-Smad2-Smad3 complex	1	SMAD3
+13	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:6285	cor	11	Ucp3-Hax-1 complex	1	UCP3
+14	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:5402	cor	15	Cdk5-Cdk5r1-Pctk1 complex	1	CDK5R1
+15	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:1829	cor	18	SMAD3-VDR complex	1	SMAD3
+16	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:5358	cor	13	GTP-Rho-Rhpn1-Ropn1 complex	1	ROPN1
+17	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:5365	cor	3	Ripk2-Nod2 complex	1	RIPK2
+18	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:1115	cor	20	Cdk5-Cdk5r1 complex	1	CDK5R1
+19	1	TRUE	0.0498	3	11	1	0.091	0.333	CORUM:1161	cor	9	Smrt-Sin3A-Hdac7 complex	1	SIN3A
+20	1	TRUE	0.0119	3	11	2	0.182	0.667	CORUM:6752	cor	12	Smad3-mSin3A-Hdac1 complex	1	SMAD3,SIN3A
+21	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:2831	cor	19	TIF1gamma-Smad2-Smad3 complex	1	SMAD3
+22	1	TRUE	0.0498	2	11	1	0.091	0.5	CORUM:3713	cor	17	Smad3-Smad4 complex	1	SMAD3

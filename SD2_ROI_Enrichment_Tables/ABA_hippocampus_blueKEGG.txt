@@ -1,0 +1,66 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05032	Morphine addiction	91	45	2.17	6.11	1.9e-08	5e-06	3.39	2.19	5.25
+path:hsa04919	Thyroid hormone signaling pathway	116	52	1.97	5.71	9.7e-08	1.3e-05	2.82	1.91	4.15
+path:hsa05200	Pathways in cancer	395	133	1.48	5.33	2.2e-07	2e-05	1.79	1.43	2.23
+path:hsa05211	Renal cell carcinoma	65	33	2.23	5.41	6.9e-07	3.7e-05	3.55	2.11	5.99
+path:hsa04727	GABAergic synapse	88	41	2.05	5.36	6.3e-07	3.7e-05	3.01	1.92	4.7
+path:hsa04921	Oxytocin signaling pathway	152	60	1.73	4.97	2.2e-06	8.6e-05	2.26	1.6	3.18
+path:hsa04360	Axon guidance	175	67	1.68	4.96	2.1e-06	8.6e-05	2.15	1.56	2.97
+path:hsa04012	ErbB signaling pathway	86	39	1.99	5.02	2.7e-06	9.2e-05	2.86	1.81	4.49
+path:hsa04725	Cholinergic synapse	112	47	1.84	4.88	4e-06	0.00012	2.5	1.67	3.71
+path:hsa04722	Neurotrophin signaling pathway	119	49	1.81	4.83	4.7e-06	0.00013	2.42	1.64	3.55
+path:hsa04728	Dopaminergic synapse	130	52	1.76	4.73	6.7e-06	0.00016	2.31	1.58	3.33
+path:hsa05223	Non-small cell lung cancer	58	28	2.12	4.65	1.6e-05	0.00036	3.21	1.84	5.57
+path:hsa05214	Glioma	64	30	2.06	4.62	1.7e-05	0.00036	3.03	1.79	5.12
+path:hsa05031	Amphetamine addiction	68	31	2	4.51	2.5e-05	0.00045	2.88	1.72	4.79
+path:hsa04713	Circadian entrainment	96	40	1.83	4.45	2.5e-05	0.00045	2.46	1.59	3.78
+path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	72	32	1.95	4.41	3.5e-05	0.00059	2.75	1.67	4.51
+path:hsa04010	MAPK signaling pathway	255	85	1.46	4.1	5.5e-05	0.00087	1.74	1.31	2.28
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	53	1.62	4.06	8.4e-05	0.0012	2.01	1.4	2.87
+path:hsa04080	Neuroactive ligand-receptor interaction	277	90	1.43	3.94	9.7e-05	0.0014	1.67	1.28	2.18
+path:hsa04726	Serotonergic synapse	112	43	1.69	3.98	0.00013	0.0017	2.15	1.42	3.2
+path:hsa04066	HIF-1 signaling pathway	99	39	1.73	3.97	0.00014	0.0018	2.24	1.45	3.42
+path:hsa05030	Cocaine addiction	49	23	2.06	4.05	0.00016	0.002	3.03	1.65	5.54
+path:hsa05220	Chronic myeloid leukemia	71	30	1.86	3.94	0.00019	0.0022	2.51	1.51	4.14
+path:hsa04020	Calcium signaling pathway	181	62	1.5	3.73	0.00024	0.0027	1.8	1.29	2.48
+path:hsa05205	Proteoglycans in cancer	203	68	1.47	3.7	0.00026	0.0028	1.74	1.27	2.36
+path:hsa04720	Long-term potentiation	67	28	1.84	3.73	0.00038	0.0039	2.46	1.45	4.12
+path:hsa04015	Rap1 signaling pathway	210	69	1.44	3.54	0.00043	0.0043	1.69	1.24	2.29
+path:hsa04915	Estrogen signaling pathway	98	37	1.66	3.56	0.00054	0.0052	2.08	1.34	3.2
+path:hsa05213	Endometrial cancer	50	22	1.93	3.59	0.00068	0.0055	2.69	1.46	4.89
+path:hsa04520	Adherens junction	72	29	1.77	3.56	0.00063	0.0055	2.31	1.39	3.8
+path:hsa01522	Endocrine resistance	95	36	1.66	3.54	0.00059	0.0055	2.1	1.34	3.24
+path:hsa05224	Breast cancer	144	50	1.52	3.46	0.00065	0.0055	1.83	1.27	2.62
+path:hsa04024	cAMP signaling pathway	198	65	1.44	3.43	0.00065	0.0055	1.69	1.23	2.3
+path:hsa05215	Prostate cancer	87	33	1.67	3.39	0.00097	0.0076	2.1	1.31	3.31
+path:hsa01521	EGFR tyrosine kinase inhibitor resistance	79	30	1.67	3.24	0.0016	0.011	2.1	1.28	3.38
+path:hsa05414	Dilated cardiomyopathy	89	33	1.63	3.24	0.0015	0.011	2.02	1.27	3.17
+path:hsa04068	FoxO signaling pathway	131	45	1.51	3.19	0.0015	0.011	1.8	1.22	2.62
+path:hsa04144	Endocytosis	260	80	1.35	3.14	0.0015	0.011	1.54	1.16	2.02
+path:hsa05100	Bacterial invasion of epithelial cells	76	29	1.68	3.22	0.0017	0.012	2.11	1.28	3.44
+path:hsa04662	B cell receptor signaling pathway	70	27	1.69	3.17	0.002	0.014	2.15	1.27	3.57
+path:hsa04916	Melanogenesis	101	36	1.57	3.11	0.0021	0.014	1.9	1.22	2.91
+path:hsa04540	Gap junction	88	32	1.6	3.06	0.0025	0.016	1.96	1.22	3.09
+path:hsa00270	Cysteine and methionine metabolism	45	19	1.85	3.12	0.0028	0.017	2.5	1.3	4.7
+path:hsa05231	Choline metabolism in cancer	99	35	1.55	3.01	0.0028	0.017	1.87	1.2	2.89
+path:hsa04137	Mitophagy - animal	65	25	1.69	3.03	0.0031	0.018	2.14	1.24	3.63
+path:hsa04724	Glutamatergic synapse	114	39	1.5	2.94	0.0033	0.019	1.78	1.17	2.67
+path:hsa05410	Hypertrophic cardiomyopathy (HCM)	83	30	1.59	2.92	0.0038	0.022	1.94	1.19	3.1
+path:hsa04371	Apelin signaling pathway	137	45	1.44	2.84	0.0041	0.023	1.68	1.14	2.44
+path:hsa04917	Prolactin signaling pathway	70	26	1.63	2.88	0.0045	0.025	2.02	1.19	3.37
+path:hsa03018	RNA degradation	77	28	1.6	2.86	0.0046	0.025	1.96	1.18	3.19
+path:hsa04350	TGF-beta signaling pathway	84	30	1.57	2.85	0.0046	0.025	1.9	1.17	3.04
+path:hsa04310	Wnt signaling pathway	142	46	1.42	2.76	0.005	0.026	1.64	1.13	2.37
+path:hsa04911	Insulin secretion	85	30	1.55	2.77	0.0057	0.028	1.87	1.15	2.98
+path:hsa04912	GnRH signaling pathway	92	32	1.53	2.77	0.0056	0.028	1.83	1.15	2.86
+path:hsa04140	Autophagy - animal	128	42	1.44	2.73	0.0056	0.028	1.67	1.12	2.46
+path:hsa04136	Autophagy - other	32	14	1.92	2.84	0.0067	0.032	2.65	1.22	5.66
+path:hsa05131	Shigellosis	65	24	1.62	2.73	0.0067	0.032	2	1.15	3.4
+path:hsa05218	Melanoma	69	25	1.59	2.68	0.0076	0.035	1.94	1.14	3.26
+path:hsa04072	Phospholipase D signaling pathway	145	46	1.39	2.6	0.0077	0.035	1.59	1.09	2.3
+path:hsa04390	Hippo signaling pathway	153	48	1.38	2.57	0.0083	0.037	1.57	1.08	2.24
+path:hsa04721	Synaptic vesicle cycle	63	23	1.6	2.61	0.0092	0.041	1.96	1.12	3.37
+path:hsa04550	Signaling pathways regulating pluripotency of stem cells	139	44	1.39	2.52	0.0094	0.041	1.59	1.08	2.3
+path:hsa05210	Colorectal cancer	60	22	1.61	2.58	0.01	0.043	1.98	1.11	3.44
+path:hsa04810	Regulation of actin cytoskeleton	212	63	1.3	2.45	0.01	0.044	1.45	1.06	1.98
+path:hsa05212	Pancreatic cancer	64	23	1.58	2.52	0.011	0.047	1.92	1.09	3.28

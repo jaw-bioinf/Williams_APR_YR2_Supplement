@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0060050	autoimmune disease of blood	26	4	15.2	7.33	0.00012	0.019	18.7	4.56	57.2
+DOID:8925	primary thrombocytopenia	18	3	16.4	6.64	0.00073	0.038	20.3	3.68	74.1
+DOID:8924	autoimmune thrombocytopenic purpura	18	3	16.4	6.64	0.00073	0.038	20.3	3.68	74.1

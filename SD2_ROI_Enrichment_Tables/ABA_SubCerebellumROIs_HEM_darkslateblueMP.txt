@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005562	decreased mean corpuscular hemoglobin	78	4	14.9	7.24	0.00014	0.032	17.7	4.4	52.4
+MP:0002591	decreased mean corpuscular volume	105	4	11	6.09	0.00044	0.033	12.9	3.23	37.9
+MP:0008762	embryonic lethality	1763	15	2.47	4.03	0.00031	0.033	3.78	1.76	8.07
+MP:0010865	prenatal growth retardation	644	8	3.6	4.03	0.0012	0.046	4.51	1.74	10.4
+MP:0002088	abnormal embryonic growth/weight/body size	966	10	3	3.87	0.0011	0.046	3.94	1.66	8.7
+MP:0004196	abnormal prenatal growth/weight/body size	1147	11	2.78	3.79	0.0011	0.046	3.74	1.62	8.14

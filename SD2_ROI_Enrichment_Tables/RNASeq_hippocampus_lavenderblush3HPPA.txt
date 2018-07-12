@@ -1,0 +1,76 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0008063	Aplasia/Hypoplasia of the lens	38	3	39.6	10.7	4e-05	0.0059	73.6	10.4	451
+HP:0000692	Misalignment of teeth	287	5	8.74	6.11	6.5e-05	0.0059	28.5	4.64	298
+HP:0011220	Prominent forehead	189	4	10.6	6.07	0.00025	0.013	23.8	4	164
+HP:0100729	Large face	198	4	10.1	5.91	3e-04	0.013	22.7	3.81	156
+HP:0011338	Abnormality of mouth shape	235	4	8.53	5.34	0.00058	0.013	18.8	3.17	129
+HP:0000639	Nystagmus	771	6	3.9	4.08	0.00063	0.013	21.5	2.6	983
+HP:0000486	Strabismus	774	6	3.89	4.07	0.00064	0.013	21.4	2.58	978
+HP:0012547	Abnormal involuntary eye movements	779	6	3.86	4.05	0.00067	0.013	21.2	2.56	970
+HP:0000549	Abnormal conjugate eye movement	793	6	3.79	4	0.00074	0.013	20.7	2.5	948
+HP:0000496	Abnormality of eye movement	1200	7	2.92	3.67	0.00054	0.013	Inf	2.78	Inf
+HP:0000678	Dental crowding	108	3	13.9	6.1	0.00091	0.014	24.2	3.5	145
+HP:0008062	Aplasia/Hypoplasia affecting the anterior segment of the eye	110	3	13.7	6.04	0.00096	0.014	23.7	3.43	142
+HP:0012622	Chronic kidney disease	117	3	12.9	5.83	0.0011	0.016	22.2	3.22	133
+HP:0000194	Open mouth	135	3	11.1	5.37	0.0017	0.018	19.1	2.77	114
+HP:0008056	Aplasia/Hypoplasia affecting the eye	323	4	6.21	4.39	0.002	0.018	13.3	2.24	91
+HP:0008050	Abnormality of the palpebral fissures	566	5	4.43	3.98	0.0017	0.018	13.1	2.14	138
+HP:0000925	Abnormality of the vertebral column	935	6	3.22	3.54	0.0019	0.018	16.6	2.01	762
+HP:0001263	Global developmental delay	946	6	3.18	3.51	0.002	0.018	16.4	1.98	750
+HP:0000153	Abnormality of the mouth	1389	7	2.53	3.27	0.0015	0.018	Inf	2.21	Inf
+HP:0000929	Abnormality of the skull	1400	7	2.51	3.25	0.0016	0.018	Inf	2.18	Inf
+HP:0000177	Abnormality of upper lip	601	5	4.17	3.82	0.0022	0.019	12.2	1.99	128
+HP:0000276	Long face	169	3	8.9	4.71	0.0033	0.022	15	2.19	89.5
+HP:0040194	Increased head circumference	366	4	5.48	4.05	0.0032	0.022	11.6	1.95	79.2
+HP:0000256	Macrocephaly	366	4	5.48	4.05	0.0032	0.022	11.6	1.95	79.2
+HP:0001999	Abnormal facial shape	631	5	3.97	3.69	0.0028	0.022	11.5	1.87	121
+HP:0000290	Abnormality of the forehead	647	5	3.88	3.62	0.0032	0.022	11.1	1.82	117
+HP:0002650	Scoliosis	657	5	3.82	3.58	0.0034	0.022	10.9	1.78	115
+HP:0011297	Abnormality of digit	1030	6	2.92	3.28	0.0033	0.022	14.5	1.76	666
+HP:0000288	Abnormality of the philtrum	387	4	5.18	3.9	0.0039	0.024	10.8	1.83	74.3
+HP:0000164	Abnormality of the teeth	682	5	3.68	3.48	0.0041	0.024	10.4	1.7	110
+HP:0002814	Abnormality of the lower limb	1067	6	2.82	3.18	0.0041	0.024	13.8	1.67	633
+HP:0010674	Abnormality of the curvature of the vertebral column	714	5	3.51	3.36	0.005	0.027	9.84	1.61	104
+HP:0009121	Abnormal axial skeleton morphology	1638	7	2.14	2.83	0.0048	0.027	Inf	1.65	Inf
+HP:0012373	Abnormal eye physiology	1647	7	2.13	2.82	0.005	0.027	Inf	1.63	Inf
+HP:0000718	Aggressive behavior	200	3	7.52	4.24	0.0054	0.028	12.6	1.83	74.8
+HP:0012385	Camptodactyly	210	3	7.16	4.12	0.0062	0.028	11.9	1.73	71
+HP:0030044	Flexion contracture of digit	214	3	7.03	4.07	0.0065	0.028	11.7	1.7	69.5
+HP:0000107	Renal cyst	221	3	6.81	3.99	0.0071	0.028	11.3	1.64	67.3
+HP:0000729	Autistic behavior	225	3	6.69	3.94	0.0075	0.028	11.1	1.61	65.9
+HP:0000343	Long philtrum	228	3	6.6	3.91	0.0078	0.028	10.9	1.59	65
+HP:0011339	Abnormality of upper lip vermillion	233	3	6.46	3.85	0.0083	0.028	10.7	1.55	63.4
+HP:0000750	Delayed speech and language development	460	4	4.36	3.46	0.0074	0.028	8.9	1.5	61
+HP:0200006	Slanting of the palpebral fissure	461	4	4.35	3.45	0.0074	0.028	8.88	1.5	60.8
+HP:0005918	Abnormality of phalanx of finger	479	4	4.19	3.36	0.0085	0.028	8.49	1.43	58.2
+HP:0000159	Abnormality of the lip	748	5	3.35	3.24	0.0062	0.028	9.28	1.52	97.6
+HP:0000032	Abnormality of male external genitalia	773	5	3.24	3.16	0.0072	0.028	8.9	1.45	93.6
+HP:0000356	Abnormality of the outer ear	776	5	3.23	3.15	0.0073	0.028	8.85	1.45	93.1
+HP:0001167	Abnormality of finger	784	5	3.2	3.12	0.0077	0.028	8.73	1.43	91.9
+HP:0000811	Abnormal external genitalia	795	5	3.15	3.09	0.0082	0.028	8.58	1.4	90.3
+HP:0010461	Abnormality of the male genitalia	797	5	3.15	3.08	0.0083	0.028	8.55	1.4	90
+HP:0002813	Abnormality of limb bone morphology	1135	6	2.65	3.02	0.0057	0.028	12.6	1.53	579
+HP:0040068	Abnormality of limb bone	1160	6	2.59	2.96	0.0065	0.028	12.2	1.48	560
+HP:0000163	Abnormality of the oral cavity	1192	6	2.52	2.89	0.0076	0.028	11.7	1.42	538
+HP:0011844	Abnormal appendicular skeleton morphology	1199	6	2.51	2.88	0.0078	0.028	11.6	1.41	533
+HP:0012758	Neurodevelopmental delay	1201	6	2.51	2.87	0.0079	0.028	11.6	1.4	532
+HP:0000752	Hyperactivity	248	3	6.07	3.7	0.0099	0.031	9.96	1.45	59.3
+HP:0006919	Abnormal aggressive, impulsive or violent behavior	249	3	6.04	3.69	0.01	0.031	9.91	1.44	58.9
+HP:0000492	Abnormality of the eyelid	823	5	3.05	3	0.0096	0.031	8.2	1.34	86.4
+HP:0000233	Thin vermilion border	257	3	5.85	3.61	0.011	0.033	9.58	1.4	57
+HP:0000369	Low-set ears	514	4	3.9	3.18	0.011	0.033	7.82	1.32	53.5
+HP:0001595	Abnormality of the hair	863	5	2.91	2.88	0.012	0.035	7.7	1.26	80.8
+HP:0011821	Abnormality of facial skeleton	874	5	2.87	2.85	0.013	0.037	7.57	1.24	79.6
+HP:0000357	Abnormal location of ears	540	4	3.71	3.06	0.013	0.038	7.37	1.24	50.5
+HP:0000501	Glaucoma	279	3	5.39	3.42	0.014	0.039	8.76	1.28	52.1
+HP:0000083	Renal insufficiency	285	3	5.28	3.37	0.014	0.04	8.56	1.25	50.9
+HP:0011362	Abnormal hair quantity	556	4	3.61	3	0.015	0.04	7.12	1.2	48.7
+HP:0000998	Hypertrichosis	291	3	5.17	3.32	0.015	0.041	8.36	1.22	49.7
+HP:0000271	Abnormality of the face	1938	7	1.81	2.38	0.016	0.041	Inf	1.17	Inf
+HP:0000368	Low-set, posteriorly rotated ears	306	3	4.92	3.2	0.018	0.046	7.91	1.15	47
+HP:0030669	Abnormal morphology of the ocular adnexa	944	5	2.66	2.66	0.018	0.046	6.82	1.11	71.9
+HP:0002648	Abnormality of calvarial morphology	609	4	3.29	2.78	0.02	0.049	6.38	1.08	43.7
+HP:0012243	Abnormal genital system morphology	965	5	2.6	2.61	0.02	0.049	6.62	1.08	69.7
+HP:0011138	Abnormality of skin adnexa morphology	968	5	2.59	2.6	0.02	0.049	6.59	1.08	69.4
+HP:0000240	Abnormality of skull size	968	5	2.59	2.6	0.02	0.049	6.59	1.08	69.4
+HP:0001155	Abnormality of the hand	972	5	2.58	2.59	0.02	0.049	6.55	1.07	69

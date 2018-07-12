@@ -1,0 +1,34 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-113418	Formation of the Early Elongation Complex	33	5	16.7	8.64	1.1e-05	0.0011	20.5	6.04	55.6
+R-HSA-77075	RNA Pol II CTD phosphorylation and interaction with CE	27	4	16.3	7.62	9.5e-05	0.0033	19.8	4.87	59.6
+R-HSA-72086	mRNA Capping	29	4	15.2	7.32	0.00013	0.0033	18.2	4.5	54.3
+R-HSA-73772	RNA Polymerase I Promoter Escape	30	4	14.7	7.18	0.00015	0.0033	17.5	4.34	51.9
+R-HSA-73863	RNA Polymerase I Transcription Termination	31	4	14.2	7.05	0.00017	0.0033	16.8	4.19	49.8
+R-HSA-112382	Formation of RNA Pol II elongation complex 	61	5	9.02	6.02	0.00022	0.0033	10.2	3.12	26.2
+R-HSA-75955	RNA Polymerase II Transcription Elongation	61	5	9.02	6.02	0.00022	0.0033	10.2	3.12	26.2
+R-HSA-6796648	TP53 Regulates Transcription of DNA Repair Genes	65	5	8.46	5.78	3e-04	0.004	9.55	2.92	24.4
+R-HSA-3700989	Transcriptional Regulation by TP53	365	11	3.32	4.32	0.00045	0.0053	3.72	1.77	7.09
+R-HSA-167169	HIV Transcription Elongation	23	3	14.4	6.14	0.0011	0.0063	16.9	3.15	58.5
+R-HSA-167172	Transcription of the HIV genome	23	3	14.4	6.14	0.0011	0.0063	16.9	3.15	58.5
+R-HSA-167200	Formation of HIV-1 elongation complex containing HIV-1 Tat	23	3	14.4	6.14	0.0011	0.0063	16.9	3.15	58.5
+R-HSA-167246	Tat-mediated elongation of the HIV-1 transcript	23	3	14.4	6.14	0.0011	0.0063	16.9	3.15	58.5
+R-HSA-73762	RNA Polymerase I Transcription Initiation	45	4	9.78	5.65	0.00072	0.0063	11.1	2.82	31.6
+R-HSA-73776	RNA Polymerase II Promoter Escape	47	4	9.36	5.5	0.00084	0.0063	10.6	2.69	30
+R-HSA-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	47	4	9.36	5.5	0.00084	0.0063	10.6	2.69	30
+R-HSA-75953	RNA Polymerase II Transcription Initiation	47	4	9.36	5.5	0.00084	0.0063	10.6	2.69	30
+R-HSA-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance	47	4	9.36	5.5	0.00084	0.0063	10.6	2.69	30
+R-HSA-674695	RNA Polymerase II Pre-transcription Events	84	5	6.55	4.89	0.00097	0.0063	7.24	2.23	18.3
+R-HSA-203927	MicroRNA (miRNA) biogenesis	24	3	13.8	5.99	0.0013	0.0068	16.1	3.01	55.3
+R-HSA-6781823	Formation of TC-NER Pre-Incision Complex	54	4	8.15	5.05	0.0014	0.0072	9.07	2.33	25.5
+R-HSA-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	65	4	6.77	4.47	0.0028	0.014	7.43	1.92	20.7
+R-HSA-6782135	Dual incision in TC-NER	66	4	6.67	4.42	0.003	0.014	7.31	1.89	20.3
+R-HSA-1632852	Macroautophagy	68	4	6.47	4.34	0.0033	0.015	7.08	1.83	19.7
+R-HSA-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	79	4	5.57	3.91	0.0057	0.024	6.03	1.57	16.6
+R-HSA-69231	Cyclin D associated events in G1	44	3	7.5	4.14	0.0073	0.029	8.21	1.6	26.5
+R-HSA-69236	G1 Phase	44	3	7.5	4.14	0.0073	0.029	8.21	1.6	26.5
+R-HSA-162599	Late Phase of HIV Life Cycle	88	4	5	3.61	0.0083	0.032	5.38	1.4	14.8
+R-HSA-73777	RNA Polymerase I Chain Elongation	89	4	4.95	3.58	0.0087	0.032	5.32	1.39	14.6
+R-HSA-5663205	Infectious disease	326	8	2.7	2.99	0.0094	0.033	2.91	1.21	6.07
+R-HSA-162587	HIV Life Cycle	101	4	4.36	3.25	0.013	0.046	4.66	1.22	12.7
+R-HSA-73854	RNA Polymerase I Promoter Clearance	106	4	4.15	3.12	0.016	0.05	4.43	1.16	12.1
+R-HSA-5633007	Regulation of TP53 Activity	160	5	3.44	2.98	0.015	0.05	3.66	1.14	9.07

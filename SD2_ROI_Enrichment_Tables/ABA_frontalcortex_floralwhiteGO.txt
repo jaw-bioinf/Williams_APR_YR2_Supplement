@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0356	11	2	1	0.5	0.091	CORUM:538	cor	1	Cytochrome c oxidase, mitochondrial	1	COX4I1
+2	1	TRUE	0.013	2	2	1	0.5	0.5	CORUM:6564	cor	2	Nek8-Pkd2 complex	1	NEK8

@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112409	RAF-independent MAPK1/3 activation	23	3	17.6	6.9	0.00062	0.035	20.9	3.89	73
+R-HSA-163841	Gamma carboxylation, hypusine formation and arylsulfatase activation	38	3	10.7	5.16	0.0027	0.035	11.9	2.3	39.3
+R-HSA-5675221	Negative regulation of MAPK pathway	40	3	10.1	5	0.0031	0.035	11.3	2.18	37
+R-HSA-109704	PI3K Cascade	41	3	9.9	4.93	0.0034	0.035	11	2.12	35.9
+R-HSA-112399	IRS-mediated signalling	42	3	9.67	4.86	0.0036	0.035	10.7	2.07	35
+R-HSA-2428928	IRS-related events triggered by IGF1R	46	3	8.82	4.59	0.0047	0.035	9.71	1.88	31.5
+R-HSA-2428924	IGF1R signaling cascade	47	3	8.64	4.53	0.005	0.035	9.5	1.84	30.7
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	48	3	8.46	4.47	0.0053	0.035	9.28	1.8	30
+R-HSA-74751	Insulin receptor signalling cascade	48	3	8.46	4.47	0.0053	0.035	9.28	1.8	30

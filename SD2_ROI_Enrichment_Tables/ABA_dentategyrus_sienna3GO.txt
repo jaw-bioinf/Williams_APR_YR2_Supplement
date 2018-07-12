@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0108	2	3	1	0.333	0.5	CORUM:358	cor	6	DNA ligase IV-Xrcc4-DNA-protein kinase complex	1	LIG4
+2	1	TRUE	0.0108	2	3	1	0.333	0.5	CORUM:5120	cor	1	p19-Cdk6 complex	1	CDK6
+3	1	TRUE	0.0108	2	3	1	0.333	0.5	CORUM:5128	cor	4	p18-Cdk6 complex	1	CDK6
+4	1	TRUE	0.0122	3	3	1	0.333	0.333	CORUM:2415	cor	7	Itgb1-Rap1a-Prkd1 complex	1	PRKD1

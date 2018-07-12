@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0001336 Myoclonus 199 9 4.18 4.83 2e-04 0.047 5.35 2.2 11.8
+HP:0001260 Dysarthria 373 12 2.97 4.21 0.00036 0.047 3.97 1.81 8.24
+HP:0002167 Neurological speech impairment 785 19 2.24 4.11 0.00016 0.047 3.53 1.76 7.09
+HP:0000639 Nystagmus 771 18 2.16 3.8 0.00043 0.047 3.25 1.61 6.5
+HP:0012547 Abnormal involuntary eye movements 779 18 2.13 3.75 5e-04 0.047 3.2 1.59 6.42
+HP:0100022 Abnormality of movement 1159 23 1.83 3.62 0.00043 0.047 3.15 1.57 6.52

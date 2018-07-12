@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3781860	Diseases associated with N-glycosylation of proteins	17	4	23.8	9.4	1.9e-05	0.0012	32	7.46	106
+R-HSA-3781865	Diseases of glycosylation	135	6	4.5	4.09	0.0022	0.043	4.89	1.72	11.3
+R-HSA-446203	Asparagine N-linked glycosylation	299	9	3.04	3.59	0.0028	0.043	3.32	1.46	6.67
+R-HSA-597592	Post-translational protein modification	1353	24	1.79	3.14	0.0027	0.043	2.07	1.24	3.32

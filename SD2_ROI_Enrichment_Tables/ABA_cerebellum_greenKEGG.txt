@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05200	Pathways in cancer	395	42	1.81	4.15	1e-04	0.021	2.02	1.4	2.84
+path:hsa05219	Bladder cancer	41	9	3.74	4.39	0.00049	0.022	4.59	1.91	9.93
+path:hsa05220	Chronic myeloid leukemia	71	12	2.88	3.98	0.00077	0.022	3.33	1.62	6.33
+path:hsa04144	Endocytosis	260	30	1.97	3.97	0.00026	0.022	2.18	1.42	3.26
+path:hsa04721	Synaptic vesicle cycle	63	11	2.97	3.93	0.00096	0.022	3.46	1.61	6.78
+path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	72	12	2.84	3.92	0.00088	0.022	3.28	1.59	6.22
+path:hsa05214	Glioma	64	11	2.93	3.87	0.0011	0.022	3.39	1.59	6.64
+path:hsa04010	MAPK signaling pathway	255	29	1.94	3.81	0.00042	0.022	2.14	1.38	3.22
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	19	2.25	3.78	7e-04	0.022	2.51	1.45	4.14
+path:hsa05222	Small cell lung cancer	84	13	2.64	3.77	0.0011	0.022	3	1.51	5.53
+path:hsa04961	Endocrine and other factor-regulated calcium reabsorption	47	9	3.26	3.89	0.0014	0.024	3.86	1.63	8.2
+path:hsa05215	Prostate cancer	87	13	2.55	3.62	0.0015	0.024	2.88	1.45	5.29
+path:hsa04668	TNF signaling pathway	108	15	2.37	3.57	0.0015	0.024	2.65	1.41	4.65
+path:hsa04110	Cell cycle	124	16	2.2	3.36	0.0023	0.033	2.43	1.33	4.19
+path:hsa04210	Apoptosis	138	17	2.1	3.26	0.0028	0.037	2.31	1.29	3.9
+path:hsa04919	Thyroid hormone signaling pathway	116	15	2.2	3.26	0.003	0.038	2.44	1.3	4.26
+path:hsa05212	Pancreatic cancer	64	10	2.66	3.34	0.0038	0.04	3.02	1.36	6.05
+path:hsa04918	Thyroid hormone synthesis	74	11	2.53	3.31	0.0036	0.04	2.85	1.34	5.51
+path:hsa04911	Insulin secretion	85	12	2.41	3.26	0.0038	0.04	2.69	1.32	5.04

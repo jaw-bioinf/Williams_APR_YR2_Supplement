@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00812	3	2	1	0.5	0.333	CORUM:5145	cor	1	p19-Cdk4-cyclinD2 complex	1	CDKN2D
+2	1	TRUE	0.00722	2	2	1	0.5	0.5	CORUM:5119	cor	5	p19-Cdk4 complex	1	CDKN2D
+3	1	TRUE	0.00722	2	2	1	0.5	0.5	CORUM:5120	cor	3	p19-Cdk6 complex	1	CDKN2D
+4	1	TRUE	0.00722	2	2	1	0.5	0.5	CORUM:3230	cor	4	Heterodimer complex (Cdk9, Il6st)	1	IL6ST
+5	1	TRUE	0.0233	32	3	2	0.667	0.062	HP:0011358	hp	2	Generalized hypopigmentation of hair	1	UROC1,SLC17A5
+6	1	TRUE	0.00622	12	3	2	0.667	0.167	HP:0002286	hp	2	Fair hair	2	UROC1,SLC17A5

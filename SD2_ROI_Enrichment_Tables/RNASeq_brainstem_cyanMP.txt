@@ -1,0 +1,64 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000322	increased granulocyte number	328	20	3.6	6.3	6.1e-07	0.00075	4.18	2.44	6.82
+MP:0002827	abnormal renal corpuscle morphology	350	18	3.04	5.1	2.4e-05	0.0064	3.43	1.95	5.7
+MP:0002441	abnormal granulocyte morphology	558	24	2.54	4.93	2e-05	0.0064	2.9	1.78	4.55
+MP:0020201	abnormal granulocyte number	529	23	2.57	4.88	2.6e-05	0.0064	2.92	1.77	4.62
+MP:0000218	increased leukocyte cell number	1080	37	2.02	4.7	1.7e-05	0.0064	2.39	1.6	3.5
+MP:0011181	increased hematopoietic cell number	1247	40	1.9	4.46	3.4e-05	0.007	2.24	1.52	3.25
+MP:0004622	sacral vertebral fusion	13	4	18.2	8.13	5e-05	0.0088	26.4	5.88	96.2
+MP:0000521	abnormal kidney cortex morphology	378	18	2.81	4.72	6.7e-05	0.01	3.15	1.79	5.24
+MP:0005325	abnormal renal glomerulus morphology	321	16	2.95	4.65	1e-04	0.014	3.28	1.8	5.6
+MP:0005011	increased eosinophil cell number	89	8	5.31	5.36	0.00012	0.015	5.99	2.46	12.7
+MP:0002414	abnormal myeloblast morphology/development	202	12	3.51	4.73	0.00016	0.017	3.89	1.93	7.16
+MP:0002723	abnormal immune serum protein physiology	1067	34	1.88	4.02	0.00018	0.018	2.16	1.43	3.21
+MP:0003881	abnormal nephron morphology	487	20	2.43	4.24	2e-04	0.019	2.71	1.59	4.39
+MP:0001691	abnormal somite shape	35	5	8.44	5.79	0.00028	0.025	9.96	2.98	26.4
+MP:0005061	abnormal eosinophil morphology	157	10	3.76	4.58	0.00032	0.026	4.15	1.91	8.07
+MP:0000523	cortical renal glomerulopathies	190	11	3.42	4.42	0.00037	0.028	3.76	1.81	7.1
+MP:0001881	abnormal mammary gland physiology	108	8	4.38	4.63	0.00047	0.031	4.84	2	10.2
+MP:0013555	abnormal apocrine gland physiology	108	8	4.38	4.63	0.00047	0.031	4.84	2	10.2
+MP:0005371	limbs/digits/tail phenotype	1030	32	1.84	3.73	0.00045	0.031	2.08	1.36	3.11
+MP:0006346	small pharyngeal arch	61	6	5.81	4.95	0.00055	0.032	6.55	2.27	15.5
+MP:0002962	increased urine protein level	167	10	3.54	4.34	0.00052	0.032	3.88	1.79	7.54
+MP:0010172	abnormal mammary gland epithelium physiology	27	4	8.76	5.29	0.001	0.039	10.3	2.57	30.8
+MP:0008702	increased interleukin-5 secretion	28	4	8.44	5.17	0.0012	0.039	9.9	2.47	29.3
+MP:0008111	abnormal granulocyte differentiation	44	5	6.72	4.99	0.00083	0.039	7.66	2.32	19.8
+MP:0001882	abnormal lactation	89	7	4.65	4.54	0.00075	0.039	5.14	1.97	11.3
+MP:0003050	abnormal sacral vertebrae morphology	121	8	3.91	4.22	0.001	0.039	4.28	1.77	8.94
+MP:0002759	abnormal caudal vertebrae morphology	125	8	3.78	4.11	0.0012	0.039	4.13	1.71	8.62
+MP:0002602	abnormal eosinophil cell number	154	9	3.45	4.03	0.0012	0.039	3.76	1.65	7.54
+MP:0003049	abnormal lumbar vertebrae morphology	182	10	3.25	4.02	0.001	0.039	3.54	1.63	6.85
+MP:0000219	increased neutrophil cell number	211	11	3.08	4.01	0.00089	0.039	3.36	1.62	6.32
+MP:0006315	abnormal urine protein level	183	10	3.23	4	0.0011	0.039	3.52	1.62	6.81
+MP:0002703	abnormal renal tubule morphology	277	13	2.77	3.93	0.00082	0.039	3.03	1.55	5.43
+MP:0010831	lethality, incomplete penetrance	281	13	2.73	3.87	0.00094	0.039	2.98	1.53	5.35
+MP:0000627	abnormal mammary gland morphology	254	12	2.79	3.8	0.0012	0.039	3.04	1.51	5.57
+MP:0013554	abnormal apocrine gland morphology	254	12	2.79	3.8	0.0012	0.039	3.04	1.51	5.57
+MP:0003009	abnormal cytokine secretion	661	23	2.06	3.7	0.00071	0.039	2.28	1.39	3.6
+MP:0003091	abnormal cell migration	522	19	2.15	3.55	0.0013	0.039	2.36	1.37	3.86
+MP:0002442	abnormal leukocyte physiology	1401	39	1.65	3.44	0.00088	0.039	1.88	1.27	2.74
+MP:0012382	abnormal blood cell physiology	1515	41	1.6	3.35	0.0011	0.039	1.83	1.25	2.65
+MP:0001819	abnormal immune cell physiology	1428	39	1.61	3.31	0.0013	0.039	1.84	1.24	2.68
+MP:0004545	enlarged esophagus	14	3	12.7	5.73	0.0015	0.042	16.1	2.86	61.8
+MP:0008215	decreased immature B cell number	129	8	3.67	4	0.0015	0.042	3.99	1.66	8.33
+MP:0002462	abnormal granulocyte physiology	260	12	2.73	3.71	0.0015	0.042	2.96	1.48	5.42
+MP:0002421	abnormal cell-mediated immunity	1439	39	1.6	3.26	0.0015	0.042	1.82	1.23	2.65
+MP:0002398	abnormal bone marrow cell morphology/development	575	20	2.06	3.43	0.0016	0.044	2.25	1.32	3.65
+MP:0008713	abnormal cytokine level	415	16	2.28	3.5	0.0017	0.046	2.48	1.37	4.22
+MP:0002113	abnormal skeleton development	496	18	2.14	3.44	0.0018	0.046	2.34	1.34	3.88
+MP:0008245	abnormal alveolar macrophage morphology	15	3	11.8	5.5	0.0019	0.047	14.8	2.65	55.4
+MP:0002823	abnormal rib development	32	4	7.39	4.75	0.002	0.047	8.49	2.14	24.7
+MP:0013664	abnormal immature B cell number	166	9	3.2	3.76	0.002	0.047	3.47	1.53	6.94
+MP:0008770	decreased survivor rate	232	11	2.8	3.65	0.0019	0.047	3.03	1.46	5.7
+MP:0002420	abnormal adaptive immunity	1459	39	1.58	3.16	0.0019	0.047	1.79	1.21	2.61
+MP:0002109	abnormal limb morphology	806	25	1.83	3.25	0.0021	0.048	2.02	1.26	3.14
+MP:0001545	abnormal hematopoietic system physiology	1616	42	1.54	3.11	0.0021	0.048	1.75	1.19	2.53
+MP:0011348	abnormal renal glomerulus basement membrane morphology	55	5	5.37	4.27	0.0023	0.049	5.97	1.83	15.2
+MP:0005264	glomerulosclerosis	81	6	4.38	4.01	0.0024	0.049	4.79	1.68	11.2
+MP:0000572	abnormal autopod morphology	386	15	2.3	3.41	0.0022	0.049	2.49	1.34	4.3
+MP:0008835	abnormal intercellular signaling peptide or protein level	426	16	2.22	3.38	0.0023	0.049	2.41	1.33	4.1
+MP:0002451	abnormal macrophage physiology	427	16	2.21	3.37	0.0023	0.049	2.4	1.33	4.09
+MP:0008250	abnormal myeloid leukocyte morphology	950	28	1.74	3.17	0.0024	0.049	1.93	1.23	2.94
+MP:0001845	abnormal inflammatory response	1235	34	1.63	3.11	0.0025	0.049	1.82	1.2	2.7
+MP:0011497	abnormal glomerular capsule visceral layer morphology	82	6	4.32	3.97	0.0026	0.05	4.73	1.66	11
+MP:0005326	abnormal podocyte morphology	82	6	4.32	3.97	0.0026	0.05	4.73	1.66	11

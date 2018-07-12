@@ -1,0 +1,25 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003633 abnormal nervous system physiology 1903 270 1.3 5.15 3.3e-07 0.0012 1.48 1.27 1.72
+MP:0000164 abnormal cartilage development 207 45 1.99 5.06 3.8e-06 0.0067 2.33 1.62 3.28
+MP:0003635 abnormal synaptic transmission 740 118 1.46 4.58 8.4e-06 0.0097 1.62 1.31 2
+MP:0002917 decreased synaptic depression 17 9 4.85 5.56 2.3e-05 0.0099 9.26 3.16 27.7
+MP:0005267 abnormal olfactory cortex morphology 25 11 4.03 5.32 2.6e-05 0.0099 6.48 2.65 15.4
+MP:0002918 abnormal paired-pulse facilitation 75 21 2.57 4.77 3.3e-05 0.0099 3.22 1.84 5.45
+MP:0002187 abnormal fibula morphology 70 20 2.62 4.76 3.7e-05 0.0099 3.31 1.86 5.69
+MP:0002910 abnormal excitatory postsynaptic currents 139 32 2.11 4.62 2.9e-05 0.0099 2.49 1.61 3.75
+MP:0000163 abnormal cartilage morphology 382 68 1.63 4.41 2.6e-05 0.0099 1.82 1.37 2.4
+MP:0002873 normal phenotype 1906 260 1.25 4.3 1.6e-05 0.0099 1.39 1.19 1.62
+MP:0002206 abnormal CNS synaptic transmission 653 104 1.46 4.27 3.2e-05 0.0099 1.61 1.28 2.01
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 140 1.37 4.19 3.5e-05 0.0099 1.51 1.23 1.83
+MP:0002169 no abnormal phenotype detected 1901 258 1.24 4.18 2.6e-05 0.0099 1.38 1.18 1.61
+MP:0002272 abnormal nervous system electrophysiology 339 61 1.65 4.26 4.8e-05 0.012 1.84 1.36 2.46
+MP:0002919 enhanced paired-pulse facilitation 42 14 3.06 4.67 8.6e-05 0.02 4.13 2 8.14
+MP:0002945 abnormal inhibitory postsynaptic currents 87 22 2.32 4.32 0.00012 0.025 2.8 1.64 4.63
+MP:0005445 abnormal neurotransmitter secretion 82 21 2.35 4.29 0.00014 0.028 2.85 1.64 4.77
+MP:0002065 abnormal fear/anxiety-related behavior 369 63 1.57 3.88 0.00018 0.033 1.73 1.28 2.29
+MP:0002572 abnormal emotion/affect behavior 619 96 1.42 3.8 0.00018 0.033 1.55 1.22 1.95
+MP:0004173 abnormal intervertebral disk morphology 79 20 2.32 4.13 0.00023 0.04 2.8 1.59 4.75
+MP:0002909 abnormal adrenal gland physiology 31 11 3.25 4.4 0.00026 0.043 4.53 1.95 9.95
+MP:0003048 abnormal cervical vertebrae morphology 136 29 1.96 3.93 0.00028 0.043 2.25 1.43 3.44
+MP:0000778 abnormal nervous system tract morphology 210 40 1.75 3.83 0.00029 0.043 1.96 1.34 2.8
+MP:0000088 short mandible 93 22 2.17 3.96 0.00033 0.048 2.56 1.51 4.21

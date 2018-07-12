@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00289	2	1	1	1	0.5	CORUM:5406	cor	4	Myod1-Tcf3 complex	1	MYOD1
+2	1	TRUE	0.00289	2	1	1	1	0.5	CORUM:5404	cor	1	Myod1-Tcf3 complex	1	MYOD1
+3	1	TRUE	0.00289	1	1	1	1	1	CORUM:5405	cor	2	Myod1 homodimer complex	1	MYOD1
+4	1	TRUE	0.00687	139	28	5	0.179	0.036	KEGG:04550	keg	5	Signaling pathways regulating pluripotency of stem cells	1	KLF4,ESX1,ACVR1C,REST,PCGF1

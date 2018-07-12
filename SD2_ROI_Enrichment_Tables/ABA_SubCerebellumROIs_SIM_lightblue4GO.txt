@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0151	3	2	1	0.5	0.333	CORUM:296	cor	3	Pcna-Msh2-Msh6 complex	1	MSH2
+2	1	TRUE	0.0151	4	2	1	0.5	0.25	CORUM:5871	cor	5	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	APH1A
+3	1	TRUE	0.0151	5	2	1	0.5	0.2	CORUM:674	cor	1	Gamma-secretase complex (Aph1a, Ncstn, Psen1, Psenen, Tmp21)	1	APH1A
+4	1	TRUE	0.0376	15	2	1	0.5	0.067	CORUM:2225	cor	4	MutS-alpha-histone H4 complex	1	MSH2
+5	1	TRUE	0.0151	4	2	1	0.5	0.25	CORUM:130	cor	2	Gamma-secretase complex (Aph1a, Psen1, Psenen, Ncstn)	1	APH1A
+6	1	TRUE	0.0151	3	2	1	0.5	0.333	CORUM:2712	cor	6	Aph1a-Psen1-Ncstn complex	1	APH1A

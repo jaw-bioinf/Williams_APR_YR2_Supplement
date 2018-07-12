@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001896	Reticulocytopenia	33	3	22.8	7.96	0.00026	0.023	31.3	5.34	127
+HP:0009778	Short thumb	63	4	15.9	7.56	8.2e-05	0.023	23.2	5.16	83.4
+HP:0009777	Absent thumb	40	3	18.8	7.17	0.00046	0.023	25.4	4.37	102
+HP:0000270	Delayed cranial suture closure	95	4	10.6	5.97	0.00041	0.023	14.9	3.35	52.9
+HP:0009601	Aplasia/Hypoplasia of the thumb	95	4	10.6	5.97	0.00041	0.023	14.9	3.35	52.9
+HP:0001172	Abnormality of the thumb	266	6	5.66	5	0.00032	0.023	9.32	2.64	30.9
+HP:0009942	Duplication of thumb phalanx	45	3	16.7	6.71	0.00065	0.028	22.3	3.86	88.9
+HP:0001199	Triphalangeal thumb	56	3	13.4	5.93	0.0012	0.042	17.7	3.07	69.4
+HP:0004312	Abnormality of reticulocytes	63	3	11.9	5.54	0.0017	0.042	15.6	2.72	61
+HP:0009602	Abnormality of thumb phalanx	133	4	7.54	4.87	0.0015	0.042	10.4	2.35	36.7
+HP:0009774	Triangular shaped phalanges of the hand	138	4	7.27	4.75	0.0017	0.042	10	2.26	35.3
+HP:0000104	Renal agenesis	140	4	7.16	4.71	0.0018	0.042	9.86	2.23	34.7
+HP:0000316	Hypertelorism	506	7	3.47	3.8	0.0017	0.042	6	1.79	20.1
+HP:0002984	Hypoplasia of the radius	67	3	11.2	5.35	0.0021	0.046	14.6	2.55	57
+HP:0001909	Leukemia	149	4	6.73	4.52	0.0022	0.046	9.23	2.09	32.5

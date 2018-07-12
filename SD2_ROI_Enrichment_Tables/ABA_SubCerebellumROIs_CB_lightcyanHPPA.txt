@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001265	Hyporeflexia	280	12	4.3	5.77	8.3e-06	0.0041	6.24	2.8	13.2
+HP:0011805	Abnormality of muscle morphology	1023	22	2.16	4.41	3.3e-05	0.0082	4.18	2.01	9.07
+HP:0003202	Skeletal muscle atrophy	444	13	2.94	4.38	0.00019	0.031	4.17	1.91	8.73
+HP:0001315	Reduced tendon reflexes	399	12	3.02	4.29	0.00029	0.031	4.16	1.87	8.79
+HP:0040290	Abnormality of skeletal muscles	534	14	2.63	4.1	0.00032	0.031	3.79	1.77	7.86
+HP:0030236	Abnormality of muscle size	543	14	2.59	4.03	0.00038	0.031	3.71	1.73	7.71

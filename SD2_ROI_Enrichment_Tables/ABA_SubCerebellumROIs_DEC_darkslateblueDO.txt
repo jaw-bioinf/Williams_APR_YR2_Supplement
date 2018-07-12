@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:10286	prostate carcinoma	125	3	12.9	5.8	0.0014	0.043	16.9	2.94	66.6
+DOID:10283	prostate cancer	180	3	8.98	4.68	0.004	0.043	11.5	2.02	45.3
+DOID:3856	male reproductive organ cancer	192	3	8.41	4.49	0.0047	0.043	10.8	1.89	42.4
+DOID:326	ischemia	196	3	8.24	4.44	0.005	0.043	10.6	1.85	41.4
+DOID:0060180	colitis	204	3	7.92	4.33	0.0056	0.043	10.1	1.78	39.7
+DOID:8577	ulcerative colitis	204	3	7.92	4.33	0.0056	0.043	10.1	1.78	39.7
+DOID:3459	breast carcinoma	451	4	4.78	3.58	0.0076	0.044	6.5	1.46	23.4
+DOID:1909	melanoma	706	5	3.81	3.4	0.0066	0.044	5.6	1.44	19.5

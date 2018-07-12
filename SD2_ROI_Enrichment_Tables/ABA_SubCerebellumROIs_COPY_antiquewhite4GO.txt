@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00973	2	3	1	0.333	0.5	CORUM:44	cor	7	CASK-MINT complex	1	APBA1
+2	1	TRUE	0.0155	4	3	1	0.333	0.25	CORUM:3119	cor	1	Kif17-Lin10-Lin2-Lin7-NR2B complex	1	APBA1
+3	1	TRUE	0.00973	1	3	1	0.333	1	CORUM:2979	cor	4	Axin-Mekk4 complex	1	MAP3K4
+4	1	TRUE	0.00973	2	3	1	0.333	0.5	CORUM:1938	cor	6	Olfr992-Reep1 complex	1	REEP1
+5	1	TRUE	0.00973	2	3	1	0.333	0.5	CORUM:2980	cor	2	Ccd1-Mekk4 complex	1	MAP3K4
+6	1	TRUE	0.00968	52	40	4	0.1	0.077	REAC:R-MMU-112310	rea	3	Neurotransmitter release cycle	1	APBA1,SLC6A1,ALDH5A1,PPFIA1

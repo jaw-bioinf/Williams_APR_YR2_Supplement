@@ -1,0 +1,82 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011804	Abnormality of muscle physiology	1558	144	1.38	5.39	5.4e-08	9.6e-05	2.08	1.58	2.76
+HP:0003487	Babinski sign	239	35	2.19	5.09	4.9e-06	0.0012	2.63	1.74	3.91
+HP:0003202	Skeletal muscle atrophy	444	54	1.82	4.93	4e-06	0.0012	2.21	1.57	3.07
+HP:0100022	Abnormality of movement	1159	111	1.43	4.8	2e-06	0.0012	1.9	1.44	2.5
+HP:0001276	Hypertonia	626	69	1.65	4.78	4.8e-06	0.0012	2.03	1.49	2.74
+HP:0011442	Abnormality of central motor function	1241	116	1.4	4.65	3.5e-06	0.0012	1.86	1.41	2.45
+HP:0003011	Abnormality of the musculature	1823	156	1.28	4.59	2.5e-06	0.0012	1.9	1.43	2.55
+HP:0002936	Distal sensory impairment	119	22	2.76	5.24	8.2e-06	0.0018	3.38	1.98	5.55
+HP:0001257	Spasticity	491	57	1.73	4.7	8.9e-06	0.0018	2.1	1.5	2.89
+HP:0200134	Epileptic encephalopathy	64	15	3.5	5.41	1.3e-05	0.0021	4.49	2.3	8.29
+HP:0002071	Abnormality of extrapyramidal motor function	178	28	2.35	4.95	1.2e-05	0.0021	2.82	1.77	4.36
+HP:0001347	Hyperreflexia	560	62	1.65	4.52	1.5e-05	0.0023	2	1.45	2.73
+HP:0001332	Dystonia	318	41	1.93	4.64	1.8e-05	0.0024	2.29	1.56	3.3
+HP:0001288	Gait disturbance	663	70	1.58	4.42	1.9e-05	0.0024	1.92	1.41	2.59
+HP:0100851	Abnormal emotion/affect behavior	484	55	1.7	4.43	2.6e-05	0.003	2.03	1.45	2.81
+HP:0001265	Hyporeflexia	280	37	1.97	4.55	2.9e-05	0.0032	2.33	1.56	3.42
+HP:0003808	Abnormal muscle tone	1269	114	1.34	4.08	3.9e-05	0.0041	1.73	1.31	2.28
+HP:0001300	Parkinsonism	73	15	3.07	4.78	6.8e-05	0.0052	3.78	1.96	6.89
+HP:0003474	Sensory impairment	183	27	2.2	4.48	5.8e-05	0.0052	2.59	1.62	4.03
+HP:0001268	Mental deterioration	214	30	2.09	4.42	5.9e-05	0.0052	2.46	1.57	3.74
+HP:0009127	Abnormality of the musculature of the limbs	266	35	1.97	4.39	5.4e-05	0.0052	2.31	1.52	3.41
+HP:0001324	Muscle weakness	662	68	1.53	4.09	6.8e-05	0.0052	1.84	1.35	2.49
+HP:0012639	Abnormality of nervous system morphology	2000	162	1.21	3.83	6.7e-05	0.0052	1.73	1.3	2.34
+HP:0045010	Abnormality of peripheral nerves	136	22	2.42	4.51	7.2e-05	0.0053	2.86	1.69	4.66
+HP:0004305	Involuntary movements	664	68	1.53	4.06	7.5e-05	0.0053	1.83	1.34	2.48
+HP:0010551	Paraplegia/paraparesis	129	21	2.43	4.44	9.7e-05	0.0066	2.88	1.68	4.73
+HP:0040290	Abnormality of skeletal muscles	534	57	1.59	3.99	0.00011	0.0074	1.88	1.35	2.59
+HP:0001151	Impaired horizontal smooth pursuit	31	9	4.34	5	0.00013	0.008	5.88	2.36	13.5
+HP:0025270	Abnormality of esophagus physiology	301	37	1.84	4.06	0.00014	0.0083	2.13	1.43	3.12
+HP:0009830	Peripheral neuropathy	405	46	1.7	3.99	0.00014	0.0083	1.98	1.37	2.8
+HP:0002492	Abnormality of the corticospinal tract	39	10	3.83	4.76	0.00017	0.0091	4.97	2.13	10.7
+HP:0002015	Dysphagia	227	30	1.97	4.06	0.00018	0.0091	2.29	1.46	3.47
+HP:0001260	Dysarthria	373	43	1.72	3.95	0.00017	0.0091	2	1.37	2.85
+HP:0030236	Abnormality of muscle size	543	57	1.57	3.85	0.00018	0.0091	1.84	1.32	2.53
+HP:0002493	Upper motor neuron dysfunction	918	86	1.4	3.77	0.00017	0.0091	1.69	1.27	2.25
+HP:0001315	Reduced tendon reflexes	399	45	1.68	3.89	2e-04	0.0099	1.95	1.35	2.77
+HP:0007256	Abnormal pyramidal signs	296	36	1.82	3.93	0.00022	0.01	2.1	1.4	3.08
+HP:0001469	Abnormality of the musculature of the pelvis	15	6	5.97	5.17	0.00025	0.011	9.49	2.76	30.2
+HP:0001445	Abnormality of the hip-girdle musculature	15	6	5.97	5.17	0.00025	0.011	9.49	2.76	30.2
+HP:0003325	Limb-girdle muscle weakness	65	13	2.99	4.33	0.00028	0.011	3.63	1.78	6.88
+HP:0001446	Abnormality of the musculature of the upper limbs	137	21	2.29	4.12	0.00023	0.011	2.67	1.56	4.38
+HP:0040129	Abnormal nerve conduction velocity	128	20	2.33	4.12	0.00025	0.011	2.73	1.57	4.53
+HP:0000762	Decreased nerve conduction velocity	128	20	2.33	4.12	0.00025	0.011	2.73	1.57	4.53
+HP:0003134	Abnormality of peripheral nerve conduction	130	20	2.3	4.04	0.00031	0.012	2.68	1.54	4.44
+HP:0002167	Neurological speech impairment	785	75	1.43	3.64	3e-04	0.012	1.69	1.25	2.27
+HP:0000712	Emotional lability	111	18	2.42	4.08	0.00033	0.013	2.84	1.58	4.84
+HP:0000759	Abnormal peripheral nervous system morphology	660	65	1.47	3.6	0.00038	0.014	1.72	1.26	2.34
+HP:0002314	Degeneration of the lateral corticospinal tracts	36	9	3.73	4.42	0.00044	0.016	4.79	1.96	10.6
+HP:0012443	Abnormality of brain morphology	1687	138	1.22	3.39	0.00045	0.016	1.59	1.2	2.1
+HP:0000009	Functional abnormality of the bladder	219	28	1.91	3.72	0.00052	0.018	2.18	1.38	3.35
+HP:0001263	Global developmental delay	946	86	1.36	3.45	0.00051	0.018	1.62	1.21	2.15
+HP:0007372	Atrophy/Degeneration involving the corticospinal tracts	37	9	3.63	4.31	0.00055	0.019	4.61	1.89	10.2
+HP:0000735	Impaired social interactions	71	13	2.73	3.96	0.00069	0.022	3.25	1.61	6.11
+HP:0002521	Hypsarrhythmia	71	13	2.73	3.96	0.00069	0.022	3.25	1.61	6.11
+HP:0001310	Dysmetria	90	15	2.49	3.83	0.00076	0.023	2.91	1.52	5.21
+HP:0011443	Abnormality of coordination	663	64	1.44	3.38	0.00076	0.023	1.67	1.22	2.27
+HP:0001317	Abnormality of the cerebellum	874	80	1.37	3.35	0.00072	0.023	1.61	1.2	2.15
+HP:0011282	Abnormality of hindbrain morphology	889	81	1.36	3.34	0.00076	0.023	1.61	1.2	2.14
+HP:0011283	Abnormality of the metencephalon	889	81	1.36	3.34	0.00076	0.023	1.61	1.2	2.14
+HP:0012433	Abnormal social behavior	73	13	2.66	3.84	9e-04	0.026	3.14	1.55	5.89
+HP:0007126	Proximal amyotrophy	73	13	2.66	3.84	9e-04	0.026	3.14	1.55	5.89
+HP:0003547	Shoulder girdle muscle weakness	48	10	3.11	3.95	0.001	0.029	3.78	1.66	7.87
+HP:0003805	Rimmed vacuoles	41	9	3.28	3.93	0.0012	0.032	4.03	1.67	8.78
+HP:0000751	Personality changes	49	10	3.05	3.87	0.0012	0.032	3.69	1.62	7.64
+HP:0000716	Depression	75	13	2.59	3.73	0.0012	0.032	3.03	1.51	5.68
+HP:0001435	Abnormality of the shoulder girdle musculature	94	15	2.38	3.64	0.0012	0.032	2.76	1.45	4.93
+HP:0001284	Areflexia	208	26	1.87	3.45	0.0012	0.032	2.11	1.31	3.29
+HP:0001251	Ataxia	546	54	1.48	3.25	0.0013	0.033	1.69	1.2	2.34
+HP:0000301	Abnormality of facial musculature	188	24	1.91	3.42	0.0014	0.034	2.16	1.31	3.41
+HP:0001336	Myoclonus	199	25	1.88	3.41	0.0014	0.034	2.12	1.31	3.33
+HP:0001895	Normochromic anemia	20	6	4.48	4.18	0.0015	0.036	6.1	1.9	17.1
+HP:0001897	Normocytic anemia	20	6	4.48	4.18	0.0015	0.036	6.1	1.9	17.1
+HP:0000817	Poor eye contact	59	11	2.78	3.7	0.0015	0.036	3.3	1.52	6.56
+HP:0001298	Encephalopathy	178	23	1.93	3.41	0.0014	0.036	2.18	1.31	3.49
+HP:0003749	Pelvic girdle muscle weakness	14	5	5.33	4.35	0.0016	0.037	7.88	2.06	26.4
+HP:0002169	Clonus	43	9	3.13	3.76	0.0017	0.04	3.79	1.58	8.2
+HP:0002529	Neuronal loss in central nervous system	60	11	2.74	3.64	0.0017	0.04	3.23	1.49	6.41
+HP:0003797	Limb-girdle muscle atrophy	28	7	3.73	3.89	0.0019	0.043	4.75	1.69	11.8
+HP:0002463	Language impairment	52	10	2.87	3.64	0.0019	0.043	3.42	1.51	7.04
+HP:0002011	Morphological abnormality of the central nervous system	1825	144	1.18	2.95	0.0019	0.043	1.5	1.14	1.99
+HP:0007024	Pseudobulbar paralysis	36	8	3.32	3.75	0.0021	0.046	4.08	1.59	9.33

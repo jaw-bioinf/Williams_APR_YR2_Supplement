@@ -1,0 +1,55 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04144	Endocytosis	260	116	1.5	5.33	1.8e-07	3.4e-05	1.95	1.51	2.53
+path:hsa04141	Protein processing in endoplasmic reticulum	165	80	1.63	5.32	2.5e-07	3.4e-05	2.27	1.64	3.13
+path:hsa04140	Autophagy - animal	128	62	1.63	4.66	5.8e-06	0.00052	2.25	1.56	3.25
+path:hsa05169	Epstein-Barr virus infection	199	87	1.47	4.36	1.6e-05	0.0011	1.87	1.39	2.51
+path:hsa04136	Autophagy - other	32	21	2.2	4.44	2.9e-05	0.0016	4.54	2.09	10.4
+path:hsa04919	Thyroid hormone signaling pathway	116	55	1.59	4.19	4.1e-05	0.0019	2.16	1.46	3.17
+path:hsa00310	Lysine degradation	59	32	1.82	4.12	7.1e-05	0.0028	2.82	1.63	4.91
+path:hsa05131	Shigellosis	65	34	1.76	3.99	0.00011	0.0038	2.61	1.55	4.41
+path:hsa04962	Vasopressin-regulated water reabsorption	44	25	1.91	3.93	0.00016	0.0049	3.13	1.65	6.02
+path:hsa05200	Pathways in cancer	395	150	1.27	3.67	2e-04	0.0054	1.48	1.19	1.83
+path:hsa05211	Renal cell carcinoma	65	33	1.7	3.72	0.00029	0.0073	2.45	1.46	4.14
+path:hsa05215	Prostate cancer	87	41	1.58	3.56	0.00045	0.0087	2.12	1.35	3.32
+path:hsa04722	Neurotrophin signaling pathway	119	53	1.5	3.55	0.00042	0.0087	1.92	1.3	2.81
+path:hsa00190	Oxidative phosphorylation	133	58	1.46	3.52	0.00044	0.0087	1.85	1.28	2.65
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	61	1.42	3.34	8e-04	0.015	1.76	1.23	2.48
+path:hsa04922	Glucagon signaling pathway	102	45	1.48	3.19	0.0014	0.02	1.88	1.24	2.84
+path:hsa04012	ErbB signaling pathway	86	39	1.52	3.18	0.0015	0.02	1.98	1.25	3.1
+path:hsa05132	Salmonella infection	86	39	1.52	3.18	0.0015	0.02	1.98	1.25	3.1
+path:hsa04137	Mitophagy - animal	65	31	1.6	3.17	0.0017	0.02	2.17	1.28	3.65
+path:hsa04070	Phosphatidylinositol signaling system	97	43	1.49	3.16	0.0016	0.02	1.9	1.24	2.9
+path:hsa04728	Dopaminergic synapse	130	55	1.42	3.15	0.0015	0.02	1.75	1.21	2.52
+path:hsa05120	Epithelial cell signaling in Helicobacter pylori infection	68	32	1.58	3.13	0.0019	0.02	2.11	1.27	3.51
+path:hsa05016	Huntington's disease	193	77	1.34	3.12	0.0015	0.02	1.59	1.17	2.15
+path:hsa05100	Bacterial invasion of epithelial cells	76	35	1.55	3.12	0.0019	0.02	2.03	1.25	3.28
+path:hsa04724	Glutamatergic synapse	114	49	1.44	3.11	0.0017	0.02	1.8	1.21	2.65
+path:hsa04723	Retrograde endocannabinoid signaling	148	61	1.38	3.07	0.0018	0.02	1.67	1.18	2.36
+path:hsa04721	Synaptic vesicle cycle	63	30	1.6	3.11	0.0021	0.021	2.16	1.27	3.66
+path:hsa04713	Circadian entrainment	96	42	1.47	3.01	0.0024	0.022	1.85	1.2	2.83
+path:hsa04727	GABAergic synapse	88	39	1.49	3	0.0026	0.022	1.89	1.21	2.95
+path:hsa04066	HIF-1 signaling pathway	99	43	1.46	2.99	0.0026	0.022	1.83	1.19	2.78
+path:hsa03015	mRNA surveillance pathway	91	40	1.48	2.98	0.0027	0.022	1.87	1.2	2.89
+path:hsa04720	Long-term potentiation	67	31	1.55	2.96	0.0031	0.022	2.05	1.22	3.41
+path:hsa04150	mTOR signaling pathway	150	61	1.37	2.95	0.0026	0.022	1.64	1.16	2.3
+path:hsa04510	Focal adhesion	199	78	1.32	2.95	0.0025	0.022	1.54	1.14	2.08
+path:hsa04310	Wnt signaling pathway	142	58	1.37	2.91	0.003	0.022	1.65	1.15	2.34
+path:hsa05010	Alzheimer's disease	171	68	1.34	2.89	0.003	0.022	1.58	1.14	2.17
+path:hsa05205	Proteoglycans in cancer	203	79	1.31	2.89	0.0029	0.022	1.52	1.13	2.05
+path:hsa04014	Ras signaling pathway	227	87	1.29	2.86	0.0031	0.022	1.49	1.12	1.97
+path:hsa04152	AMPK signaling pathway	120	50	1.4	2.87	0.0034	0.023	1.7	1.15	2.49
+path:hsa04024	cAMP signaling pathway	198	77	1.31	2.84	0.0034	0.023	1.52	1.12	2.05
+path:hsa04015	Rap1 signaling pathway	210	81	1.29	2.83	0.0035	0.023	1.5	1.12	2.01
+path:hsa05216	Thyroid cancer	29	16	1.85	3	0.0037	0.024	2.92	1.31	6.6
+path:hsa00564	Glycerophospholipid metabolism	95	41	1.45	2.87	0.0037	0.024	1.81	1.17	2.77
+path:hsa05221	Acute myeloid leukemia	55	26	1.59	2.85	0.0045	0.027	2.13	1.2	3.75
+path:hsa05220	Chronic myeloid leukemia	71	32	1.51	2.83	0.0044	0.027	1.95	1.18	3.2
+path:hsa05110	Vibrio cholerae infection	50	24	1.61	2.83	0.0049	0.028	2.19	1.2	3.98
+path:hsa05231	Choline metabolism in cancer	99	42	1.42	2.77	0.0048	0.028	1.75	1.14	2.67
+path:hsa04010	MAPK signaling pathway	255	95	1.25	2.66	0.0054	0.031	1.42	1.08	1.85
+path:hsa00020	Citrate cycle (TCA cycle)	30	16	1.79	2.83	0.0058	0.032	2.71	1.24	6
+path:hsa05214	Glioma	64	29	1.52	2.73	0.006	0.032	1.97	1.16	3.32
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	59	1.33	2.65	0.0061	0.033	1.56	1.1	2.2
+path:hsa04915	Estrogen signaling pathway	98	41	1.4	2.63	0.007	0.037	1.71	1.11	2.61
+path:hsa05012	Parkinson's disease	142	56	1.32	2.54	0.0082	0.042	1.55	1.08	2.21
+path:hsa04961	Endocrine and other factor-regulated calcium reabsorption	47	22	1.57	2.56	0.01	0.05	2.09	1.12	3.87

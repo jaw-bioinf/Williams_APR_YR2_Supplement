@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002207	abnormal long term potentiation	237	21	3.61	6.45	3.4e-07	0.00042	4.15	2.46	6.67
+MP:0001463	abnormal spatial learning	234	20	3.48	6.09	1.1e-06	0.00073	3.97	2.33	6.44
+MP:0001473	reduced long term potentiation	156	15	3.91	5.82	6.3e-06	0.0027	4.45	2.38	7.75

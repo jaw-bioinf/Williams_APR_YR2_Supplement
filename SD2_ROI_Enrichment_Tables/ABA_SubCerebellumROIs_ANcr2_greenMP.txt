@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	60	1.75	4.7	1.1e-05	0.024	1.95	1.44	2.59
+MP:0001469	abnormal contextual conditioning behavior	144	20	2.65	4.7	5.8e-05	0.05	3	1.75	4.89
+MP:0003635	abnormal synaptic transmission	740	63	1.63	4.17	6.8e-05	0.05	1.79	1.33	2.36

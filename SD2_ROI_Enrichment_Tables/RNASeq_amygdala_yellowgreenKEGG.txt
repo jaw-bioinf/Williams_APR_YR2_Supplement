@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04721	Synaptic vesicle cycle	63	3	9.04	4.67	0.0043	0.022	10.2	1.95	34.1
+path:hsa05120	Epithelial cell signaling in Helicobacter pylori infection	68	3	8.37	4.45	0.0053	0.022	9.43	1.8	31.3
+path:hsa04144	Endocytosis	260	6	4.38	4.05	0.0021	0.022	5.17	1.74	12.8
+path:hsa04072	Phospholipase D signaling pathway	145	4	5.24	3.75	0.0067	0.022	5.92	1.5	17.1
+path:hsa04145	Phagosome	151	4	5.03	3.64	0.0078	0.022	5.67	1.44	16.3
+path:hsa05231	Choline metabolism in cancer	99	3	5.75	3.47	0.015	0.035	6.36	1.22	20.9

@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.013	3	2	1	0.5	0.333	CORUM:2845	cor	3	BAX-BAK-IRE1alpha complex	1	ERN1
+2	1	TRUE	0.013	4	2	1	0.5	0.25	CORUM:2193	cor	4	Ubiquitin E3 ligase (Fbxo32, Skp1a, Cul1, Rbx1)	1	FBXO32
+3	1	TRUE	0.0497	5	46	2	0.043	0.4	REAC:R-MMU-5661270	rea	1	Catabolism of glucuronate to xylulose-5-phosphate	1	SORD,XYLB

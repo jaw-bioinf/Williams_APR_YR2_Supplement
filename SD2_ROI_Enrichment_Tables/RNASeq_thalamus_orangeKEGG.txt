@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04550 Signaling pathways regulating pluripotency of stem cells 139 7 5.15 4.91 0.00038 0.012 5.89 2.23 13.3
+path:hsa05217 Basal cell carcinoma 55 4 7.43 4.76 0.002 0.03 8.38 2.13 23.9
+path:hsa04916 Melanogenesis 101 5 5.06 4.09 0.0029 0.03 5.62 1.72 14.3

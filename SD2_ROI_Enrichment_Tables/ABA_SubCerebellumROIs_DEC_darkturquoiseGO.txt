@@ -1,0 +1,21 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:5722	cor	7	Cbl-Cd2ap complex	1	CBL
+2	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:440	cor	16	Succinate dehydrogenase complex II, mitochondrial	1	SDHC
+3	1	TRUE	0.0469	1	8	1	0.125	1	CORUM:861	cor	19	Par-3-p75NTR complex	1	PARD3
+4	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:583	cor	1	Ikaros-NuRD complex	1	HDAC1
+5	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:239	cor	11	Sin3-Hdac1-Sds3 complex	1	HDAC1
+6	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:6752	cor	15	Smad3-mSin3A-Hdac1 complex	1	HDAC1
+7	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:2475	cor	14	Cbl-Crkl-Rapgef1 complex	1	CBL
+8	1	TRUE	0.0102	4	8	2	0.25	0.5	CORUM:717	cor	8	PU.1-Sin3A-Hdac-MeCP2 complex	1	SPI1,HDAC1
+9	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:5435	cor	10	Ccnd1-Cdk4 complex	1	CCND1
+10	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:5723	cor	18	Cbl-Cd2ap-Flt1 complex	1	CBL
+11	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:1023	cor	2	Par3-Prkcz-Tiam1 complex	1	PARD3
+12	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:5436	cor	21	Cyclin D1-associated protein complex	1	CCND1
+13	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:1637	cor	9	Ccnd1-Cdk4 complex	1	CCND1
+14	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:6387	cor	20	Ship1-Hdac1-Hspa2-Kctd19 complex	1	HDAC1
+15	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:5693	cor	6	Tip5-Dnmt-Hdac1 complex	1	HDAC1
+16	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:679	cor	3	Tis7-Sin3-Hdac1-Ncor1-Sap30 complex	1	HDAC1
+17	1	TRUE	0.0469	2	8	1	0.125	0.5	CORUM:823	cor	17	PAR-3-VE-cadherin complex, endothelial	1	PARD3
+18	1	TRUE	0.0469	4	8	1	0.125	0.25	CORUM:1503	cor	12	Hdac1-Mecp2-Rcor1-Sin3a complex	1	HDAC1
+19	1	TRUE	0.0469	3	8	1	0.125	0.333	CORUM:1469	cor	4	E2f5-Rbl2-Hdac1 complex	1	HDAC1
+20	1	TRUE	0.0481	92	78	6	0.077	0.065	KEGG:04640	keg	13	Hematopoietic cell lineage	1	IL7R,CD33,KIT,DNTT,CD24A,H2-AB1

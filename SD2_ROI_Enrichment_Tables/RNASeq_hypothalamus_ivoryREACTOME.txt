@@ -1,0 +1,20 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-5083635 Defective B3GALTL causes Peters-plus syndrome (PpS) 37 4 23 9.22 2.5e-05 0.00036 27.9 6.89 83.6
+R-HSA-3000171 Non-integrin membrane-ECM interactions 38 4 22.4 9.09 2.8e-05 0.00036 27.1 6.7 81
+R-HSA-5173214 O-glycosylation of TSR domain-containing proteins 38 4 22.4 9.09 2.8e-05 0.00036 27.1 6.7 81
+R-HSA-3000157 Laminin interactions 28 3 22.8 7.94 0.00029 0.0014 27.1 5.05 93.7
+R-HSA-186797 Signaling by PDGF 58 4 14.7 7.18 0.00015 0.0014 17 4.3 49.4
+R-HSA-3906995 Diseases associated with O-glycosylation of proteins 66 4 12.9 6.67 0.00025 0.0014 14.8 3.76 42.7
+R-HSA-1474228 Degradation of the extracellular matrix 119 5 8.95 5.99 0.00022 0.0014 10.3 3.12 26.6
+R-HSA-1474244 Extracellular matrix organization 278 7 5.36 5.07 0.00029 0.0014 6.26 2.34 14.3
+R-HSA-3781865 Diseases of glycosylation 135 5 7.89 5.54 4e-04 0.0017 9 2.74 23.2
+R-HSA-216083 Integrin cell surface interactions 81 4 10.5 5.91 0.00054 0.0021 11.9 3.04 34.1
+R-HSA-8948216 Collagen chain trimerization 44 3 14.5 6.17 0.0011 0.004 16.5 3.15 54.9
+R-HSA-1442490 Collagen degradation 52 3 12.3 5.61 0.0018 0.0051 13.8 2.65 45.4
+R-HSA-5173105 O-linked glycosylation 112 4 7.61 4.83 0.0018 0.0051 8.49 2.17 24
+R-HSA-9006934 Signaling by Receptor Tyrosine Kinases 487 8 3.5 3.88 0.0017 0.0051 4.06 1.63 8.88
+R-HSA-2022090 Assembly of collagen fibrils and other multimeric structures 61 3 10.5 5.1 0.0029 0.0075 11.6 2.25 38
+R-HSA-1650814 Collagen biosynthesis and modifying enzymes 67 3 9.54 4.82 0.0038 0.0092 10.5 2.04 34.3
+R-HSA-1643685 Disease 984 11 2.38 3.13 0.0049 0.011 2.82 1.29 5.69
+R-HSA-1474290 Collagen formation 90 3 7.1 3.99 0.0086 0.019 7.74 1.51 24.9
+R-HSA-196849 Metabolism of water-soluble vitamins and cofactors 123 3 5.2 3.22 0.02 0.041 5.59 1.1 17.8

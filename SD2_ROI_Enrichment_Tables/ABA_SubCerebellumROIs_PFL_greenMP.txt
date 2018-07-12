@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003635	abnormal synaptic transmission	740	79	1.86	6.03	2.9e-08	7.4e-05	2.13	1.64	2.75
+MP:0002206	abnormal CNS synaptic transmission	653	68	1.82	5.34	7.7e-07	0.00098	2.04	1.54	2.68
+MP:0011082	abnormal gastrointestinal motility	63	15	4.15	6.19	1.8e-06	0.0016	5.26	2.71	9.63

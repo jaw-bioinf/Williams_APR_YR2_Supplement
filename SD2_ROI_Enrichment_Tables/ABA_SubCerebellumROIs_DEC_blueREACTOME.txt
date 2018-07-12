@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2173796	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	32	11	4.28	5.49	2.3e-05	0.016	6.06	2.63	13.2
+R-HSA-373755	Semaphorin interactions	52	14	3.35	5.02	4.1e-05	0.016	4.27	2.13	8.11
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	44	12	3.39	4.7	0.00013	0.032	4.34	2.03	8.7

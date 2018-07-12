@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002761	Generalized joint laxity	17	3	22.9	7.98	0.00026	0.024	30.8	5.33	121
+HP:0010444	Pulmonary insufficiency	18	3	21.7	7.74	0.00031	0.024	28.7	5.01	112
+HP:0000977	Soft skin	45	4	11.6	6.27	0.00033	0.024	14.6	3.5	45.4
+HP:0001166	Arachnodactyly	76	5	8.55	5.86	0.00023	0.024	10.9	3.13	30.6
+HP:0001551	Abnormality of the umbilicus	209	8	4.98	5.22	0.00011	0.024	6.87	2.57	16.7
+HP:0000023	Inguinal hernia	172	7	5.29	5.08	0.00023	0.024	7.03	2.48	17.6
+HP:0001238	Slender finger	85	5	7.65	5.46	0.00039	0.025	9.65	2.78	27
+HP:0004414	Abnormality of the pulmonary artery	145	6	5.38	4.74	0.00065	0.032	6.86	2.23	17.9
+HP:0001537	Umbilical hernia	204	7	4.46	4.48	0.00066	0.032	5.83	2.06	14.6
+HP:0008609	Morphological abnormality of the middle ear	25	3	15.6	6.45	0.00083	0.037	19.6	3.52	72.1
+HP:0000885	Broad ribs	26	3	15	6.31	0.00094	0.038	18.7	3.38	68.7
+HP:0003956	Bowed forearm bones	29	3	13.4	5.93	0.0013	0.041	16.6	3.01	59.8
+HP:0004568	Beaking of vertebral bodies	29	3	13.4	5.93	0.0013	0.041	16.6	3.01	59.8
+HP:0000444	Convex nasal ridge	63	4	8.25	5.11	0.0012	0.041	10.1	2.46	30.8
+HP:0004298	Abnormality of the abdominal wall	379	9	3.09	3.79	0.0014	0.042	4.2	1.65	9.94
+HP:0006488	Bowing of the arm	31	3	12.6	5.7	0.0016	0.043	15.4	2.8	55.2
+HP:0001388	Joint laxity	121	5	5.37	4.31	0.002	0.05	6.59	1.92	18.2
+HP:0001163	Abnormality of the metacarpal bones	181	6	4.31	4.02	0.0021	0.05	5.4	1.76	14

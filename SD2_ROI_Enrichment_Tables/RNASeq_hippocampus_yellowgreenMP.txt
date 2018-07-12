@@ -1,0 +1,31 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002063	abnormal learning/memory/conditioning	664	18	3.4	5.75	3.1e-06	0.00095	4.26	2.34	7.4
+MP:0014114	abnormal cognition	665	18	3.39	5.74	3.2e-06	0.00095	4.25	2.34	7.39
+MP:0002062	abnormal associative learning	290	11	4.76	5.83	1.7e-05	0.0033	5.58	2.62	10.8
+MP:0002572	abnormal emotion/affect behavior	619	16	3.24	5.17	2.2e-05	0.0033	3.93	2.1	6.99
+MP:0001468	abnormal temporal memory	173	8	5.8	5.71	6.6e-05	0.0065	6.64	2.71	14.2
+MP:0003313	abnormal locomotor activation	1152	22	2.39	4.53	5.8e-05	0.0065	3.02	1.74	5.09
+MP:0002152	abnormal brain morphology	1633	27	2.07	4.28	8e-05	0.0068	2.72	1.62	4.47
+MP:0009454	impaired contextual conditioning behavior	61	5	10.3	6.52	0.00012	0.0078	11.8	3.59	30.6
+MP:0013189	abnormal exploration in a new environment	185	8	5.42	5.45	0.00011	0.0078	6.18	2.52	13.2
+MP:0001469	abnormal contextual conditioning behavior	144	7	6.1	5.53	0.00014	0.0084	6.91	2.63	15.4
+MP:0001413	abnormal response to new environment	226	8	4.44	4.69	0.00041	0.022	4.99	2.05	10.6
+MP:0002557	abnormal social/conspecific interaction	351	10	3.57	4.41	0.00044	0.022	4.06	1.84	8.05
+MP:0001463	abnormal spatial learning	234	8	4.29	4.57	0.00052	0.024	4.81	1.97	10.2
+MP:0001392	abnormal locomotor behavior	1537	24	1.96	3.69	0.00057	0.024	2.44	1.43	4.06
+MP:0001415	increased exploration in new environment	89	5	7.04	5.14	0.00069	0.027	7.86	2.41	20
+MP:0011083	lethality at weaning, complete penetrance	65	4	7.72	4.87	0.0017	0.044	8.56	2.2	24
+MP:0001360	abnormal social investigation	106	5	5.91	4.56	0.0015	0.044	6.53	2.01	16.5
+MP:0012317	impaired conditioning behavior	107	5	5.86	4.53	0.0016	0.044	6.46	1.99	16.3
+MP:0000852	small cerebellum	154	6	4.89	4.36	0.0014	0.044	5.4	1.88	12.6
+MP:0003107	abnormal response to novelty	283	8	3.54	3.9	0.0018	0.044	3.94	1.62	8.32
+MP:0001402	hypoactivity	492	11	2.8	3.69	0.0017	0.044	3.17	1.49	6.11
+MP:0012322	decreased total tissue mass	1833	26	1.78	3.34	0.0014	0.044	2.22	1.32	3.66
+MP:0001262	decreased body weight	1833	26	1.78	3.34	0.0014	0.044	2.22	1.32	3.66
+MP:0003491	abnormal voluntary movement	1648	24	1.83	3.32	0.0016	0.044	2.24	1.31	3.73
+MP:0000292	distended pericardium	68	4	7.38	4.73	0.0021	0.045	8.16	2.1	22.8
+MP:0001440	abnormal grooming behavior	114	5	5.5	4.33	0.0021	0.045	6.04	1.87	15.2
+MP:0009964	abnormal cerebellum lobule morphology	114	5	5.5	4.33	0.0021	0.045	6.04	1.87	15.2
+MP:0001516	abnormal motor coordination/ balance	833	15	2.26	3.41	0.0021	0.045	2.61	1.37	4.68
+MP:0006279	abnormal limb development	173	6	4.35	3.99	0.0025	0.05	4.77	1.67	11.2
+MP:0002065	abnormal fear/anxiety-related behavior	369	9	3.06	3.62	0.0025	0.05	3.4	1.48	6.93

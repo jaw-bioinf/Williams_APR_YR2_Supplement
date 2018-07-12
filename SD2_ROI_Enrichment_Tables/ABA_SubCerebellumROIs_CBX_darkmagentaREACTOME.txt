@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-195258	RHO GTPase Effectors	313	7	5.46	5.14	0.00025	0.01	6.5	2.41	15.1
+R-HSA-3928662	EPHB-mediated forward signaling	39	3	18.8	7.14	0.00053	0.011	21.7	4.11	73.8
+R-HSA-194315	Signaling by Rho GTPases	441	7	3.88	3.96	0.0019	0.026	4.52	1.68	10.4
+R-HSA-2682334	EPH-Ephrin signaling	81	3	9.05	4.66	0.0044	0.031	10	1.94	32.6
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	3	8.52	4.49	0.0052	0.031	9.4	1.82	30.6
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	4	5.92	4.09	0.0045	0.031	6.58	1.69	18.6
+R-HSA-3700989	Transcriptional Regulation by TP53	365	6	4.01	3.76	0.0034	0.031	4.59	1.57	11.1
+R-HSA-611105	Respiratory electron transport	95	3	7.71	4.21	0.0068	0.036	8.47	1.64	27.5

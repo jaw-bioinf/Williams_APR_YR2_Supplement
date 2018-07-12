@@ -1,0 +1,69 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2470946	Cohesin Loading onto Chromatin	10	6	42.9	15.8	1.3e-09	2.4e-07	110	25.7	541
+R-HSA-68884	Mitotic Telophase/Cytokinesis	14	6	30.7	13.2	1.8e-08	1.6e-06	55	15.5	183
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	10	9.41	8.76	9e-08	5e-06	11.4	5.12	23
+R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	121	12	7.09	8.03	1.1e-07	5e-06	8.39	4.1	15.8
+R-HSA-2468052	Establishment of Sister Chromatid Cohesion	11	5	32.5	12.5	2.1e-07	6.4e-06	60.7	14.5	242
+R-HSA-2990846	SUMOylation	127	12	6.76	7.78	1.9e-07	6.4e-06	7.95	3.89	14.9
+R-HSA-597592	Post-translational protein modification	1353	38	2.01	4.75	1.3e-05	0.00034	2.42	1.62	3.57
+R-HSA-1640170	Cell Cycle	607	22	2.59	4.82	3.3e-05	0.00074	2.96	1.77	4.74
+R-HSA-4551638	SUMOylation of chromatin organization proteins	69	7	7.26	6.21	4.7e-05	0.00094	8.32	3.15	18.7
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	9	5.07	5.49	6.9e-05	0.0012	5.68	2.48	11.5
+R-HSA-2467813	Separation of Sister Chromatids	191	10	3.74	4.56	0.00034	0.0054	4.12	1.9	7.99
+R-HSA-68886	M Phase	391	15	2.74	4.19	0.00036	0.0054	3.03	1.63	5.26
+R-HSA-168271	Transport of Ribonucleoproteins into the Host Nucleus	30	4	9.54	5.58	0.00076	0.0057	11.1	2.78	32.7
+R-HSA-168333	NEP/NS2 Interacts with the Cellular Export Machinery	30	4	9.54	5.58	0.00076	0.0057	11.1	2.78	32.7
+R-HSA-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	4	9.54	5.58	0.00076	0.0057	11.1	2.78	32.7
+R-HSA-191859	snRNP Assembly	52	5	6.88	5.06	0.00076	0.0057	7.74	2.37	19.8
+R-HSA-194441	Metabolism of non-coding RNA	52	5	6.88	5.06	0.00076	0.0057	7.74	2.37	19.8
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	6	5.8	4.93	0.00057	0.0057	6.45	2.25	15.1
+R-HSA-69242	S Phase	138	8	4.15	4.43	0.00069	0.0057	4.54	1.88	9.48
+R-HSA-68877	Mitotic Prometaphase	199	10	3.59	4.4	0.00047	0.0057	3.94	1.82	7.64
+R-HSA-68882	Mitotic Anaphase	202	10	3.54	4.34	0.00053	0.0057	3.88	1.79	7.52
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	10	3.52	4.32	0.00055	0.0057	3.86	1.78	7.48
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	11	3.24	4.2	0.00059	0.0057	3.54	1.7	6.67
+R-HSA-69278	Cell Cycle, Mitotic	531	18	2.42	4.02	0.00042	0.0057	2.69	1.53	4.48
+R-HSA-5688426	Deubiquitination	295	12	2.91	3.96	0.00086	0.0062	3.18	1.58	5.83
+R-HSA-168274	Export of Viral Ribonucleoproteins from Nucleus	32	4	8.94	5.36	0.00097	0.0064	10.3	2.6	30.1
+R-HSA-180910	Vpr-mediated nuclear import of PICs	32	4	8.94	5.36	0.00097	0.0064	10.3	2.6	30.1
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	4	8.67	5.25	0.0011	0.0065	9.98	2.51	29
+R-HSA-165054	Rev-mediated nuclear export of HIV RNA	33	4	8.67	5.25	0.0011	0.0065	9.98	2.51	29
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	6	5.17	4.54	0.001	0.0065	5.69	1.99	13.3
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	4	8.41	5.16	0.0012	0.0069	9.64	2.43	27.9
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	4	8.41	5.16	0.0012	0.0069	9.64	2.43	27.9
+R-HSA-176033	Interactions of Vpr with host cellular proteins	35	4	8.17	5.06	0.0014	0.0072	9.33	2.36	26.9
+R-HSA-177243	Interactions of Rev with host cellular proteins	35	4	8.17	5.06	0.0014	0.0072	9.33	2.36	26.9
+R-HSA-70171	Glycolysis	61	5	5.86	4.54	0.0016	0.0081	6.49	2	16.4
+R-HSA-3232118	SUMOylation of transcription factors	18	3	11.9	5.52	0.0019	0.0093	14.4	2.64	51.6
+R-HSA-168276	NS1 Mediated Effects on Host Pathways	39	4	7.34	4.72	0.0021	0.0099	8.26	2.1	23.6
+R-HSA-9006936	Signaling by TGF-beta family members	95	6	4.52	4.1	0.0021	0.0099	4.92	1.73	11.4
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	4	7.15	4.64	0.0023	0.01	8.03	2.05	22.9
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	4	6.98	4.57	0.0025	0.011	7.81	2	22.2
+R-HSA-168253	Host Interactions with Influenza Factors	41	4	6.98	4.57	0.0025	0.011	7.81	2	22.2
+R-HSA-168325	Viral Messenger RNA Synthesis	42	4	6.81	4.49	0.0027	0.011	7.61	1.95	21.6
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	68	5	5.26	4.2	0.0026	0.011	5.76	1.78	14.5
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	4	6.65	4.42	0.003	0.012	7.41	1.9	21
+R-HSA-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity	22	3	9.75	4.89	0.0034	0.013	11.3	2.13	39.2
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	44	4	6.5	4.36	0.0032	0.013	7.23	1.85	20.4
+R-HSA-4570464	SUMOylation of RNA binding proteins	46	4	6.22	4.22	0.0038	0.014	6.88	1.77	19.4
+R-HSA-5689880	Ub-specific processing proteases	220	9	2.93	3.44	0.0037	0.014	3.15	1.39	6.27
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	11	2.54	3.28	0.0041	0.015	2.73	1.32	5.12
+R-HSA-2980766	Nuclear Envelope Breakdown	51	4	5.61	3.93	0.0055	0.019	6.15	1.59	17.2
+R-HSA-70326	Glucose metabolism	81	5	4.41	3.67	0.0054	0.019	4.77	1.48	11.9
+R-HSA-201451	Signaling by BMP	28	3	7.66	4.2	0.0068	0.023	8.62	1.65	28.8
+R-HSA-450282	MAPK targets/ Nuclear events mediated by MAP kinases	28	3	7.66	4.2	0.0068	0.023	8.62	1.65	28.8
+R-HSA-392499	Metabolism of proteins	1907	39	1.46	2.67	0.0068	0.023	1.65	1.11	2.43
+R-HSA-6784531	tRNA processing in the nucleus	56	4	5.11	3.67	0.0077	0.024	5.55	1.44	15.4
+R-HSA-162599	Late Phase of HIV Life Cycle	88	5	4.06	3.44	0.0077	0.024	4.37	1.36	10.9
+R-HSA-3371556	Cellular response to heat stress	88	5	4.06	3.44	0.0077	0.024	4.37	1.36	10.9
+R-HSA-162909	Host Interactions of HIV factors	128	6	3.35	3.19	0.009	0.028	3.58	1.27	8.22
+R-HSA-195258	RHO GTPase Effectors	313	10	2.29	2.75	0.012	0.037	2.43	1.13	4.67
+R-HSA-400253	Circadian Clock	36	3	5.96	3.55	0.014	0.039	6.53	1.27	21.2
+R-HSA-170834	Signaling by TGF-beta Receptor Complex	66	4	4.33	3.24	0.014	0.039	4.65	1.21	12.8
+R-HSA-162587	HIV Life Cycle	101	5	3.54	3.06	0.014	0.039	3.77	1.18	9.33
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	11	2.16	2.68	0.013	0.039	2.29	1.11	4.29
+R-HSA-3928662	EPHB-mediated forward signaling	39	3	5.5	3.35	0.017	0.046	5.98	1.16	19.3
+R-HSA-1169408	ISG15 antiviral mechanism	71	4	4.03	3.05	0.017	0.046	4.3	1.12	11.8
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	4	4.03	3.05	0.017	0.046	4.3	1.12	11.8
+R-HSA-8951664	Neddylation	235	8	2.43	2.65	0.017	0.046	2.57	1.08	5.31
+R-HSA-8953854	Metabolism of RNA	646	16	1.77	2.41	0.018	0.048	1.89	1.04	3.22

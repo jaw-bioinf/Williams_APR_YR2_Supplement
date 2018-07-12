@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00078	4	17	3	0.176	0.75	CORUM:2221	cor	2	RPA-MSH4-BLM complex	1	RPA1,MSH4,RPA3

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04723	Retrograde endocannabinoid signaling	148	13	3.72	5.2	4.2e-05	0.0044	4.25	2.15	7.74
+path:hsa05032	Morphine addiction	91	9	4.19	4.76	0.00027	0.0094	4.75	2.06	9.7
+path:hsa04728	Dopaminergic synapse	130	11	3.58	4.62	0.00023	0.0094	4.03	1.92	7.69
+path:hsa04713	Circadian entrainment	96	8	3.53	3.88	0.0019	0.048	3.9	1.6	8.23

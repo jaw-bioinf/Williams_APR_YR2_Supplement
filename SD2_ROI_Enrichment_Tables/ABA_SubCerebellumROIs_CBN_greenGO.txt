@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.029	210	398	16	0.04	0.076	GO:0051301	BP	1	cell division	1	CUL3,NANOG,ANKRD53,SKA2,TOP2A,NUSAP1,TIAL1,SNX33,KIF4,PRC1,MAP10,CSPP1,NUMBL,TOP1,TAS2R121,CHMP1B
+2	1	TRUE	0.0124	3	18	2	0.111	0.667	CORUM:6278	cor	5	Cd22-Ship-Grb2-Shc complex	1	SHC1,GRB2
+3	1	TRUE	0.0124	3	18	2	0.111	0.667	CORUM:3203	cor	6	Shc-Ship-Grb2 complex, IL-3 stimulated	1	SHC1,GRB2
+4	1	TRUE	0.0303	5	18	2	0.111	0.4	CORUM:482	cor	3	cRET-Shc-Grb2-Gab2-P85PI3K-Shp2 complex	1	SHC1,GRB2
+5	1	TRUE	0.0124	2	18	2	0.111	1	CORUM:2553	cor	4	Shc-Grb2-mSos1 complex, EGF stimulated	1	SHC1,GRB2

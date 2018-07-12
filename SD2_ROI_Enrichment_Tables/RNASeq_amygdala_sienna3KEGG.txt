@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	4	5.77	4.02	0.0047	0.019	6.6	1.66	19.2
+path:hsa03015	mRNA surveillance pathway	91	3	6.84	3.91	0.0093	0.019	7.66	1.47	25.4
+path:hsa04390	Hippo signaling pathway	153	3	4.07	2.67	0.036	0.049	4.45	0.859	14.6

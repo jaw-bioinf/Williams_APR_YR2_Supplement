@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0376	2	7	1	0.143	0.5	CORUM:5173	cor	11	Sh3kbp1-Cblb-Pdgfrb complex	1	SH3KBP1
+2	1	TRUE	0.0376	3	7	1	0.143	0.333	CORUM:2941	cor	8	Acinar cell-specific C complex	1	PDX1
+3	1	TRUE	0.0376	3	7	1	0.143	0.333	CORUM:5172	cor	2	Sh3kbp1-Cblb-Egfr complex	1	SH3KBP1
+4	1	TRUE	0.0376	2	7	1	0.143	0.5	CORUM:5291	cor	1	Cd3e-Nck1-Mink1 complex	1	CD3E
+5	1	TRUE	0.0376	2	7	1	0.143	0.5	CORUM:5309	cor	10	Cd3g-Cd3e complex	1	CD3E
+6	1	TRUE	0.0376	3	7	1	0.143	0.333	CORUM:6305	cor	4	Hoxa9-Meis1-Pbx3 complex	1	PBX3
+7	1	TRUE	0.0376	3	7	1	0.143	0.333	CORUM:2940	cor	6	Acinar cell-specific C complex	1	PDX1
+8	1	TRUE	0.0409	4	7	1	0.143	0.25	CORUM:5310	cor	12	Cd3d-Cd3g-Cd3e-Cd247 complex	1	CD3E
+9	1	TRUE	0.0376	2	7	1	0.143	0.5	CORUM:6678	cor	9	Cep290-Iqcb1 complex	1	IQCB1
+10	1	TRUE	0.0409	4	7	1	0.143	0.25	CORUM:5311	cor	5	Cd3g-Cd3e-Cd247-Canx complex	1	CD3E
+11	1	TRUE	0.0376	1	7	1	0.143	1	CORUM:5296	cor	3	Cd3e homodimer complex	1	CD3E

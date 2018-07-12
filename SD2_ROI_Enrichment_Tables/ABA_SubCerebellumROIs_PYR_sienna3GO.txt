@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00649	3	1	1	1	0.333	CORUM:5145	cor	1	p19-Cdk4-cyclinD2 complex	1	CCND2

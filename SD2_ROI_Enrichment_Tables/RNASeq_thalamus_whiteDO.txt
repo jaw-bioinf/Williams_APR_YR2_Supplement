@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:615	leukopenia	47	5	11	6.78	8.3e-05	0.012	13	3.89	34.4
+DOID:12987	agranulocytosis	33	4	12.5	6.55	0.00027	0.013	14.9	3.69	44.1
+DOID:1227	neutropenia	33	4	12.5	6.55	0.00027	0.013	14.9	3.69	44.1

@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.013	3	2	1	0.5	0.333	CORUM:6225	cor	75	Heg1-Krit1-Ccm2 complex	1	CCM2
+2	1	TRUE	0.013	3	2	1	0.5	0.333	CORUM:6221	cor	8	Ccm2-Krit1-Ccm3 complex	1	CCM2
+3	1	TRUE	0.013	2	2	1	0.5	0.5	CORUM:6222	cor	4	CCM1-CCM2 complex	1	CCM2
+4	1	TRUE	0.0364	44	13	2	0.154	0.045	KEGG:00970	keg	41	Aminoacyl-tRNA biosynthesis	1	IARS,MARS
+5	1	TRUE	0.0364	46	13	2	0.154	0.043	KEGG:03050	keg	66	Proteasome	1	PSMD11,PSME4
+6	1	TRUE	0.019	638	38	8	0.211	0.013	MI:mmu-miR-582-3p	mi	57	MI:mmu-miR-582-3p	1	MYT1,RGS17,MROH1,MARCH7,ALG5,BPHL,DISP2,WDR35

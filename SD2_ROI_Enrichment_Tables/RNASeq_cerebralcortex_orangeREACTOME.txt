@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-422356	Regulation of insulin secretion	66	3	9.89	4.92	0.0034	0.047	11	2.12	35.7
+R-HSA-111885	Opioid Signalling	74	3	8.82	4.59	0.0047	0.047	9.71	1.88	31.5
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	3	7.59	4.17	0.0071	0.047	8.3	1.62	26.8
+R-HSA-163685	Integration of energy metabolism	92	3	7.1	3.99	0.0086	0.047	7.74	1.51	24.9
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	4	5.65	3.95	0.0053	0.047	6.23	1.6	17.5
+R-HSA-76002	Platelet activation, signaling and aggregation	271	5	4.02	3.42	0.0078	0.047	4.45	1.36	11.4
+R-HSA-3700989	Transcriptional Regulation by TP53	365	6	3.58	3.41	0.0061	0.047	4.01	1.38	9.61
+R-HSA-9006925	Intracellular signaling by second messengers	282	5	3.86	3.31	0.0091	0.047	4.26	1.31	10.9

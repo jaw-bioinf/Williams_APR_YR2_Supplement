@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	3	8.48	4.49	0.005	0.038	9.76	1.84	33.4
+R-HSA-72766	Translation	258	4	6.75	4.49	0.0026	0.038	8.07	1.98	24.5
+R-HSA-5663205	Infectious disease	326	4	5.34	3.82	0.006	0.038	6.32	1.55	19.2
+R-HSA-162906	HIV Infection	184	3	7.1	4.01	0.0082	0.039	8.12	1.53	27.8

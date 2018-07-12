@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0287	4	4	1	0.25	0.25	CORUM:968	cor	2	Crb1-Mupp1-Pals1-Mpp4 complex	1	CRB1
+2	1	TRUE	0.0287	3	4	1	0.25	0.333	CORUM:5439	cor	4	Eya1/3-Dach1/2-Six1 complex	1	SIX1
+3	1	TRUE	0.0287	3	4	1	0.25	0.333	CORUM:5142	cor	3	DCS complex (Ptbp1, Ptbp2, Hnrph1, Hnrpf)	1	PTBP2
+4	1	TRUE	0.0428	8	4	1	0.25	0.125	CORUM:97	cor	1	Anaphase-promoting complex	1	CDC16

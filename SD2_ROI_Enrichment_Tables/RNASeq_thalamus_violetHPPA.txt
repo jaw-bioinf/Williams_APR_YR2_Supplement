@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0012285 Abnormal hypothalamus physiology 25 3 18.3 7.05 0.00051 0.033 23.5 4.18 88.5
+HP:0004408 Abnormality of the sense of smell 152 6 6.02 5.14 0.00033 0.033 8.07 2.56 21.8
+HP:0011534 Abnormal spatial orientation of the cardiac segments 168 6 5.45 4.8 0.00056 0.033 7.23 2.3 19.5
+HP:0001696 Situs inversus totalis 168 6 5.45 4.8 0.00056 0.033 7.23 2.3 19.5
+HP:0001651 Dextrocardia 174 6 5.26 4.68 0.00068 0.033 6.96 2.22 18.8
+HP:0004307 Abnormal anatomic location of the heart 175 6 5.23 4.66 7e-04 0.033 6.92 2.21 18.7

@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04141	Protein processing in endoplasmic reticulum	165	16	3.98	6.12	2.2e-06	0.00031	4.66	2.53	8.07
+path:hsa04140	Autophagy - animal	128	12	3.84	5.14	6e-05	0.0043	4.39	2.16	8.19
+path:hsa04070	Phosphatidylinositol signaling system	97	9	3.81	4.4	0.00056	0.02	4.27	1.86	8.7
+path:hsa04010	MAPK signaling pathway	255	16	2.57	4.05	0.00045	0.02	2.86	1.57	4.9
+path:hsa00562	Inositol phosphate metabolism	71	7	4.04	4.08	0.0016	0.046	4.53	1.72	10.1
+path:hsa01522	Endocrine resistance	95	8	3.45	3.81	0.0021	0.046	3.82	1.57	8.05
+path:hsa04914	Progesterone-mediated oocyte maturation	96	8	3.42	3.77	0.0023	0.046	3.77	1.55	7.95

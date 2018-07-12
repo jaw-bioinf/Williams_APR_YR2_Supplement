@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008143	abnormal dendrite morphology	198	10	4.46	5.27	7.7e-05	0.023	5.03	2.3	9.86
+MP:0002064	seizures	383	14	3.23	4.77	9.8e-05	0.023	3.67	1.91	6.56
+MP:0003492	abnormal involuntary movement	942	24	2.25	4.34	1e-04	0.023	2.66	1.61	4.27

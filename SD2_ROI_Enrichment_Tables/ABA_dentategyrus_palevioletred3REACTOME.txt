@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6807878	COPI-mediated anterograde transport	102	4	8.01	4.99	0.0015	0.045	8.94	2.29	25.2
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	3	8.88	4.61	0.0046	0.045	9.77	1.9	31.6
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	3	8.88	4.61	0.0046	0.045	9.77	1.9	31.6
+R-HSA-8854518	AURKA Activation by TPX2	72	3	8.51	4.49	0.0052	0.045	9.35	1.82	30.2
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	3	7.66	4.2	0.0069	0.045	8.37	1.63	27
+R-HSA-380287	Centrosome maturation	80	3	7.66	4.2	0.0069	0.045	8.37	1.63	27
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	3	7.05	3.97	0.0088	0.045	7.67	1.5	24.6
+R-HSA-3214847	HATs acetylate histones	93	3	6.59	3.8	0.01	0.045	7.15	1.4	22.9
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	3	6.59	3.8	0.01	0.045	7.15	1.4	22.9
+R-HSA-199977	ER to Golgi Anterograde Transport	155	4	5.27	3.76	0.0068	0.045	5.77	1.49	16.1
+R-HSA-5653656	Vesicle-mediated transport	631	9	2.91	3.48	0.0031	0.045	3.38	1.43	7.11
+R-HSA-1852241	Organelle biogenesis and maintenance	269	5	3.8	3.26	0.0098	0.045	4.17	1.28	10.6
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	3	6.32	3.69	0.012	0.047	6.84	1.34	21.9
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	4	4.39	3.28	0.013	0.047	4.78	1.23	13.3
+R-HSA-69275	G2/M Transition	195	4	4.19	3.16	0.015	0.047	4.55	1.18	12.7
+R-HSA-453274	Mitotic G2-G2/M phases	197	4	4.15	3.13	0.015	0.047	4.5	1.16	12.5
+R-HSA-446203	Asparagine N-linked glycosylation	299	5	3.42	2.98	0.015	0.047	3.74	1.15	9.5
+R-HSA-5617833	Cilium Assembly	201	4	4.07	3.08	0.017	0.048	4.41	1.14	12.3

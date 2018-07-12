@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0000233 Thin vermilion border 257 53 1.93 5.34 8.5e-07 0.002 2.36 1.67 3.28
+HP:0010583 Ivory epiphyses 14 8 5.33 5.63 2.7e-05 0.021 11.3 3.42 39.8
+HP:0040088 Abnormal lymphocyte count 53 17 2.99 5.07 1.9e-05 0.021 4.07 2.12 7.53
+HP:0002720 IgA deficiency 27 11 3.8 5.06 4.9e-05 0.028 5.87 2.44 13.6
+HP:0000736 Short attention span 179 36 1.88 4.17 9.9e-05 0.046 2.21 1.47 3.27

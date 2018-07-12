@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:2193	cor	6	Ubiquitin E3 ligase (Fbxo32, Skp1a, Cul1, Rbx1)	1	FBXO32
+2	1	TRUE	0.0277	3	6	1	0.167	0.333	CORUM:2591	cor	5	SIRT1-HNF4-alpha-PGC-1-alpha complex, in response to fasting	1	HNF4A
+3	1	TRUE	0.0277	2	6	1	0.167	0.5	CORUM:3218	cor	1	MAML2-RBP-Jkappa-Notch3 complex	1	NOTCH3
+4	1	TRUE	0.0277	2	6	1	0.167	0.5	CORUM:3222	cor	9	MAML3-RBP-Jkappa-Notch3 complex	1	NOTCH3
+5	1	TRUE	0.0277	3	6	1	0.167	0.333	CORUM:6338	cor	3	NRF2- Axin1-GSK-3beta-TrCP complex	1	NFE2L2
+6	1	TRUE	0.0277	3	6	1	0.167	0.333	CORUM:5806	cor	2	Keap1-Nrf2-Cul3 complex	1	NFE2L2
+7	1	TRUE	0.0277	3	6	1	0.167	0.333	CORUM:6227	cor	7	S4-synectin-RhoGDI1 complex	1	SDC4
+8	1	TRUE	0.0277	2	6	1	0.167	0.5	CORUM:1048	cor	4	Hnf4-Pc4 complex	1	HNF4A

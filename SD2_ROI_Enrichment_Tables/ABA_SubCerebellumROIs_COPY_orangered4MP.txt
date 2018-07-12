@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009751	enhanced behavioral response to alcohol	16	3	23.2	8.02	0.00026	0.049	29.4	5.26	110
+MP:0001425	abnormal alcohol consumption	32	4	15.5	7.4	0.00012	0.049	18.4	4.58	54.7
+MP:0002797	increased thigmotaxis	68	5	9.1	6.05	0.00021	0.049	10.4	3.15	26.6

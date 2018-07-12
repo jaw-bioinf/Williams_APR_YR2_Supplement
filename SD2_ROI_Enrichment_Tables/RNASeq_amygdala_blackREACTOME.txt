@@ -1,0 +1,54 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	11	5.51	6.51	3.6e-06	8e-04	6.79	3.14	13.5
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	14	4.22	6	4.8e-06	8e-04	4.95	2.56	8.91
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	11	4.47	5.56	2.9e-05	0.0014	5.26	2.47	10.2
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	11	4.47	5.56	2.9e-05	0.0014	5.26	2.47	10.2
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	12	4.21	5.54	2.4e-05	0.0014	4.9	2.39	9.24
+R-HSA-380287	Centrosome maturation	80	12	4.21	5.54	2.4e-05	0.0014	4.9	2.39	9.24
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	13	3.76	5.25	3.7e-05	0.0014	4.31	2.18	7.86
+R-HSA-68877	Mitotic Prometaphase	199	20	2.82	4.98	2.7e-05	0.0014	3.14	1.85	5.08
+R-HSA-375276	Peptide ligand-binding receptors	187	19	2.85	4.91	3.7e-05	0.0014	3.17	1.84	5.19
+R-HSA-8854518	AURKA Activation by TPX2	72	11	4.29	5.38	4.4e-05	0.0015	5	2.35	9.69
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	12	3.87	5.17	5.6e-05	0.0017	4.44	2.18	8.32
+R-HSA-5617833	Cilium Assembly	201	19	2.65	4.55	1e-04	0.0028	2.93	1.7	4.77
+R-HSA-2132295	MHC class II antigen presentation	124	14	3.17	4.67	0.00013	0.0033	3.54	1.85	6.28
+R-HSA-164378	PKA activation in glucagon signalling	17	5	8.25	5.75	0.00024	0.0058	11.4	3.13	35
+R-HSA-111933	Calmodulin induced events	27	6	6.23	5.23	0.00031	0.0064	7.84	2.57	20.2
+R-HSA-111997	CaM pathway	27	6	6.23	5.23	0.00031	0.0064	7.84	2.57	20.2
+R-HSA-1489509	DAG and IP3 signaling	28	6	6.01	5.1	0.00038	0.0071	7.48	2.47	19.2
+R-HSA-8955332	Carboxyterminal post-translational modifications of tubulin	28	6	6.01	5.1	0.00038	0.0071	7.48	2.47	19.2
+R-HSA-111996	Ca-dependent events	29	6	5.8	4.98	0.00047	0.0078	7.16	2.37	18.2
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	8	4.32	4.61	0.00046	0.0078	5.01	2.02	10.9
+R-HSA-5653656	Vesicle-mediated transport	631	39	1.73	3.66	0.00052	0.0082	1.88	1.3	2.66
+R-HSA-8849932	Synaptic adhesion-like molecules	21	5	6.68	5.01	0.00071	0.011	8.55	2.44	24.6
+R-HSA-5358351	Signaling by Hedgehog	148	14	2.65	3.9	0.00081	0.011	2.9	1.53	5.1
+R-HSA-199991	Membrane Trafficking	599	37	1.73	3.55	0.00073	0.011	1.87	1.28	2.67
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	13	2.72	3.86	0.00097	0.013	2.98	1.53	5.35
+R-HSA-3371568	Attenuation phase	14	4	8.01	5.05	0.0012	0.015	10.9	2.49	38.1
+R-HSA-983189	Kinesins	60	8	3.74	4.09	0.0012	0.015	4.23	1.72	9.06
+R-HSA-190828	Gap junction trafficking	48	7	4.09	4.13	0.0014	0.017	4.69	1.76	10.7
+R-HSA-373760	L1CAM interactions	76	9	3.32	3.91	0.0015	0.017	3.7	1.61	7.53
+R-HSA-1852241	Organelle biogenesis and maintenance	269	20	2.09	3.47	0.0015	0.017	2.24	1.33	3.59
+R-HSA-157858	Gap junction trafficking and regulation	50	7	3.93	3.99	0.0018	0.02	4.47	1.68	10.1
+R-HSA-983231	Factors involved in megakaryocyte development and platelet production	163	14	2.41	3.49	0.002	0.021	2.6	1.38	4.57
+R-HSA-983712	Ion channel transport	183	15	2.3	3.41	0.0023	0.023	2.48	1.34	4.26
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	22	1.93	3.25	0.0024	0.024	2.06	1.26	3.23
+R-HSA-112043	PLC beta mediated events	41	6	4.1	3.83	0.0031	0.028	4.7	1.6	11.4
+R-HSA-437239	Recycling pathway of L1	41	6	4.1	3.83	0.0031	0.028	4.7	1.6	11.4
+R-HSA-5620924	Intraflagellar transport	54	7	3.64	3.73	0.0029	0.028	4.09	1.55	9.19
+R-HSA-209776	Amine-derived hormones	18	4	6.23	4.27	0.0033	0.029	7.8	1.86	25
+R-HSA-112040	G-protein mediated events	42	6	4.01	3.75	0.0035	0.03	4.57	1.56	11
+R-HSA-111931	PKA-mediated phosphorylation of CREB	19	4	5.9	4.11	0.004	0.031	7.28	1.75	23
+R-HSA-163615	PKA activation	19	4	5.9	4.11	0.004	0.031	7.28	1.75	23
+R-HSA-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	19	4	5.9	4.11	0.004	0.031	7.28	1.75	23
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	6	3.91	3.68	0.0039	0.031	4.44	1.52	10.7
+R-HSA-69275	G2/M Transition	195	15	2.16	3.14	0.0042	0.031	2.31	1.25	3.96
+R-HSA-500792	GPCR ligand binding	419	26	1.74	2.98	0.0042	0.031	1.85	1.18	2.8
+R-HSA-209968	Thyroxine biosynthesis	10	3	8.41	4.51	0.0045	0.032	11.7	1.94	51.4
+R-HSA-453274	Mitotic G2-G2/M phases	197	15	2.14	3.1	0.0046	0.033	2.28	1.24	3.92
+R-HSA-190872	Transport of connexons to the plasma membrane	20	4	5.61	3.97	0.0049	0.034	6.82	1.65	21.3
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	15	2.1	3.03	0.0053	0.036	2.25	1.22	3.85
+R-HSA-5621575	CD209 (DC-SIGN) signaling	21	4	5.34	3.83	0.0059	0.038	6.42	1.56	19.8
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	5	4.25	3.6	0.0058	0.038	4.88	1.46	12.9
+R-HSA-5610787	Hedgehog 'off' state	113	10	2.48	3.05	0.007	0.045	2.67	1.23	5.18
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	12	3	7.01	4.01	0.0078	0.049	9.08	1.57	36.6

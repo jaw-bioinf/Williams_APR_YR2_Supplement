@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5609975	Diseases associated with glycosylation precursor biosynthesis	15	3	16.8	6.73	0.00067	0.043	21.3	3.8	80.2
+R-HSA-71387	Metabolism of carbohydrates	263	10	3.2	3.96	0.0011	0.043	3.5	1.61	6.78
+R-HSA-189200	Cellular hexose transport	21	3	12	5.54	0.0019	0.047	14.2	2.64	49.6

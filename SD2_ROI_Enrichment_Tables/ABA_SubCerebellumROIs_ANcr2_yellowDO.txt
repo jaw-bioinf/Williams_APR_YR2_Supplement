@@ -1,0 +1,12 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:5419	schizophrenia	635	65	1.72	4.8	6.3e-06	0.0015	1.95	1.46	2.59
+DOID:2468	psychotic disorder	637	65	1.72	4.77	7e-06	0.0015	1.95	1.45	2.58
+DOID:150	disease of mental health	1255	109	1.46	4.54	9.5e-06	0.0015	1.68	1.33	2.12
+DOID:1561	cognitive disorder	812	77	1.6	4.54	1.4e-05	0.0016	1.81	1.38	2.35
+DOID:3312	bipolar disorder	153	22	2.42	4.46	9.1e-05	0.0086	2.75	1.65	4.4
+DOID:3324	mood disorder	166	23	2.33	4.36	0.00011	0.0089	2.64	1.6	4.17
+DOID:0060040	pervasive developmental disorder	201	26	2.18	4.26	0.00013	0.0089	2.44	1.53	3.75
+DOID:9973	substance dependence	265	30	1.91	3.78	0.00045	0.026	2.1	1.37	3.13
+DOID:5353	colonic disease	19	6	5.31	4.73	0.00059	0.028	7.39	2.29	21
+DOID:11372	megacolon	19	6	5.31	4.73	0.00059	0.028	7.39	2.29	21
+DOID:303	substance-related disorder	286	31	1.82	3.58	0.00077	0.033	2	1.31	2.96

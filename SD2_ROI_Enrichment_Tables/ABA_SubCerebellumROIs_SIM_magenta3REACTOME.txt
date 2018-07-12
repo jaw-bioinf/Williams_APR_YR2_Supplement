@@ -1,0 +1,35 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5676590	NIK-->noncanonical NF-kB signaling	59	3	28.3	8.92	0.00015	0.0035	35.4	6.39	131
+R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	60	3	27.8	8.84	0.00016	0.0035	34.8	6.28	128
+R-HSA-1169091	Activation of NF-kappaB in B cells	66	3	25.3	8.4	0.00021	0.0035	31.5	5.7	115
+R-HSA-2871837	FCERI mediated NF-kB activation	79	3	21.1	7.62	0.00035	0.0037	26	4.74	94.8
+R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	80	3	20.9	7.57	0.00037	0.0037	25.7	4.68	93.5
+R-HSA-1236975	Antigen processing-Cross presentation	88	3	19	7.18	0.00049	0.0037	23.3	4.24	84.4
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	3	17.4	6.84	0.00063	0.0037	21.3	3.88	77.1
+R-HSA-202424	Downstream TCR signaling	98	3	17	6.77	0.00067	0.0037	20.8	3.8	75.3
+R-HSA-5668541	TNFR2 non-canonical NF-kB pathway	102	3	16.4	6.62	0.00075	0.0037	20	3.65	72.2
+R-HSA-9020702	Interleukin-1 signaling	102	3	16.4	6.62	0.00075	0.0037	20	3.65	72.2
+R-HSA-983705	Signaling by the B Cell Receptor (BCR)	108	3	15.5	6.41	0.00089	0.004	18.8	3.44	67.8
+R-HSA-202403	TCR signaling	116	3	14.4	6.15	0.0011	0.0045	17.5	3.2	62.9
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	126	3	13.2	5.87	0.0014	0.0052	16	2.94	57.6
+R-HSA-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	129	3	12.9	5.79	0.0015	0.0052	15.6	2.87	56.2
+R-HSA-69620	Cell Cycle Checkpoints	292	4	7.62	4.87	0.0016	0.0052	9.62	2.29	30.9
+R-HSA-446652	Interleukin-1 family signaling	138	3	12.1	5.57	0.0018	0.0053	14.6	2.68	52.4
+R-HSA-5621481	C-type lectin receptors (CLRs)	138	3	12.1	5.57	0.0018	0.0053	14.6	2.68	52.4
+R-HSA-69481	G2/M Checkpoints	167	3	9.99	4.97	0.0031	0.0086	12	2.2	42.9
+R-HSA-2467813	Separation of Sister Chromatids	191	3	8.74	4.58	0.0045	0.011	10.4	1.92	37.3
+R-HSA-68886	M Phase	391	4	5.69	4.02	0.0045	0.011	7.09	1.69	22.7
+R-HSA-68882	Mitotic Anaphase	202	3	8.26	4.42	0.0053	0.012	9.84	1.81	35.2
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	3	8.22	4.41	0.0054	0.012	9.79	1.8	35
+R-HSA-201681	TCF dependent signaling in response to WNT	224	3	7.45	4.14	0.007	0.015	8.84	1.63	31.6
+R-HSA-8878171	Transcriptional regulation by RUNX1	236	3	7.07	4.01	0.0081	0.017	8.37	1.54	29.9
+R-HSA-1257604	PIP3 activates AKT signaling	254	3	6.57	3.82	0.0099	0.02	7.76	1.43	27.7
+R-HSA-9006925	Intracellular signaling by second messengers	282	3	5.92	3.55	0.013	0.024	6.96	1.28	24.8
+R-HSA-69278	Cell Cycle, Mitotic	531	4	4.19	3.21	0.013	0.024	5.13	1.23	16.4
+R-HSA-195258	RHO GTPase Effectors	313	3	5.33	3.3	0.017	0.03	6.25	1.15	22.2
+R-HSA-195721	Signaling by WNT	314	3	5.31	3.3	0.018	0.03	6.22	1.15	22.2
+R-HSA-1640170	Cell Cycle	607	4	3.67	2.88	0.021	0.035	4.45	1.06	14.2
+R-HSA-5663202	Diseases of signal transduction	359	3	4.65	2.99	0.025	0.04	5.41	1	19.3
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	3	4.57	2.95	0.026	0.041	5.32	0.983	18.9
+R-HSA-168249	Innate Immune System	1035	5	2.69	2.43	0.032	0.048	3.35	0.932	10
+R-HSA-382551	Transport of small molecules	705	4	3.16	2.52	0.034	0.05	3.79	0.905	12.1

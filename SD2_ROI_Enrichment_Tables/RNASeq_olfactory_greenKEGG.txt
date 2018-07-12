@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04110	Cell cycle	124	19	2.85	4.96	2.9e-05	0.005	3.31	1.89	5.51
+path:hsa04115	p53 signaling pathway	69	12	3.24	4.45	0.00026	0.018	3.8	1.84	7.25
+path:hsa05032	Morphine addiction	91	14	2.86	4.26	0.00032	0.018	3.29	1.7	5.94

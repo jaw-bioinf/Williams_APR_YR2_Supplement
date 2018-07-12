@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112409	RAF-independent MAPK1/3 activation	23	3	14.8	6.26	0.001	0.037	17.5	3.26	60.6
+R-HSA-114508	Effects of PIP2 hydrolysis	25	3	13.7	5.96	0.0013	0.037	15.9	2.98	54.4

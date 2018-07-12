@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.013	3	2	1	0.5	0.333	CORUM:3037	cor	1	Ubiquitin E3 ligase (Fbxl20, Skp1, Cul1)	1	FBXL20
+2	1	TRUE	0.013	4	2	1	0.5	0.25	CORUM:2221	cor	2	RPA-MSH4-BLM complex	1	RPA1

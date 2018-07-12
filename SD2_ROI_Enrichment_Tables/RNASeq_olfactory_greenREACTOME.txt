@@ -1,0 +1,42 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1640170	Cell Cycle	607	66	2.05	6.32	1.3e-08	7.4e-06	2.35	1.76	3.09
+R-HSA-69278	Cell Cycle, Mitotic	531	58	2.06	5.94	9e-08	2.6e-05	2.34	1.72	3.13
+R-HSA-69273	Cyclin A/B1/B2 associated events during G2/M transition	25	9	6.79	6.86	3e-06	0.00035	10.2	3.95	24.6
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	21	3.12	5.68	2.9e-06	0.00035	3.64	2.15	5.91
+R-HSA-69620	Cell Cycle Checkpoints	292	36	2.32	5.44	1.8e-06	0.00035	2.62	1.77	3.78
+R-HSA-69618	Mitotic Spindle Checkpoint	112	19	3.2	5.54	5.9e-06	0.00057	3.75	2.14	6.24
+R-HSA-2980766	Nuclear Envelope Breakdown	51	12	4.44	5.82	1e-05	0.00067	5.6	2.65	11
+R-HSA-141424	Amplification of signal from the kinetochores	96	17	3.34	5.45	1e-05	0.00067	3.94	2.17	6.77
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	17	3.34	5.45	1e-05	0.00067	3.94	2.17	6.77
+R-HSA-5663220	RHO GTPases Activate Formins	141	21	2.81	5.12	1.6e-05	0.00092	3.21	1.9	5.19
+R-HSA-68877	Mitotic Prometaphase	199	25	2.37	4.62	5e-05	0.0027	2.64	1.65	4.08
+R-HSA-156711	Polo-like kinase mediated events	16	6	7.07	5.75	0.00011	0.0053	10.8	3.22	33
+R-HSA-73886	Chromosome Maintenance	109	16	2.77	4.39	0.00019	0.0085	3.14	1.71	5.41
+R-HSA-422475	Axon guidance	295	31	1.98	4.05	2e-04	0.0085	2.16	1.43	3.19
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	8	4.44	4.75	0.00032	0.012	5.56	2.17	12.7
+R-HSA-194315	Signaling by Rho GTPases	441	41	1.75	3.83	3e-04	0.012	1.9	1.33	2.66
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	23	2.14	3.87	0.00046	0.016	2.34	1.43	3.66
+R-HSA-176187	Activation of ATR in response to replication stress	37	8	4.08	4.44	0.00058	0.018	4.98	1.96	11.2
+R-HSA-977443	GABA receptor activation	55	10	3.43	4.27	0.00054	0.018	4.02	1.8	8.16
+R-HSA-392170	ADP signalling through P2Y purinoceptor 12	22	6	5.14	4.6	0.00078	0.021	6.76	2.16	18.3
+R-HSA-180786	Extension of Telomeres	30	7	4.4	4.41	0.00079	0.021	5.49	1.98	13.3
+R-HSA-977444	GABA B receptor activation	39	8	3.87	4.25	0.00085	0.021	4.66	1.84	10.4
+R-HSA-991365	Activation of GABAB receptors	39	8	3.87	4.25	0.00085	0.021	4.66	1.84	10.4
+R-HSA-68886	M Phase	391	36	1.74	3.51	0.00084	0.021	1.87	1.27	2.67
+R-HSA-6791312	TP53 Regulates Transcription of Cell Cycle Genes	49	9	3.46	4.09	0.00095	0.022	4.07	1.73	8.57
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	12	2.79	3.84	0.0011	0.023	3.15	1.54	5.91
+R-HSA-194138	Signaling by VEGF	103	14	2.56	3.77	0.001	0.023	2.86	1.49	5.09
+R-HSA-68882	Mitotic Anaphase	202	22	2.05	3.58	0.001	0.023	2.23	1.35	3.52
+R-HSA-392518	Signal amplification	32	7	4.12	4.19	0.0012	0.024	5.05	1.84	12.1
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	7	4	4.08	0.0014	0.027	4.86	1.77	11.6
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	95	13	2.58	3.66	0.0014	0.027	2.88	1.46	5.24
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	12	2.63	3.6	0.0018	0.033	2.94	1.44	5.49
+R-HSA-453276	Regulation of mitotic cell cycle	86	12	2.63	3.6	0.0018	0.033	2.94	1.44	5.49
+R-HSA-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	26	6	4.35	4.05	0.002	0.034	5.41	1.77	14
+R-HSA-195258	RHO GTPase Effectors	313	29	1.75	3.18	0.0024	0.04	1.87	1.22	2.78
+R-HSA-176412	Phosphorylation of the APC/C	19	5	4.96	4.09	0.0026	0.041	6.43	1.8	19
+R-HSA-69242	S Phase	138	16	2.19	3.32	0.0026	0.041	2.38	1.31	4.07
+R-HSA-2467813	Separation of Sister Chromatids	191	20	1.97	3.22	0.0028	0.042	2.13	1.26	3.43
+R-HSA-1483191	Synthesis of PC	28	6	4.04	3.81	0.003	0.044	4.91	1.62	12.6
+R-HSA-202040	G-protein activation	28	6	4.04	3.81	0.003	0.044	4.91	1.62	12.6
+R-HSA-69186	Lagging Strand Synthesis	20	5	4.71	3.93	0.0033	0.047	6	1.7	17.4

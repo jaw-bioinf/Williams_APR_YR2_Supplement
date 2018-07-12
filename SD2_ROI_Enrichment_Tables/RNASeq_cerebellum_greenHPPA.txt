@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002078	Truncal ataxia	33	13	3.82	5.52	1e-05	0.02	5.82	2.64	12.4
+HP:0002020	Gastroesophageal reflux	107	26	2.36	4.83	1.8e-05	0.02	2.93	1.78	4.68
+HP:0000640	Gaze-evoked nystagmus	23	10	4.22	5.25	4e-05	0.03	6.84	2.67	17

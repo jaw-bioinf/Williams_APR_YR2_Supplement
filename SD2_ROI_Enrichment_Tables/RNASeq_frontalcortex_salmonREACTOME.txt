@@ -1,0 +1,90 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69278	Cell Cycle, Mitotic	531	38	5.08	11.6	2.1e-17	4.4e-15	7.01	4.65	10.4
+R-HSA-1640170	Cell Cycle	607	40	4.68	11.2	4.5e-17	4.6e-15	6.5	4.34	9.56
+R-HSA-69620	Cell Cycle Checkpoints	292	20	4.86	8.01	4.1e-09	2.9e-07	5.83	3.39	9.58
+R-HSA-5663220	RHO GTPases Activate Formins	141	14	7.05	8.65	9.9e-09	5.1e-07	8.45	4.37	15.2
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	13	7.27	8.5	2.4e-08	7.2e-07	8.69	4.37	16
+R-HSA-68877	Mitotic Prometaphase	199	16	5.71	8.02	1.8e-08	7.2e-07	6.77	3.68	11.7
+R-HSA-68886	M Phase	391	22	4	7.22	2.4e-08	7.2e-07	4.76	2.84	7.65
+R-HSA-195258	RHO GTPase Effectors	313	19	4.31	7.11	7.3e-08	1.9e-06	5.07	2.91	8.4
+R-HSA-69618	Mitotic Spindle Checkpoint	112	11	6.97	7.6	4.5e-07	1.1e-05	8.18	3.86	15.7
+R-HSA-194315	Signaling by Rho GTPases	441	21	3.38	6.11	8.5e-07	1.8e-05	3.94	2.33	6.37
+R-HSA-2467813	Separation of Sister Chromatids	191	13	4.83	6.39	2.8e-06	5.2e-05	5.53	2.81	10
+R-HSA-68882	Mitotic Anaphase	202	13	4.57	6.13	5.1e-06	8.6e-05	5.2	2.65	9.43
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	13	4.55	6.1	5.4e-06	8.6e-05	5.17	2.63	9.38
+R-HSA-141424	Amplification of signal from the kinetochores	96	9	6.66	6.66	7.7e-06	0.00011	7.66	3.32	15.7
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	9	6.66	6.66	7.7e-06	0.00011	7.66	3.32	15.7
+R-HSA-69275	G2/M Transition	195	12	4.37	5.68	1.9e-05	0.00024	4.92	2.44	9.11
+R-HSA-69273	Cyclin A/B1/B2 associated events during G2/M transition	25	5	14.2	7.9	2.2e-05	0.00025	18.1	5.23	50.7
+R-HSA-453274	Mitotic G2-G2/M phases	197	12	4.33	5.63	2.1e-05	0.00025	4.87	2.41	9
+R-HSA-453279	Mitotic G1-G1/S phases	143	10	4.97	5.71	3.2e-05	0.00035	5.59	2.56	10.9
+R-HSA-156711	Polo-like kinase mediated events	16	4	17.8	8.01	6e-05	0.00063	23.9	5.56	80.2
+R-HSA-499943	Interconversion of nucleotide di- and triphosphates	31	5	11.5	6.97	6.5e-05	0.00065	13.9	4.11	37.6
+R-HSA-983231	Factors involved in megakaryocyte development and platelet production	163	10	4.36	5.16	9.8e-05	0.00093	4.85	2.23	9.44
+R-HSA-176412	Phosphorylation of the APC/C	19	4	15	7.27	0.00012	0.0011	19.2	4.57	61.3
+R-HSA-176408	Regulation of APC/C activators between G1/S and early anaphase	80	7	6.21	5.6	0.00013	0.0011	7.01	2.67	15.6
+R-HSA-2559582	Senescence-Associated Secretory Phenotype (SASP)	109	8	5.21	5.28	0.00015	0.0012	5.82	2.4	12.2
+R-HSA-69242	S Phase	138	9	4.63	5.13	0.00014	0.0012	5.15	2.25	10.4
+R-HSA-983189	Kinesins	60	6	7.1	5.66	0.00019	0.0014	8.08	2.79	19.2
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	7	5.78	5.32	2e-04	0.0014	6.47	2.47	14.3
+R-HSA-453276	Regulation of mitotic cell cycle	86	7	5.78	5.32	2e-04	0.0014	6.47	2.47	14.3
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	7	5.71	5.28	0.00022	0.0015	6.39	2.44	14.1
+R-HSA-174048	APC/C:Cdc20 mediated degradation of Cyclin B	23	4	12.4	6.51	0.00027	0.0018	15.1	3.69	46.3
+R-HSA-1538133	G0 and Early G1	25	4	11.4	6.2	0.00038	0.0025	13.7	3.37	41.3
+R-HSA-6811434	COPI-dependent Golgi-to-ER retrograde traffic	100	7	4.97	4.77	0.00051	0.0032	5.49	2.11	12.1
+R-HSA-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	76	6	5.61	4.82	0.00068	0.0042	6.22	2.17	14.6
+R-HSA-2559583	Cellular Senescence	194	9	3.29	3.86	0.0017	0.0098	3.57	1.57	7.13
+R-HSA-446353	Cell-extracellular matrix interactions	18	3	11.8	5.5	0.0019	0.01	14.3	2.62	51.3
+R-HSA-176187	Activation of ATR in response to replication stress	37	4	7.68	4.86	0.0017	0.01	8.7	2.21	25
+R-HSA-69206	G1/S Transition	124	7	4.01	4.03	0.0018	0.01	4.35	1.68	9.5
+R-HSA-109582	Hemostasis	608	18	2.1	3.35	0.0022	0.011	2.3	1.31	3.82
+R-HSA-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	19	3	11.2	5.32	0.0022	0.012	13.4	2.47	47.5
+R-HSA-69481	G2/M Checkpoints	167	8	3.4	3.74	0.0025	0.012	3.67	1.53	7.63
+R-HSA-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	20	3	10.7	5.16	0.0026	0.013	12.6	2.34	44.2
+R-HSA-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	20	3	10.7	5.16	0.0026	0.013	12.6	2.34	44.2
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	4	6.61	4.4	0.003	0.013	7.36	1.88	20.8
+R-HSA-69239	Synthesis of DNA	99	6	4.3	3.95	0.0027	0.013	4.67	1.64	10.8
+R-HSA-15869	Metabolism of nucleotides	101	6	4.22	3.89	0.003	0.013	4.57	1.61	10.6
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	7	3.71	3.77	0.0028	0.013	4.01	1.55	8.73
+R-HSA-8854518	AURKA Activation by TPX2	72	5	4.93	4	0.0034	0.015	5.38	1.67	13.5
+R-HSA-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	75	5	4.73	3.88	0.004	0.017	5.15	1.6	12.9
+R-HSA-69306	DNA Replication	108	6	3.95	3.68	0.0041	0.017	4.26	1.5	9.83
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	78	5	4.55	3.76	0.0048	0.019	4.93	1.53	12.3
+R-HSA-179409	APC-Cdc20 mediated degradation of Nek2A	25	3	8.52	4.5	0.005	0.02	9.73	1.84	32.9
+R-HSA-6791312	TP53 Regulates Transcription of Cell Cycle Genes	49	4	5.8	4.02	0.0049	0.02	6.37	1.64	17.8
+R-HSA-2980766	Nuclear Envelope Breakdown	51	4	5.57	3.91	0.0056	0.022	6.1	1.57	17
+R-HSA-8848021	Signaling by PTK6	54	4	5.26	3.75	0.0069	0.025	5.73	1.48	15.9
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	4	5.26	3.75	0.0069	0.025	5.73	1.48	15.9
+R-HSA-2262752	Cellular responses to stress	425	13	2.17	2.95	0.0069	0.025	2.33	1.2	4.18
+R-HSA-2132295	MHC class II antigen presentation	124	6	3.44	3.26	0.0081	0.029	3.67	1.3	8.44
+R-HSA-5693532	DNA Double-Strand Break Repair	165	7	3.01	3.12	0.0087	0.031	3.21	1.25	6.95
+R-HSA-6804756	Regulation of TP53 Activity through Phosphorylation	92	5	3.86	3.29	0.0095	0.033	4.13	1.29	10.3
+R-HSA-68962	Activation of the pre-replicative complex	32	3	6.66	3.83	0.01	0.034	7.38	1.42	24.2
+R-HSA-5693567	HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)	131	6	3.25	3.1	0.01	0.035	3.46	1.23	7.95
+R-HSA-5626467	RHO GTPases activate IQGAPs	33	3	6.46	3.75	0.011	0.036	7.13	1.38	23.4
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	3	6.27	3.68	0.012	0.037	6.9	1.33	22.5
+R-HSA-5693607	Processing of DNA double-strand break ends	97	5	3.66	3.15	0.012	0.037	3.91	1.22	9.68
+R-HSA-68875	Mitotic Prophase	134	6	3.18	3.04	0.012	0.037	3.38	1.2	7.76
+R-HSA-5693538	Homology Directed Repair	137	6	3.11	2.97	0.013	0.04	3.3	1.17	7.58
+R-HSA-5663213	RHO GTPases Activate WASPs and WAVEs	36	3	5.92	3.53	0.014	0.042	6.48	1.26	21
+R-HSA-6802948	Signaling by high-kinase activity BRAF mutants	36	3	5.92	3.53	0.014	0.042	6.48	1.26	21
+R-HSA-72163	mRNA Splicing - Major Pathway	183	7	2.72	2.8	0.015	0.044	2.88	1.12	6.22
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	4	4.12	3.1	0.016	0.046	4.4	1.15	12.1
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	4	4.12	3.1	0.016	0.046	4.4	1.15	12.1
+R-HSA-3928662	EPHB-mediated forward signaling	39	3	5.46	3.34	0.017	0.047	5.94	1.16	19.1
+R-HSA-8950505	Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	39	3	5.46	3.34	0.017	0.047	5.94	1.16	19.1
+R-HSA-5674135	MAP2K and MAPK activation	40	3	5.33	3.28	0.018	0.047	5.78	1.13	18.6
+R-HSA-6802946	Signaling by moderate kinase activity BRAF mutants	40	3	5.33	3.28	0.018	0.047	5.78	1.13	18.6
+R-HSA-6802955	Paradoxical activation of RAF signaling by kinase inactive BRAF	40	3	5.33	3.28	0.018	0.047	5.78	1.13	18.6
+R-HSA-68949	Orc1 removal from chromatin	71	4	4	3.03	0.018	0.047	4.27	1.12	11.7
+R-HSA-69052	Switching of origins to a post-replicative state	71	4	4	3.03	0.018	0.047	4.27	1.12	11.7
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	72	4	3.95	3	0.019	0.047	4.21	1.1	11.5
+R-HSA-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	72	4	3.95	3	0.019	0.047	4.21	1.1	11.5
+R-HSA-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	73	4	3.89	2.96	0.019	0.047	4.15	1.08	11.3
+R-HSA-2299718	Condensation of Prophase Chromosomes	73	4	3.89	2.96	0.019	0.047	4.15	1.08	11.3
+R-HSA-69300	Removal of licensing factors from origins	73	4	3.89	2.96	0.019	0.047	4.15	1.08	11.3
+R-HSA-72172	mRNA Splicing	191	7	2.6	2.67	0.018	0.047	2.75	1.07	5.94
+R-HSA-437239	Recycling pathway of L1	41	3	5.2	3.22	0.02	0.048	5.62	1.1	18.1
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	3	5.07	3.16	0.021	0.05	5.48	1.07	17.6
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	8	2.34	2.52	0.021	0.05	2.47	1.03	5.08
+R-HSA-8953897	Cellular responses to external stimuli	493	13	1.87	2.37	0.022	0.05	1.99	1.02	3.55

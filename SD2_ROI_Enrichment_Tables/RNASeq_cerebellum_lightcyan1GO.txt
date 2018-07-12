@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0423	110	5	3	0.6	0.027	HP:0001977	hp	1	Abnormal thrombosis	1	IL10,FGB,PRSS2
+2	1	TRUE	0.0423	97	5	3	0.6	0.031	HP:0004936	hp	1	Venous thrombosis	2	IL10,FGB,PRSS2
+3	1	TRUE	0.0186	103	12	3	0.25	0.029	KEGG:04972	keg	2	Pancreatic secretion	1	CLCA3B,PNLIPRP1,PRSS2

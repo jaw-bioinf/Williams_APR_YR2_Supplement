@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00676	3	1	1	1	0.333	CORUM:2185	cor	1	Gata1-Ldb1-Tal1 complex	1	TAL1
+2	1	TRUE	0.00676	4	1	1	1	0.25	CORUM:2742	cor	2	Gata2-Tal1-Tcf3-Lmo2 complex	1	TAL1
+3	1	TRUE	0.00676	5	1	1	1	0.2	CORUM:1373	cor	4	Ldb1-Lmo2-Gata-1-Tal1-E47 complex	1	TAL1
+4	1	TRUE	0.00676	4	1	1	1	0.25	CORUM:1371	cor	3	Gata1-Tal1-Tcf3-Lmo2 complex	1	TAL1

@@ -1,0 +1,54 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3229121	Glycogen storage diseases	16	4	13.7	6.92	0.00017	0.04	18.3	4.25	60.9
+R-HSA-3785653	Myoclonic epilepsy of Lafora	11	3	14.9	6.3	0.00089	0.04	20.4	3.46	86.1
+R-HSA-5689877	Josephin domain DUBs	12	3	13.7	6	0.0012	0.04	18.2	3.14	73.6
+R-HSA-5663084	Diseases of carbohydrate metabolism	34	5	8.05	5.62	0.00035	0.04	9.49	2.83	25.2
+R-HSA-205043	NRIF signals cell death from the nucleus	15	3	10.9	5.26	0.0023	0.04	13.6	2.45	51.1
+R-HSA-5609975	Diseases associated with glycosylation precursor biosynthesis	15	3	10.9	5.26	0.0023	0.04	13.6	2.45	51.1
+R-HSA-69298	Association of licensing factors with the pre-replicative complex	15	3	10.9	5.26	0.0023	0.04	13.6	2.45	51.1
+R-HSA-1295596	Spry regulation of FGF signaling	16	3	10.3	5.06	0.0028	0.04	12.6	2.28	46.3
+R-HSA-3322077	Glycogen synthesis	16	3	10.3	5.06	0.0028	0.04	12.6	2.28	46.3
+R-HSA-5358346	Hedgehog ligand biogenesis	64	6	5.13	4.52	0.0011	0.04	5.71	1.99	13.4
+R-HSA-70614	Amino acid synthesis and interconversion (transamination)	33	4	6.63	4.42	0.0029	0.04	7.55	1.91	21.8
+R-HSA-69615	G1/S DNA Damage Checkpoints	68	6	4.83	4.32	0.0015	0.04	5.34	1.86	12.5
+R-HSA-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	52	5	5.26	4.2	0.0025	0.04	5.84	1.79	14.9
+R-HSA-69610	p53-Independent DNA Damage Response	52	5	5.26	4.2	0.0025	0.04	5.84	1.79	14.9
+R-HSA-69613	p53-Independent G1/S DNA damage checkpoint	52	5	5.26	4.2	0.0025	0.04	5.84	1.79	14.9
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	6	4.44	4.05	0.0023	0.04	4.86	1.7	11.4
+R-HSA-453279	Mitotic G1-G1/S phases	143	9	3.44	4.02	0.0012	0.04	3.74	1.65	7.48
+R-HSA-5362768	Hh mutants that don't undergo autocatalytic processing are degraded by ERAD	56	5	4.89	3.98	0.0035	0.04	5.38	1.66	13.6
+R-HSA-5689603	UCH proteinases	97	7	3.95	3.98	0.002	0.04	4.3	1.66	9.42
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	78	6	4.21	3.88	0.003	0.04	4.59	1.61	10.7
+R-HSA-69206	G1/S Transition	124	8	3.53	3.87	0.0019	0.04	3.83	1.59	7.96
+R-HSA-195253	Degradation of beta-catenin by the destruction complex	81	6	4.05	3.76	0.0036	0.04	4.41	1.55	10.2
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	81	6	4.05	3.76	0.0036	0.04	4.41	1.55	10.2
+R-HSA-446203	Asparagine N-linked glycosylation	299	14	2.56	3.74	0.0012	0.04	2.77	1.47	4.86
+R-HSA-2467813	Separation of Sister Chromatids	191	10	2.86	3.55	0.0026	0.04	3.08	1.43	5.94
+R-HSA-71291	Metabolism of amino acids and derivatives	251	12	2.62	3.54	0.0022	0.04	2.82	1.41	5.14
+R-HSA-69275	G2/M Transition	195	10	2.81	3.47	0.0031	0.04	3.01	1.4	5.8
+R-HSA-453274	Mitotic G2-G2/M phases	197	10	2.78	3.44	0.0033	0.04	2.98	1.38	5.74
+R-HSA-71387	Metabolism of carbohydrates	263	12	2.5	3.36	0.0032	0.04	2.68	1.34	4.88
+R-HSA-110320	Translesion Synthesis by POLH	19	3	8.64	4.55	0.0047	0.041	10.2	1.89	36.1
+R-HSA-5689901	Metalloprotease DUBs	37	4	5.92	4.09	0.0045	0.041	6.63	1.69	18.9
+R-HSA-5689896	Ovarian tumor domain proteases	38	4	5.76	4.01	0.0049	0.041	6.44	1.64	18.3
+R-HSA-5696394	DNA Damage Recognition in GG-NER	38	4	5.76	4.01	0.0049	0.041	6.44	1.64	18.3
+R-HSA-5387390	Hh mutants abrogate ligand secretion	59	5	4.64	3.82	0.0044	0.041	5.08	1.57	12.8
+R-HSA-68827	CDT1 association with the CDC6:ORC:origin complex	59	5	4.64	3.82	0.0044	0.041	5.08	1.57	12.8
+R-HSA-187577	SCF(Skp2)-mediated degradation of p27/p21	60	5	4.56	3.77	0.0047	0.041	4.99	1.54	12.6
+R-HSA-69202	Cyclin E associated events during G1/S transition 	82	6	4	3.73	0.0038	0.041	4.35	1.53	10.1
+R-HSA-5678895	Defective CFTR causes cystic fibrosis	61	5	4.48	3.72	0.005	0.041	4.9	1.51	12.3
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	6	3.77	3.54	0.0051	0.041	4.08	1.43	9.44
+R-HSA-68882	Mitotic Anaphase	202	10	2.71	3.35	0.0039	0.041	2.9	1.35	5.58
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	10	2.7	3.33	0.0041	0.041	2.89	1.34	5.55
+R-HSA-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus	20	3	8.21	4.4	0.0054	0.042	9.61	1.79	33.7
+R-HSA-174084	Autodegradation of Cdh1 by Cdh1:APC/C	63	5	4.34	3.63	0.0058	0.043	4.73	1.46	11.9
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	6	3.65	3.44	0.006	0.043	3.93	1.38	9.09
+R-HSA-5358351	Signaling by Hedgehog	148	8	2.96	3.27	0.0057	0.043	3.16	1.32	6.55
+R-HSA-5619115	Disorders of transmembrane transporters	149	8	2.94	3.25	0.006	0.043	3.14	1.31	6.5
+R-HSA-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity	22	3	7.46	4.14	0.0072	0.047	8.6	1.62	29.6
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	42	4	5.21	3.73	0.007	0.047	5.76	1.48	16.2
+R-HSA-69563	p53-Dependent G1 DNA Damage Response	66	5	4.15	3.5	0.007	0.047	4.5	1.39	11.3
+R-HSA-69580	p53-Dependent G1/S DNA damage checkpoint	66	5	4.15	3.5	0.007	0.047	4.5	1.39	11.3
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	67	5	4.08	3.45	0.0075	0.048	4.42	1.37	11.1
+R-HSA-174048	APC/C:Cdc20 mediated degradation of Cyclin B	23	3	7.14	4.02	0.0081	0.05	8.17	1.54	27.9
+R-HSA-68867	Assembly of the pre-replicative complex	68	5	4.02	3.41	0.0079	0.05	4.35	1.35	10.9

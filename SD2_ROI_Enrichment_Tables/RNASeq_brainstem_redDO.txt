@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:178	vascular disease	1088	68	1.61	4.39	2.5e-05	0.01	1.87	1.38	2.49
+DOID:13580	cholestasis	60	10	4.29	5.15	9e-05	0.011	5.1	2.28	10.3
+DOID:0050828	artery disease	931	59	1.63	4.16	6.8e-05	0.011	1.86	1.36	2.52
+DOID:1287	cardiovascular system disease	1292	75	1.49	3.95	0.00011	0.011	1.72	1.29	2.28

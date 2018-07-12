@@ -1,0 +1,15 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002739	abnormal olfactory bulb development	55	16	4.91	7.3	6.4e-08	0.00016	6.67	3.46	12.3
+MP:0000819	abnormal olfactory bulb morphology	159	25	2.65	5.28	6.5e-06	0.0079	3.05	1.89	4.76
+MP:0009944	abnormal olfactory lobe morphology	178	26	2.46	4.95	1.7e-05	0.013	2.8	1.76	4.31
+MP:0008220	abnormal ventral commissure morphology	62	13	3.54	5.03	5.5e-05	0.027	4.29	2.12	8.08
+MP:0008225	abnormal anterior commissure morphology	62	13	3.54	5.03	5.5e-05	0.027	4.29	2.12	8.08
+MP:0000814	absent dentate gyrus	15	6	6.75	5.59	0.00013	0.045	10.7	3.12	33.7
+MP:0004274	abnormal embryonic/fetal subventricular zone morphology	59	12	3.43	4.7	0.00014	0.045	4.12	1.98	7.95
+MP:0008789	abnormal olfactory epithelium morphology	62	12	3.27	4.49	0.00024	0.045	3.87	1.86	7.43
+MP:0002233	abnormal nose morphology	162	22	2.29	4.16	0.00022	0.045	2.56	1.54	4.07
+MP:0000934	abnormal telencephalon development	163	22	2.28	4.13	0.00024	0.045	2.54	1.53	4.04
+MP:0009937	abnormal neuron differentiation	360	39	1.83	4.02	0.00017	0.045	2	1.38	2.83
+MP:0002063	abnormal learning/memory/conditioning	664	62	1.58	3.86	0.00019	0.045	1.72	1.28	2.27
+MP:0014114	abnormal cognition	665	62	1.57	3.85	2e-04	0.045	1.71	1.28	2.27
+MP:0002886	abnormal glutamate-mediated receptor currents	63	12	3.21	4.42	0.00028	0.048	3.79	1.83	7.27

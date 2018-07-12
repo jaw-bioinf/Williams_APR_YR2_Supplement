@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05218	Melanoma	69	3	8.5	4.49	0.0051	0.038	9.58	1.83	31.9
+path:hsa04114	Oocyte meiosis	124	4	6.3	4.28	0.0035	0.038	7.2	1.82	20.9
+path:hsa05410	Hypertrophic cardiomyopathy (HCM)	83	3	7.06	3.99	0.0085	0.038	7.89	1.51	26.1
+path:hsa04211	Longevity regulating pathway	89	3	6.59	3.81	0.01	0.038	7.34	1.41	24.2
+path:hsa04066	HIF-1 signaling pathway	99	3	5.92	3.54	0.014	0.038	6.56	1.26	21.6
+path:hsa04922	Glucagon signaling pathway	102	3	5.75	3.47	0.015	0.038	6.36	1.22	20.9
+path:hsa05200	Pathways in cancer	395	6	2.97	2.89	0.014	0.038	3.43	1.15	8.5
+path:hsa04152	AMPK signaling pathway	120	3	4.89	3.08	0.023	0.046	5.37	1.04	17.6
+path:hsa04015	Rap1 signaling pathway	210	4	3.72	2.87	0.021	0.046	4.14	1.05	11.9

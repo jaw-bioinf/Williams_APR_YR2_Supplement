@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002206	abnormal CNS synaptic transmission	653	39	2.34	5.74	4.6e-07	0.00041	2.7	1.85	3.87
+MP:0003635	abnormal synaptic transmission	740	42	2.22	5.61	6.1e-07	0.00041	2.57	1.78	3.65
+MP:0002945	abnormal inhibitory postsynaptic currents	87	12	5.4	6.68	1.9e-06	7e-04	6.37	3.11	12
+MP:0003633	abnormal nervous system physiology	1903	79	1.63	4.95	2.1e-06	7e-04	1.98	1.48	2.62
+MP:0003491	abnormal voluntary movement	1648	70	1.66	4.8	4.7e-06	0.0013	1.98	1.47	2.65
+MP:0001392	abnormal locomotor behavior	1537	65	1.66	4.56	1.4e-05	0.0031	1.94	1.43	2.61
+MP:0009745	abnormal behavioral response to xenobiotic	295	21	2.79	5.05	2e-05	0.0039	3.11	1.86	4.97
+MP:0003313	abnormal locomotor activation	1152	52	1.77	4.5	2.3e-05	0.0039	2.03	1.45	2.79
+MP:0009357	abnormal seizure response to inducing agent	190	16	3.3	5.18	2.7e-05	0.0041	3.69	2.03	6.29
+MP:0002064	seizures	383	24	2.45	4.7	4.2e-05	0.0058	2.72	1.69	4.23
+MP:0003996	clonic seizures	19	5	10.3	6.57	9e-05	0.011	13.9	3.88	41.2
+MP:0011267	abnormal excitatory postsynaptic current amplitude	31	6	7.58	5.94	0.00011	0.013	9.36	3.11	23.7
+MP:0008840	abnormal spike wave discharge	21	5	9.32	6.18	0.00015	0.015	12.2	3.45	35.1
+MP:0000947	convulsive seizures	175	14	3.13	4.61	0.00015	0.015	3.46	1.82	6.1
+MP:0009749	enhanced behavioral response to addictive substance	50	7	5.48	5.14	0.00025	0.023	6.37	2.39	14.5
+MP:0003216	absence seizures	37	6	6.35	5.28	0.00031	0.026	7.55	2.55	18.6
+MP:0011270	decreased excitatory postsynaptic current amplitude	26	5	7.53	5.4	0.00044	0.033	9.25	2.7	25.5
+MP:0001970	abnormal pain threshold	241	16	2.6	4.07	0.00044	0.033	2.84	1.57	4.81
+MP:0004994	abnormal brain wave pattern	72	8	4.35	4.62	0.00047	0.034	4.9	2	10.4
+MP:0009751	enhanced behavioral response to alcohol	16	4	9.79	5.7	0.00059	0.038	12.9	3.01	43
+MP:0002733	abnormal thermal nociception	154	12	3.05	4.15	0.00057	0.038	3.34	1.66	6.14
+MP:0000948	nonconvulsive seizures	42	6	5.59	4.83	0.00063	0.039	6.49	2.21	15.8
+MP:0009746	enhanced behavioral response to xenobiotic	77	8	4.07	4.38	0.00074	0.044	4.54	1.86	9.61
+MP:0003997	tonic-clonic seizures	78	8	4.02	4.33	0.00081	0.046	4.48	1.84	9.46
+MP:0002910	abnormal excitatory postsynaptic currents	139	11	3.1	4.04	0.00084	0.046	3.39	1.63	6.39
+MP:0005423	abnormal somatic nervous system physiology	80	8	3.92	4.24	0.00096	0.05	4.35	1.79	9.18

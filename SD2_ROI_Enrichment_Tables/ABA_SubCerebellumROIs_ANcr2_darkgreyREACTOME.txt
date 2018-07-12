@@ -1,0 +1,36 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-70614	Amino acid synthesis and interconversion (transamination)	33	4	10.8	6.02	0.00047	0.013	12.6	3.16	36.7
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	5	8.6	5.84	0.00027	0.013	9.79	2.98	25.2
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	5	7.98	5.57	0.00039	0.013	9.02	2.75	23.1
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	57	5	7.84	5.51	0.00042	0.013	8.85	2.7	22.6
+R-HSA-72187	mRNA 3'-end processing	58	5	7.71	5.45	0.00046	0.013	8.68	2.65	22.2
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	5	6.67	4.95	0.00089	0.013	7.41	2.28	18.8
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	5	6.67	4.95	0.00089	0.013	7.41	2.28	18.8
+R-HSA-5663220	RHO GTPases Activate Formins	141	7	4.44	4.37	0.001	0.013	4.86	1.87	10.6
+R-HSA-72163	mRNA Splicing - Major Pathway	183	8	3.91	4.22	0.001	0.013	4.27	1.77	8.92
+R-HSA-597592	Post-translational protein modification	1353	28	1.85	3.58	0.00075	0.013	2.16	1.35	3.36
+R-HSA-392499	Metabolism of proteins	1907	36	1.69	3.55	0.00062	0.013	2.03	1.32	3.07
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	5	6.04	4.63	0.0014	0.015	6.66	2.05	16.8
+R-HSA-72172	mRNA Splicing	191	8	3.74	4.07	0.0013	0.015	4.08	1.69	8.52
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	9	3.31	3.88	0.0016	0.016	3.61	1.59	7.24
+R-HSA-5688426	Deubiquitination	295	10	3.03	3.77	0.0017	0.016	3.31	1.52	6.42
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	5	5.39	4.27	0.0023	0.02	5.88	1.82	14.7
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	6	4.22	3.89	0.003	0.024	4.57	1.61	10.6
+R-HSA-141424	Amplification of signal from the kinetochores	96	5	4.66	3.83	0.0044	0.032	5.04	1.57	12.6
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	5	4.66	3.83	0.0044	0.032	5.04	1.57	12.6
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	7	3.36	3.46	0.0048	0.033	3.62	1.4	7.88
+R-HSA-6807878	COPI-mediated anterograde transport	102	5	4.38	3.65	0.0056	0.034	4.72	1.47	11.7
+R-HSA-2467813	Separation of Sister Chromatids	191	7	3.28	3.38	0.0055	0.034	3.52	1.36	7.66
+R-HSA-8953854	Metabolism of RNA	646	15	2.08	3.01	0.0054	0.034	2.27	1.22	3.96
+R-HSA-166520	Signalling by NGF	147	6	3.65	3.44	0.006	0.035	3.92	1.38	9.03
+R-HSA-69618	Mitotic Spindle Checkpoint	112	5	3.99	3.39	0.0083	0.04	4.28	1.33	10.6
+R-HSA-199977	ER to Golgi Anterograde Transport	155	6	3.46	3.28	0.0078	0.04	3.7	1.31	8.52
+R-HSA-68882	Mitotic Anaphase	202	7	3.1	3.2	0.0075	0.04	3.32	1.29	7.21
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	7	3.08	3.19	0.0077	0.04	3.3	1.28	7.17
+R-HSA-195258	RHO GTPase Effectors	313	9	2.57	3	0.0083	0.04	2.76	1.21	5.51
+R-HSA-8953897	Cellular responses to external stimuli	493	12	2.18	2.85	0.0089	0.041	2.35	1.17	4.33
+R-HSA-194315	Signaling by Rho GTPases	441	11	2.23	2.81	0.01	0.046	2.4	1.15	4.52
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	3	6.39	3.72	0.011	0.049	6.95	1.35	22.4
+R-HSA-390466	Chaperonin-mediated protein folding	43	3	6.24	3.66	0.012	0.05	6.78	1.32	21.8
+R-HSA-391251	Protein folding	43	3	6.24	3.66	0.012	0.05	6.78	1.32	21.8
+R-HSA-2132295	MHC class II antigen presentation	124	5	3.6	3.1	0.013	0.05	3.84	1.2	9.49

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004030	induced chromosome breakage	23	4	16.6	7.72	8.5e-05	0.033	20.7	5.03	64
+MP:0004028	chromosome breakage	70	6	8.2	6.21	8.5e-05	0.033	9.39	3.24	22.4
+MP:0008866	chromosomal instability	112	7	5.98	5.45	0.00016	0.035	6.72	2.57	14.9
+MP:0010094	abnormal chromosome stability	114	7	5.87	5.38	0.00018	0.035	6.59	2.52	14.6

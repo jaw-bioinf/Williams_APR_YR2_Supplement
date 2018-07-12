@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0369	4	8	1	0.125	0.25	CORUM:859	cor	1	SNARE complex (Stx4, Stx6, Stx7, Vamp3, Vamp7, Vamp8, Vti1b)	1	STX6
+2	1	TRUE	0.0361	3	8	1	0.125	0.333	CORUM:965	cor	2	mPar6c-Mlgl-aPKC complex	1	PRKCI
+3	1	TRUE	0.0361	3	8	1	0.125	0.333	CORUM:3553	cor	8	Traf6-p62-aPKC complex, RANK-L stimulated	1	PRKCI
+4	1	TRUE	0.00946	7	8	2	0.25	0.286	CORUM:384	cor	4	Caveolar macromolecular signaling complex	1	GNAS,CACNA1C
+5	1	TRUE	0.0369	4	8	1	0.125	0.25	CORUM:796	cor	5	SNARE complex (Stx1a, Snap25, Cplx2, Vamp2)	1	VAMP2
+6	1	TRUE	0.0361	3	8	1	0.125	0.333	CORUM:1014	cor	7	Pcdhga1-Pcdha4 complex	1	PCDHGA1
+7	1	TRUE	0.0361	1	8	1	0.125	1	CORUM:735	cor	12	SNARE complex (Vti1b, Stx6, Stx7)	1	STX6
+8	1	TRUE	0.0361	3	8	1	0.125	0.333	CORUM:5524	cor	10	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	BMI1
+9	1	TRUE	0.00946	7	8	2	0.25	0.286	CORUM:385	cor	14	Caveolar macromolecular signaling complex, using anti-Cav-3	1	GNAS,CACNA1C
+10	1	TRUE	0.0361	3	8	1	0.125	0.333	CORUM:1213	cor	3	SNARE complex (Stx4, Vamp2, Snap23)	1	VAMP2
+11	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:1021	cor	9	Pcdha7-Pcdhga1 complex	1	PCDHGA1
+12	1	TRUE	0.0369	4	8	1	0.125	0.25	CORUM:795	cor	13	SNARE complex (Vamp2, Snap25, Stx1a, Cplx1)	1	VAMP2
+13	1	TRUE	0.0361	2	8	1	0.125	0.5	CORUM:6110	cor	6	Drd3-Slc6a complex	1	SLC6A3

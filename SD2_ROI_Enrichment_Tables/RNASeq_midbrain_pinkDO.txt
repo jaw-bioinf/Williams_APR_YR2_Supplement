@@ -1,0 +1,343 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:2914 immune system disease 987 135 2.78 13.7 1.3e-32 7.6e-30 4.4 3.47 5.56
+DOID:0050117 disease by infectious agent 1330 148 2.26 11.6 5.5e-26 1.6e-23 3.5 2.78 4.39
+DOID:417 hypersensitivity reaction type II disease 730 102 2.84 12 2.2e-24 4.2e-22 4.05 3.13 5.2
+DOID:0060056 hypersensitivity reaction disease 828 109 2.68 11.7 5.2e-24 7.4e-22 3.83 2.98 4.89
+DOID:104 bacterial infectious disease 250 50 4.07 11.2 2.7e-18 3e-16 5.49 3.86 7.7
+DOID:65 connective tissue disease 1050 114 2.21 9.66 3.7e-18 3.5e-16 3.03 2.37 3.85
+DOID:934 viral infectious disease 795 95 2.43 9.75 1.2e-17 9.7e-16 3.25 2.5 4.19
+DOID:77 gastrointestinal system disease 1039 109 2.14 9.01 3.8e-16 2.7e-14 2.86 2.23 3.64
+DOID:7148 rheumatoid arthritis 498 69 2.82 9.58 5.6e-16 3.5e-14 3.64 2.71 4.85
+DOID:17 musculoskeletal system disease 1239 120 1.97 8.56 3.2e-15 1.8e-13 2.65 2.09 3.36
+DOID:848 arthritis 649 79 2.48 8.98 5.3e-15 2.7e-13 3.18 2.41 4.17
+DOID:0050338 primary bacterial infectious disease 220 42 3.89 9.88 9.8e-15 4.3e-13 5.06 3.46 7.27
+DOID:0050161 lower respiratory tract disease 656 79 2.45 8.87 9.7e-15 4.3e-13 3.14 2.38 4.11
+DOID:3342 bone inflammation disease 686 81 2.4 8.8 1.3e-14 5.1e-13 3.08 2.34 4.03
+DOID:1579 respiratory system disease 691 81 2.39 8.72 1.9e-14 7.2e-13 3.05 2.32 3.99
+DOID:3213 demyelinating disease 310 50 3.28 9.34 2.7e-14 9.6e-13 4.18 2.96 5.82
+DOID:2377 multiple sclerosis 306 49 3.26 9.18 6.7e-14 2.3e-12 4.13 2.92 5.77
+DOID:1398 parasitic infectious disease 150 33 4.48 9.79 1.3e-13 3.9e-12 5.93 3.84 8.96
+DOID:2237 hepatitis 427 59 2.81 8.78 1.2e-13 3.9e-12 3.54 2.57 4.8
+DOID:8857 lupus erythematosus 370 54 2.97 8.85 1.6e-13 4.6e-12 3.74 2.68 5.13
+DOID:850 lung disease 435 58 2.71 8.39 9.7e-13 2.6e-11 3.38 2.45 4.59
+DOID:3118 hepatobiliary disease 637 73 2.33 8.02 1.7e-12 4.3e-11 2.91 2.18 3.84
+DOID:2320 obstructive lung disease 205 37 3.67 8.83 2.6e-12 6.2e-11 4.65 3.11 6.81
+DOID:3083 chronic obstructive pulmonary disease 205 37 3.67 8.83 2.6e-12 6.2e-11 4.65 3.11 6.81
+DOID:0080001 bone disease 833 86 2.1 7.7 3.8e-12 8.8e-11 2.64 2.02 3.42
+DOID:0050589 inflammatory bowel disease 295 45 3.1 8.39 4.6e-12 9.8e-11 3.86 2.69 5.44
+DOID:409 liver disease 609 70 2.34 7.86 4.6e-12 9.8e-11 2.9 2.17 3.84
+DOID:1883 hepatitis C 233 39 3.41 8.49 7.5e-12 1.5e-10 4.26 2.88 6.16
+DOID:2531 hematologic cancer 1344 118 1.79 7.29 8.1e-12 1.6e-10 2.31 1.82 2.93
+DOID:0060083 immune system cancer 1356 118 1.77 7.19 1.5e-11 2.8e-10 2.29 1.8 2.89
+DOID:612 primary immunodeficiency disease 198 35 3.6 8.43 2e-11 3.6e-10 4.51 2.98 6.67
+DOID:9074 systemic lupus erythematosus 299 44 2.99 8.01 2.8e-11 5e-10 3.68 2.56 5.2
+DOID:399 tuberculosis 147 29 4.01 8.4 7.4e-11 1.3e-09 5.1 3.22 7.85
+DOID:3388 periodontal disease 132 27 4.16 8.34 1.4e-10 2.4e-09 5.31 3.29 8.32
+DOID:178 vascular disease 1088 98 1.83 6.8 2.7e-10 4.4e-09 2.28 1.77 2.92
+DOID:11077 brucellosis 41 15 7.45 9.41 3.4e-10 5.4e-09 11.6 5.66 23
+DOID:2789 parasitic protozoa infectious disease 128 26 4.13 8.13 3.8e-10 5.8e-09 5.25 3.23 8.28
+DOID:5295 intestinal disease 350 46 2.67 7.31 4.8e-10 7.2e-09 3.22 2.26 4.52
+DOID:8778 Crohn's disease 182 31 3.47 7.66 7.8e-10 1.1e-08 4.27 2.75 6.43
+DOID:12365 malaria 97 22 4.62 8.15 9.8e-10 1.4e-08 5.99 3.5 9.9
+DOID:2043 hepatitis B 195 32 3.34 7.53 1.1e-09 1.5e-08 4.08 2.66 6.11
+DOID:824 periodontitis 117 24 4.17 7.87 1.5e-09 2e-08 5.29 3.18 8.5
+DOID:2349 arteriosclerosis 352 45 2.6 7.01 1.9e-09 2.5e-08 3.11 2.18 4.37
+DOID:1287 cardiovascular system disease 1292 108 1.7 6.34 2e-09 2.6e-08 2.12 1.65 2.69
+DOID:16 integumentary system disease 595 63 2.15 6.69 2.1e-09 2.7e-08 2.58 1.9 3.46
+DOID:1575 rheumatic disease 169 29 3.49 7.46 2.4e-09 2.8e-08 4.28 2.72 6.55
+DOID:419 scleroderma 169 29 3.49 7.46 2.4e-09 2.8e-08 4.28 2.72 6.55
+DOID:418 systemic scleroderma 169 29 3.49 7.46 2.4e-09 2.8e-08 4.28 2.72 6.55
+DOID:0070004 myeloid neoplasm 368 46 2.54 6.92 2.6e-09 3e-08 3.04 2.13 4.25
+DOID:883 parasitic helminthiasis infectious disease 34 13 7.78 9.01 2.8e-09 3.2e-08 12.4 5.65 26.2
+DOID:37 skin disease 571 61 2.17 6.65 2.8e-09 3.2e-08 2.6 1.91 3.49
+DOID:526 human immunodeficiency virus infectious disease 131 25 3.88 7.57 3.3e-09 3.6e-08 4.84 2.96 7.67
+DOID:4960 bone marrow cancer 376 46 2.49 6.75 5.1e-09 5.5e-08 2.96 2.08 4.14
+DOID:1091 tooth disease 154 27 3.57 7.33 5.3e-09 5.6e-08 4.38 2.73 6.79
+DOID:1176 bronchial disease 364 45 2.52 6.75 5.5e-09 5.7e-08 2.99 2.09 4.19
+DOID:1240 leukemia 1133 97 1.74 6.2 5.7e-09 5.8e-08 2.13 1.65 2.73
+DOID:1936 atherosclerosis 340 43 2.57 6.76 6.3e-09 6.3e-08 3.06 2.12 4.32
+DOID:2348 arteriosclerotic cardiovascular disease 341 43 2.57 6.74 6.8e-09 6.7e-08 3.05 2.12 4.31
+DOID:0050828 artery disease 931 84 1.84 6.23 7.6e-09 7.3e-08 2.22 1.69 2.88
+DOID:1909 melanoma 706 69 1.99 6.3 9.7e-09 9.2e-08 2.37 1.77 3.14
+DOID:854 collagen disease 181 29 3.26 7 1.2e-08 1.1e-07 3.94 2.51 6
+DOID:2473 opportunistic mycosis 38 13 6.96 8.38 1.4e-08 1.3e-07 10.4 4.84 21.4
+DOID:2841 asthma 355 43 2.47 6.44 2.3e-08 2.1e-07 2.9 2.02 4.1
+DOID:1289 neurodegenerative disease 925 82 1.8 5.97 2.8e-08 2.5e-07 2.16 1.65 2.81
+DOID:10952 nephritis 200 30 3.05 6.7 3.2e-08 2.8e-07 3.64 2.35 5.5
+DOID:0050136 systemic mycosis 41 13 6.45 7.96 3.9e-08 3.4e-07 9.29 4.38 18.7
+DOID:18 urinary system disease 494 52 2.14 5.99 8.3e-08 7.1e-07 2.5 1.8 3.43
+DOID:13564 aspergillosis 15 8 10.9 8.68 1.5e-07 1.2e-06 22.6 7.11 73.6
+DOID:3393 coronary artery disease 351 41 2.38 6.02 1.4e-07 1.2e-06 2.77 1.91 3.93
+DOID:557 kidney disease 476 50 2.14 5.84 1.6e-07 1.3e-06 2.49 1.78 3.43
+DOID:403 mouth disease 182 27 3.02 6.27 2e-07 1.6e-06 3.57 2.25 5.5
+DOID:331 central nervous system disease 1234 98 1.62 5.42 2.3e-07 1.8e-06 1.94 1.5 2.48
+DOID:0014667 disease of metabolism 1280 100 1.59 5.31 3.7e-07 2.9e-06 1.9 1.48 2.43
+DOID:2213 hemorrhagic disease 133 22 3.37 6.26 4.2e-07 3.2e-06 4.03 2.39 6.51
+DOID:1116 pertussis 35 11 6.4 7.27 5e-07 3.7e-06 9.12 4 19.5
+DOID:13241 Behcet's disease 75 16 4.34 6.61 4.9e-07 3.7e-06 5.45 2.9 9.73
+DOID:4248 coronary stenosis 17 8 9.58 8.05 5.2e-07 3.8e-06 17.6 5.86 51.6
+DOID:3082 interstitial lung disease 179 26 2.96 6.03 5.2e-07 3.8e-06 3.47 2.17 5.39
+DOID:9351 diabetes mellitus 818 71 1.77 5.3 7.1e-07 5.1e-06 2.06 1.54 2.71
+DOID:9119 acute myeloid leukemia 389 42 2.2 5.52 8.6e-07 6.2e-06 2.53 1.75 3.57
+DOID:8469 influenza 108 19 3.58 6.14 1e-06 7e-06 4.31 2.45 7.24
+DOID:0050013 carbohydrate metabolism disease 858 73 1.73 5.2 1e-06 7.1e-06 2.01 1.52 2.65
+DOID:4194 glucose metabolism disease 858 73 1.73 5.2 1e-06 7.1e-06 2.01 1.52 2.65
+DOID:1247 blood coagulation disease 164 24 2.98 5.83 1.3e-06 8.6e-06 3.49 2.13 5.5
+DOID:0060158 acquired metabolic disease 1078 86 1.62 5.06 1.4e-06 9.4e-06 1.9 1.46 2.46
+DOID:0060049 autoimmune disease of urogenital tract 64 14 4.45 6.31 1.9e-06 1.2e-05 5.6 2.83 10.4
+DOID:12236 primary biliary cirrhosis 64 14 4.45 6.31 1.9e-06 1.2e-05 5.6 2.83 10.4
+DOID:1564 fungal infectious disease 73 15 4.18 6.21 1.9e-06 1.2e-05 5.19 2.7 9.39
+DOID:2916 hypersensitivity reaction type IV disease 92 17 3.76 6.06 1.8e-06 1.2e-05 4.56 2.49 7.91
+DOID:0060180 colitis 204 27 2.69 5.58 2e-06 1.3e-05 3.12 1.97 4.78
+DOID:8577 ulcerative colitis 204 27 2.69 5.58 2e-06 1.3e-05 3.12 1.97 4.78
+DOID:6713 cerebrovascular disease 114 19 3.39 5.85 2.3e-06 1.4e-05 4.04 2.3 6.76
+DOID:9538 multiple myeloma 244 30 2.5 5.43 2.6e-06 1.6e-05 2.88 1.86 4.31
+DOID:8692 myeloid leukemia 525 50 1.94 5.08 3.2e-06 1.9e-05 2.21 1.58 3.04
+DOID:865 vasculitis 118 19 3.28 5.67 4e-06 2.4e-05 3.87 2.21 6.46
+DOID:8398 osteoarthritis 187 25 2.72 5.42 4.1e-06 2.4e-05 3.14 1.95 4.89
+DOID:0050339 commensal bacterial infectious disease 43 11 5.21 6.29 4.8e-06 2.8e-05 6.84 3.08 14.1
+DOID:5844 myocardial infarction 279 32 2.33 5.17 5.4e-06 3.2e-05 2.66 1.75 3.93
+DOID:9408 acute myocardial infarction 90 16 3.62 5.68 6.3e-06 3.6e-05 4.34 2.33 7.62
+DOID:3326 purpura 71 14 4.01 5.8 6.9e-06 3.9e-05 4.91 2.5 9.04
+DOID:12361 Graves' disease 75 14 3.8 5.54 1.3e-05 7.6e-05 4.59 2.34 8.4
+DOID:74 hematopoietic system disease 435 42 1.96 4.72 1.5e-05 8.6e-05 2.22 1.54 3.12
+DOID:2115 B cell deficiency 40 10 5.09 5.89 1.6e-05 9e-05 6.61 2.86 14
+DOID:4481 allergic rhinitis 98 16 3.32 5.26 1.9e-05 0.00011 3.91 2.11 6.83
+DOID:289 endometriosis 258 29 2.29 4.79 2.2e-05 0.00012 2.58 1.66 3.89
+DOID:2163 nasal cavity disease 100 16 3.26 5.17 2.5e-05 0.00013 3.82 2.06 6.66
+DOID:4483 rhinitis 100 16 3.26 5.17 2.5e-05 0.00013 3.82 2.06 6.66
+DOID:5082 liver cirrhosis 207 25 2.46 4.84 2.5e-05 0.00013 2.79 1.73 4.32
+DOID:1485 cystic fibrosis 135 19 2.86 4.97 2.9e-05 0.00015 3.3 1.89 5.47
+DOID:2987 familial Mediterranean fever 27 8 6.03 5.95 3.1e-05 0.00016 8.31 3.12 20.1
+DOID:2583 agammaglobulinemia 35 9 5.23 5.71 3.4e-05 0.00017 6.85 2.8 15.2
+DOID:0060005 autoimmune disease of endocrine system 81 14 3.52 5.18 3.3e-05 0.00017 4.17 2.14 7.59
+DOID:11335 sarcoidosis 81 14 3.52 5.18 3.3e-05 0.00017 4.17 2.14 7.59
+DOID:1749 squamous cell carcinoma 720 59 1.67 4.3 4.3e-05 0.00022 1.88 1.38 2.52
+DOID:3262 phagocyte bactericidal dysfunction 15 6 8.14 6.29 4.6e-05 0.00023 13.1 3.81 41.5
+DOID:3265 chronic granulomatous disease 15 6 8.14 6.29 4.6e-05 0.00023 13.1 3.81 41.5
+DOID:10591 pre-eclampsia 268 29 2.2 4.56 4.6e-05 0.00023 2.47 1.59 3.71
+DOID:2825 nose disease 106 16 3.07 4.89 5.3e-05 0.00025 3.56 1.93 6.18
+DOID:0050598 extrapulmonary tuberculosis 10 5 10.2 6.6 5.7e-05 0.00027 19.6 4.49 85.7
+DOID:106 pleural tuberculosis 10 5 10.2 6.6 5.7e-05 0.00027 19.6 4.49 85.7
+DOID:12205 dengue disease 22 7 6.48 5.85 5.8e-05 0.00027 9.19 3.15 24.2
+DOID:8805 intermediate coronary syndrome 22 7 6.48 5.85 5.8e-05 0.00027 9.19 3.15 24.2
+DOID:0060058 lymphoma 154 20 2.64 4.69 5.9e-05 0.00027 3 1.75 4.9
+DOID:2957 pulmonary tuberculosis 46 10 4.42 5.3 6e-05 0.00028 5.5 2.41 11.4
+DOID:0060031 autoimmune disease of gastrointestinal tract 108 16 3.02 4.8 6.6e-05 3e-04 3.48 1.89 6.04
+DOID:229 female reproductive system disease 333 33 2.02 4.32 8e-05 0.00036 2.25 1.49 3.29
+DOID:8893 psoriasis 209 24 2.34 4.46 8.2e-05 0.00037 2.62 1.61 4.1
+DOID:2942 bronchiolitis 39 9 4.7 5.26 8.6e-05 0.00038 5.93 2.46 12.9
+DOID:1205 allergic hypersensitivity disease 122 17 2.84 4.65 8.7e-05 0.00038 3.24 1.8 5.52
+DOID:974 upper respiratory tract disease 123 17 2.81 4.61 9.6e-05 0.00042 3.21 1.78 5.47
+DOID:1070 primary open angle glaucoma 49 10 4.15 5.04 0.00011 0.00046 5.08 2.24 10.5
+DOID:1067 open-angle glaucoma 59 11 3.79 4.9 0.00011 0.00048 4.55 2.11 8.98
+DOID:12894 Sjogren's syndrome 69 12 3.54 4.82 0.00011 0.00048 4.18 2.02 7.98
+DOID:10608 celiac disease 90 14 3.17 4.7 0.00011 0.00048 3.67 1.9 6.63
+DOID:3770 pulmonary fibrosis 113 16 2.88 4.58 0.00012 0.00048 3.3 1.79 5.71
+DOID:1037 lymphoblastic leukemia 413 38 1.87 4.16 0.00011 0.00048 2.08 1.42 2.97
+DOID:552 pneumonia 162 20 2.51 4.43 0.00012 5e-04 2.83 1.66 4.61
+DOID:1686 glaucoma 103 15 2.96 4.56 0.00014 0.00056 3.4 1.81 6
+DOID:3454 brain infarction 61 11 3.67 4.76 0.00016 0.00064 4.36 2.03 8.59
+DOID:1040 chronic lymphocytic leukemia 191 22 2.34 4.28 0.00016 0.00064 2.62 1.58 4.17
+DOID:4451 renal carcinoma 366 34 1.89 3.98 0.00022 9e-04 2.09 1.4 3.04
+DOID:6132 bronchitis 13 5 7.83 5.6 0.00026 0.001 12.2 3.13 42.7
+DOID:841 extrinsic allergic alveolitis 13 5 7.83 5.6 0.00026 0.001 12.2 3.13 42.7
+DOID:13608 biliary atresia 13 5 7.83 5.6 0.00026 0.001 12.2 3.13 42.7
+DOID:438 autoimmune disease of the nervous system 54 10 3.77 4.64 0.00025 0.001 4.5 2 9.17
+DOID:4450 renal cell carcinoma 324 31 1.95 3.97 0.00025 0.001 2.15 1.41 3.18
+DOID:13089 intracranial arterial disease 20 6 6.11 5.2 0.00029 0.0011 8.42 2.63 23.5
+DOID:3527 cerebral arterial disease 20 6 6.11 5.2 0.00029 0.0011 8.42 2.63 23.5
+DOID:3526 cerebral infarction 55 10 3.7 4.57 0.00029 0.0011 4.4 1.96 8.95
+DOID:1123 spondyloarthropathy 76 12 3.21 4.41 0.00029 0.0011 3.72 1.81 7.05
+DOID:576 proteinuria 66 11 3.39 4.44 0.00032 0.0012 3.96 1.85 7.75
+DOID:863 nervous system disease 1770 115 1.32 3.57 0.00032 0.0012 1.52 1.19 1.92
+DOID:12206 dengue hemorrhagic fever 14 5 7.27 5.34 0.00039 0.0014 10.9 2.85 36.4
+DOID:12177 common variable immunodeficiency 29 7 4.91 4.8 4e-04 0.0014 6.26 2.24 15.3
+DOID:1588 thrombocytopenia 47 9 3.9 4.53 0.00039 0.0014 4.68 1.97 9.95
+DOID:7147 ankylosing spondylitis 67 11 3.34 4.38 0.00037 0.0014 3.89 1.82 7.6
+DOID:6590 spondylitis 67 11 3.34 4.38 0.00037 0.0014 3.89 1.82 7.6
+DOID:6000 congestive heart failure 217 23 2.16 3.94 0.00038 0.0014 2.39 1.46 3.75
+DOID:9970 obesity 348 32 1.87 3.79 0.00041 0.0014 2.06 1.36 3.03
+DOID:655 inherited metabolic disorder 363 33 1.85 3.78 0.00041 0.0014 2.03 1.35 2.97
+DOID:9256 colorectal cancer 811 61 1.53 3.65 0.00037 0.0014 1.7 1.25 2.27
+DOID:5672 large intestine cancer 812 61 1.53 3.64 0.00038 0.0014 1.69 1.25 2.27
+DOID:10652 Alzheimer's disease 395 35 1.8 3.74 0.00044 0.0015 1.98 1.33 2.87
+DOID:4079 heart valve disease 48 9 3.82 4.45 0.00046 0.0016 4.56 1.92 9.66
+DOID:381 arthropathy 91 13 2.91 4.16 0.00046 0.0016 3.31 1.67 6.08
+DOID:50 thyroid gland disease 103 14 2.77 4.1 0.00047 0.0016 3.13 1.63 5.61
+DOID:640 encephalomyelitis 22 6 5.55 4.86 0.00051 0.0017 7.36 2.34 20
+DOID:680 tauopathy 398 35 1.79 3.69 0.00051 0.0017 1.96 1.32 2.84
+DOID:10155 intestinal cancer 820 61 1.51 3.56 0.00049 0.0017 1.67 1.24 2.24
+DOID:654 overnutrition 354 32 1.84 3.69 0.00055 0.0019 2.02 1.33 2.97
+DOID:9588 encephalitis 50 9 3.66 4.3 0.00063 0.0021 4.33 1.84 9.15
+DOID:4195 hyperglycemia 131 16 2.49 3.9 0.00064 0.0021 2.77 1.52 4.77
+DOID:1724 duodenal ulcer 23 6 5.31 4.71 0.00067 0.0022 6.93 2.22 18.6
+DOID:13189 gout 23 6 5.31 4.71 0.00067 0.0022 6.93 2.22 18.6
+DOID:28 endocrine system disease 358 32 1.82 3.62 0.00067 0.0022 1.99 1.32 2.93
+DOID:11729 Lyme disease 16 5 6.36 4.88 0.00078 0.0025 8.9 2.41 28
+DOID:10941 intracranial aneurysm 16 5 6.36 4.88 0.00078 0.0025 8.9 2.41 28
+DOID:75 lymphatic system disease 108 14 2.64 3.9 0.00077 0.0025 2.96 1.54 5.29
+DOID:9279 hyperhomocysteinemia 24 6 5.09 4.56 0.00085 0.0027 6.54 2.11 17.3
+DOID:4535 hypotrichosis 52 9 3.52 4.15 0.00085 0.0027 4.13 1.76 8.68
+DOID:7166 thyroiditis 52 9 3.52 4.15 0.00085 0.0027 4.13 1.76 8.68
+DOID:8574 lichen disease 63 10 3.23 4.04 9e-04 0.0028 3.73 1.68 7.49
+DOID:9201 lichen planus 63 10 3.23 4.04 9e-04 0.0028 3.73 1.68 7.49
+DOID:1080 filariasis 10 4 8.14 5.14 0.00095 0.0029 13 2.69 55.2
+DOID:374 nutrition disease 366 32 1.78 3.48 0.00098 0.003 1.94 1.28 2.85
+DOID:0060033 autoimmune disease of peripheral nervous system 17 5 5.99 4.68 0.0011 0.0032 8.16 2.24 25.1
+DOID:12842 Guillain-Barre syndrome 17 5 5.99 4.68 0.0011 0.0032 8.16 2.24 25.1
+DOID:14069 cerebral malaria 25 6 4.88 4.42 0.0011 0.0033 6.2 2.01 16.3
+DOID:2452 thrombophilia 34 7 4.19 4.24 0.0011 0.0033 5.1 1.86 12.1
+DOID:10223 dermatomyositis 34 7 4.19 4.24 0.0011 0.0033 5.1 1.86 12.1
+DOID:1555 urticaria 44 8 3.7 4.08 0.0012 0.0035 4.38 1.74 9.67
+DOID:2723 dermatitis 222 22 2.02 3.5 0.0013 0.0038 2.21 1.33 3.49
+DOID:0060039 autoimmune disease of skin and connective tissue 35 7 4.07 4.14 0.0013 0.0039 4.92 1.8 11.6
+DOID:114 heart disease 517 41 1.61 3.3 0.0014 0.004 1.76 1.22 2.48
+DOID:3119 gastrointestinal system cancer 1536 99 1.31 3.14 0.0014 0.004 1.47 1.14 1.88
+DOID:8677 perinatal necrotizing enterocolitis 11 4 7.4 4.83 0.0014 0.0041 11.2 2.39 44.2
+DOID:1586 rheumatic fever 11 4 7.4 4.83 0.0014 0.0041 11.2 2.39 44.2
+DOID:11396 pulmonary edema 11 4 7.4 4.83 0.0014 0.0041 11.2 2.39 44.2
+DOID:4989 pancreatitis 115 14 2.48 3.63 0.0014 0.0041 2.75 1.44 4.9
+DOID:421 hair disease 56 9 3.27 3.88 0.0015 0.0042 3.78 1.61 7.88
+DOID:633 myositis 79 11 2.83 3.73 0.0015 0.0043 3.2 1.51 6.17
+DOID:3211 lysosomal storage disease 142 16 2.29 3.54 0.0015 0.0043 2.53 1.39 4.33
+DOID:10763 hypertension 569 44 1.57 3.25 0.0015 0.0043 1.71 1.2 2.39
+DOID:3480 uveal disease 46 8 3.54 3.93 0.0016 0.0044 4.15 1.66 9.12
+DOID:263 kidney cancer 424 35 1.68 3.28 0.0016 0.0044 1.82 1.23 2.64
+DOID:76 stomach disease 80 11 2.8 3.68 0.0017 0.0047 3.15 1.49 6.07
+DOID:1307 dementia 144 16 2.26 3.48 0.0018 0.0049 2.49 1.36 4.26
+DOID:26 pancreas disease 173 18 2.12 3.38 0.002 0.0055 2.32 1.32 3.84
+DOID:12798 mucopolysaccharidosis 12 4 6.78 4.56 0.0021 0.0056 9.77 2.14 36.7
+DOID:6196 reactive arthritis 12 4 6.78 4.56 0.0021 0.0056 9.77 2.14 36.7
+DOID:4138 bile duct disease 83 11 2.7 3.54 0.0023 0.0062 3.02 1.43 5.8
+DOID:10113 trypanosomiasis 20 5 5.09 4.16 0.0023 0.0063 6.53 1.84 19
+DOID:1927 sphingolipidosis 29 6 4.21 3.94 0.0024 0.0065 5.12 1.69 13
+DOID:1712 aortic valve stenosis 29 6 4.21 3.94 0.0024 0.0065 5.12 1.69 13
+DOID:4798 aggressive systemic mastocytosis 29 6 4.21 3.94 0.0024 0.0065 5.12 1.69 13
+DOID:8506 bullous pemphigoid 29 6 4.21 3.94 0.0024 0.0065 5.12 1.69 13
+DOID:9500 leukocyte disease 96 12 2.54 3.46 0.0025 0.0065 2.83 1.39 5.27
+DOID:9741 biliary tract disease 84 11 2.67 3.49 0.0025 0.0067 2.98 1.41 5.72
+DOID:2218 blood platelet disease 73 10 2.79 3.49 0.0028 0.0073 3.13 1.42 6.22
+DOID:127 leiomyoma 85 11 2.63 3.44 0.0028 0.0073 2.94 1.39 5.64
+DOID:12571 phacogenic glaucoma 13 4 6.26 4.32 0.0029 0.0074 8.68 1.94 31.3
+DOID:13641 exfoliation syndrome 13 4 6.26 4.32 0.0029 0.0074 8.68 1.94 31.3
+DOID:437 myasthenia gravis 40 7 3.56 3.69 0.003 0.0076 4.17 1.54 9.67
+DOID:1074 kidney failure 138 15 2.21 3.27 0.0031 0.0078 2.42 1.3 4.21
+DOID:15 reproductive system disease 490 38 1.58 3.02 0.0031 0.0078 1.7 1.17 2.43
+DOID:0060100 musculoskeletal system cancer 427 34 1.62 3.01 0.0033 0.0084 1.75 1.17 2.54
+DOID:635 acquired immunodeficiency syndrome 63 9 2.91 3.46 0.0034 0.0085 3.28 1.41 6.78
+DOID:0080005 bone remodeling disease 126 14 2.26 3.25 0.0034 0.0085 2.48 1.3 4.39
+DOID:439 neuromuscular junction disease 41 7 3.47 3.61 0.0034 0.0086 4.04 1.5 9.36
+DOID:0060060 non-Hodgkin lymphoma 100 12 2.44 3.3 0.0035 0.0086 2.7 1.33 5.02
+DOID:9252 amino acid metabolic disorder 52 8 3.13 3.51 0.0035 0.0087 3.58 1.44 7.76
+DOID:9098 sebaceous gland disease 22 5 4.63 3.87 0.0037 0.009 5.76 1.65 16.4
+DOID:6543 acne 22 5 4.63 3.87 0.0037 0.009 5.76 1.65 16.4
+DOID:1168 familial hyperlipidemia 76 10 2.68 3.34 0.0038 0.0093 2.99 1.36 5.92
+DOID:1395 schistosomiasis 14 4 5.81 4.1 0.0039 0.0094 7.82 1.78 27.2
+DOID:2917 cryoglobulinemia 14 4 5.81 4.1 0.0039 0.0094 7.82 1.78 27.2
+DOID:1793 pancreatic cancer 228 21 1.87 3.05 0.0039 0.0094 2.03 1.21 3.23
+DOID:4905 pancreatic carcinoma 228 21 1.87 3.05 0.0039 0.0094 2.03 1.21 3.23
+DOID:170 endocrine gland cancer 399 32 1.63 2.96 0.0039 0.0094 1.76 1.16 2.58
+DOID:2921 glomerulonephritis 142 15 2.15 3.15 0.004 0.0095 2.34 1.26 4.07
+DOID:3070 malignant glioma 432 34 1.6 2.93 0.004 0.0095 1.72 1.16 2.5
+DOID:8622 measles 32 6 3.82 3.63 0.0041 0.0097 4.53 1.51 11.3
+DOID:2462 retinal vascular disease 77 10 2.64 3.3 0.0042 0.0098 2.94 1.34 5.82
+DOID:8947 diabetic retinopathy 77 10 2.64 3.3 0.0042 0.0098 2.94 1.34 5.82
+DOID:0080011 bone resorption disease 90 11 2.49 3.23 0.0044 0.01 2.75 1.31 5.26
+DOID:11476 osteoporosis 90 11 2.49 3.23 0.0044 0.01 2.75 1.31 5.26
+DOID:10316 pneumoconiosis 33 6 3.7 3.53 0.0048 0.011 4.36 1.46 10.9
+DOID:2986 IgA glomerulonephritis 78 10 2.61 3.25 0.0046 0.011 2.9 1.32 5.73
+DOID:61 mitral valve disease 15 4 5.43 3.9 0.0051 0.012 7.1 1.64 24.1
+DOID:272 hepatic vascular disease 24 5 4.24 3.61 0.0055 0.012 5.15 1.49 14.4
+DOID:1115 sarcoma 190 18 1.93 2.95 0.0055 0.012 2.08 1.19 3.44
+DOID:3996 urinary system cancer 455 35 1.57 2.84 0.0051 0.012 1.68 1.13 2.43
+DOID:62 aortic valve disease 34 6 3.59 3.44 0.0056 0.013 4.2 1.41 10.4
+DOID:4251 conjunctival disease 34 6 3.59 3.44 0.0056 0.013 4.2 1.41 10.4
+DOID:987 alopecia 45 7 3.17 3.31 0.0059 0.013 3.62 1.35 8.28
+DOID:4029 gastritis 68 9 2.69 3.19 0.0057 0.013 3 1.3 6.17
+DOID:3069 astrocytoma 393 31 1.61 2.81 0.0057 0.013 1.72 1.13 2.54
+DOID:986 alopecia areata 25 5 4.07 3.5 0.0065 0.014 4.89 1.43 13.5
+DOID:13207 proliferative diabetic retinopathy 35 6 3.49 3.36 0.0065 0.014 4.06 1.37 10
+DOID:0050743 mature T-cell and NK-cell lymphoma 58 8 2.81 3.14 0.007 0.015 3.15 1.28 6.76
+DOID:0050749 peripheral T-cell lymphoma 58 8 2.81 3.14 0.007 0.015 3.15 1.28 6.76
+DOID:0060061 cutaneous T cell lymphoma 58 8 2.81 3.14 0.007 0.015 3.15 1.28 6.76
+DOID:6364 migraine 70 9 2.62 3.09 0.0069 0.015 2.9 1.26 5.95
+DOID:615 leukopenia 47 7 3.03 3.18 0.0075 0.016 3.44 1.29 7.83
+DOID:0080000 muscular disease 288 24 1.7 2.74 0.0075 0.016 1.82 1.13 2.81
+DOID:686 liver carcinoma 882 59 1.36 2.61 0.0073 0.016 1.47 1.08 1.97
+DOID:684 hepatocellular carcinoma 882 59 1.36 2.61 0.0073 0.016 1.47 1.08 1.97
+DOID:3571 liver cancer 883 59 1.36 2.6 0.0075 0.016 1.47 1.08 1.97
+DOID:1532 pleural disease 17 4 4.79 3.56 0.0082 0.017 6.01 1.42 19.6
+DOID:10762 portal hypertension 17 4 4.79 3.56 0.0082 0.017 6.01 1.42 19.6
+DOID:240 iris disease 17 4 4.79 3.56 0.0082 0.017 6.01 1.42 19.6
+DOID:9471 meningitis 26 5 3.91 3.38 0.0078 0.017 4.66 1.36 12.8
+DOID:2797 idiopathic interstitial pneumonia 111 12 2.2 2.9 0.008 0.017 2.39 1.18 4.43
+DOID:332 amyotrophic lateral sclerosis 153 15 2 2.83 0.008 0.017 2.15 1.16 3.73
+DOID:66 muscle tissue disease 275 23 1.7 2.7 0.0084 0.017 1.82 1.12 2.84
+DOID:423 myopathy 275 23 1.7 2.7 0.0084 0.017 1.82 1.12 2.84
+DOID:13580 cholestasis 60 8 2.71 3.03 0.0086 0.018 3.02 1.23 6.48
+DOID:936 brain disease 438 33 1.53 2.62 0.0087 0.018 1.64 1.09 2.39
+DOID:2352 hemochromatosis 27 5 3.77 3.28 0.0092 0.019 4.45 1.31 12.1
+DOID:2913 acute pancreatitis 49 7 2.91 3.05 0.0094 0.019 3.27 1.23 7.42
+DOID:349 systemic mastocytosis 38 6 3.21 3.11 0.0098 0.02 3.67 1.25 8.99
+DOID:11260 rabies 10 3 6.11 3.67 0.011 0.022 8.35 1.39 36.8
+DOID:5200 urinary tract obstruction 10 3 6.11 3.67 0.011 0.022 8.35 1.39 36.8
+DOID:3146 lipid metabolism disorder 88 10 2.31 2.82 0.011 0.022 2.52 1.15 4.95
+DOID:2355 anemia 234 20 1.74 2.62 0.011 0.022 1.86 1.1 2.99
+DOID:3310 atopic dermatitis 145 14 1.96 2.67 0.012 0.023 2.11 1.11 3.72
+DOID:12140 Chagas disease 19 4 4.28 3.26 0.012 0.025 5.21 1.25 16.5
+DOID:1024 leprosy 40 6 3.05 2.96 0.013 0.025 3.46 1.18 8.41
+DOID:1036 chronic leukemia 222 19 1.74 2.55 0.013 0.025 1.86 1.08 3.03
+DOID:225 syndrome 1726 103 1.21 2.33 0.013 0.025 1.33 1.03 1.69
+DOID:0050156 idiopathic pulmonary fibrosis 65 8 2.5 2.77 0.014 0.027 2.76 1.13 5.87
+DOID:8283 peritonitis 20 4 4.07 3.13 0.015 0.029 4.88 1.18 15.2
+DOID:14067 Plasmodium falciparum malaria 20 4 4.07 3.13 0.015 0.029 4.88 1.18 15.2
+DOID:9261 nasopharynx carcinoma 195 17 1.77 2.49 0.015 0.029 1.89 1.06 3.16
+DOID:0050737 autosomal recessive disease 323 25 1.58 2.41 0.016 0.03 1.67 1.05 2.56
+DOID:345 uterine disease 31 5 3.28 2.9 0.016 0.032 3.76 1.12 10
+DOID:9455 lipid storage disease 122 12 2 2.54 0.016 0.032 2.15 1.07 3.96
+DOID:201 connective tissue cancer 358 27 1.53 2.36 0.017 0.032 1.63 1.04 2.46
+DOID:7693 abdominal aortic aneurysm 43 6 2.84 2.75 0.018 0.033 3.18 1.09 7.66
+DOID:2007 degeneration of macula and posterior pole 68 8 2.39 2.63 0.018 0.033 2.62 1.07 5.55
+DOID:10871 age related macular degeneration 68 8 2.39 2.63 0.018 0.033 2.62 1.07 5.55
+DOID:231 motor neuron disease 183 16 1.78 2.43 0.018 0.033 1.9 1.05 3.22
+DOID:5614 eye disease 531 37 1.42 2.28 0.018 0.034 1.5 1.03 2.15
+DOID:1003 pelvic inflammatory disease 12 3 5.09 3.22 0.019 0.035 6.49 1.13 26.2
+DOID:525 central nervous system vasculitis 32 5 3.18 2.81 0.019 0.035 3.62 1.08 9.62
+DOID:13375 temporal arteritis 32 5 3.18 2.81 0.019 0.035 3.62 1.08 9.62
+DOID:3355 fibrosarcoma 32 5 3.18 2.81 0.019 0.035 3.62 1.08 9.62
+DOID:230 lateral sclerosis 110 11 2.04 2.49 0.019 0.035 2.19 1.05 4.14
+DOID:1459 hypothyroidism 44 6 2.78 2.69 0.02 0.036 3.09 1.06 7.44
+DOID:350 mastocytosis 44 6 2.78 2.69 0.02 0.036 3.09 1.06 7.44
+DOID:10603 glucose intolerance 44 6 2.78 2.69 0.02 0.036 3.09 1.06 7.44
+DOID:3008 invasive ductal carcinoma 125 12 1.95 2.45 0.019 0.036 2.09 1.04 3.85
+DOID:0060119 pharynx cancer 201 17 1.72 2.36 0.02 0.036 1.83 1.03 3.06
+DOID:631 fibromyalgia 22 4 3.7 2.88 0.021 0.038 4.34 1.06 13.3
+DOID:12987 agranulocytosis 33 5 3.08 2.73 0.021 0.038 3.49 1.05 9.23
+DOID:1227 neutropenia 33 5 3.08 2.73 0.021 0.038 3.49 1.05 9.23
+DOID:1483 gingival disease 33 5 3.08 2.73 0.021 0.038 3.49 1.05 9.23
+DOID:1492 eye and adnexa disease 537 37 1.4 2.21 0.021 0.038 1.48 1.01 2.12
+DOID:4074 pancreatic adenocarcinoma 157 14 1.81 2.35 0.022 0.039 1.93 1.02 3.4
+DOID:3908 non-small cell lung carcinoma 417 30 1.46 2.22 0.022 0.039 1.55 1.01 2.29
+DOID:9942 lymph node disease 58 7 2.46 2.53 0.023 0.04 2.69 1.02 6.01
+DOID:1602 lymphadenitis 58 7 2.46 2.53 0.023 0.04 2.69 1.02 6.01
+DOID:10124 corneal disease 71 8 2.29 2.49 0.022 0.04 2.49 1.02 5.27
+DOID:2773 contact dermatitis 13 3 4.7 3.03 0.023 0.041 5.84 1.03 22.8
+DOID:9744 type 1 diabetes mellitus 13 3 4.7 3.03 0.023 0.041 5.84 1.03 22.8
+DOID:2378 relapsing-remitting multiple sclerosis 13 3 4.7 3.03 0.023 0.041 5.84 1.03 22.8
+DOID:13250 diarrhea 34 5 2.99 2.65 0.024 0.042 3.37 1.01 8.88
+DOID:3405 histiocytosis 34 5 2.99 2.65 0.024 0.042 3.37 1.01 8.88
+DOID:8725 vascular dementia 34 5 2.99 2.65 0.024 0.042 3.37 1.01 8.88
+DOID:628 combined T cell and B cell immunodeficiency 59 7 2.41 2.48 0.025 0.042 2.64 1 5.89
+DOID:4448 macular degeneration 72 8 2.26 2.45 0.024 0.042 2.45 1.01 5.18
+DOID:299 adenocarcinoma 755 49 1.32 2.12 0.024 0.042 1.4 1 1.92
+DOID:0050615 respiratory system cancer 509 35 1.4 2.13 0.026 0.044 1.48 0.998 2.13
+DOID:9007 sudden infant death syndrome 47 6 2.6 2.5 0.026 0.045 2.86 0.987 6.85
+DOID:715 T-cell leukemia 60 7 2.37 2.43 0.027 0.046 2.59 0.985 5.77
+DOID:121 vaginal disease 14 3 4.36 2.86 0.029 0.048 5.31 0.947 20.2
+DOID:2170 vaginitis 14 3 4.36 2.86 0.029 0.048 5.31 0.947 20.2
+DOID:9563 bronchiectasis 14 3 4.36 2.86 0.029 0.048 5.31 0.947 20.2
+DOID:3385 bacterial vaginosis 14 3 4.36 2.86 0.029 0.048 5.31 0.947 20.2
+DOID:9120 amyloidosis 48 6 2.54 2.44 0.029 0.049 2.8 0.964 6.67
+DOID:3905 lung carcinoma 479 33 1.4 2.07 0.029 0.049 1.48 0.987 2.15
+DOID:1324 lung cancer 480 33 1.4 2.06 0.03 0.05 1.47 0.984 2.15

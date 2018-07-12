@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:1310	cor	10	Rab27a-Mlph-Myo5a complex	1	RAB27A
+2	1	TRUE	0.0245	3	7	1	0.143	0.333	CORUM:1595	cor	3	Cdk5-c-Abl-Cables complex	1	CABLES1
+3	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:109	cor	12	Fertilin complex (Adam1b, Adam2)	1	ADAM2
+4	1	TRUE	0.0196	1	7	1	0.143	1	CORUM:2022	cor	7	Stat5a-Jak2 complex	1	STAT5A
+5	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:2427	cor	4	Itga4-Itgb1-Adam2 complex	1	ADAM2
+6	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:3741	cor	9	Slp5-Rab27A complex	1	RAB27A
+7	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:966	cor	13	Rab27a-Mlph-Myo5a complex	1	RAB27A
+8	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:3116	cor	2	Rab27a-Mlph-Myo5a complex	1	RAB27A
+9	1	TRUE	0.0196	1	7	1	0.143	1	CORUM:427	cor	11	Tripeptidyl peptidase	1	TPP2
+10	1	TRUE	0.0245	3	7	1	0.143	0.333	CORUM:2360	cor	5	Itgav-Itgb3-Gsn complex	1	ITGB3
+11	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:3114	cor	8	Itgax-Itgb2-Icam4 complex	1	ICAM4
+12	1	TRUE	0.0196	2	7	1	0.143	0.5	CORUM:3068	cor	6	Fertilin complex (Adam1a, Adam2)	1	ADAM2

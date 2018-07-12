@@ -1,0 +1,18 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-72187 mRNA 3'-end processing 58 11 4.51 5.62 2.4e-05 0.0043 5.45 2.53 10.8
+R-HSA-72163 mRNA Splicing - Major Pathway 183 21 2.73 4.95 2.7e-05 0.0043 3.06 1.82 4.89
+R-HSA-72203 Processing of Capped Intron-Containing Pre-mRNA 243 25 2.45 4.78 3.1e-05 0.0043 2.71 1.7 4.18
+R-HSA-109688 Cleavage of Growing Transcript in the Termination Region  67 11 3.9 5 9.8e-05 0.005 4.57 2.14 8.89
+R-HSA-1650814 Collagen biosynthesis and modifying enzymes 67 11 3.9 5 9.8e-05 0.005 4.57 2.14 8.89
+R-HSA-73856 RNA Polymerase II Transcription Termination 67 11 3.9 5 9.8e-05 0.005 4.57 2.14 8.89
+R-HSA-72172 mRNA Splicing 191 21 2.61 4.72 5.1e-05 0.005 2.91 1.74 4.65
+R-HSA-8953854 Metabolism of RNA 646 48 1.77 4.22 7.4e-05 0.005 1.94 1.39 2.65
+R-HSA-381119 Unfolded Protein Response (UPR) 93 13 3.32 4.72 0.00013 0.0059 3.79 1.92 6.92
+R-HSA-1474290 Collagen formation 90 12 3.17 4.33 0.00036 0.015 3.58 1.76 6.68
+R-HSA-8948216 Collagen chain trimerization 44 8 4.32 4.63 0.00043 0.016 5.14 2.05 11.3
+R-HSA-901042 Calnexin/calreticulin cycle 26 6 5.49 4.8 6e-04 0.019 6.92 2.26 18
+R-HSA-381038 XBP1(S) activates chaperone genes 57 9 3.76 4.37 0.00056 0.019 4.34 1.86 9.03
+R-HSA-381070 IRE1alpha activates chaperones 59 9 3.63 4.24 0.00073 0.021 4.17 1.79 8.64
+R-HSA-3000178 ECM proteoglycans 50 8 3.81 4.17 0.001 0.028 4.4 1.77 9.57
+R-HSA-2022870 Chondroitin sulfate biosynthesis 20 5 5.95 4.64 0.0012 0.03 7.67 2.17 22.3
+R-HSA-216083 Integrin cell surface interactions 81 10 2.94 3.67 0.002 0.049 3.26 1.49 6.42

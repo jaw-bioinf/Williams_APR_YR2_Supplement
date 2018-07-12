@@ -1,0 +1,80 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001321	Cerebellar hypoplasia	174	18	2.93	4.99	2.8e-05	0.018	3.51	1.95	6.01
+HP:0001305	Dandy-Walker malformation	96	12	3.54	4.83	0.00011	0.018	4.21	2.03	8.04
+HP:0002126	Polymicrogyria	97	12	3.5	4.78	0.00012	0.018	4.16	2.01	7.93
+HP:0030724	Central nervous system cyst	153	16	2.96	4.74	7.1e-05	0.018	3.51	1.89	6.17
+HP:0010576	Intracranial cystic lesion	153	16	2.96	4.74	7.1e-05	0.018	3.51	1.89	6.17
+HP:0005445	Widened posterior fossa	98	12	3.47	4.74	0.00014	0.018	4.11	1.98	7.84
+HP:0000565	Esotropia	99	12	3.43	4.7	0.00015	0.018	4.06	1.96	7.74
+HP:0010993	Abnormality of the cerebral subcortex	589	40	1.92	4.7	1.2e-05	0.018	2.46	1.63	3.67
+HP:0010950	Abnormality of the fourth ventricle	102	12	3.33	4.57	2e-04	0.018	3.92	1.9	7.46
+HP:0002198	Dilated fourth ventricle	102	12	3.33	4.57	2e-04	0.018	3.92	1.9	7.46
+HP:0002536	Abnormal cortical gyration	194	18	2.63	4.46	0.00012	0.018	3.1	1.73	5.28
+HP:0002269	Abnormality of neuronal migration	279	23	2.33	4.44	8.1e-05	0.018	2.78	1.66	4.5
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	33	1.89	4.07	0.00014	0.018	2.29	1.47	3.5
+HP:0001637	Abnormality of the myocardium	418	29	1.96	4.02	2e-04	0.018	2.35	1.47	3.65
+HP:0001273	Abnormality of the corpus callosum	503	33	1.86	3.97	0.00019	0.018	2.25	1.44	3.43
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	897	50	1.58	3.84	0.00017	0.018	2.03	1.37	2.96
+HP:0001627	Abnormal heart morphology	955	52	1.54	3.75	0.00022	0.019	1.99	1.35	2.9
+HP:0007362	Aplasia/Hypoplasia of the brainstem	78	10	3.63	4.49	0.00034	0.02	4.28	1.91	8.64
+HP:0002365	Hypoplasia of the brainstem	78	10	3.63	4.49	0.00034	0.02	4.28	1.91	8.64
+HP:0002350	Cerebellar cyst	123	13	2.99	4.3	0.00032	0.02	3.49	1.74	6.46
+HP:0002538	Abnormality of the cerebral cortex	211	18	2.41	4.06	0.00035	0.02	2.81	1.57	4.77
+HP:0000309	Abnormality of the midface	492	32	1.84	3.85	0.00029	0.02	2.21	1.41	3.39
+HP:0002500	Abnormality of the cerebral white matter	538	34	1.79	3.8	0.00031	0.02	2.16	1.39	3.28
+HP:0002060	Abnormality of the cerebrum	1167	60	1.46	3.64	0.00027	0.02	1.93	1.32	2.81
+HP:0100547	Abnormality of forebrain morphology	1170	60	1.45	3.62	0.00029	0.02	1.92	1.32	2.8
+HP:0000568	Microphthalmia	195	17	2.47	4.04	4e-04	0.022	2.86	1.57	4.93
+HP:0001638	Cardiomyopathy	394	27	1.94	3.79	0.00042	0.022	2.29	1.42	3.59
+HP:0010864	Intellectual disability, severe	198	17	2.43	3.96	0.00048	0.024	2.81	1.55	4.84
+HP:0001252	Muscular hypotonia	1058	55	1.47	3.51	0.00046	0.024	1.89	1.29	2.76
+HP:0006887	Intellectual disability, progressive	100	11	3.11	4.1	0.00067	0.031	3.6	1.69	7.01
+HP:0011804	Abnormality of muscle physiology	1558	73	1.33	3.3	0.00068	0.031	1.83	1.25	2.69
+HP:0004935	Pulmonary artery atresia	13	4	8.71	5.33	0.00083	0.033	12.5	2.77	45.5
+HP:0000612	Iris coloboma	171	15	2.48	3.8	0.00084	0.033	2.85	1.51	5.05
+HP:0002334	Abnormality of the cerebellar vermis	209	17	2.3	3.72	9e-04	0.033	2.64	1.45	4.54
+HP:0007360	Aplasia/Hypoplasia of the cerebellum	307	22	2.03	3.61	0.00087	0.033	2.35	1.39	3.82
+HP:0030680	Abnormality of cardiovascular system morphology	1052	54	1.45	3.36	0.00077	0.033	1.85	1.26	2.69
+HP:0012374	Abnormality of the globe	1652	76	1.3	3.23	0.00084	0.033	1.82	1.24	2.68
+HP:0003011	Abnormality of the musculature	1823	82	1.27	3.22	8e-04	0.033	1.84	1.25	2.76
+HP:0012372	Abnormal eye morphology	1655	76	1.3	3.21	9e-04	0.033	1.81	1.24	2.67
+HP:0000932	Abnormality of the posterior cranial fossa	121	12	2.81	3.87	0.00098	0.034	3.22	1.57	6.08
+HP:0000482	Microcornea	138	13	2.67	3.82	0.00098	0.034	3.05	1.53	5.63
+HP:0001508	Failure to thrive	574	34	1.68	3.39	0.001	0.035	1.99	1.29	3.02
+HP:0002363	Abnormality of brainstem morphology	107	11	2.91	3.84	0.0012	0.038	3.33	1.57	6.46
+HP:0001319	Neonatal hypotonia	142	13	2.59	3.7	0.0013	0.038	2.96	1.49	5.44
+HP:0001320	Cerebellar vermis hypoplasia	160	14	2.48	3.66	0.0013	0.038	2.82	1.46	5.09
+HP:0100887	Abnormality of globe size	216	17	2.23	3.56	0.0013	0.038	2.54	1.4	4.37
+HP:0100886	Abnormality of globe location	744	41	1.56	3.29	0.0012	0.038	1.88	1.25	2.8
+HP:0001263	Global developmental delay	946	49	1.47	3.21	0.0013	0.038	1.81	1.23	2.66
+HP:0009121	Abnormal axial skeleton morphology	1638	75	1.3	3.14	0.0011	0.038	1.78	1.22	2.63
+HP:0011821	Abnormality of facial skeleton	874	46	1.49	3.2	0.0014	0.04	1.82	1.23	2.68
+HP:0001317	Abnormality of the cerebellum	874	46	1.49	3.2	0.0014	0.04	1.82	1.23	2.68
+HP:0001639	Hypertrophic cardiomyopathy	279	20	2.03	3.43	0.0015	0.041	2.32	1.34	3.85
+HP:0000929	Abnormality of the skull	1400	66	1.33	3.09	0.0015	0.041	1.75	1.2	2.55
+HP:0010451	Aplasia/Hypoplasia of the spleen	65	8	3.48	3.87	0.0018	0.043	4.02	1.62	8.74
+HP:0001339	Lissencephaly	65	8	3.48	3.87	0.0018	0.043	4.02	1.62	8.74
+HP:0000154	Wide mouth	129	12	2.63	3.62	0.0017	0.043	2.99	1.46	5.64
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	54	1.41	3.1	0.0017	0.043	1.76	1.2	2.57
+HP:0003808	Abnormal muscle tone	1269	61	1.36	3.08	0.0017	0.043	1.75	1.2	2.54
+HP:0012443	Abnormality of brain morphology	1687	76	1.28	3	0.0018	0.043	1.74	1.19	2.58
+HP:0005989	Redundant neck skin	16	4	7.08	4.66	0.0019	0.044	9.36	2.17	31.4
+HP:0002627	Right aortic arch with mirror image branching	16	4	7.08	4.66	0.0019	0.044	9.36	2.17	31.4
+HP:0007930	Prominent epicanthal folds	16	4	7.08	4.66	0.0019	0.044	9.36	2.17	31.4
+HP:0001338	Partial agenesis of the corpus callosum	38	6	4.47	4.11	0.0019	0.044	5.32	1.79	13.2
+HP:0002693	Abnormality of the skull base	131	12	2.59	3.56	0.002	0.044	2.94	1.43	5.53
+HP:0003128	Lactic acidosis	168	14	2.36	3.45	0.0021	0.044	2.67	1.38	4.81
+HP:0006817	Aplasia/Hypoplasia of the cerebellar vermis	168	14	2.36	3.45	0.0021	0.044	2.67	1.38	4.81
+HP:0000093	Proteinuria	169	14	2.34	3.43	0.0022	0.044	2.65	1.37	4.78
+HP:0002118	Abnormality of the cerebral ventricles	528	31	1.66	3.16	0.0022	0.044	1.94	1.23	2.97
+HP:0011282	Abnormality of hindbrain morphology	889	46	1.46	3.07	0.0021	0.044	1.78	1.2	2.62
+HP:0011283	Abnormality of the metencephalon	889	46	1.46	3.07	0.0021	0.044	1.78	1.2	2.62
+HP:0012758	Neurodevelopmental delay	1201	58	1.37	3	0.0022	0.044	1.72	1.18	2.51
+HP:0012020	Right aortic arch	17	4	6.66	4.48	0.0025	0.046	8.63	2.02	28.5
+HP:0002085	Occipital encephalocele	40	6	4.25	3.95	0.0025	0.046	5.01	1.69	12.4
+HP:0000113	Polycystic kidney dysplasia	100	10	2.83	3.55	0.0025	0.046	3.21	1.45	6.4
+HP:0009116	Aplasia/Hypoplasia involving bones of the skull	579	33	1.61	3.09	0.0025	0.046	1.89	1.21	2.87
+HP:0011805	Abnormality of muscle morphology	1023	51	1.41	2.99	0.0025	0.046	1.73	1.18	2.54
+HP:0100732	Pancreatic fibrosis	28	5	5.05	4.12	0.0026	0.048	6.14	1.79	16.9
+HP:0000589	Coloboma	231	17	2.08	3.26	0.0027	0.049	2.35	1.3	4.04
+HP:0001371	Flexion contracture	536	31	1.64	3.07	0.0027	0.05	1.9	1.21	2.92

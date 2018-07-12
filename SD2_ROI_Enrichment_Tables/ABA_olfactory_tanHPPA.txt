@@ -1,0 +1,14 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0001332 Dystonia 318 18 3.01 5.2 1.3e-05 0.01 3.93 2.12 6.98
+HP:0001263 Global developmental delay 946 33 1.86 4.26 4.8e-05 0.014 2.77 1.65 4.66
+HP:0011442 Abnormality of central motor function 1241 39 1.67 4.07 6.1e-05 0.014 2.69 1.6 4.6
+HP:0012758 Neurodevelopmental delay 1201 38 1.68 4.04 7.4e-05 0.014 2.66 1.58 4.53
+HP:0012759 Neurodevelopmental abnormality 1623 46 1.51 3.86 8.7e-05 0.014 2.72 1.57 4.88
+HP:0100660 Dyskinesia 46 6 6.94 5.61 0.00018 0.021 8.5 2.84 21.2
+HP:0002067 Bradykinesia 65 7 5.73 5.32 0.00018 0.021 6.92 2.56 16.1
+HP:0100314 Cerebral inclusion bodies 19 4 11.2 6.17 0.00036 0.03 14.7 3.45 48
+HP:0001300 Parkinsonism 73 7 5.1 4.9 0.00037 0.03 6.06 2.25 14
+HP:0001260 Dysarthria 373 17 2.42 4.03 0.00036 0.03 3.01 1.61 5.38
+HP:0011804 Abnormality of muscle physiology 1558 43 1.47 3.43 0.00049 0.036 2.38 1.4 4.16
+HP:0012443 Abnormality of brain morphology 1687 45 1.42 3.3 0.00069 0.046 2.35 1.37 4.17
+HP:0002322 Resting tremor 23 4 9.25 5.49 0.00077 0.048 11.6 2.79 36.3

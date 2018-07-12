@@ -1,0 +1,141 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0000805 Enuresis 51 3 13.8 6.01 0.0012 0.027 17.9 3.14 69.3
+HP:0001773 Short foot 136 5 8.6 5.92 0.00018 0.027 12.8 3.39 41.9
+HP:0010864 Intellectual disability, severe 198 6 7.09 5.78 9.7e-05 0.027 11.4 3.32 36.5
+HP:0004279 Short palm 99 4 9.45 5.59 0.00064 0.027 13 2.96 44.8
+HP:0006887 Intellectual disability, progressive 100 4 9.36 5.56 0.00067 0.027 12.8 2.93 44.3
+HP:0002307 Drooling 60 3 11.7 5.48 0.0019 0.027 15 2.65 57.8
+HP:0000733 Stereotypy 155 5 7.55 5.46 0.00033 0.027 11.1 2.95 36.3
+HP:0002213 Fine hair 62 3 11.3 5.37 0.0021 0.027 14.5 2.56 55.7
+HP:0000678 Dental crowding 108 4 8.67 5.3 0.00089 0.027 11.8 2.7 40.7
+HP:0200134 Epileptic encephalopathy 64 3 11 5.27 0.0023 0.027 14 2.48 53.8
+HP:0003781 Excessive salivation 65 3 10.8 5.22 0.0024 0.027 13.8 2.44 52.9
+HP:0009879 Cortical gyral simplification 68 3 10.3 5.09 0.0027 0.027 13.2 2.33 50.4
+HP:0001266 Choreoathetosis 70 3 10 5 0.0029 0.027 12.8 2.26 48.8
+HP:0004374 Hemiplegia/hemiparesis 249 6 5.64 4.97 0.00035 0.027 8.91 2.59 28.3
+HP:0002194 Delayed gross motor development 71 3 9.89 4.96 0.003 0.027 12.6 2.23 48.1
+HP:0002465 Poor speech 122 4 7.67 4.91 0.0014 0.027 10.4 2.38 35.7
+HP:0002540 Inability to walk 124 4 7.55 4.86 0.0015 0.027 10.2 2.34 35.1
+HP:0000490 Deeply set eye 195 5 6 4.71 0.00096 0.027 8.69 2.31 28.2
+HP:0008734 Decreased testicular size 140 4 6.69 4.5 0.0023 0.027 8.97 2.06 30.7
+HP:0002414 Spina bifida 142 4 6.59 4.46 0.0025 0.027 8.83 2.03 30.3
+HP:0045005 Neural tube defect 147 4 6.37 4.35 0.0028 0.027 8.51 1.95 29.2
+HP:0010301 Spinal dysraphism 147 4 6.37 4.35 0.0028 0.027 8.51 1.95 29.2
+HP:0001344 Absent speech 148 4 6.32 4.34 0.0029 0.027 8.45 1.94 29
+HP:0010468 Aplasia/Hypoplasia of the testes 149 4 6.28 4.32 0.003 0.027 8.39 1.92 28.7
+HP:0000980 Pallor 150 4 6.24 4.3 0.003 0.027 8.33 1.91 28.6
+HP:0002650 Scoliosis 657 9 3.21 4.11 0.00045 0.027 6.59 2.08 22.6
+HP:0000752 Hyperactivity 248 5 4.72 3.98 0.0028 0.027 6.68 1.78 21.7
+HP:0010549 Weakness due to upper motor neuron dysfunction 352 6 3.99 3.87 0.0022 0.027 6.06 1.76 19.2
+HP:0000750 Delayed speech and language development 460 7 3.56 3.86 0.0016 0.027 5.87 1.8 18.6
+HP:0010674 Abnormality of the curvature of the vertebral column 714 9 2.95 3.82 0.00087 0.027 5.93 1.88 20.3
+HP:0045060 Aplasia/hypoplasia involving bones of the extremities 469 7 3.49 3.8 0.0018 0.027 5.74 1.76 18.2
+HP:0002119 Ventriculomegaly 374 6 3.75 3.69 0.003 0.027 5.66 1.65 17.9
+HP:0005927 Aplasia/hypoplasia involving bones of the hand 375 6 3.74 3.68 0.0031 0.027 5.64 1.64 17.9
+HP:0011442 Abnormality of central motor function 1241 12 2.26 3.62 0.00052 0.027 7.37 1.98 40.8
+HP:0009815 Aplasia/hypoplasia of the extremities 504 7 3.25 3.58 0.0027 0.027 5.27 1.62 16.7
+HP:0002977 Aplasia/Hypoplasia involving the central nervous system 1085 11 2.37 3.56 0.00087 0.027 6.2 1.83 26.7
+HP:0000486 Strabismus 774 9 2.72 3.55 0.0016 0.027 5.35 1.69 18.3
+HP:0002167 Neurological speech impairment 785 9 2.68 3.51 0.0018 0.027 5.25 1.66 18
+HP:0000290 Abnormality of the forehead 647 8 2.89 3.49 0.0024 0.027 5.1 1.61 16.6
+HP:0000549 Abnormal conjugate eye movement 793 9 2.66 3.47 0.0019 0.027 5.18 1.64 17.8
+HP:0100543 Cognitive impairment 1131 11 2.28 3.41 0.0013 0.027 5.83 1.72 25.2
+HP:0001288 Gait disturbance 663 8 2.82 3.41 0.0028 0.027 4.95 1.56 16.1
+HP:0004305 Involuntary movements 664 8 2.82 3.41 0.0029 0.027 4.94 1.56 16.1
+HP:0011443 Abnormality of coordination 663 8 2.82 3.41 0.0028 0.027 4.95 1.56 16.1
+HP:0001249 Intellectual disability 1135 11 2.27 3.4 0.0013 0.027 5.8 1.71 25
+HP:0011804 Abnormality of muscle physiology 1558 13 1.95 3.3 0.00092 0.027 8.2 1.85 74.8
+HP:0002060 Abnormality of the cerebrum 1167 11 2.21 3.3 0.0017 0.027 5.56 1.64 24
+HP:0100547 Abnormality of forebrain morphology 1170 11 2.2 3.29 0.0018 0.027 5.54 1.64 23.9
+HP:0000496 Abnormality of eye movement 1200 11 2.14 3.2 0.0022 0.027 5.33 1.58 23
+HP:0011446 Abnormality of higher mental function 1451 12 1.94 3.05 0.0026 0.027 5.71 1.54 31.6
+HP:0012443 Abnormality of brain morphology 1687 13 1.8 3 0.0023 0.027 7.07 1.6 64.7
+HP:0006494 Aplasia/Hypoplasia involving bones of the feet 256 5 4.57 3.89 0.0032 0.028 6.46 1.72 20.9
+HP:0000649 Abnormality of visual evoked potentials 77 3 9.12 4.72 0.0038 0.029 11.5 2.05 44
+HP:0007362 Aplasia/Hypoplasia of the brainstem 78 3 9 4.68 0.004 0.029 11.4 2.02 43.4
+HP:0002365 Hypoplasia of the brainstem 78 3 9 4.68 0.004 0.029 11.4 2.02 43.4
+HP:0002305 Athetosis 79 3 8.89 4.64 0.0041 0.029 11.2 1.99 42.7
+HP:0002197 Generalized seizures 155 4 6.04 4.2 0.0034 0.029 8.04 1.85 27.6
+HP:0045058 Abnormality of the testis size 157 4 5.96 4.17 0.0036 0.029 7.93 1.82 27.1
+HP:0001172 Abnormality of the thumb 266 5 4.4 3.78 0.0038 0.029 6.19 1.65 20
+HP:0010876 Abnormality of circulating protein level 269 5 4.35 3.74 0.004 0.029 6.11 1.63 19.8
+HP:0001315 Reduced tendon reflexes 399 6 3.52 3.5 0.0042 0.029 5.26 1.53 16.6
+HP:0002817 Abnormality of the upper limb 1063 10 2.2 3.07 0.0039 0.029 4.64 1.44 17.3
+HP:0002814 Abnormality of the lower limb 1067 10 2.19 3.06 0.004 0.029 4.61 1.43 17.2
+HP:0003808 Abnormal muscle tone 1269 11 2.03 3 0.0037 0.029 4.89 1.44 21.1
+HP:0040064 Abnormality of limbs 1488 12 1.89 2.95 0.0034 0.029 5.47 1.47 30.3
+HP:0001251 Ataxia 546 7 3 3.33 0.0044 0.03 4.8 1.47 15.2
+HP:0200055 Small hand 83 3 8.46 4.5 0.0047 0.031 10.6 1.89 40.6
+HP:0100755 Abnormality of salivation 84 3 8.36 4.47 0.0049 0.031 10.5 1.87 40
+HP:0002187 Intellectual disability, profound 89 3 7.89 4.31 0.0058 0.031 9.89 1.76 37.5
+HP:0002071 Abnormality of extrapyramidal motor function 178 4 5.26 3.82 0.0056 0.031 6.93 1.59 23.7
+HP:0000736 Short attention span 179 4 5.23 3.8 0.0057 0.031 6.89 1.58 23.6
+HP:0002269 Abnormality of neuronal migration 279 5 4.19 3.64 0.0047 0.031 5.87 1.56 19
+HP:0001265 Hyporeflexia 280 5 4.18 3.63 0.0048 0.031 5.85 1.56 18.9
+HP:0002079 Hypoplasia of the corpus callosum 287 5 4.08 3.56 0.0053 0.031 5.69 1.52 18.4
+HP:0006496 Aplasia/hypoplasia involving bones of the upper limbs 405 6 3.47 3.46 0.0046 0.031 5.17 1.51 16.4
+HP:0002059 Cerebral atrophy 421 6 3.33 3.35 0.0056 0.031 4.94 1.44 15.6
+HP:0007369 Atrophy/Degeneration affecting the cerebrum 424 6 3.31 3.32 0.0058 0.031 4.9 1.43 15.5
+HP:0040195 Decreased head circumference 731 8 2.56 3.11 0.0054 0.031 4.38 1.38 14.2
+HP:0000252 Microcephaly 731 8 2.56 3.11 0.0054 0.031 4.38 1.38 14.2
+HP:0007364 Aplasia/Hypoplasia of the cerebrum 897 9 2.35 3.06 0.0048 0.031 4.4 1.39 15.1
+HP:0001760 Abnormality of the foot 911 9 2.31 3.01 0.0054 0.031 4.31 1.37 14.8
+HP:0002493 Upper motor neuron dysfunction 918 9 2.29 2.99 0.0057 0.031 4.27 1.35 14.6
+HP:0003011 Abnormality of the musculature 1823 13 1.67 2.7 0.0056 0.031 6.05 1.37 55.2
+HP:0002011 Morphological abnormality of the central nervous system 1825 13 1.67 2.69 0.0056 0.031 6.03 1.36 55.1
+HP:0001435 Abnormality of the shoulder girdle musculature 94 3 7.47 4.16 0.0067 0.034 9.33 1.66 35.4
+HP:0006493 Aplasia/hypoplasia involving bones of the lower limbs 303 5 3.86 3.41 0.0067 0.034 5.36 1.43 17.3
+HP:0001322 Brain very small 434 6 3.24 3.26 0.0065 0.034 4.77 1.39 15.1
+HP:0012444 Brain atrophy 434 6 3.24 3.26 0.0065 0.034 4.77 1.39 15.1
+HP:0000925 Abnormality of the vertebral column 935 9 2.25 2.93 0.0065 0.034 4.16 1.32 14.2
+HP:0001250 Seizures 1138 10 2.06 2.84 0.0067 0.034 4.19 1.3 15.7
+HP:0001562 Oligohydramnios 97 3 7.24 4.08 0.0073 0.036 9.03 1.61 34.2
+HP:0000709 Psychosis 101 3 6.95 3.97 0.0082 0.036 8.65 1.54 32.7
+HP:0011344 Severe global developmental delay 103 3 6.82 3.92 0.0086 0.036 8.47 1.51 32.1
+HP:0010804 Tented upper lip vermilion 104 3 6.75 3.9 0.0089 0.036 8.39 1.5 31.7
+HP:0002123 Generalized myoclonic seizures 105 3 6.69 3.87 0.0091 0.036 8.3 1.48 31.4
+HP:0002536 Abnormal cortical gyration 194 4 4.82 3.59 0.0076 0.036 6.32 1.45 21.6
+HP:0000568 Microphthalmia 195 4 4.8 3.58 0.0078 0.036 6.28 1.45 21.5
+HP:0001763 Pes planus 200 4 4.68 3.51 0.0085 0.036 6.11 1.41 20.9
+HP:0000436 Abnormality of the nasal tip 202 4 4.63 3.48 0.0088 0.036 6.05 1.39 20.6
+HP:0000268 Dolichocephaly 203 4 4.61 3.47 0.0089 0.036 6.02 1.38 20.5
+HP:0011021 Abnormality of circulating enzyme level 204 4 4.59 3.46 0.0091 0.036 5.98 1.38 20.4
+HP:0040081 Abnormal levels of creatine kinase in blood 204 4 4.59 3.46 0.0091 0.036 5.98 1.38 20.4
+HP:0003236 Elevated serum creatine phosphokinase 204 4 4.59 3.46 0.0091 0.036 5.98 1.38 20.4
+HP:0001332 Dystonia 318 5 3.68 3.28 0.0083 0.036 5.08 1.35 16.4
+HP:0002007 Frontal bossing 323 5 3.62 3.24 0.0088 0.036 4.99 1.33 16.1
+HP:0011218 Abnormal shape of the frontal region 323 5 3.62 3.24 0.0088 0.036 4.99 1.33 16.1
+HP:0002808 Kyphosis 324 5 3.61 3.23 0.009 0.036 4.97 1.33 16.1
+HP:0003202 Skeletal muscle atrophy 444 6 3.16 3.19 0.0073 0.036 4.65 1.35 14.7
+HP:0002648 Abnormality of calvarial morphology 609 7 2.69 3 0.0081 0.036 4.2 1.29 13.3
+HP:0001167 Abnormality of finger 784 8 2.39 2.89 0.0085 0.036 4 1.26 13
+HP:0004322 Short stature 970 9 2.17 2.81 0.0085 0.036 3.95 1.25 13.5
+HP:0001155 Abnormality of the hand 972 9 2.17 2.8 0.0086 0.036 3.94 1.25 13.5
+HP:0100022 Abnormality of movement 1159 10 2.02 2.78 0.0078 0.036 4.08 1.27 15.3
+HP:0012759 Neurodevelopmental abnormality 1623 12 1.73 2.63 0.0082 0.036 4.68 1.26 25.9
+HP:0002363 Abnormality of brainstem morphology 107 3 6.56 3.83 0.0096 0.037 8.14 1.45 30.8
+HP:0002023 Anal atresia 107 3 6.56 3.83 0.0096 0.037 8.14 1.45 30.8
+HP:0001284 Areflexia 208 4 4.5 3.41 0.0097 0.038 5.86 1.35 20
+HP:0000739 Anxiety 109 3 6.44 3.78 0.01 0.039 7.98 1.42 30.2
+HP:0002072 Chorea 111 3 6.32 3.73 0.011 0.039 7.83 1.4 29.6
+HP:0002538 Abnormality of the cerebral cortex 211 4 4.44 3.37 0.01 0.039 5.77 1.33 19.7
+HP:0007367 Atrophy/Degeneration affecting the central nervous system 479 6 2.93 2.98 0.011 0.039 4.26 1.24 13.5
+HP:0005918 Abnormality of phalanx of finger 479 6 2.93 2.98 0.011 0.039 4.26 1.24 13.5
+HP:0100852 Abnormal fear/anxiety-related behavior 112 3 6.27 3.71 0.011 0.04 7.76 1.38 29.3
+HP:0001268 Mental deterioration 214 4 4.37 3.34 0.011 0.04 5.68 1.31 19.4
+HP:0100887 Abnormality of globe size 216 4 4.33 3.31 0.011 0.04 5.63 1.3 19.2
+HP:0100851 Abnormal emotion/affect behavior 484 6 2.9 2.95 0.011 0.04 4.21 1.23 13.3
+HP:0000009 Functional abnormality of the bladder 219 4 4.27 3.28 0.012 0.041 5.54 1.28 18.9
+HP:0009115 Aplasia/hypoplasia involving the skeleton 830 8 2.26 2.71 0.012 0.043 3.71 1.17 12.1
+HP:0011805 Abnormality of muscle morphology 1023 9 2.06 2.63 0.012 0.043 3.67 1.16 12.6
+HP:0001302 Pachygyria 118 3 5.95 3.58 0.013 0.044 7.34 1.31 27.7
+HP:0002015 Dysphagia 227 4 4.12 3.19 0.013 0.045 5.33 1.23 18.2
+HP:0002143 Abnormality of the spinal cord 227 4 4.12 3.19 0.013 0.045 5.33 1.23 18.2
+HP:0100716 Self-injurious behavior 122 3 5.75 3.5 0.014 0.046 7.08 1.27 26.7
+HP:0000002 Abnormality of body height 1037 9 2.03 2.59 0.014 0.046 3.6 1.14 12.3
+HP:0002360 Sleep disturbance 232 4 4.03 3.13 0.014 0.048 5.21 1.2 17.7
+HP:0011339 Abnormality of upper lip vermillion 233 4 4.02 3.12 0.014 0.048 5.18 1.19 17.7
+HP:0010938 Abnormality of the external nose 676 7 2.42 2.7 0.015 0.048 3.69 1.14 11.7
+HP:0002120 Cerebral cortical atrophy 235 4 3.98 3.1 0.015 0.049 5.13 1.18 17.5
+HP:0001252 Muscular hypotonia 1058 9 1.99 2.53 0.016 0.05 3.5 1.11 12
+HP:0012639 Abnormality of nervous system morphology 2000 13 1.52 2.33 0.015 0.05 4.93 1.11 45.1

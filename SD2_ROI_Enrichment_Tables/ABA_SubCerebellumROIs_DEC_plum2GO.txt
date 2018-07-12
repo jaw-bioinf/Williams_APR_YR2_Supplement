@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0371	7	7	2	0.286	0.286	HP:0001014	hp	1	Angiokeratoma	1	MANBA,AGA
+2	1	TRUE	0.00847	18	12	2	0.167	0.111	KEGG:00511	keg	3	Other glycan degradation	1	MANBA,AGA
+3	1	TRUE	0.00962	123	12	3	0.25	0.024	KEGG:04142	keg	2	Lysosome	1	ARSA,MANBA,AGA

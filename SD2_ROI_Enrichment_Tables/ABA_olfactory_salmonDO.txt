@@ -1,0 +1,8 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:1555 urticaria 44 5 7.51 5.37 0.00049 0.045 8.7 2.62 22.7
+DOID:2600 laryngeal carcinoma 78 6 5.08 4.49 0.0011 0.045 5.68 1.97 13.4
+DOID:2986 IgA glomerulonephritis 78 6 5.08 4.49 0.0011 0.045 5.68 1.97 13.4
+DOID:2876 laryngeal squamous cell carcinoma 78 6 5.08 4.49 0.0011 0.045 5.68 1.97 13.4
+DOID:2596 larynx cancer 80 6 4.95 4.41 0.0013 0.045 5.53 1.92 13
+DOID:3007 breast ductal carcinoma 196 10 3.37 4.17 0.00072 0.045 3.76 1.72 7.36
+DOID:657 adenoma 337 14 2.74 4.07 0.00052 0.045 3.1 1.61 5.54

@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0100538	Abnormality of the supraorbital ridges	121	3	17.4	6.94	0.00038	0.02	42.8	4.86	513
+HP:0000506	Telecanthus	124	3	17	6.84	0.00041	0.02	41.7	4.74	500
+HP:0002979	Bowing of the legs	153	3	13.8	6.1	0.00076	0.02	33.4	3.8	401
+HP:0000276	Long face	169	3	12.5	5.77	0.001	0.02	30.1	3.42	360
+HP:0002981	Abnormality of the calf	180	3	11.7	5.57	0.0012	0.02	28.1	3.2	337
+HP:0000280	Coarse facial features	185	3	11.4	5.48	0.0013	0.02	27.3	3.11	327
+HP:0000400	Macrotia	186	3	11.3	5.46	0.0014	0.02	27.1	3.09	325
+HP:0006504	Anomaly of the limb diaphyses	193	3	10.9	5.35	0.0015	0.02	26.1	2.97	312
+HP:0006487	Bowing of the long bones	193	3	10.9	5.35	0.0015	0.02	26.1	2.97	312
+HP:0100729	Large face	198	3	10.6	5.27	0.0016	0.02	25.4	2.89	304
+HP:0000268	Dolichocephaly	203	3	10.4	5.2	0.0017	0.02	24.7	2.81	296
+HP:0000940	Abnormal diaphysis morphology	205	3	10.3	5.17	0.0018	0.02	24.5	2.79	293
+HP:0008070	Sparse hair	205	3	10.3	5.17	0.0018	0.02	24.5	2.79	293
+HP:0011357	Abnormality of hair density	208	3	10.1	5.12	0.0019	0.02	24.1	2.74	288
+HP:0000343	Long philtrum	228	3	9.24	4.86	0.0025	0.025	21.8	2.49	261
+HP:0011338	Abnormality of mouth shape	235	3	8.96	4.77	0.0027	0.025	21.1	2.41	253
+HP:0200007	Abnormal size of the palpebral fissures	248	3	8.49	4.62	0.0031	0.028	19.9	2.27	239
+HP:0000470	Short neck	280	3	7.52	4.3	0.0044	0.036	17.4	1.99	209
+HP:0002079	Hypoplasia of the corpus callosum	287	3	7.34	4.23	0.0048	0.036	17	1.94	204
+HP:0000998	Hypertrichosis	291	3	7.24	4.2	0.005	0.036	16.7	1.91	201
+HP:0003319	Abnormality of the cervical spine	297	3	7.09	4.14	0.0053	0.036	16.4	1.87	196
+HP:0011123	Inflammatory abnormality of the skin	298	3	7.07	4.13	0.0053	0.036	16.3	1.86	195
+HP:0025270	Abnormality of esophagus physiology	301	3	7	4.11	0.0055	0.036	16.1	1.84	193
+HP:0000494	Downslanted palpebral fissures	332	3	6.34	3.86	0.0073	0.046	14.5	1.65	173
+HP:0004349	Reduced bone mineral density	339	3	6.21	3.81	0.0077	0.046	14.1	1.61	170
+HP:0011122	Abnormality of skin physiology	342	3	6.16	3.79	0.0079	0.046	14	1.6	168

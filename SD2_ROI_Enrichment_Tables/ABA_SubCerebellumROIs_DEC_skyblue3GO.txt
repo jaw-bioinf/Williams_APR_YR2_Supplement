@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:1151	cor	5	Sycp1-Syce1-Syce2 complex	1	SYCP1
+2	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:3014	cor	9	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	SYCP1
+3	1	TRUE	0.000422	3	4	2	0.5	0.667	CORUM:3023	cor	6	Cohesin complex, incomplete (Smc1b, Sycp1, Crest/Ss18I1)	1	SMC1B,SYCP1
+4	1	TRUE	0.0144	2	4	1	0.25	0.5	CORUM:3021	cor	1	Cohesin complex, incomplete (Smc1b, Crest/Ss18I1)	1	SMC1B
+5	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:3024	cor	7	Cohesin complex, incomplete (Smc3, Sycp1, Crest/Ss18I1)	1	SYCP1
+6	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:3022	cor	8	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	SYCP1
+7	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:102	cor	4	Meiotic cohesin complex	1	SMC1B
+8	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:973	cor	2	Sec61alpha-CollagenIV-Hsp47 complex	1	SEC61A1
+9	1	TRUE	0.0144	3	4	1	0.25	0.333	CORUM:6214	cor	3	Dock8-Wipf1-Was complex	1	DOCK8

@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00433	3	1	1	1	0.333	CORUM:102	cor	2	Meiotic cohesin complex	1	SMC1B
+2	1	TRUE	0.00433	2	1	1	1	0.5	CORUM:3021	cor	1	Cohesin complex, incomplete (Smc1b, Crest/Ss18I1)	1	SMC1B
+3	1	TRUE	0.00433	3	1	1	1	0.333	CORUM:3023	cor	3	Cohesin complex, incomplete (Smc1b, Sycp1, Crest/Ss18I1)	1	SMC1B

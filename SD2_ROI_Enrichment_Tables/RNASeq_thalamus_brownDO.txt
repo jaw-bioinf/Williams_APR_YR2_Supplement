@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0050338	primary bacterial infectious disease	220	33	2.31	5.2	4.5e-06	0.0022	2.66	1.75	3.92
+DOID:104	bacterial infectious disease	250	35	2.15	4.9	1.1e-05	0.0027	2.45	1.64	3.57
+DOID:399	tuberculosis	147	22	2.3	4.21	0.00018	0.03	2.61	1.56	4.18
+DOID:936	brain disease	438	47	1.65	3.71	0.00038	0.046	1.81	1.29	2.5

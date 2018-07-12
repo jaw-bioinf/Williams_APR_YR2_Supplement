@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1588	thrombocytopenia	47	4	11.2	6.15	0.00041	0.038	13.1	3.29	38.1
+DOID:2218	blood platelet disease	73	5	9.05	6.04	0.00021	0.038	10.5	3.17	27.5
+DOID:11714	gestational diabetes	54	4	9.78	5.66	7e-04	0.043	11.2	2.84	32.5

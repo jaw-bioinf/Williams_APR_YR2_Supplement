@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:10930	borderline personality disorder	19	8	4.27	4.72	0.00024	0.049	6.71	2.34	18.4
+DOID:5100	middle ear disease	23	9	3.97	4.72	0.00019	0.049	5.94	2.26	14.8
+DOID:1510	personality disorder	20	8	4.06	4.53	0.00037	0.049	6.15	2.17	16.4
+DOID:10754	otitis media	21	8	3.87	4.35	0.00054	0.049	5.68	2.03	14.8
+DOID:3275	thymoma	26	9	3.51	4.24	0.00056	0.049	4.89	1.91	11.7
+DOID:3277	thymus cancer	31	10	3.27	4.19	0.00053	0.049	4.4	1.84	9.82
+DOID:2986	IgA glomerulonephritis	78	18	2.34	3.94	0.00045	0.049	2.79	1.54	4.83
+DOID:2349	arteriosclerosis	352	55	1.59	3.73	0.00031	0.049	1.75	1.28	2.38

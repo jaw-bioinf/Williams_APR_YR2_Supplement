@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8854691	Interleukin-20 family signaling	25	3	21.8	7.76	0.00033	0.0099	26	4.84	90.7
+R-HSA-451927	Interleukin-2 family signaling	42	3	13	5.79	0.0015	0.023	14.7	2.81	48.5
+R-HSA-1280215	Cytokine Signaling in Immune system	678	10	2.69	3.38	0.0034	0.034	3.09	1.38	6.25

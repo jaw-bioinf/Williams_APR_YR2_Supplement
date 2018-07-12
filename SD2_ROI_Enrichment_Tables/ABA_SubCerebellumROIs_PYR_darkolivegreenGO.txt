@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0142	12	64	3	0.047	0.25	GO:0045236	MF	4	CXCR chemokine receptor binding	1	ITCH,CXCL15,CXCL1
+2	1	TRUE	0.0231	2	4	1	0.25	0.5	CORUM:1938	cor	9	Olfr992-Reep1 complex	1	REEP1
+3	1	TRUE	0.0391	8	4	1	0.25	0.125	CORUM:5737	cor	6	Multicomponent signaling complex, anti-CD40 stimulated (Birc2, Birc3, Cd40, Ikbkg, Map2k4, Map2k7, Map3k1, Traf2, Ube2n)	1	BIRC2
+4	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:3101	cor	2	Mtor-Yy1-Ppargc1a complex	1	YY1
+5	1	TRUE	0.0231	2	4	1	0.25	0.5	CORUM:465	cor	10	InsP3R1-HAP1A-Htt complex	1	ITPR1
+6	1	TRUE	0.0231	2	4	1	0.25	0.5	CORUM:3100	cor	7	Yy1-Ppargc1a complex	1	YY1
+7	1	TRUE	0.0276	4	4	1	0.25	0.25	CORUM:953	cor	3	p97-Ufd1-Npl4-IP3 receptor complex	1	ITPR1
+8	1	TRUE	0.0287	5	4	1	0.25	0.2	CORUM:5742	cor	8	Multicomponent signaling complex, anti-CD40 stimulated,(Birc2, Birc3, Cd40, Ikbkg, Map3k1, Traf2, Ube2n)	1	BIRC2
+9	1	TRUE	0.0333	3	14	2	0.143	0.667	HP:0012899	hp	11	Handgrip myotonia	1	SCN4A,CLCN1
+10	1	TRUE	0.047	9	36	2	0.056	0.222	REAC:R-MMU-8850843	rea	5	Phosphate bond hydrolysis by NTPDase proteins	1	ENTPD2,ENTPD3
+11	1	TRUE	0.047	40	36	3	0.083	0.075	REAC:R-MMU-111465	rea	1	Apoptotic cleavage of cellular proteins	1	OCLN,DSG3,BIRC2

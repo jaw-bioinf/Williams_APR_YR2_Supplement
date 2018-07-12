@@ -1,0 +1,22 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000786	Primary amenorrhea	78	18	2.96	5.08	1.9e-05	0.039	3.72	2.03	6.5
+HP:0030260	Microphallus	37	11	3.81	5	7.3e-05	0.042	5.16	2.27	10.9
+HP:0002929	Leydig cell insensitivity to gonadotropin	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0003164	Hypothalamic gonadotropin-releasing hormone deficiency	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0030339	Decreased circulating gonadotropin level	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0030346	Abnormal circulating follicle-stimulating hormone level	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0003295	Impaired FSH and LH secretion	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0030341	Decreased circulating follicle stimulating hormone level	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0030344	Decreased circulating luteinizing hormone level	24	8	4.27	4.68	3e-04	0.042	6.05	2.22	15.1
+HP:0030338	Abnormal circulating gonadotropin level	40	11	3.52	4.67	0.00016	0.042	4.62	2.06	9.66
+HP:0008197	Absence of pubertal development	25	8	4.1	4.52	0.00042	0.042	5.69	2.1	14.1
+HP:0012285	Abnormal hypothalamus physiology	25	8	4.1	4.52	0.00042	0.042	5.69	2.1	14.1
+HP:0030345	Abnormal circulating luteinizing hormone level	25	8	4.1	4.52	0.00042	0.042	5.69	2.1	14.1
+HP:0003782	Eunuchoid habitus	25	8	4.1	4.52	0.00042	0.042	5.69	2.1	14.1
+HP:0012504	Abnormal size of pituitary gland	25	8	4.1	4.52	0.00042	0.042	5.69	2.1	14.1
+HP:0012506	Small pituitary gland	25	8	4.1	4.52	0.00042	0.042	5.69	2.1	14.1
+HP:0000141	Amenorrhea	97	19	2.51	4.39	0.00013	0.042	3.02	1.7	5.13
+HP:0001969	Tubulointerstitial abnormality	56	13	2.97	4.33	0.00027	0.042	3.7	1.8	7.11
+HP:0000013	Hypoplasia of the uterus	57	13	2.92	4.26	0.00032	0.042	3.61	1.76	6.93
+HP:0000135	Hypogonadism	205	31	1.94	4.02	0.00019	0.042	2.24	1.45	3.39
+HP:0100957	Abnormality of the renal medulla	59	13	2.82	4.11	0.00046	0.044	3.45	1.69	6.6

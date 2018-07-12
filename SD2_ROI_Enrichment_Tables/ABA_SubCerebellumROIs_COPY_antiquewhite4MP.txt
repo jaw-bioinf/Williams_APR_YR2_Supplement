@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002945	abnormal inhibitory postsynaptic currents	87	5	10.5	6.59	0.00011	0.031	12.1	3.66	31.5
+MP:0009378	abnormal endoplasmic reticulum morphology	26	3	21	7.59	0.00037	0.047	24.9	4.64	86.8
+MP:0001486	abnormal startle reflex	259	7	4.92	4.75	0.00049	0.047	5.66	2.13	12.8

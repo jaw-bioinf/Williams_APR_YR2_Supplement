@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	126	3	11.9	5.52	0.0019	0.031	14.2	2.62	49.9
+R-HSA-5663205	Infectious disease	326	4	6.14	4.22	0.0035	0.031	7.5	1.82	23.5
+R-HSA-8953897	Cellular responses to external stimuli	493	5	5.08	4.15	0.0024	0.031	6.49	1.84	18.9
+R-HSA-69275	G2/M Transition	195	3	7.7	4.23	0.0065	0.035	9	1.68	31.5
+R-HSA-453274	Mitotic G2-G2/M phases	197	3	7.62	4.2	0.0067	0.035	8.91	1.66	31.2
+R-HSA-2262752	Cellular responses to stress	425	4	4.71	3.5	0.009	0.038	5.68	1.38	17.7
+R-HSA-1643685	Disease	984	6	3.05	3.03	0.01	0.038	3.95	1.24	11
+R-HSA-1280218	Adaptive Immune System	746	5	3.36	2.99	0.014	0.045	4.16	1.18	12.1

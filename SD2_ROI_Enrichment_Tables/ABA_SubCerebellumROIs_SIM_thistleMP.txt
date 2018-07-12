@@ -1,0 +1,43 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0012320	abnormal body fat mass	32	3	19.3	7.25	0.00048	0.018	22.6	4.25	77.6
+MP:0005330	cardiomyopathy	142	6	8.71	6.47	5.8e-05	0.018	10.3	3.5	25
+MP:0004819	decreased skeletal muscle mass	134	5	7.69	5.45	0.00045	0.018	8.82	2.67	22.8
+MP:0000280	thin ventricular wall	136	5	7.58	5.4	0.00048	0.018	8.68	2.63	22.5
+MP:0010630	abnormal cardiac muscle tissue morphology	342	8	4.82	5.03	2e-04	0.018	5.76	2.3	12.7
+MP:0005406	abnormal heart size	705	12	3.51	4.84	9.3e-05	0.018	4.48	2.1	8.95
+MP:0000274	enlarged heart	535	10	3.85	4.75	0.00019	0.018	4.74	2.08	9.84
+MP:0005329	abnormal myocardium layer morphology	457	9	4.06	4.68	0.00029	0.018	4.9	2.06	10.4
+MP:0010545	abnormal heart layer morphology	465	9	3.99	4.62	0.00033	0.018	4.81	2.03	10.3
+MP:0002108	abnormal muscle morphology	963	13	2.78	4.08	0.00046	0.018	3.54	1.7	6.97
+MP:0002795	dilated cardiomyopathy	89	4	9.27	5.47	0.00087	0.023	10.5	2.67	29.9
+MP:0004817	abnormal skeletal muscle mass	152	5	6.78	5.02	8e-04	0.023	7.72	2.35	20
+MP:0008022	dilated heart ventricle	157	5	6.57	4.91	0.00092	0.023	7.47	2.27	19.3
+MP:0005140	decreased cardiac muscle contractility	236	6	5.24	4.61	9e-04	0.023	6.02	2.06	14.5
+MP:0001544	abnormal cardiovascular system physiology	1571	17	2.23	3.74	0.00066	0.023	3	1.54	5.69
+MP:0000759	abnormal skeletal muscle morphology	445	8	3.71	4.09	0.0012	0.028	4.35	1.74	9.57
+MP:0004937	dilated heart	262	6	4.72	4.27	0.0015	0.033	5.39	1.85	13
+MP:0002106	abnormal muscle physiology	954	12	2.59	3.63	0.0015	0.033	3.2	1.5	6.38
+MP:0010563	increased heart right ventricle size	108	4	7.64	4.84	0.0018	0.034	8.56	2.19	24.3
+MP:0005369	muscle phenotype	1401	15	2.21	3.42	0.0018	0.034	2.83	1.41	5.45
+MP:0009112	abnormal pancreatic beta cell mass	53	3	11.7	5.44	0.0021	0.035	13.1	2.52	43.2
+MP:0002753	dilated heart left ventricle	113	4	7.3	4.7	0.0021	0.035	8.16	2.09	23.1
+MP:0020135	abnormal heart ventricle wall thickness	188	5	5.48	4.34	0.002	0.035	6.18	1.88	15.9
+MP:0012106	impaired exercise endurance	55	3	11.2	5.32	0.0023	0.036	12.6	2.42	41.5
+MP:0002972	abnormal cardiac muscle contractility	285	6	4.34	4	0.0024	0.036	4.94	1.69	11.9
+MP:0008772	increased heart ventricle size	201	5	5.13	4.13	0.0027	0.037	5.76	1.76	14.8
+MP:0001625	cardiac hypertrophy	202	5	5.1	4.12	0.0028	0.037	5.73	1.75	14.7
+MP:0004857	abnormal heart weight	295	6	4.19	3.89	0.0028	0.037	4.76	1.63	11.4
+MP:0005620	abnormal muscle contractility	398	7	3.63	3.74	0.0028	0.037	4.16	1.56	9.52
+MP:0010577	abnormal heart right ventricle size	128	4	6.44	4.33	0.0033	0.042	7.16	1.84	20.2
+MP:0002899	fatigue	64	3	9.67	4.86	0.0036	0.043	10.7	2.07	35.1
+MP:0003921	abnormal heart left ventricle morphology	310	6	3.99	3.74	0.0036	0.043	4.52	1.55	10.9
+MP:0002332	abnormal exercise endurance	68	3	9.1	4.68	0.0043	0.044	10.1	1.95	32.8
+MP:0000278	abnormal myocardial fiber morphology	221	5	4.67	3.85	0.0041	0.044	5.22	1.59	13.4
+MP:0004847	abnormal liver weight	222	5	4.64	3.84	0.0042	0.044	5.19	1.58	13.3
+MP:0000738	impaired muscle contractility	315	6	3.93	3.69	0.0039	0.044	4.44	1.53	10.7
+MP:0004087	abnormal muscle fiber morphology	429	7	3.36	3.5	0.0043	0.044	3.85	1.44	8.78
+MP:0004056	abnormal myocardium compact layer morphology	71	3	8.71	4.55	0.0048	0.047	9.62	1.86	31.3
+MP:0005294	abnormal heart ventricle morphology	686	9	2.71	3.24	0.005	0.047	3.16	1.33	6.72
+MP:0000266	abnormal heart morphology	1397	14	2.07	3.02	0.0049	0.047	2.56	1.26	4.98
+MP:0010240	decreased skeletal muscle size	73	3	8.47	4.48	0.0052	0.049	9.34	1.81	30.3
+MP:0010080	abnormal hepatocyte physiology	147	4	5.61	3.93	0.0054	0.05	6.2	1.59	17.4

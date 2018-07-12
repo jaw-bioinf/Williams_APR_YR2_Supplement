@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004022	abnormal cone electrophysiology	84	27	2.67	5.69	9e-07	0.0031	3.52	2.13	5.69
+MP:0020154	impaired humoral immune response	23	12	4.33	5.92	3.3e-06	0.0052	8.04	3.24	20.2
+MP:0001793	altered susceptibility to infection	534	99	1.54	4.76	4.8e-06	0.0052	1.73	1.36	2.18
+MP:0002406	increased susceptibility to infection	443	85	1.59	4.74	5.9e-06	0.0052	1.8	1.39	2.3
+MP:0003728	abnormal retinal photoreceptor layer morphology	188	43	1.9	4.61	1.9e-05	0.011	2.21	1.53	3.15
+MP:0005025	abnormal response to infection	572	102	1.48	4.4	1.9e-05	0.011	1.64	1.3	2.06
+MP:0004021	abnormal rod electrophysiology	100	27	2.24	4.62	3.4e-05	0.017	2.74	1.69	4.34
+MP:0001004	abnormal retinal photoreceptor morphology	181	41	1.88	4.43	3.8e-05	0.017	2.18	1.49	3.13
+MP:0001005	abnormal retinal rod cell morphology	74	21	2.36	4.34	0.00011	0.044	2.93	1.67	4.96
+MP:0001999	photosensitivity	12	7	4.85	4.93	0.00016	0.048	10.3	2.8	41.1
+MP:0008894	abnormal intraepithelial T cell morphology	27	11	3.38	4.59	0.00015	0.048	5.06	2.12	11.7
+MP:0003729	abnormal photoreceptor outer segment morphology	114	28	2.04	4.13	0.00015	0.048	2.41	1.51	3.76

@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0484	3	6	1	0.167	0.333	CORUM:6225	cor	1	Heg1-Krit1-Ccm2 complex	1	KRIT1
+2	1	TRUE	0.0484	3	6	1	0.167	0.333	CORUM:647	cor	5	HPFH(-198) complex	1	GTF2F1
+3	1	TRUE	0.0484	3	6	1	0.167	0.333	CORUM:6221	cor	3	Ccm2-Krit1-Ccm3 complex	1	KRIT1
+4	1	TRUE	0.0484	2	6	1	0.167	0.5	CORUM:6222	cor	2	CCM1-CCM2 complex	1	KRIT1
+5	1	TRUE	0.0293	43	25	3	0.12	0.07	REAC:R-MMU-8943724	rea	4	Regulation of PTEN gene transcription	1	RPTOR,EED,GATAD2B

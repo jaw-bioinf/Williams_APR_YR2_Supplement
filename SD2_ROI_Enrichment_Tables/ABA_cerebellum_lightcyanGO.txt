@@ -1,0 +1,12 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0302 2 7 1 0.143 0.5 CORUM:3114 cor 11 Itgax-Itgb2-Icam4 complex 1 ICAM4
+2 1 TRUE 0.0302 2 7 1 0.143 0.5 CORUM:966 cor 4 Rab27a-Mlph-Myo5a complex 1 RAB27A
+3 1 TRUE 0.0316 3 7 1 0.143 0.333 CORUM:965 cor 2 mPar6c-Mlgl-aPKC complex 1 LLGL1
+4 1 TRUE 0.0302 2 7 1 0.143 0.5 CORUM:1310 cor 6 Rab27a-Mlph-Myo5a complex 1 RAB27A
+5 1 TRUE 0.0316 3 7 1 0.143 0.333 CORUM:1066 cor 9 mPar6c-Mlgl-aPKCz complex 1 LLGL1
+6 1 TRUE 0.0316 3 7 1 0.143 0.333 CORUM:1017 cor 7 Pcdhga1-Pcdhgb4 complex 1 PCDHGB4
+7 1 TRUE 0.0302 2 7 1 0.143 0.5 CORUM:3116 cor 3 Rab27a-Mlph-Myo5a complex 1 RAB27A
+8 1 TRUE 0.0302 1 7 1 0.143 1 CORUM:951 cor 10 Fmrp-Lgl complex 1 LLGL1
+9 1 TRUE 0.0302 2 7 1 0.143 0.5 CORUM:3741 cor 8 Slp5-Rab27A complex 1 RAB27A
+10 1 TRUE 0.0302 2 7 1 0.143 0.5 CORUM:1018 cor 1 Pcdha7-Pcdhgb4 complex 1 PCDHGB4
+11 1 TRUE 0.0476 5 7 1 0.143 0.2 CORUM:1475 cor 5 S-phase-specific E2F-p107 complex 1 CCNA1

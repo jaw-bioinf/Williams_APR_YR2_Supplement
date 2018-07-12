@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0010700	Total cataract	14	8	5.53	5.76	2.1e-05	0.039	11.8	3.56	41.4
+HP:0011895	Anemia due to reduced life span of red cells	113	26	2.22	4.49	5.4e-05	0.039	2.71	1.66	4.32
+HP:0001878	Hemolytic anemia	113	26	2.22	4.49	5.4e-05	0.039	2.71	1.66	4.32

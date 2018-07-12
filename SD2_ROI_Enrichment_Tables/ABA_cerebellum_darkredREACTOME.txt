@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	35	4	13.6	6.88	2e-04	0.01	15.9	4	46.6
+R-HSA-1483249	Inositol phosphate metabolism	48	4	9.93	5.71	0.00068	0.018	11.2	2.86	31.9
+R-HSA-1855204	Synthesis of IP3 and IP4 in the cytosol	28	3	12.8	5.74	0.0016	0.028	14.7	2.78	49.5

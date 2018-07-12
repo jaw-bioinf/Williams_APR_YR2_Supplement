@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:10941	intracranial aneurysm	16	3	33.7	9.79	8.5e-05	0.007	44.3	7.78	172
+DOID:13089	intracranial arterial disease	20	3	26.9	8.69	0.00017	0.007	33.9	6.11	125
+DOID:3527	cerebral arterial disease	20	3	26.9	8.69	0.00017	0.007	33.9	6.11	125

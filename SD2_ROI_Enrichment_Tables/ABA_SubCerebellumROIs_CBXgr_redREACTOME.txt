@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-73929	Base-Excision Repair, AP Site Formation	10	6	11.2	7.69	4e-06	0.0023	26.8	6.34	130
+R-HSA-73884	Base Excision Repair	39	9	4.32	4.93	0.00017	0.032	5.39	2.24	11.7
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	39	9	4.32	4.93	0.00017	0.032	5.39	2.24	11.7

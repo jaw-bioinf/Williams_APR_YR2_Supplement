@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000879	Short sternum	22	3	26.6	8.64	0.00016	0.023	36.3	6.23	144
+HP:0001317	Abnormality of the cerebellum	874	12	2.68	4.11	0.00021	0.023	6.1	2.11	19.9
+HP:0011282	Abnormality of hindbrain morphology	889	12	2.63	4.04	0.00025	0.023	5.96	2.06	19.4
+HP:0011283	Abnormality of the metencephalon	889	12	2.63	4.04	0.00025	0.023	5.96	2.06	19.4
+HP:0004323	Abnormality of body weight	1071	13	2.37	3.85	0.00031	0.023	5.98	1.99	21.5
+HP:0006714	Aplasia/Hypoplasia of the sternum	32	3	18.3	7.05	0.00051	0.031	23.8	4.19	91
+HP:0001249	Intellectual disability	1135	13	2.23	3.63	0.00059	0.031	5.49	1.83	19.7

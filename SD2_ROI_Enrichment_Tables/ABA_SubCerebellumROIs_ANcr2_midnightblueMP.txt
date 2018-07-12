@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008915	fused carpal bones	17	4	15.1	7.31	0.00012	0.037	19.9	4.66	65.4
+MP:0000554	abnormal carpal bone morphology	42	6	9.14	6.66	4.3e-05	0.037	10.9	3.69	26.7
+MP:0002187	abnormal fibula morphology	70	7	6.4	5.71	1e-04	0.037	7.3	2.77	16.3

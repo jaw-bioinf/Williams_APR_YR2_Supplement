@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-556833	Metabolism of lipids	696	80	1.68	5.03	2.2e-06	0.0014	1.87	1.44	2.4
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	67	14	3.05	4.57	0.00014	0.037	3.64	1.86	6.71
+R-HSA-400206	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	120	20	2.43	4.28	0.00017	0.037	2.77	1.61	4.54

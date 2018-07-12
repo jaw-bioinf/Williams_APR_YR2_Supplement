@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5619102	SLC transporter disorders	68	15	3.52	5.39	1.5e-05	0.0018	4.31	2.24	7.81
+R-HSA-5619115	Disorders of transmembrane transporters	149	25	2.68	5.33	5.4e-06	0.0018	3.1	1.91	4.83
+R-HSA-5663205	Infectious disease	326	42	2.05	5.01	6e-06	0.0018	2.3	1.6	3.22
+R-HSA-5653656	Vesicle-mediated transport	631	67	1.69	4.65	1.2e-05	0.0018	1.87	1.41	2.45
+R-HSA-199991	Membrane Trafficking	599	64	1.7	4.59	1.5e-05	0.0018	1.88	1.41	2.47
+R-HSA-1643685	Disease	984	89	1.44	3.78	2e-04	0.02	1.57	1.22	1.99

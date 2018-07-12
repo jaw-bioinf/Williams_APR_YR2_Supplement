@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0322	3	6	1	0.167	0.333	CORUM:326	cor	5	Smooth muscle sarcoglycan complex SGC, beta-delta-zeta	1	SGCZ
+2	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:5882	cor	3	Raf1-PP2A holoenzyme complex (Ppp2r1a, Ppp2r2b, Ppp2ca), PDGF stimulated	1	RAF1
+3	1	TRUE	0.0322	3	6	1	0.167	0.333	CORUM:3553	cor	1	Traf6-p62-aPKC complex, RANK-L stimulated	1	SQSTM1
+4	1	TRUE	0.0322	3	6	1	0.167	0.333	CORUM:5883	cor	7	Raf1-PP2A core enzyme complex (Ppp2r1a, Ppp2ca), untreated	1	RAF1
+5	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:953	cor	4	p97-Ufd1-Npl4-IP3 receptor complex	1	NPLOC4
+6	1	TRUE	0.0497	7	6	1	0.167	0.143	CORUM:537	cor	12	Mediator complex	1	MED21
+7	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:325	cor	10	Skeletal muscle sarcoglycan complex SGC, beta-gamma-delta-zeta	1	SGCZ
+8	1	TRUE	0.0322	4	6	1	0.167	0.25	CORUM:3539	cor	6	Limd1-p62-Traf6-Prkcz complex	1	SQSTM1
+9	1	TRUE	0.0322	1	6	1	0.167	1	CORUM:3569	cor	2	Angiomotin isoform p80-Angiostatin complex	1	PLG
+10	1	TRUE	0.0314	20	20	2	0.1	0.1	REAC:R-MMU-2028269	rea	11	Signaling by Hippo	1	YWHAE,CASP3
+11	1	TRUE	0.0314	89	20	3	0.15	0.034	REAC:R-MMU-193704	rea	9	p75 NTR receptor-mediated signalling	1	SQSTM1,YWHAE,CASP3
+12	1	TRUE	0.0314	74	20	3	0.15	0.041	REAC:R-MMU-204998	rea	9	Cell death signalling via NRAGE, NRIF and NADE	2	SQSTM1,YWHAE,CASP3
+13	1	TRUE	0.00987	6	20	2	0.1	0.333	REAC:R-MMU-205025	rea	9	NADE modulates death signalling	3	YWHAE,CASP3

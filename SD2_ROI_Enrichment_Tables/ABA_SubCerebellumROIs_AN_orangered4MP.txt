@@ -1,0 +1,29 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0011105	embryonic lethality between implantation and placentation, incomplete penetrance	13	3	32	9.53	9.8e-05	0.0081	43	7.43	171
+MP:0008128	abnormal brain internal capsule morphology	33	4	16.8	7.75	8.7e-05	0.0081	20.1	4.98	59.6
+MP:0000780	abnormal corpus callosum morphology	143	7	6.78	5.94	7.2e-05	0.0081	7.78	2.95	17.5
+MP:0008219	abnormal dorsal telencephalic commissure morphology	147	7	6.59	5.83	8.5e-05	0.0081	7.56	2.86	16.9
+MP:0000226	abnormal mean corpuscular volume	242	9	5.15	5.58	5.5e-05	0.0081	5.98	2.57	12.3
+MP:0000778	abnormal nervous system tract morphology	210	8	5.28	5.34	0.00012	0.0081	6.05	2.46	12.9
+MP:0009850	embryonic lethality between implantation and placentation	440	12	3.78	5.09	6.2e-05	0.0081	4.48	2.16	8.54
+MP:0013293	embryonic lethality prior to tooth bud stage	788	16	2.81	4.53	0.00011	0.0081	3.43	1.82	6.15
+MP:0013292	embryonic lethality prior to organogenesis	717	15	2.9	4.51	0.00014	0.0081	3.5	1.82	6.34
+MP:0008762	embryonic lethality	1763	27	2.12	4.46	4.2e-05	0.0081	2.91	1.71	4.87
+MP:0008026	abnormal brain white matter morphology	218	8	5.08	5.2	0.00016	0.0085	5.81	2.37	12.4
+MP:0002199	abnormal brain commissure morphology	174	7	5.57	5.19	0.00024	0.011	6.32	2.4	14.1
+MP:0002086	abnormal extraembryonic tissue morphology	663	14	2.92	4.39	0.00022	0.011	3.48	1.78	6.41
+MP:0005033	abnormal trophoblast giant cell morphology	88	5	7.87	5.52	0.00042	0.015	8.86	2.71	22.6
+MP:0012057	abnormal mural trophectoderm morphology	89	5	7.78	5.48	0.00044	0.015	8.76	2.68	22.4
+MP:0012676	dilated brain ventricles	89	5	7.78	5.48	0.00044	0.015	8.76	2.68	22.4
+MP:0001697	abnormal embryo size	709	14	2.73	4.1	0.00044	0.015	3.24	1.65	5.95
+MP:0011203	abnormal parietal yolk sac morphology	145	6	5.73	4.9	6e-04	0.019	6.42	2.23	15.1
+MP:0002582	disorganized extraembryonic tissue	27	3	15.4	6.38	0.00093	0.027	17.9	3.37	61.4
+MP:0000825	dilated lateral ventricles	62	4	8.94	5.35	0.001	0.027	10	2.56	28.3
+MP:0005404	abnormal axon morphology	219	7	4.43	4.38	0.00097	0.027	4.95	1.89	11
+MP:0010866	abnormal prenatal body size	862	15	2.41	3.71	0.001	0.027	2.85	1.48	5.16
+MP:0001698	decreased embryo size	608	12	2.73	3.77	0.0012	0.029	3.15	1.53	6
+MP:0002088	abnormal embryonic growth/weight/body size	966	16	2.29	3.62	0.0011	0.029	2.73	1.45	4.89
+MP:0005380	embryo phenotype	1722	23	1.85	3.33	0.0015	0.036	2.31	1.33	3.92
+MP:0003988	disorganized embryonic tissue	35	3	11.9	5.49	0.002	0.045	13.4	2.57	44.6
+MP:0005028	abnormal trophectoderm morphology	126	5	5.5	4.33	0.0021	0.045	6.06	1.87	15.3
+MP:0014134	abnormal embryo morphology	1333	19	1.97	3.28	0.0022	0.045	2.38	1.32	4.14

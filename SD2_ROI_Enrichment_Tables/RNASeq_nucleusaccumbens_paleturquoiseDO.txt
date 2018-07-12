@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:0050700 cardiomyopathy 161 5 7.01 5.15 0.00063 0.019 8.39 2.48 22.6
+DOID:11984 hypertrophic cardiomyopathy 62 3 10.9 5.24 0.0025 0.037 12.5 2.37 42.3
+DOID:0060036 intrinsic cardiomyopathy 147 4 6.15 4.2 0.0038 0.038 7.07 1.77 20.7

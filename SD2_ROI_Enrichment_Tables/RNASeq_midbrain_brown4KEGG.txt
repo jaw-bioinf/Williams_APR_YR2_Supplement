@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04137	Mitophagy - animal	65	4	12	6.41	0.00031	0.0037	14.3	3.55	42.4
+path:hsa04918	Thyroid hormone synthesis	74	3	7.92	4.29	0.0062	0.02	8.9	1.7	29.6
+path:hsa04260	Cardiac muscle contraction	78	3	7.52	4.15	0.0072	0.02	8.42	1.61	27.9
+path:hsa04146	Peroxisome	83	3	7.06	3.99	0.0085	0.02	7.89	1.51	26.1
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	4	5.43	3.85	0.0059	0.02	6.16	1.56	17.8

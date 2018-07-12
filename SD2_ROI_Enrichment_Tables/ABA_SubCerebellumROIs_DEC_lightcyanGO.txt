@@ -1,0 +1,18 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:3837	cor	12	SP1-E2F1 complex	1	SP1
+2	1	TRUE	0.0306	3	8	1	0.125	0.333	CORUM:6560	cor	15	PHB-ANX2-CD36 complex	1	ANXA2
+3	1	TRUE	0.0306	3	8	1	0.125	0.333	CORUM:6278	cor	14	Cd22-Ship-Grb2-Shc complex	1	SHC1
+4	1	TRUE	0.0477	5	8	1	0.125	0.2	CORUM:482	cor	8	cRET-Shc-Grb2-Gab2-P85PI3K-Shp2 complex	1	SHC1
+5	1	TRUE	0.0306	3	8	1	0.125	0.333	CORUM:718	cor	13	TRPV5-S100A10-annexin 2 complex	1	ANXA2
+6	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:3201	cor	4	Ship-Shc complex, IL-3 stimulated	1	SHC1
+7	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:109	cor	9	Fertilin complex (Adam1b, Adam2)	1	ADAM2
+8	1	TRUE	0.0306	3	8	1	0.125	0.333	CORUM:6427	cor	11	Sufu-Mycbp-Gli1 complex	1	MYCBP
+9	1	TRUE	0.0306	3	8	1	0.125	0.333	CORUM:3203	cor	1	Shc-Ship-Grb2 complex, IL-3 stimulated	1	SHC1
+10	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:2553	cor	2	Shc-Grb2-mSos1 complex, EGF stimulated	1	SHC1
+11	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:2427	cor	6	Itga4-Itgb1-Adam2 complex	1	ADAM2
+12	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:5791	cor	3	PlexinA1-PlexinB1 complex	1	PLXNB1
+13	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:719	cor	17	S100A10-annexin 2 complex	1	ANXA2
+14	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:2552	cor	16	Il3rb1-Shc complex, IL-3 stimulated	1	SHC1
+15	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:3068	cor	5	Fertilin complex (Adam1a, Adam2)	1	ADAM2
+16	1	TRUE	0.0306	2	8	1	0.125	0.5	CORUM:6667	cor	7	Glis3-Wwtr1 complex	1	WWTR1
+17	1	TRUE	0.0306	3	8	1	0.125	0.333	CORUM:3202	cor	10	Il3rb1-Shc-Ship complex, IL-3 stimulated	1	SHC1

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8953854	Metabolism of RNA	646	12	3.38	4.65	0.00016	0.0092	4.1	1.96	7.97
+R-HSA-72163	mRNA Splicing - Major Pathway	183	6	5.97	5.04	0.00047	0.011	6.76	2.34	16.1
+R-HSA-72172	mRNA Splicing	191	6	5.72	4.89	0.00059	0.011	6.47	2.24	15.4
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	6	4.5	4.1	0.0021	0.03	5.02	1.74	11.9
+R-HSA-72165	mRNA Splicing - Minor Pathway	52	3	10.5	5.11	0.0029	0.033	11.7	2.25	38
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	5	4.89	3.98	0.0034	0.033	5.4	1.66	13.7

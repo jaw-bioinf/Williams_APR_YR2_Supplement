@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00020	Citrate cycle (TCA cycle)	30	4	14.3	7.08	0.00016	0.0033	17.4	4.27	52.3
+path:hsa05012	Parkinson's disease	142	6	4.53	4.12	0.002	0.021	5.08	1.76	12
+path:hsa00600	Sphingolipid metabolism	47	3	6.84	3.9	0.0094	0.036	7.55	1.46	24.6
+path:hsa00190	Oxidative phosphorylation	133	5	4.03	3.42	0.0077	0.036	4.42	1.36	11.2
+path:hsa04514	Cell adhesion molecules (CAMs)	143	5	3.75	3.22	0.01	0.036	4.09	1.26	10.4
+path:hsa04144	Endocytosis	260	7	2.89	3.01	0.01	0.036	3.18	1.21	7.1
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	5	3.6	3.11	0.012	0.037	3.92	1.21	9.9

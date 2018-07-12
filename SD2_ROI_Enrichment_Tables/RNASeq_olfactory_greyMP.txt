@@ -1,0 +1,115 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008762	embryonic lethality	1763	930	1.33	12.6	4.7e-36	2.3e-32	1.95	1.75	2.17
+MP:0013293	embryonic lethality prior to tooth bud stage	788	449	1.44	10.5	3.3e-25	7.9e-22	2.17	1.87	2.52
+MP:0013292	embryonic lethality prior to organogenesis	717	414	1.46	10.4	8.7e-25	1.4e-21	2.23	1.91	2.61
+MP:0011100	preweaning lethality, complete penetrance	799	443	1.4	9.63	1.3e-21	1.6e-18	2.03	1.75	2.36
+MP:0005380	embryo phenotype	1722	834	1.23	8.38	5.5e-17	5.4e-14	1.57	1.41	1.74
+MP:0001672	abnormal embryo development	1018	525	1.3	8.34	1.1e-16	8.6e-14	1.73	1.52	1.98
+MP:0014134	abnormal embryo morphology	1333	657	1.25	7.88	3.5e-15	2.4e-12	1.59	1.42	1.79
+MP:0004196	abnormal prenatal growth/weight/body size	1147	569	1.26	7.46	8.8e-14	5.4e-11	1.6	1.41	1.81
+MP:0002088	abnormal embryonic growth/weight/body size	966	487	1.28	7.32	2.8e-13	1.5e-10	1.64	1.43	1.88
+MP:0010866	abnormal prenatal body size	862	440	1.29	7.27	4.2e-13	2e-10	1.68	1.45	1.93
+MP:0001697	abnormal embryo size	709	370	1.32	7.18	8.4e-13	3.7e-10	1.75	1.49	2.04
+MP:0009850	embryonic lethality between implantation and placentation	440	245	1.41	7.1	1.7e-12	6.8e-10	1.99	1.63	2.42
+MP:0001698	decreased embryo size	608	316	1.32	6.5	8.7e-11	3.3e-08	1.72	1.45	2.03
+MP:0006205	embryonic lethality between implantation and somite formation	300	172	1.45	6.42	1.8e-10	6.3e-08	2.11	1.66	2.68
+MP:0008540	abnormal cerebral hemisphere morphology	609	314	1.3	6.29	3.3e-10	1.1e-07	1.69	1.43	2
+MP:0006207	embryonic lethality during organogenesis	942	461	1.24	6.24	3.9e-10	1.2e-07	1.53	1.34	1.76
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	376	1.27	6.17	6.5e-10	1.9e-07	1.6	1.37	1.86
+MP:0002085	abnormal embryonic tissue morphology	987	479	1.23	6.13	7.7e-10	2.1e-07	1.51	1.32	1.73
+MP:0000788	abnormal cerebral cortex morphology	363	199	1.39	6.08	1.3e-09	3.4e-07	1.91	1.54	2.37
+MP:0002084	abnormal developmental patterning	478	252	1.33	6.06	1.4e-09	3.4e-07	1.76	1.46	2.12
+MP:0011096	embryonic lethality between implantation and somite formation, complete penetrance	271	154	1.44	5.91	3.9e-09	9.1e-07	2.06	1.6	2.65
+MP:0001695	abnormal gastrulation	369	200	1.37	5.89	4.2e-09	9.4e-07	1.86	1.5	2.3
+MP:0003861	abnormal nervous system development	1215	572	1.19	5.78	5.7e-09	1.2e-06	1.43	1.26	1.62
+MP:0000787	abnormal telencephalon morphology	808	396	1.24	5.77	6.5e-09	1.3e-06	1.53	1.32	1.77
+MP:0010865	prenatal growth retardation	644	323	1.27	5.72	9.3e-09	1.8e-06	1.59	1.35	1.88
+MP:0000807	abnormal hippocampus morphology	346	187	1.37	5.63	1.8e-08	3.4e-06	1.84	1.48	2.3
+MP:0002152	abnormal brain morphology	1633	742	1.15	5.39	4.9e-08	8.8e-06	1.34	1.2	1.5
+MP:0000801	abnormal temporal lobe morphology	352	188	1.35	5.43	5.4e-08	9.1e-06	1.79	1.44	2.24
+MP:0003984	embryonic growth retardation	560	282	1.27	5.41	5.4e-08	9.1e-06	1.6	1.34	1.9
+MP:0003720	abnormal neural tube closure	377	199	1.34	5.38	7.1e-08	1.2e-05	1.75	1.42	2.17
+MP:0004166	abnormal limbic system morphology	393	206	1.33	5.34	8.5e-08	1.3e-05	1.73	1.4	2.13
+MP:0000783	abnormal forebrain morphology	1011	477	1.19	5.28	9.7e-08	1.5e-05	1.42	1.24	1.62
+MP:0000913	abnormal brain development	780	374	1.21	5.03	3.7e-07	5.4e-05	1.46	1.25	1.69
+MP:0002151	abnormal neural tube morphology	590	291	1.25	5.03	3.9e-07	5.5e-05	1.53	1.29	1.82
+MP:0013503	abnormal embryonic tissue cell apoptosis	172	100	1.47	5.04	4.9e-07	6.9e-05	2.16	1.57	2.97
+MP:0011091	prenatal lethality, complete penetrance	390	201	1.3	4.96	6.1e-07	8.2e-05	1.66	1.35	2.05
+MP:0000813	abnormal hippocampus layer morphology	108	67	1.57	4.81	1.7e-06	0.00022	2.53	1.69	3.84
+MP:0008284	abnormal hippocampus pyramidal cell layer	87	56	1.63	4.76	2.2e-06	0.00029	2.79	1.77	4.49
+MP:0000929	open neural tube	251	135	1.36	4.69	2.5e-06	0.00031	1.81	1.4	2.35
+MP:0000914	exencephaly	260	139	1.35	4.66	2.8e-06	0.00034	1.79	1.39	2.31
+MP:0001700	abnormal embryo turning	212	116	1.38	4.58	4.3e-06	0.00051	1.88	1.41	2.49
+MP:0013504	increased embryonic tissue cell apoptosis	142	82	1.46	4.48	7.4e-06	0.00086	2.12	1.49	3.01
+MP:0001730	embryonic growth arrest	302	156	1.31	4.39	9.4e-06	0.0011	1.66	1.31	2.11
+MP:0013294	prenatal lethality prior to heart atrial septation	61	41	1.7	4.44	1.1e-05	0.0012	3.16	1.81	5.71
+MP:0003717	pallor	213	115	1.37	4.37	1.1e-05	0.0012	1.82	1.37	2.42
+MP:0000812	abnormal dentate gyrus morphology	109	65	1.51	4.32	1.6e-05	0.0017	2.28	1.53	3.44
+MP:0003077	abnormal cell cycle	301	154	1.29	4.2	2.1e-05	0.0022	1.63	1.29	2.07
+MP:0006009	abnormal neuronal migration	137	78	1.44	4.2	2.5e-05	0.0025	2.05	1.44	2.93
+MP:0000778	abnormal nervous system tract morphology	210	112	1.35	4.14	2.9e-05	0.0029	1.77	1.33	2.36
+MP:0008219	abnormal dorsal telencephalic commissure morphology	147	82	1.41	4.07	4.3e-05	0.0041	1.95	1.39	2.75
+MP:0006208	lethality throughout fetal growth and development	504	242	1.21	4.01	4.2e-05	0.0041	1.44	1.2	1.73
+MP:0009939	abnormal hippocampus neuron morphology	116	67	1.46	4.04	4.9e-05	0.0046	2.11	1.44	3.13
+MP:0000358	abnormal cell morphology	1156	518	1.13	3.93	5.2e-05	0.0048	1.28	1.13	1.45
+MP:0005419	decreased circulating serum albumin level	106	62	1.48	4.02	5.5e-05	0.005	2.18	1.45	3.29
+MP:0010280	increased skeletal tumor incidence	34	25	1.86	4.06	5.9e-05	0.0052	4.27	1.93	10.4
+MP:0010955	abnormal respiratory electron transport chain	78	48	1.56	3.99	6.5e-05	0.0056	2.47	1.53	4.04
+MP:0002199	abnormal brain commissure morphology	174	94	1.37	3.95	6.5e-05	0.0056	1.82	1.33	2.49
+MP:0000352	decreased cell proliferation	515	245	1.2	3.85	8.2e-05	0.0069	1.42	1.18	1.7
+MP:0001696	failure to gastrulate	55	36	1.66	3.95	8.6e-05	0.0071	2.92	1.63	5.39
+MP:0000780	abnormal corpus callosum morphology	143	79	1.4	3.88	9.1e-05	0.0073	1.91	1.35	2.7
+MP:0004811	abnormal neuron physiology	667	310	1.18	3.81	8.9e-05	0.0073	1.36	1.16	1.6
+MP:0009940	abnormal hippocampus pyramidal cell morphology	69	43	1.58	3.89	1e-04	0.008	2.55	1.53	4.33
+MP:0006036	abnormal mitochondrial physiology	167	90	1.36	3.83	1e-04	0.0081	1.81	1.32	2.49
+MP:0006254	thin cerebral cortex	114	65	1.44	3.84	0.00011	0.0082	2.05	1.39	3.04
+MP:0004261	abnormal embryonic neuroepithelium morphology	129	72	1.41	3.81	0.00012	0.0089	1.95	1.36	2.82
+MP:0005382	craniofacial phenotype	1099	491	1.13	3.72	0.00012	0.0089	1.27	1.12	1.45
+MP:0008026	abnormal brain white matter morphology	218	113	1.31	3.76	0.00013	0.0094	1.67	1.26	2.2
+MP:0008932	abnormal embryonic tissue physiology	301	150	1.26	3.72	0.00014	0.01	1.54	1.22	1.95
+MP:0001405	impaired coordination	454	217	1.21	3.7	0.00015	0.01	1.43	1.18	1.73
+MP:0001293	anophthalmia	109	62	1.44	3.73	0.00017	0.011	2.04	1.37	3.05
+MP:0008942	abnormal induced cell death	250	127	1.29	3.7	0.00016	0.011	1.6	1.23	2.08
+MP:0011092	embryonic lethality, complete penetrance	420	202	1.22	3.68	0.00016	0.011	1.44	1.18	1.76
+MP:0002086	abnormal extraembryonic tissue morphology	663	306	1.17	3.63	0.00018	0.012	1.34	1.14	1.58
+MP:0000934	abnormal telencephalon development	163	87	1.35	3.65	0.00021	0.014	1.77	1.28	2.45
+MP:0000819	abnormal olfactory bulb morphology	159	85	1.35	3.63	0.00023	0.014	1.78	1.28	2.47
+MP:0001258	decreased body length	326	160	1.24	3.59	0.00023	0.014	1.5	1.19	1.88
+MP:0000428	abnormal craniofacial morphology	1095	487	1.13	3.57	0.00021	0.014	1.26	1.11	1.43
+MP:0000350	abnormal cell proliferation	966	433	1.13	3.56	0.00022	0.014	1.28	1.11	1.46
+MP:0011704	decreased fibroblast proliferation	127	70	1.39	3.62	0.00025	0.015	1.9	1.31	2.75
+MP:0014137	abnormal preimplantation embryo morphology	206	106	1.3	3.54	3e-04	0.018	1.64	1.23	2.19
+MP:0004957	abnormal blastocyst morphology	206	106	1.3	3.54	3e-04	0.018	1.64	1.23	2.19
+MP:0008410	increased cellular sensitivity to ultraviolet irradiation	29	21	1.83	3.63	0.00033	0.02	4.03	1.71	10.5
+MP:0000852	small cerebellum	154	82	1.35	3.51	0.00035	0.02	1.76	1.26	2.46
+MP:0000313	abnormal cell death	1427	622	1.1	3.42	0.00037	0.021	1.22	1.09	1.37
+MP:0002802	abnormal discrimination learning	31	22	1.8	3.59	0.00038	0.022	3.76	1.66	9.28
+MP:0012556	increased cell death	837	377	1.14	3.43	0.00038	0.022	1.28	1.11	1.48
+MP:0003111	abnormal cell nucleus morphology	172	90	1.32	3.47	4e-04	0.023	1.7	1.24	2.32
+MP:0006042	increased apoptosis	832	374	1.14	3.36	0.00048	0.026	1.28	1.1	1.48
+MP:0011203	abnormal parietal yolk sac morphology	145	77	1.34	3.37	0.00058	0.031	1.75	1.24	2.47
+MP:0000199	abnormal circulating serum albumin level	145	77	1.34	3.37	0.00058	0.031	1.75	1.24	2.47
+MP:0003232	abnormal forebrain development	247	123	1.26	3.35	0.00057	0.031	1.54	1.18	1.99
+MP:0009944	abnormal olfactory lobe morphology	178	92	1.31	3.35	6e-04	0.031	1.65	1.21	2.25
+MP:0001256	abnormal body length	377	180	1.21	3.34	0.00057	0.031	1.42	1.15	1.75
+MP:0008943	increased sensitivity to induced cell death	176	91	1.31	3.34	0.00063	0.032	1.65	1.21	2.26
+MP:0000771	abnormal brain size	343	165	1.22	3.31	0.00062	0.032	1.44	1.15	1.8
+MP:0003789	increased osteosarcoma incidence	30	21	1.77	3.42	7e-04	0.035	3.59	1.57	8.9
+MP:0009142	decreased prepulse inhibition	133	71	1.35	3.29	0.00077	0.039	1.77	1.24	2.53
+MP:0002200	abnormal brain ventricular system morphology	370	176	1.2	3.23	0.00081	0.04	1.41	1.14	1.74
+MP:0002114	abnormal axial skeleton morphology	1303	567	1.1	3.18	0.00085	0.042	1.21	1.07	1.37
+MP:0011109	lethality throughout fetal growth and development, incomplete penetrance	247	122	1.25	3.22	9e-04	0.043	1.51	1.16	1.96
+MP:0001516	abnormal motor coordination/ balance	833	372	1.13	3.18	0.00089	0.043	1.26	1.09	1.46
+MP:0001589	abnormal mean corpuscular hemoglobin	182	93	1.29	3.23	0.00091	0.044	1.61	1.19	2.19
+MP:0004522	abnormal orientation of cochlear hair cell stereociliary bundles	42	27	1.63	3.29	0.001	0.046	2.77	1.42	5.6
+MP:0008220	abnormal ventral commissure morphology	62	37	1.51	3.26	0.001	0.046	2.28	1.33	3.95
+MP:0000825	dilated lateral ventricles	62	37	1.51	3.26	0.001	0.046	2.28	1.33	3.95
+MP:0008225	abnormal anterior commissure morphology	62	37	1.51	3.26	0.001	0.046	2.28	1.33	3.95
+MP:0012676	dilated brain ventricles	89	50	1.42	3.23	0.001	0.046	1.98	1.27	3.09
+MP:0011702	abnormal fibroblast proliferation	167	86	1.3	3.19	0.001	0.046	1.64	1.19	2.26
+MP:0000432	abnormal head morphology	875	389	1.12	3.14	0.001	0.046	1.25	1.08	1.44
+MP:0013600	testis degeneration	18	14	1.97	3.32	0.0011	0.048	5.37	1.69	22.4
+MP:0000857	abnormal cerebellar foliation	104	57	1.39	3.21	0.0011	0.048	1.87	1.25	2.82
+MP:0011094	embryonic lethality before implantation, complete penetrance	143	75	1.33	3.19	0.0011	0.048	1.7	1.21	2.41
+MP:0004046	abnormal mitosis	141	74	1.33	3.17	0.0011	0.049	1.7	1.2	2.42
+MP:0000267	abnormal heart development	377	178	1.19	3.12	0.0012	0.05	1.39	1.12	1.72

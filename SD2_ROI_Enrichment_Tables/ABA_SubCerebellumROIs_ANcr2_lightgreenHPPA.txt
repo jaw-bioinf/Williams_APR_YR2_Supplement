@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002538	Abnormality of the cerebral cortex	211	13	3.28	4.72	0.00011	0.033	4.02	1.98	7.63
+HP:0002353	EEG abnormality	246	14	3.03	4.56	0.00014	0.033	3.72	1.88	6.95
+HP:0002536	Abnormal cortical gyration	194	12	3.29	4.54	2e-04	0.033	3.98	1.9	7.7
+HP:0001311	Abnormal nervous system electrophysiology	443	20	2.4	4.37	1e-04	0.033	3.1	1.72	5.41
+HP:0001322	Brain very small	434	19	2.33	4.09	0.00025	0.033	2.95	1.62	5.18
+HP:0012444	Brain atrophy	434	19	2.33	4.09	0.00025	0.033	2.95	1.62	5.18
+HP:0000605	Supranuclear gaze palsy	19	4	11.2	6.17	0.00036	0.039	14.7	3.45	48
+HP:0030178	Abnormality of central nervous system electrophysiology	340	16	2.5	4.04	0.00039	0.039	3.08	1.62	5.58
+HP:0002059	Cerebral atrophy	421	18	2.27	3.86	0.00051	0.044	2.83	1.53	5.01
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	18	2.26	3.82	0.00056	0.044	2.8	1.52	4.97

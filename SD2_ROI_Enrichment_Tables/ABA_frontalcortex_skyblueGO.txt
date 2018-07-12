@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0173	1	4	1	0.25	1	CORUM:6204	cor	2	Kremen1-AP-2 complex	1	KREMEN1
+2	1	TRUE	0.0194	3	4	1	0.25	0.333	CORUM:5402	cor	1	Cdk5-Cdk5r1-Pctk1 complex	1	CDK5R1
+3	1	TRUE	0.0173	2	4	1	0.25	0.5	CORUM:1115	cor	4	Cdk5-Cdk5r1 complex	1	CDK5R1
+4	1	TRUE	0.0173	2	4	1	0.25	0.5	CORUM:3019	cor	3	Cohesin complex, incomplete (Smc4, Crest/Ss18I1)	1	SMC4

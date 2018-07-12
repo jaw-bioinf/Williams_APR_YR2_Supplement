@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00190	Oxidative phosphorylation	133	84	5.17	18.1	9.1e-45	2.1e-42	13.6	9.38	20
+path:hsa05012	Parkinson's disease	142	82	4.73	16.8	1.9e-39	1.4e-37	10.8	7.59	15.5
+path:hsa05016	Huntington's disease	193	97	4.12	16.4	1.5e-39	1.4e-37	8.11	5.99	11
+path:hsa05010	Alzheimer's disease	171	81	3.88	14.2	1e-30	6e-29	7.08	5.12	9.76
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	72	3.96	13.6	4.7e-28	2.2e-26	7.28	5.15	10.3
+path:hsa04723	Retrograde endocannabinoid signaling	148	43	2.38	6.33	2.3e-08	8.9e-07	3.05	2.07	4.43
+path:hsa00240	Pyrimidine metabolism	101	29	2.35	5.11	5.9e-06	2e-04	2.97	1.85	4.66
+path:hsa04260	Cardiac muscle contraction	78	24	2.52	5.04	1e-05	0.00029	3.26	1.92	5.4
+path:hsa04141	Protein processing in endoplasmic reticulum	165	40	1.99	4.78	1.1e-05	0.00029	2.37	1.6	3.44
+path:hsa00230	Purine metabolism	173	39	1.85	4.21	8.4e-05	0.002	2.15	1.45	3.12
+path:hsa00480	Glutathione metabolism	54	16	2.43	3.93	0.00049	0.01	3.07	1.59	5.67
+path:hsa03013	RNA transport	171	35	1.68	3.34	0.0013	0.025	1.89	1.25	2.78
+path:hsa00620	Pyruvate metabolism	39	12	2.52	3.55	0.0017	0.031	3.23	1.48	6.62
+path:hsa04146	Peroxisome	83	20	1.97	3.33	0.0019	0.032	2.32	1.32	3.91
+path:hsa00900	Terpenoid backbone biosynthesis	22	8	2.98	3.47	0.0032	0.049	4.14	1.5	10.6

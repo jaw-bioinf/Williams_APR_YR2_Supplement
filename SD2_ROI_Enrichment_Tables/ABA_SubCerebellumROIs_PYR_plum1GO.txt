@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0162	3	2	1	0.5	0.333	CORUM:6694	cor	1	Cxcr2-Nherf1-PLC-beta-2 complex	1	PLCB2
+2	1	TRUE	0.0162	5	2	1	0.5	0.2	CORUM:990	cor	3	Agap11-AP3 complex	1	AP3M2
+3	1	TRUE	0.027	2066	55	17	0.309	0.008	TF:M00531_1	tf	2	Factor: nerf; motif: YRNCAGGAAGYRGSTBDS; match class: 1	1	SLC2A9,TMEM8C,EGFL8,AOC3,HS1BP3,MCPT2,AIF1,EPS8L2,FERMT1,AKR7A5,PLEKHJ1,KANK4,SMUG1,PLCB2,AU019823,SRPK2,ZFP820

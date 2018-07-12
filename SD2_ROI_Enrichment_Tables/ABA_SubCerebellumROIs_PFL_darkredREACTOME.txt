@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5389840	Mitochondrial translation elongation	84	3	8.32	4.42	0.0055	0.04	9.15	1.77	29.7
+R-HSA-5419276	Mitochondrial translation termination	86	3	8.12	4.36	0.0059	0.04	8.93	1.73	28.9
+R-HSA-5368287	Mitochondrial translation	87	3	8.03	4.32	0.0061	0.04	8.82	1.71	28.6
+R-HSA-72766	Translation	258	5	4.51	3.75	0.0047	0.04	5.05	1.54	13

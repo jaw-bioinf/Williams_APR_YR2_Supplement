@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:6407	cor	9	Vangl1-Vangl2 complex	1	VANGL1
+2	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:6761	cor	2	Vangl1-Dvl3 complex	1	VANGL1
+3	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:5524	cor	1	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	CBX2
+4	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:2569	cor	7	Slam-SAP-SHIP complex	1	SLAMF1
+5	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:2570	cor	12	Slam-SAP complex	1	SLAMF1
+6	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:3882	cor	8	Abcg5-Abcg8 complex	1	ABCG8
+7	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:2568	cor	3	Slam-SAP-FynT complex	1	SLAMF1
+8	1	TRUE	0.0264	3	6	1	0.167	0.333	CORUM:2874	cor	5	Slam-SAP-FynT complex	1	SLAMF1
+9	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:6759	cor	10	Vangl1-Dvl1 complex	1	VANGL1
+10	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:3888	cor	6	Abcg8-Abcg4 complex	1	ABCG8
+11	1	TRUE	0.0264	2	6	1	0.167	0.5	CORUM:6760	cor	4	Vangl1-Dvl2 complex	1	VANGL1

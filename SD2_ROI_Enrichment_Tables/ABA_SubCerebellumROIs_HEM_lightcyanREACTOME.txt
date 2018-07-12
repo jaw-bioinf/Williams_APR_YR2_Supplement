@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5674400	Constitutive Signaling by AKT1 E17K in Cancer	25	5	11.8	7.09	5.4e-05	0.0097	14.9	4.31	41.5
+R-HSA-112315	Transmission across Chemical Synapses	224	12	3.16	4.29	0.00043	0.026	3.45	1.72	6.32
+R-HSA-5663202	Diseases of signal transduction	359	16	2.63	4.12	0.00039	0.026	2.88	1.59	4.89
+R-HSA-198323	AKT phosphorylates targets in the cytosol	11	3	16.1	6.57	0.00072	0.032	22	3.74	93
+R-HSA-204005	COPII (Coat Protein 2) Mediated Vesicle Transport	68	6	5.2	4.56	0.001	0.032	5.77	2.01	13.6
+R-HSA-112316	Neuronal System	356	15	2.48	3.74	0.0011	0.032	2.7	1.46	4.65

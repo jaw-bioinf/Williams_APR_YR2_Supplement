@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0162	3	3	1	0.333	0.333	CORUM:1017	cor	4	Pcdhga1-Pcdhgb4 complex	1	PCDHGB4
+2	1	TRUE	0.0162	2	3	1	0.333	0.5	CORUM:1018	cor	1	Pcdha7-Pcdhgb4 complex	1	PCDHGB4
+3	1	TRUE	0.0162	3	3	1	0.333	0.333	CORUM:5524	cor	3	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	BMI1
+4	1	TRUE	0.0202	5	3	1	0.333	0.2	CORUM:1475	cor	2	S-phase-specific E2F-p107 complex	1	E2F4

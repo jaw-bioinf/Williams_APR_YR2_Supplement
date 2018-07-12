@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0431	2	5	1	0.2	0.5	CORUM:2151	cor	2	Arnt-Sim1 complex	1	SIM1
+2	1	TRUE	0.0431	4	5	1	0.2	0.25	CORUM:968	cor	8	Crb1-Mupp1-Pals1-Mpp4 complex	1	MPP4
+3	1	TRUE	0.0431	2	5	1	0.2	0.5	CORUM:5358	cor	5	GTP-Rho-Rhpn1-Ropn1 complex	1	ROPN1
+4	1	TRUE	0.0431	3	5	1	0.2	0.333	CORUM:296	cor	10	Pcna-Msh2-Msh6 complex	1	MSH2

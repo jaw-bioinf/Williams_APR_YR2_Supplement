@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:5419	schizophrenia	635	26	2.47	5.05	1e-05	0.0012	2.98	1.83	4.69
+DOID:2468	psychotic disorder	637	26	2.46	5.03	1.1e-05	0.0012	2.97	1.82	4.67
+DOID:1561	cognitive disorder	812	28	2.08	4.25	1e-04	0.0077	2.48	1.55	3.85
+DOID:150	disease of mental health	1255	37	1.78	3.96	0.00017	0.0096	2.18	1.43	3.28
+DOID:3963	thyroid carcinoma	185	10	3.26	4.05	0.00094	0.041	3.62	1.66	7.07
+DOID:1781	thyroid cancer	189	10	3.19	3.97	0.0011	0.041	3.53	1.62	6.91

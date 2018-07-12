@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003175	Hypoplastic ischia	12	3	29.2	9.1	0.00012	0.015	42.5	7.02	183
+HP:0003174	Abnormality of the ischium	13	3	27	8.72	0.00015	0.015	38.3	6.42	161
+HP:0003542	Increased serum pyruvate	34	4	13.8	6.94	0.00017	0.015	17.6	4.21	55.5
+HP:0004366	Abnormality of glycolysis	35	4	13.4	6.83	0.00019	0.015	17.1	4.08	53.5
+HP:0002151	Increased serum lactate	131	7	6.25	5.69	8.5e-05	0.015	8.22	2.92	20.3

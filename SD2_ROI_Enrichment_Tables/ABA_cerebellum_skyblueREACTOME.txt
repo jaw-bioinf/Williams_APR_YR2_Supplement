@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	57	3	17.6	6.88	0.00064	0.0036	20.4	3.85	69.3
+R-HSA-1989781	PPARA activates gene expression	117	4	11.4	6.21	0.00038	0.0036	13.4	3.35	39.6
+R-HSA-400206	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	120	4	11.1	6.12	0.00042	0.0036	13.1	3.26	38.5
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	95	3	10.5	5.12	0.0028	0.0092	11.9	2.28	39.8
+R-HSA-194138	Signaling by VEGF	103	3	9.72	4.88	0.0035	0.0092	11	2.1	36.5
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	6	4.11	3.86	0.0028	0.0092	4.94	1.64	12.5
+R-HSA-556833	Metabolism of lipids	696	7	3.36	3.53	0.0038	0.0092	4.1	1.48	9.92
+R-HSA-1430728	Metabolism	1899	12	2.11	2.94	0.0061	0.013	2.86	1.25	6.29
+R-HSA-166520	Signalling by NGF	147	3	6.81	3.89	0.0094	0.018	7.59	1.46	25.1
+R-HSA-196854	Metabolism of vitamins and cofactors	184	3	5.44	3.33	0.017	0.029	6.01	1.16	19.8

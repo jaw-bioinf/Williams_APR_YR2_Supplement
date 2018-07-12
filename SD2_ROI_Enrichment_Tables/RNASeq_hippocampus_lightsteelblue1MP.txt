@@ -1,0 +1,21 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009745	abnormal behavioral response to xenobiotic	295	9	5.06	5.52	6e-05	0.015	5.98	2.55	12.5
+MP:0002206	abnormal CNS synaptic transmission	653	13	3.3	4.75	1e-04	0.015	4.05	1.99	7.73
+MP:0003635	abnormal synaptic transmission	740	14	3.13	4.72	9.2e-05	0.015	3.9	1.96	7.33
+MP:0003996	clonic seizures	19	3	26.2	8.55	0.00019	0.02	32.5	5.89	118
+MP:0001364	decreased anxiety-related response	150	6	6.63	5.41	0.00027	0.02	7.56	2.61	18
+MP:0011479	abnormal catecholamine level	151	6	6.58	5.39	0.00028	0.02	7.51	2.59	17.9
+MP:0004215	abnormal myocardial fiber physiology	158	6	6.29	5.23	0.00036	0.02	7.16	2.47	17.1
+MP:0002065	abnormal fear/anxiety-related behavior	369	9	4.04	4.65	0.00033	0.02	4.71	2.01	9.82
+MP:0001362	abnormal anxiety-related response	332	8	3.99	4.33	0.00078	0.039	4.58	1.85	9.86
+MP:0003393	decreased cardiac output	34	3	14.6	6.2	0.0011	0.042	16.8	3.18	56.4
+MP:0003233	prolonged QT interval	36	3	13.8	6	0.0013	0.042	15.7	3	52.6
+MP:0009506	abnormal mammary gland alveolus morphology	37	3	13.4	5.91	0.0014	0.042	15.3	2.91	51.1
+MP:0010559	heart block	78	4	8.5	5.18	0.0012	0.042	9.5	2.43	26.9
+MP:0010911	abnormal pulmonary acinus morphology	265	7	4.38	4.35	0.001	0.042	4.96	1.88	11.2
+MP:0010899	abnormal pulmonary alveolar system morphology	277	7	4.19	4.2	0.0013	0.042	4.74	1.79	10.6
+MP:0009505	abnormal mammary gland lobule morphology	40	3	12.4	5.64	0.0018	0.049	14	2.69	46.5
+MP:0004780	abnormal surfactant secretion	41	3	12.1	5.56	0.0019	0.049	13.7	2.62	45.2
+MP:0003899	abnormal QT interval	42	3	11.8	5.48	0.002	0.049	13.3	2.55	44
+MP:0010560	intraventricular block	43	3	11.6	5.41	0.0022	0.049	13	2.49	42.8
+MP:0010636	bundle branch block	43	3	11.6	5.41	0.0022	0.049	13	2.49	42.8

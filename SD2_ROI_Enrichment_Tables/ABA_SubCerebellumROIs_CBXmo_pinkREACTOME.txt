@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3928662	EPHB-mediated forward signaling	39	9	5.23	5.68	3.8e-05	0.023	6.61	2.74	14.4
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	90	13	3.27	4.65	0.00015	0.044	3.74	1.89	6.84
+R-HSA-5654738	Signaling by FGFR2	73	11	3.41	4.45	0.00033	0.044	3.91	1.84	7.56
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	11	3.37	4.39	0.00037	0.044	3.85	1.82	7.44
+R-HSA-3858494	Beta-catenin independent WNT signaling	137	16	2.65	4.17	0.00034	0.044	2.93	1.61	5.01

@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	5	9.26	6.12	0.00019	0.0061	10.7	3.23	27.6
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	5	9.26	6.12	0.00019	0.0061	10.7	3.23	27.6
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	4	8.97	5.36	0.00099	0.017	10.1	2.58	28.6
+R-HSA-72649	Translation initiation complex formation	58	3	11	5.26	0.0025	0.017	12.3	2.37	40.2
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	3	11	5.26	0.0025	0.017	12.3	2.37	40.2
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	3	10.8	5.2	0.0026	0.017	12.1	2.33	39.4
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	4	7.68	4.86	0.0018	0.017	8.56	2.19	24.2
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	4	7.61	4.83	0.0018	0.017	8.49	2.17	24
+R-HSA-72613	Eukaryotic Translation Initiation	119	4	7.16	4.64	0.0023	0.017	7.96	2.04	22.4
+R-HSA-72737	Cap-dependent Translation Initiation	119	4	7.16	4.64	0.0023	0.017	7.96	2.04	22.4
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	4	6.41	4.31	0.0034	0.02	7.09	1.82	19.9
+R-HSA-5663205	Infectious disease	326	6	3.92	3.68	0.004	0.021	4.41	1.52	10.6
+R-HSA-168255	Influenza Life Cycle	143	4	5.96	4.1	0.0044	0.022	6.57	1.69	18.4
+R-HSA-168254	Influenza Infection	154	4	5.53	3.89	0.0057	0.026	6.08	1.57	17.1
+R-HSA-192823	Viral mRNA Translation	89	3	7.18	4.02	0.0083	0.035	7.83	1.53	25.2
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	3	6.87	3.91	0.0094	0.037	7.48	1.46	24
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	95	3	6.73	3.85	0.0099	0.037	7.31	1.43	23.5
+R-HSA-72689	Formation of a pool of free 40S subunits	101	3	6.33	3.7	0.012	0.042	6.86	1.34	22
+R-HSA-194138	Signaling by VEGF	103	3	6.21	3.65	0.012	0.042	6.72	1.31	21.5
+R-HSA-397014	Muscle contraction	201	4	4.24	3.19	0.014	0.044	4.61	1.19	12.9
+R-HSA-5617833	Cilium Assembly	201	4	4.24	3.19	0.014	0.044	4.61	1.19	12.9
+R-HSA-195258	RHO GTPase Effectors	313	5	3.4	2.97	0.015	0.044	3.73	1.14	9.51

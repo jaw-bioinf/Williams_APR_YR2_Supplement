@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-111465	Apoptotic cleavage of cellular proteins	38	3	22	7.78	0.00033	0.0076	25.8	4.83	88.4
+R-HSA-75153	Apoptotic execution  phase	51	3	16.4	6.61	0.00079	0.0091	18.8	3.56	63.2
+R-HSA-15869	Metabolism of nucleotides	101	3	8.26	4.41	0.0056	0.037	9.16	1.77	30
+R-HSA-109581	Apoptosis	108	3	7.73	4.22	0.0067	0.037	8.54	1.65	27.9
+R-HSA-5357801	Programmed Cell Death	115	3	7.26	4.05	0.008	0.037	8	1.55	26.1

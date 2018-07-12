@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1852241	Organelle biogenesis and maintenance	269	19	2.97	5.11	2.2e-05	0.0079	3.3	1.92	5.4
+R-HSA-1592230	Mitochondrial biogenesis	68	8	4.95	5.1	2e-04	0.024	5.63	2.3	12
+R-HSA-73894	DNA Repair	315	19	2.54	4.33	0.00018	0.024	2.78	1.62	4.52

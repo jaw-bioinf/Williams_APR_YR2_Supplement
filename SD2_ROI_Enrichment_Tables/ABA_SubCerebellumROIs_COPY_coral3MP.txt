@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004738	abnormal auditory brainstem response	365	6	5.65	4.9	0.00052	0.033	7.07	2.32	18.3
+MP:0003878	abnormal ear physiology	490	7	4.91	4.8	0.00039	0.033	6.35	2.26	15.7
+MP:0006335	abnormal hearing electrophysiology	381	6	5.41	4.75	0.00065	0.033	6.76	2.22	17.5

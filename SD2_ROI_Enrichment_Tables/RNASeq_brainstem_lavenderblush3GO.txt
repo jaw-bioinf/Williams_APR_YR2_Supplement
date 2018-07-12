@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.019	13	5	2	0.4	0.154	HP:0001146	hp	2	Pigmentary retinal degeneration	1	ATXN7,SAG
+2	1	TRUE	0.00847	193	5	4	0.8	0.021	HP:0000597	hp	1	Ophthalmoparesis	1	ATXN7,SLC52A3,POLG,SAG
+3	1	TRUE	0.00847	170	5	4	0.8	0.024	HP:0000602	hp	1	Ophthalmoplegia	2	ATXN7,SLC52A3,POLG,SAG
+4	1	TRUE	0.0289	27	11	2	0.182	0.074	KEGG:04744	keg	4	Phototransduction	1	SAG,CALML3

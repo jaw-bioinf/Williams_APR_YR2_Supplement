@@ -1,0 +1,88 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0012253 Abnormal respiratory epithelium morphology 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0200073 Respiratory insufficiency due to defective ciliary clearance 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0005938 Abnormal respiratory motile cilium morphology 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012255 Dynein arm defect of respiratory motile cilia 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012258 Abnormal axonemal organization of respiratory motile cilia 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012260 Abnormal central microtubular pair morphology of respiratory motile cilia 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012267 Absent respiratory ciliary axoneme radial spokes 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0200106 Absent/shortened dynein arms 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012256 Absent outer dynein arms 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012257 Absent inner dynein arms 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0200108 Shortened outer dynein arms 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012259 Absent inner and outer dynein arms 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0200109 Absent/shortened outer dynein arms 32 5 26.1 11.1 8.3e-07 1.8e-05 39.7 10.6 125
+HP:0012265 Ciliary dyskinesia 33 5 25.3 10.9 9.8e-07 2e-05 38.3 10.3 120
+HP:0002257 Chronic rhinitis 36 5 23.2 10.4 1.5e-06 2.8e-05 34.6 9.34 107
+HP:0012208 Nonmotile sperm 36 5 23.2 10.4 1.5e-06 2.8e-05 34.6 9.34 107
+HP:0012206 Abnormal sperm motility 38 5 22 10.1 2e-06 3.2e-05 32.5 8.8 100
+HP:0012207 Reduced sperm motility 38 5 22 10.1 2e-06 3.2e-05 32.5 8.8 100
+HP:0012735 Cough 39 5 21.4 9.95 2.3e-06 3.2e-05 31.6 8.55 97
+HP:0012384 Rhinitis 39 5 21.4 9.95 2.3e-06 3.2e-05 31.6 8.55 97
+HP:0100582 Nasal polyposis 39 5 21.4 9.95 2.3e-06 3.2e-05 31.6 8.55 97
+HP:0004469 Chronic bronchitis 40 5 20.9 9.82 2.6e-06 3.3e-05 30.7 8.32 94.2
+HP:0002688 Absent frontal sinuses 40 5 20.9 9.82 2.6e-06 3.3e-05 30.7 8.32 94.2
+HP:0000389 Chronic otitis media 41 5 20.4 9.68 3e-06 3.6e-05 29.8 8.1 91.3
+HP:0001748 Polysplenia 42 5 19.9 9.56 3.4e-06 3.7e-05 29 7.89 88.7
+HP:0009119 Aplasia/Hypoplasia of the frontal sinuses 42 5 19.9 9.56 3.4e-06 3.7e-05 29 7.89 88.7
+HP:0000433 Abnormality of the nasal mucosa 43 5 19.4 9.44 3.8e-06 4.1e-05 28.2 7.69 86.1
+HP:0009120 Aplasia/Hypoplasia involving the sinuses 44 5 19 9.32 4.3e-06 4.4e-05 27.5 7.5 83.7
+HP:0002687 Abnormality of frontal sinus 45 5 18.6 9.2 4.8e-06 4.6e-05 26.8 7.32 81.5
+HP:0011109 Chronic sinusitis 45 5 18.6 9.2 4.8e-06 4.6e-05 26.8 7.32 81.5
+HP:0100750 Atelectasis 47 5 17.8 8.98 6e-06 5.6e-05 25.5 6.99 77.5
+HP:0001334 Communicating hydrocephalus 48 5 17.4 8.88 6.7e-06 6e-05 24.9 6.83 75.5
+HP:0005425 Recurrent sinopulmonary infections 49 5 17.1 8.78 7.4e-06 6.4e-05 24.4 6.68 73.7
+HP:0002643 Neonatal respiratory distress 50 5 16.7 8.68 8.2e-06 6.9e-05 23.8 6.54 71.9
+HP:0001746 Asplenia 56 5 14.9 8.15 1.4e-05 0.00012 21 5.79 63.1
+HP:0009799 Supernumerary spleens 61 5 13.7 7.76 2.2e-05 0.00017 19.1 5.28 57.1
+HP:0012041 Decreased fertility in males 61 5 13.7 7.76 2.2e-05 0.00017 19.1 5.28 57.1
+HP:0003251 Male infertility 61 5 13.7 7.76 2.2e-05 0.00017 19.1 5.28 57.1
+HP:0011108 Recurrent sinusitis 62 5 13.5 7.69 2.4e-05 0.00018 18.7 5.19 56
+HP:0006536 Obstructive lung disease 65 5 12.9 7.49 3e-05 2e-04 17.8 4.94 53
+HP:0006510 Chronic obstructive pulmonary disease 65 5 12.9 7.49 3e-05 2e-04 17.8 4.94 53
+HP:0010451 Aplasia/Hypoplasia of the spleen 65 5 12.9 7.49 3e-05 2e-04 17.8 4.94 53
+HP:0002098 Respiratory distress 108 6 9.29 6.78 2.8e-05 2e-04 13.2 4.13 37.1
+HP:0002837 Recurrent bronchitis 72 5 11.6 7.05 5e-05 0.00032 15.9 4.43 47.2
+HP:0002110 Bronchiectasis 77 5 10.9 6.78 6.9e-05 0.00044 14.8 4.12 43.7
+HP:0012387 Bronchitis 80 5 10.4 6.63 8.3e-05 0.00052 14.2 3.96 42
+HP:0002315 Headache 195 7 6 5.57 8.8e-05 0.00053 8.77 2.96 23.5
+HP:0006532 Recurrent pneumonia 86 5 9.72 6.35 0.00012 7e-04 13.1 3.67 38.6
+HP:0000458 Anosmia 87 5 9.61 6.31 0.00012 0.00073 13 3.62 38.1
+HP:0002094 Dyspnea 213 7 5.49 5.25 0.00015 0.00088 7.96 2.69 21.3
+HP:0012263 Immotile cilia 99 5 8.44 5.83 0.00023 0.0013 11.3 3.16 33
+HP:0012261 Abnormal respiratory motile cilium physiology 100 5 8.36 5.79 0.00024 0.0013 11.1 3.13 32.7
+HP:0012262 Abnormal ciliary motility 100 5 8.36 5.79 0.00024 0.0013 11.1 3.13 32.7
+HP:0000246 Sinusitis 101 5 8.27 5.75 0.00025 0.0013 11 3.09 32.3
+HP:0002783 Recurrent lower respiratory tract infections 101 5 8.27 5.75 0.00025 0.0013 11 3.09 32.3
+HP:0000789 Infertility 103 5 8.11 5.68 0.00028 0.0014 10.8 3.03 31.6
+HP:0000403 Recurrent otitis media 106 5 7.88 5.58 0.00032 0.0016 10.5 2.94 30.6
+HP:0002109 Abnormality of the bronchi 106 5 7.88 5.58 0.00032 0.0016 10.5 2.94 30.6
+HP:0003546 Exercise intolerance 112 5 7.46 5.39 0.00041 0.002 9.86 2.77 28.9
+HP:0000245 Abnormality of the paranasal sinuses 115 5 7.27 5.3 0.00046 0.0022 9.58 2.7 28
+HP:0002099 Asthma 119 5 7.02 5.19 0.00054 0.0025 9.24 2.6 27
+HP:0000025 Functional abnormality of male internal genitalia 121 5 6.91 5.13 0.00059 0.0027 9.07 2.55 26.5
+HP:0002788 Recurrent upper respiratory tract infections 121 5 6.91 5.13 0.00059 0.0027 9.07 2.55 26.5
+HP:0012874 Abnormal male reproductive system physiology 128 5 6.53 4.94 0.00076 0.0034 8.54 2.41 24.9
+HP:0012647 Abnormal inflammatory response 714 11 2.58 3.66 0.0011 0.0047 4.36 1.67 11.5
+HP:0012649 Increased inflammatory response 714 11 2.58 3.66 0.0011 0.0047 4.36 1.67 11.5
+HP:0000144 Decreased fertility 141 5 5.93 4.63 0.0012 0.005 7.69 2.17 22.4
+HP:0002090 Pneumonia 141 5 5.93 4.63 0.0012 0.005 7.69 2.17 22.4
+HP:0100326 Immunologic hypersensitivity 143 5 5.84 4.59 0.0013 0.0052 7.58 2.14 22
+HP:0004408 Abnormality of the sense of smell 152 5 5.5 4.4 0.0017 0.0068 7.1 2.01 20.6
+HP:0005607 Abnormality of the tracheobronchial system 236 6 4.25 4.01 0.002 0.0081 5.66 1.78 15.6
+HP:0011534 Abnormal spatial orientation of the cardiac segments 168 5 4.97 4.1 0.0026 0.01 6.37 1.8 18.5
+HP:0001696 Situs inversus totalis 168 5 4.97 4.1 0.0026 0.01 6.37 1.8 18.5
+HP:0001651 Dextrocardia 174 5 4.8 3.99 0.003 0.011 6.13 1.74 17.8
+HP:0004307 Abnormal anatomic location of the heart 175 5 4.78 3.97 0.0031 0.011 6.09 1.73 17.7
+HP:0004302 Functional motor problems 254 6 3.95 3.78 0.0029 0.011 5.22 1.65 14.4
+HP:0000481 Abnormality of the cornea 561 9 2.68 3.37 0.0031 0.011 3.99 1.48 10.4
+HP:0000260 Wide anterior fontanel 51 3 9.83 4.93 0.0032 0.012 11.9 2.18 42.8
+HP:0001739 Abnormality of the nasopharynx 178 5 4.7 3.92 0.0033 0.012 5.98 1.69 17.3
+HP:0000388 Otitis media 181 5 4.62 3.88 0.0036 0.013 5.88 1.66 17
+HP:0000405 Conductive hearing impairment 275 6 3.65 3.55 0.0043 0.015 4.78 1.51 13.2
+HP:0000600 Abnormality of the pharynx 202 5 4.14 3.56 0.0057 0.02 5.22 1.48 15.1
+HP:0009122 Aplasia/hypoplasia affecting bones of the axial skeleton 644 9 2.34 2.91 0.008 0.028 3.37 1.25 8.75
+HP:0011495 Abnormality of corneal epithelium 74 3 6.78 3.9 0.0091 0.031 8.01 1.48 28.4
+HP:0011452 Functional abnormality of the middle ear 325 6 3.09 3.06 0.0098 0.033 3.97 1.25 10.9
+HP:0002087 Abnormality of the upper respiratory tract 333 6 3.01 2.99 0.011 0.037 3.87 1.22 10.6
+HP:0009116 Aplasia/Hypoplasia involving bones of the skull 579 8 2.31 2.67 0.014 0.047 3.14 1.12 8.23

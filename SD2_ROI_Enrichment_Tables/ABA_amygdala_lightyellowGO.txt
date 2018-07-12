@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0436	2	6	1	0.167	0.5	CORUM:6201	cor	1	Dock3-Elmo-RhoG complex	1	RHOG
+2	1	TRUE	0.0436	2	6	1	0.167	0.5	CORUM:2771	cor	4	RAD51-DMC1 complex	1	RAD51
+3	1	TRUE	0.0482	5	6	1	0.167	0.2	CORUM:122	cor	3	MCM complex	1	MCM7
+4	1	TRUE	0.0436	3	6	1	0.167	0.333	CORUM:6227	cor	2	S4-synectin-RhoGDI1 complex	1	RHOG
+5	1	TRUE	0.0436	3	6	1	0.167	0.333	CORUM:5574	cor	5	Vps29-Vps35-Vps26a complex	1	VPS29
+6	1	TRUE	0.0464	4	6	1	0.167	0.25	CORUM:1164	cor	6	ActRIIA-ActRIB-Smad3-Arip1 complex	1	ACVR1B

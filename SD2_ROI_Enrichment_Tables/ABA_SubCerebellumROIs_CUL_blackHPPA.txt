@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000751	Personality changes	49	11	4.08	5.24	4.8e-05	0.033	5.21	2.36	10.6
+HP:0002529	Neuronal loss in central nervous system	60	12	3.64	4.97	7.4e-05	0.033	4.51	2.14	8.81
+HP:0003487	Babinski sign	239	28	2.13	4.37	7.8e-05	0.033	2.5	1.57	3.85
+HP:0001260	Dysarthria	373	38	1.85	4.2	8.6e-05	0.033	2.18	1.46	3.19

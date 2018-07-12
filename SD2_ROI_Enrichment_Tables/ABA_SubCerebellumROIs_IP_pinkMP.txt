@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004858	abnormal nervous system regeneration	25	3	27.2	8.72	0.00017	0.04	33	6.07	117
+MP:0014141	abnormal mesoderm morphology	135	5	8.38	5.76	3e-04	0.04	9.73	2.93	25.4

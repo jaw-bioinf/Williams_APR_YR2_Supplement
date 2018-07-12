@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-399719	Trafficking of AMPA receptors	31	8	5.56	5.61	6.2e-05	0.0091	7.25	2.79	16.9
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	8	5.56	5.61	6.2e-05	0.0091	7.25	2.79	16.9
+R-HSA-72163	mRNA Splicing - Major Pathway	183	22	2.59	4.79	3.9e-05	0.0091	2.89	1.75	4.59
+R-HSA-72172	mRNA Splicing	191	22	2.48	4.56	7.4e-05	0.0091	2.76	1.66	4.36
+R-HSA-199991	Membrane Trafficking	599	46	1.65	3.64	0.00049	0.048	1.79	1.27	2.46

@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-6794362 Protein-protein interactions at synapses 70 3 11.9 5.51 0.002 0.027 13.4 2.57 44.5
+R-HSA-5684996 MAPK1/MAPK3 signaling 249 5 5.59 4.4 0.0018 0.027 6.43 1.94 16.9
+R-HSA-5683057 MAPK family signaling cascades 288 5 4.83 3.96 0.0034 0.031 5.52 1.66 14.5

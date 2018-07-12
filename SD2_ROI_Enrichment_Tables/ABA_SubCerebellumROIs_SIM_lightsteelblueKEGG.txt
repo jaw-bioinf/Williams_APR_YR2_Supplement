@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	72	3	9.89	4.93	0.0033	0.02	11.4	2.15	38.6
+path:hsa04728	Dopaminergic synapse	130	3	5.48	3.35	0.017	0.034	6.13	1.17	20.5
+path:hsa04210	Apoptosis	138	3	5.16	3.21	0.02	0.034	5.76	1.1	19.2
+path:hsa05200	Pathways in cancer	395	5	3	2.67	0.023	0.034	3.47	1.02	9.4
+path:hsa04217	Necroptosis	164	3	4.34	2.82	0.031	0.037	4.81	0.92	16
+path:hsa04510	Focal adhesion	199	3	3.58	2.4	0.05	0.05	3.93	0.753	13

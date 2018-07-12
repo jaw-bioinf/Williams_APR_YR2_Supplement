@@ -1,0 +1,44 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0414	10	44	2	0.045	0.2	GO:0031033	BP	4	myosin filament organization	1	MYOM2,MYBPH
+2	1	TRUE	0.0414	9	44	2	0.045	0.222	GO:0031034	BP	4	myosin filament assembly	2	MYOM2,MYBPH
+3	1	TRUE	0.0414	9	44	2	0.045	0.222	GO:0071688	BP	4	striated muscle myosin thick filament assembly	3	MYOM2,MYBPH
+4	1	TRUE	0.0447	191	44	4	0.091	0.021	GO:0005996	BP	8	monosaccharide metabolic process	1	GALK1,FBP2,CAR5A,GCK
+5	1	TRUE	0.0437	68	44	3	0.068	0.044	GO:0046364	BP	8	monosaccharide biosynthetic process	2	FBP2,CAR5A,GCK
+6	1	TRUE	0.0437	164	44	4	0.091	0.024	GO:0019318	BP	8	hexose metabolic process	2	GALK1,FBP2,CAR5A,GCK
+7	1	TRUE	0.0414	63	44	3	0.068	0.048	GO:0019319	BP	8	hexose biosynthetic process	3	FBP2,CAR5A,GCK
+8	1	TRUE	0.0414	60	44	3	0.068	0.05	GO:0006094	BP	8	gluconeogenesis	1	FBP2,CAR5A,GCK
+9	1	TRUE	0.0447	192	44	4	0.091	0.021	GO:0009123	BP	7	nucleoside monophosphate metabolic process	1	AMPD3,GALK1,CCNB1,GCK
+10	1	TRUE	0.0447	185	44	4	0.091	0.022	GO:0009126	BP	7	purine nucleoside monophosphate metabolic process	2	AMPD3,GALK1,CCNB1,GCK
+11	1	TRUE	0.0447	185	44	4	0.091	0.022	GO:0009161	BP	7	ribonucleoside monophosphate metabolic process	2	AMPD3,GALK1,CCNB1,GCK
+12	1	TRUE	0.0447	184	44	4	0.091	0.022	GO:0009167	BP	7	purine ribonucleoside monophosphate metabolic process	3	AMPD3,GALK1,CCNB1,GCK
+13	1	TRUE	0.0468	89	44	3	0.068	0.034	GO:0009156	BP	7	ribonucleoside monophosphate biosynthetic process	3	AMPD3,GALK1,GCK
+14	1	TRUE	0.0498	206	44	4	0.091	0.019	GO:0009141	BP	7	nucleoside triphosphate metabolic process	1	AMPD3,GALK1,CCNB1,GCK
+15	1	TRUE	0.0447	191	44	4	0.091	0.021	GO:0009144	BP	7	purine nucleoside triphosphate metabolic process	2	AMPD3,GALK1,CCNB1,GCK
+16	1	TRUE	0.0447	186	44	4	0.091	0.022	GO:0009199	BP	7	ribonucleoside triphosphate metabolic process	2	AMPD3,GALK1,CCNB1,GCK
+17	1	TRUE	0.0447	184	44	4	0.091	0.022	GO:0009205	BP	7	purine ribonucleoside triphosphate metabolic process	3	AMPD3,GALK1,CCNB1,GCK
+18	1	TRUE	0.0447	169	44	4	0.091	0.024	GO:0046034	BP	7	ATP metabolic process	4	AMPD3,GALK1,CCNB1,GCK
+19	1	TRUE	0.0468	88	44	3	0.068	0.034	GO:0009127	BP	7	purine nucleoside monophosphate biosynthetic process	1	AMPD3,GALK1,GCK
+20	1	TRUE	0.0468	88	44	3	0.068	0.034	GO:0009168	BP	7	purine ribonucleoside monophosphate biosynthetic process	2	AMPD3,GALK1,GCK
+21	1	TRUE	0.0447	73	44	3	0.068	0.041	GO:0009132	BP	7	nucleoside diphosphate metabolic process	1	AMPD3,GALK1,GCK
+22	1	TRUE	0.0414	62	44	3	0.068	0.048	GO:0009135	BP	7	purine nucleoside diphosphate metabolic process	2	AMPD3,GALK1,GCK
+23	1	TRUE	0.0423	65	44	3	0.068	0.046	GO:0009185	BP	7	ribonucleoside diphosphate metabolic process	2	AMPD3,GALK1,GCK
+24	1	TRUE	0.0414	62	44	3	0.068	0.048	GO:0009179	BP	7	purine ribonucleoside diphosphate metabolic process	3	AMPD3,GALK1,GCK
+25	1	TRUE	0.0414	58	44	3	0.068	0.052	GO:0046031	BP	7	ADP metabolic process	4	AMPD3,GALK1,GCK
+26	1	TRUE	0.0281	29	44	3	0.068	0.103	GO:0016459	CC	13	myosin complex	1	MYOM2,MYL6B,MYBPH
+27	1	TRUE	0.0447	19	44	2	0.045	0.105	GO:0016460	CC	13	myosin II complex	2	MYOM2,MYBPH
+28	1	TRUE	0.0414	11	44	2	0.045	0.182	GO:0005859	CC	13	muscle myosin complex	1	MYOM2,MYBPH
+29	1	TRUE	0.0447	17	44	2	0.045	0.118	GO:0031430	CC	14	M band	1	MYOM2,MYBPH
+30	1	TRUE	0.0468	21	44	2	0.045	0.095	GO:0000780	CC	2	condensed nuclear chromosome, centromeric region	1	CENPA,CCNB1
+31	1	TRUE	0.0414	10	44	2	0.045	0.2	GO:0000778	CC	2	condensed nuclear chromosome kinetochore	1	CENPA,CCNB1
+32	1	TRUE	0.0414	11	44	2	0.045	0.182	GO:0097493	MF	12	structural molecule activity conferring elasticity	1	MYOM2,MYBPH
+33	1	TRUE	0.0414	13	44	2	0.045	0.154	GO:0051371	MF	9	muscle alpha-actinin binding	1	MYOM2,MYBPH
+34	1	TRUE	0.0281	27	44	3	0.068	0.111	GO:0008307	MF	11	structural constituent of muscle	1	MYOM2,MYL6B,MYBPH
+35	1	TRUE	0.0447	18	44	2	0.045	0.111	GO:0019200	MF	17	carbohydrate kinase activity	1	GALK1,GCK
+36	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:5706	cor	18	Cdc2-Ccnb1 complex	1	CCNB1
+37	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:3222	cor	16	MAML3-RBP-Jkappa-Notch3 complex	1	RBPJ
+38	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:5547	cor	5	Cdc2-Ccnb1 complex	1	CCNB1
+39	1	TRUE	0.0136	3	3	1	0.333	0.333	CORUM:3235	cor	6	PTF1 complex (Ptf1a, Tcf12, Rbpj)	1	RBPJ
+40	1	TRUE	0.0151	4	3	1	0.333	0.25	CORUM:694	cor	15	Bad-Gk-Wave1-Pkaca-Ppp1cc complex	1	GCK
+41	1	TRUE	0.0114	2	3	1	0.333	0.5	CORUM:3218	cor	3	MAML2-RBP-Jkappa-Notch3 complex	1	RBPJ
+42	1	TRUE	0.0389	32	15	2	0.133	0.062	KEGG:00052	keg	10	Galactose metabolism	1	GALK1,GCK
+43	1	TRUE	0.00462	49	15	3	0.2	0.061	KEGG:00520	keg	1	Amino sugar and nucleotide sugar metabolism	1	GALK1,GCK,CHIA1

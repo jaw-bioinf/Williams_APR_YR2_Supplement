@@ -1,0 +1,17 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:1938	cor	7	Olfr992-Reep1 complex	1	REEP1
+2	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:499	cor	12	Ryk-Wny1 complex	1	RYK
+3	1	TRUE	0.0258	3	7	1	0.143	0.333	CORUM:498	cor	16	Ryk-Wny1-Fzd8 complex	1	RYK
+4	1	TRUE	0.022	1	7	1	0.143	1	CORUM:2977	cor	5	Ccd1-Axin complex	1	DIXDC1
+5	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:2980	cor	9	Ccd1-Mekk4 complex	1	DIXDC1
+6	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:6424	cor	15	FOXO1-CREB1 complex	1	FOXO1
+7	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:2976	cor	8	Ccd1-Dvl2 complex	1	DIXDC1
+8	1	TRUE	0.022	1	7	1	0.143	1	CORUM:6537	cor	6	ANKS3-ANKS6 complex	1	ANKS3
+9	1	TRUE	0.0258	3	7	1	0.143	0.333	CORUM:5524	cor	11	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	PCGF2
+10	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:6425	cor	14	FOXO1-ATF4 complex	1	FOXO1
+11	1	TRUE	0.0258	3	7	1	0.143	0.333	CORUM:2973	cor	4	Ccd1-Dvl2-Rac complex	1	DIXDC1
+12	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:501	cor	1	Ryk-Dvl1 complex	1	RYK
+13	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:500	cor	13	Ryk-Wnt3a complex	1	RYK
+14	1	TRUE	0.022	2	7	1	0.143	0.5	CORUM:6673	cor	2	Foxo1-Yap1 complex	1	FOXO1
+15	1	TRUE	0.0461	31	46	3	0.065	0.097	REAC:R-MMU-8963743	rea	3	Digestion and absorption	1	AKP3,GUCY2C,CHIL4
+16	1	TRUE	0.0461	25	46	3	0.065	0.12	REAC:R-MMU-8935690	rea	3	Digestion	2	AKP3,GUCY2C,CHIL4

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00620	Pyruvate metabolism	39	4	10.8	6.02	0.00047	0.0071	12.7	3.17	37.1
+path:hsa00010	Glycolysis / Gluconeogenesis	67	4	6.3	4.26	0.0036	0.027	7.01	1.79	19.8
+path:hsa05222	Small cell lung cancer	84	4	5.02	3.63	0.008	0.04	5.51	1.42	15.4

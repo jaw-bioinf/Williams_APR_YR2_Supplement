@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008097	increased plasma cell number	51	5	11.4	6.93	7.2e-05	0.023	13.2	4	34.6
+MP:0008096	abnormal plasma cell number	77	6	9.04	6.6	4.9e-05	0.023	10.4	3.59	24.9
+MP:0002439	abnormal plasma cell morphology	91	6	7.65	5.94	0.00013	0.027	8.69	3.01	20.6

@@ -1,0 +1,38 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3247509	Chromatin modifying enzymes	227	42	2.25	5.71	4.1e-07	0.00013	2.62	1.81	3.71
+R-HSA-4839726	Chromatin organization	227	42	2.25	5.71	4.1e-07	0.00013	2.62	1.81	3.71
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	96	22	2.79	5.27	7.5e-06	0.0015	3.39	1.99	5.55
+R-HSA-211000	Gene Silencing by RNA	117	24	2.5	4.88	2.2e-05	0.0034	2.94	1.78	4.68
+R-HSA-73894	DNA Repair	315	47	1.82	4.41	4e-05	0.0049	2.02	1.44	2.79
+R-HSA-8878171	Transcriptional regulation by RUNX1	236	36	1.86	3.99	2e-04	0.021	2.06	1.39	2.97
+R-HSA-5578749	Transcriptional regulation by small RNAs	104	20	2.34	4.12	0.00026	0.023	2.7	1.56	4.47
+R-HSA-1912408	Pre-NOTCH Transcription and Translation	30	9	3.65	4.35	0.00048	0.03	4.83	1.94	11.1
+R-HSA-3214841	PKMTs methylate histone lysines	71	15	2.57	3.98	0.00053	0.03	3.03	1.58	5.46
+R-HSA-3214847	HATs acetylate histones	93	18	2.36	3.93	0.00048	0.03	2.72	1.52	4.63
+R-HSA-5693532	DNA Double-Strand Break Repair	165	27	1.99	3.85	4e-04	0.03	2.23	1.41	3.41
+R-HSA-5693554	Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	26	8	3.75	4.2	0.00082	0.031	5.01	1.88	12.1
+R-HSA-1912422	Pre-NOTCH Expression and Processing	32	9	3.43	4.11	0.00081	0.031	4.41	1.79	9.94
+R-HSA-2990846	SUMOylation	127	22	2.11	3.77	0.00061	0.031	2.38	1.42	3.82
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	18	2.26	3.73	0.00081	0.031	2.58	1.45	4.38
+R-HSA-1852241	Organelle biogenesis and maintenance	269	38	1.72	3.58	0.00064	0.031	1.88	1.29	2.68
+R-HSA-1368082	RORA activates gene expression	22	7	3.88	4.04	0.0014	0.039	5.25	1.81	13.7
+R-HSA-3000157	Laminin interactions	28	8	3.48	3.93	0.0014	0.039	4.51	1.71	10.7
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	9	3.22	3.89	0.0013	0.039	4.06	1.66	9.02
+R-HSA-5693537	Resolution of D-Loop Structures	34	9	3.22	3.89	0.0013	0.039	4.06	1.66	9.02
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	15	2.4	3.67	0.0011	0.039	2.78	1.46	4.98
+R-HSA-68875	Mitotic Prophase	134	22	2	3.48	0.0013	0.039	2.23	1.34	3.57
+R-HSA-8934593	Regulation of RUNX1 Expression and Activity	17	6	4.3	4.07	0.0017	0.043	6.13	1.86	18.1
+R-HSA-168271	Transport of Ribonucleoproteins into the Host Nucleus	30	8	3.25	3.69	0.0023	0.043	4.1	1.57	9.59
+R-HSA-168333	NEP/NS2 Interacts with the Cellular Export Machinery	30	8	3.25	3.69	0.0023	0.043	4.1	1.57	9.59
+R-HSA-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	8	3.25	3.69	0.0023	0.043	4.1	1.57	9.59
+R-HSA-8874081	MET activates PTK2 signaling	30	8	3.25	3.69	0.0023	0.043	4.1	1.57	9.59
+R-HSA-400253	Circadian Clock	36	9	3.05	3.68	0.002	0.043	3.76	1.55	8.26
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	10	2.83	3.6	0.0021	0.043	3.42	1.5	7.13
+R-HSA-3214842	HDMs demethylate histones	51	11	2.63	3.48	0.0024	0.043	3.1	1.43	6.19
+R-HSA-2299718	Condensation of Prophase Chromosomes	73	14	2.34	3.43	0.0022	0.043	2.68	1.38	4.89
+R-HSA-5693538	Homology Directed Repair	137	22	1.96	3.37	0.0017	0.043	2.17	1.3	3.47
+R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	121	20	2.01	3.35	0.0019	0.043	2.24	1.31	3.67
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	90	16	2.17	3.32	0.0025	0.043	2.45	1.32	4.26
+R-HSA-5617833	Cilium Assembly	201	29	1.76	3.24	0.002	0.043	1.92	1.24	2.88
+R-HSA-191859	snRNP Assembly	52	11	2.58	3.41	0.0028	0.047	3.03	1.4	6.02
+R-HSA-194441	Metabolism of non-coding RNA	52	11	2.58	3.41	0.0028	0.047	3.03	1.4	6.02

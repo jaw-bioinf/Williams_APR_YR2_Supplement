@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8951664	Neddylation	235	8	6.31	6.07	3.3e-05	0.0015	7.45	3	16.2
+R-HSA-4086398	Ca2+ pathway	55	3	10.1	4.99	0.0032	0.048	11.2	2.17	36.4
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	7	3.56	3.66	0.0033	0.048	3.99	1.51	8.97

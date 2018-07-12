@@ -1,0 +1,130 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8953854	Metabolism of RNA	646	30	4.89	10	8.8e-14	1.5e-11	6.97	4.33	11
+R-HSA-1640170	Cell Cycle	607	24	4.17	7.88	1.3e-09	1.1e-07	5.41	3.23	8.78
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	15	6.51	8.5	7.6e-09	4.2e-07	7.96	4.19	14.2
+R-HSA-69278	Cell Cycle, Mitotic	531	21	4.17	7.34	1.7e-08	7.1e-07	5.23	3.04	8.68
+R-HSA-69620	Cell Cycle Checkpoints	292	13	4.69	6.27	3.5e-06	1e-04	5.47	2.76	10
+R-HSA-68886	M Phase	391	15	4.04	6.01	3.6e-06	1e-04	4.76	2.52	8.42
+R-HSA-168271	Transport of Ribonucleoproteins into the Host Nucleus	30	5	17.6	8.89	8.2e-06	0.00012	22	6.42	60.2
+R-HSA-168333	NEP/NS2 Interacts with the Cellular Export Machinery	30	5	17.6	8.89	8.2e-06	0.00012	22	6.42	60.2
+R-HSA-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	30	5	17.6	8.89	8.2e-06	0.00012	22	6.42	60.2
+R-HSA-168274	Export of Viral Ribonucleoproteins from Nucleus	32	5	16.5	8.58	1.1e-05	0.00012	20.3	5.97	55.2
+R-HSA-180910	Vpr-mediated nuclear import of PICs	32	5	16.5	8.58	1.1e-05	0.00012	20.3	5.97	55.2
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	33	5	16	8.43	1.3e-05	0.00012	19.6	5.78	53
+R-HSA-165054	Rev-mediated nuclear export of HIV RNA	33	5	16	8.43	1.3e-05	0.00012	19.6	5.78	53
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	34	5	15.5	8.29	1.5e-05	0.00012	18.9	5.59	50.9
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	34	5	15.5	8.29	1.5e-05	0.00012	18.9	5.59	50.9
+R-HSA-191859	snRNP Assembly	52	6	12.2	7.9	8.9e-06	0.00012	14.5	4.92	35.1
+R-HSA-194441	Metabolism of non-coding RNA	52	6	12.2	7.9	8.9e-06	0.00012	14.5	4.92	35.1
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	74	7	9.97	7.58	5.9e-06	0.00012	11.7	4.4	26.4
+R-HSA-6784531	tRNA processing in the nucleus	56	6	11.3	7.56	1.4e-05	0.00012	13.3	4.54	32.1
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	7	8.89	7.06	1.3e-05	0.00012	10.3	3.89	23.1
+R-HSA-72306	tRNA processing	83	7	8.89	7.06	1.3e-05	0.00012	10.3	3.89	23.1
+R-HSA-176033	Interactions of Vpr with host cellular proteins	35	5	15.1	8.15	1.8e-05	0.00013	18.3	5.42	49.1
+R-HSA-177243	Interactions of Rev with host cellular proteins	35	5	15.1	8.15	1.8e-05	0.00013	18.3	5.42	49.1
+R-HSA-176187	Activation of ATR in response to replication stress	37	5	14.2	7.9	2.4e-05	0.00016	17.1	5.1	45.7
+R-HSA-168276	NS1 Mediated Effects on Host Pathways	39	5	13.5	7.66	3.1e-05	2e-04	16.1	4.81	42.8
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	40	5	13.2	7.55	3.5e-05	0.00022	15.7	4.68	41.5
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	41	5	12.9	7.44	4e-05	0.00023	15.2	4.56	40.2
+R-HSA-168253	Host Interactions with Influenza Factors	41	5	12.9	7.44	4e-05	0.00023	15.2	4.56	40.2
+R-HSA-5696400	Dual Incision in GG-NER	41	5	12.9	7.44	4e-05	0.00023	15.2	4.56	40.2
+R-HSA-168325	Viral Messenger RNA Synthesis	42	5	12.5	7.34	4.5e-05	0.00025	14.8	4.44	39
+R-HSA-4551638	SUMOylation of chromatin organization proteins	69	6	9.17	6.66	4.6e-05	0.00025	10.5	3.63	25.1
+R-HSA-4615885	SUMOylation of DNA replication proteins	43	5	12.3	7.24	5e-05	0.00026	14.4	4.33	37.9
+R-HSA-4570464	SUMOylation of RNA binding proteins	46	5	11.5	6.96	7e-05	0.00035	13.4	4.03	34.9
+R-HSA-69618	Mitotic Spindle Checkpoint	112	7	6.59	5.82	8.9e-05	0.00044	7.43	2.83	16.5
+R-HSA-2980766	Nuclear Envelope Breakdown	51	5	10.3	6.54	0.00012	0.00055	11.9	3.61	30.9
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	9	4.67	5.17	0.00013	0.00058	5.24	2.29	10.6
+R-HSA-5633007	Regulation of TP53 Activity	160	8	5.27	5.33	0.00013	6e-04	5.91	2.43	12.5
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	6	7.53	5.88	0.00014	0.00061	8.5	2.95	20.1
+R-HSA-5419276	Mitochondrial translation termination	86	6	7.35	5.79	0.00016	0.00068	8.29	2.88	19.5
+R-HSA-5368287	Mitochondrial translation	87	6	7.27	5.75	0.00017	7e-04	8.18	2.84	19.3
+R-HSA-74160	Gene expression (Transcription)	1335	26	2.05	4.04	2e-04	0.00083	2.48	1.51	3.96
+R-HSA-6804756	Regulation of TP53 Activity through Phosphorylation	92	6	6.87	5.54	0.00023	0.00091	7.7	2.68	18.1
+R-HSA-70171	Glycolysis	61	5	8.64	5.86	0.00027	0.001	9.78	2.99	25
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	8	4.63	4.84	0.00032	0.0012	5.15	2.12	10.8
+R-HSA-6782135	Dual incision in TC-NER	66	5	7.98	5.57	0.00039	0.0014	8.97	2.75	22.9
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	68	5	7.75	5.47	0.00045	0.0015	8.68	2.66	22.1
+R-HSA-2467813	Separation of Sister Chromatids	191	8	4.41	4.66	0.00045	0.0015	4.89	2.02	10.3
+R-HSA-72172	mRNA Splicing	191	8	4.41	4.66	0.00045	0.0015	4.89	2.02	10.3
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	8	4.41	4.66	0.00045	0.0015	4.89	2.02	10.3
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	39	4	10.8	6.01	0.00048	0.0016	12.4	3.14	35.8
+R-HSA-1169408	ISG15 antiviral mechanism	71	5	7.42	5.32	0.00055	0.0018	8.29	2.55	21
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	71	5	7.42	5.32	0.00055	0.0018	8.29	2.55	21
+R-HSA-68877	Mitotic Prometaphase	199	8	4.24	4.51	0.00059	0.0018	4.68	1.93	9.82
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	4	10	5.74	0.00065	0.0019	11.4	2.9	32.7
+R-HSA-5696398	Nucleotide Excision Repair	111	6	5.7	4.87	0.00063	0.0019	6.3	2.2	14.7
+R-HSA-72312	rRNA processing	201	8	4.2	4.48	0.00063	0.0019	4.63	1.91	9.72
+R-HSA-68882	Mitotic Anaphase	202	8	4.17	4.46	0.00065	0.0019	4.61	1.9	9.67
+R-HSA-3700989	Transcriptional Regulation by TP53	365	11	3.18	4.15	0.00065	0.0019	3.54	1.69	6.73
+R-HSA-110320	Translesion Synthesis by POLH	19	3	16.6	6.68	0.00072	0.002	20.1	3.7	72.2
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	76	5	6.93	5.08	0.00075	0.002	7.7	2.37	19.5
+R-HSA-72766	Translation	258	9	3.68	4.26	0.00074	0.002	4.06	1.78	8.2
+R-HSA-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	79	5	6.67	4.95	9e-04	0.0024	7.39	2.28	18.7
+R-HSA-70326	Glucose metabolism	81	5	6.51	4.87	0.001	0.0026	7.19	2.22	18.2
+R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	121	6	5.23	4.58	0.001	0.0026	5.74	2.01	13.4
+R-HSA-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity	22	3	14.4	6.15	0.0011	0.0029	17	3.16	59.2
+R-HSA-5389840	Mitochondrial translation elongation	84	5	6.27	4.75	0.0012	0.003	6.91	2.13	17.4
+R-HSA-2990846	SUMOylation	127	6	4.98	4.42	0.0013	0.0032	5.46	1.91	12.7
+R-HSA-69190	DNA strand elongation	24	3	13.2	5.84	0.0014	0.0035	15.4	2.88	52.7
+R-HSA-162599	Late Phase of HIV Life Cycle	88	5	5.99	4.6	0.0015	0.0035	6.58	2.03	16.6
+R-HSA-3371556	Cellular response to heat stress	88	5	5.99	4.6	0.0015	0.0035	6.58	2.03	16.6
+R-HSA-72163	mRNA Splicing - Major Pathway	183	7	4.03	4.05	0.0017	0.0041	4.4	1.69	9.64
+R-HSA-141424	Amplification of signal from the kinetochores	96	5	5.49	4.33	0.0021	0.0049	6	1.86	15
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	5	5.49	4.33	0.0021	0.0049	6	1.86	15
+R-HSA-162587	HIV Life Cycle	101	5	5.22	4.17	0.0027	0.006	5.68	1.76	14.2
+R-HSA-73894	DNA Repair	315	9	3.01	3.55	0.0029	0.0065	3.29	1.44	6.62
+R-HSA-5578749	Transcriptional regulation by small RNAs	104	5	5.07	4.08	0.003	0.0066	5.51	1.71	13.8
+R-HSA-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	65	4	6.49	4.34	0.0033	0.007	7.1	1.84	19.7
+R-HSA-6796648	TP53 Regulates Transcription of DNA Repair Genes	65	4	6.49	4.34	0.0033	0.007	7.1	1.84	19.7
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	67	4	6.29	4.25	0.0037	0.0077	6.87	1.78	19.1
+R-HSA-73886	Chromosome Maintenance	109	5	4.83	3.94	0.0037	0.0077	5.24	1.63	13.1
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	37	3	8.55	4.5	0.0051	0.01	9.47	1.83	31
+R-HSA-211000	Gene Silencing by RNA	117	5	4.5	3.73	0.005	0.01	4.86	1.51	12.1
+R-HSA-69481	G2/M Checkpoints	167	6	3.79	3.55	0.005	0.01	4.08	1.44	9.44
+R-HSA-73857	RNA Polymerase II Transcription	1230	21	1.8	2.93	0.0049	0.01	2.04	1.19	3.37
+R-HSA-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	39	3	8.11	4.35	0.0059	0.012	8.94	1.73	29.1
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	5	4.15	3.5	0.0071	0.014	4.46	1.39	11.1
+R-HSA-162909	Host Interactions of HIV factors	128	5	4.12	3.47	0.0073	0.014	4.42	1.38	11
+R-HSA-5696395	Formation of Incision Complex in GG-NER	43	3	7.35	4.09	0.0078	0.015	8.05	1.56	26
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	44	3	7.19	4.02	0.0083	0.015	7.85	1.53	25.3
+R-HSA-674695	RNA Polymerase II Pre-transcription Events	84	4	5.02	3.62	0.0082	0.015	5.4	1.41	14.9
+R-HSA-73762	RNA Polymerase I Transcription Initiation	45	3	7.03	3.97	0.0088	0.016	7.66	1.49	24.7
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	4	4.9	3.56	0.0089	0.016	5.27	1.37	14.5
+R-HSA-453276	Regulation of mitotic cell cycle	86	4	4.9	3.56	0.0089	0.016	5.27	1.37	14.5
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	5	3.96	3.37	0.0086	0.016	4.25	1.32	10.5
+R-HSA-68875	Mitotic Prophase	134	5	3.93	3.34	0.0088	0.016	4.21	1.31	10.5
+R-HSA-73776	RNA Polymerase II Promoter Escape	47	3	6.73	3.85	0.0099	0.017	7.31	1.43	23.5
+R-HSA-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	47	3	6.73	3.85	0.0099	0.017	7.31	1.43	23.5
+R-HSA-75953	RNA Polymerase II Transcription Initiation	47	3	6.73	3.85	0.0099	0.017	7.31	1.43	23.5
+R-HSA-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance	47	3	6.73	3.85	0.0099	0.017	7.31	1.43	23.5
+R-HSA-73893	DNA Damage Bypass	49	3	6.45	3.74	0.011	0.018	6.99	1.37	22.4
+R-HSA-5663220	RHO GTPases Activate Formins	141	5	3.74	3.2	0.011	0.018	3.99	1.25	9.9
+R-HSA-168255	Influenza Life Cycle	143	5	3.69	3.17	0.011	0.019	3.94	1.23	9.75
+R-HSA-69473	G2/M DNA damage checkpoint	94	4	4.49	3.32	0.012	0.02	4.8	1.25	13.1
+R-HSA-5693607	Processing of DNA double-strand break ends	97	4	4.35	3.24	0.013	0.021	4.64	1.21	12.7
+R-HSA-6781823	Formation of TC-NER Pre-Incision Complex	54	3	5.86	3.5	0.014	0.023	6.31	1.24	20.1
+R-HSA-69239	Synthesis of DNA	99	4	4.26	3.19	0.014	0.023	4.54	1.19	12.4
+R-HSA-429914	Deadenylation-dependent mRNA decay	55	3	5.75	3.46	0.015	0.024	6.18	1.21	19.7
+R-HSA-168254	Influenza Infection	154	5	3.42	2.96	0.015	0.024	3.64	1.14	9.01
+R-HSA-72187	mRNA 3'-end processing	58	3	5.45	3.33	0.018	0.027	5.84	1.15	18.5
+R-HSA-69306	DNA Replication	108	4	3.9	2.97	0.019	0.029	4.15	1.09	11.3
+R-HSA-112382	Formation of RNA Pol II elongation complex 	61	3	5.18	3.21	0.02	0.03	5.54	1.09	17.5
+R-HSA-75955	RNA Polymerase II Transcription Elongation	61	3	5.18	3.21	0.02	0.03	5.54	1.09	17.5
+R-HSA-170834	Signaling by TGF-beta Receptor Complex	66	3	4.79	3.02	0.025	0.036	5.1	1.01	16.1
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	3	4.72	2.99	0.026	0.037	5.02	0.991	15.8
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	67	3	4.72	2.99	0.026	0.037	5.02	0.991	15.8
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	3	4.72	2.99	0.026	0.037	5.02	0.991	15.8
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	3	4.58	2.92	0.028	0.039	4.87	0.961	15.3
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	3	4.58	2.92	0.028	0.039	4.87	0.961	15.3
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	72	3	4.39	2.83	0.031	0.042	4.65	0.92	14.6
+R-HSA-8854518	AURKA Activation by TPX2	72	3	4.39	2.83	0.031	0.042	4.65	0.92	14.6
+R-HSA-162906	HIV Infection	184	5	2.86	2.5	0.03	0.042	3.02	0.947	7.45
+R-HSA-212436	Generic Transcription Pathway	1107	17	1.62	2.14	0.03	0.042	1.77	0.975	3.02
+R-HSA-606279	Deposition of new CENPA-containing nucleosomes at the centromere	73	3	4.33	2.8	0.032	0.043	4.59	0.907	14.4
+R-HSA-774815	Nucleosome assembly	73	3	4.33	2.8	0.032	0.043	4.59	0.907	14.4
+R-HSA-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	75	3	4.22	2.74	0.034	0.045	4.46	0.882	14
+R-HSA-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	76	3	4.16	2.71	0.035	0.047	4.4	0.87	13.8
+R-HSA-5693567	HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)	131	4	3.22	2.5	0.036	0.047	3.39	0.89	9.19
+R-HSA-913531	Interferon Signaling	196	5	2.69	2.34	0.038	0.05	2.83	0.887	6.96
+R-HSA-71387	Metabolism of carbohydrates	263	6	2.4	2.26	0.039	0.05	2.53	0.897	5.81

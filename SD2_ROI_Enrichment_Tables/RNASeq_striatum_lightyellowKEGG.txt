@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00630	Glyoxylate and dicarboxylate metabolism	28	4	30.6	10.8	7.3e-06	5.1e-05	40.5	9.57	130
+path:hsa00020	Citrate cycle (TCA cycle)	30	3	21.4	7.68	0.00034	0.0012	26.1	4.79	92.6
+path:hsa00620	Pyruvate metabolism	39	3	16.5	6.64	0.00075	0.0018	19.5	3.64	67.8
+path:hsa04137	Mitophagy - animal	65	3	9.89	4.93	0.0033	0.0058	11.3	2.14	38.1
+path:hsa00190	Oxidative phosphorylation	133	3	4.83	3.06	0.023	0.033	5.34	1.03	17.6
+path:hsa04145	Phagosome	151	3	4.26	2.77	0.032	0.038	4.68	0.9	15.4

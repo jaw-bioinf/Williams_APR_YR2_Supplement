@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1561	cognitive disorder	812	45	1.75	4.1	0.00011	0.037	1.99	1.39	2.8
+DOID:150	disease of mental health	1255	61	1.53	3.77	0.00023	0.04	1.77	1.29	2.41

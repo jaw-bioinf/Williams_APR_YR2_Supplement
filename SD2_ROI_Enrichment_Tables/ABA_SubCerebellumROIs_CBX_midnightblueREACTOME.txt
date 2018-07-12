@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-73884	Base Excision Repair	39	5	10.7	6.68	9.5e-05	0.005	12.6	3.78	33.2
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	39	5	10.7	6.68	9.5e-05	0.005	12.6	3.78	33.2
+R-HSA-8953750	Transcriptional Regulation by E2F6	35	4	9.54	5.57	0.00077	0.027	11	2.77	31.7

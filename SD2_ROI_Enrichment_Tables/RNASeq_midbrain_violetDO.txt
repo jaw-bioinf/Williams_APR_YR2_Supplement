@@ -1,0 +1,9 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:0060116 sensory system cancer 118 6 5.65 4.85 0.00063 0.03 6.41 2.21 15.3
+DOID:2174 ocular cancer 118 6 5.65 4.85 0.00063 0.03 6.41 2.21 15.3
+DOID:1192 peripheral nervous system neoplasm 381 11 3.21 4.22 0.00051 0.03 3.75 1.75 7.36
+DOID:3093 nervous system cancer 523 13 2.76 3.99 0.00063 0.03 3.28 1.62 6.17
+DOID:655 inherited metabolic disorder 363 10 3.06 3.84 0.0013 0.035 3.52 1.58 7.06
+DOID:2621 autonomic nervous system neoplasm 368 10 3.02 3.79 0.0015 0.035 3.47 1.56 6.96
+DOID:769 neuroblastoma 368 10 3.02 3.79 0.0015 0.035 3.47 1.56 6.96
+DOID:1289 neurodegenerative disease 925 18 2.16 3.62 0.00096 0.035 2.66 1.44 4.71

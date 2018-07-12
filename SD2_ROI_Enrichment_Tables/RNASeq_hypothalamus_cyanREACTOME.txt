@@ -1,0 +1,24 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112316 Neuronal System 356 20 4.57 7.66 1.1e-08 9.2e-07 5.52 3.2 9.1
+R-HSA-1296071 Potassium Channels 99 8 6.58 6.22 2.8e-05 0.0012 7.49 3.07 15.9
+R-HSA-112315 Transmission across Chemical Synapses 224 11 4 5.06 9.4e-05 0.0027 4.46 2.13 8.45
+R-HSA-1296065 Inwardly rectifying K+ channels 31 4 10.5 5.91 0.00053 0.01 12.3 3.07 36
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 8 4.23 4.5 6e-04 0.01 4.64 1.92 9.7
+R-HSA-977444 GABA B receptor activation 39 4 8.35 5.13 0.0013 0.016 9.46 2.4 27.1
+R-HSA-991365 Activation of GABAB receptors 39 4 8.35 5.13 0.0013 0.016 9.46 2.4 27.1
+R-HSA-212676 Dopamine Neurotransmitter Release Cycle 23 3 10.6 5.15 0.0027 0.026 12.3 2.31 42.4
+R-HSA-1296041 Activation of G protein gated Potassium channels 25 3 9.77 4.9 0.0034 0.026 11.2 2.12 38
+R-HSA-1296059 G protein gated Potassium channels 25 3 9.77 4.9 0.0034 0.026 11.2 2.12 38
+R-HSA-997272 Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits 25 3 9.77 4.9 0.0034 0.026 11.2 2.12 38
+R-HSA-193648 NRAGE signals death through JNK 55 4 5.92 4.08 0.0046 0.03 6.48 1.67 18.1
+R-HSA-977443 GABA receptor activation 55 4 5.92 4.08 0.0046 0.03 6.48 1.67 18.1
+R-HSA-399719 Trafficking of AMPA receptors 31 3 7.88 4.28 0.0063 0.032 8.8 1.69 29.1
+R-HSA-399721 Glutamate binding, activation of AMPA receptors and synaptic plasticity 31 3 7.88 4.28 0.0063 0.032 8.8 1.69 29.1
+R-HSA-8856688 Golgi-to-ER retrograde transport 134 6 3.65 3.44 0.0061 0.032 3.91 1.38 9
+R-HSA-382551 Transport of small molecules 705 17 1.96 2.96 0.0055 0.032 2.14 1.2 3.62
+R-HSA-194840 Rho GTPase cycle 138 6 3.54 3.35 0.007 0.033 3.79 1.34 8.72
+R-HSA-418990 Adherens junctions interactions 33 3 7.4 4.11 0.0075 0.034 8.21 1.58 27
+R-HSA-6794361 Neurexins and neuroligins 34 3 7.18 4.03 0.0082 0.035 7.95 1.53 26
+R-HSA-6794362 Protein-protein interactions at synapses 70 4 4.65 3.42 0.011 0.041 5 1.3 13.8
+R-HSA-425393 Transport of inorganic cations/anions and amino acids/oligopeptides 108 5 3.77 3.23 0.011 0.041 4.03 1.26 9.97
+R-HSA-204998 Cell death signalling via NRAGE, NRIF and NADE 74 4 4.4 3.27 0.013 0.048 4.71 1.23 12.9

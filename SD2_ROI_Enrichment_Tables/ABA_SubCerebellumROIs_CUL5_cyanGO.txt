@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0263	425	164	19	0.116	0.045	REAC:R-MMU-500792	rea	1	GPCR ligand binding	1	CRHR2,ADORA2B,OPN4,NPFF,GRP,HC,NTSR1,P2RY1,KEL,GIPR,OPN1MW,P2RY13,HRH3,OXGR1,HCRT,GLP2R,TAAR1,CXCL11,CHRM5
+2	1	TRUE	0.0263	319	164	16	0.098	0.05	REAC:R-MMU-373076	rea	1	Class A/1 (Rhodopsin-like receptors)	2	ADORA2B,OPN4,NPFF,GRP,HC,NTSR1,P2RY1,KEL,OPN1MW,P2RY13,HRH3,OXGR1,HCRT,TAAR1,CXCL11,CHRM5

@@ -1,0 +1,140 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003635 abnormal synaptic transmission 740 37 3.77 9.11 4.8e-13 4.5e-10 5.17 3.39 7.75
+MP:0002915 abnormal synaptic depression 129 16 9.36 11.1 1e-11 3.2e-09 12 6.39 21.1
+MP:0002206 abnormal CNS synaptic transmission 653 33 3.81 8.64 9.4e-12 3.2e-09 5.05 3.25 7.67
+MP:0004753 abnormal miniature excitatory postsynaptic currents 104 14 10.2 10.9 7.1e-11 1.7e-08 12.9 6.59 23.7
+MP:0003633 abnormal nervous system physiology 1903 57 2.26 7.14 8.8e-11 1.7e-08 3.42 2.35 4.97
+MP:0001399 hyperactivity 475 25 3.97 7.7 2.2e-09 3.5e-07 4.93 3.01 7.81
+MP:0002572 abnormal emotion/affect behavior 619 27 3.29 6.84 2.6e-08 3.5e-06 4.07 2.53 6.35
+MP:0001898 abnormal long term depression 95 11 8.74 8.78 4.3e-08 5.1e-06 10.6 4.96 20.7
+MP:0001408 stereotypic behavior 211 15 5.36 7.43 1.1e-07 1.1e-05 6.35 3.37 11.2
+MP:0001392 abnormal locomotor behavior 1537 44 2.16 5.77 1.7e-07 1.6e-05 2.86 1.92 4.2
+MP:0004859 abnormal synaptic plasticity 67 9 10.1 8.7 2.1e-07 1.8e-05 12.4 5.26 25.9
+MP:0002910 abnormal excitatory postsynaptic currents 139 12 6.51 7.59 2.8e-07 2.2e-05 7.68 3.76 14.4
+MP:0003313 abnormal locomotor activation 1152 36 2.36 5.71 4.4e-07 3.1e-05 2.98 1.95 4.47
+MP:0003491 abnormal voluntary movement 1648 45 2.06 5.5 4.6e-07 3.1e-05 2.72 1.83 3.99
+MP:0002064 seizures 383 19 3.74 6.35 6e-07 3.8e-05 4.41 2.52 7.34
+MP:0003997 tonic-clonic seizures 78 9 8.7 7.92 8e-07 4.7e-05 10.4 4.45 21.6
+MP:0009357 abnormal seizure response to inducing agent 190 13 5.16 6.72 1.3e-06 7e-05 5.99 3.03 10.9
+MP:0002912 abnormal excitatory postsynaptic potential 108 10 6.99 7.25 1.5e-06 7.6e-05 8.17 3.7 16.2
+MP:0001362 abnormal anxiety-related response 332 17 3.86 6.16 1.6e-06 7.6e-05 4.5 2.5 7.66
+MP:0002065 abnormal fear/anxiety-related behavior 369 18 3.68 6.09 1.6e-06 7.6e-05 4.3 2.42 7.23
+MP:0002945 abnormal inhibitory postsynaptic currents 87 9 7.8 7.39 2e-06 9.1e-05 9.18 3.95 18.9
+MP:0001900 impaired synaptic plasticity 47 7 11.2 8.15 2.5e-06 1e-04 13.7 5.09 31.9
+MP:0003107 abnormal response to novelty 283 15 4 5.94 4.6e-06 0.00019 4.6 2.46 8.07
+MP:0013189 abnormal exploration in a new environment 185 12 4.89 6.2 5.8e-06 0.00023 5.61 2.76 10.4
+MP:0001961 abnormal reflex 767 26 2.56 5.22 6.3e-06 0.00023 3.04 1.88 4.77
+MP:0002882 abnormal neuron morphology 1515 40 1.99 4.89 6.5e-06 0.00023 2.51 1.67 3.72
+MP:0001447 abnormal nest building behavior 37 6 12.2 7.94 8e-06 0.00028 15.1 5.05 37.6
+MP:0001413 abnormal response to new environment 226 13 4.34 5.89 8.6e-06 0.00029 4.96 2.52 9.02
+MP:0001360 abnormal social investigation 106 9 6.41 6.49 1.1e-05 0.00034 7.37 3.19 15.1
+MP:0001409 increased stereotypic behavior 40 6 11.3 7.58 1.3e-05 4e-04 13.7 4.63 34
+MP:0002557 abnormal social/conspecific interaction 351 16 3.44 5.4 1.5e-05 0.00045 3.94 2.15 6.78
+MP:0000948 nonconvulsive seizures 42 6 10.8 7.36 1.7e-05 5e-04 13 4.38 31.9
+MP:0000947 convulsive seizures 175 11 4.74 5.79 1.9e-05 0.00055 5.38 2.56 10.3
+MP:0002862 altered righting response 147 10 5.13 5.85 2.4e-05 0.00066 5.82 2.66 11.4
+MP:0003492 abnormal involuntary movement 942 28 2.24 4.66 3.1e-05 0.00082 2.66 1.67 4.11
+MP:0002980 abnormal postural reflex 155 10 4.87 5.63 3.8e-05 0.00098 5.5 2.51 10.8
+MP:0006007 abnormal basal ganglion morphology 127 9 5.35 5.72 4.5e-05 0.0011 6.04 2.63 12.3
+MP:0002917 decreased synaptic depression 17 4 17.8 8.01 6.1e-05 0.0013 23.6 5.52 78
+MP:0001417 decreased exploration in new environment 102 8 5.92 5.79 5.9e-05 0.0013 6.7 2.75 14.2
+MP:0001523 impaired righting response 129 9 5.26 5.65 5.1e-05 0.0013 5.94 2.59 12.1
+MP:0008143 abnormal dendrite morphology 198 11 4.19 5.26 6.1e-05 0.0013 4.71 2.25 8.95
+MP:0002063 abnormal learning/memory/conditioning 664 22 2.5 4.65 5.2e-05 0.0013 2.89 1.72 4.65
+MP:0014114 abnormal cognition 665 22 2.5 4.64 5.4e-05 0.0013 2.88 1.72 4.65
+MP:0004811 abnormal neuron physiology 667 22 2.49 4.62 5.6e-05 0.0013 2.87 1.71 4.63
+MP:0002207 abnormal long term potentiation 237 12 3.82 5.1 6.8e-05 0.0014 4.29 2.12 7.94
+MP:0002068 abnormal parental behavior 169 10 4.46 5.27 7.9e-05 0.0015 5.01 2.29 9.79
+MP:0001516 abnormal motor coordination/ balance 833 25 2.26 4.43 7.7e-05 0.0015 2.64 1.62 4.15
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 27 2.18 4.4 7.4e-05 0.0015 2.55 1.59 3.97
+MP:0002152 abnormal brain morphology 1633 39 1.8 4.14 9.3e-05 0.0018 2.2 1.46 3.27
+MP:0005445 abnormal neurotransmitter secretion 82 7 6.44 5.73 1e-04 0.0019 7.3 2.78 16.3
+MP:0004769 abnormal synaptic vesicle morphology 60 6 7.54 5.89 0.00013 0.0025 8.64 2.98 20.6
+MP:0002272 abnormal nervous system electrophysiology 339 14 3.12 4.6 0.00015 0.0027 3.49 1.83 6.19
+MP:0001486 abnormal startle reflex 259 12 3.5 4.72 0.00016 0.0028 3.9 1.93 7.21
+MP:0020167 abnormal vertical activity 222 11 3.74 4.79 0.00017 0.0029 4.16 1.99 7.89
+MP:0002886 abnormal glutamate-mediated receptor currents 63 6 7.18 5.71 0.00018 0.003 8.18 2.83 19.5
+MP:0004077 abnormal striatum morphology 91 7 5.8 5.34 2e-04 0.0033 6.51 2.49 14.4
+MP:0008462 abnormal medium spiny neuron morphology 10 3 22.6 7.93 0.00025 0.004 32.6 5.38 145
+MP:0020351 decreased vocalization 24 4 12.6 6.58 0.00025 0.004 15.3 3.75 46.8
+MP:0002921 abnormal post-tetanic potentiation 24 4 12.6 6.58 0.00025 0.004 15.3 3.75 46.8
+MP:0001475 reduced long term depression 43 5 8.77 5.92 0.00024 0.004 10.2 3.07 26.5
+MP:0009358 environmentally induced seizures 45 5 8.38 5.75 3e-04 0.0046 9.65 2.92 25.1
+MP:0001405 impaired coordination 454 16 2.66 4.2 0.00031 0.0047 2.98 1.63 5.11
+MP:0001905 abnormal dopamine level 101 7 5.23 4.95 0.00037 0.0055 5.81 2.23 12.8
+MP:0008540 abnormal cerebral hemisphere morphology 609 19 2.35 4.01 0.00039 0.0057 2.65 1.52 4.39
+MP:0000836 abnormal substantia nigra morphology 27 4 11.2 6.14 0.00041 0.0059 13.3 3.3 39.9
+MP:0013219 abnormal substantia nigra pars compacta morphology 12 3 18.9 7.18 0.00046 0.0065 25.4 4.36 103
+MP:0001468 abnormal temporal memory 173 9 3.92 4.5 0.00047 0.0066 4.33 1.9 8.71
+MP:0009745 abnormal behavioral response to xenobiotic 295 12 3.07 4.19 0.00052 0.0073 3.39 1.68 6.25
+MP:0001650 abnormal seizure response to electrical stimulation 29 4 10.4 5.88 0.00054 0.0074 12.3 3.06 36.3
+MP:0001902 reduced NMDA-mediated synaptic currents 13 3 17.4 6.86 0.00059 0.0079 22.8 3.99 90.2
+MP:0004979 abnormal neuronal precursor cell number 79 6 5.73 4.89 0.00061 0.008 6.38 2.22 15
+MP:0004792 abnormal synaptic vesicle number 53 5 7.12 5.18 0.00065 0.0083 8.03 2.45 20.6
+MP:0001469 abnormal contextual conditioning behavior 144 8 4.19 4.47 0.00063 0.0083 4.61 1.91 9.65
+MP:0000807 abnormal hippocampus morphology 346 13 2.83 4.03 0.00065 0.0083 3.13 1.6 5.65
+MP:0011267 abnormal excitatory postsynaptic current amplitude 31 4 9.73 5.65 7e-04 0.0088 11.4 2.84 33.3
+MP:0001499 abnormal kindling response 14 3 16.2 6.58 0.00074 0.0092 20.7 3.67 79.8
+MP:0000801 abnormal temporal lobe morphology 352 13 2.79 3.96 0.00076 0.0093 3.07 1.57 5.55
+MP:0002761 abnormal hippocampal mossy fiber morphology 33 4 9.14 5.43 0.00089 0.01 10.6 2.66 30.8
+MP:0001364 decreased anxiety-related response 150 8 4.02 4.33 0.00083 0.01 4.41 1.83 9.23
+MP:0009538 abnormal synapse morphology 189 9 3.59 4.17 0.00089 0.01 3.94 1.73 7.9
+MP:0003360 abnormal depression-related behavior 118 7 4.48 4.4 0.00095 0.011 4.92 1.89 10.8
+MP:0001473 reduced long term potentiation 156 8 3.87 4.19 0.0011 0.012 4.23 1.75 8.84
+MP:0001463 abnormal spatial learning 234 10 3.22 3.99 0.0011 0.012 3.53 1.62 6.85
+MP:0002757 decreased vertical activity 157 8 3.84 4.17 0.0011 0.013 4.2 1.74 8.78
+MP:0001084 abnormal petrosal ganglion morphology 17 3 13.3 5.89 0.0013 0.014 16.3 2.97 59.4
+MP:0011003 reduced AMPA-mediated synaptic currents 17 3 13.3 5.89 0.0013 0.014 16.3 2.97 59.4
+MP:0003990 decreased neurotransmitter release 36 4 8.38 5.14 0.0012 0.014 9.58 2.42 27.7
+MP:0002061 abnormal aggression-related behavior 91 6 4.97 4.42 0.0013 0.014 5.47 1.91 12.8
+MP:0003216 absence seizures 37 4 8.16 5.05 0.0014 0.015 9.28 2.35 26.7
+MP:0009936 abnormal dendritic spine morphology 63 5 5.99 4.6 0.0014 0.015 6.64 2.04 16.8
+MP:0001363 increased anxiety-related response 202 9 3.36 3.93 0.0014 0.015 3.67 1.61 7.35
+MP:0003989 abnormal barrel cortex morphology 18 3 12.6 5.7 0.0016 0.016 15.2 2.79 54.7
+MP:0001529 abnormal vocalization 64 5 5.89 4.55 0.0015 0.016 6.53 2.01 16.5
+MP:0002062 abnormal associative learning 290 11 2.86 3.73 0.0016 0.016 3.12 1.5 5.89
+MP:0001361 social withdrawal 19 3 11.9 5.52 0.0019 0.018 14.3 2.63 50.8
+MP:0002916 increased synaptic depression 19 3 11.9 5.52 0.0019 0.018 14.3 2.63 50.8
+MP:0000860 abnormal primary somatosensory cortex morphology 19 3 11.9 5.52 0.0019 0.018 14.3 2.63 50.8
+MP:0003463 abnormal single cell response 40 4 7.54 4.81 0.0019 0.018 8.51 2.17 24.3
+MP:0001488 increased startle reflex 98 6 4.62 4.17 0.0019 0.018 5.05 1.77 11.8
+MP:0008946 abnormal neuron number 534 16 2.26 3.48 0.0018 0.018 2.49 1.37 4.28
+MP:0002797 increased thigmotaxis 68 5 5.55 4.36 0.002 0.019 6.11 1.88 15.4
+MP:0004166 abnormal limbic system morphology 393 13 2.5 3.51 0.0021 0.019 2.73 1.4 4.92
+MP:0003878 abnormal ear physiology 490 15 2.31 3.45 0.002 0.019 2.54 1.36 4.42
+MP:0001402 hypoactivity 492 15 2.3 3.43 0.0021 0.019 2.53 1.36 4.4
+MP:0002919 enhanced paired-pulse facilitation 42 4 7.18 4.66 0.0022 0.02 8.06 2.06 22.9
+MP:0006359 absent startle reflex 42 4 7.18 4.66 0.0022 0.02 8.06 2.06 22.9
+MP:0000832 abnormal thalamus morphology 71 5 5.31 4.23 0.0024 0.021 5.83 1.8 14.7
+MP:0008572 abnormal Purkinje cell dendrite morphology 71 5 5.31 4.23 0.0024 0.021 5.83 1.8 14.7
+MP:0001441 increased grooming behavior 44 4 6.86 4.51 0.0027 0.023 7.66 1.96 21.7
+MP:0005377 hearing/vestibular/ear phenotype 718 19 2 3.22 0.0028 0.024 2.21 1.27 3.65
+MP:0000889 abnormal cerebellar molecular layer 74 5 5.1 4.1 0.0029 0.025 5.58 1.72 14
+MP:0002918 abnormal paired-pulse facilitation 75 5 5.03 4.06 0.0031 0.026 5.5 1.7 13.8
+MP:0012315 impaired learning 75 5 5.03 4.06 0.0031 0.026 5.5 1.7 13.8
+MP:0008947 increased neuron number 108 6 4.19 3.87 0.0031 0.026 4.55 1.6 10.6
+MP:0000783 abnormal forebrain morphology 1011 24 1.79 3.09 0.0032 0.026 2.01 1.22 3.18
+MP:0001082 abnormal geniculate ganglion morphology 23 3 9.84 4.92 0.0033 0.027 11.4 2.14 39.2
+MP:0001410 head bobbing 49 4 6.16 4.2 0.0039 0.031 6.8 1.75 19.1
+MP:0001440 abnormal grooming behavior 114 6 3.97 3.7 0.004 0.031 4.29 1.51 9.94
+MP:0011479 abnormal catecholamine level 151 7 3.5 3.59 0.0039 0.031 3.78 1.46 8.23
+MP:0008415 abnormal neurite morphology 423 13 2.32 3.22 0.0039 0.031 2.52 1.29 4.54
+MP:0000872 abnormal cerebellum external granule cell layer morphology 80 5 4.71 3.87 0.0041 0.032 5.13 1.59 12.8
+MP:0005277 abnormal brainstem morphology 237 9 2.86 3.37 0.0042 0.032 3.09 1.36 6.18
+MP:0000897 abnormal midbrain morphology 154 7 3.43 3.52 0.0043 0.033 3.7 1.43 8.06
+MP:0001505 hunched posture 117 6 3.87 3.62 0.0045 0.034 4.18 1.47 9.66
+MP:0000854 abnormal cerebellum development 155 7 3.41 3.5 0.0045 0.034 3.67 1.42 8
+MP:0000787 abnormal telencephalon morphology 808 20 1.87 2.99 0.0046 0.034 2.06 1.2 3.37
+MP:0011270 decreased excitatory postsynaptic current amplitude 26 3 8.7 4.56 0.0047 0.035 9.92 1.88 33.5
+MP:0002566 abnormal sexual interaction 84 5 4.49 3.72 0.0051 0.037 4.87 1.51 12.2
+MP:0001984 abnormal olfaction 53 4 5.69 3.97 0.0052 0.038 6.24 1.61 17.4
+MP:0001394 circling 122 6 3.71 3.49 0.0056 0.04 4 1.41 9.23
+MP:0004980 increased neuronal precursor cell number 28 3 8.08 4.35 0.0058 0.042 9.12 1.74 30.5
+MP:0000849 abnormal cerebellum morphology 445 13 2.2 3.02 0.006 0.042 2.39 1.22 4.3
+MP:0001386 abnormal maternal nurturing 125 6 3.62 3.42 0.0062 0.044 3.89 1.37 8.98
+MP:0001489 decreased startle reflex 125 6 3.62 3.42 0.0062 0.044 3.89 1.37 8.98
+MP:0002888 abnormal NMDA-mediated synaptic currents 30 3 7.54 4.16 0.0071 0.049 8.45 1.62 28
+MP:0004742 abnormal vestibular system physiology 58 4 5.2 3.72 0.0072 0.049 5.66 1.47 15.7
+MP:0005572 abnormal pulmonary respiratory rate 58 4 5.2 3.72 0.0072 0.049 5.66 1.47 15.7
+MP:0011087 neonatal lethality, complete penetrance 672 17 1.91 2.83 0.0073 0.049 2.08 1.16 3.52
+MP:0003018 abnormal circulating chloride level 92 5 4.1 3.46 0.0074 0.05 4.42 1.37 11

@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0495	1	10	1	0.1	1	CORUM:2014	cor	7	Whrn homodimer complex	1	WHRN
+2	1	TRUE	0.0495	1	10	1	0.1	1	CORUM:3884	cor	4	Abcg5-Abcg2 complex	1	ABCG5
+3	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:5192	cor	10	Tiam1-Efnb1-Epha2 complex	1	EFNB1
+4	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:5174	cor	9	Smarcb1/Ini1-Smarca2-Mecp2 complex	1	MECP2
+5	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:1610	cor	8	G protein complex (Gngt2, Kcnj6, Gnb1)	1	GNGT2
+6	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:3883	cor	12	Abcg5-Abcg1 complex	1	ABCG5
+7	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:3882	cor	11	Abcg5-Abcg8 complex	1	ABCG5
+8	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:3837	cor	5	SP1-E2F1 complex	1	SP1
+9	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:3886	cor	6	Abcg5-Abcg4 complex	1	ABCG5
+10	1	TRUE	0.0495	2	10	1	0.1	0.5	CORUM:5237	cor	2	c-Myc-Max-Arf complex	1	CDKN2A
+11	1	TRUE	0.023	285	107	13	0.121	0.046	KEGG:04080	keg	1	Neuroactive ligand-receptor interaction	1	GHRHR,TRPV1,ADORA2B,GPR35,NTSR1,CHRNB2,TACR3,GIPR,GRIK4,P2RY13,PTGER4,GLP2R,CHRM5

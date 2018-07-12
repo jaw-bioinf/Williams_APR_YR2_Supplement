@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-191273	Cholesterol biosynthesis	25	3	14.7	6.21	0.0011	0.033	17.1	3.21	58.7
+R-HSA-1592389	Activation of Matrix Metalloproteinases	33	3	11.1	5.28	0.0024	0.033	12.5	2.4	41.6
+R-HSA-4085001	Sialic acid metabolism	33	3	11.1	5.28	0.0024	0.033	12.5	2.4	41.6
+R-HSA-6798695	Neutrophil degranulation	477	11	2.82	3.69	0.0017	0.033	3.15	1.49	6.03
+R-HSA-422475	Axon guidance	295	8	3.31	3.66	0.0028	0.033	3.63	1.5	7.63
+R-HSA-446203	Asparagine N-linked glycosylation	299	8	3.27	3.62	0.003	0.033	3.58	1.48	7.52
+R-HSA-556833	Metabolism of lipids	696	14	2.46	3.62	0.0014	0.033	2.79	1.44	5.04
+R-HSA-168249	Innate Immune System	1035	18	2.12	3.47	0.0015	0.033	2.46	1.37	4.23
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	6	3.94	3.68	0.0041	0.04	4.28	1.5	9.93
+R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	42	3	8.72	4.56	0.0048	0.042	9.63	1.86	31.3
+R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	47	3	7.79	4.24	0.0066	0.049	8.53	1.66	27.5
+R-HSA-8957322	Metabolism of steroids	142	5	4.3	3.6	0.0061	0.049	4.64	1.44	11.6

@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00779	2	2	1	0.5	0.5	CORUM:2976	cor	5	Ccd1-Dvl2 complex	1	DVL2
+2	1	TRUE	0.00779	2	2	1	0.5	0.5	CORUM:6763	cor	2	Vangl2-Dvl2 complex	1	DVL2
+3	1	TRUE	0.00779	2	2	1	0.5	0.5	CORUM:6556	cor	3	Dcdc2-Dvl2 complex	1	DVL2
+4	1	TRUE	0.00973	3	2	1	0.5	0.333	CORUM:2973	cor	6	Ccd1-Dvl2-Rac complex	1	DVL2
+5	1	TRUE	0.00779	2	2	1	0.5	0.5	CORUM:2974	cor	4	Dvl2-Rac complex	1	DVL2
+6	1	TRUE	0.00779	2	2	1	0.5	0.5	CORUM:6760	cor	1	Vangl1-Dvl2 complex	1	DVL2
+7	1	TRUE	0.0103	22	10	2	0.2	0.091	KEGG:00900	keg	7	Terpenoid backbone biosynthesis	1	MVD,RCE1

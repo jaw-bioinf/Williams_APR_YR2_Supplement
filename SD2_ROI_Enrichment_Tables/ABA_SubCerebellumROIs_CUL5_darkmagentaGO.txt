@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0404	15	34	2	0.059	0.133	GO:0016502	MF	2	nucleotide receptor activity	1	GPR34,GPR171
+2	1	TRUE	0.0404	15	34	2	0.059	0.133	GO:0035586	MF	2	purinergic receptor activity	1	GPR34,GPR171
+3	1	TRUE	0.0404	13	34	2	0.059	0.154	GO:0001614	MF	2	purinergic nucleotide receptor activity	2	GPR34,GPR171
+4	1	TRUE	0.0348	9	34	2	0.059	0.222	GO:0001608	MF	2	G-protein coupled nucleotide receptor activity	1	GPR34,GPR171
+5	1	TRUE	0.0348	7	34	2	0.059	0.286	GO:0045028	MF	2	G-protein coupled purinergic nucleotide receptor activity	2	GPR34,GPR171
+6	1	TRUE	0.0173	8	1	1	1	0.125	CORUM:97	cor	1	Anaphase-promoting complex	1	CCDC27

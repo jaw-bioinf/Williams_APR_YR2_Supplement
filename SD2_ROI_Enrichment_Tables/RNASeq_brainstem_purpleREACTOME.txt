@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	15	3	15.6	6.46	0.00083	0.02	19.7	3.53	74.3
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	5	7.52	5.37	0.00051	0.02	8.5	2.59	21.8
+R-HSA-199977	ER to Golgi Anterograde Transport	155	8	4.04	4.34	0.00082	0.02	4.41	1.83	9.21
+R-HSA-446203	Asparagine N-linked glycosylation	299	12	3.14	4.27	0.00043	0.02	3.46	1.72	6.37
+R-HSA-597592	Post-translational protein modification	1353	31	1.79	3.57	0.00072	0.02	2.07	1.33	3.14
+R-HSA-5653656	Vesicle-mediated transport	631	18	2.23	3.64	0.0011	0.021	2.47	1.4	4.13
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	7	4.09	4.09	0.0016	0.024	4.44	1.71	9.7
+R-HSA-199991	Membrane Trafficking	599	17	2.22	3.5	0.0016	0.024	2.45	1.37	4.13
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	8	3.36	3.7	0.0026	0.034	3.64	1.51	7.55
+R-HSA-70268	Pyruvate metabolism	26	3	9.03	4.66	0.0043	0.05	10.3	1.95	34.7

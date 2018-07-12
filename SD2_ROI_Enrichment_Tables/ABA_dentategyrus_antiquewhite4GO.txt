@@ -1,0 +1,15 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6241	cor	14	PMCA4-alpha-1-syntrophin-NOS-1 complex	1	NOS1
+2	1	TRUE	0.0259	2	4	1	0.25	0.5	CORUM:416	cor	2	Nitric oxide synthase-dystrophin complex, skeletal muscle	1	NOS1
+3	1	TRUE	0.0287	5	4	1	0.25	0.2	CORUM:2793	cor	6	Brd4-Rfc complex	1	RFC3
+4	1	TRUE	0.0295	6	4	1	0.25	0.167	CORUM:1184	cor	7	Mediator complex	1	MED1
+5	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:77	cor	8	nNos-Capon-Dexras1 complex	1	NOS1
+6	1	TRUE	0.0276	4	4	1	0.25	0.25	CORUM:6454	cor	4	Zipzap/p200-Srf-p49/STRAP-Nkx2.5 complex	1	SRFBP1
+7	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6240	cor	10	PMCA1-alpha-1-syntrophin-NOS-1 complex	1	NOS1
+8	1	TRUE	0.024	5	15	2	0.133	0.4	HP:0100297	hp	13	Increased endomysial connective tissue	1	COL6A1,COL6A2
+9	1	TRUE	0.0192	3	15	2	0.133	0.667	HP:0006460	hp	9	Increased laxity of ankles	1	COL6A1,COL6A2
+10	1	TRUE	0.0192	4	15	2	0.133	0.5	HP:0006149	hp	3	Increased laxity of fingers	1	COL6A1,COL6A2
+11	1	TRUE	0.0287	7	15	2	0.133	0.286	HP:0005988	hp	1	Congenital muscular torticollis	1	COL6A1,COL6A2
+12	1	TRUE	0.0287	6	15	2	0.133	0.333	HP:0002877	hp	5	Nocturnal hypoventilation	1	COL6A1,COL6A2
+13	1	TRUE	0.0287	7	15	2	0.133	0.286	HP:0003713	hp	12	Muscle fiber necrosis	1	COL6A1,COL6A2
+14	1	TRUE	0.0192	4	15	2	0.133	0.5	HP:0005072	hp	11	Hyperextensibility at wrists	1	COL6A1,COL6A2

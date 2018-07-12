@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1793	pancreatic cancer	228	14	3.28	4.84	8.4e-05	0.012	3.72	1.94	6.63
+DOID:4905	pancreatic carcinoma	228	14	3.28	4.84	8.4e-05	0.012	3.72	1.94	6.63
+DOID:3303	notochordal cancer	19	4	11.3	6.18	0.00036	0.021	14.4	3.42	46
+DOID:3302	chordoma	19	4	11.3	6.18	0.00036	0.021	14.4	3.42	46
+DOID:2870	endometrial adenocarcinoma	32	5	8.35	5.75	0.00029	0.021	10	2.97	27.1
+DOID:934	viral infectious disease	795	28	1.88	3.65	0.00063	0.03	2.16	1.36	3.34
+DOID:1380	endometrial cancer	143	9	3.36	3.94	0.0014	0.041	3.71	1.62	7.48
+DOID:363	uterine cancer	144	9	3.34	3.92	0.0014	0.041	3.68	1.61	7.42
+DOID:3007	breast ductal carcinoma	196	11	3	3.92	0.0011	0.041	3.31	1.58	6.28
+DOID:170	endocrine gland cancer	399	17	2.28	3.63	0.0012	0.041	2.53	1.41	4.29

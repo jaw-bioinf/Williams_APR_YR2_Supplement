@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04360 Axon guidance 175 9 4.22 4.79 0.00025 0.0076 4.81 2.08 9.88
+path:hsa04330 Notch signaling pathway 48 4 6.84 4.51 0.0027 0.027 7.69 1.96 21.9
+path:hsa03018 RNA degradation 77 5 5.33 4.24 0.0024 0.027 5.93 1.82 15.1

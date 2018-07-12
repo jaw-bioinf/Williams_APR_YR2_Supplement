@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0001773 Short foot 136 10 4.53 5.39 5e-05 0.035 5.61 2.47 11.6
+HP:0000341 Narrow forehead 116 9 4.78 5.32 8.2e-05 0.035 5.86 2.46 12.5
+HP:0003311 Hypoplasia of the odontoid process 18 4 13.7 6.93 0.00016 0.046 18.5 4.28 61.4

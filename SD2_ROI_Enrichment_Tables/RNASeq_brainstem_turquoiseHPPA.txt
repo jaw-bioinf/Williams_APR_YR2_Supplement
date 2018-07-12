@@ -1,0 +1,101 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001941	Acidosis	277	72	1.98	6.6	1.4e-09	3.4e-06	2.57	1.89	3.45
+HP:0004360	Abnormality of acid-base homeostasis	296	73	1.88	6.14	1.3e-08	1.6e-05	2.38	1.77	3.19
+HP:0001943	Hypoglycemia	152	45	2.25	6.15	3.7e-08	3.1e-05	2.97	2.02	4.32
+HP:0003128	Lactic acidosis	168	47	2.13	5.84	1.2e-07	7.8e-05	2.75	1.89	3.94
+HP:0002151	Increased serum lactate	131	39	2.27	5.74	2.7e-07	0.00011	2.97	1.96	4.43
+HP:0011015	Abnormality of blood glucose concentration	176	48	2.08	5.7	2.1e-07	0.00011	2.65	1.83	3.79
+HP:0012103	Abnormality of the mitochondrion	113	35	2.36	5.71	4e-07	0.00014	3.13	2.01	4.79
+HP:0012072	Aciduria	198	51	1.96	5.41	6.2e-07	2e-04	2.45	1.72	3.46
+HP:0003546	Exercise intolerance	112	34	2.31	5.48	9.9e-07	0.00028	3.03	1.94	4.66
+HP:0003287	Abnormality of mitochondrial metabolism	99	31	2.38	5.43	1.4e-06	0.00033	3.16	1.97	4.96
+HP:0001939	Abnormality of metabolism/homeostasis	1857	291	1.19	4.71	1.3e-06	0.00033	1.62	1.32	2
+HP:0001508	Failure to thrive	574	110	1.46	4.68	4.9e-06	0.001	1.75	1.37	2.22
+HP:0004354	Abnormality of carboxylic acid metabolism	229	54	1.8	4.84	5.6e-06	0.0011	2.18	1.55	3.03
+HP:0004325	Decreased body weight	875	154	1.34	4.51	7e-06	0.0013	1.62	1.3	2.01
+HP:0001639	Hypertrophic cardiomyopathy	279	62	1.69	4.68	8.7e-06	0.0015	2.03	1.47	2.76
+HP:0000815	Hypergonadotropic hypogonadism	51	19	2.84	5.14	1e-05	0.0016	4.05	2.15	7.44
+HP:0002415	Leukodystrophy	65	22	2.58	4.99	1.3e-05	0.0019	3.5	1.97	6.05
+HP:0008209	Premature ovarian failure	28	13	3.54	5.24	1.7e-05	0.0024	5.86	2.55	13.3
+HP:0001896	Reticulocytopenia	33	14	3.23	5	2.8e-05	0.0037	4.99	2.3	10.6
+HP:0003355	Aminoaciduria	159	39	1.87	4.35	4.8e-05	0.006	2.26	1.51	3.31
+HP:0002878	Respiratory failure	111	30	2.06	4.4	5.5e-05	0.0062	2.55	1.6	3.97
+HP:0000712	Emotional lability	111	30	2.06	4.4	5.5e-05	0.0062	2.55	1.6	3.97
+HP:0009777	Absent thumb	40	15	2.86	4.59	8.2e-05	0.009	4.07	1.98	8.09
+HP:0000869	Secondary amenorrhea	28	12	3.26	4.67	9.5e-05	0.0099	5.06	2.17	11.5
+HP:0001992	Organic aciduria	69	21	2.32	4.3	0.00012	0.011	2.98	1.68	5.13
+HP:0006561	Lipid accumulation in hepatocytes	99	27	2.08	4.22	0.00011	0.011	2.57	1.57	4.11
+HP:0004372	Reduced consciousness/confusion	230	50	1.66	4	0.00013	0.012	1.94	1.36	2.72
+HP:0003110	Abnormality of urine homeostasis	458	86	1.43	3.83	0.00015	0.013	1.65	1.26	2.15
+HP:0004323	Abnormality of body weight	1071	175	1.24	3.73	0.00015	0.013	1.47	1.19	1.81
+HP:0025155	Abnormality of hepatobiliary system physiology	197	44	1.7	3.93	0.00017	0.014	2	1.37	2.86
+HP:0001410	Decreased liver function	197	44	1.7	3.93	0.00017	0.014	2	1.37	2.86
+HP:0011991	Abnormal neutrophil cell number	108	28	1.97	4	0.00021	0.016	2.4	1.48	3.78
+HP:0001875	Neutropenia	108	28	1.97	4	0.00021	0.016	2.4	1.48	3.78
+HP:0001259	Coma	82	23	2.14	4.05	0.00022	0.017	2.66	1.55	4.43
+HP:0002171	Gliosis	120	30	1.9	3.92	0.00025	0.018	2.29	1.44	3.54
+HP:0005321	Mandibulofacial dysostosis	19	9	3.61	4.43	0.00029	0.019	6.05	2.16	16.7
+HP:0008316	Abnormal mitochondria in muscle tissue	27	11	3.1	4.26	0.00032	0.019	4.63	1.93	10.7
+HP:0004481	Progressive macrocephaly	31	12	2.95	4.23	3e-04	0.019	4.26	1.87	9.32
+HP:0004312	Abnormality of reticulocytes	63	19	2.3	4.04	0.00028	0.019	2.93	1.6	5.19
+HP:0001254	Lethargy	105	27	1.96	3.87	0.00032	0.019	2.37	1.45	3.76
+HP:0001638	Cardiomyopathy	394	75	1.45	3.68	0.00028	0.019	1.66	1.25	2.2
+HP:0001903	Anemia	402	76	1.44	3.64	0.00032	0.019	1.65	1.24	2.17
+HP:0030085	Abnormal CSF lactate level	69	20	2.21	3.94	0.00036	0.02	2.78	1.55	4.81
+HP:0002490	Increased CSF lactate	69	20	2.21	3.94	0.00036	0.02	2.78	1.55	4.81
+HP:0001637	Abnormality of the myocardium	418	78	1.42	3.56	4e-04	0.022	1.62	1.22	2.13
+HP:0000135	Hypogonadism	205	44	1.63	3.64	0.00044	0.023	1.89	1.3	2.7
+HP:0012130	Abnormality of cells of the erythroid lineage	439	81	1.4	3.53	0.00045	0.023	1.6	1.21	2.1
+HP:0001877	Abnormality of erythrocytes	439	81	1.4	3.53	0.00045	0.023	1.6	1.21	2.1
+HP:0012443	Abnormality of brain morphology	1687	255	1.15	3.34	0.00049	0.025	1.4	1.14	1.71
+HP:0000837	Increased circulating gonadotropin level	17	8	3.58	4.15	0.00068	0.026	5.96	1.99	17.5
+HP:0025065	Abnormal erythrocyte volume	17	8	3.58	4.15	0.00068	0.026	5.96	1.99	17.5
+HP:0001414	Microvesicular hepatic steatosis	17	8	3.58	4.15	0.00068	0.026	5.96	1.99	17.5
+HP:0005518	Increased mean corpuscular volume	17	8	3.58	4.15	0.00068	0.026	5.96	1.99	17.5
+HP:0012133	Erythroid hypoplasia	17	8	3.58	4.15	0.00068	0.026	5.96	1.99	17.5
+HP:0002605	Hepatic necrosis	47	15	2.43	3.84	0.00064	0.026	3.17	1.58	6.08
+HP:0100273	Neoplasm of the colon	52	16	2.34	3.79	0.00067	0.026	3.01	1.54	5.61
+HP:0030065	Primitive neuroectodermal tumor	57	17	2.27	3.76	0.00068	0.026	2.88	1.52	5.25
+HP:0004376	Neuroblastic tumors	57	17	2.27	3.76	0.00068	0.026	2.88	1.52	5.25
+HP:0003006	Neuroblastoma	57	17	2.27	3.76	0.00068	0.026	2.88	1.52	5.25
+HP:0030067	Peripheral primitive neuroectodermal neoplasm	57	17	2.27	3.76	0.00068	0.026	2.88	1.52	5.25
+HP:0000141	Amenorrhea	97	25	1.96	3.74	0.00051	0.026	2.37	1.42	3.83
+HP:0000413	Atresia of the external auditory canal	72	20	2.11	3.72	0.00066	0.026	2.61	1.46	4.5
+HP:0001942	Metabolic acidosis	72	20	2.11	3.72	0.00066	0.026	2.61	1.46	4.5
+HP:0004337	Abnormality of amino acid metabolism	196	42	1.63	3.54	0.00062	0.026	1.88	1.29	2.71
+HP:0011017	Abnormality of cell physiology	402	75	1.42	3.48	0.00053	0.026	1.62	1.21	2.13
+HP:0001263	Global developmental delay	946	154	1.24	3.35	6e-04	0.026	1.43	1.15	1.77
+HP:0100705	Abnormality of the glial cells	144	33	1.74	3.55	0.00071	0.027	2.04	1.32	3.08
+HP:0002013	Vomiting	157	35	1.7	3.48	0.00084	0.031	1.97	1.29	2.94
+HP:0011281	Abnormality of urine catecholamine concentration	18	8	3.38	3.94	0.0011	0.036	5.36	1.83	15.2
+HP:0011976	Elevated urinary catecholamines	18	8	3.38	3.94	0.0011	0.036	5.36	1.83	15.2
+HP:0010995	Abnormality of dicarboxylic acid metabolism	35	12	2.61	3.72	0.0011	0.036	3.51	1.58	7.42
+HP:0003215	Dicarboxylic aciduria	35	12	2.61	3.72	0.0011	0.036	3.51	1.58	7.42
+HP:0000878	11 pairs of ribs	35	12	2.61	3.72	0.0011	0.036	3.51	1.58	7.42
+HP:0001257	Spasticity	491	87	1.35	3.24	0.0011	0.036	1.52	1.16	1.98
+HP:0001392	Abnormality of the liver	787	130	1.26	3.19	0.0011	0.036	1.43	1.14	1.79
+HP:0002012	Abnormality of the abdominal organs	943	152	1.23	3.17	0.0011	0.036	1.4	1.13	1.74
+HP:0002011	Morphological abnormality of the central nervous system	1825	271	1.13	3.13	0.001	0.036	1.37	1.12	1.68
+HP:0100007	Neoplasm of the peripheral nervous system	40	13	2.47	3.65	0.0012	0.039	3.25	1.53	6.57
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	11	2.7	3.7	0.0013	0.04	3.7	1.59	8.16
+HP:0008417	Vertebral hypoplasia	31	11	2.7	3.7	0.0013	0.04	3.7	1.59	8.16
+HP:0009942	Duplication of thumb phalanx	45	14	2.37	3.59	0.0013	0.04	3.05	1.49	5.95
+HP:0010932	Abnormality of nucleobase metabolism	50	15	2.28	3.56	0.0013	0.04	2.89	1.46	5.49
+HP:0010486	Abnormality of the hypothenar eminence	15	7	3.55	3.85	0.0016	0.042	5.86	1.8	18.6
+HP:0030270	Elevated red cell adenosine deaminase activity	15	7	3.55	3.85	0.0016	0.042	5.86	1.8	18.6
+HP:0010487	Small hypothenar eminence	15	7	3.55	3.85	0.0016	0.042	5.86	1.8	18.6
+HP:0008437	Bifid thoracic vertebrae	15	7	3.55	3.85	0.0016	0.042	5.86	1.8	18.6
+HP:0008447	Hypoplastic coccygeal vertebrae	15	7	3.55	3.85	0.0016	0.042	5.86	1.8	18.6
+HP:0008475	Hypoplastic sacral vertebrae	15	7	3.55	3.85	0.0016	0.042	5.86	1.8	18.6
+HP:0002669	Osteosarcoma	23	9	2.98	3.7	0.0016	0.042	4.31	1.64	10.8
+HP:0006965	Acute necrotizing encephalopathy	23	9	2.98	3.7	0.0016	0.042	4.31	1.64	10.8
+HP:0007141	Sensorimotor neuropathy	23	9	2.98	3.7	0.0016	0.042	4.31	1.64	10.8
+HP:0012131	Abnormal number of erythroid precursors	23	9	2.98	3.7	0.0016	0.042	4.31	1.64	10.8
+HP:0006846	Acute encephalopathy	27	10	2.82	3.69	0.0014	0.042	3.95	1.61	9.21
+HP:0001397	Hepatic steatosis	87	22	1.93	3.4	0.0014	0.042	2.3	1.34	3.83
+HP:0005561	Abnormality of bone marrow cell morphology	504	88	1.33	3.11	0.0016	0.042	1.49	1.14	1.93
+HP:0001908	Hypoplastic anemia	19	8	3.21	3.75	0.0017	0.044	4.87	1.69	13.4
+HP:0001251	Ataxia	546	94	1.31	3.07	0.0017	0.045	1.47	1.14	1.89
+HP:0001399	Hepatic failure	170	36	1.61	3.18	0.0019	0.048	1.84	1.22	2.72
+HP:0025031	Abnormality of the digestive system	1786	264	1.13	2.94	0.0019	0.048	1.34	1.1	1.65
+HP:0007305	CNS demyelination	78	20	1.95	3.31	0.0019	0.049	2.34	1.32	3.99

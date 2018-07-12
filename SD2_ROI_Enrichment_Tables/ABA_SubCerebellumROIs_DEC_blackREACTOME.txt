@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-418359	Reduction of cytosolic Ca++ levels	14	5	8.34	5.81	2e-04	0.037	12.5	3.29	41.9
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	18	2.73	4.57	1e-04	0.037	3.04	1.73	5.05
+R-HSA-112315	Transmission across Chemical Synapses	224	22	2.29	4.14	0.00024	0.037	2.51	1.52	3.96
+R-HSA-112316	Neuronal System	356	30	1.97	3.93	3e-04	0.037	2.14	1.4	3.16

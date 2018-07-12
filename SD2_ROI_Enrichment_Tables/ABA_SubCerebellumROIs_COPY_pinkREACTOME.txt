@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-73884	Base Excision Repair	39	5	9.58	6.25	0.00016	0.0086	11.2	3.37	29.5
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	39	5	9.58	6.25	0.00016	0.0086	11.2	3.37	29.5
+R-HSA-5656169	Termination of translesion DNA synthesis	32	4	9.34	5.5	0.00082	0.03	10.8	2.72	31.6
+R-HSA-209776	Amine-derived hormones	18	3	12.5	5.66	0.0017	0.032	15	2.76	54
+R-HSA-452723	Transcriptional regulation of pluripotent stem cells	36	4	8.3	5.11	0.0013	0.032	9.46	2.4	27.2
+R-HSA-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	39	4	7.66	4.86	0.0018	0.032	8.65	2.2	24.7
+R-HSA-166208	mTORC1-mediated signalling	23	3	9.75	4.89	0.0034	0.049	11.3	2.12	38.7
+R-HSA-69190	DNA strand elongation	24	3	9.34	4.76	0.0039	0.049	10.7	2.03	36.6
+R-HSA-73893	DNA Damage Bypass	49	4	6.1	4.17	0.0041	0.049	6.72	1.73	18.8

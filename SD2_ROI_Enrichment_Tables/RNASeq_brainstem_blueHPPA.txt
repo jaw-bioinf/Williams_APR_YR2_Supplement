@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002307	Drooling	60	20	3.22	5.9	1e-06	0.0023	4.53	2.48	8.03
+HP:0003781	Excessive salivation	65	20	2.98	5.46	4.1e-06	0.0024	4.02	2.22	7.04
+HP:0002123	Generalized myoclonic seizures	105	27	2.49	5.25	4.2e-06	0.0024	3.16	1.93	5.03
+HP:0002197	Generalized seizures	155	35	2.18	5.12	4.1e-06	0.0024	2.69	1.76	4.03
+HP:0001833	Long foot	46	16	3.36	5.48	6.7e-06	0.003	4.79	2.41	9.17
+HP:0000219	Thin upper lip vermilion	164	34	2	4.47	4e-05	0.015	2.4	1.57	3.59
+HP:0000233	Thin vermilion border	257	46	1.73	4.13	8.9e-05	0.026	2.02	1.4	2.85
+HP:0000750	Delayed speech and language development	460	72	1.51	4.01	9.1e-05	0.026	1.76	1.31	2.34
+HP:0000805	Enuresis	51	15	2.84	4.5	0.00012	0.03	3.72	1.87	7.06
+HP:0009909	Uplifted earlobe	31	11	3.43	4.62	0.00016	0.032	4.88	2.09	10.8
+HP:0002069	Generalized tonic-clonic seizures	100	23	2.22	4.22	0.00015	0.032	2.7	1.59	4.41
+HP:0100833	Neoplasm of the small intestine	23	9	3.78	4.55	0.00027	0.039	5.68	2.15	14.2
+HP:0000640	Gaze-evoked nystagmus	23	9	3.78	4.55	0.00027	0.039	5.68	2.15	14.2
+HP:0002078	Truncal ataxia	33	11	3.22	4.36	0.00029	0.039	4.44	1.93	9.64
+HP:0000053	Macroorchidism	38	12	3.05	4.32	0.00028	0.039	4.1	1.87	8.51
+HP:0100755	Abnormality of salivation	84	20	2.3	4.1	0.00024	0.039	2.81	1.59	4.77
+HP:0001773	Short foot	136	28	1.99	4	0.00022	0.039	2.35	1.47	3.65
+HP:0000752	Hyperactivity	248	43	1.68	3.75	0.00032	0.041	1.93	1.33	2.75
+HP:0012758	Neurodevelopmental delay	1201	154	1.24	3.48	0.00036	0.043	1.48	1.18	1.85

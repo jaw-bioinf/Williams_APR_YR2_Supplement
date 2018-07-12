@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002064	seizures	383	10	4.85	5.66	3e-05	0.013	5.93	2.62	12.2
+MP:0012348	decreased susceptibility to induction of seizure by inducing agent	28	3	19.9	7.37	0.00044	0.035	23.4	4.38	81
+MP:0002887	decreased susceptibility to pharmacologically induced seizures	28	3	19.9	7.37	0.00044	0.035	23.4	4.38	81
+MP:0002920	decreased paired-pulse facilitation	31	3	18	6.96	6e-04	0.035	20.9	3.94	71.4
+MP:0005181	decreased circulating estradiol level	32	3	17.4	6.84	0.00065	0.035	20.2	3.81	68.7
+MP:0009887	abnormal palatal shelf fusion at midline	73	4	10.2	5.79	0.00062	0.035	11.5	2.93	32.9
+MP:0009655	abnormal secondary palate development	118	5	7.86	5.52	0.00041	0.035	8.96	2.72	23.1
+MP:0009653	abnormal palate development	121	5	7.67	5.43	0.00046	0.035	8.72	2.65	22.5
+MP:0003371	decreased circulating estrogen level	34	3	16.4	6.61	0.00078	0.037	18.9	3.58	63.9
+MP:0003460	decreased fear-related response	45	3	12.4	5.63	0.0018	0.048	13.9	2.67	46.1
+MP:0011706	abnormal fibroblast migration	46	3	12.1	5.56	0.0019	0.048	13.6	2.61	44.9
+MP:0005183	abnormal circulating estradiol level	47	3	11.8	5.49	0.002	0.048	13.3	2.55	43.9
+MP:0013545	cleft hard palate	91	4	8.16	5.05	0.0014	0.048	9.13	2.34	25.8
+MP:0004625	abnormal rib joint	97	4	7.65	4.85	0.0018	0.048	8.54	2.19	24.1
+MP:0002792	abnormal retinal vasculature morphology	152	5	6.1	4.67	0.0013	0.048	6.86	2.1	17.6
+MP:0009890	cleft secondary palate	157	5	5.91	4.57	0.0015	0.048	6.63	2.03	17
+MP:0010024	increased total body fat amount	166	5	5.59	4.39	0.0019	0.048	6.25	1.91	16
+MP:0002152	abnormal brain morphology	1633	18	2.05	3.43	0.0014	0.048	2.65	1.4	4.88
+MP:0000929	open neural tube	251	6	4.44	4.06	0.0022	0.049	5	1.72	11.9

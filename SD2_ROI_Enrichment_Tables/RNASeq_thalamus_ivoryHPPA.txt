@@ -1,0 +1,10 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+HP:0004944 Cerebral aneurysm 19 3 27.7 8.84 0.00014 0.022 38 6.51 153
+HP:0002617 Aneurysm 49 4 14.3 7.11 0.00014 0.022 19.1 4.46 62.2
+HP:0000592 Blue sclerae 69 4 10.2 5.83 0.00052 0.035 13.1 3.11 42.2
+HP:0001034 Hypermelanotic macule 75 4 9.36 5.54 0.00072 0.035 12 2.85 38.5
+HP:0012614 Abnormal urine cytology 77 4 9.12 5.45 0.00079 0.035 11.7 2.77 37.4
+HP:0000790 Hematuria 77 4 9.12 5.45 0.00079 0.035 11.7 2.77 37.4
+HP:0012211 Abnormal renal physiology 470 9 3.36 4.16 0.00055 0.035 5.37 1.96 14.3
+HP:0000591 Abnormality of the sclera 82 4 8.56 5.24 0.001 0.038 10.9 2.6 34.9
+HP:0012733 Macule 84 4 8.36 5.17 0.0011 0.038 10.6 2.53 34

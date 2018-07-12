@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	3	12.8	5.74	0.0016	0.014	14.5	2.77	48.4
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	3	12.8	5.74	0.0016	0.014	14.5	2.77	48.4
+R-HSA-8854518	AURKA Activation by TPX2	72	3	12.3	5.6	0.0018	0.014	13.9	2.65	46.2
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	3	11	5.26	0.0025	0.014	12.4	2.38	41.2
+R-HSA-380287	Centrosome maturation	80	3	11	5.26	0.0025	0.014	12.4	2.38	41.2
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	3	10.2	5.01	0.0031	0.014	11.4	2.19	37.6
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	3	9.5	4.81	0.0038	0.014	10.6	2.04	35.1
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	3	9.11	4.68	0.0042	0.014	10.2	1.96	33.5
+R-HSA-68877	Mitotic Prometaphase	199	4	5.92	4.09	0.0044	0.014	6.69	1.7	19.2

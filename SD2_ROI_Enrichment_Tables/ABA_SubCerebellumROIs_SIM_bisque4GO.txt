@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00722	3	1	1	1	0.333	CORUM:2147	cor	2	Aip-Hsp90-Ahr complex	1	HSP90AB1
+2	1	TRUE	0.00722	3	1	1	1	0.333	CORUM:677	cor	3	Mt3-Hsp84-Ck complex	1	HSP90AB1
+3	1	TRUE	0.00722	4	1	1	1	0.25	CORUM:25	cor	4	9S-cytosolic aryl hydrocarbon (Ah) receptor non-ligand activated complex	1	HSP90AB1
+4	1	TRUE	0.00812	6	1	1	1	0.167	CORUM:676	cor	1	Metallothionein-3 complex	1	HSP90AB1

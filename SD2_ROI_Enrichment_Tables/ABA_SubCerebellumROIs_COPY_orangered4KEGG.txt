@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04728	Dopaminergic synapse	130	5	4.91	4	0.0033	0.037	5.5	1.68	14.1
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	5	4.44	3.7	0.0051	0.037	4.94	1.51	12.6
+path:hsa05205	Proteoglycans in cancer	203	6	3.78	3.57	0.0048	0.037	4.23	1.46	10.1
+path:hsa04015	Rap1 signaling pathway	210	6	3.65	3.47	0.0056	0.037	4.08	1.41	9.73

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0010655	Epiphyseal stippling	30	3	29.2	9.1	0.00012	0.029	42.5	7.02	183
+HP:0003202	Skeletal muscle atrophy	444	7	4.61	4.77	0.00022	0.029	9.79	2.66	39.3
+HP:0000282	Facial edema	50	3	17.6	6.9	0.00055	0.035	24.4	4.11	102
+HP:0010656	Abnormal epiphyseal ossification	54	3	16.2	6.61	0.00069	0.035	22.4	3.8	93.4
+HP:0040290	Abnormality of skeletal muscles	534	7	3.83	4.17	0.00072	0.035	7.88	2.15	31.6
+HP:0030236	Abnormality of muscle size	543	7	3.77	4.11	0.00079	0.035	7.73	2.1	31

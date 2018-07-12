@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-539107	Activation of E2F1 target genes at G1/S	24	8	5.76	5.79	3.8e-05	0.0097	8.24	3.04	20.5
+R-HSA-69205	G1/S-Specific Transcription	24	8	5.76	5.79	3.8e-05	0.0097	8.24	3.04	20.5
+R-HSA-68962	Activation of the pre-replicative complex	32	9	4.86	5.42	5.7e-05	0.0097	6.46	2.62	14.6
+R-HSA-176187	Activation of ATR in response to replication stress	37	9	4.21	4.84	2e-04	0.021	5.3	2.19	11.6
+R-HSA-453279	Mitotic G1-G1/S phases	143	20	2.42	4.23	2e-04	0.021	2.71	1.59	4.41
+R-HSA-1538133	G0 and Early G1	25	7	4.84	4.77	4e-04	0.034	6.4	2.25	16.1

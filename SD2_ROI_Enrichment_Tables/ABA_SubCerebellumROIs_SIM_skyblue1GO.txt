@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0318	47	76	4	0.053	0.085	GO:0031225	CC	5	anchored component of membrane	1	EFNA5,GAS1,GPC3,NTNG1
+2	1	TRUE	0.0318	44	76	4	0.053	0.091	GO:0046658	CC	5	anchored component of plasma membrane	2	EFNA5,GAS1,GPC3,NTNG1
+3	1	TRUE	0.000562	3	5	2	0.4	0.667	CORUM:6305	cor	6	Hoxa9-Meis1-Pbx3 complex	1	HOXA9,PBX3
+4	1	TRUE	0.0216	3	5	1	0.2	0.333	CORUM:146	cor	7	Src-dynamin-synapsin complex	1	SYN1
+5	1	TRUE	0.0487	8	5	1	0.2	0.125	CORUM:2835	cor	4	Profilin 2 complex	1	SYN1
+6	1	TRUE	0.0216	3	5	1	0.2	0.333	CORUM:2940	cor	8	Acinar cell-specific C complex	1	MEIS2
+7	1	TRUE	0.0216	3	5	1	0.2	0.333	CORUM:2941	cor	9	Acinar cell-specific C complex	1	MEIS2
+8	1	TRUE	0.0216	3	5	1	0.2	0.333	CORUM:5693	cor	1	Tip5-Dnmt-Hdac1 complex	1	DNMT1
+9	1	TRUE	0.0216	3	5	1	0.2	0.333	CORUM:647	cor	3	HPFH(-198) complex	1	DNMT1

@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04080	Neuroactive ligand-receptor interaction	277	45	4.09	10.7	1.3e-16	1.9e-14	5.44	3.76	7.75
+path:hsa05032	Morphine addiction	91	16	4.42	6.69	4.4e-07	3.1e-05	5.42	2.9	9.56
+path:hsa04014	Ras signaling pathway	227	24	2.66	5.18	9.7e-06	4e-04	3.04	1.87	4.77
+path:hsa04151	PI3K-Akt signaling pathway	341	31	2.29	4.97	1.1e-05	4e-04	2.6	1.7	3.88
+path:hsa04020	Calcium signaling pathway	181	20	2.78	4.94	2.9e-05	0.00079	3.17	1.85	5.16
+path:hsa05200	Pathways in cancer	395	33	2.1	4.6	3.3e-05	0.00079	2.37	1.57	3.49
+path:hsa04725	Cholinergic synapse	112	14	3.15	4.66	0.00013	0.0023	3.59	1.87	6.42
+path:hsa04726	Serotonergic synapse	112	14	3.15	4.66	0.00013	0.0023	3.59	1.87	6.42
+path:hsa04727	GABAergic synapse	88	12	3.43	4.67	0.00017	0.0027	3.95	1.93	7.43
+path:hsa04510	Focal adhesion	199	18	2.28	3.72	0.00089	0.013	2.51	1.43	4.16
+path:hsa04015	Rap1 signaling pathway	210	18	2.16	3.47	0.0016	0.021	2.36	1.35	3.91
+path:hsa04024	cAMP signaling pathway	198	17	2.16	3.37	0.0022	0.026	2.36	1.32	3.96
+path:hsa04611	Platelet activation	123	12	2.46	3.31	0.0034	0.038	2.69	1.33	4.97
+path:hsa04512	ECM-receptor interaction	82	9	2.76	3.27	0.005	0.044	3.05	1.33	6.2
+path:hsa04713	Circadian entrainment	96	10	2.62	3.26	0.0046	0.044	2.88	1.32	5.65
+path:hsa04920	Adipocytokine signaling pathway	69	8	2.92	3.26	0.0057	0.044	3.24	1.32	6.88
+path:hsa04742	Taste transduction	83	9	2.73	3.22	0.0054	0.044	3.01	1.31	6.11
+path:hsa04810	Regulation of actin cytoskeleton	212	17	2.02	3.06	0.0044	0.044	2.18	1.23	3.66
+path:hsa04723	Retrograde endocannabinoid signaling	148	13	2.21	3.03	0.0058	0.044	2.4	1.23	4.31

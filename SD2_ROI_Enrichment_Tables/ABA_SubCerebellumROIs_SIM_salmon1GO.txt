@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0108	5	1	1	1	0.2	CORUM:122	cor	1	MCM complex	1	MCM2

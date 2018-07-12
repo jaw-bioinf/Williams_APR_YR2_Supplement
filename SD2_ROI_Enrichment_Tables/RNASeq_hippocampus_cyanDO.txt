@@ -1,0 +1,25 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9252	amino acid metabolic disorder	52	9	7.48	7.22	2.4e-06	0.00071	9.29	3.91	19.8
+DOID:5614	eye disease	531	29	2.36	5.02	1e-05	0.0012	2.75	1.76	4.19
+DOID:1492	eye and adnexa disease	537	29	2.33	4.95	1.2e-05	0.0012	2.72	1.73	4.13
+DOID:0050155	sensory system disease	606	31	2.21	4.8	1.8e-05	0.0013	2.58	1.67	3.88
+DOID:655	inherited metabolic disorder	363	21	2.5	4.52	8.6e-05	0.0051	2.83	1.68	4.56
+DOID:1686	glaucoma	103	10	4.2	5.03	0.00012	0.0061	4.77	2.17	9.41
+DOID:9279	hyperhomocysteinemia	24	5	9	6.04	0.00019	0.0078	11.4	3.29	32.1
+DOID:784	chronic kidney disease	43	6	6.03	5.09	0.00042	0.016	7.06	2.4	17.2
+DOID:2566	corneal dystrophy	19	4	9.1	5.44	0.00082	0.025	11.5	2.75	36.6
+DOID:1070	primary open angle glaucoma	49	6	5.29	4.64	0.00086	0.025	6.07	2.08	14.6
+DOID:10124	corneal disease	71	7	4.26	4.25	0.0012	0.032	4.78	1.82	10.7
+DOID:557	kidney disease	476	22	2	3.47	0.0013	0.033	2.21	1.33	3.52
+DOID:10126	keratoconus	23	4	7.52	4.82	0.0017	0.04	9.08	2.22	27.8
+DOID:780	placenta disease	26	4	6.65	4.44	0.0028	0.041	7.84	1.94	23.5
+DOID:0050851	glomerulosclerosis	26	4	6.65	4.44	0.0028	0.041	7.84	1.94	23.5
+DOID:1312	focal segmental glomerulosclerosis	26	4	6.65	4.44	0.0028	0.041	7.84	1.94	23.5
+DOID:10923	sickle cell anemia	27	4	6.4	4.33	0.0032	0.041	7.5	1.86	22.3
+DOID:10159	osteonecrosis	27	4	6.4	4.33	0.0032	0.041	7.5	1.86	22.3
+DOID:1067	open-angle glaucoma	59	6	4.39	4.03	0.0023	0.041	4.92	1.7	11.7
+DOID:4138	bile duct disease	83	7	3.64	3.73	0.003	0.041	4.02	1.54	8.88
+DOID:9741	biliary tract disease	84	7	3.6	3.69	0.0032	0.041	3.96	1.52	8.76
+DOID:18	urinary system disease	494	22	1.92	3.28	0.0022	0.041	2.12	1.27	3.38
+DOID:0014667	disease of metabolism	1280	44	1.49	2.96	0.0031	0.041	1.69	1.16	2.42
+DOID:9667	placental abruption	14	3	9.26	4.76	0.0037	0.045	11.7	2.08	44.9

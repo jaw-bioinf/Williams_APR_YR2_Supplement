@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04137	Mitophagy - animal	65	4	14.6	7.17	0.00014	0.0023	17.9	4.38	54.3
+path:hsa04721	Synaptic vesicle cycle	63	3	11.3	5.34	0.0022	0.013	13.1	2.46	44.7
+path:hsa05131	Shigellosis	65	3	11	5.24	0.0025	0.013	12.7	2.39	43.2
+path:hsa05100	Bacterial invasion of epithelial cells	76	3	9.37	4.77	0.0038	0.014	10.7	2.03	36.4
+path:hsa05132	Salmonella infection	86	3	8.28	4.42	0.0054	0.014	9.43	1.79	31.8
+path:hsa04621	NOD-like receptor signaling pathway	167	4	5.68	3.99	0.0049	0.014	6.59	1.64	19.5
+path:hsa04510	Focal adhesion	199	4	4.77	3.51	0.0091	0.021	5.48	1.37	16.2
+path:hsa04722	Neurotrophin signaling pathway	119	3	5.98	3.57	0.013	0.026	6.72	1.28	22.5
+path:hsa04210	Apoptosis	138	3	5.16	3.21	0.02	0.035	5.76	1.1	19.2
+path:hsa04144	Endocytosis	260	4	3.65	2.84	0.022	0.036	4.14	1.04	12.2
+path:hsa04921	Oxytocin signaling pathway	152	3	4.68	2.99	0.025	0.037	5.21	0.995	17.3
+path:hsa05167	Kaposi's sarcoma-associated herpesvirus infection	173	3	4.11	2.7	0.035	0.047	4.55	0.871	15.1

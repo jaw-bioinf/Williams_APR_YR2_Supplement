@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1579	respiratory system disease	691	128	1.45	4.75	3.8e-06	0.0026	1.64	1.32	2.02
+DOID:0050161	lower respiratory tract disease	656	119	1.42	4.3	2.4e-05	0.0084	1.59	1.27	1.97
+DOID:15	reproductive system disease	490	91	1.45	3.97	1e-04	0.023	1.62	1.26	2.06
+DOID:1749	squamous cell carcinoma	720	124	1.35	3.75	0.00018	0.032	1.48	1.2	1.83
+DOID:0050439	Usher syndrome	12	7	4.56	4.73	0.00024	0.034	9.6	2.62	38.4
+DOID:2921	glomerulonephritis	142	33	1.82	3.76	0.00039	0.043	2.1	1.37	3.15
+DOID:114	heart disease	517	92	1.39	3.53	0.00043	0.043	1.53	1.19	1.94

@@ -1,0 +1,11 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:1782	cor	8	TGF-beta receptor	1	TGFBR2
+2	1	TRUE	0.0377	3	9	1	0.111	0.333	CORUM:2360	cor	11	Itgav-Itgb3-Gsn complex	1	ITGB3
+3	1	TRUE	0.0377	3	9	1	0.111	0.333	CORUM:1595	cor	4	Cdk5-c-Abl-Cables complex	1	CABLES1
+4	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:3068	cor	9	Fertilin complex (Adam1a, Adam2)	1	ADAM2
+5	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:3114	cor	6	Itgax-Itgb2-Icam4 complex	1	ICAM4
+6	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:109	cor	3	Fertilin complex (Adam1b, Adam2)	1	ADAM2
+7	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:6772	cor	1	Tbx20-Tle1 repressor complex	1	TBX20
+8	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:6773	cor	10	Tbx20-Tle3 repressor complex	1	TBX20
+9	1	TRUE	0.0315	1	9	1	0.111	1	CORUM:2022	cor	5	Stat5a-Jak2 complex	1	STAT5A
+10	1	TRUE	0.0315	2	9	1	0.111	0.5	CORUM:2427	cor	2	Itga4-Itgb1-Adam2 complex	1	ADAM2

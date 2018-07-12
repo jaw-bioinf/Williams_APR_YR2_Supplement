@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04658	Th1 and Th2 cell differentiation	92	3	5.56	3.38	0.016	0.049	6.1	1.18	19.9
+path:hsa03008	Ribosome biogenesis in eukaryotes	101	3	5.06	3.16	0.021	0.049	5.53	1.07	18
+path:hsa04660	T cell receptor signaling pathway	103	3	4.96	3.11	0.022	0.049	5.42	1.05	17.6
+path:hsa04062	Chemokine signaling pathway	185	4	3.68	2.84	0.022	0.049	4.05	1.04	11.5
+path:hsa04060	Cytokine-cytokine receptor interaction	270	5	3.15	2.78	0.02	0.049	3.52	1.07	9.14

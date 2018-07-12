@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0102	351	90	10	0.111	0.028	GO:0051186	BP	1	cofactor metabolic process	1	GSTT1,MPO,VNN3,ENTPD5,ME2,SPTA1,LIAS,NOX1,MTHFD1L,FBP1
+2	1	TRUE	0.0162	5	2	1	0.5	0.2	CORUM:293	cor	4	PCNA-DNA polymerase delta complex	1	POLD2
+3	1	TRUE	0.0284	11	2	1	0.5	0.091	CORUM:1001	cor	2	DNA synthesome complex	1	POLD2
+4	1	TRUE	0.0162	2	2	1	0.5	0.5	CORUM:295	cor	3	PCNA-DNA ligase complex	1	POLD2
+5	1	TRUE	0.0162	4	2	1	0.5	0.25	CORUM:294	cor	6	DNA polymerase delta complex	1	POLD2
+6	1	TRUE	0.0162	5	2	1	0.5	0.2	CORUM:6633	cor	5	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	CUL7

@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0301	7	3	1	0.333	0.143	CORUM:40	cor	1	COP9 signalosome complex (Gps1, Cops1, Cops2, Cops3, Cops4, Cops5, Cops6, Cops7a, Cops8)	1	COPS4
+2	1	TRUE	0.0259	2	3	1	0.333	0.5	CORUM:5192	cor	3	Tiam1-Efnb1-Epha2 complex	1	EPHA2
+3	1	TRUE	0.0301	5	3	1	0.333	0.2	CORUM:2793	cor	2	Brd4-Rfc complex	1	RFC2

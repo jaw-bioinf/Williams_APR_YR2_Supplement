@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72187	mRNA 3'-end processing	58	3	9.96	4.94	0.0033	0.044	11	2.13	35.8
+R-HSA-109688	Cleavage of Growing Transcript in the Termination Region 	67	3	8.62	4.52	0.005	0.044	9.46	1.84	30.6
+R-HSA-73856	RNA Polymerase II Transcription Termination	67	3	8.62	4.52	0.005	0.044	9.46	1.84	30.6
+R-HSA-1852241	Organelle biogenesis and maintenance	269	6	4.29	3.96	0.0026	0.044	4.81	1.66	11.4
+R-HSA-5617833	Cilium Assembly	201	5	4.79	3.92	0.0037	0.044	5.3	1.63	13.5

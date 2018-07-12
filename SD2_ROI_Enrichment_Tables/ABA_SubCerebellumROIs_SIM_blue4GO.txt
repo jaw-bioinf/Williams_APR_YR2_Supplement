@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0388	25	44	3	0.068	0.12	GO:0030687	CC	1	preribosome, large subunit precursor	1	CASP8,TCHHL1,RRS1

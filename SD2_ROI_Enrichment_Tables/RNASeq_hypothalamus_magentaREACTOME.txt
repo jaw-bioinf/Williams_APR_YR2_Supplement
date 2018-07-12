@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-4791275 Signaling by WNT in cancer 34 7 7.75 6.51 2.5e-05 0.0049 9.72 3.54 23.1
+R-HSA-5663202 Diseases of signal transduction 359 24 2.52 4.83 2.9e-05 0.0049 2.79 1.73 4.32
+R-HSA-74158 RNA Polymerase III Transcription 36 6 6.27 5.24 0.00033 0.027 7.47 2.52 18.5
+R-HSA-76046 RNA Polymerase III Transcription Initiation 36 6 6.27 5.24 0.00033 0.027 7.47 2.52 18.5
+R-HSA-76071 RNA Polymerase III Transcription Initiation From Type 3 Promoter 28 5 6.72 5.01 0.00076 0.05 8.1 2.39 22

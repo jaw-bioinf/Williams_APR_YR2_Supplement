@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9884	muscular dystrophy	100	4	8.75	5.29	0.001	0.018	10.2	2.55	30
+DOID:66	muscle tissue disease	275	6	4.77	4.33	0.0013	0.018	5.74	1.92	14.4
+DOID:423	myopathy	275	6	4.77	4.33	0.0013	0.018	5.74	1.92	14.4
+DOID:0080000	muscular disease	288	6	4.56	4.18	0.0017	0.018	5.47	1.83	13.7

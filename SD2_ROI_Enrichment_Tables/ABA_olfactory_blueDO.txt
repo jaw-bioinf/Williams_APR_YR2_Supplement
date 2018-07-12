@@ -1,0 +1,9 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:1579 respiratory system disease 691 134 1.43 4.71 4.3e-06 0.0031 1.62 1.31 1.99
+DOID:0050161 lower respiratory tract disease 656 126 1.42 4.43 1.4e-05 0.0051 1.59 1.28 1.97
+DOID:850 lung disease 435 89 1.51 4.33 2.6e-05 0.0064 1.7 1.32 2.18
+DOID:0050155 sensory system disease 606 115 1.4 4.07 6e-05 0.011 1.56 1.25 1.94
+DOID:12987 agranulocytosis 33 13 2.9 4.34 2e-04 0.021 4.18 1.9 8.87
+DOID:1227 neutropenia 33 13 2.9 4.34 2e-04 0.021 4.18 1.9 8.87
+DOID:5614 eye disease 531 101 1.4 3.82 0.00016 0.021 1.55 1.22 1.96
+DOID:1492 eye and adnexa disease 537 101 1.39 3.69 0.00025 0.023 1.53 1.21 1.93

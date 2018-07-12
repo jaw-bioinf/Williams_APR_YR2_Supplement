@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.042	687	90	12	0.133	0.017	GO:0044463	CC	1	cell projection part	1	DNAH2,FBF1,CXADR,ATG16L1,UNC13B,IQCE,NDRG4,SLC9B2,CATSPERD,PCDH15,BBS5,DNAH7C
+2	1	TRUE	0.042	687	90	12	0.133	0.017	GO:0120038	CC	1	plasma membrane bounded cell projection part	1	DNAH2,FBF1,CXADR,ATG16L1,UNC13B,IQCE,NDRG4,SLC9B2,CATSPERD,PCDH15,BBS5,DNAH7C
+3	1	TRUE	0.042	346	90	9	0.1	0.026	GO:0044441	CC	1	ciliary part	2	DNAH2,FBF1,ATG16L1,IQCE,SLC9B2,CATSPERD,PCDH15,BBS5,DNAH7C
+4	1	TRUE	0.0173	2	4	1	0.25	0.5	CORUM:1044	cor	4	Car-Jam3 complex	1	CXADR
+5	1	TRUE	0.036	7	4	1	0.25	0.143	CORUM:6596	cor	7	Tectonic complex	1	TCTN3
+6	1	TRUE	0.0173	1	4	1	0.25	1	CORUM:1046	cor	5	Lnx1-Jam4 complex	1	LNX1
+7	1	TRUE	0.0194	3	4	1	0.25	0.333	CORUM:686	cor	6	Apg16L-Apg12-Apg5 complex	1	ATG16L1
+8	1	TRUE	0.0173	2	4	1	0.25	0.5	CORUM:1043	cor	8	Car-Lnx2 complex	1	CXADR

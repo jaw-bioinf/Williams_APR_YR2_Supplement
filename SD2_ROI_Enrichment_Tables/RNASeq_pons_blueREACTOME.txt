@@ -1,0 +1,67 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6798695	Neutrophil degranulation	477	178	1.52	6.63	1.5e-10	1.7e-07	1.89	1.55	2.3
+R-HSA-168249	Innate Immune System	1035	336	1.32	6.24	7.8e-10	3.4e-07	1.55	1.35	1.79
+R-HSA-168256	Immune System	1970	589	1.22	6.14	8.8e-10	3.4e-07	1.41	1.26	1.57
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	165	1.38	4.9	1.4e-06	0.00039	1.62	1.32	1.97
+R-HSA-192823	Viral mRNA Translation	89	42	1.92	4.98	2.7e-06	0.00063	2.78	1.78	4.31
+R-HSA-373755	Semaphorin interactions	52	28	2.19	4.92	5.3e-06	9e-04	3.61	2.02	6.52
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	50	1.77	4.74	6.2e-06	9e-04	2.39	1.62	3.52
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	50	1.77	4.74	6.2e-06	9e-04	2.39	1.62	3.52
+R-HSA-382551	Transport of small molecules	705	222	1.28	4.43	9.2e-06	0.0012	1.45	1.22	1.72
+R-HSA-1500931	Cell-Cell communication	92	41	1.81	4.48	2e-05	0.0018	2.49	1.61	3.85
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	42	1.8	4.47	2.1e-05	0.0018	2.46	1.6	3.77
+R-HSA-1474244	Extracellular matrix organization	278	99	1.45	4.34	1.9e-05	0.0018	1.73	1.33	2.23
+R-HSA-109582	Hemostasis	608	193	1.29	4.25	2.1e-05	0.0018	1.47	1.22	1.75
+R-HSA-1430728	Metabolism	1899	538	1.15	4.24	1.6e-05	0.0018	1.27	1.14	1.43
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	41	1.8	4.4	2.8e-05	0.0021	2.45	1.58	3.77
+R-HSA-3000157	Laminin interactions	28	17	2.47	4.45	5e-05	0.0031	4.77	2.11	11.3
+R-HSA-72689	Formation of a pool of free 40S subunits	101	43	1.73	4.23	5e-05	0.0031	2.3	1.51	3.48
+R-HSA-983712	Ion channel transport	183	69	1.54	4.17	4.6e-05	0.0031	1.88	1.37	2.57
+R-HSA-1643685	Disease	984	293	1.21	4	4.9e-05	0.0031	1.34	1.16	1.56
+R-HSA-76002	Platelet activation, signaling and aggregation	271	95	1.43	4.07	5.7e-05	0.0032	1.68	1.29	2.18
+R-HSA-422475	Axon guidance	295	102	1.41	4.06	5.8e-05	0.0032	1.65	1.28	2.12
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	46	1.69	4.16	6.2e-05	0.0033	2.2	1.47	3.26
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	46	1.67	4.08	8e-05	0.0041	2.16	1.45	3.21
+R-HSA-72613	Eukaryotic Translation Initiation	119	48	1.64	4.02	9.7e-05	0.0045	2.1	1.42	3.08
+R-HSA-72737	Cap-dependent Translation Initiation	119	48	1.64	4.02	9.7e-05	0.0045	2.1	1.42	3.08
+R-HSA-556833	Metabolism of lipids	696	212	1.24	3.75	0.00014	0.0063	1.38	1.16	1.63
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	38	1.72	3.91	0.00017	0.0069	2.26	1.45	3.52
+R-HSA-416482	G alpha (12/13) signalling events	87	37	1.73	3.91	0.00017	0.0069	2.29	1.45	3.59
+R-HSA-114604	GPVI-mediated activation cascade	55	26	1.92	3.92	2e-04	0.0081	2.77	1.57	4.89
+R-HSA-5663213	RHO GTPases Activate WASPs and WAVEs	36	19	2.15	3.94	0.00025	0.0092	3.45	1.7	7.08
+R-HSA-449147	Signaling by Interleukins	454	144	1.29	3.63	0.00025	0.0092	1.45	1.18	1.79
+R-HSA-5683057	MAPK family signaling cascades	288	97	1.37	3.65	0.00026	0.0094	1.58	1.22	2.04
+R-HSA-611105	Respiratory electron transport	95	39	1.67	3.75	0.00028	0.0097	2.16	1.39	3.31
+R-HSA-216083	Integrin cell surface interactions	81	34	1.71	3.66	0.00041	0.014	2.24	1.39	3.57
+R-HSA-1630316	Glycosaminoglycan metabolism	122	47	1.57	3.61	0.00041	0.014	1.94	1.32	2.84
+R-HSA-446728	Cell junction organization	70	30	1.75	3.57	0.00058	0.018	2.32	1.39	3.83
+R-HSA-166016	Toll Like Receptor 4 (TLR4) Cascade	127	48	1.54	3.49	0.00059	0.018	1.88	1.28	2.74
+R-HSA-112315	Transmission across Chemical Synapses	224	77	1.4	3.45	0.00055	0.018	1.63	1.21	2.17
+R-HSA-2214320	Anchoring fibril formation	15	10	2.71	3.79	0.00068	0.019	6.16	1.92	23
+R-HSA-6785631	ERBB2 Regulates Cell Motility	15	10	2.71	3.79	0.00068	0.019	6.16	1.92	23
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	45	1.55	3.45	0.00069	0.019	1.91	1.28	2.82
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	29	1.74	3.48	0.00078	0.021	2.3	1.37	3.82
+R-HSA-5357786	TNFR1-induced proapoptotic signaling	13	9	2.82	3.74	0.00085	0.023	6.93	1.93	30.8
+R-HSA-194138	Signaling by VEGF	103	40	1.58	3.38	0.00088	0.023	1.97	1.29	2.98
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	33	1.66	3.4	0.00093	0.024	2.13	1.32	3.39
+R-HSA-1810476	RIP-mediated NFkB activation via ZBP1	23	13	2.3	3.57	0.001	0.025	4.01	1.62	10.2
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	37	1.6	3.35	0.001	0.025	2.01	1.29	3.1
+R-HSA-168898	Toll-Like Receptors Cascades	153	55	1.46	3.3	0.001	0.025	1.74	1.22	2.45
+R-HSA-418346	Platelet homeostasis	79	32	1.65	3.31	0.0012	0.029	2.11	1.3	3.38
+R-HSA-6785807	Interleukin-4 and 13 signaling	108	41	1.55	3.25	0.0013	0.03	1.89	1.25	2.84
+R-HSA-399956	CRMPs in Sema3A signaling	16	10	2.54	3.53	0.0014	0.031	5.14	1.69	17.2
+R-HSA-421270	Cell-cell junction organization	43	20	1.89	3.35	0.0014	0.031	2.68	1.4	5.12
+R-HSA-2871809	FCERI mediated Ca+2 mobilization	29	15	2.11	3.4	0.0014	0.032	3.3	1.49	7.4
+R-HSA-5684996	MAPK1/MAPK3 signaling	249	82	1.34	3.11	0.0016	0.034	1.53	1.15	2.01
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	30	1.65	3.21	0.0017	0.036	2.11	1.28	3.44
+R-HSA-2672351	Stimuli-sensing channels	107	40	1.52	3.1	0.0021	0.043	1.85	1.21	2.78
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	54	1.43	3.05	0.0021	0.043	1.67	1.18	2.36
+R-HSA-425407	SLC-mediated transmembrane transport	241	79	1.33	3	0.0022	0.044	1.51	1.14	2
+R-HSA-1250196	SHC1 events in ERBB2 signaling	17	10	2.4	3.28	0.0027	0.049	4.4	1.51	13.6
+R-HSA-3928662	EPHB-mediated forward signaling	39	18	1.88	3.14	0.0026	0.049	2.64	1.33	5.22
+R-HSA-2029482	Regulation of actin dynamics for phagocytic cup formation	60	25	1.7	3.09	0.0026	0.049	2.21	1.26	3.8
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	95	36	1.54	3.03	0.0026	0.049	1.89	1.21	2.91
+R-HSA-194840	Rho GTPase cycle	138	49	1.45	3.01	0.0025	0.049	1.71	1.17	2.45
+R-HSA-5260271	Diseases of Immune System	25	13	2.12	3.19	0.0028	0.05	3.34	1.4	8.02
+R-HSA-5602358	Diseases associated with the TLR signaling cascade	25	13	2.12	3.19	0.0028	0.05	3.34	1.4	8.02
+R-HSA-5673001	RAF/MAP kinase cascade	243	79	1.32	2.92	0.0028	0.05	1.5	1.12	1.98

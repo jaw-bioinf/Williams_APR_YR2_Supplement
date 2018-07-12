@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-70263	Gluconeogenesis	34	4	47.1	13.5	1.3e-06	1.2e-05	62.9	14.8	203
+R-HSA-70326	Glucose metabolism	81	4	19.8	8.49	4.4e-05	2e-04	24.5	5.97	74.8
+R-HSA-71387	Metabolism of carbohydrates	263	4	6.09	4.19	0.0038	0.011	7.15	1.77	21.4

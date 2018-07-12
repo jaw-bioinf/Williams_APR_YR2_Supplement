@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04211	Longevity regulating pathway	89	12	3.06	4.2	0.00049	0.031	3.48	1.7	6.53
+path:hsa05031	Amphetamine addiction	68	10	3.33	4.16	0.00071	0.031	3.83	1.73	7.67
+path:hsa04020	Calcium signaling pathway	181	19	2.38	4.04	0.00036	0.031	2.65	1.53	4.35
+path:hsa04360	Axon guidance	175	18	2.33	3.84	0.00066	0.031	2.58	1.47	4.29
+path:hsa04724	Glutamatergic synapse	114	13	2.59	3.67	0.0014	0.049	2.87	1.46	5.22

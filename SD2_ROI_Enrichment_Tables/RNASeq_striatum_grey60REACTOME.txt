@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-611105	Respiratory electron transport	95	5	8.23	5.68	0.00034	0.019	9.28	2.84	23.7
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	5	6.63	4.93	0.00091	0.023	7.37	2.27	18.7
+R-HSA-72766	Translation	258	7	4.24	4.23	0.0012	0.023	4.74	1.81	10.6
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	4	7.28	4.69	0.0022	0.03	8.02	2.07	22.4
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	5	4.74	3.89	0.004	0.044	5.18	1.6	13
+R-HSA-9007101	Rab regulation of trafficking	123	4	5.09	3.66	0.0078	0.048	5.51	1.43	15.2
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	4.27	3.59	0.0062	0.048	4.65	1.44	11.7
+R-HSA-72172	mRNA Splicing	191	5	4.1	3.46	0.0074	0.048	4.45	1.38	11.2
+R-HSA-5653656	Vesicle-mediated transport	631	10	2.48	3.08	0.0063	0.048	2.78	1.26	5.55

@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0011481	Abnormality of the lacrimal duct	34	3	20.6	7.54	0.00035	0.03	27.8	4.8	110
+HP:0000614	Abnormality of the nasolacrimal system	38	3	18.5	7.09	0.00049	0.03	24.6	4.27	97
+HP:0009926	Increased lacrimation	39	3	18	6.99	0.00053	0.03	23.9	4.15	94.1
+HP:0025337	Red eye	78	4	12	6.44	0.00026	0.03	16.8	3.8	58.2
+HP:0000509	Conjunctivitis	78	4	12	6.44	0.00026	0.03	16.8	3.8	58.2
+HP:0007495	Prematurely aged appearance	102	4	9.18	5.49	0.00072	0.031	12.6	2.87	43.4
+HP:0012647	Abnormal inflammatory response	714	9	2.95	3.82	0.00087	0.031	5.93	1.88	20.3
+HP:0012649	Increased inflammatory response	714	9	2.95	3.82	0.00087	0.031	5.93	1.88	20.3
+HP:0000502	Abnormality of the conjunctiva	113	4	8.28	5.15	0.0011	0.033	11.3	2.58	38.8
+HP:0007556	Plantar hyperkeratosis	53	3	13.2	5.88	0.0013	0.037	17.2	3.02	66.2

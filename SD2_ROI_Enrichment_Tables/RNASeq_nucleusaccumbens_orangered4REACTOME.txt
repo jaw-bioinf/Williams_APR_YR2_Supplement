@@ -1,0 +1,40 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-69278 Cell Cycle, Mitotic 531 22 11.5 15 1.1e-19 5.5e-18 29.2 14.2 62.1
+R-HSA-1640170 Cell Cycle 607 22 10.1 13.9 1.9e-18 5e-17 25.2 12.3 53.6
+R-HSA-68882 Mitotic Anaphase 202 13 17.9 14.6 9.6e-14 1.3e-12 29.2 13.4 61.2
+R-HSA-2555396 Mitotic Metaphase and Anaphase 203 13 17.8 14.5 1e-13 1.3e-12 29 13.3 60.9
+R-HSA-2500257 Resolution of Sister Chromatid Cohesion 127 11 24.1 15.7 4e-13 4.1e-12 37.3 16.2 80.8
+R-HSA-69618 Mitotic Spindle Checkpoint 112 10 24.8 15.2 4.1e-12 3.5e-11 37.1 15.6 82.1
+R-HSA-69620 Cell Cycle Checkpoints 292 13 12.4 11.9 1.1e-11 7.8e-11 19.6 9.03 40.9
+R-HSA-141424 Amplification of signal from the kinetochores 96 9 26.1 14.8 3.6e-11 1.7e-10 37.8 15.2 85.8
+R-HSA-141444 Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal 96 9 26.1 14.8 3.6e-11 1.7e-10 37.8 15.2 85.8
+R-HSA-2467813 Separation of Sister Chromatids 191 11 16 12.6 3.6e-11 1.7e-10 23.9 10.5 51.2
+R-HSA-68886 M Phase 391 14 9.96 10.9 2.6e-11 1.7e-10 16.2 7.6 33.4
+R-HSA-68877 Mitotic Prometaphase 199 11 15.4 12.3 5.6e-11 2.4e-10 22.9 10 49.1
+R-HSA-5663220 RHO GTPases Activate Formins 141 9 17.8 12 1.1e-09 4.5e-09 24.8 10.1 55.8
+R-HSA-195258 RHO GTPase Effectors 313 9 8 7.56 1.1e-06 4.1e-06 10.6 4.35 23.5
+R-HSA-194315 Signaling by Rho GTPases 441 10 6.31 6.85 2.2e-06 7.6e-06 8.51 3.64 18.4
+R-HSA-4419969 Depolymerisation of the Nuclear Lamina 15 3 55.6 12.7 1.9e-05 6e-05 74.9 13 296
+R-HSA-156711 Polo-like kinase mediated events 16 3 52.2 12.3 2.3e-05 6.9e-05 69.3 12.1 271
+R-HSA-174143 APC/C-mediated degradation of cell cycle proteins 86 4 12.9 6.68 0.00024 0.00065 15.1 3.79 43.9
+R-HSA-453276 Regulation of mitotic cell cycle 86 4 12.9 6.68 0.00024 0.00065 15.1 3.79 43.9
+R-HSA-69275 G2/M Transition 195 5 7.13 5.19 0.00061 0.0016 8.3 2.49 21.9
+R-HSA-453274 Mitotic G2-G2/M phases 197 5 7.06 5.16 0.00064 0.0016 8.22 2.47 21.6
+R-HSA-2980766 Nuclear Envelope Breakdown 51 3 16.4 6.61 0.00079 0.0018 18.8 3.56 63.2
+R-HSA-75153 Apoptotic execution  phase 51 3 16.4 6.61 0.00079 0.0018 18.8 3.56 63.2
+R-HSA-983189 Kinesins 60 3 13.9 6.02 0.0013 0.0027 15.8 3.02 52.6
+R-HSA-69242 S Phase 138 4 8.06 5.02 0.0014 0.0029 9.18 2.33 26.4
+R-HSA-453279 Mitotic G1-G1/S phases 143 4 7.78 4.91 0.0016 0.0032 8.84 2.24 25.4
+R-HSA-176409 APC/C:Cdc20 mediated degradation of mitotic proteins 75 3 11.1 5.29 0.0024 0.0046 12.5 2.4 41.3
+R-HSA-176814 Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins 76 3 11 5.25 0.0025 0.0046 12.3 2.37 40.6
+R-HSA-176408 Regulation of APC/C activators between G1/S and early anaphase 80 3 10.4 5.09 0.0029 0.0051 11.7 2.24 38.5
+R-HSA-6811434 COPI-dependent Golgi-to-ER retrograde traffic 100 3 8.34 4.43 0.0054 0.0092 9.25 1.79 30.3
+R-HSA-109581 Apoptosis 108 3 7.73 4.22 0.0067 0.011 8.54 1.65 27.9
+R-HSA-5357801 Programmed Cell Death 115 3 7.26 4.05 0.008 0.013 8 1.55 26.1
+R-HSA-2132295 MHC class II antigen presentation 124 3 6.73 3.86 0.0098 0.015 7.4 1.43 24.1
+R-HSA-69206 G1/S Transition 124 3 6.73 3.86 0.0098 0.015 7.4 1.43 24.1
+R-HSA-68875 Mitotic Prophase 134 3 6.23 3.66 0.012 0.017 6.83 1.32 22.2
+R-HSA-8856688 Golgi-to-ER retrograde transport 134 3 6.23 3.66 0.012 0.017 6.83 1.32 22.2
+R-HSA-983231 Factors involved in megakaryocyte development and platelet production 163 3 5.12 3.18 0.02 0.028 5.58 1.08 18.1
+R-HSA-69481 G2/M Checkpoints 167 3 5 3.13 0.022 0.029 5.44 1.06 17.6
+R-HSA-6811442 Intra-Golgi and retrograde Golgi-to-ER traffic 200 3 4.17 2.72 0.035 0.045 4.51 0.878 14.6

@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008762	embryonic lethality	1763	297	1.35	6.22	1.1e-09	3.8e-06	1.57	1.36	1.82
+MP:0013293	embryonic lethality prior to tooth bud stage	788	151	1.54	5.97	1.1e-08	1.9e-05	1.77	1.45	2.14
+MP:0013292	embryonic lethality prior to organogenesis	717	137	1.54	5.62	7.1e-08	8e-05	1.75	1.43	2.14
+MP:0002152	abnormal brain morphology	1633	261	1.28	4.77	2.1e-06	0.0015	1.44	1.23	1.67
+MP:0005380	embryo phenotype	1722	273	1.27	4.74	2.3e-06	0.0015	1.43	1.23	1.65
+MP:0000771	abnormal brain size	343	72	1.69	4.88	3.9e-06	0.0022	1.93	1.45	2.53
+MP:0014134	abnormal embryo morphology	1333	217	1.31	4.58	5.5e-06	0.0026	1.45	1.23	1.71
+MP:0001672	abnormal embryo development	1018	170	1.34	4.36	1.6e-05	0.0068	1.48	1.23	1.77
+MP:0009850	embryonic lethality between implantation and placentation	440	84	1.53	4.32	2.9e-05	0.011	1.71	1.32	2.2
+MP:0006205	embryonic lethality between implantation and somite formation	300	61	1.63	4.21	5.8e-05	0.019	1.84	1.36	2.46
+MP:0011100	preweaning lethality, complete penetrance	799	135	1.36	3.98	7.7e-05	0.023	1.49	1.21	1.81
+MP:0011098	embryonic lethality during organogenesis, complete penetrance	751	128	1.37	3.98	8.1e-05	0.023	1.5	1.22	1.84
+MP:0002206	abnormal CNS synaptic transmission	653	113	1.39	3.9	0.00012	0.028	1.52	1.22	1.89
+MP:0004196	abnormal prenatal growth/weight/body size	1147	183	1.28	3.84	0.00011	0.028	1.4	1.17	1.66
+MP:0003635	abnormal synaptic transmission	740	125	1.36	3.82	0.00015	0.033	1.48	1.2	1.82
+MP:0000790	abnormal stratification in cerebral cortex	49	16	2.62	4.3	0.00018	0.038	3.44	1.76	6.46
+MP:0000774	decreased brain size	281	56	1.6	3.86	2e-04	0.04	1.79	1.3	2.42
+MP:0003984	embryonic growth retardation	560	98	1.41	3.74	0.00022	0.041	1.54	1.21	1.94

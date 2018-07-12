@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04725	Cholinergic synapse	112	3	6.84	3.91	0.0091	0.028	7.78	1.47	26.3
+path:hsa04024	cAMP signaling pathway	198	4	5.16	3.73	0.0068	0.028	6.02	1.49	17.9
+path:hsa04140	Autophagy - animal	128	3	5.99	3.57	0.013	0.028	6.77	1.28	22.8
+path:hsa05012	Parkinson's disease	142	3	5.4	3.32	0.017	0.028	6.08	1.15	20.5
+path:hsa04072	Phospholipase D signaling pathway	145	3	5.29	3.27	0.018	0.028	5.94	1.13	20
+path:hsa04723	Retrograde endocannabinoid signaling	148	3	5.18	3.22	0.019	0.028	5.82	1.11	19.6
+path:hsa05166	HTLV-I infection	256	4	3.99	3.06	0.016	0.028	4.59	1.14	13.7
+path:hsa04020	Calcium signaling pathway	181	3	4.24	2.77	0.033	0.041	4.72	0.898	15.8
+path:hsa05205	Proteoglycans in cancer	203	3	3.78	2.52	0.044	0.048	4.18	0.798	14

@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04071	Sphingolipid signaling pathway	118	4	8.66	5.26	0.001	0.0084	10.4	2.55	31.2
+path:hsa05215	Prostate cancer	87	3	8.81	4.6	0.0045	0.018	10.1	1.91	34.6
+path:hsa04068	FoxO signaling pathway	131	3	5.85	3.52	0.014	0.036	6.61	1.25	22.3
+path:hsa05161	Hepatitis B	144	3	5.32	3.29	0.018	0.036	5.99	1.14	20.2
+path:hsa04141	Protein processing in endoplasmic reticulum	165	3	4.65	2.97	0.026	0.041	5.2	0.989	17.5

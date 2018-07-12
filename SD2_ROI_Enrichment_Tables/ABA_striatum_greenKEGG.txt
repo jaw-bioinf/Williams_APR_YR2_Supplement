@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04727	GABAergic synapse	88	5	9.93	6.4	0.00013	0.001	11.9	3.54	31.7
+path:hsa00250	Alanine, aspartate and glutamate metabolism	35	3	15	6.29	0.001	0.004	17.6	3.29	60.5
+path:hsa04360	Axon guidance	175	4	4	3.05	0.017	0.046	4.43	1.13	12.6

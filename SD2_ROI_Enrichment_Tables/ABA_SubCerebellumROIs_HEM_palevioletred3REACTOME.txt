@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	3	15.5	6.42	0.00091	0.0095	18	3.4	61.3
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	3	15.5	6.42	0.00091	0.0095	18	3.4	61.3
+R-HSA-8854518	AURKA Activation by TPX2	72	3	14.9	6.27	0.001	0.0095	17.2	3.25	58.5
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	3	13.4	5.9	0.0014	0.0095	15.4	2.92	52.1
+R-HSA-380287	Centrosome maturation	80	3	13.4	5.9	0.0014	0.0095	15.4	2.92	52.1
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	3	12.3	5.62	0.0018	0.01	14.1	2.68	47.7
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	3	11.5	5.41	0.0021	0.01	13.2	2.5	44.4
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	3	11.1	5.27	0.0024	0.01	12.6	2.4	42.4
+R-HSA-2132295	MHC class II antigen presentation	124	3	8.65	4.54	0.0048	0.018	9.78	1.86	32.7
+R-HSA-1852241	Organelle biogenesis and maintenance	269	4	5.32	3.8	0.0063	0.021	6.11	1.53	18
+R-HSA-69275	G2/M Transition	195	3	5.5	3.36	0.017	0.041	6.12	1.17	20.3
+R-HSA-453274	Mitotic G2-G2/M phases	197	3	5.45	3.34	0.017	0.041	6.05	1.16	20.1
+R-HSA-68877	Mitotic Prometaphase	199	3	5.39	3.31	0.018	0.041	5.99	1.15	19.9
+R-HSA-5617833	Cilium Assembly	201	3	5.34	3.29	0.018	0.041	5.93	1.14	19.7
+R-HSA-1280218	Adaptive Immune System	746	6	2.88	2.82	0.015	0.041	3.41	1.13	8.7

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	50	4	14.8	7.22	0.00014	0.0058	17.2	4.34	49.9
+R-HSA-2682334	EPH-Ephrin signaling	81	4	9.16	5.43	0.00092	0.018	10.3	2.63	29
+R-HSA-199992	trans-Golgi Network Vesicle Budding	72	3	7.73	4.22	0.0068	0.045	8.43	1.64	27.1
+R-HSA-421837	Clathrin derived vesicle budding	72	3	7.73	4.22	0.0068	0.045	8.43	1.64	27.1
+R-HSA-199991	Membrane Trafficking	599	9	2.79	3.32	0.0044	0.045	3.18	1.36	6.62
+R-HSA-5653656	Vesicle-mediated transport	631	9	2.64	3.14	0.0061	0.045	3	1.28	6.25

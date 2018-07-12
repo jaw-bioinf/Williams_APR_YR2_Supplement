@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-193648	NRAGE signals death through JNK	55	4	13.5	6.84	0.00021	0.0095	15.5	3.93	44.7
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	4	10	5.74	0.00066	0.011	11.3	2.88	32
+R-HSA-397014	Muscle contraction	201	6	5.54	4.78	7e-04	0.011	6.26	2.16	14.9
+R-HSA-416482	G alpha (12/13) signalling events	87	4	8.53	5.19	0.0012	0.012	9.51	2.44	26.8
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	4	8.24	5.08	0.0014	0.012	9.18	2.36	25.8
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	56	3	9.93	4.94	0.0034	0.025	11	2.13	35.7
+R-HSA-199992	trans-Golgi Network Vesicle Budding	72	3	7.73	4.22	0.0068	0.03	8.43	1.64	27.1
+R-HSA-421837	Clathrin derived vesicle budding	72	3	7.73	4.22	0.0068	0.03	8.43	1.64	27.1
+R-HSA-194840	Rho GTPase cycle	138	4	5.37	3.81	0.0064	0.03	5.86	1.52	16.3
+R-HSA-5576891	Cardiac conduction	139	4	5.34	3.79	0.0066	0.03	5.82	1.5	16.2
+R-HSA-166520	Signalling by NGF	147	4	5.05	3.64	0.008	0.03	5.49	1.42	15.3
+R-HSA-1266738	Developmental Biology	659	9	2.53	3	0.0081	0.03	2.86	1.23	5.97

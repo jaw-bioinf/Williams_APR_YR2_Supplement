@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00410	beta-Alanine metabolism	31	3	14	6.05	0.0012	0.0061	16.3	3.06	56.1
+path:hsa00310	Lysine degradation	59	3	7.34	4.09	0.0077	0.013	8.14	1.57	26.6
+path:hsa04141	Protein processing in endoplasmic reticulum	165	5	4.38	3.67	0.0054	0.013	4.91	1.49	12.6
+path:hsa04668	TNF signaling pathway	108	3	4.01	2.63	0.038	0.048	4.31	0.843	13.8

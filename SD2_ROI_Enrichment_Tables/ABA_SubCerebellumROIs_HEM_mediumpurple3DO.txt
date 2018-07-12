@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9884	muscular dystrophy	100	4	10.4	5.87	0.00053	0.022	12.4	3.07	37.4
+DOID:1100	ovarian disease	57	3	13.6	5.97	0.0013	0.027	16	2.99	55.2
+DOID:66	muscle tissue disease	275	5	4.71	3.91	0.0036	0.037	5.64	1.66	15.4
+DOID:423	myopathy	275	5	4.71	3.91	0.0036	0.037	5.64	1.66	15.4
+DOID:0080000	muscular disease	288	5	4.5	3.78	0.0044	0.037	5.37	1.58	14.7
+DOID:3347	osteosarcoma	214	4	4.85	3.56	0.0086	0.05	5.6	1.4	16.6
+DOID:229	female reproductive system disease	333	5	3.89	3.37	0.008	0.05	4.6	1.35	12.6
+DOID:15	reproductive system disease	490	6	3.18	3.11	0.0095	0.05	3.83	1.26	9.87

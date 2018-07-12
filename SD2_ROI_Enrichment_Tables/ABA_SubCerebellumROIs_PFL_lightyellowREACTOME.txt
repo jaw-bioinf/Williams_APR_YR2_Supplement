@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5357956	TNFR1-induced NFkappaB signaling pathway	30	3	17.3	6.81	0.00067	0.02	20	3.78	68.1
+R-HSA-5357905	Regulation of TNFR1 signaling	33	3	15.7	6.45	0.00089	0.02	18	3.42	60.7
+R-HSA-75893	TNF signaling	43	3	12	5.54	0.0019	0.029	13.5	2.6	44.4
+R-HSA-73887	Death Receptor Signalling	50	3	10.4	5.06	0.003	0.034	11.5	2.22	37.4

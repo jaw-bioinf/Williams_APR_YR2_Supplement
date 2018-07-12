@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04611	Platelet activation	123	22	3.35	6.24	4.3e-07	8e-05	4.05	2.4	6.57
+path:hsa04064	NF-kappa B signaling pathway	94	17	3.38	5.53	7.7e-06	0.00073	4.06	2.22	7.02
+path:hsa05222	Small cell lung cancer	84	13	2.9	4.16	0.00046	0.029	3.33	1.67	6.14

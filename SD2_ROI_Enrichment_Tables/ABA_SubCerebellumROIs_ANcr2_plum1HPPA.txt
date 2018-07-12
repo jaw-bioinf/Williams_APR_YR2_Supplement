@@ -1,0 +1,99 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0100542	Abnormal localization of kidney	152	4	13.2	6.87	0.00011	0.0074	30.1	5.05	207
+HP:0000077	Abnormality of the kidney	902	7	3.89	4.5	7.3e-05	0.0074	Inf	4.19	Inf
+HP:0010935	Abnormality of the upper urinary tract	933	7	3.76	4.4	9.2e-05	0.0074	Inf	4	Inf
+HP:0012210	Abnormal renal morphology	707	6	4.26	4.33	0.00038	0.02	24	2.9	1100
+HP:0001680	Coarctation of aorta	123	3	12.2	5.67	0.0013	0.022	21.1	3.05	126
+HP:0001600	Abnormality of the larynx	142	3	10.6	5.22	0.002	0.022	18.1	2.63	108
+HP:0001679	Abnormality of the aorta	249	4	8.06	5.16	0.00073	0.022	17.7	2.98	121
+HP:0000348	High forehead	151	3	9.96	5.03	0.0024	0.022	17	2.46	101
+HP:0010442	Polydactyly	299	4	6.71	4.61	0.0015	0.022	14.5	2.44	99.4
+HP:0001631	Atrial septal defect	307	4	6.53	4.54	0.0016	0.022	14.1	2.37	96.5
+HP:0011994	Abnormality of the atrial septum	307	4	6.53	4.54	0.0016	0.022	14.1	2.37	96.5
+HP:0005120	Abnormality of cardiac atrium	309	4	6.49	4.52	0.0017	0.022	14	2.35	95.8
+HP:0002007	Frontal bossing	323	4	6.21	4.39	0.002	0.022	13.3	2.24	91
+HP:0011218	Abnormal shape of the frontal region	323	4	6.21	4.39	0.002	0.022	13.3	2.24	91
+HP:0004207	Abnormality of the 5th finger	324	4	6.19	4.38	0.002	0.022	13.2	2.23	90.7
+HP:0001629	Ventricular septal defect	326	4	6.15	4.37	0.002	0.022	13.2	2.21	90
+HP:0010438	Abnormality of the ventricular septum	333	4	6.02	4.31	0.0022	0.022	12.8	2.16	88
+HP:0001511	Intrauterine growth retardation	347	4	5.78	4.19	0.0026	0.022	12.3	2.07	84
+HP:0008050	Abnormality of the palpebral fissures	566	5	4.43	3.98	0.0017	0.022	13.1	2.14	138
+HP:0000079	Abnormality of the urinary system	1270	7	2.76	3.52	8e-04	0.022	Inf	2.55	Inf
+HP:0030669	Abnormal morphology of the ocular adnexa	944	6	3.19	3.51	0.002	0.022	16.4	1.98	752
+HP:0012252	Abnormal respiratory system morphology	959	6	3.14	3.47	0.0022	0.022	16	1.94	736
+HP:0012243	Abnormal genital system morphology	965	6	3.12	3.45	0.0023	0.022	15.9	1.93	730
+HP:0000153	Abnormality of the mouth	1389	7	2.53	3.27	0.0015	0.022	Inf	2.21	Inf
+HP:0040194	Increased head circumference	366	4	5.48	4.05	0.0032	0.025	11.6	1.95	79.2
+HP:0000256	Macrocephaly	366	4	5.48	4.05	0.0032	0.025	11.6	1.95	79.2
+HP:0002119	Ventriculomegaly	374	4	5.36	3.99	0.0034	0.025	11.3	1.9	77.3
+HP:0004298	Abnormality of the abdominal wall	379	4	5.29	3.95	0.0036	0.025	11.1	1.87	76.1
+HP:0011297	Abnormality of digit	1030	6	2.92	3.28	0.0033	0.025	14.5	1.76	666
+HP:0003549	Abnormality of connective tissue	1048	6	2.87	3.23	0.0037	0.025	14.2	1.71	650
+HP:0000164	Abnormality of the teeth	682	5	3.68	3.48	0.0041	0.027	10.4	1.7	110
+HP:0000008	Abnormality of female internal genitalia	398	4	5.04	3.83	0.0043	0.028	10.5	1.77	72
+HP:0000422	Abnormality of the nasal bridge	702	5	3.57	3.4	0.0046	0.029	10.1	1.64	106
+HP:0000078	Abnormality of the genital system	1098	6	2.74	3.11	0.0048	0.029	13.2	1.6	608
+HP:0012374	Abnormality of the globe	1652	7	2.12	2.81	0.0051	0.03	Inf	1.62	Inf
+HP:0012372	Abnormal eye morphology	1655	7	2.12	2.8	0.0051	0.03	Inf	1.62	Inf
+HP:0000119	Abnormality of the genitourinary system	1666	7	2.11	2.79	0.0054	0.03	Inf	1.6	Inf
+HP:0002813	Abnormality of limb bone morphology	1135	6	2.65	3.02	0.0057	0.031	12.6	1.53	579
+HP:0100887	Abnormality of globe size	216	3	6.96	4.04	0.0067	0.032	11.6	1.68	68.7
+HP:0100259	Postaxial polydactyly	217	3	6.93	4.03	0.0068	0.032	11.5	1.67	68.4
+HP:0000618	Blindness	229	3	6.57	3.9	0.0079	0.032	10.9	1.58	64.6
+HP:0001560	Abnormality of the amniotic fluid	230	3	6.54	3.88	0.008	0.032	10.8	1.57	64.3
+HP:0010460	Abnormality of the female genitalia	443	4	4.53	3.55	0.0064	0.032	9.29	1.57	63.7
+HP:0001671	Abnormality of the cardiac septa	446	4	4.5	3.53	0.0066	0.032	9.22	1.55	63.2
+HP:0000812	Abnormal internal genitalia	452	4	4.44	3.5	0.0069	0.032	9.08	1.53	62.2
+HP:0001713	Abnormality of cardiac ventricle	459	4	4.37	3.46	0.0073	0.032	8.92	1.5	61.1
+HP:0012211	Abnormal renal physiology	470	4	4.27	3.4	0.008	0.032	8.68	1.46	59.5
+HP:0000202	Oral cleft	479	4	4.19	3.36	0.0085	0.032	8.49	1.43	58.2
+HP:0000032	Abnormality of male external genitalia	773	5	3.24	3.16	0.0072	0.032	8.9	1.45	93.6
+HP:0001167	Abnormality of finger	784	5	3.2	3.12	0.0077	0.032	8.73	1.43	91.9
+HP:0000811	Abnormal external genitalia	795	5	3.15	3.09	0.0082	0.032	8.58	1.4	90.3
+HP:0010461	Abnormality of the male genitalia	797	5	3.15	3.08	0.0083	0.032	8.55	1.4	90
+HP:0040068	Abnormality of limb bone	1160	6	2.59	2.96	0.0065	0.032	12.2	1.48	560
+HP:0011844	Abnormal appendicular skeleton morphology	1199	6	2.51	2.88	0.0078	0.032	11.6	1.41	533
+HP:0000366	Abnormality of the nose	1197	6	2.51	2.88	0.0077	0.032	11.6	1.41	535
+HP:0011004	Abnormality of the systemic arterial tree	486	4	4.13	3.32	0.009	0.033	8.35	1.41	57.2
+HP:0000315	Abnormality of the orbital region	1226	6	2.45	2.82	0.0088	0.033	11.2	1.36	515
+HP:0001643	Patent ductus arteriosus	246	3	6.11	3.72	0.0096	0.034	10	1.46	59.7
+HP:0011337	Abnormality of mouth size	249	3	6.04	3.69	0.01	0.034	9.91	1.44	58.9
+HP:0000028	Cryptorchidism	505	4	3.97	3.23	0.01	0.034	7.98	1.35	54.6
+HP:0000316	Hypertelorism	506	4	3.96	3.22	0.01	0.034	7.96	1.34	54.5
+HP:0000492	Abnormality of the eyelid	823	5	3.05	3	0.0096	0.034	8.2	1.34	86.4
+HP:0002088	Abnormality of lung morphology	837	5	3	2.96	0.01	0.034	8.02	1.31	84.5
+HP:0000369	Low-set ears	514	4	3.9	3.18	0.011	0.036	7.82	1.32	53.5
+HP:0008678	Renal hypoplasia/aplasia	264	3	5.7	3.55	0.012	0.038	9.3	1.36	55.3
+HP:0002118	Abnormality of the cerebral ventricles	528	4	3.8	3.12	0.012	0.038	7.57	1.28	51.9
+HP:0003196	Short nose	276	3	5.45	3.44	0.013	0.039	8.86	1.29	52.7
+HP:0002269	Abnormality of neuronal migration	279	3	5.39	3.42	0.014	0.039	8.76	1.28	52.1
+HP:0000470	Short neck	280	3	5.37	3.41	0.014	0.039	8.72	1.27	51.8
+HP:0011356	Regional abnormality of skin	280	3	5.37	3.41	0.014	0.039	8.72	1.27	51.8
+HP:0000357	Abnormal location of ears	540	4	3.71	3.06	0.013	0.039	7.37	1.24	50.5
+HP:0009118	Aplasia/Hypoplasia of the mandible	544	4	3.69	3.05	0.014	0.039	7.31	1.23	50.1
+HP:0000347	Micrognathia	543	4	3.69	3.05	0.013	0.039	7.33	1.24	50.2
+HP:0000238	Hydrocephalus	285	3	5.28	3.37	0.014	0.04	8.56	1.25	50.9
+HP:0002079	Hypoplasia of the corpus callosum	287	3	5.24	3.35	0.015	0.04	8.49	1.24	50.5
+HP:0002086	Abnormality of the respiratory system	1338	6	2.25	2.59	0.014	0.04	9.77	1.18	449
+HP:0000271	Abnormality of the face	1938	7	1.81	2.38	0.016	0.042	Inf	1.17	Inf
+HP:0003319	Abnormality of the cervical spine	297	3	5.06	3.27	0.016	0.043	8.18	1.19	48.6
+HP:0000795	Abnormality of the urethra	302	3	4.98	3.23	0.017	0.044	8.03	1.17	47.7
+HP:0009116	Aplasia/Hypoplasia involving bones of the skull	579	4	3.46	2.9	0.017	0.044	6.78	1.14	46.4
+HP:0002597	Abnormality of the vasculature	936	5	2.68	2.68	0.017	0.044	6.9	1.13	72.4
+HP:0000368	Low-set, posteriorly rotated ears	306	3	4.92	3.2	0.018	0.045	7.91	1.15	47
+HP:0030084	Clinodactyly	313	3	4.81	3.15	0.019	0.045	7.72	1.13	45.8
+HP:0000286	Epicanthus	313	3	4.81	3.15	0.019	0.045	7.72	1.13	45.8
+HP:0011603	Congenital malformation of the great arteries	318	3	4.73	3.12	0.02	0.045	7.58	1.11	45
+HP:0003121	Limb joint contracture	319	3	4.72	3.11	0.02	0.045	7.56	1.1	44.8
+HP:0004097	Deviation of finger	323	3	4.66	3.08	0.02	0.045	7.45	1.09	44.3
+HP:0011355	Localized skin lesion	604	4	3.32	2.8	0.02	0.045	6.45	1.09	44.1
+HP:0002648	Abnormality of calvarial morphology	609	4	3.29	2.78	0.02	0.045	6.38	1.08	43.7
+HP:0004328	Abnormality of the anterior segment of the globe	948	5	2.64	2.65	0.018	0.045	6.78	1.11	71.5
+HP:0000240	Abnormality of skull size	968	5	2.59	2.6	0.02	0.045	6.59	1.08	69.4
+HP:0001155	Abnormality of the hand	972	5	2.58	2.59	0.02	0.045	6.55	1.07	69
+HP:0002715	Abnormality of the immune system	1391	6	2.16	2.49	0.018	0.045	9.17	1.11	421
+HP:0000929	Abnormality of the skull	1400	6	2.15	2.48	0.018	0.045	9.07	1.1	417
+HP:0004299	Hernia of the abdominal wall	326	3	4.61	3.06	0.021	0.046	7.38	1.08	43.8
+HP:0010866	Abdominal wall defect	328	3	4.59	3.05	0.021	0.046	7.32	1.07	43.5
+HP:0002087	Abnormality of the upper respiratory tract	333	3	4.52	3.02	0.022	0.047	7.2	1.05	42.8
+HP:0000494	Downslanted palpebral fissures	332	3	4.53	3.02	0.022	0.047	7.23	1.05	42.9

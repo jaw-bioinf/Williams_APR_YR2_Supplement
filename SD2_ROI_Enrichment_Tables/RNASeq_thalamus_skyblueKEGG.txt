@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04141 Protein processing in endoplasmic reticulum 165 10 6.6 7.01 2.1e-06 4.7e-05 8.12 3.61 16.6
+path:hsa04110 Cell cycle 124 5 4.39 3.67 0.0054 0.041 4.85 1.49 12.3
+path:hsa04114 Oocyte meiosis 124 5 4.39 3.67 0.0054 0.041 4.85 1.49 12.3

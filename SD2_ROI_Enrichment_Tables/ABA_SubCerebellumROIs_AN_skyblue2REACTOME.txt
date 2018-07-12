@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2022870	Chondroitin sulfate biosynthesis	20	3	60.1	13.2	1.5e-05	3e-04	79.3	13.9	305
+R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	50	3	24	8.17	0.00025	0.0025	28.8	5.34	101
+R-HSA-1630316	Glycosaminoglycan metabolism	122	3	9.85	4.92	0.0033	0.022	11.3	2.14	38.4

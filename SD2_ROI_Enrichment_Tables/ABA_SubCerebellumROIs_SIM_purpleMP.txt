@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001116	small gonad	536	28	2.25	4.61	4.2e-05	0.031	2.52	1.61	3.81
+MP:0001147	small testis	489	26	2.29	4.53	6.1e-05	0.031	2.56	1.61	3.91
+MP:0002211	abnormal primary sex determination	552	28	2.19	4.44	7.1e-05	0.031	2.44	1.56	3.68
+MP:0002210	abnormal sex determination	587	29	2.13	4.36	8.4e-05	0.031	2.38	1.53	3.57

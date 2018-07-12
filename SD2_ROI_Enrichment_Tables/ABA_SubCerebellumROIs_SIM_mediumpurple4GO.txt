@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00433	3	1	1	1	0.333	CORUM:3022	cor	1	Cohesin complex, incomplete (Sycp1, Crest/Ss18I1, Rec8)	1	REC8
+2	1	TRUE	0.00433	3	1	1	1	0.333	CORUM:102	cor	3	Meiotic cohesin complex	1	REC8
+3	1	TRUE	0.00433	2	1	1	1	0.5	CORUM:3020	cor	2	Cohesin complex, incomplete (Rec8, Crest/Ss18I1)	1	REC8

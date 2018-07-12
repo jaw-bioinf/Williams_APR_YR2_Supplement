@@ -1,0 +1,40 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0003957 abnormal nitric oxide homeostasis 42 4 12.6 6.58 0.00027 0.019 14.6 3.68 42.3
+MP:0008552 abnormal circulating tumor necrosis factor level 142 7 6.53 5.79 9.1e-05 0.019 7.46 2.83 16.7
+MP:0000218 increased leukocyte cell number 1080 20 2.45 4.43 9.3e-05 0.019 3.07 1.73 5.28
+MP:0008250 abnormal myeloid leukocyte morphology 950 18 2.51 4.29 0.00017 0.019 3.07 1.68 5.37
+MP:0011181 increased hematopoietic cell number 1247 21 2.23 4.08 0.00023 0.019 2.79 1.58 4.76
+MP:0000217 abnormal leukocyte cell number 1718 26 2.01 4.03 0.00018 0.019 2.62 1.55 4.37
+MP:0008246 abnormal leukocyte morphology 1929 28 1.92 3.98 0.00019 0.019 2.56 1.53 4.25
+MP:0000716 abnormal immune system cell morphology 1949 28 1.9 3.92 0.00022 0.019 2.53 1.51 4.19
+MP:0011180 abnormal hematopoietic cell number 1969 28 1.89 3.86 0.00027 0.019 2.5 1.49 4.14
+MP:0008247 abnormal mononuclear cell morphology 1680 25 1.97 3.84 0.00034 0.022 2.54 1.49 4.24
+MP:0008752 abnormal tumor necrosis factor level 185 7 5.02 4.81 0.00046 0.027 5.63 2.15 12.5
+MP:0008593 increased circulating interleukin-10 level 23 3 17.3 6.82 0.00065 0.028 20.5 3.82 71.8
+MP:0008396 abnormal osteoclast differentiation 94 5 7.05 5.14 0.00069 0.028 7.88 2.42 20
+MP:0008595 abnormal circulating interleukin-6 level 143 6 5.56 4.79 7e-04 0.028 6.2 2.16 14.6
+MP:0010210 abnormal circulating cytokine level 317 9 3.76 4.36 0.00059 0.028 4.26 1.84 8.74
+MP:0003795 abnormal bone structure 873 16 2.43 3.87 0.00063 0.028 2.89 1.54 5.15
+MP:0003383 abnormal gluconeogenesis 59 4 8.99 5.37 0.00099 0.033 10.1 2.58 28.5
+MP:0008251 abnormal phagocyte morphology 816 15 2.44 3.75 0.00093 0.033 2.86 1.49 5.17
+MP:0002078 abnormal glucose homeostasis 1187 19 2.12 3.61 0.00095 0.033 2.56 1.42 4.44
+MP:0002276 abnormal lung interstitium morphology 27 3 14.7 6.23 0.0011 0.034 17.1 3.22 58.5
+MP:0002563 shortened circadian period 29 3 13.7 5.98 0.0013 0.04 15.8 2.99 53.4
+MP:0002561 abnormal circadian phase 30 3 13.3 5.86 0.0014 0.042 15.2 2.88 51.2
+MP:0008590 abnormal circulating interleukin-10 level 32 3 12.4 5.65 0.0017 0.047 14.2 2.69 47.4
+MP:0005291 abnormal glucose tolerance 523 11 2.79 3.67 0.0017 0.047 3.17 1.49 6.13
+MP:0003427 parakeratosis 33 3 12.1 5.54 0.0019 0.048 13.7 2.61 45.7
+MP:0002558 abnormal circadian period 38 3 10.5 5.1 0.0029 0.048 11.7 2.25 38.6
+MP:0004179 transmission ratio distortion 38 3 10.5 5.1 0.0029 0.048 11.7 2.25 38.6
+MP:0002575 increased circulating ketone body level 38 3 10.5 5.1 0.0029 0.048 11.7 2.25 38.6
+MP:0005439 decreased glycogen level 73 4 7.26 4.68 0.0022 0.048 8.02 2.07 22.4
+MP:0004945 abnormal bone resorption 77 4 6.89 4.52 0.0027 0.048 7.58 1.96 21.2
+MP:0005437 abnormal glycogen level 129 5 5.14 4.13 0.0028 0.048 5.63 1.74 14.2
+MP:0004982 abnormal osteoclast morphology 184 6 4.32 3.97 0.0026 0.048 4.76 1.66 11.1
+MP:0001781 abnormal white adipose tissue amount 238 7 3.9 3.95 0.002 0.048 4.32 1.65 9.57
+MP:0008588 abnormal circulating interleukin level 245 7 3.79 3.85 0.0024 0.048 4.19 1.6 9.28
+MP:0002425 altered susceptibility to autoimmune disorder 320 8 3.31 3.67 0.0027 0.048 3.68 1.51 7.8
+MP:0002441 abnormal granulocyte morphology 558 11 2.61 3.43 0.0029 0.048 2.95 1.39 5.72
+MP:0000717 abnormal lymphocyte cell number 1270 19 1.98 3.29 0.0021 0.048 2.37 1.32 4.1
+MP:0011182 decreased hematopoietic cell number 1508 21 1.85 3.13 0.0029 0.048 2.23 1.26 3.79
+MP:0004983 abnormal osteoclast cell number 131 5 5.06 4.08 0.003 0.05 5.54 1.71 14

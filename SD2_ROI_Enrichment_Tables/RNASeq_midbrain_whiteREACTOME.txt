@@ -1,0 +1,19 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-9006934 Signaling by Receptor Tyrosine Kinases 487 14 4.3 6.12 3.1e-06 2e-04 5.29 2.69 9.75
+R-HSA-6794361 Neurexins and neuroligins 34 4 17.6 7.95 7.3e-05 0.002 21 5.21 62
+R-HSA-5663213 RHO GTPases Activate WASPs and WAVEs 36 4 16.6 7.7 9.2e-05 0.002 19.6 4.9 57.8
+R-HSA-2029480 Fcgamma receptor (FCGR) dependent phagocytosis 81 5 9.23 6.1 2e-04 0.0032 10.5 3.19 26.8
+R-HSA-4420097 VEGFA-VEGFR2 Pathway 95 5 7.87 5.52 0.00042 0.0054 8.83 2.7 22.5
+R-HSA-2029482 Regulation of actin dynamics for phagocytic cup formation 60 4 9.96 5.72 0.00067 0.0062 11.2 2.86 31.7
+R-HSA-194138 Signaling by VEGF 103 5 7.25 5.24 0.00061 0.0062 8.1 2.49 20.6
+R-HSA-6794362 Protein-protein interactions at synapses 70 4 8.54 5.2 0.0012 0.0095 9.5 2.44 26.7
+R-HSA-74752 Signaling by Insulin receptor 72 4 8.3 5.1 0.0013 0.0095 9.22 2.37 25.9
+R-HSA-194315 Signaling by Rho GTPases 441 9 3.05 3.61 0.0025 0.016 3.42 1.48 7
+R-HSA-74751 Insulin receptor signalling cascade 48 3 9.34 4.75 0.004 0.023 10.3 2 33.4
+R-HSA-1227986 Signaling by ERBB2 49 3 9.15 4.69 0.0042 0.023 10.1 1.96 32.7
+R-HSA-199418 Negative regulation of the PI3K/AKT network 103 4 5.8 4.02 0.0049 0.023 6.31 1.64 17.5
+R-HSA-195258 RHO GTPase Effectors 313 7 3.34 3.46 0.0048 0.023 3.67 1.41 8.14
+R-HSA-1257604 PIP3 activates AKT signaling 254 6 3.53 3.35 0.0069 0.029 3.85 1.35 8.98
+R-HSA-76002 Platelet activation, signaling and aggregation 271 6 3.31 3.16 0.0093 0.035 3.59 1.26 8.38
+R-HSA-112316 Neuronal System 356 7 2.94 3.06 0.0094 0.035 3.21 1.23 7.09
+R-HSA-9006925 Intracellular signaling by second messengers 282 6 3.18 3.05 0.011 0.04 3.45 1.21 8.04

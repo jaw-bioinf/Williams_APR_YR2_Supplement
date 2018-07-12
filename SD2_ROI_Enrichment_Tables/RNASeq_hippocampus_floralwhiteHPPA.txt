@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002079	Hypoplasia of the corpus callosum	287	11	3.96	5.17	4.7e-05	0.016	5.54	2.41	12
+HP:0002353	EEG abnormality	246	10	4.2	5.14	7e-05	0.016	5.71	2.41	12.6
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	14	2.92	4.56	9.5e-05	0.016	4.36	2.02	9.14
+HP:0001273	Abnormality of the corpus callosum	503	14	2.87	4.49	0.00011	0.016	4.27	1.98	8.96
+HP:0000527	Long eyelashes	55	5	9.39	6.2	0.00015	0.017	11.8	3.42	32.6
+HP:0030178	Abnormality of central nervous system electrophysiology	340	11	3.34	4.49	0.00022	0.017	4.57	1.99	9.87
+HP:0002500	Abnormality of the cerebral white matter	538	14	2.69	4.2	0.00024	0.017	3.94	1.83	8.26
+HP:0000708	Behavioral abnormality	997	20	2.07	3.95	0.00019	0.017	3.65	1.75	7.85
+HP:0000430	Underdeveloped nasal alae	99	6	6.26	5.25	0.00031	0.018	7.78	2.57	19.8
+HP:0005105	Abnormal nasal morphology	701	16	2.36	3.97	0.00032	0.018	3.62	1.72	7.56
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	897	18	2.07	3.68	0.00055	0.029	3.32	1.59	7
+HP:0010993	Abnormality of the cerebral subcortex	589	14	2.45	3.82	0.00063	0.03	3.53	1.64	7.4
+HP:0009924	Aplasia/Hypoplasia involving the nose	118	6	5.25	4.64	0.00079	0.033	6.43	2.13	16.2
+HP:0010938	Abnormality of the external nose	676	15	2.29	3.69	0.00077	0.033	3.36	1.58	7.02
+HP:0000729	Autistic behavior	225	8	3.67	4.09	0.0011	0.04	4.62	1.78	10.7
+HP:0012759	Neurodevelopmental abnormality	1623	25	1.59	3.21	0.0011	0.04	3.26	1.47	7.97
+HP:0001249	Intellectual disability	1135	20	1.82	3.32	0.0013	0.042	3.02	1.45	6.5
+HP:0009929	Abnormality of the columella	24	3	12.9	5.79	0.0015	0.047	15.9	2.88	57.3

@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0148	2	5	1	0.2	0.5	CORUM:5406	cor	11	Myod1-Tcf3 complex	1	MYOD1
+2	1	TRUE	0.0237	4	5	1	0.2	0.25	CORUM:6454	cor	9	Zipzap/p200-Srf-p49/STRAP-Nkx2.5 complex	1	NKX2-5
+3	1	TRUE	0.0148	2	5	1	0.2	0.5	CORUM:5404	cor	6	Myod1-Tcf3 complex	1	MYOD1
+4	1	TRUE	0.0148	2	5	1	0.2	0.5	CORUM:50	cor	12	Rab5 GDP/GTP exchange factor complex	1	RABEP1
+5	1	TRUE	0.0148	2	5	1	0.2	0.5	CORUM:1926	cor	5	Foxh1-Nkx2-5 complex	1	NKX2-5
+6	1	TRUE	0.0148	2	5	1	0.2	0.5	CORUM:511	cor	3	TFIID subcomplex, testis-specific	1	TAF7L
+7	1	TRUE	0.0198	3	5	1	0.2	0.333	CORUM:6252	cor	10	Rabep1-Ap1g1-Ap1s1 complex	1	RABEP1
+8	1	TRUE	0.0148	1	5	1	0.2	1	CORUM:5405	cor	1	Myod1 homodimer complex	1	MYOD1
+9	1	TRUE	0.0148	2	5	1	0.2	0.5	CORUM:510	cor	8	TFIID subcomplex, testis-specific	1	TAF7L
+10	1	TRUE	0.0148	1	5	1	0.2	1	CORUM:6537	cor	2	ANKS3-ANKS6 complex	1	ANKS3
+11	1	TRUE	0.001	285	51	10	0.196	0.035	KEGG:04080	keg	7	Neuroactive ligand-receptor interaction	1	TACR2,GRIN2C,NTSR1,KISS1R,P2RY13,TRHR,HRH3,HTR1B,GLP2R,GHSR

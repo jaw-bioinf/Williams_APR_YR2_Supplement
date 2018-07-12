@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	9	3.86	4.45	5e-04	0.028	4.35	1.89	8.89
+R-HSA-500792	GPCR ligand binding	419	10	3.27	4.07	0.00087	0.028	3.7	1.68	7.33
+R-HSA-375276	Peptide ligand-binding receptors	187	6	4.4	4.02	0.0024	0.05	4.83	1.69	11.3

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04721	Synaptic vesicle cycle	63	13	3.57	5.08	4.9e-05	0.003	4.35	2.15	8.22
+path:hsa00190	Oxidative phosphorylation	133	21	2.73	5	2.1e-05	0.003	3.17	1.87	5.16
+path:hsa04150	mTOR signaling pathway	150	22	2.54	4.72	4.4e-05	0.003	2.91	1.74	4.67
+path:hsa05120	Epithelial cell signaling in Helicobacter pylori infection	68	12	3.05	4.21	0.00045	0.021	3.57	1.73	6.82

@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00240	Pyrimidine metabolism	101	50	1.57	3.93	0.00011	0.024	2.16	1.43	3.27
+path:hsa00230	Purine metabolism	173	77	1.41	3.74	0.00018	0.024	1.77	1.29	2.43
+path:hsa04060	Cytokine-cytokine receptor interaction	270	112	1.32	3.61	0.00026	0.024	1.57	1.22	2.03
+path:hsa04611	Platelet activation	123	56	1.45	3.38	0.00069	0.047	1.84	1.26	2.68

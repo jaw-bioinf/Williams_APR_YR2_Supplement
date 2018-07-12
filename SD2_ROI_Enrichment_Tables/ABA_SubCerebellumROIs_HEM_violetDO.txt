@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1682	congenital heart disease	53	4	9.78	5.66	7e-04	0.043	11.2	2.84	32.5
+DOID:3355	fibrosarcoma	32	3	12.2	5.58	0.0018	0.043	14	2.65	47.5
+DOID:771	retinal cell cancer	113	5	5.74	4.48	0.0017	0.043	6.46	1.97	16.6
+DOID:768	retinoblastoma	113	5	5.74	4.48	0.0017	0.043	6.46	1.97	16.6
+DOID:4645	retinal cancer	115	5	5.64	4.42	0.0018	0.043	6.34	1.93	16.3
+DOID:0060116	sensory system cancer	118	5	5.49	4.34	0.002	0.043	6.17	1.88	15.8
+DOID:2174	ocular cancer	118	5	5.49	4.34	0.002	0.043	6.17	1.88	15.8
+DOID:1542	head and neck carcinoma	235	7	3.86	3.93	0.002	0.043	4.39	1.65	9.91
+DOID:11934	head and neck cancer	239	7	3.8	3.88	0.0022	0.043	4.31	1.63	9.73

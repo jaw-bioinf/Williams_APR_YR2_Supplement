@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0194	3	5	1	0.2	0.333	CORUM:1723	cor	1	Pax3-Lef1-Tle4 complex	1	PAX3
+2	1	TRUE	0.0194	3	5	1	0.2	0.333	CORUM:6398	cor	8	Dnajc5b-Sgta-Hsc70 complex	1	DNAJC5B
+3	1	TRUE	0.0194	2	5	1	0.2	0.5	CORUM:1926	cor	2	Foxh1-Nkx2-5 complex	1	FOXH1
+4	1	TRUE	0.0194	2	5	1	0.2	0.5	CORUM:5566	cor	5	Isl1-Jak1-Stat3 complex	1	ISL1
+5	1	TRUE	0.0194	1	5	1	0.2	1	CORUM:216	cor	7	PDZK1-NaPiIIa-MAP17 complex	1	PDZK1IP1
+6	1	TRUE	0.0163	21	36	4	0.111	0.19	HP:0010964	hp	6	Abnormality of long-chain fatty-acid metabolism	1	PEX3,HADHA,ACADL,HADH
+7	1	TRUE	0.0014	3	36	3	0.083	1	HP:0100950	hp	6	Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	1	HADHA,ACADL,HADH
+8	1	TRUE	0.0163	582	36	16	0.444	0.027	HP:0001438	hp	3	Abnormality of abdomen morphology	1	PEX3,NAGA,HADHA,ACADL,TBXAS1,FAH,ALG9,ABHD5,FAT4,NBEAL2,H2-EB1,SLC39A4,H2-Q10,FBP1,NLRP1A,G6PC
+9	1	TRUE	0.0073	529	36	16	0.444	0.03	HP:0003271	hp	3	Visceromegaly	2	PEX3,NAGA,HADHA,ACADL,TBXAS1,FAH,ALG9,ABHD5,FAT4,NBEAL2,H2-EB1,SLC39A4,H2-Q10,FBP1,NLRP1A,G6PC
+10	1	TRUE	0.0126	9	99	3	0.03	0.333	REAC:R-MMU-77286	rea	4	mitochondrial fatty acid beta-oxidation of saturated fatty acids	1	HADHA,ACADL,HADH
+11	1	TRUE	0.0031	5	99	3	0.03	0.6	REAC:R-MMU-77310	rea	4	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	2	HADHA,ACADL,HADH
+12	1	TRUE	0.0309	3	99	2	0.02	0.667	REAC:R-MMU-77285	rea	4	Beta oxidation of myristoyl-CoA to lauroyl-CoA	2	HADHA,ACADL

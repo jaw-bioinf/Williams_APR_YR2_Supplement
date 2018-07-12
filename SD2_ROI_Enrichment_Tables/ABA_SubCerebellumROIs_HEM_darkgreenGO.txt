@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0259	2	4	1	0.25	0.5	CORUM:6678	cor	3	Cep290-Iqcb1 complex	1	CEP290
+2	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6338	cor	7	NRF2- Axin1-GSK-3beta-TrCP complex	1	NFE2L2
+3	1	TRUE	0.0488	10	4	1	0.25	0.1	CORUM:495	cor	2	Cytochrome bc1-complex, mitochondrial	1	UQCRQ
+4	1	TRUE	0.04	7	4	1	0.25	0.143	CORUM:6596	cor	1	Tectonic complex	1	CEP290
+5	1	TRUE	0.0276	4	4	1	0.25	0.25	CORUM:3539	cor	6	Limd1-p62-Traf6-Prkcz complex	1	LIMD1
+6	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:6595	cor	5	Ccp110-Cep290-Rab8a complex	1	CEP290
+7	1	TRUE	0.0259	3	4	1	0.25	0.333	CORUM:5806	cor	8	Keap1-Nrf2-Cul3 complex	1	NFE2L2

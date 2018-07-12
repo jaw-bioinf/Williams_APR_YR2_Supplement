@@ -1,0 +1,18 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:5821 cor 7 BAD-BCL2xL complex 1 BCL2L1
+2 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:6240 cor 6 PMCA1-alpha-1-syntrophin-NOS-1 complex 1 NOS1
+3 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:6656 cor 5 Nherf1-Fzd4-Vangl2 complex 1 FZD4
+4 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:6662 cor 13 Kcnj8-Kcnj11-Abcc9(splice variant 2) complex 1 KCNJ8
+5 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:5128 cor 18 p18-Cdk6 complex 1 CDKN2C
+6 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:498 cor 11 Ryk-Wny1-Fzd8 complex 1 FZD8
+7 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:416 cor 1 Nitric oxide synthase-dystrophin complex, skeletal muscle 1 NOS1
+8 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:2682 cor 16 Bcl-xL-p53-PUMA complex, DNA damage induced 1 BCL2L1
+9 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:2684 cor 3 p53-Bcl-xL complex, DNA-damage induced 1 BCL2L1
+10 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:2683 cor 9 PUMA-Bcl-xL complex, DNA-damage induced 1 BCL2L1
+11 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:5142 cor 4 DCS complex (Ptbp1, Ptbp2, Hnrph1, Hnrpf) 1 PTBP2
+12 1 TRUE 0.0408 4 9 1 0.111 0.25 CORUM:5436 cor 8 Cyclin D1-associated protein complex 1 CDKN1A
+13 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:50 cor 17 Rab5 GDP/GTP exchange factor complex 1 RABEP1
+14 1 TRUE 0.0326 2 9 1 0.111 0.5 CORUM:5127 cor 12 p18-Cdk4 complex 1 CDKN2C
+15 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:77 cor 10 nNos-Capon-Dexras1 complex 1 NOS1
+16 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:6241 cor 2 PMCA4-alpha-1-syntrophin-NOS-1 complex 1 NOS1
+17 1 TRUE 0.0326 3 9 1 0.111 0.333 CORUM:6252 cor 15 Rabep1-Ap1g1-Ap1s1 complex 1 RABEP1

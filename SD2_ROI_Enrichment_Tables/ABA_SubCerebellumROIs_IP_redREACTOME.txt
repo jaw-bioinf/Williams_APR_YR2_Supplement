@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112315	Transmission across Chemical Synapses	224	8	4.16	4.45	0.00066	0.023	4.61	1.9	9.7
+R-HSA-112316	Neuronal System	356	10	3.27	4.06	0.00091	0.023	3.64	1.66	7.15
+R-HSA-194068	Bile acid and bile salt metabolism	43	3	8.12	4.36	0.0059	0.049	8.93	1.73	28.9
+R-HSA-428157	Sphingolipid metabolism	90	4	5.17	3.7	0.0074	0.049	5.58	1.45	15.4
+R-HSA-422475	Axon guidance	295	8	3.16	3.5	0.0037	0.049	3.44	1.42	7.22
+R-HSA-425407	SLC-mediated transmembrane transport	241	7	3.38	3.48	0.0046	0.049	3.67	1.41	8.04
+R-HSA-76002	Platelet activation, signaling and aggregation	271	7	3.01	3.12	0.0086	0.049	3.24	1.25	7.09
+R-HSA-556833	Metabolism of lipids	696	13	2.17	2.99	0.0062	0.049	2.41	1.22	4.41
+R-HSA-1430728	Metabolism	1899	26	1.59	2.68	0.0078	0.049	1.86	1.13	3.01

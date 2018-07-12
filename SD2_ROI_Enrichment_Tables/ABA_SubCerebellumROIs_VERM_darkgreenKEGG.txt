@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04611	Platelet activation	123	5	5.51	4.35	0.002	0.046	6.23	1.9	16.1
+path:hsa04360	Axon guidance	175	6	4.65	4.22	0.0017	0.046	5.3	1.82	12.7
+path:hsa00190	Oxidative phosphorylation	133	5	5.1	4.11	0.0028	0.046	5.74	1.75	14.8

@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0486	87	22	3	0.136	0.034	KEGG:04911	keg	4	Insulin secretion	1	ATF6B,ATP1B1,ATF4
+2	1	TRUE	0.0457	74	22	3	0.136	0.041	KEGG:04918	keg	2	Thyroid hormone synthesis	1	ATF6B,ATP1B1,ATF4
+3	1	TRUE	0.00754	32	22	3	0.136	0.094	KEGG:00020	keg	3	Citrate cycle (TCA cycle)	1	DLST,ACLY,ACO2

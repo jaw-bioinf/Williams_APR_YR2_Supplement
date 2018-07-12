@@ -1,0 +1,10 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-3371568 Attenuation phase 14 4 15.6 7.48 9.4e-05 0.017 21.9 4.97 77
+R-HSA-3371453 Regulation of HSF1-mediated heat shock response 68 7 5.63 5.23 0.00023 0.017 6.37 2.42 14.2
+R-HSA-2262752 Cellular responses to stress 425 19 2.45 4.16 0.00028 0.017 2.69 1.56 4.39
+R-HSA-75205 Dissolution of Fibrin Clot 13 3 12.6 5.72 0.0015 0.038 16.3 2.87 64.2
+R-HSA-3371571 HSF1-dependent transactivation 24 4 9.12 5.43 0.00086 0.038 11 2.69 33.2
+R-HSA-3371556 Cellular response to heat stress 88 7 4.35 4.31 0.0011 0.038 4.78 1.84 10.5
+R-HSA-2219528 PI3K/AKT Signaling in Cancer 94 7 4.07 4.09 0.0016 0.038 4.45 1.71 9.76
+R-HSA-8953897 Cellular responses to external stimuli 493 19 2.11 3.44 0.0017 0.038 2.29 1.33 3.73
+R-HSA-1257604 PIP3 activates AKT signaling 254 12 2.59 3.49 0.0024 0.049 2.78 1.39 5.07

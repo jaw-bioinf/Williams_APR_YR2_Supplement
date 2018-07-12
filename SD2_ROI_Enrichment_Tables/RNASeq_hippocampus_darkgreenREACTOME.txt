@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8955332	Carboxyterminal post-translational modifications of tubulin	28	3	26.8	8.66	0.00018	0.0019	32.2	5.96	113
+R-HSA-499943	Interconversion of nucleotide di- and triphosphates	31	3	24.2	8.2	0.00025	0.0019	28.7	5.36	99.4
+R-HSA-983189	Kinesins	60	4	16.7	7.72	9.1e-05	0.0019	19.6	4.92	57.6
+R-HSA-6811434	COPI-dependent Golgi-to-ER retrograde traffic	100	4	10	5.74	0.00065	0.0037	11.4	2.9	32.8
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	4	7.47	4.78	0.0019	0.0089	8.41	2.14	24
+R-HSA-983231	Factors involved in megakaryocyte development and platelet production	163	4	6.14	4.19	0.0039	0.015	6.85	1.75	19.5
+R-HSA-15869	Metabolism of nucleotides	101	3	7.44	4.12	0.0075	0.023	8.16	1.58	26.5
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	4	5.01	3.62	0.008	0.023	5.54	1.42	15.7

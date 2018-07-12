@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04080	Neuroactive ligand-receptor interaction	277	23	2.25	4.16	2e-04	0.034	2.51	1.53	3.94
+path:hsa05130	Pathogenic Escherichia coli infection	55	8	3.94	4.29	0.00083	0.041	4.56	1.84	9.88
+path:hsa04961	Endocrine and other factor-regulated calcium reabsorption	47	7	4.04	4.09	0.0015	0.041	4.67	1.75	10.7
+path:hsa04915	Estrogen signaling pathway	98	11	3.04	3.99	9e-04	0.041	3.41	1.62	6.52
+path:hsa04540	Gap junction	88	10	3.08	3.85	0.0014	0.041	3.45	1.57	6.79
+path:hsa04145	Phagosome	151	14	2.51	3.68	0.0013	0.041	2.77	1.45	4.9

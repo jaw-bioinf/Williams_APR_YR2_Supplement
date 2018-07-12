@@ -1,0 +1,2 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0124	285	189	19	0.101	0.067	KEGG:04080	keg	2	Neuroactive ligand-receptor interaction	1	CHRNE,GLRA2,NMBR,GRM8,TSHB,GABRR1,HCRTR1,GIPR,BRS3,PTH1R,RXFP1,HTR2A,CHRNA5,ADORA1,HTR1F,GABRA5,CNR2,AGTR2,GABRR3

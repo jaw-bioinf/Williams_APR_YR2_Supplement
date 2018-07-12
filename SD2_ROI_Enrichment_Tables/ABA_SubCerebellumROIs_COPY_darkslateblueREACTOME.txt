@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-196854	Metabolism of vitamins and cofactors	184	7	5.86	5.38	0.00018	0.0086	6.66	2.53	14.9
+R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	123	5	6.26	4.75	0.0012	0.028	6.94	2.14	17.6
+R-HSA-8950505	Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	39	3	11.8	5.49	0.002	0.032	13.3	2.55	43.9
+R-HSA-9020591	Interleukin-12 signaling	48	3	9.63	4.84	0.0037	0.039	10.6	2.06	34.6
+R-HSA-5578775	Ion homeostasis	54	3	8.56	4.5	0.0051	0.039	9.38	1.82	30.3
+R-HSA-447115	Interleukin-12 family signaling	58	3	7.97	4.3	0.0062	0.039	8.7	1.7	28
+R-HSA-109581	Apoptosis	108	4	5.71	3.97	0.0052	0.039	6.2	1.61	17.2
+R-HSA-5357801	Programmed Cell Death	115	4	5.36	3.8	0.0065	0.039	5.81	1.51	16.1

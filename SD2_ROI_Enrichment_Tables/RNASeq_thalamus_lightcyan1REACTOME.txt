@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8957275	Post-translational protein phosphorylation	108	5	8.91	5.97	0.00023	0.0076	10.2	3.09	26.2
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	125	5	7.7	5.45	0.00045	0.0076	8.72	2.66	22.4
+R-HSA-76002	Platelet activation, signaling and aggregation	271	7	4.97	4.79	0.00046	0.0076	5.71	2.15	12.9
+R-HSA-597592	Post-translational protein modification	1353	15	2.13	3.24	0.0028	0.035	2.61	1.33	4.89
+R-HSA-211859	Biological oxidations	223	5	4.32	3.62	0.0058	0.047	4.75	1.46	12.1
+R-HSA-392499	Metabolism of proteins	1907	18	1.82	2.87	0.0058	0.047	2.26	1.2	4.13

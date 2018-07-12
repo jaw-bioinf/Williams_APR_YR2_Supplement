@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.04	3	7	1	0.143	0.333	CORUM:1066	cor	10	mPar6c-Mlgl-aPKCz complex	1	PRKCZ
+2	1	TRUE	0.04	2	7	1	0.143	0.5	CORUM:6614	cor	12	GAP-43-Galphai complex	1	GNAI1
+3	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:578	cor	6	PYR complex	1	SMARCD1
+4	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:6810	cor	9	Akt-Arrb2-Ppp2ca-Ppp2r2a complex	1	PPP2R2A
+5	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:3539	cor	8	Limd1-p62-Traf6-Prkcz complex	1	PRKCZ
+6	1	TRUE	0.04	3	7	1	0.143	0.333	CORUM:14	cor	5	BLOC-2 (biogenesis of lysosome-related organelles complex 2)	1	HPS6
+7	1	TRUE	0.04	2	7	1	0.143	0.5	CORUM:1023	cor	3	Par3-Prkcz-Tiam1 complex	1	PRKCZ
+8	1	TRUE	0.04	2	7	1	0.143	0.5	CORUM:6110	cor	11	Drd3-Slc6a complex	1	DRD3
+9	1	TRUE	0.04	4	7	1	0.143	0.25	CORUM:2221	cor	1	RPA-MSH4-BLM complex	1	RPA1
+10	1	TRUE	0.0147	145	28	5	0.179	0.034	KEGG:05418	keg	7	Fluid shear stress and atherosclerosis	1	GSTO2,MGST3,IL1A,PRKCZ,ACVR2B
+11	1	TRUE	0.0455	122	28	4	0.143	0.033	KEGG:04071	keg	2	Sphingolipid signaling pathway	1	BDKRB2,PPP2R2A,PRKCZ,GNAI1

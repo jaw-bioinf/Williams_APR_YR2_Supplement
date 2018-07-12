@@ -1,0 +1,21 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	14	9.44	10.4	1.9e-10	1.3e-08	11.9	6.08	21.8
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	11	10.4	9.75	7.2e-09	1.6e-07	12.8	5.95	25
+R-HSA-1430728	Metabolism	1899	41	2.4	6.46	6.9e-09	1.6e-07	3.63	2.33	5.63
+R-HSA-611105	Respiratory electron transport	95	9	10.5	8.9	1.6e-07	2.6e-06	12.7	5.43	26.4
+R-HSA-6799198	Complex I biogenesis	55	7	14.2	9.32	5.4e-07	7.1e-06	17.3	6.42	40.1
+R-HSA-71291	Metabolism of amino acids and derivatives	251	10	4.43	5.24	8e-05	0.00089	5.02	2.29	9.88
+R-HSA-70614	Amino acid synthesis and interconversion (transamination)	33	4	13.5	6.84	2e-04	0.0019	15.8	3.96	46.5
+R-HSA-1632852	Macroautophagy	68	5	8.18	5.66	0.00035	0.0029	9.2	2.82	23.4
+R-HSA-162588	Budding and maturation of HIV virion	29	3	11.5	5.4	0.0022	0.016	13.1	2.49	44
+R-HSA-389661	Glyoxylate metabolism and glycine degradation	30	3	11.1	5.29	0.0024	0.016	12.6	2.41	42.2
+R-HSA-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	32	3	10.4	5.09	0.0029	0.017	11.8	2.25	39
+R-HSA-8950505	Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	39	3	8.56	4.5	0.0051	0.028	9.46	1.83	30.8
+R-HSA-5389840	Mitochondrial translation elongation	84	4	5.3	3.77	0.0068	0.032	5.72	1.49	15.8
+R-HSA-5419276	Mitochondrial translation termination	86	4	5.17	3.7	0.0074	0.032	5.58	1.45	15.4
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	4	5.17	3.7	0.0074	0.032	5.58	1.45	15.4
+R-HSA-5368287	Mitochondrial translation	87	4	5.12	3.67	0.0077	0.032	5.51	1.44	15.2
+R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	47	3	7.1	3.99	0.0086	0.033	7.74	1.51	24.9
+R-HSA-9020591	Interleukin-12 signaling	48	3	6.95	3.94	0.0091	0.033	7.57	1.48	24.3
+R-HSA-8953897	Cellular responses to external stimuli	493	10	2.26	2.73	0.013	0.044	2.44	1.12	4.77
+R-HSA-447115	Interleukin-12 family signaling	58	3	5.75	3.46	0.015	0.05	6.18	1.21	19.6

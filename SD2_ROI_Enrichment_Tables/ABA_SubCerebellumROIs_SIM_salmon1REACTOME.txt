@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69620	Cell Cycle Checkpoints	292	4	6.23	4.26	0.0034	0.033	7.48	1.83	22.9
+R-HSA-195258	RHO GTPase Effectors	313	4	5.82	4.06	0.0044	0.033	6.96	1.7	21.3
+R-HSA-2559583	Cellular Senescence	194	3	7.04	3.99	0.0084	0.034	8.1	1.52	27.8
+R-HSA-1640170	Cell Cycle	607	5	3.75	3.28	0.009	0.034	4.59	1.32	13
+R-HSA-2262752	Cellular responses to stress	425	4	4.28	3.25	0.013	0.036	5.05	1.24	15.4
+R-HSA-194315	Signaling by Rho GTPases	441	4	4.13	3.15	0.014	0.036	4.86	1.19	14.8
+R-HSA-8953897	Cellular responses to external stimuli	493	4	3.69	2.88	0.021	0.045	4.32	1.06	13.2

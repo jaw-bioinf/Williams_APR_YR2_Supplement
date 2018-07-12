@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-373080 Class B/2 (Secretin family receptors) 61 4 12.4 6.51 0.00029 0.011 14.2 3.59 40.6
+R-HSA-500792 GPCR ligand binding 419 8 3.61 3.98 0.0015 0.028 4.13 1.67 8.93
+R-HSA-983189 Kinesins 60 3 9.45 4.79 0.0039 0.048 10.4 2.02 33.8

@@ -1,0 +1,25 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00190	Oxidative phosphorylation	133	49	1.96	5.4	5.7e-07	0.00015	2.59	1.77	3.75
+path:hsa04141	Protein processing in endoplasmic reticulum	165	55	1.78	4.86	4.5e-06	0.00059	2.22	1.57	3.12
+path:hsa00562	Inositol phosphate metabolism	71	29	2.18	4.79	1.2e-05	0.001	3.04	1.82	5.02
+path:hsa04070	Phosphatidylinositol signaling system	97	35	1.92	4.4	3.9e-05	0.0025	2.49	1.59	3.84
+path:hsa05100	Bacterial invasion of epithelial cells	76	28	1.96	4.06	0.00015	0.0065	2.56	1.54	4.19
+path:hsa05012	Parkinson's disease	142	45	1.69	3.99	0.00013	0.0065	2.05	1.4	2.96
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	46	1.65	3.83	0.00022	0.0081	1.97	1.35	2.83
+path:hsa05010	Alzheimer's disease	171	51	1.59	3.76	0.00026	0.0085	1.88	1.32	2.64
+path:hsa05110	Vibrio cholerae infection	50	20	2.13	3.86	0.00037	0.0097	2.92	1.57	5.33
+path:hsa05120	Epithelial cell signaling in Helicobacter pylori infection	68	25	1.96	3.82	0.00035	0.0097	2.55	1.49	4.29
+path:hsa05016	Huntington's disease	193	55	1.52	3.52	0.00054	0.013	1.76	1.26	2.44
+path:hsa04150	mTOR signaling pathway	150	44	1.56	3.36	0.00099	0.021	1.83	1.25	2.64
+path:hsa04144	Endocytosis	260	69	1.42	3.28	0.001	0.021	1.6	1.19	2.13
+path:hsa04723	Retrograde endocannabinoid signaling	148	43	1.55	3.25	0.0014	0.026	1.8	1.23	2.61
+path:hsa04720	Long-term potentiation	67	23	1.83	3.28	0.0017	0.027	2.29	1.31	3.89
+path:hsa03015	mRNA surveillance pathway	91	29	1.7	3.23	0.0018	0.027	2.05	1.27	3.25
+path:hsa04110	Cell cycle	124	37	1.59	3.19	0.0017	0.027	1.87	1.23	2.79
+path:hsa04730	Long-term depression	60	21	1.87	3.24	0.0021	0.028	2.36	1.31	4.12
+path:hsa05205	Proteoglycans in cancer	203	55	1.44	3.09	0.002	0.028	1.64	1.17	2.26
+path:hsa04136	Autophagy - other	32	13	2.17	3.18	0.0033	0.043	2.98	1.35	6.39
+path:hsa04510	Focal adhesion	199	53	1.42	2.89	0.0035	0.043	1.6	1.14	2.22
+path:hsa04721	Synaptic vesicle cycle	63	21	1.78	2.98	0.0041	0.044	2.19	1.22	3.79
+path:hsa05215	Prostate cancer	87	27	1.65	2.95	0.0038	0.044	1.97	1.2	3.17
+path:hsa04910	Insulin signaling pathway	138	39	1.51	2.89	0.0039	0.044	1.73	1.16	2.54

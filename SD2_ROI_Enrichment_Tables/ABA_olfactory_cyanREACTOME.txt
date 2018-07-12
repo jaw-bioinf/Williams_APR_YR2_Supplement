@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-1369062 ABC transporters in lipid homeostasis 18 5 17.2 8.8 7.5e-06 0.001 24.1 6.63 73
+R-HSA-416700 Other semaphorin interactions 14 3 13.2 5.88 0.0013 0.048 16.9 2.99 64.6
+R-HSA-5576892 Phase 0 - rapid depolarisation 46 5 6.72 4.98 0.00084 0.048 7.62 2.32 19.6
+R-HSA-1428517 The citric acid (TCA) cycle and respiratory electron transport 165 9 3.37 3.94 0.0014 0.048 3.66 1.61 7.3

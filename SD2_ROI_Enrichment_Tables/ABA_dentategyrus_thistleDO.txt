@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:219	colon cancer	153	3	8.07	4.37	0.0056	0.04	9.75	1.78	35.4
+DOID:1520	colon carcinoma	153	3	8.07	4.37	0.0056	0.04	9.75	1.78	35.4
+DOID:5419	schizophrenia	635	6	3.89	3.77	0.0028	0.04	5.51	1.67	16.3
+DOID:2468	psychotic disorder	637	6	3.88	3.76	0.0029	0.04	5.49	1.66	16.3
+DOID:150	disease of mental health	1255	8	2.63	3.14	0.0055	0.04	4.09	1.37	12
+DOID:3963	thyroid carcinoma	185	3	6.68	3.86	0.0094	0.045	8	1.46	29
+DOID:1781	thyroid cancer	189	3	6.54	3.81	0.01	0.045	7.83	1.43	28.4
+DOID:1561	cognitive disorder	812	6	3.04	3.05	0.0096	0.045	4.18	1.27	12.4

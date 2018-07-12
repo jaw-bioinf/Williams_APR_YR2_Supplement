@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2218	blood platelet disease	73	5	10.2	6.5	0.00012	0.021	12	3.61	31.7
+DOID:1588	thrombocytopenia	47	4	12.7	6.6	0.00026	0.023	14.9	3.73	43.8

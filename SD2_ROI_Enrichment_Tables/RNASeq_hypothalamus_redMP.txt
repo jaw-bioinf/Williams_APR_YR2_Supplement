@@ -1,0 +1,16 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004470	small nasal bone	53	13	3.94	5.53	1.5e-05	0.02	4.98	2.43	9.57
+MP:0004174	abnormal spine curvature	314	40	2.05	4.86	1.1e-05	0.02	2.29	1.58	3.24
+MP:0004471	short nasal bone	38	10	4.22	5.13	7.8e-05	0.027	5.45	2.35	11.6
+MP:0000102	abnormal nasal bone morphology	75	15	3.21	4.95	4.8e-05	0.027	3.84	2.01	6.89
+MP:0002108	abnormal muscle morphology	963	89	1.48	4.09	6.9e-05	0.027	1.63	1.27	2.07
+MP:0012322	decreased total tissue mass	1833	151	1.32	3.97	7.2e-05	0.027	1.48	1.21	1.79
+MP:0001262	decreased body weight	1833	151	1.32	3.97	7.2e-05	0.027	1.48	1.21	1.79
+MP:0001392	abnormal locomotor behavior	1537	130	1.36	3.96	8.4e-05	0.027	1.5	1.22	1.85
+MP:0000913	abnormal brain development	780	74	1.52	3.93	0.00013	0.036	1.66	1.27	2.15
+MP:0003861	abnormal nervous system development	1215	106	1.4	3.86	0.00014	0.036	1.54	1.22	1.92
+MP:0005369	muscle phenotype	1401	119	1.36	3.81	0.00015	0.036	1.5	1.21	1.86
+MP:0003084	abnormal skeletal muscle fiber morphology	221	28	2.03	4.01	0.00025	0.049	2.24	1.44	3.38
+MP:0006207	embryonic lethality during organogenesis	942	85	1.45	3.74	0.00023	0.049	1.58	1.23	2.01
+MP:0003313	abnormal locomotor activation	1152	100	1.39	3.68	0.00026	0.049	1.52	1.2	1.91
+MP:0005371	limbs/digits/tail phenotype	1030	91	1.42	3.67	0.00029	0.05	1.54	1.21	1.96

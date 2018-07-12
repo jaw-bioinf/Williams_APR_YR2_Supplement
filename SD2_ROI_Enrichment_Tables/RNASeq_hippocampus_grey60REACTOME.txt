@@ -1,0 +1,53 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	16	3.54	5.53	1.1e-05	0.001	4.01	2.2	6.87
+R-HSA-597592	Post-translational protein modification	1353	40	2.03	4.94	6.1e-06	0.001	2.46	1.66	3.59
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	8	6.31	6.05	3.7e-05	0.002	7.18	2.94	15.2
+R-HSA-392499	Metabolism of proteins	1907	48	1.73	4.29	4.4e-05	0.002	2.11	1.46	3.02
+R-HSA-1640170	Cell Cycle	607	22	2.49	4.59	6.4e-05	0.0023	2.81	1.69	4.49
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	16	3.01	4.75	8.1e-05	0.0024	3.36	1.84	5.74
+R-HSA-8852135	Protein ubiquitination	77	7	6.23	5.61	0.00012	0.0026	7.04	2.68	15.7
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	7	6	5.46	0.00016	0.0026	6.75	2.58	15
+R-HSA-380287	Centrosome maturation	80	7	6	5.46	0.00016	0.0026	6.75	2.58	15
+R-HSA-5653656	Vesicle-mediated transport	631	22	2.39	4.39	0.00011	0.0026	2.7	1.62	4.3
+R-HSA-199991	Membrane Trafficking	599	21	2.4	4.31	0.00015	0.0026	2.7	1.6	4.35
+R-HSA-8873719	RAB geranylgeranylation	64	6	6.43	5.3	0.00032	0.0049	7.25	2.51	17.1
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	6	5.96	5.03	0.00049	0.0055	6.67	2.32	15.7
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	6	5.96	5.03	0.00049	0.0055	6.67	2.32	15.7
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	7	5.16	4.91	4e-04	0.0055	5.73	2.2	12.6
+R-HSA-8854518	AURKA Activation by TPX2	72	6	5.72	4.88	0.00061	0.0055	6.36	2.22	14.9
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	7	4.95	4.75	0.00052	0.0055	5.47	2.1	12
+R-HSA-69275	G2/M Transition	195	10	3.52	4.32	0.00056	0.0055	3.85	1.77	7.45
+R-HSA-453274	Mitotic G2-G2/M phases	197	10	3.48	4.28	6e-04	0.0055	3.81	1.76	7.37
+R-HSA-8951664	Neddylation	235	11	3.21	4.17	0.00064	0.0055	3.51	1.69	6.6
+R-HSA-2262752	Cellular responses to stress	425	16	2.58	4.05	0.00046	0.0055	2.85	1.56	4.85
+R-HSA-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes	30	4	9.14	5.43	0.00089	0.0073	10.7	2.67	31.3
+R-HSA-1280218	Adaptive Immune System	746	22	2.02	3.53	0.0011	0.009	2.24	1.35	3.57
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	6	4.9	4.36	0.0014	0.01	5.38	1.88	12.5
+R-HSA-8953750	Transcriptional Regulation by E2F6	35	4	7.84	4.93	0.0016	0.012	8.93	2.26	25.7
+R-HSA-2029482	Regulation of actin dynamics for phagocytic cup formation	60	5	5.72	4.46	0.0018	0.012	6.32	1.95	16
+R-HSA-8953897	Cellular responses to external stimuli	493	16	2.23	3.4	0.0022	0.015	2.42	1.33	4.13
+R-HSA-69473	G2/M DNA damage checkpoint	94	6	4.38	4	0.0025	0.016	4.76	1.67	11
+R-HSA-168927	TICAM1, RIP1-mediated IKK complex recruitment 	20	3	10.3	5.06	0.0029	0.017	12.1	2.26	42.6
+R-HSA-170834	Signaling by TGF-beta Receptor Complex	66	5	5.2	4.16	0.0027	0.017	5.7	1.76	14.3
+R-HSA-5693607	Processing of DNA double-strand break ends	97	6	4.24	3.9	0.0029	0.017	4.6	1.62	10.7
+R-HSA-5696395	Formation of Incision Complex in GG-NER	43	4	6.38	4.3	0.0034	0.019	7.09	1.82	20
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	44	4	6.23	4.23	0.0037	0.021	6.92	1.77	19.5
+R-HSA-8856828	Clathrin-mediated endocytosis	140	7	3.43	3.52	0.0043	0.023	3.69	1.43	8.01
+R-HSA-69278	Cell Cycle, Mitotic	531	16	2.07	3.07	0.0045	0.023	2.23	1.23	3.8
+R-HSA-937041	IKK complex recruitment mediated by RIP1	25	3	8.23	4.4	0.0055	0.027	9.38	1.78	31.8
+R-HSA-5696398	Nucleotide Excision Repair	111	6	3.71	3.49	0.0056	0.027	3.98	1.41	9.18
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	5	4.23	3.55	0.0065	0.031	4.57	1.42	11.4
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	4	5.28	3.76	0.0068	0.032	5.76	1.49	16
+R-HSA-2559583	Cellular Senescence	194	8	2.83	3.13	0.0074	0.034	3.02	1.26	6.24
+R-HSA-73772	RNA Polymerase I Promoter Escape	30	3	6.86	3.91	0.0092	0.038	7.64	1.47	25.3
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	4	4.9	3.56	0.0089	0.038	5.31	1.38	14.7
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	57	4	4.81	3.51	0.0094	0.038	5.21	1.35	14.4
+R-HSA-9007101	Rab regulation of trafficking	123	6	3.35	3.18	0.0091	0.038	3.57	1.26	8.21
+R-HSA-168256	Immune System	1970	41	1.43	2.57	0.0086	0.038	1.61	1.09	2.33
+R-HSA-72187	mRNA 3'-end processing	58	4	4.73	3.47	0.01	0.039	5.12	1.33	14.2
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	90	5	3.81	3.26	0.01	0.039	4.08	1.27	10.1
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	7	2.91	3.01	0.01	0.039	3.09	1.2	6.7
+R-HSA-9006936	Signaling by TGF-beta family members	95	5	3.61	3.11	0.012	0.044	3.85	1.2	9.54
+R-HSA-5693567	HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)	131	6	3.14	3	0.012	0.044	3.34	1.18	7.66
+R-HSA-446203	Asparagine N-linked glycosylation	299	10	2.29	2.76	0.012	0.044	2.44	1.13	4.69
+R-HSA-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	35	3	5.88	3.52	0.014	0.049	6.44	1.25	21

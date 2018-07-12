@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6804758	Regulation of TP53 Activity through Acetylation	30	5	8.14	5.66	0.00032	0.015	9.78	2.89	26.4
+R-HSA-6794362	Protein-protein interactions at synapses	70	8	5.58	5.56	8.6e-05	0.015	6.38	2.6	13.6
+R-HSA-6794361	Neurexins and neuroligins	34	5	7.18	5.22	0.00059	0.015	8.42	2.52	22.3
+R-HSA-193648	NRAGE signals death through JNK	55	6	5.33	4.65	0.00086	0.015	6	2.08	14.3
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	8	4.34	4.6	5e-04	0.015	4.82	1.98	10.1
+R-HSA-204998	Cell death signalling via NRAGE, NRIF and NADE	74	7	4.62	4.52	0.00077	0.015	5.14	1.96	11.4
+R-HSA-194840	Rho GTPase cycle	138	10	3.54	4.34	0.00053	0.015	3.88	1.79	7.52
+R-HSA-3247509	Chromatin modifying enzymes	227	13	2.8	3.96	0.00078	0.015	3.03	1.56	5.43
+R-HSA-4839726	Chromatin organization	227	13	2.8	3.96	0.00078	0.015	3.03	1.56	5.43
+R-HSA-194315	Signaling by Rho GTPases	441	20	2.22	3.77	7e-04	0.015	2.41	1.42	3.88

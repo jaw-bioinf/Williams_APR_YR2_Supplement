@@ -1,0 +1,25 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-69620	Cell Cycle Checkpoints	292	42	2.85	7.4	5.8e-10	3e-07	3.36	2.33	4.74
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	22	3.43	6.36	3.2e-07	4.2e-05	4.08	2.43	6.57
+R-HSA-69278	Cell Cycle, Mitotic	531	55	2.05	5.75	2.2e-07	4.2e-05	2.32	1.69	3.12
+R-HSA-1640170	Cell Cycle	607	60	1.96	5.62	3e-07	4.2e-05	2.21	1.64	2.94
+R-HSA-69618	Mitotic Spindle Checkpoint	112	20	3.54	6.23	6.7e-07	7e-05	4.22	2.44	6.97
+R-HSA-141424	Amplification of signal from the kinetochores	96	18	3.72	6.17	1.2e-06	8.6e-05	4.47	2.5	7.6
+R-HSA-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	96	18	3.72	6.17	1.2e-06	8.6e-05	4.47	2.5	7.6
+R-HSA-68877	Mitotic Prometaphase	199	25	2.49	4.9	2.2e-05	0.0014	2.79	1.74	4.31
+R-HSA-69481	G2/M Checkpoints	167	22	2.61	4.84	3.2e-05	0.0019	2.94	1.77	4.68
+R-HSA-68882	Mitotic Anaphase	202	24	2.36	4.49	7.9e-05	0.0036	2.61	1.62	4.06
+R-HSA-2467813	Separation of Sister Chromatids	191	23	2.39	4.46	9e-05	0.0036	2.65	1.62	4.16
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	24	2.34	4.46	8.5e-05	0.0036	2.6	1.61	4.04
+R-HSA-68886	M Phase	391	38	1.93	4.31	7.3e-05	0.0036	2.11	1.45	3
+R-HSA-5357801	Programmed Cell Death	115	16	2.76	4.37	2e-04	0.0076	3.11	1.7	5.35
+R-HSA-5663220	RHO GTPases Activate Formins	141	18	2.53	4.22	0.00025	0.0082	2.82	1.6	4.69
+R-HSA-195258	RHO GTPase Effectors	313	31	1.96	3.99	0.00024	0.0082	2.14	1.41	3.15
+R-HSA-109581	Apoptosis	108	15	2.75	4.22	0.00032	0.01	3.1	1.65	5.43
+R-HSA-69473	G2/M DNA damage checkpoint	94	13	2.74	3.91	0.00083	0.024	3.07	1.56	5.61
+R-HSA-379716	Cytosolic tRNA aminoacylation	24	6	4.96	4.47	0.00099	0.025	6.34	2.05	16.7
+R-HSA-606279	Deposition of new CENPA-containing nucleosomes at the centromere	73	11	2.99	3.93	0.001	0.025	3.39	1.6	6.55
+R-HSA-774815	Nucleosome assembly	73	11	2.99	3.93	0.001	0.025	3.39	1.6	6.55
+R-HSA-176412	Phosphorylation of the APC/C	19	5	5.22	4.24	0.0021	0.047	6.78	1.9	20
+R-HSA-5693571	Nonhomologous End-Joining (NHEJ)	68	10	2.92	3.65	0.002	0.047	3.29	1.49	6.55
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	12	4	6.61	4.48	0.0023	0.05	9.48	2.08	35.5

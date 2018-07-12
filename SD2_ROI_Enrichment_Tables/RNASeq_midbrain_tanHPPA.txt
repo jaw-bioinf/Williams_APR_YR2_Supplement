@@ -1,0 +1,117 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0000957	Cafe-au-lait spot	93	11	6.7	7.46	4.2e-07	0.00037	8.84	4.01	18
+HP:0003220	Abnormality of chromosome stability	36	7	11	8.09	2.1e-06	0.00095	15	5.3	36.9
+HP:0007565	Multiple cafe-au-lait spots	21	5	13.5	7.69	2.4e-05	0.0061	18.7	5.19	56
+HP:0004353	Abnormality of pyrimidine metabolism	24	5	11.8	7.11	4.8e-05	0.0061	15.8	4.45	45.7
+HP:0001045	Vitiligo	24	5	11.8	7.11	4.8e-05	0.0061	15.8	4.45	45.7
+HP:0001909	Leukemia	149	11	4.18	5.32	4.4e-05	0.0061	5.17	2.38	10.3
+HP:0004377	Hematological neoplasm	207	13	3.56	5.08	4.5e-05	0.0061	4.45	2.17	8.5
+HP:0000086	Ectopic kidney	81	8	5.59	5.61	7e-05	0.0069	6.84	2.71	15.2
+HP:0000340	Sloping forehead	103	9	4.95	5.45	6.3e-05	0.0069	6.05	2.55	12.9
+HP:0011018	Abnormality of the cell cycle	17	4	13.3	6.83	0.00018	0.0085	18.2	4.19	61.1
+HP:0003213	Deficient excision of UV-induced pyrimidine dimers in DNA	17	4	13.3	6.83	0.00018	0.0085	18.2	4.19	61.1
+HP:0003214	Prolonged G2 phase of cell cycle	17	4	13.3	6.83	0.00018	0.0085	18.2	4.19	61.1
+HP:0001017	Anemic pallor	17	4	13.3	6.83	0.00018	0.0085	18.2	4.19	61.1
+HP:0003221	Chromosomal breakage induced by crosslinking agents	17	4	13.3	6.83	0.00018	0.0085	18.2	4.19	61.1
+HP:0010293	Aplasia/Hypoplasia of the uvula	18	4	12.6	6.6	0.00022	0.0085	16.9	3.92	55.8
+HP:0002885	Medulloblastoma	30	5	9.44	6.22	0.00015	0.0085	12	3.46	33.4
+HP:0005344	Abnormality of the carotid arteries	31	5	9.13	6.1	0.00017	0.0085	11.5	3.33	32
+HP:0003974	Absent radius	32	5	8.85	5.98	2e-04	0.0085	11.1	3.22	30.7
+HP:0012848	Small intestinal stenosis	45	6	7.55	5.93	0.00011	0.0085	9.35	3.11	23.5
+HP:0100867	Duodenal stenosis	45	6	7.55	5.93	0.00011	0.0085	9.35	3.11	23.5
+HP:0003953	Absent forearm bone	33	5	8.58	5.86	0.00024	0.0085	10.7	3.11	29.5
+HP:0009822	Aplasia involving forearm bones	33	5	8.58	5.86	0.00024	0.0085	10.7	3.11	29.5
+HP:0010932	Abnormality of nucleobase metabolism	50	6	6.79	5.53	0.00021	0.0085	8.27	2.77	20.6
+HP:0001646	Abnormality of the aortic valve	238	13	3.09	4.48	0.00019	0.0085	3.8	1.86	7.24
+HP:0001511	Intrauterine growth retardation	347	16	2.61	4.24	0.00023	0.0085	3.27	1.71	5.97
+HP:0040012	Chromosome breakage	19	4	11.9	6.4	0.00028	0.0091	15.7	3.69	51.4
+HP:0002860	Squamous cell carcinoma	53	6	6.41	5.32	0.00029	0.0091	7.74	2.6	19.2
+HP:0100542	Abnormal localization of kidney	152	10	3.72	4.6	0.00027	0.0091	4.47	1.99	9.14
+HP:0000054	Micropenis	217	12	3.13	4.34	0.00031	0.0097	3.79	1.81	7.37
+HP:0005912	Biliary atresia	21	4	10.8	6.03	0.00042	0.01	13.9	3.3	44.4
+HP:0009998	Complete duplication of phalanx of hand	21	4	10.8	6.03	0.00042	0.01	13.9	3.3	44.4
+HP:0009943	Complete duplication of thumb phalanx	21	4	10.8	6.03	0.00042	0.01	13.9	3.3	44.4
+HP:0000125	Pelvic kidney	37	5	7.65	5.45	0.00041	0.01	9.35	2.74	25.4
+HP:0008056	Aplasia/Hypoplasia affecting the eye	323	15	2.63	4.12	0.00035	0.01	3.25	1.67	6
+HP:0000008	Abnormality of female internal genitalia	398	17	2.42	4.03	0.00035	0.01	3.04	1.61	5.48
+HP:0010460	Abnormality of the female genitalia	443	18	2.3	3.93	0.00042	0.01	2.91	1.57	5.19
+HP:0000081	Duplicated collecting system	23	4	9.85	5.71	0.00061	0.012	12.4	2.98	39
+HP:0002245	Meckel diverticulum	23	4	9.85	5.71	0.00061	0.012	12.4	2.98	39
+HP:0002589	Gastrointestinal atresia	40	5	7.08	5.18	6e-04	0.012	8.54	2.52	23
+HP:0009726	Renal neoplasm	109	8	4.16	4.49	0.00056	0.012	4.9	1.96	10.7
+HP:0000568	Microphthalmia	195	11	3.19	4.23	0.00049	0.012	3.82	1.77	7.59
+HP:0008897	Postnatal growth retardation	198	11	3.15	4.17	0.00056	0.012	3.76	1.74	7.46
+HP:0000795	Abnormality of the urethra	302	14	2.62	3.96	0.00058	0.012	3.2	1.61	5.98
+HP:0000812	Abnormal internal genitalia	452	18	2.25	3.83	0.00054	0.012	2.84	1.53	5.07
+HP:0003254	Abnormality of DNA repair	24	4	9.44	5.56	0.00072	0.013	11.8	2.84	36.8
+HP:0002667	Nephroblastoma	42	5	6.74	5.02	0.00075	0.013	8.07	2.39	21.7
+HP:0001915	Aplastic anemia	42	5	6.74	5.02	0.00075	0.013	8.07	2.39	21.7
+HP:0002246	Abnormality of the duodenum	63	6	5.39	4.72	0.00074	0.013	6.37	2.15	15.6
+HP:0010786	Urinary tract neoplasm	113	8	4.01	4.36	0.00071	0.013	4.71	1.89	10.3
+HP:0000137	Abnormality of the ovary	142	9	3.59	4.22	0.00073	0.013	4.23	1.8	8.89
+HP:0009484	Deviation of the hand or of fingers of the hand	346	15	2.45	3.82	0.00073	0.013	3	1.54	5.54
+HP:0001549	Abnormality of the ileum	25	4	9.06	5.42	0.00085	0.014	11.2	2.72	34.8
+HP:0100026	Arteriovenous malformation	43	5	6.58	4.94	0.00084	0.014	7.86	2.33	21.1
+HP:0011794	Embryonal renal neoplasm	43	5	6.58	4.94	0.00084	0.014	7.86	2.33	21.1
+HP:0000010	Recurrent urinary tract infections	90	7	4.4	4.39	9e-04	0.014	5.15	1.92	11.8
+HP:0001080	Biliary tract abnormality	176	10	3.22	4.05	0.00086	0.014	3.8	1.69	7.73
+HP:0004742	Abnormality of the renal collecting system	26	4	8.71	5.29	0.00099	0.015	10.7	2.6	33
+HP:0100760	Clubbing of toes	26	4	8.71	5.29	0.00099	0.015	10.7	2.6	33
+HP:0002032	Esophageal atresia	27	4	8.39	5.17	0.0011	0.016	10.2	2.5	31.4
+HP:0002488	Acute leukemia	93	7	4.26	4.27	0.0011	0.016	4.97	1.86	11.4
+HP:0001876	Pancytopenia	94	7	4.22	4.24	0.0012	0.016	4.91	1.83	11.2
+HP:0007379	Neoplasm of the genitourinary tract	149	9	3.42	4.05	0.001	0.016	4.01	1.7	8.42
+HP:0100887	Abnormality of globe size	216	11	2.88	3.83	0.0012	0.016	3.41	1.58	6.75
+HP:0004097	Deviation of finger	323	14	2.45	3.68	0.0011	0.016	2.96	1.49	5.54
+HP:0001654	Abnormality of the heart valves	362	15	2.35	3.63	0.0012	0.016	2.85	1.46	5.25
+HP:0002244	Abnormality of the small intestine	154	9	3.31	3.93	0.0013	0.018	3.87	1.64	8.11
+HP:0002664	Neoplasm	706	23	1.84	3.37	0.0013	0.018	2.39	1.35	4.13
+HP:0007400	Irregular hyperpigmentation	127	8	3.57	3.95	0.0015	0.02	4.14	1.66	9.02
+HP:0011793	Neoplasm by anatomical site	669	22	1.86	3.32	0.0016	0.021	2.38	1.34	4.14
+HP:0000073	Ureteral duplication	31	4	7.3	4.73	0.0019	0.022	8.72	2.15	26.2
+HP:0000815	Hypergonadotropic hypogonadism	51	5	5.55	4.39	0.0018	0.022	6.48	1.94	17.1
+HP:0002863	Myelodysplasia	74	6	4.59	4.19	0.0017	0.022	5.32	1.81	12.9
+HP:0030060	Nervous tissue neoplasm	76	6	4.47	4.1	0.002	0.022	5.16	1.76	12.5
+HP:0030061	Neuroectodermal neoplasm	76	6	4.47	4.1	0.002	0.022	5.16	1.76	12.5
+HP:0030063	Neuroepithelial neoplasm	76	6	4.47	4.1	0.002	0.022	5.16	1.76	12.5
+HP:0040019	Finger clinodactyly	228	11	2.73	3.62	0.0018	0.022	3.21	1.49	6.35
+HP:0004209	Clinodactyly of the 5th finger	228	11	2.73	3.62	0.0018	0.022	3.21	1.49	6.35
+HP:0009179	Deviation of the 5th finger	230	11	2.71	3.59	0.0019	0.022	3.18	1.47	6.29
+HP:0100627	Displacement of the external urethral meatus	265	12	2.56	3.55	0.0019	0.022	3.03	1.45	5.86
+HP:0000377	Abnormality of the pinna	540	19	1.99	3.36	0.0017	0.022	2.48	1.35	4.39
+HP:0100836	Malignant neoplasm of the central nervous system	78	6	4.35	4.02	0.0023	0.025	5.02	1.71	12.2
+HP:0001896	Reticulocytopenia	33	4	6.86	4.54	0.0025	0.026	8.12	2.01	24.2
+HP:0002898	Embryonal neoplasm	54	5	5.24	4.21	0.0024	0.026	6.08	1.82	16
+HP:0002023	Anal atresia	107	7	3.7	3.81	0.0025	0.026	4.26	1.6	9.7
+HP:0006101	Finger syndactyly	171	9	2.98	3.56	0.0027	0.028	3.44	1.47	7.2
+HP:0008736	Hypoplasia of penis	353	14	2.25	3.31	0.0027	0.028	2.67	1.35	4.99
+HP:0006721	Acute lymphoblastic leukemia	17	3	9.99	4.98	0.003	0.029	12.4	2.23	46.2
+HP:0100587	Abnormality of the preputium	35	4	6.47	4.36	0.0031	0.029	7.59	1.89	22.5
+HP:0005528	Bone marrow hypocellularity	57	5	4.97	4.05	0.003	0.029	5.72	1.72	15
+HP:0030065	Primitive neuroectodermal tumor	57	5	4.97	4.05	0.003	0.029	5.72	1.72	15
+HP:0004376	Neuroblastic tumors	57	5	4.97	4.05	0.003	0.029	5.72	1.72	15
+HP:0001852	Sandal gap	57	5	4.97	4.05	0.003	0.029	5.72	1.72	15
+HP:0003006	Neuroblastoma	57	5	4.97	4.05	0.003	0.029	5.72	1.72	15
+HP:0030067	Peripheral primitive neuroectodermal neoplasm	57	5	4.97	4.05	0.003	0.029	5.72	1.72	15
+HP:0008062	Aplasia/Hypoplasia affecting the anterior segment of the eye	110	7	3.6	3.72	0.0029	0.029	4.13	1.55	9.39
+HP:0012145	Abnormality of multiple cell lineages in the bone marrow	114	7	3.48	3.6	0.0036	0.033	3.97	1.49	9.03
+HP:0001636	Tetralogy of Fallot	145	8	3.12	3.5	0.0036	0.033	3.58	1.44	7.76
+HP:0004207	Abnormality of the 5th finger	324	13	2.27	3.22	0.0036	0.033	2.67	1.32	5.08
+HP:0001650	Aortic valve stenosis	60	5	4.72	3.89	0.0038	0.034	5.41	1.63	14.1
+HP:0100589	Urogenital fistula	87	6	3.9	3.68	0.0039	0.035	4.45	1.52	10.7
+HP:0001710	Conotruncal defect	148	8	3.06	3.43	0.004	0.036	3.5	1.41	7.59
+HP:0002997	Abnormality of the ulna	150	8	3.02	3.39	0.0044	0.038	3.45	1.39	7.47
+HP:0012440	Abnormal biliary tract morphology	119	7	3.33	3.47	0.0045	0.039	3.79	1.42	8.6
+HP:0000348	High forehead	151	8	3	3.37	0.0046	0.039	3.42	1.38	7.42
+HP:0100593	Calcification of cartilage	20	3	8.49	4.51	0.0048	0.04	10.2	1.87	36.8
+HP:0009778	Short thumb	63	5	4.49	3.75	0.0047	0.04	5.12	1.55	13.4
+HP:0000107	Renal cyst	221	10	2.56	3.22	0.0047	0.04	2.95	1.32	5.97
+HP:0009777	Absent thumb	40	4	5.66	3.98	0.005	0.042	6.53	1.63	19.1
+HP:0012732	Anorectal anomaly	188	9	2.71	3.23	0.0051	0.042	3.1	1.32	6.47
+HP:0003002	Breast carcinoma	41	4	5.52	3.91	0.0055	0.044	6.35	1.59	18.5
+HP:0000069	Abnormality of the ureter	190	9	2.68	3.2	0.0055	0.044	3.06	1.31	6.39
+HP:0002818	Abnormality of the radius	191	9	2.67	3.18	0.0057	0.046	3.05	1.3	6.36
+HP:0002984	Hypoplasia of the radius	67	5	4.22	3.57	0.0061	0.048	4.79	1.45	12.4
+HP:0000925	Abnormality of the vertebral column	935	26	1.57	2.75	0.006	0.048	2.02	1.16	3.46
+HP:0001631	Atrial septal defect	307	12	2.21	2.98	0.0064	0.049	2.56	1.23	4.95
+HP:0011994	Abnormality of the atrial septum	307	12	2.21	2.98	0.0064	0.049	2.56	1.23	4.95

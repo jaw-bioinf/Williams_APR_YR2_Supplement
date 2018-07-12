@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0243	2	3	1	0.333	0.5	CORUM:2771	cor	3	RAD51-DMC1 complex	1	DMC1
+2	1	TRUE	0.0243	3	3	1	0.333	0.333	CORUM:6841	cor	1	Dyrk1b-Hnf1a-Pcbd2 complex	1	DYRK1B
+3	1	TRUE	0.0282	7	3	1	0.333	0.143	CORUM:6669	cor	4	B9 complex	1	MKS1
+4	1	TRUE	0.0282	7	3	1	0.333	0.143	CORUM:6596	cor	2	Tectonic complex	1	MKS1

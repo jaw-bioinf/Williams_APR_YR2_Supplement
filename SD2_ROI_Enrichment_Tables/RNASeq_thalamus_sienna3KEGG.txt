@@ -1,0 +1,5 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa05230 Central carbon metabolism in cancer 65 5 9.83 6.35 0.00014 0.0019 11.6 3.47 30.4
+path:hsa04810 Regulation of actin cytoskeleton 212 8 4.82 5.02 0.00021 0.0019 5.69 2.28 12.4
+path:hsa01521 EGFR tyrosine kinase inhibitor resistance 79 4 6.47 4.34 0.0033 0.02 7.24 1.85 20.5
+path:hsa04015 Rap1 signaling pathway 210 6 3.65 3.47 0.0056 0.025 4.08 1.41 9.73

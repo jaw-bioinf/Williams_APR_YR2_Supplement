@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0011497	abnormal glomerular capsule visceral layer morphology	82	6	7.15	5.69	0.00018	0.024	8.07	2.8	19.1
+MP:0005326	abnormal podocyte morphology	82	6	7.15	5.69	0.00018	0.024	8.07	2.8	19.1
+MP:0002962	increased urine protein level	167	9	5.26	5.65	5e-05	0.024	5.98	2.6	12.2
+MP:0006315	abnormal urine protein level	183	9	4.8	5.29	1e-04	0.024	5.42	2.36	11
+MP:0000521	abnormal kidney cortex morphology	378	13	3.36	4.76	0.00012	0.024	3.83	1.94	7
+MP:0002827	abnormal renal corpuscle morphology	350	12	3.35	4.56	0.00022	0.024	3.78	1.86	7.05
+MP:0009643	abnormal urine homeostasis	461	14	2.97	4.4	0.00023	0.024	3.38	1.75	6.06
+MP:0002828	abnormal renal glomerular capsule morphology	124	7	5.51	5.15	0.00027	0.025	6.16	2.36	13.6
+MP:0003881	abnormal nephron morphology	487	14	2.81	4.17	4e-04	0.033	3.18	1.65	5.71

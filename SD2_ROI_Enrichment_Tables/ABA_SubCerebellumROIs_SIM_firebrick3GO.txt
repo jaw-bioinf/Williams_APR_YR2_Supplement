@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0459	5	6	1	0.167	0.2	CORUM:128	cor	4	ORC complex (origin recognition complex)	1	ORC4
+2	1	TRUE	0.0259	1	6	1	0.167	1	CORUM:1988	cor	5	Bcl2 homodimer complex	1	BCL2
+3	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:3559	cor	9	Fgf2-Ck2 complex	1	FGF2
+4	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:3558	cor	3	Fgf2-Ck2 complex	1	FGF2
+5	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:1926	cor	2	Foxh1-Nkx2-5 complex	1	NKX2-5
+6	1	TRUE	0.0259	2	6	1	0.167	0.5	CORUM:3563	cor	10	Fgf2-Rsk2 complex	1	FGF2
+7	1	TRUE	0.0429	4	6	1	0.167	0.25	CORUM:6454	cor	8	Zipzap/p200-Srf-p49/STRAP-Nkx2.5 complex	1	NKX2-5
+8	1	TRUE	0.0355	13	26	2	0.077	0.154	REAC:R-MMU-5654227	rea	7	Phospholipase C-mediated cascade; FGFR3	1	FGF2,FGFR3
+9	1	TRUE	0.0415	18	26	2	0.077	0.111	REAC:R-MMU-5654704	rea	11	SHC-mediated cascade:FGFR3	1	FGF2,FGFR3
+10	1	TRUE	0.0415	18	26	2	0.077	0.111	REAC:R-MMU-5654710	rea	12	PI-3K cascade:FGFR3	1	FGF2,FGFR3
+11	1	TRUE	0.0355	13	26	2	0.077	0.154	REAC:R-MMU-190239	rea	6	FGFR3 ligand binding and activation	1	FGF2,FGFR3
+12	1	TRUE	0.0355	13	26	2	0.077	0.154	REAC:R-MMU-190372	rea	6	FGFR3c ligand binding and activation	2	FGF2,FGFR3

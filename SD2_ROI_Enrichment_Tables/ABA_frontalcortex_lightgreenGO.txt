@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:3539	cor	10	Limd1-p62-Traf6-Prkcz complex	1	LIMD1
+2	1	TRUE	0.043	3	8	1	0.125	0.333	CORUM:6427	cor	1	Sufu-Mycbp-Gli1 complex	1	GLI2
+3	1	TRUE	0.037	2	8	1	0.125	0.5	CORUM:2427	cor	3	Itga4-Itgb1-Adam2 complex	1	ADAM2
+4	1	TRUE	0.037	1	8	1	0.125	1	CORUM:6606	cor	5	Gli2-Kif7 complex	1	GLI2
+5	1	TRUE	0.043	3	8	1	0.125	0.333	CORUM:2415	cor	12	Itgb1-Rap1a-Prkd1 complex	1	PRKD1
+6	1	TRUE	0.037	2	8	1	0.125	0.5	CORUM:109	cor	4	Fertilin complex (Adam1b, Adam2)	1	ADAM2
+7	1	TRUE	0.037	2	8	1	0.125	0.5	CORUM:5128	cor	8	p18-Cdk6 complex	1	CDKN2C
+8	1	TRUE	0.037	2	8	1	0.125	0.5	CORUM:5127	cor	2	p18-Cdk4 complex	1	CDKN2C
+9	1	TRUE	0.037	2	8	1	0.125	0.5	CORUM:3068	cor	7	Fertilin complex (Adam1a, Adam2)	1	ADAM2
+10	1	TRUE	0.0467	4	8	1	0.125	0.25	CORUM:2173	cor	9	COP9 signalosome complex	1	COPS5
+11	1	TRUE	0.037	2	8	1	0.125	0.5	CORUM:3457	cor	6	B23-NPM3 complex	1	NPM3

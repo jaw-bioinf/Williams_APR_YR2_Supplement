@@ -1,0 +1,75 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0013208 abnormal cilium physiology 40 10 44.6 20.7 9.1e-15 3.1e-12 72.6 29.7 164
+MP:0011055 abnormal respiratory motile cilium physiology 23 8 62.1 22 2.5e-13 4.4e-11 111 38.7 298
+MP:0013209 abnormal motile cilium physiology 28 8 51 19.9 1.6e-12 1.8e-10 83.1 30.1 210
+MP:0014200 abnormal respiratory epithelium physiology 39 8 36.6 16.7 3e-11 2.6e-09 53.7 20.2 128
+MP:0011050 abnormal respiratory motile cilium morphology 17 6 63 19.2 2.7e-10 1.9e-08 108 31.6 337
+MP:0011649 immotile respiratory cilia 14 5 63.7 17.6 8.7e-09 5e-07 108 27.4 380
+MP:0011252 situs inversus totalis 18 5 49.6 15.5 3.7e-08 1.8e-06 75 20.1 234
+MP:0010853 abnormal lung position or orientation 46 6 23.3 11.4 1.8e-07 7e-06 29.9 9.87 76
+MP:0004133 heterotaxia 75 7 16.7 10.2 1.7e-07 7e-06 20.9 7.68 49
+MP:0011250 abdominal situs ambiguus 12 4 59.5 15.2 4.2e-07 1.2e-05 95.5 20.3 368
+MP:0003178 left pulmonary isomerism 28 5 31.9 12.3 4e-07 1.2e-05 42.4 12.1 121
+MP:0013202 abnormal cilium morphology 228 10 7.83 7.83 4.2e-07 1.2e-05 9.83 4.34 20.2
+MP:0000542 left-sided isomerism 31 5 28.8 11.6 6.9e-07 1.8e-05 37.5 10.8 105
+MP:0011683 dual inferior vena cava 14 4 51 14 8.4e-07 2.1e-05 76.4 16.9 278
+MP:0004158 right aortic arch 60 6 17.8 9.83 9.1e-07 2.1e-05 22.1 7.41 55
+MP:0013206 abnormal motile cilium morphology 154 8 9.27 7.77 1.9e-06 4.2e-05 11.3 4.51 24.8
+MP:0000644 dextrocardia 39 5 22.9 10.3 2.3e-06 4.6e-05 28.7 8.39 78.5
+MP:0001891 hydroencephaly 161 8 8.87 7.56 2.7e-06 5.2e-05 10.8 4.31 23.6
+MP:0004113 abnormal aortic arch morphology 117 7 10.7 7.91 3.5e-06 6.4e-05 12.9 4.79 29.6
+MP:0002766 situs inversus 46 5 19.4 9.39 5.2e-06 8.6e-05 23.8 7.03 64
+MP:0009570 abnormal right lung morphology 46 5 19.4 9.39 5.2e-06 8.6e-05 23.8 7.03 64
+MP:0010808 right-sided stomach 23 4 31 10.8 7.2e-06 0.00011 40.2 9.6 128
+MP:0010468 abnormal thoracic aorta morphology 139 7 8.99 7.12 1.1e-05 0.00017 10.7 4 24.5
+MP:0006065 abnormal heart position or orientation 55 5 16.2 8.5 1.3e-05 0.00018 19.5 5.81 51.7
+MP:0006063 abnormal inferior vena cava morphology 27 4 26.4 9.94 1.4e-05 0.00019 33.3 8.06 103
+MP:0010807 abnormal stomach position or orientation 29 4 24.6 9.56 1.9e-05 0.00025 30.6 7.46 93.6
+MP:0002200 abnormal brain ventricular system morphology 370 10 4.82 5.63 3.2e-05 0.00041 5.86 2.6 12
+MP:0008933 abnormal motile primary cilium physiology 12 3 44.6 11.3 3.5e-05 0.00043 62.4 10.6 262
+MP:0003283 abnormal digestive organ placement 34 4 21 8.77 3.6e-05 0.00043 25.5 6.28 76.5
+MP:0006062 abnormal vena cava morphology 35 4 20.4 8.63 4e-05 0.00045 24.7 6.09 73.8
+MP:0000272 abnormal aorta morphology 232 8 6.15 5.97 3.9e-05 0.00045 7.3 2.93 15.9
+MP:0013210 abnormal primary cilium physiology 13 3 41.2 10.9 4.6e-05 0.00049 56.2 9.65 226
+MP:0004275 abnormal postnatal subventricular zone morphology 38 4 18.8 8.25 5.6e-05 0.00059 22.5 5.58 66.7
+MP:0001947 abnormal mucociliary clearance 15 3 35.7 10.1 7.2e-05 0.00073 46.9 8.23 180
+MP:0011655 abnormal systemic artery morphology 268 8 5.33 5.4 0.00011 0.0011 6.27 2.52 13.6
+MP:0009838 abnormal sperm axoneme morphology 20 3 26.8 8.66 0.00018 0.0017 33.1 6.02 120
+MP:0000823 abnormal lateral ventricle morphology 167 6 6.41 5.3 0.00032 0.0029 7.34 2.53 17.6
+MP:0002132 abnormal respiratory system morphology 901 14 2.77 4.2 0.00031 0.0029 3.46 1.73 6.57
+MP:0008267 abnormal hippocampus CA3 region morphology 27 3 19.8 7.35 0.00044 0.0039 23.4 4.37 81.1
+MP:0002741 small olfactory bulb 65 4 11 6.06 0.00046 0.004 12.5 3.18 35.8
+MP:0001175 abnormal lung morphology 613 11 3.2 4.23 0.00048 0.004 3.84 1.77 7.66
+MP:0000913 abnormal brain development 780 12 2.75 3.82 0.001 0.0083 3.3 1.57 6.46
+MP:0002653 abnormal ependyma morphology 37 3 14.5 6.16 0.0011 0.009 16.5 3.14 55.4
+MP:0004131 abnormal motile primary cilium morphology 40 3 13.4 5.89 0.0014 0.011 15.2 2.9 50.6
+MP:0010420 muscular ventricular septal defect 40 3 13.4 5.89 0.0014 0.011 15.2 2.9 50.6
+MP:0000822 abnormal brain ventricle morphology 305 7 4.1 4.13 0.0015 0.011 4.66 1.76 10.5
+MP:0002191 abnormal artery morphology 491 9 3.27 3.88 0.0015 0.011 3.8 1.62 7.96
+MP:0010498 abnormal interventricular septum muscular part morphology 42 3 12.7 5.73 0.0016 0.012 14.4 2.76 47.8
+MP:0000819 abnormal olfactory bulb morphology 159 5 5.61 4.4 0.0019 0.013 6.26 1.92 16
+MP:0000276 heart right ventricle hypertrophy 45 3 11.9 5.5 0.002 0.014 13.4 2.57 44.1
+MP:0003861 abnormal nervous system development 1215 15 2.2 3.38 0.0021 0.014 2.71 1.38 5.08
+MP:0010942 abnormal respiratory epithelium morphology 247 6 4.33 3.99 0.0024 0.016 4.86 1.68 11.6
+MP:0000416 sparse hair 104 4 6.86 4.51 0.0027 0.017 7.6 1.95 21.4
+MP:0005388 respiratory system phenotype 1374 16 2.08 3.25 0.0026 0.017 2.57 1.33 4.78
+MP:0000470 abnormal stomach morphology 175 5 5.1 4.11 0.0029 0.018 5.67 1.74 14.4
+MP:0009944 abnormal olfactory lobe morphology 178 5 5.01 4.06 0.0031 0.019 5.57 1.71 14.2
+MP:0002725 abnormal vein morphology 118 4 6.05 4.14 0.0042 0.025 6.66 1.71 18.6
+MP:0005578 teratozoospermia 191 5 4.67 3.85 0.0042 0.025 5.17 1.59 13.1
+MP:0013285 abnormal renal filtration 60 3 8.92 4.62 0.0045 0.027 9.84 1.91 31.9
+MP:0000825 dilated lateral ventricles 62 3 8.63 4.53 0.005 0.029 9.51 1.84 30.8
+MP:0008262 abnormal hippocampus region morphology 64 3 8.36 4.44 0.0054 0.031 9.19 1.78 29.7
+MP:0004066 abnormal primitive node morphology 65 3 8.24 4.39 0.0057 0.031 9.04 1.76 29.2
+MP:0008892 abnormal sperm flagellum morphology 128 4 5.58 3.91 0.0056 0.031 6.11 1.58 17.1
+MP:0010418 perimembraneous ventricular septal defect 66 3 8.11 4.35 0.0059 0.032 8.9 1.73 28.7
+MP:0002152 abnormal brain morphology 1633 17 1.86 2.87 0.006 0.032 2.29 1.2 4.21
+MP:0008823 abnormal interventricular septum membranous part morphology 68 3 7.87 4.27 0.0064 0.033 8.62 1.68 27.8
+MP:0010425 abnormal heart and great vessel attachment 213 5 4.19 3.53 0.0066 0.033 4.61 1.42 11.7
+MP:0010426 abnormal heart and great artery attachment 213 5 4.19 3.53 0.0066 0.033 4.61 1.42 11.7
+MP:0000815 abnormal Ammon gyrus morphology 69 3 7.76 4.23 0.0067 0.034 8.49 1.65 27.4
+MP:0001924 infertility 856 11 2.29 2.98 0.0069 0.034 2.66 1.23 5.3
+MP:0002625 heart left ventricle hypertrophy 71 3 7.54 4.15 0.0073 0.035 8.24 1.6 26.5
+MP:0000783 abnormal forebrain morphology 1011 12 2.12 2.83 0.0087 0.042 2.47 1.18 4.82
+MP:0002136 abnormal kidney physiology 425 7 2.94 3.07 0.0091 0.043 3.28 1.24 7.38
+MP:0000358 abnormal cell morphology 1156 13 2.01 2.75 0.0097 0.045 2.36 1.15 4.53

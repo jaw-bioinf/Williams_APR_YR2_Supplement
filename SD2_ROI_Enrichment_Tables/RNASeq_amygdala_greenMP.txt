@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009747	impaired behavioral response to xenobiotic	87	21	3.1	5.71	2.2e-06	0.0064	3.85	2.22	6.41
+MP:0003635	abnormal synaptic transmission	740	91	1.58	4.77	5.2e-06	0.0077	1.75	1.37	2.22
+MP:0009754	enhanced behavioral response to cocaine	24	9	4.81	5.44	4.5e-05	0.043	7.17	2.76	17.6
+MP:0020158	abnormal behavioral response to cocaine	36	11	3.92	5.11	5.9e-05	0.043	5.27	2.33	11.2

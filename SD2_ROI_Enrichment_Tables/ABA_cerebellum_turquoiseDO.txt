@@ -1,0 +1,30 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1287	cardiovascular system disease	1292	288	1.26	4.76	2e-06	0.0016	1.43	1.23	1.66
+DOID:114	heart disease	517	129	1.41	4.47	1.1e-05	0.0041	1.61	1.29	1.99
+DOID:1579	respiratory system disease	691	164	1.34	4.36	1.5e-05	0.0041	1.51	1.25	1.83
+DOID:28	endocrine system disease	358	94	1.48	4.34	2.3e-05	0.0045	1.71	1.32	2.19
+DOID:0050155	sensory system disease	606	144	1.34	4.07	5.1e-05	0.008	1.51	1.23	1.84
+DOID:0050828	artery disease	931	208	1.26	3.96	6.6e-05	0.0087	1.4	1.18	1.66
+DOID:26	pancreas disease	173	51	1.66	4.1	8.5e-05	0.0088	1.98	1.39	2.79
+DOID:3393	coronary artery disease	351	90	1.45	3.98	8.9e-05	0.0088	1.65	1.27	2.12
+DOID:0050161	lower respiratory tract disease	656	152	1.31	3.84	0.00012	0.0095	1.46	1.19	1.77
+DOID:178	vascular disease	1088	237	1.23	3.81	0.00011	0.0095	1.36	1.16	1.6
+DOID:0060158	acquired metabolic disease	1078	234	1.22	3.72	0.00016	0.011	1.35	1.15	1.59
+DOID:4079	heart valve disease	48	19	2.23	3.98	0.00029	0.019	3.07	1.62	5.69
+DOID:5082	liver cirrhosis	207	56	1.53	3.57	0.00047	0.025	1.76	1.26	2.42
+DOID:10763	hypertension	569	131	1.3	3.45	0.00048	0.025	1.43	1.16	1.77
+DOID:1749	squamous cell carcinoma	720	161	1.26	3.44	0.00047	0.025	1.39	1.14	1.68
+DOID:10591	pre-eclampsia	268	69	1.45	3.51	0.00052	0.026	1.65	1.22	2.19
+DOID:5614	eye disease	531	123	1.31	3.41	0.00056	0.026	1.44	1.16	1.79
+DOID:2320	obstructive lung disease	205	55	1.51	3.46	0.00066	0.027	1.73	1.24	2.39
+DOID:3083	chronic obstructive pulmonary disease	205	55	1.51	3.46	0.00066	0.027	1.73	1.24	2.39
+DOID:374	nutrition disease	366	89	1.37	3.39	0.00067	0.027	1.53	1.18	1.97
+DOID:0014667	disease of metabolism	1280	267	1.18	3.25	0.00079	0.03	1.28	1.1	1.5
+DOID:1492	eye and adnexa disease	537	123	1.29	3.27	0.00089	0.032	1.42	1.14	1.76
+DOID:18	urinary system disease	494	114	1.3	3.23	0.001	0.036	1.43	1.14	1.79
+DOID:850	lung disease	435	102	1.32	3.23	0.0011	0.036	1.46	1.15	1.84
+DOID:557	kidney disease	476	110	1.3	3.19	0.0012	0.038	1.43	1.14	1.8
+DOID:9065	leishmaniasis	21	10	2.69	3.59	0.0016	0.045	4.24	1.61	11
+DOID:2018	hyperinsulinism	46	17	2.08	3.43	0.0015	0.045	2.74	1.41	5.18
+DOID:12336	male infertility	104	31	1.68	3.25	0.0016	0.045	2	1.26	3.09
+DOID:2723	dermatitis	222	57	1.45	3.15	0.0017	0.045	1.63	1.18	2.23

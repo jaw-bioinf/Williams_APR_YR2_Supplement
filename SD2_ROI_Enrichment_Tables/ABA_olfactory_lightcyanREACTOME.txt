@@ -1,0 +1,13 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-2173796 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription 32 5 12.1 7.2 5e-05 0.0094 14.7 4.35 39.6
+R-HSA-2173793 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer 44 5 8.82 5.94 0.00024 0.022 10.2 3.08 26.4
+R-HSA-3858494 Beta-catenin independent WNT signaling 137 8 4.53 4.76 0.00038 0.024 5 2.07 10.5
+R-HSA-4419969 Depolymerisation of the Nuclear Lamina 15 3 15.5 6.43 0.00085 0.025 19.6 3.5 73.6
+R-HSA-168638 NOD1/2 Signaling Pathway 35 4 8.87 5.33 0.001 0.025 10.2 2.57 29.4
+R-HSA-4086398 Ca2+ pathway 55 5 7.06 5.15 0.00068 0.025 7.93 2.43 20.2
+R-HSA-193704 p75 NTR receptor-mediated signalling 90 6 5.17 4.54 0.001 0.025 5.69 1.99 13.3
+R-HSA-195721 Signaling by WNT 314 12 2.97 4.04 0.00072 0.025 3.25 1.62 5.99
+R-HSA-170834 Signaling by TGF-beta Receptor Complex 66 5 5.88 4.54 0.0016 0.031 6.49 2 16.4
+R-HSA-381340 Transcriptional regulation of white adipocyte differentiation 67 5 5.79 4.5 0.0017 0.031 6.38 1.97 16.1
+R-HSA-3769402 Deactivation of the beta-catenin transactivating complex 42 4 7.39 4.74 0.002 0.034 8.29 2.12 23.5
+R-HSA-450321 JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1 23 3 10.1 5 0.0031 0.048 11.7 2.2 40.3

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003635	abnormal synaptic transmission	740	76	1.8	5.57	2.4e-07	0.00054	2.04	1.56	2.64
+MP:0002206	abnormal CNS synaptic transmission	653	65	1.74	4.84	5.7e-06	0.0065	1.94	1.45	2.56

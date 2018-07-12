@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112043	PLC beta mediated events	41	5	10.6	6.65	9.9e-05	0.0088	12.4	3.74	32.7
+R-HSA-112040	G-protein mediated events	42	5	10.4	6.56	0.00011	0.0088	12.1	3.64	31.7
+R-HSA-111885	Opioid Signalling	74	6	7.06	5.64	2e-04	0.01	7.95	2.76	18.8
+R-HSA-202040	G-protein activation	28	4	12.4	6.53	0.00027	0.011	14.8	3.67	44.1
+R-HSA-881907	Gastrin-CREB signalling pathway via PKC and MAPK	18	3	14.5	6.18	0.0011	0.028	17.6	3.23	63.5
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	4	8.29	5.1	0.0013	0.028	9.34	2.38	26.6
+R-HSA-390466	Chaperonin-mediated protein folding	43	4	8.1	5.03	0.0014	0.028	9.1	2.32	25.9
+R-HSA-391251	Protein folding	43	4	8.1	5.03	0.0014	0.028	9.1	2.32	25.9

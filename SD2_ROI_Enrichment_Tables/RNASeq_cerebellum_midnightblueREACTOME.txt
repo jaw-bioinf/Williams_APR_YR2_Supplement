@@ -1,0 +1,16 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-977444 GABA B receptor activation 39 5 10.1 6.46 0.00012 0.0068 11.9 3.56 31.2
+R-HSA-991365 Activation of GABAB receptors 39 5 10.1 6.46 0.00012 0.0068 11.9 3.56 31.2
+R-HSA-170660 Adenylate cyclase activating pathway 10 3 23.7 8.12 0.00022 0.008 34.1 5.62 151
+R-HSA-933543 NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10 12 3 19.7 7.35 4e-04 0.008 26.5 4.56 108
+R-HSA-170670 Adenylate cyclase inhibitory pathway 14 3 16.9 6.75 0.00065 0.008 21.7 3.84 83.4
+R-HSA-918233 TRAF3-dependent IRF activation pathway 14 3 16.9 6.75 0.00065 0.008 21.7 3.84 83.4
+R-HSA-997269 Inhibition of adenylate cyclase pathway 14 3 16.9 6.75 0.00065 0.008 21.7 3.84 83.4
+R-HSA-977443 GABA receptor activation 55 5 7.17 5.2 0.00064 0.008 8.06 2.46 20.6
+R-HSA-112316 Neuronal System 356 13 2.88 4.09 0.00057 0.008 3.17 1.62 5.72
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 8 4.1 4.39 0.00075 0.0082 4.48 1.86 9.36
+R-HSA-112040 G-protein mediated events 42 4 7.51 4.79 0.0019 0.019 8.42 2.15 23.9
+R-HSA-112315 Transmission across Chemical Synapses 224 9 3.17 3.72 0.0022 0.02 3.43 1.51 6.86
+R-HSA-933542 TRAF6 mediated NF-kB activation 26 3 9.1 4.69 0.0042 0.035 10.4 1.97 35
+R-HSA-936440 Negative regulators of DDX58/IFIH1 signaling 27 3 8.76 4.58 0.0047 0.037 9.93 1.89 33.4
+R-HSA-1855204 Synthesis of IP3 and IP4 in the cytosol 28 3 8.45 4.47 0.0052 0.038 9.54 1.82 31.9

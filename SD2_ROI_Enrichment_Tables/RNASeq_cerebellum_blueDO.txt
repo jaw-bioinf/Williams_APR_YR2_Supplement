@@ -1,0 +1,31 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:850	lung disease	435	90	1.48	4.19	4.5e-05	0.021	1.67	1.3	2.14
+DOID:65	connective tissue disease	1050	188	1.28	4.01	5.8e-05	0.021	1.43	1.19	1.7
+DOID:0060100	musculoskeletal system cancer	427	87	1.46	3.95	0.00011	0.024	1.63	1.26	2.1
+DOID:0080001	bone disease	833	152	1.31	3.81	0.00013	0.024	1.45	1.19	1.75
+DOID:1115	sarcoma	190	45	1.7	3.92	0.00018	0.026	1.96	1.36	2.77
+DOID:2152	ovary epithelial cancer	276	59	1.53	3.63	0.00039	0.026	1.72	1.26	2.32
+DOID:2151	malignant ovarian surface epithelial-stromal neoplasm	276	59	1.53	3.63	0.00039	0.026	1.72	1.26	2.32
+DOID:4001	ovarian carcinoma	276	59	1.53	3.63	0.00039	0.026	1.72	1.26	2.32
+DOID:2394	ovarian cancer	282	60	1.52	3.62	4e-04	0.026	1.71	1.25	2.3
+DOID:0060158	acquired metabolic disease	1078	188	1.25	3.59	0.00027	0.026	1.37	1.15	1.64
+DOID:17	musculoskeletal system disease	1239	212	1.23	3.53	0.00032	0.026	1.35	1.14	1.6
+DOID:0014667	disease of metabolism	1280	217	1.21	3.42	0.00046	0.028	1.33	1.12	1.57
+DOID:0050615	respiratory system cancer	509	97	1.37	3.45	0.00056	0.031	1.5	1.18	1.9
+DOID:0050161	lower respiratory tract disease	656	120	1.31	3.37	0.00067	0.035	1.43	1.15	1.77
+DOID:178	vascular disease	1088	186	1.23	3.25	0.00085	0.041	1.34	1.11	1.59
+DOID:11054	urinary bladder cancer	53	16	2.16	3.42	0.0017	0.045	2.69	1.39	4.99
+DOID:4007	bladder carcinoma	53	16	2.16	3.42	0.0017	0.045	2.69	1.39	4.99
+DOID:3459	breast carcinoma	451	86	1.37	3.24	0.0011	0.045	1.5	1.16	1.92
+DOID:3905	lung carcinoma	479	90	1.35	3.16	0.0014	0.045	1.47	1.14	1.87
+DOID:1324	lung cancer	480	90	1.34	3.14	0.0015	0.045	1.47	1.14	1.87
+DOID:201	connective tissue cancer	358	70	1.4	3.14	0.0016	0.045	1.54	1.16	2.02
+DOID:9256	colorectal cancer	811	142	1.25	3.11	0.0014	0.045	1.36	1.11	1.66
+DOID:5672	large intestine cancer	812	142	1.25	3.09	0.0015	0.045	1.36	1.11	1.66
+DOID:1287	cardiovascular system disease	1292	215	1.19	3.08	0.0014	0.045	1.3	1.09	1.53
+DOID:0050013	carbohydrate metabolism disease	858	149	1.24	3.08	0.0016	0.045	1.35	1.11	1.64
+DOID:4194	glucose metabolism disease	858	149	1.24	3.08	0.0016	0.045	1.35	1.11	1.64
+DOID:1579	respiratory system disease	691	123	1.28	3.07	0.0017	0.045	1.38	1.11	1.71
+DOID:10155	intestinal cancer	820	143	1.25	3.06	0.0016	0.045	1.35	1.11	1.65
+DOID:1612	breast cancer	571	104	1.31	3.06	0.0018	0.045	1.42	1.12	1.78
+DOID:5093	thoracic cancer	572	104	1.3	3.04	0.0019	0.046	1.41	1.12	1.77

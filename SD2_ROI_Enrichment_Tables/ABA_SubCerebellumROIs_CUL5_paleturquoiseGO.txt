@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0108	5	1	1	1	0.2	CORUM:2793	cor	2	Brd4-Rfc complex	1	RFC4
+2	1	TRUE	0.0194	17	13	2	0.154	0.118	KEGG:00910	keg	3	Nitrogen metabolism	1	GLUD1,CAR13
+3	1	TRUE	0.00424	5	19	2	0.105	0.4	REAC:R-MMU-8964026	rea	1	Chylomicron clearance	1	LDLR,LIPC

@@ -1,0 +1,38 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0005488 bronchial epithelial hyperplasia 10 4 23.2 9.3 1.6e-05 0.021 38.9 7.98 165
+MP:0004302 abnormal Deiters cell morphology 12 4 19.3 8.42 3.8e-05 0.024 29.1 6.35 110
+MP:0008069 abnormal joint mobility 16 4 14.5 7.16 0.00013 0.041 19.4 4.52 65
+MP:0004300 abnormal organ of Corti supporting cell morphology 46 6 7.56 5.91 0.00013 0.041 8.84 3.02 21.4
+MP:0004492 abnormal orientation of inner hair cell stereociliary bundles 18 4 12.9 6.69 0.00022 0.043 16.7 3.95 53.7
+MP:0003838 abnormal milk ejection 11 3 15.8 6.51 0.00075 0.043 21.7 3.68 91.6
+MP:0012133 absent midbrain-hindbrain boundary 11 3 15.8 6.51 0.00075 0.043 21.7 3.68 91.6
+MP:0009038 decreased inferior colliculus size 11 3 15.8 6.51 0.00075 0.043 21.7 3.68 91.6
+MP:0010943 abnormal bronchus epithelium morphology 20 4 11.6 6.28 0.00033 0.043 14.6 3.5 45.9
+MP:0002936 joint swelling 12 3 14.5 6.2 0.00099 0.043 19.3 3.33 78.5
+MP:0010980 ectopic ureteric bud 12 3 14.5 6.2 0.00099 0.043 19.3 3.33 78.5
+MP:0005660 abnormal circulating adrenaline level 22 4 10.5 5.94 0.00049 0.043 13 3.15 39.9
+MP:0014069 abnormal skeletal muscle glycogen level 26 4 8.92 5.36 0.00095 0.043 10.6 2.62 31.7
+MP:0003560 osteoarthritis 26 4 8.92 5.36 0.00095 0.043 10.6 2.62 31.7
+MP:0004522 abnormal orientation of cochlear hair cell stereociliary bundles 42 5 6.9 5.08 0.00073 0.043 7.91 2.4 20.6
+MP:0006103 abnormal midbrain roof plate morphology 43 5 6.74 5 0.00081 0.043 7.7 2.34 20
+MP:0006104 abnormal tectum morphology 43 5 6.74 5 0.00081 0.043 7.7 2.34 20
+MP:0004425 abnormal otolith organ morphology 63 6 5.52 4.77 0.00072 0.043 6.19 2.15 14.6
+MP:0000034 abnormal inner ear vestibule morphology 82 7 4.95 4.76 0.00051 0.043 5.51 2.11 12.2
+MP:0003938 abnormal ear development 64 6 5.44 4.72 0.00079 0.043 6.08 2.11 14.4
+MP:0002428 abnormal semicircular canal morphology 64 6 5.44 4.72 0.00079 0.043 6.08 2.11 14.4
+MP:0008569 lethality at weaning 106 8 4.38 4.63 0.00047 0.043 4.84 2 10.2
+MP:0000897 abnormal midbrain morphology 154 10 3.77 4.58 0.00032 0.043 4.15 1.91 8.08
+MP:0002729 abnormal inner ear canal morphology 67 6 5.19 4.56 0.001 0.043 5.78 2.01 13.6
+MP:0005277 abnormal brainstem morphology 237 13 3.18 4.51 0.00022 0.043 3.51 1.8 6.31
+MP:0004427 abnormal vestibular labyrinth morphology 89 7 4.56 4.47 0.00084 0.043 5.04 1.93 11.1
+MP:0003854 abnormal forelimb stylopod morphology 115 8 4.03 4.34 0.00081 0.043 4.43 1.83 9.27
+MP:0000550 abnormal forelimb morphology 206 11 3.1 4.03 0.00085 0.043 3.38 1.62 6.35
+MP:0002272 abnormal nervous system electrophysiology 339 15 2.57 3.89 0.00074 0.043 2.81 1.51 4.86
+MP:0010383 increased adenoma incidence 179 10 3.24 4.01 0.001 0.044 3.53 1.63 6.83
+MP:0020189 abnormal adenoma incidence 180 10 3.22 3.99 0.0011 0.044 3.51 1.62 6.79
+MP:0011376 abnormal kidney corticomedullary boundary morphology 13 3 13.4 5.92 0.0013 0.047 17.4 3.05 68.4
+MP:0004496 abnormal organ of Corti supporting cell number 13 3 13.4 5.92 0.0013 0.047 17.4 3.05 68.4
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 29 1.8 3.41 0.0012 0.047 2 1.28 3.04
+MP:0001144 vagina atresia 29 4 8 5 0.0014 0.05 9.32 2.33 27.4
+MP:0000864 abnormal cerebellum vermis morphology 49 5 5.92 4.57 0.0015 0.05 6.65 2.03 17.1
+MP:0001961 abnormal reflex 767 25 1.89 3.41 0.0014 0.05 2.09 1.3 3.25

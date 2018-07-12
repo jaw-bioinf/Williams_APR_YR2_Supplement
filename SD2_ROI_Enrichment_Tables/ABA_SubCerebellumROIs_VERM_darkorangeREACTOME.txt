@@ -1,0 +1,19 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	6	7.75	6	0.00011	0.0053	9.02	3.09	21.8
+R-HSA-5654738	Signaling by FGFR2	73	4	11.7	6.29	0.00037	0.007	13.3	3.38	38.2
+R-HSA-446203	Asparagine N-linked glycosylation	299	7	4.99	4.81	0.00044	0.007	5.8	2.17	13.2
+R-HSA-190236	Signaling by FGFR	87	4	9.8	5.66	0.00071	0.0071	11.1	2.82	31.5
+R-HSA-199977	ER to Golgi Anterograde Transport	155	5	6.87	5.06	0.00076	0.0071	7.79	2.37	20
+R-HSA-611105	Respiratory electron transport	95	4	8.97	5.36	0.00099	0.0078	10.1	2.58	28.6
+R-HSA-6799198	Complex I biogenesis	55	3	11.6	5.42	0.0021	0.0086	13	2.5	42.6
+R-HSA-381038	XBP1(S) activates chaperone genes	57	3	11.2	5.31	0.0024	0.0086	12.5	2.41	40.9
+R-HSA-6807878	COPI-mediated anterograde transport	102	4	8.35	5.13	0.0013	0.0086	9.36	2.39	26.5
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	4	7.22	4.67	0.0022	0.0086	8.03	2.06	22.6
+R-HSA-72163	mRNA Splicing - Major Pathway	183	5	5.82	4.52	0.0016	0.0086	6.54	2	16.8
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	5	5.73	4.47	0.0017	0.0086	6.43	1.96	16.5
+R-HSA-72172	mRNA Splicing	191	5	5.58	4.39	0.0019	0.0086	6.26	1.91	16
+R-HSA-381070	IRE1alpha activates chaperones	59	3	10.8	5.2	0.0026	0.0088	12.1	2.33	39.4
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	5	4.38	3.67	0.0054	0.017	4.86	1.49	12.4
+R-HSA-381119	Unfolded Protein Response (UPR)	93	3	6.87	3.91	0.0094	0.027	7.48	1.46	24
+R-HSA-8953854	Metabolism of RNA	646	8	2.64	2.96	0.0096	0.027	3	1.21	6.55
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	4	4.26	3.2	0.014	0.037	4.64	1.2	12.9

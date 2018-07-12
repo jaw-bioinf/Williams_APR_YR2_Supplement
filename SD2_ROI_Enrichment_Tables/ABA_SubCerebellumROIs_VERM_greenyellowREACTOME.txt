@@ -1,0 +1,34 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-72766	Translation	258	27	3.36	6.88	3.1e-08	1.1e-05	3.88	2.46	5.92
+R-HSA-8953854	Metabolism of RNA	646	46	2.29	6.06	9.5e-08	1.7e-05	2.62	1.85	3.64
+R-HSA-72689	Formation of a pool of free 40S subunits	101	15	4.77	6.82	4.8e-07	5.8e-05	5.64	2.99	9.98
+R-HSA-72613	Eukaryotic Translation Initiation	119	16	4.32	6.52	7.9e-07	5.8e-05	5.04	2.74	8.7
+R-HSA-72737	Cap-dependent Translation Initiation	119	16	4.32	6.52	7.9e-07	5.8e-05	5.04	2.74	8.7
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	14	4.83	6.66	9.8e-07	5.9e-05	5.72	2.96	10.3
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	14	4.73	6.55	1.3e-06	6.6e-05	5.58	2.89	10
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	15	4.34	6.34	1.7e-06	7.5e-05	5.05	2.69	8.88
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	15	4.3	6.29	1.9e-06	7.5e-05	5	2.66	8.79
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	15	4.19	6.16	2.6e-06	8.6e-05	4.85	2.58	8.51
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	15	4.19	6.16	2.6e-06	8.6e-05	4.85	2.58	8.51
+R-HSA-192823	Viral mRNA Translation	89	13	4.69	6.27	3.4e-06	1e-04	5.5	2.77	10.1
+R-HSA-72312	rRNA processing	201	20	3.19	5.63	4.4e-06	0.00012	3.6	2.12	5.83
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	18	3.17	5.31	1.4e-05	0.00037	3.56	2.03	5.9
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	15	3.62	5.45	1.6e-05	0.00038	4.1	2.2	7.15
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	18	3.02	5.07	2.8e-05	0.00063	3.37	1.92	5.58
+R-HSA-168255	Influenza Life Cycle	143	15	3.37	5.11	3.8e-05	0.00081	3.78	2.03	6.57
+R-HSA-168254	Influenza Infection	154	15	3.13	4.77	8.9e-05	0.0018	3.47	1.87	6.02
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	8	5.03	5.18	0.00016	0.0031	5.91	2.38	12.9
+R-HSA-392499	Metabolism of proteins	1907	85	1.43	3.75	0.00021	0.0038	1.62	1.24	2.1
+R-HSA-72649	Translation initiation complex formation	58	8	4.43	4.69	4e-04	0.0066	5.08	2.06	10.9
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	8	4.43	4.69	4e-04	0.0066	5.08	2.06	10.9
+R-HSA-8856828	Clathrin-mediated endocytosis	140	13	2.98	4.23	0.00042	0.0066	3.28	1.68	5.89
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	8	4.35	4.63	0.00045	0.0068	4.98	2.02	10.7
+R-HSA-5663205	Infectious disease	326	22	2.17	3.84	0.00054	0.0079	2.34	1.43	3.68
+R-HSA-212676	Dopamine Neurotransmitter Release Cycle	23	5	6.98	5.15	6e-04	0.0081	8.76	2.52	24.7
+R-HSA-70895	Branched-chain amino acid catabolism	23	5	6.98	5.15	6e-04	0.0081	8.76	2.52	24.7
+R-HSA-5682910	LGI-ADAM interactions	14	4	9.17	5.49	0.00072	0.0094	12.6	2.86	43.9
+R-HSA-450341	Activation of the AP-1 family of transcription factors	10	3	9.63	4.9	0.0031	0.037	13.4	2.23	59.2
+R-HSA-3928663	EPHA-mediated growth cone collapse	20	4	6.42	4.35	0.003	0.037	7.86	1.9	24.6
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	9	2.89	3.4	0.0039	0.044	3.14	1.38	6.3
+R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	118	10	2.72	3.37	0.0037	0.044	2.94	1.36	5.69
+R-HSA-1430728	Metabolism	1899	78	1.32	2.76	0.0045	0.049	1.44	1.1	1.88

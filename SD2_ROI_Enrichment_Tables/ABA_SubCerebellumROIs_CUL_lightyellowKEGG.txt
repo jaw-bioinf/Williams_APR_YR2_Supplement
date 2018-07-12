@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00190	Oxidative phosphorylation	133	8	5.47	5.49	9.4e-05	0.0024	6.34	2.57	13.6
+path:hsa05012	Parkinson's disease	142	8	5.13	5.24	0.00015	0.0024	5.91	2.4	12.7
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	8	4.89	5.06	0.00021	0.0024	5.61	2.28	12
+path:hsa05016	Huntington's disease	193	9	4.24	4.82	0.00024	0.0024	4.88	2.1	10.1
+path:hsa04145	Phagosome	151	7	4.22	4.22	0.0013	0.01	4.73	1.8	10.5
+path:hsa04140	Autophagy - animal	128	6	4.27	3.93	0.0027	0.015	4.73	1.65	11.1
+path:hsa05010	Alzheimer's disease	171	7	3.73	3.81	0.0026	0.015	4.14	1.58	9.21
+path:hsa04136	Autophagy - other	32	3	8.53	4.5	0.005	0.024	9.66	1.84	32.3
+path:hsa04723	Retrograde endocannabinoid signaling	148	6	3.69	3.49	0.0055	0.024	4.05	1.41	9.51

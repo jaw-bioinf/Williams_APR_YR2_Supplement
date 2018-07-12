@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04514	Cell adhesion molecules (CAMs)	143	3	6.64	3.84	0.0098	0.029	7.71	1.44	26.8
+path:hsa04015	Rap1 signaling pathway	210	3	4.52	2.92	0.027	0.033	5.16	0.967	17.9
+path:hsa04014	Ras signaling pathway	227	3	4.18	2.75	0.033	0.033	4.76	0.892	16.5

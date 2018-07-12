@@ -1,0 +1,16 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0411	4	9	1	0.111	0.25	CORUM:367	cor	6	Rag1-Rag2-Ku70-Ku80 protein-DNA complex	1	RAG1
+2	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:6696	cor	2	CPLANE complex	1	FUZ
+3	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:2569	cor	3	Slam-SAP-SHIP complex	1	INPP5D
+4	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:6278	cor	7	Cd22-Ship-Grb2-Shc complex	1	INPP5D
+5	1	TRUE	0.0357	2	9	1	0.111	0.5	CORUM:3201	cor	9	Ship-Shc complex, IL-3 stimulated	1	INPP5D
+6	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:6427	cor	12	Sufu-Mycbp-Gli1 complex	1	MYCBP
+7	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:3202	cor	14	Il3rb1-Shc-Ship complex, IL-3 stimulated	1	INPP5D
+8	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:14	cor	4	BLOC-2 (biogenesis of lysosome-related organelles complex 2)	1	HPS3
+9	1	TRUE	0.0357	2	9	1	0.111	0.5	CORUM:1937	cor	15	Olfr992-Rtp1 complex	1	RTP1
+10	1	TRUE	0.0357	2	9	1	0.111	0.5	CORUM:3114	cor	13	Itgax-Itgb2-Icam4 complex	1	ICAM4
+11	1	TRUE	0.0411	4	9	1	0.111	0.25	CORUM:6387	cor	11	Ship1-Hdac1-Hspa2-Kctd19 complex	1	INPP5D
+12	1	TRUE	0.0357	1	9	1	0.111	1	CORUM:6751	cor	5	Stx7-Unc13d-Vamp8 complex	1	UNC13D
+13	1	TRUE	0.0357	2	9	1	0.111	0.5	CORUM:366	cor	8	Rag1-Rag2 protein-DNA complex	1	RAG1
+14	1	TRUE	0.0357	3	9	1	0.111	0.333	CORUM:3203	cor	1	Shc-Ship-Grb2 complex, IL-3 stimulated	1	INPP5D
+15	1	TRUE	0.0357	2	9	1	0.111	0.5	CORUM:3563	cor	16	Fgf2-Rsk2 complex	1	RPS6KA3

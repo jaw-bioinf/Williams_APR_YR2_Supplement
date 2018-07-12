@@ -1,0 +1,7 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0011086 postnatal lethality, incomplete penetrance 786 21 2.75 5.09 1.4e-05 0.0099 3.35 1.94 5.57
+MP:0002082 postnatal lethality 1346 28 2.14 4.49 4.4e-05 0.015 2.7 1.65 4.3
+MP:0011110 preweaning lethality, incomplete penetrance 469 14 3.08 4.57 0.00015 0.035 3.54 1.83 6.36
+MP:0001523 impaired righting response 129 7 5.59 5.2 0.00024 0.042 6.26 2.39 13.9
+MP:0002058 neonatal lethality 979 21 2.21 3.97 0.00035 0.048 2.61 1.52 4.34
+MP:0005389 reproductive system phenotype 1944 33 1.75 3.68 0.00042 0.048 2.2 1.39 3.45

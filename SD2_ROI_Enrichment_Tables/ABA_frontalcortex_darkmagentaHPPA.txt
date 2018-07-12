@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0006504	Anomaly of the limb diaphyses	193	6	7.27	5.87	8.4e-05	0.012	11.8	3.41	37.4
+HP:0006487	Bowing of the long bones	193	6	7.27	5.87	8.4e-05	0.012	11.8	3.41	37.4
+HP:0000940	Abnormal diaphysis morphology	205	6	6.85	5.65	0.00012	0.012	11	3.2	35
+HP:0002979	Bowing of the legs	153	5	7.65	5.51	0.00031	0.023	11.3	2.99	36.8
+HP:0002970	Genu varum	39	3	18	6.99	0.00053	0.031	23.9	4.15	94.1
+HP:0002981	Abnormality of the calf	180	5	6.5	4.96	0.00066	0.033	9.47	2.51	30.8

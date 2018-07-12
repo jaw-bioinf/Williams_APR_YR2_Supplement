@@ -1,0 +1,16 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:3114	cor	3	Itgax-Itgb2-Icam4 complex	1	ITGAX
+2	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:6674	cor	15	Ank2-Kcnj11-Abcc9(splice variant 1) complex	1	KCNJ11
+3	1	TRUE	0.0239	4	4	1	0.25	0.25	CORUM:317	cor	6	Dystrobrevin-syntrophin complex, brain-derived	1	SNTA1
+4	1	TRUE	0.0194	3	4	1	0.25	0.333	CORUM:6240	cor	4	PMCA1-alpha-1-syntrophin-NOS-1 complex	1	SNTA1
+5	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:506	cor	16	Kir4.1-alpha-1-syntrophin complex	1	SNTA1
+6	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:6326	cor	10	Dystrophin complex (Dmd; Snta1)	1	SNTA1
+7	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:751	cor	11	Trpc1-dystrophin-alpha1-syntrophin complex	1	SNTA1
+8	1	TRUE	0.0156	1	4	1	0.25	1	CORUM:560	cor	13	Kir6.2-Sur1 complex	1	KCNJ11
+9	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:318	cor	5	Muscle-derived dystrobrevin-syntrophin complex	1	SNTA1
+10	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:503	cor	8	Kir4.1-alpha-1-syntrophin complex	1	SNTA1
+11	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:6672	cor	2	Ank2-Kcnj11-Abcc8 complex	1	KCNJ11
+12	1	TRUE	0.036	7	4	1	0.25	0.143	CORUM:349	cor	1	Sarcoglycan-sarcospan-syntrophin-dystrobrevin complex	1	SNTA1
+13	1	TRUE	0.0194	3	4	1	0.25	0.333	CORUM:6241	cor	14	PMCA4-alpha-1-syntrophin-NOS-1 complex	1	SNTA1
+14	1	TRUE	0.0156	2	4	1	0.25	0.5	CORUM:6662	cor	12	Kcnj8-Kcnj11-Abcc9(splice variant 2) complex	1	KCNJ11
+15	1	TRUE	0.0331	6	4	1	0.25	0.167	CORUM:337	cor	9	Dystrophin-sarcoglycan-syntrophin complex, skeletal muscle	1	SNTA1

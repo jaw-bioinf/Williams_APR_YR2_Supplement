@@ -1,0 +1,13 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0232	303	41	6	0.146	0.02	GO:0051098	BP	6	regulation of binding	1	EPHA4,DVL1,LARP6,CYLD,BTAF1,DISC1
+2	1	TRUE	0.0232	5	41	2	0.049	0.4	GO:0048207	BP	1	vesicle targeting, rough ER to cis-Golgi	1	KLHL12,PREB
+3	1	TRUE	0.0365	7	41	2	0.049	0.286	GO:0006901	BP	1	vesicle coating	1	KLHL12,PREB
+4	1	TRUE	0.0232	5	41	2	0.049	0.4	GO:0048208	BP	1	COPII vesicle coating	1	KLHL12,PREB
+5	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6555	cor	5	Dcdc2-Dvl1 complex	1	DVL1
+6	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6062	cor	8	DISC1-IMMT complex	1	DISC1
+7	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6762	cor	3	Vangl2-Dvl1 complex	1	DVL1
+8	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:4055	cor	4	Axin-Dvl-Gsk complex	1	DVL1
+9	1	TRUE	0.0073	3	2	1	0.5	0.333	CORUM:5815	cor	2	Axin1-Dvl1-Gsk3b-Frat1 complex	1	DVL1
+10	1	TRUE	0.0073	3	2	1	0.5	0.333	CORUM:4056	cor	11	Axin1-Dvl1-Gsk3b-Frat1 complex	1	DVL1
+11	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:6759	cor	9	Vangl1-Dvl1 complex	1	DVL1
+12	1	TRUE	0.00649	2	2	1	0.5	0.5	CORUM:501	cor	7	Ryk-Dvl1 complex	1	DVL1

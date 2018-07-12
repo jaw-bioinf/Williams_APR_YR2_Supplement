@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa00190	Oxidative phosphorylation	133	8	12.1	9.14	1.9e-07	1.2e-06	16.6	6.33	38.8
+path:hsa05012	Parkinson's disease	142	8	11.3	8.8	3.2e-07	1.2e-06	15.4	5.91	36.1
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	8	10.8	8.56	4.6e-07	1.2e-06	14.7	5.62	34.3
+path:hsa05010	Alzheimer's disease	171	8	9.42	7.88	1.3e-06	2.6e-06	12.6	4.85	29.5
+path:hsa05016	Huntington's disease	193	8	8.35	7.32	3.3e-06	5.2e-06	11.1	4.27	25.8
+path:hsa04260	Cardiac muscle contraction	78	4	10.3	5.85	0.00056	0.00074	12.2	3.03	35.9
+path:hsa04723	Retrograde endocannabinoid signaling	148	4	5.44	3.86	0.0059	0.0067	6.19	1.56	18
+path:hsa04144	Endocytosis	260	4	3.1	2.44	0.038	0.038	3.42	0.868	9.85

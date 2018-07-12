@@ -1,0 +1,10 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:2914 immune system disease 987 4 7.09 4.94 0.00039 0.0035 Inf 4.03 Inf
+DOID:0060056 hypersensitivity reaction disease 828 3 6.34 3.91 0.006 0.025 22.4 1.8 1170
+DOID:0050828 artery disease 931 3 5.64 3.64 0.0084 0.025 19.6 1.57 1020
+DOID:178 vascular disease 1088 3 4.83 3.28 0.013 0.027 16.3 1.31 854
+DOID:1240 leukemia 1133 3 4.63 3.19 0.015 0.027 15.6 1.25 814
+DOID:1287 cardiovascular system disease 1292 3 4.06 2.92 0.022 0.028 13.3 1.07 695
+DOID:2531 hematologic cancer 1344 3 3.91 2.83 0.024 0.028 12.6 1.01 662
+DOID:0060083 immune system cancer 1356 3 3.87 2.82 0.025 0.028 12.5 1 654
+DOID:225 syndrome 1726 3 3.04 2.34 0.049 0.049 9.18 0.736 481

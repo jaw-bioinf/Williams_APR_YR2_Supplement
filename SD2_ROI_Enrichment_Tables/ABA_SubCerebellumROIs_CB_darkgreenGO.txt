@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:718	cor	5	TRPV5-S100A10-annexin 2 complex	1	S100A10
+2	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:991	cor	3	Tubulin polyglutamylase complex	1	TTLL1
+3	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:5308	cor	7	Rb-NeuroD1-Ngfi-B complex	1	NEUROD1
+4	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:6383	cor	6	Nphp1-Ptk2b-Bcar1-tensin complex	1	BCAR1
+5	1	TRUE	0.0395	2	9	1	0.111	0.5	CORUM:1135	cor	10	Mss4-Itga3 complex	1	RABIF
+6	1	TRUE	0.0395	1	9	1	0.111	1	CORUM:1136	cor	8	Mss4-Itga7 complex	1	RABIF
+7	1	TRUE	0.0395	2	9	1	0.111	0.5	CORUM:719	cor	9	S100A10-annexin 2 complex	1	S100A10
+8	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:106	cor	1	Srf-myogenin-E12 complex	1	MYOG
+9	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:296	cor	4	Pcna-Msh2-Msh6 complex	1	PCNA
+10	1	TRUE	0.0395	2	9	1	0.111	0.5	CORUM:295	cor	2	PCNA-DNA ligase complex	1	PCNA
+11	1	TRUE	0.0395	3	9	1	0.111	0.333	CORUM:5439	cor	11	Eya1/3-Dach1/2-Six1 complex	1	DACH1

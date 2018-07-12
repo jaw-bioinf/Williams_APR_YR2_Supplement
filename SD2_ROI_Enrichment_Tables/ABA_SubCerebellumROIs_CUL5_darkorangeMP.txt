@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000606	decreased hepatocyte number	17	3	30.9	9.35	0.00011	0.043	39.3	7.04	147
+MP:0008022	dilated heart ventricle	157	6	6.69	5.45	0.00025	0.049	7.67	2.64	18.4

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0003165	Elevated circulating parathyroid hormone level	11	3	31.9	9.53	8.9e-05	0.023	47.8	7.75	214
+HP:0000759	Abnormal peripheral nervous system morphology	660	15	2.66	4.39	1e-04	0.023	4.39	1.99	9.7

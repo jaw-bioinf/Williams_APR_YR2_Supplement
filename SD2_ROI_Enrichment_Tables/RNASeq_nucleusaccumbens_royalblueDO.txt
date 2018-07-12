@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+DOID:4972 myelodysplastic/myeloproliferative neoplasm 19 3 22.1 7.81 0.00031 0.017 27.6 4.99 101
+DOID:0050458 juvenile myelomonocytic leukemia 19 3 22.1 7.81 0.00031 0.017 27.6 4.99 101
+DOID:630 genetic disease 745 14 2.63 3.99 0.00051 0.019 3.31 1.64 6.32

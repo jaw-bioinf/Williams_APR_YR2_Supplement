@@ -1,0 +1,63 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0001516 abnormal motor coordination/ balance 833 72 1.99 6.38 6.8e-09 9.9e-06 2.32 1.75 3.04
+MP:0003633 abnormal nervous system physiology 1903 130 1.57 5.97 1e-08 9.9e-06 1.91 1.53 2.38
+MP:0003635 abnormal synaptic transmission 740 63 1.96 5.8 1.2e-07 8e-05 2.24 1.67 2.98
+MP:0003312 abnormal locomotor coordination 672 58 1.99 5.66 2.7e-07 8.9e-05 2.26 1.66 3.03
+MP:0001392 abnormal locomotor behavior 1537 106 1.59 5.38 2.7e-07 8.9e-05 1.86 1.46 2.34
+MP:0002152 abnormal brain morphology 1633 111 1.57 5.36 2.7e-07 8.9e-05 1.84 1.45 2.31
+MP:0003492 abnormal involuntary movement 942 73 1.78 5.41 4.7e-07 0.00011 2.04 1.54 2.66
+MP:0003491 abnormal voluntary movement 1648 111 1.55 5.25 4.4e-07 0.00011 1.81 1.44 2.28
+MP:0001405 impaired coordination 454 43 2.18 5.5 9.8e-07 0.00021 2.46 1.72 3.44
+MP:0002206 abnormal CNS synaptic transmission 653 55 1.94 5.3 1.2e-06 0.00024 2.19 1.6 2.95
+MP:0001393 ataxia 320 33 2.37 5.33 3.1e-06 0.00055 2.67 1.78 3.9
+MP:0002882 abnormal neuron morphology 1515 100 1.52 4.71 5.2e-06 0.00084 1.74 1.36 2.2
+MP:0003313 abnormal locomotor activation 1152 80 1.6 4.63 9.6e-06 0.0014 1.8 1.38 2.33
+MP:0001961 abnormal reflex 767 58 1.74 4.57 1.8e-05 0.0025 1.94 1.42 2.59
+MP:0004859 abnormal synaptic plasticity 67 12 4.12 5.47 2.6e-05 0.0034 4.92 2.38 9.4
+MP:0002183 gliosis 206 23 2.57 4.86 2.9e-05 0.0035 2.87 1.76 4.51
+MP:0002063 abnormal learning/memory/conditioning 664 51 1.77 4.38 4.1e-05 0.0046 1.95 1.41 2.66
+MP:0014114 abnormal cognition 665 51 1.77 4.37 4.2e-05 0.0046 1.95 1.41 2.65
+MP:0002062 abnormal associative learning 290 28 2.22 4.51 5.9e-05 0.006 2.45 1.58 3.69
+MP:0009538 abnormal synapse morphology 189 21 2.56 4.61 6.9e-05 0.0067 2.85 1.7 4.56
+MP:0008540 abnormal cerebral hemisphere morphology 609 47 1.78 4.23 7.4e-05 0.0069 1.95 1.39 2.69
+MP:0002067 abnormal sensory capabilities/reflexes/nociception 936 65 1.6 4.12 7.8e-05 0.0069 1.77 1.32 2.33
+MP:0000745 tremors 313 29 2.13 4.35 9.2e-05 0.0074 2.35 1.52 3.5
+MP:0004811 abnormal neuron physiology 667 50 1.73 4.15 9.1e-05 0.0074 1.9 1.37 2.59
+MP:0002572 abnormal emotion/affect behavior 619 47 1.75 4.11 0.00011 0.0086 1.92 1.37 2.64
+MP:0003997 tonic-clonic seizures 78 12 3.54 4.8 0.00012 0.0092 4.1 2 7.72
+MP:0012348 decreased susceptibility to induction of seizure by inducing agent 28 7 5.76 5.37 0.00015 0.0094 7.45 2.66 18.3
+MP:0002887 decreased susceptibility to pharmacologically induced seizures 28 7 5.76 5.37 0.00015 0.0094 7.45 2.66 18.3
+MP:0001447 abnormal nest building behavior 37 8 4.98 5.17 0.00015 0.0094 6.18 2.42 14
+MP:0001486 abnormal startle reflex 259 25 2.22 4.25 0.00015 0.0094 2.44 1.53 3.75
+MP:0000787 abnormal telencephalon morphology 808 57 1.62 3.96 0.00015 0.0094 1.78 1.31 2.39
+MP:0000538 abnormal urinary bladder morphology 80 12 3.45 4.7 0.00016 0.0095 3.97 1.94 7.48
+MP:0003088 abnormal prepulse inhibition 186 20 2.48 4.33 0.00016 0.0095 2.74 1.61 4.43
+MP:0009142 decreased prepulse inhibition 133 16 2.77 4.38 2e-04 0.011 3.09 1.7 5.3
+MP:0002081 perinatal lethality 1327 83 1.44 3.69 0.00027 0.015 1.59 1.23 2.05
+MP:0002920 decreased paired-pulse facilitation 31 7 5.2 4.99 0.00029 0.016 6.52 2.36 15.7
+MP:0002065 abnormal fear/anxiety-related behavior 369 31 1.93 3.9 0.00031 0.016 2.1 1.39 3.1
+MP:0002918 abnormal paired-pulse facilitation 75 11 3.38 4.4 0.00036 0.018 3.86 1.82 7.46
+MP:0001454 abnormal cued conditioning behavior 115 14 2.8 4.15 0.00044 0.02 3.13 1.64 5.56
+MP:0001513 limb grasping 246 23 2.15 3.9 0.00043 0.02 2.35 1.44 3.67
+MP:0012322 decreased total tissue mass 1833 107 1.34 3.5 0.00043 0.02 1.5 1.18 1.89
+MP:0001262 decreased body weight 1833 107 1.34 3.5 0.00043 0.02 1.5 1.18 1.89
+MP:0001469 abnormal contextual conditioning behavior 144 16 2.56 4.02 5e-04 0.022 2.83 1.55 4.83
+MP:0001468 abnormal temporal memory 173 18 2.4 3.95 0.00051 0.022 2.63 1.5 4.35
+MP:0000947 convulsive seizures 175 18 2.37 3.89 0.00058 0.025 2.6 1.48 4.29
+MP:0009357 abnormal seizure response to inducing agent 190 19 2.3 3.87 0.00059 0.025 2.52 1.46 4.11
+MP:0002797 increased thigmotaxis 68 10 3.39 4.21 0.00065 0.027 3.87 1.75 7.71
+MP:0000783 abnormal forebrain morphology 1011 65 1.48 3.45 0.00069 0.028 1.61 1.21 2.13
+MP:0003354 astrocytosis 121 14 2.66 3.93 0.00074 0.029 2.95 1.55 5.23
+MP:0008415 abnormal neurite morphology 423 33 1.8 3.57 0.00076 0.029 1.94 1.3 2.82
+MP:0012065 increased astrocyte number 123 14 2.62 3.86 0.00087 0.032 2.89 1.52 5.13
+MP:0003634 abnormal glial cell morphology 409 32 1.8 3.53 0.00087 0.032 1.94 1.29 2.84
+MP:0009456 impaired cued conditioning behavior 48 8 3.84 4.2 0.00097 0.035 4.47 1.8 9.77
+MP:0004994 abnormal brain wave pattern 72 10 3.2 3.99 0.001 0.037 3.62 1.64 7.17
+MP:0012064 abnormal astrocyte number 126 14 2.56 3.75 0.0011 0.039 2.82 1.48 4.98
+MP:0001362 abnormal anxiety-related response 332 27 1.87 3.45 0.0012 0.042 2.02 1.29 3.04
+MP:0002064 seizures 383 30 1.8 3.42 0.0012 0.042 1.94 1.27 2.87
+MP:0001463 abnormal spatial learning 234 21 2.07 3.52 0.0013 0.043 2.24 1.34 3.56
+MP:0002915 abnormal synaptic depression 129 14 2.5 3.65 0.0014 0.044 2.74 1.44 4.84
+MP:0000780 abnormal corpus callosum morphology 143 15 2.42 3.63 0.0013 0.044 2.64 1.42 4.58
+MP:0001718 abnormal visceral yolk sac morphology 219 20 2.1 3.52 0.0013 0.044 2.28 1.35 3.66
+MP:0008428 abnormal spatial working memory 76 10 3.03 3.79 0.0016 0.049 3.4 1.54 6.71

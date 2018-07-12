@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0005641	increased mean corpuscular hemoglobin concentration	37	3	53.7	12.5	2.1e-05	0.0026	73.7	12.6	295
+MP:0005640	abnormal mean corpuscular hemoglobin concentration	84	3	23.7	8.11	0.00024	0.015	30.9	5.43	119
+MP:0005090	increased double-negative T cell number	117	3	17	6.77	0.00064	0.021	21.8	3.86	84.3
+MP:0002413	abnormal megakaryocyte progenitor cell morphology	119	3	16.7	6.7	0.00068	0.021	21.5	3.8	82.7
+MP:0000240	extramedullary hematopoiesis	167	3	11.9	5.53	0.0018	0.04	15.1	2.68	57.9
+MP:0002407	abnormal double-negative T cell morphology	181	3	11	5.27	0.0023	0.04	13.9	2.47	53.2
+MP:0011091	prenatal lethality, complete penetrance	390	4	6.8	4.55	0.0022	0.04	9.2	2.1	32
+MP:0005018	decreased T cell number	707	5	4.69	3.97	0.0028	0.044	6.77	1.78	22.6

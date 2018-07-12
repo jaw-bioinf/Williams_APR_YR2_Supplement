@@ -1,0 +1,6 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112315 Transmission across Chemical Synapses 224 12 5.36 6.63 2.2e-06 0.00015 6.24 3.06 11.7
+R-HSA-112316 Neuronal System 356 14 3.94 5.67 1.1e-05 0.00037 4.55 2.37 8.17
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 9 5.85 6.09 2.2e-05 5e-04 6.66 2.89 13.6
+R-HSA-977441 GABA A receptor activation 13 3 23.1 8.01 0.00026 0.0044 30.6 5.32 121
+R-HSA-977443 GABA receptor activation 55 4 7.28 4.69 0.0022 0.029 8.05 2.07 22.6

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6809371	Formation of the cornified envelope	128	8	32.9	15.9	3.8e-11	1.9e-10	59.7	20.5	167
+R-HSA-6805567	Keratinization	212	9	22.4	13.7	5.6e-11	1.9e-10	43.3	15.4	120
+R-HSA-1266738	Developmental Biology	659	9	7.2	7.18	1.1e-06	2.6e-06	12.9	4.63	35.5

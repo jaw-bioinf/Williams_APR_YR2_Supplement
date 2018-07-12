@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0013501	increased fibroblast apoptosis	48	5	11	6.79	8.5e-05	0.018	12.8	3.86	33.4
+MP:0013500	abnormal fibroblast apoptosis	69	6	9.17	6.66	4.5e-05	0.018	10.6	3.64	25.4
+MP:0009106	abnormal pancreas size	71	6	8.91	6.55	5.4e-05	0.018	10.3	3.53	24.5
+MP:0000350	abnormal cell proliferation	966	22	2.4	4.5	7e-05	0.018	2.91	1.7	4.81
+MP:0011198	absent proamniotic cavity	11	3	28.8	9.01	0.00013	0.021	40.4	6.79	173
+MP:0000313	abnormal cell death	1427	27	2	4	0.00021	0.029	2.46	1.5	3.95
+MP:0001648	abnormal apoptosis	1280	25	2.06	3.99	0.00024	0.029	2.51	1.51	4.06

@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001344	Absent speech	148	7	7.22	6.28	2.9e-05	0.0062	10.4	3.55	27.2
+HP:0002197	Generalized seizures	155	7	6.89	6.09	3.9e-05	0.0062	9.85	3.37	25.8
+HP:0002465	Poor speech	122	6	7.51	5.94	9.7e-05	0.0078	10.2	3.24	27.8
+HP:0002167	Neurological speech impairment	785	14	2.72	4.45	7.4e-05	0.0078	5.48	2.2	14.4
+HP:0002079	Hypoplasia of the corpus callosum	287	8	4.25	4.67	3e-04	0.014	6.13	2.23	15.5
+HP:0001250	Seizures	1138	16	2.15	3.82	0.00028	0.014	4.82	1.87	13.9
+HP:0003808	Abnormal muscle tone	1269	17	2.04	3.78	0.00025	0.014	5.06	1.9	15.7
+HP:0002069	Generalized tonic-clonic seizures	100	5	7.63	5.46	0.00038	0.015	9.9	2.81	28.4
+HP:0001276	Hypertonia	626	11	2.68	3.77	9e-04	0.031	4.28	1.7	10.6
+HP:0011804	Abnormality of muscle physiology	1558	18	1.76	3.28	0.00097	0.031	4.55	1.62	15.7
+HP:0004305	Involuntary movements	664	11	2.53	3.55	0.0015	0.038	3.98	1.58	9.89
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	897	13	2.21	3.42	0.0015	0.038	3.83	1.54	9.78
+HP:0100022	Abnormality of movement	1159	15	1.98	3.29	0.0015	0.038	3.84	1.52	10.5
+HP:0002510	Spastic tetraplegia	87	4	7.02	4.61	0.0022	0.04	8.62	2.09	26.7
+HP:0001337	Tremor	377	8	3.24	3.74	0.0019	0.04	4.5	1.64	11.4
+HP:0002493	Upper motor neuron dysfunction	918	13	2.16	3.32	0.0019	0.04	3.71	1.5	9.48
+HP:0001252	Muscular hypotonia	1058	14	2.02	3.22	0.0021	0.04	3.64	1.46	9.56
+HP:0000496	Abnormality of eye movement	1200	15	1.91	3.15	0.0023	0.04	3.64	1.44	9.95
+HP:0002384	Focal seizures with impairment of consciousness or awareness	44	3	10.4	5.1	0.0027	0.042	12.6	2.3	44.9
+HP:0002375	Hypokinesia	45	3	10.2	5.03	0.0029	0.042	12.3	2.25	43.8
+HP:0001257	Spasticity	491	9	2.8	3.49	0.0025	0.042	4.01	1.52	10
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	495	9	2.77	3.46	0.0027	0.042	3.97	1.51	9.9
+HP:0001273	Abnormality of the corpus callosum	503	9	2.73	3.41	0.003	0.042	3.89	1.48	9.72
+HP:0040195	Decreased head circumference	731	11	2.3	3.2	0.0034	0.042	3.52	1.4	8.76
+HP:0000252	Microcephaly	731	11	2.3	3.2	0.0034	0.042	3.52	1.4	8.76
+HP:0011442	Abnormality of central motor function	1241	15	1.84	3	0.0033	0.042	3.46	1.37	9.44

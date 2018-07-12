@@ -1,0 +1,205 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002451	abnormal macrophage physiology	427	30	3.36	7.3	4e-09	2.7e-06	4	2.58	6.02
+MP:0002419	abnormal innate immunity	616	37	2.87	7.03	3.8e-09	2.7e-06	3.46	2.33	5.04
+MP:0002420	abnormal adaptive immunity	1459	62	2.03	6.28	9.8e-09	4.4e-06	2.58	1.87	3.54
+MP:0002421	abnormal cell-mediated immunity	1439	61	2.03	6.2	1.5e-08	5.1e-06	2.56	1.85	3.52
+MP:0001819	abnormal immune cell physiology	1428	60	2.01	6.06	2.9e-08	7.4e-06	2.53	1.82	3.47
+MP:0001545	abnormal hematopoietic system physiology	1616	65	1.92	5.97	3.3e-08	7.4e-06	2.45	1.78	3.34
+MP:0012382	abnormal blood cell physiology	1515	62	1.96	5.95	4.2e-08	8.1e-06	2.47	1.78	3.38
+MP:0001657	abnormal induced morbidity/mortality	590	34	2.76	6.44	5e-08	8.5e-06	3.26	2.16	4.8
+MP:0005025	abnormal response to infection	572	33	2.76	6.35	8e-08	1.2e-05	3.25	2.14	4.8
+MP:0002442	abnormal leukocyte physiology	1401	58	1.98	5.82	9.4e-08	1.3e-05	2.46	1.77	3.39
+MP:0001845	abnormal inflammatory response	1235	53	2.05	5.81	1.3e-07	1.6e-05	2.51	1.79	3.49
+MP:0002452	abnormal professional antigen presenting cell physiology	967	45	2.23	5.88	1.6e-07	1.8e-05	2.67	1.86	3.78
+MP:0001793	altered susceptibility to infection	534	31	2.78	6.18	1.8e-07	1.9e-05	3.24	2.11	4.84
+MP:0002498	abnormal acute inflammation	328	23	3.35	6.34	3.2e-07	3.1e-05	3.87	2.35	6.11
+MP:0009785	altered susceptibility to infection induced morbidity/mortality	170	16	4.5	6.73	4.8e-07	4.3e-05	5.21	2.84	8.97
+MP:0008247	abnormal mononuclear cell morphology	1680	63	1.79	5.25	8.1e-07	6.8e-05	2.22	1.61	3.04
+MP:0009763	increased sensitivity to induced morbidity/mortality	350	23	3.14	5.97	1e-06	8.1e-05	3.6	2.19	5.68
+MP:0009787	increased susceptibility to infection induced morbidity/mortality	123	13	5.06	6.62	1.6e-06	0.00012	5.86	2.97	10.7
+MP:0002148	abnormal hypersensitivity reaction	170	15	4.22	6.19	2.5e-06	0.00016	4.83	2.58	8.42
+MP:0002723	abnormal immune serum protein physiology	1067	45	2.02	5.16	2.5e-06	0.00016	2.38	1.66	3.37
+MP:0011182	decreased hematopoietic cell number	1508	57	1.81	5.01	2.7e-06	0.00016	2.19	1.57	3.02
+MP:0008246	abnormal leukocyte morphology	1929	68	1.69	4.95	2.4e-06	0.00016	2.09	1.53	2.85
+MP:0011180	abnormal hematopoietic cell number	1969	69	1.68	4.94	2.4e-06	0.00016	2.09	1.53	2.84
+MP:0005502	abnormal renal/urinary system physiology	708	34	2.3	5.25	3.5e-06	0.00018	2.65	1.76	3.9
+MP:0002619	abnormal lymphocyte morphology	1368	53	1.85	4.99	3.3e-06	0.00018	2.22	1.58	3.08
+MP:0000716	abnormal immune system cell morphology	1949	68	1.67	4.85	3.5e-06	0.00018	2.07	1.51	2.81
+MP:0000217	abnormal leukocyte cell number	1718	62	1.73	4.87	3.9e-06	2e-04	2.11	1.52	2.88
+MP:0000717	abnormal lymphocyte cell number	1270	50	1.88	4.95	4.4e-06	0.00021	2.24	1.58	3.13
+MP:0008668	abnormal interleukin-12b secretion	34	7	9.85	7.55	5.2e-06	0.00023	12.5	4.55	30
+MP:0005058	abnormal lysosome morphology	47	8	8.14	7.17	4.9e-06	0.00023	9.97	3.97	22
+MP:0020186	altered susceptibility to bacterial infection	331	21	3.03	5.51	5.4e-06	0.00023	3.44	2.04	5.51
+MP:0002406	increased susceptibility to infection	443	25	2.7	5.36	5.3e-06	0.00023	3.07	1.91	4.75
+MP:0003009	abnormal cytokine secretion	661	32	2.32	5.13	6.1e-06	0.00025	2.66	1.74	3.94
+MP:0009643	abnormal urine homeostasis	461	25	2.59	5.13	1.1e-05	0.00042	2.93	1.83	4.54
+MP:0020184	altered susceptibility to parasitic infection	127	12	4.52	5.84	1.3e-05	0.00051	5.14	2.53	9.55
+MP:0001876	decreased inflammatory response	273	18	3.15	5.28	1.6e-05	0.00059	3.54	2.02	5.87
+MP:0002409	decreased susceptibility to infection	180	14	3.72	5.39	2.3e-05	0.00086	4.18	2.19	7.39
+MP:0011518	abnormal cell chemotaxis	135	12	4.25	5.56	2.4e-05	0.00087	4.8	2.37	8.9
+MP:0001798	impaired macrophage phagocytosis	59	8	6.49	6.18	2.8e-05	0.00098	7.62	3.08	16.5
+MP:0020148	abnormal sensitivity to induced morbidity/mortality	461	24	2.49	4.8	3.2e-05	0.0011	2.79	1.72	4.35
+MP:0002628	hepatic steatosis	237	16	3.23	5.08	3.5e-05	0.0012	3.6	1.98	6.15
+MP:0008670	decreased interleukin-12b secretion	20	5	12	7.17	4.6e-05	0.0014	16	4.5	46.9
+MP:0002411	decreased susceptibility to bacterial infection	100	10	4.78	5.56	4.3e-05	0.0014	5.43	2.48	10.7
+MP:0005370	liver/biliary system phenotype	1230	46	1.79	4.34	4.5e-05	0.0014	2.07	1.45	2.92
+MP:0001847	brain inflammation	33	6	8.7	6.47	5.3e-05	0.0016	10.7	3.57	26.9
+MP:0000598	abnormal liver morphology	1018	40	1.88	4.35	5.4e-05	0.0016	2.15	1.47	3.09
+MP:0008469	abnormal protein level	1092	42	1.84	4.32	5.6e-05	0.0016	2.11	1.46	3.01
+MP:0005087	decreased acute inflammation	196	14	3.42	5	6e-05	0.0017	3.8	2	6.71
+MP:0001846	increased inflammatory response	1058	41	1.85	4.31	5.9e-05	0.0017	2.13	1.46	3.04
+MP:0003075	altered response to CNS ischemic injury	87	9	4.95	5.41	8e-05	0.0022	5.62	2.44	11.4
+MP:0002446	abnormal macrophage morphology	461	23	2.39	4.46	9e-05	0.0024	2.66	1.62	4.17
+MP:0002462	abnormal granulocyte physiology	260	16	2.94	4.64	0.00011	0.0028	3.26	1.79	5.54
+MP:0006082	CNS inflammation	56	7	5.98	5.46	0.00015	0.0037	6.9	2.6	15.6
+MP:0002531	abnormal type I hypersensitivity reaction	74	8	5.17	5.26	0.00015	0.0037	5.87	2.4	12.5
+MP:0008713	abnormal cytokine level	415	21	2.42	4.33	0.00015	0.0037	2.68	1.6	4.28
+MP:0002138	abnormal hepatobiliary system morphology	1104	41	1.78	4.02	0.00015	0.0037	2.02	1.39	2.89
+MP:0008251	abnormal phagocyte morphology	816	33	1.93	4.08	0.00016	0.0038	2.17	1.44	3.2
+MP:0002460	decreased immunoglobulin level	330	18	2.61	4.35	0.00018	0.0043	2.88	1.64	4.75
+MP:0003156	abnormal leukocyte migration	168	12	3.42	4.62	2e-04	0.0046	3.77	1.87	6.94
+MP:0005016	decreased lymphocyte cell number	1006	38	1.81	3.96	2e-04	0.0046	2.04	1.38	2.95
+MP:0008835	abnormal intercellular signaling peptide or protein level	426	21	2.36	4.19	0.00022	0.0048	2.6	1.55	4.16
+MP:0000221	decreased leukocyte cell number	1275	45	1.69	3.87	0.00022	0.0048	1.93	1.34	2.72
+MP:0008719	impaired neutrophil recruitment	60	7	5.58	5.2	0.00024	0.0049	6.38	2.41	14.3
+MP:0005027	increased susceptibility to parasitic infection	100	9	4.3	4.86	0.00023	0.0049	4.81	2.1	9.73
+MP:0008568	abnormal interleukin secretion	492	23	2.24	4.12	0.00024	0.0049	2.47	1.51	3.88
+MP:0009788	increased susceptibility to bacterial infection induced morbidity/mortality	80	8	4.78	4.97	0.00025	0.0052	5.38	2.21	11.4
+MP:0002722	abnormal immune system organ morphology	1323	46	1.66	3.81	0.00026	0.0053	1.9	1.33	2.68
+MP:0000607	abnormal hepatocyte morphology	174	12	3.3	4.47	0.00028	0.0056	3.63	1.8	6.67
+MP:0008250	abnormal myeloid leukocyte morphology	950	36	1.81	3.86	0.00028	0.0056	2.04	1.37	2.96
+MP:0002463	abnormal neutrophil physiology	177	12	3.24	4.4	0.00033	0.0063	3.56	1.77	6.55
+MP:0001805	decreased IgG level	258	15	2.78	4.24	0.00033	0.0063	3.05	1.65	5.26
+MP:0005281	increased fatty acid level	130	10	3.68	4.5	0.00038	0.0069	4.06	1.87	7.9
+MP:0008556	abnormal tumor necrosis factor secretion	233	14	2.87	4.23	0.00037	0.0069	3.15	1.66	5.53
+MP:0002412	increased susceptibility to bacterial infection	261	15	2.75	4.19	0.00037	0.0069	3.01	1.63	5.2
+MP:0005367	renal/urinary system phenotype	1190	42	1.69	3.71	0.00038	0.0069	1.91	1.32	2.72
+MP:0008987	abnormal liver lobule morphology	208	13	2.99	4.24	0.00041	0.0074	3.27	1.68	5.87
+MP:0005584	abnormal enzyme/coenzyme activity	236	14	2.84	4.18	0.00042	0.0074	3.1	1.64	5.46
+MP:0000604	amyloidosis	66	7	5.07	4.85	0.00043	0.0075	5.72	2.18	12.8
+MP:0002339	abnormal lymph node morphology	392	19	2.32	3.9	0.00054	0.0093	2.54	1.47	4.14
+MP:0008986	abnormal liver parenchyma morphology	220	13	2.83	4.01	7e-04	0.011	3.08	1.58	5.52
+MP:0002444	abnormal T cell physiology	665	27	1.94	3.68	0.00064	0.011	2.14	1.36	3.26
+MP:0003945	abnormal lymphocyte physiology	1033	37	1.71	3.55	0.00069	0.011	1.91	1.29	2.77
+MP:0013658	abnormal myeloid cell morphology	1702	54	1.52	3.45	0.00068	0.011	1.74	1.24	2.41
+MP:0008552	abnormal circulating tumor necrosis factor level	142	10	3.37	4.16	0.00077	0.012	3.69	1.7	7.15
+MP:0001554	increased circulating free fatty acid level	95	8	4.03	4.33	0.00081	0.013	4.45	1.83	9.34
+MP:0008560	increased tumor necrosis factor secretion	119	9	3.62	4.2	0.00085	0.013	3.97	1.74	7.98
+MP:0020174	abnormal IgG level	407	19	2.23	3.72	0.00085	0.013	2.43	1.42	3.97
+MP:0008464	absent peripheral lymph nodes	10	3	14.3	6.17	0.00097	0.014	20.3	3.37	89.9
+MP:0010639	altered tumor pathology	284	15	2.53	3.82	0.00089	0.014	2.75	1.48	4.73
+MP:0000521	abnormal kidney cortex morphology	378	18	2.28	3.71	0.00093	0.014	2.48	1.42	4.09
+MP:0008872	abnormal physiological response to xenobiotic	611	25	1.96	3.58	0.00092	0.014	2.15	1.34	3.31
+MP:0012762	abnormal alpha-beta T cell morphology	753	29	1.84	3.52	0.00093	0.014	2.03	1.31	3.05
+MP:0005416	abnormal circulating protein level	976	35	1.72	3.45	0.00096	0.014	1.91	1.27	2.78
+MP:0008463	abnormal peripheral lymph node morphology	56	6	5.12	4.52	0.0011	0.015	5.76	1.99	13.7
+MP:0008555	abnormal interferon secretion	320	16	2.39	3.7	0.0011	0.015	2.6	1.43	4.4
+MP:0005164	abnormal response to injury	546	23	2.01	3.57	0.001	0.015	2.2	1.35	3.45
+MP:0008037	abnormal T cell morphology	980	35	1.71	3.43	0.001	0.015	1.9	1.27	2.77
+MP:0003691	abnormal microglial cell physiology	57	6	5.03	4.46	0.0012	0.016	5.65	1.96	13.4
+MP:0008597	decreased circulating interleukin-6 level	57	6	5.03	4.46	0.0012	0.016	5.65	1.96	13.4
+MP:0008680	abnormal interleukin-17 secretion	78	7	4.29	4.27	0.0012	0.016	4.75	1.82	10.5
+MP:0008551	abnormal circulating interferon-gamma level	78	7	4.29	4.27	0.0012	0.016	4.75	1.82	10.5
+MP:0020175	abnormal IgG1 level	232	13	2.68	3.79	0.0011	0.016	2.91	1.49	5.2
+MP:0008200	decreased follicular dendritic cell number	11	3	13	5.84	0.0013	0.017	17.8	3.02	74.9
+MP:0005280	abnormal fatty acid level	265	14	2.53	3.68	0.0013	0.017	2.74	1.45	4.8
+MP:0002221	abnormal lymph organ size	993	35	1.69	3.34	0.0013	0.017	1.87	1.25	2.73
+MP:0001656	focal hepatic necrosis	24	4	7.97	5	0.0014	0.018	9.53	2.35	28.9
+MP:0010762	abnormal microglial cell activation	24	4	7.97	5	0.0014	0.018	9.53	2.35	28.9
+MP:0000876	Purkinje cell degeneration	81	7	4.13	4.14	0.0015	0.018	4.56	1.75	10.1
+MP:0005078	abnormal cytotoxic T cell physiology	81	7	4.13	4.14	0.0015	0.018	4.56	1.75	10.1
+MP:0002359	abnormal spleen germinal center morphology	129	9	3.34	3.91	0.0015	0.018	3.63	1.6	7.28
+MP:0002118	abnormal lipid homeostasis	1155	39	1.62	3.26	0.0015	0.018	1.8	1.22	2.58
+MP:0002551	abnormal blood coagulation	270	14	2.48	3.61	0.0016	0.019	2.68	1.42	4.7
+MP:0005018	decreased T cell number	707	27	1.83	3.34	0.0016	0.019	2	1.27	3.04
+MP:0006323	abnormal extraembryonic mesoderm development	12	3	12	5.55	0.0017	0.02	15.8	2.73	64
+MP:0008196	abnormal follicular dendritic cell morphology	12	3	12	5.55	0.0017	0.02	15.8	2.73	64
+MP:0009586	increased platelet aggregation	12	3	12	5.55	0.0017	0.02	15.8	2.73	64
+MP:0000733	abnormal muscle development	107	8	3.58	3.92	0.0018	0.02	3.9	1.62	8.15
+MP:0008472	abnormal spleen secondary B follicle morphology	132	9	3.26	3.82	0.0018	0.02	3.54	1.56	7.1
+MP:0008752	abnormal tumor necrosis factor level	185	11	2.84	3.7	0.0017	0.02	3.08	1.48	5.78
+MP:0009676	abnormal hemostasis	272	14	2.46	3.58	0.0017	0.02	2.66	1.41	4.66
+MP:0002459	abnormal B cell physiology	638	25	1.87	3.34	0.0017	0.02	2.04	1.28	3.15
+MP:0008588	abnormal circulating interleukin level	245	13	2.54	3.56	0.0019	0.021	2.74	1.41	4.9
+MP:0008248	abnormal mononuclear phagocyte morphology	644	25	1.86	3.29	0.0019	0.021	2.02	1.26	3.12
+MP:0005616	decreased susceptibility to type IV hypersensitivity reaction	64	6	4.48	4.09	0.0021	0.023	4.97	1.73	11.7
+MP:0008559	abnormal interferon-gamma secretion	280	14	2.39	3.45	0.0022	0.024	2.58	1.36	4.52
+MP:0001284	absent vibrissae	45	5	5.31	4.24	0.0024	0.025	5.98	1.82	15.4
+MP:0008883	abnormal enterocyte proliferation	45	5	5.31	4.24	0.0024	0.025	5.98	1.82	15.4
+MP:0006387	abnormal T cell number	911	32	1.68	3.16	0.0023	0.025	1.84	1.21	2.73
+MP:0002376	abnormal dendritic cell physiology	166	10	2.88	3.57	0.0025	0.026	3.11	1.44	6
+MP:0004392	abnormal CD8-positive, alpha-beta T cell physiology	114	8	3.36	3.7	0.0026	0.027	3.64	1.51	7.59
+MP:0008751	abnormal interleukin level	286	14	2.34	3.37	0.0027	0.027	2.52	1.33	4.41
+MP:0010210	abnormal circulating cytokine level	317	15	2.26	3.34	0.0026	0.027	2.44	1.32	4.19
+MP:0003977	abnormal circulating carnitine level	14	3	10.2	5.06	0.0028	0.028	12.9	2.3	49.6
+MP:0002334	abnormal airway responsiveness	47	5	5.09	4.11	0.0029	0.028	5.69	1.74	14.6
+MP:0000343	altered response to myocardial infarction	91	7	3.68	3.75	0.0029	0.028	4.01	1.54	8.79
+MP:0002827	abnormal renal corpuscle morphology	350	16	2.19	3.31	0.0027	0.028	2.35	1.3	3.99
+MP:0002490	abnormal immunoglobulin level	519	21	1.94	3.2	0.0027	0.028	2.09	1.25	3.34
+MP:0008195	abnormal professional antigen presenting cell morphology	998	34	1.63	3.08	0.0027	0.028	1.79	1.19	2.62
+MP:0000218	increased leukocyte cell number	1080	36	1.59	3.04	0.0029	0.028	1.75	1.18	2.55
+MP:0008595	abnormal circulating interleukin-6 level	143	9	3.01	3.54	0.003	0.029	3.25	1.43	6.49
+MP:0013657	abnormal blood cell morphology	1813	54	1.42	2.95	0.003	0.029	1.61	1.15	2.22
+MP:0002330	abnormal bronchial provocation	48	5	4.98	4.04	0.0031	0.03	5.56	1.7	14.2
+MP:0001800	abnormal humoral immune response	561	22	1.88	3.13	0.0032	0.03	2.03	1.23	3.2
+MP:0002001	blindness	30	4	6.38	4.31	0.0033	0.031	7.33	1.84	21.4
+MP:0005232	abnormal mesenteric lymph node morphology	49	5	4.88	3.98	0.0034	0.031	5.43	1.66	13.9
+MP:0008721	abnormal chemokine level	70	6	4.1	3.8	0.0033	0.031	4.5	1.57	10.5
+MP:0008735	increased susceptibility to endotoxin shock	70	6	4.1	3.8	0.0033	0.031	4.5	1.57	10.5
+MP:0002534	abnormal type IV hypersensitivity reaction	94	7	3.56	3.65	0.0035	0.031	3.87	1.49	8.47
+MP:0008750	abnormal interferon level	118	8	3.24	3.58	0.0033	0.031	3.51	1.46	7.3
+MP:0005088	increased acute inflammation	145	9	2.97	3.49	0.0033	0.031	3.2	1.41	6.39
+MP:0001573	abnormal circulating alanine transaminase level	203	11	2.59	3.35	0.0035	0.031	2.78	1.34	5.21
+MP:0001663	abnormal digestive system physiology	635	24	1.81	3.08	0.0034	0.031	1.96	1.21	3.04
+MP:0002435	abnormal effector T cell morphology	710	26	1.75	3.04	0.0035	0.031	1.9	1.2	2.91
+MP:0008554	decreased circulating tumor necrosis factor level	50	5	4.78	3.92	0.0037	0.032	5.31	1.63	13.6
+MP:0008495	decreased IgG1 level	147	9	2.93	3.44	0.0037	0.032	3.15	1.39	6.29
+MP:0002113	abnormal skeleton development	496	20	1.93	3.11	0.0036	0.032	2.08	1.23	3.35
+MP:0005388	respiratory system phenotype	1374	43	1.5	2.92	0.0036	0.032	1.66	1.15	2.35
+MP:0010358	abnormal free fatty acids level	205	11	2.57	3.31	0.0038	0.033	2.75	1.33	5.16
+MP:0005059	lysosomal protein accumulation	16	3	8.97	4.66	0.0041	0.035	11	1.99	40.3
+MP:0008682	decreased interleukin-17 secretion	32	4	5.98	4.12	0.0042	0.035	6.81	1.72	19.7
+MP:0001218	thin epidermis	51	5	4.69	3.86	0.0041	0.035	5.2	1.59	13.2
+MP:0008548	abnormal circulating interferon level	97	7	3.45	3.55	0.0041	0.035	3.74	1.44	8.18
+MP:0001263	weight loss	433	18	1.99	3.08	0.0041	0.035	2.14	1.22	3.52
+MP:0003329	amyloid beta deposits	52	5	4.6	3.8	0.0044	0.036	5.09	1.56	12.9
+MP:0010760	abnormal macrophage chemotaxis	74	6	3.88	3.63	0.0044	0.036	4.23	1.48	9.86
+MP:0009786	decreased susceptibility to infection induced morbidity/mortality	74	6	3.88	3.63	0.0044	0.036	4.23	1.48	9.86
+MP:0005464	abnormal platelet physiology	124	8	3.09	3.42	0.0044	0.036	3.32	1.38	6.91
+MP:0002052	decreased tumor incidence	209	11	2.52	3.24	0.0044	0.036	2.7	1.3	5.05
+MP:0001175	abnormal lung morphology	613	23	1.79	2.97	0.0045	0.036	1.94	1.19	3.03
+MP:0001870	salivary gland inflammation	33	4	5.8	4.03	0.0047	0.037	6.57	1.66	19
+MP:0001858	intestinal inflammation	211	11	2.49	3.21	0.0047	0.037	2.67	1.29	4.99
+MP:0003723	abnormal long bone morphology	580	22	1.81	2.96	0.0047	0.037	1.95	1.18	3.09
+MP:0000689	abnormal spleen morphology	992	33	1.59	2.88	0.0046	0.037	1.74	1.15	2.56
+MP:0002358	abnormal spleen periarteriolar lymphoid sheath morphology	17	3	8.44	4.49	0.0049	0.038	10.2	1.86	36.9
+MP:0010268	decreased lymphoma incidence	17	3	8.44	4.49	0.0049	0.038	10.2	1.86	36.9
+MP:0008470	abnormal spleen B cell follicle morphology	183	10	2.61	3.22	0.005	0.038	2.8	1.3	5.39
+MP:0010155	abnormal intestine physiology	307	14	2.18	3.08	0.005	0.038	2.33	1.24	4.08
+MP:0000691	enlarged spleen	510	20	1.88	2.97	0.0049	0.038	2.02	1.19	3.24
+MP:0008578	decreased circulating interferon-gamma level	34	4	5.63	3.95	0.0053	0.039	6.35	1.61	18.3
+MP:0009625	abnormal abdominal lymph node morphology	54	5	4.43	3.69	0.0052	0.039	4.88	1.5	12.4
+MP:0004982	abnormal osteoclast morphology	184	10	2.6	3.2	0.0052	0.039	2.78	1.29	5.36
+MP:0008561	decreased tumor necrosis factor secretion	129	8	2.97	3.29	0.0056	0.042	3.19	1.33	6.61
+MP:0005607	decreased bleeding time	18	3	7.97	4.33	0.0058	0.043	9.49	1.75	33.9
+MP:0006043	decreased apoptosis	248	12	2.31	3.07	0.0058	0.043	2.47	1.24	4.51
+MP:0008874	decreased physiological sensitivity to xenobiotic	280	13	2.22	3.03	0.0059	0.043	2.37	1.22	4.23
+MP:0003224	neuron degeneration	379	16	2.02	2.96	0.0058	0.043	2.16	1.2	3.65
+MP:0001860	liver inflammation	159	9	2.71	3.17	0.0061	0.044	2.9	1.28	5.77
+MP:0002816	colitis	160	9	2.69	3.15	0.0063	0.045	2.88	1.27	5.73
+MP:0006395	abnormal epiphyseal plate morphology	219	11	2.4	3.07	0.0062	0.045	2.56	1.24	4.79
+MP:0012555	decreased cell death	251	12	2.29	3.02	0.0064	0.045	2.44	1.22	4.45
+MP:0005013	increased lymphocyte cell number	744	26	1.67	2.79	0.0064	0.045	1.8	1.14	2.76
+MP:0002006	neoplasm	897	30	1.6	2.76	0.0064	0.045	1.73	1.13	2.59
+MP:0005567	decreased circulating total protein level	57	5	4.2	3.54	0.0066	0.046	4.59	1.42	11.6
+MP:0001967	deafness	106	7	3.16	3.27	0.0067	0.047	3.4	1.31	7.4
+MP:0008566	increased interferon-gamma secretion	133	8	2.88	3.19	0.0067	0.047	3.08	1.28	6.39
+MP:0004847	abnormal liver weight	222	11	2.37	3.02	0.0069	0.047	2.53	1.22	4.72
+MP:0000435	shortened head	37	4	5.17	3.71	0.0071	0.048	5.77	1.47	16.5
+MP:0002500	granulomatous inflammation	37	4	5.17	3.71	0.0071	0.048	5.77	1.47	16.5
+MP:0002768	small adrenal glands	37	4	5.17	3.71	0.0071	0.048	5.77	1.47	16.5
+MP:0000490	abnormal crypts of Lieberkuhn morphology	163	9	2.64	3.09	0.0071	0.048	2.82	1.25	5.61
+MP:0003991	arteriosclerosis	108	7	3.1	3.21	0.0074	0.049	3.33	1.29	7.25
+MP:0002425	altered susceptibility to autoimmune disorder	320	14	2.09	2.91	0.0072	0.049	2.23	1.18	3.9
+MP:0005325	abnormal renal glomerulus morphology	321	14	2.09	2.89	0.0074	0.049	2.22	1.18	3.89
+MP:0003448	abnormal tumor morphology	194	10	2.47	3.01	0.0075	0.05	2.63	1.22	5.06

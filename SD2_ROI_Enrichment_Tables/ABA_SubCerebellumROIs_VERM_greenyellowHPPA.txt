@@ -1,0 +1,51 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001421	Abnormality of the musculature of the hand	44	11	8.36	8.62	3.4e-08	4.2e-05	11.9	5.27	25.1
+HP:0010486	Abnormality of the hypothenar eminence	15	6	13.4	8.43	2.5e-06	0.00044	22.8	6.54	73.4
+HP:0030270	Elevated red cell adenosine deaminase activity	15	6	13.4	8.43	2.5e-06	0.00044	22.8	6.54	73.4
+HP:0010487	Small hypothenar eminence	15	6	13.4	8.43	2.5e-06	0.00044	22.8	6.54	73.4
+HP:0008437	Bifid thoracic vertebrae	15	6	13.4	8.43	2.5e-06	0.00044	22.8	6.54	73.4
+HP:0008447	Hypoplastic coccygeal vertebrae	15	6	13.4	8.43	2.5e-06	0.00044	22.8	6.54	73.4
+HP:0008475	Hypoplastic sacral vertebrae	15	6	13.4	8.43	2.5e-06	0.00044	22.8	6.54	73.4
+HP:0030272	Abnormal erythrocyte enzyme activity	16	6	12.5	8.12	3.9e-06	0.00053	20.5	6	63.7
+HP:0006368	Forearm reduction defects	16	6	12.5	8.12	3.9e-06	0.00053	20.5	6	63.7
+HP:0025065	Abnormal erythrocyte volume	17	6	11.8	7.84	5.9e-06	6e-04	18.6	5.54	56.4
+HP:0005518	Increased mean corpuscular volume	17	6	11.8	7.84	5.9e-06	6e-04	18.6	5.54	56.4
+HP:0012133	Erythroid hypoplasia	17	6	11.8	7.84	5.9e-06	6e-04	18.6	5.54	56.4
+HP:0004590	Hypoplastic sacrum	18	6	11.1	7.58	8.6e-06	0.00075	17.1	5.15	50.5
+HP:0004810	Congenital hypoplastic anemia	18	6	11.1	7.58	8.6e-06	0.00075	17.1	5.15	50.5
+HP:0005321	Mandibulofacial dysostosis	19	6	10.6	7.33	1.2e-05	0.00094	15.8	4.81	45.6
+HP:0001908	Hypoplastic anemia	19	6	10.6	7.33	1.2e-05	0.00094	15.8	4.81	45.6
+HP:0001895	Normochromic anemia	20	6	10	7.11	1.7e-05	0.0012	14.6	4.51	41.6
+HP:0001897	Normocytic anemia	20	6	10	7.11	1.7e-05	0.0012	14.6	4.51	41.6
+HP:0011904	Persistence of hemoglobin F	22	6	9.12	6.71	3.1e-05	0.002	12.8	4.02	35.4
+HP:0002669	Osteosarcoma	23	6	8.72	6.52	4.1e-05	0.0022	12.1	3.81	32.9
+HP:0012131	Abnormal number of erythroid precursors	23	6	8.72	6.52	4.1e-05	0.0022	12.1	3.81	32.9
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	6	8.72	6.52	4.1e-05	0.0022	12.1	3.81	32.9
+HP:0002697	Parietal foramina	23	6	8.72	6.52	4.1e-05	0.0022	12.1	3.81	32.9
+HP:0001446	Abnormality of the musculature of the upper limbs	137	14	3.42	5.07	4.3e-05	0.0022	4.1	2.1	7.5
+HP:0004439	Craniofacial dysostosis	24	6	8.36	6.35	5.4e-05	0.0025	11.4	3.62	30.8
+HP:0009944	Partial duplication of thumb phalanx	24	6	8.36	6.35	5.4e-05	0.0025	11.4	3.62	30.8
+HP:0009999	Partial duplication of the phalanx of hand	25	6	8.02	6.19	6.9e-05	0.0031	10.8	3.45	28.8
+HP:0009777	Absent thumb	40	7	5.85	5.42	0.00015	0.0063	7.29	2.65	17.3
+HP:0011902	Abnormal hemoglobin	29	6	6.92	5.62	0.00017	0.0071	8.9	2.9	23.1
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	6	6.47	5.37	0.00025	0.0098	8.18	2.68	21
+HP:0008417	Vertebral hypoplasia	31	6	6.47	5.37	0.00025	0.0098	8.18	2.68	21
+HP:0000402	Stenosis of the external auditory canal	32	6	6.27	5.26	3e-04	0.011	7.86	2.59	20.1
+HP:0001894	Thrombocytosis	32	6	6.27	5.26	3e-04	0.011	7.86	2.59	20.1
+HP:0002696	Abnormality of the parietal bone	32	6	6.27	5.26	3e-04	0.011	7.86	2.59	20.1
+HP:0001636	Tetralogy of Fallot	145	13	3	4.31	0.00031	0.011	3.5	1.75	6.49
+HP:0001896	Reticulocytopenia	33	6	6.08	5.15	0.00036	0.012	7.57	2.5	19.3
+HP:0000946	Hypoplastic ilia	61	8	4.38	4.68	0.00039	0.012	5.21	2.08	11.4
+HP:0001710	Conotruncal defect	148	13	2.94	4.23	0.00038	0.012	3.42	1.71	6.34
+HP:0000878	11 pairs of ribs	35	6	5.73	4.94	5e-04	0.015	7.04	2.34	17.8
+HP:0000085	Horseshoe kidney	79	9	3.81	4.43	0.00049	0.015	4.46	1.9	9.32
+HP:0040071	Abnormal morphology of ulna	49	7	4.78	4.67	0.00054	0.016	5.71	2.11	13.3
+HP:0003022	Hypoplasia of the ulna	49	7	4.78	4.67	0.00054	0.016	5.71	2.11	13.3
+HP:0003003	Colon cancer	38	6	5.28	4.66	0.00079	0.022	6.38	2.13	15.9
+HP:0100273	Neoplasm of the colon	52	7	4.5	4.46	0.00077	0.022	5.33	1.98	12.3
+HP:0012379	Abnormal enzyme/coenzyme activity	103	10	3.25	4.06	0.00086	0.023	3.75	1.69	7.5
+HP:0006495	Aplasia/Hypoplasia of the ulna	55	7	4.25	4.27	0.0011	0.029	4.99	1.86	11.5
+HP:0008518	Aplasia/Hypoplasia involving the vertebral column	57	7	4.11	4.15	0.0014	0.035	4.79	1.79	11
+HP:0002488	Acute leukemia	93	9	3.24	3.84	0.0016	0.041	3.7	1.59	7.67
+HP:0001972	Macrocytic anemia	44	6	4.56	4.17	0.0017	0.043	5.36	1.81	13.2
+HP:0009942	Duplication of thumb phalanx	45	6	4.46	4.1	0.002	0.048	5.23	1.77	12.8

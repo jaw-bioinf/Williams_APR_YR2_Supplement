@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001031	Subcutaneous lipoma	12	6	7.44	6	5.7e-05	0.035	14.2	3.76	53.5
+HP:0100641	Neoplasm of the adrenal cortex	14	6	6.37	5.41	0.00016	0.035	10.6	3.01	35.3
+HP:0100314	Cerebral inclusion bodies	19	7	5.48	5.26	0.00014	0.035	8.3	2.74	23.1
+HP:0010535	Sleep apnea	54	13	3.58	5.13	3.8e-05	0.035	4.59	2.22	8.9
+HP:0000751	Personality changes	49	12	3.64	5	6.4e-05	0.035	4.68	2.19	9.34
+HP:0100631	Neoplasm of the adrenal gland	26	8	4.58	4.91	2e-04	0.035	6.34	2.36	15.5
+HP:0001956	Truncal obesity	53	12	3.37	4.66	0.00014	0.035	4.22	1.99	8.33
+HP:0003487	Babinski sign	239	32	1.99	4.26	9e-05	0.035	2.32	1.51	3.49
+HP:0000729	Autistic behavior	225	30	1.98	4.09	0.00016	0.035	2.3	1.47	3.49
+HP:0001347	Hyperreflexia	560	59	1.57	3.93	0.00014	0.035	1.84	1.33	2.53
+HP:0001260	Dysarthria	373	43	1.71	3.92	0.00019	0.035	1.99	1.37	2.84
+HP:0009720	Adenoma sebaceum	22	7	4.73	4.71	4e-04	0.043	6.63	2.26	17.5
+HP:0010615	Angiofibromas	22	7	4.73	4.71	4e-04	0.043	6.63	2.26	17.5
+HP:0003764	Nevus	75	14	2.78	4.17	0.00036	0.043	3.32	1.69	6.12
+HP:0000726	Dementia	140	21	2.23	3.99	0.00034	0.043	2.59	1.51	4.24
+HP:0001268	Mental deterioration	214	28	1.95	3.83	0.00038	0.043	2.23	1.41	3.43
+HP:0002167	Neurological speech impairment	785	75	1.42	3.59	0.00035	0.043	1.68	1.25	2.26
+HP:0012443	Abnormality of brain morphology	1687	139	1.23	3.45	0.00036	0.043	1.6	1.21	2.11
+HP:0002185	Neurofibrillary tangles	11	5	6.76	5.14	0.00044	0.044	11.8	2.82	46.7
+HP:0002529	Neuronal loss in central nervous system	60	12	2.97	4.14	5e-04	0.047	3.6	1.71	7
+HP:0007256	Abnormal pyramidal signs	296	35	1.76	3.66	0.00051	0.047	2.01	1.33	2.96
+HP:0001100	Heterochromia iridis	23	7	4.53	4.56	0.00055	0.048	6.22	2.14	16.2

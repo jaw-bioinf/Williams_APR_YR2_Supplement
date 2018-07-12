@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:150	disease of mental health	1255	31	2.03	4.48	3.4e-05	0.0051	2.67	1.65	4.25
+DOID:0060340	ciliopathy	12	3	20.6	7.53	0.00035	0.017	28	4.79	115
+DOID:9562	primary ciliary dyskinesia	12	3	20.6	7.53	0.00035	0.017	28	4.79	115
+DOID:0060037	developmental disorder of mental health	393	13	2.72	3.9	0.00083	0.031	3.1	1.56	5.71

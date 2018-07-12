@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:0060262	gallbladder disease	14	3	22.4	7.87	0.00028	0.023	29.4	5.15	115
+DOID:10211	cholelithiasis	14	3	22.4	7.87	0.00028	0.023	29.4	5.15	115
+DOID:12336	male infertility	104	6	6.03	5.08	0.00045	0.024	6.86	2.37	16.3
+DOID:2731	vesiculobullous skin disease	21	3	14.9	6.28	0.00099	0.032	18	3.31	63.8
+DOID:2730	epidermolysis bullosa	21	3	14.9	6.28	0.00099	0.032	18	3.31	63.8
+DOID:48	male reproductive system disease	126	6	4.98	4.43	0.0012	0.033	5.58	1.93	13.2

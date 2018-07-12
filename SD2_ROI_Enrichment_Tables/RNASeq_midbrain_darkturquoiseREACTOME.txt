@@ -1,0 +1,25 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-112316 Neuronal System 356 19 5.81 8.9 3.9e-10 3.1e-08 7.4 4.17 12.6
+R-HSA-6794362 Protein-protein interactions at synapses 70 9 14 10.5 1.3e-08 5.1e-07 17.5 7.39 37
+R-HSA-181429 Serotonin Neurotransmitter Release Cycle 18 4 24.2 9.48 1.9e-05 0.00049 32.1 7.54 105
+R-HSA-112315 Transmission across Chemical Synapses 224 10 4.86 5.62 3.7e-05 0.00074 5.53 2.52 10.9
+R-HSA-212676 Dopamine Neurotransmitter Release Cycle 23 4 18.9 8.29 5.2e-05 0.00082 23.6 5.73 73.2
+R-HSA-418359 Reduction of cytosolic Ca++ levels 14 3 23.3 8.05 0.00025 0.0029 30.3 5.34 118
+R-HSA-6794361 Neurexins and neuroligins 34 4 12.8 6.64 0.00025 0.0029 15 3.75 43.8
+R-HSA-264642 Acetylcholine Neurotransmitter Release Cycle 17 3 19.2 7.23 0.00046 0.0041 23.8 4.31 87.7
+R-HSA-442729 CREB phosphorylation through the activation of CaMKII 17 3 19.2 7.23 0.00046 0.0041 23.8 4.31 87.7
+R-HSA-181430 Norepinephrine Neurotransmitter Release Cycle 18 3 18.1 7.01 0.00055 0.0044 22.2 4.05 80.5
+R-HSA-442982 Ras activation upon Ca2+ influx through NMDA receptor 19 3 17.2 6.8 0.00065 0.0047 20.8 3.82 74.7
+R-HSA-8849932 Synaptic adhesion-like molecules 21 3 15.5 6.43 0.00089 0.0058 18.5 3.43 65.1
+R-HSA-112310 Neurotransmitter release cycle 51 4 8.54 5.2 0.0012 0.0073 9.54 2.44 27
+R-HSA-210500 Glutamate Neurotransmitter Release Cycle 24 3 13.6 5.95 0.0013 0.0075 15.9 2.98 54.7
+R-HSA-5578775 Ion homeostasis 54 4 8.06 5.01 0.0015 0.0078 8.97 2.3 25.2
+R-HSA-418360 Platelet calcium homeostasis 27 3 12.1 5.56 0.0019 0.0092 13.9 2.63 47
+R-HSA-442742 CREB phosphorylation through the activation of Ras 29 3 11.3 5.33 0.0023 0.011 12.8 2.44 43
+R-HSA-5339562 Uptake and actions of bacterial toxins 31 3 10.5 5.12 0.0028 0.012 11.9 2.27 39.6
+R-HSA-112314 Neurotransmitter receptors and postsynaptic signal transmission 154 6 4.24 3.9 0.0029 0.012 4.61 1.62 10.7
+R-HSA-5173105 O-linked glycosylation 112 5 4.86 3.95 0.0036 0.014 5.27 1.64 13.2
+R-HSA-438064 Post NMDA receptor activation events 37 3 8.82 4.59 0.0047 0.018 9.8 1.89 32
+R-HSA-5689896 Ovarian tumor domain proteases 38 3 8.59 4.52 0.005 0.018 9.51 1.84 31.1
+R-HSA-442755 Activation of NMDA receptor and postsynaptic events 41 3 7.96 4.3 0.0062 0.021 8.76 1.7 28.4
+R-HSA-1296071 Potassium Channels 99 4 4.4 3.27 0.013 0.043 4.7 1.23 12.9

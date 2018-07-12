@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008762	embryonic lethality	1763	542	1.17	4.78	1.3e-06	0.0061	1.32	1.18	1.48
+MP:0003491	abnormal voluntary movement	1648	500	1.16	4.18	2e-05	0.047	1.28	1.14	1.44

@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04010	MAPK signaling pathway	255	28	2.07	4.11	0.00018	0.022	2.3	1.47	3.48
+path:hsa05200	Pathways in cancer	395	38	1.81	3.94	0.00022	0.022	2	1.37	2.87
+path:hsa05219	Bladder cancer	41	8	3.67	4.07	0.0012	0.039	4.4	1.74	9.8
+path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	72	11	2.88	3.79	0.0013	0.039	3.28	1.54	6.37
+path:hsa04721	Synaptic vesicle cycle	63	10	2.99	3.75	0.0016	0.039	3.43	1.54	6.89
+path:hsa05214	Glioma	64	10	2.94	3.7	0.0018	0.039	3.37	1.51	6.75
+path:hsa04911	Insulin secretion	85	12	2.66	3.64	0.0016	0.039	3	1.47	5.63
+path:hsa05215	Prostate cancer	87	12	2.6	3.55	0.002	0.039	2.92	1.43	5.47
+path:hsa04261	Adrenergic signaling in cardiomyocytes	144	17	2.22	3.51	0.0015	0.039	2.46	1.37	4.15
+path:hsa04066	HIF-1 signaling pathway	99	13	2.47	3.49	0.0021	0.039	2.76	1.4	5.03
+path:hsa04260	Cardiac muscle contraction	78	11	2.65	3.48	0.0026	0.039	2.99	1.41	5.76
+path:hsa05414	Dilated cardiomyopathy	89	12	2.54	3.46	0.0025	0.039	2.84	1.39	5.31
+path:hsa04110	Cell cycle	124	15	2.28	3.4	0.0023	0.039	2.52	1.35	4.4
+path:hsa05031	Amphetamine addiction	68	10	2.77	3.47	0.0029	0.041	3.13	1.41	6.25
+path:hsa04919	Thyroid hormone signaling pathway	116	14	2.27	3.27	0.0032	0.042	2.51	1.31	4.46
+path:hsa05220	Chronic myeloid leukemia	71	10	2.65	3.31	0.004	0.046	2.98	1.35	5.92
+path:hsa05410	Hypertrophic cardiomyopathy (HCM)	83	11	2.49	3.25	0.0042	0.046	2.78	1.32	5.33
+path:hsa05161	Hepatitis B	144	16	2.09	3.14	0.0039	0.046	2.29	1.25	3.91
+path:hsa05166	HTLV-I infection	256	24	1.76	2.95	0.0046	0.047	1.9	1.18	2.96
+path:hsa04964	Proximal tubule bicarbonate reclamation	23	5	4.09	3.52	0.0063	0.049	5	1.44	14.1
+path:hsa04918	Thyroid hormone synthesis	74	10	2.54	3.16	0.0054	0.049	2.84	1.29	5.62
+path:hsa05212	Pancreatic cancer	64	9	2.65	3.14	0.0063	0.049	2.97	1.28	6.11
+path:hsa04971	Gastric acid secretion	75	10	2.51	3.11	0.006	0.049	2.79	1.27	5.53
+path:hsa04723	Retrograde endocannabinoid signaling	148	16	2.03	3.02	0.0051	0.049	2.21	1.22	3.79
+path:hsa04210	Apoptosis	138	15	2.05	2.94	0.0063	0.049	2.22	1.2	3.87
+path:hsa04921	Oxytocin signaling pathway	152	16	1.98	2.9	0.0066	0.05	2.15	1.18	3.67

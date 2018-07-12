@@ -1,0 +1,7 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00866	2	2	1	0.5	0.5	CORUM:2151	cor	4	Arnt-Sim1 complex	1	SIM1
+2	1	TRUE	0.00866	3	2	1	0.5	0.333	CORUM:2591	cor	6	SIRT1-HNF4-alpha-PGC-1-alpha complex, in response to fasting	1	HNF4A
+3	1	TRUE	0.00866	2	2	1	0.5	0.5	CORUM:1048	cor	1	Hnf4-Pc4 complex	1	HNF4A
+4	1	TRUE	0.032	27	18	2	0.111	0.074	KEGG:04950	keg	3	Maturity onset diabetes of the young	1	HNF4A,PAX4
+5	1	TRUE	0.032	103	18	3	0.167	0.029	KEGG:04972	keg	2	Pancreatic secretion	1	PLA2G2E,CLCA3B,TRY10
+6	1	TRUE	0.0466	40	18	2	0.111	0.05	KEGG:04975	keg	5	Fat digestion and absorption	1	CLPS,PLA2G2E

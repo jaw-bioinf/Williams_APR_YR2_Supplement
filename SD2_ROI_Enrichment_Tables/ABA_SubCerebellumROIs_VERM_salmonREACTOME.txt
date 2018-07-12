@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3928664	Ephrin signaling	19	4	14.5	7.16	0.00014	0.0067	18.6	4.44	59.5
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	50	6	8.29	6.26	7.8e-05	0.0067	9.63	3.3	23.2
+R-HSA-2682334	EPH-Ephrin signaling	81	7	5.97	5.44	0.00016	0.0067	6.71	2.56	14.9
+R-HSA-3928662	EPHB-mediated forward signaling	39	5	8.85	5.96	0.00023	0.007	10.3	3.1	27.1
+R-HSA-373753	Nephrin family interactions	10	3	20.7	7.56	0.00033	0.0081	29.7	4.91	132
+R-HSA-422475	Axon guidance	295	12	2.81	3.82	0.0012	0.024	3.06	1.52	5.6
+R-HSA-399956	CRMPs in Sema3A signaling	16	3	12.9	5.8	0.0015	0.025	16	2.89	59
+R-HSA-5621575	CD209 (DC-SIGN) signaling	21	3	9.87	4.93	0.0033	0.05	11.5	2.16	40.2

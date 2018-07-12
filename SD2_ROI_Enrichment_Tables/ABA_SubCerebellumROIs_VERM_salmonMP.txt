@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0003935	abnormal craniofacial development	378	20	3.21	5.68	3.7e-06	0.004	3.68	2.15	6
+MP:0004326	abnormal vestibular hair cell number	22	5	13.8	7.77	2.4e-05	0.013	18.1	5.15	51.9
+MP:0000814	absent dentate gyrus	15	4	16.2	7.61	8.4e-05	0.031	22.2	5.1	76.1
+MP:0004328	decreased vestibular hair cell number	17	4	14.3	7.09	0.00014	0.031	18.8	4.41	61.7
+MP:0004406	abnormal cochlear hair cell number	69	7	6.15	5.56	0.00013	0.031	7	2.66	15.7

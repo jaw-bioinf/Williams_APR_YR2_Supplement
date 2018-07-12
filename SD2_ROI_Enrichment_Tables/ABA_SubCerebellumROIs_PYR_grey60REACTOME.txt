@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6796648	TP53 Regulates Transcription of DNA Repair Genes	65	6	7.7	5.97	0.00012	0.011	8.77	3.03	20.8
+R-HSA-418990	Adherens junctions interactions	33	4	10.1	5.78	0.00061	0.028	11.7	2.95	34.2
+R-HSA-421270	Cell-cell junction organization	43	4	7.76	4.89	0.0017	0.042	8.71	2.22	24.7
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	44	4	7.59	4.82	0.0018	0.042	8.49	2.17	24.1

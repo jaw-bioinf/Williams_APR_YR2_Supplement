@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04360	Axon guidance	175	3	5.69	3.46	0.015	0.029	6.61	1.23	23.2
+path:hsa04014	Ras signaling pathway	227	3	4.39	2.86	0.029	0.029	5.04	0.939	17.6

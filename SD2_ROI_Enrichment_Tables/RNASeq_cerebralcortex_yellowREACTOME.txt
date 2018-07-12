@@ -1,0 +1,20 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-112316	Neuronal System	356	57	2.6	7.87	1.7e-11	7.9e-09	3.1	2.26	4.18
+R-HSA-500792	GPCR ligand binding	419	59	2.29	6.89	1.4e-09	3.3e-07	2.65	1.95	3.55
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	48	2.43	6.68	6.6e-09	1.1e-06	2.83	2.01	3.91
+R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	154	30	3.16	6.93	1.3e-08	1.6e-06	3.82	2.45	5.79
+R-HSA-112315	Transmission across Chemical Synapses	224	35	2.54	5.96	2.9e-07	2.7e-05	2.93	1.96	4.27
+R-HSA-375276	Peptide ligand-binding receptors	187	29	2.52	5.37	3.5e-06	0.00024	2.88	1.85	4.35
+R-HSA-416476	G alpha (q) signalling events	207	31	2.43	5.33	3.4e-06	0.00024	2.77	1.81	4.12
+R-HSA-375280	Amine ligand-binding receptors	42	12	4.64	6.05	5.4e-06	0.00032	6.19	2.87	12.5
+R-HSA-1296071	Potassium Channels	99	17	2.79	4.58	1e-04	0.0055	3.22	1.78	5.51
+R-HSA-1296072	Voltage gated Potassium channels	43	10	3.77	4.67	0.00022	0.0096	4.67	2.04	9.76
+R-HSA-418594	G alpha (i) signalling events	362	40	1.79	3.94	0.00022	0.0096	1.95	1.36	2.75
+R-HSA-5576892	Phase 0 - rapid depolarisation	46	10	3.53	4.4	4e-04	0.016	4.28	1.89	8.86
+R-HSA-451306	Ionotropic activity of kainate receptors	12	5	6.76	5.12	0.00048	0.017	11	2.73	40.2
+R-HSA-451308	Activation of Ca-permeable Kainate Receptor	12	5	6.76	5.12	0.00048	0.017	11	2.73	40.2
+R-HSA-451326	Activation of kainate receptors upon glutamate binding	32	8	4.06	4.44	0.00056	0.017	5.13	1.98	11.9
+R-HSA-111885	Opioid Signalling	74	13	2.85	4.1	0.00052	0.017	3.29	1.65	6.1
+R-HSA-372790	Signaling by GPCR	1118	94	1.36	3.31	0.00089	0.025	1.47	1.16	1.85
+R-HSA-390522	Striated Muscle Contraction	36	8	3.61	4.01	0.0013	0.034	4.39	1.72	9.95
+R-HSA-977443	GABA receptor activation	55	10	2.95	3.72	0.0017	0.044	3.42	1.53	6.93

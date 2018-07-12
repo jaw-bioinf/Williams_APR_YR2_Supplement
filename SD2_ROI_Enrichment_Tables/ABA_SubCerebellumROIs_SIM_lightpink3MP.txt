@@ -1,0 +1,5 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008531	increased chemical nociceptive threshold	31	3	42.8	11.1	4.3e-05	0.0052	54.7	9.78	204
+MP:0002735	abnormal chemical nociception	47	3	28.2	8.9	0.00015	0.0091	34.8	6.34	126
+MP:0003985	renal fibrosis	86	3	15.4	6.4	0.00091	0.036	18.4	3.41	64.8
+MP:0001973	increased thermal nociceptive threshold	103	3	12.9	5.77	0.0015	0.046	15.2	2.83	53.4

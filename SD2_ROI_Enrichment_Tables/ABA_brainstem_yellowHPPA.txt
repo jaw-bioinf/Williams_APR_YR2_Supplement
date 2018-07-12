@@ -1,0 +1,108 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001268	Mental deterioration	214	51	2.3	6.66	3.1e-09	7.2e-06	2.98	2.09	4.2
+HP:0012443	Abnormality of brain morphology	1687	225	1.29	5.55	1.9e-08	2.1e-05	1.86	1.48	2.35
+HP:0000751	Personality changes	49	19	3.74	6.57	1.3e-07	7.3e-05	5.72	3.01	10.6
+HP:0002011	Morphological abnormality of the central nervous system	1825	236	1.25	5.18	1.2e-07	7.3e-05	1.81	1.43	2.28
+HP:0011442	Abnormality of central motor function	1241	174	1.35	5.25	1.7e-07	7.7e-05	1.78	1.42	2.23
+HP:0002529	Neuronal loss in central nervous system	60	21	3.38	6.31	2.2e-07	8.3e-05	4.87	2.69	8.6
+HP:0000726	Dementia	140	35	2.41	5.79	3.4e-07	0.00011	3.08	2	4.64
+HP:0100547	Abnormality of forebrain morphology	1170	164	1.35	5.01	5.9e-07	0.00014	1.74	1.39	2.19
+HP:0003011	Abnormality of the musculature	1823	233	1.23	4.87	6.2e-07	0.00014	1.74	1.38	2.2
+HP:0012639	Abnormality of nervous system morphology	2000	251	1.21	4.87	5.1e-07	0.00014	1.77	1.4	2.26
+HP:0000741	Apathy	45	17	3.64	6.07	9.3e-07	0.00016	5.45	2.77	10.4
+HP:0002060	Abnormality of the cerebrum	1167	163	1.35	4.93	8.7e-07	0.00016	1.73	1.38	2.17
+HP:0011804	Abnormality of muscle physiology	1558	205	1.27	4.84	9.4e-07	0.00016	1.71	1.37	2.14
+HP:0002185	Neurofibrillary tangles	11	8	7.01	6.79	1.6e-06	0.00022	23.5	5.61	138
+HP:0000745	Diminished motivation	46	17	3.56	5.95	1.3e-06	0.00022	5.26	2.68	10
+HP:0002493	Upper motor neuron dysfunction	918	134	1.41	4.89	1.4e-06	0.00022	1.75	1.39	2.22
+HP:0030223	Perseveration	34	14	3.97	5.92	2.6e-06	0.00033	6.25	2.89	13.1
+HP:0001332	Dystonia	318	59	1.79	5.02	2.6e-06	0.00033	2.16	1.56	2.95
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	1085	151	1.34	4.61	4.2e-06	0.00051	1.68	1.33	2.11
+HP:0003808	Abnormal muscle tone	1269	171	1.3	4.54	4.9e-06	0.00056	1.65	1.32	2.07
+HP:0000719	Inappropriate behavior	41	15	3.53	5.54	6.6e-06	0.00072	5.15	2.51	10.2
+HP:0002145	Frontotemporal dementia	34	13	3.69	5.35	1.6e-05	0.0016	5.51	2.51	11.6
+HP:0007354	Amyotrophic lateral sclerosis	39	14	3.46	5.26	1.7e-05	0.0017	4.99	2.37	10.1
+HP:0001347	Hyperreflexia	560	87	1.5	4.37	2e-05	0.0019	1.77	1.35	2.31
+HP:0002366	Abnormal lower motor neuron morphology	41	14	3.29	5.02	3.3e-05	0.0029	4.62	2.22	9.22
+HP:0001276	Hypertonia	626	94	1.45	4.21	3.6e-05	0.0029	1.71	1.31	2.21
+HP:0002167	Neurological speech impairment	785	113	1.39	4.2	3.1e-05	0.0029	1.66	1.29	2.11
+HP:0000708	Behavioral abnormality	997	137	1.33	4.13	3.5e-05	0.0029	1.6	1.27	2.02
+HP:0100314	Cerebral inclusion bodies	19	9	4.57	5.3	4.5e-05	0.0033	7.94	2.83	21.9
+HP:0000734	Disinhibition	37	13	3.39	4.97	4.5e-05	0.0033	4.81	2.23	9.94
+HP:0001446	Abnormality of the musculature of the upper limbs	137	30	2.11	4.51	4.1e-05	0.0033	2.55	1.62	3.92
+HP:0011446	Abnormality of higher mental function	1451	186	1.24	3.99	4.6e-05	0.0033	1.55	1.24	1.94
+HP:0001257	Spasticity	491	77	1.51	4.16	5e-05	0.0035	1.77	1.33	2.34
+HP:0002300	Mutism	38	13	3.3	4.85	6.3e-05	0.0041	4.62	2.15	9.48
+HP:0100299	Muscle fiber inclusion bodies	43	14	3.14	4.8	6.1e-05	0.0041	4.3	2.08	8.49
+HP:0001283	Bulbar palsy	65	18	2.67	4.62	6.4e-05	0.0041	3.43	1.85	6.1
+HP:0004398	Peptic ulcer	16	8	4.82	5.21	7.6e-05	0.0045	8.81	2.86	27.1
+HP:0008756	Bowing of the vocal cords	29	11	3.66	4.89	7.9e-05	0.0045	5.41	2.29	12.2
+HP:0001250	Seizures	1138	151	1.28	3.9	7.9e-05	0.0045	1.55	1.23	1.95
+HP:0012758	Neurodevelopmental delay	1201	158	1.27	3.9	7.5e-05	0.0045	1.55	1.23	1.94
+HP:0100851	Abnormal emotion/affect behavior	484	75	1.49	3.98	9.8e-05	0.0055	1.74	1.3	2.3
+HP:0001260	Dysarthria	373	61	1.58	4.01	0.00011	0.0058	1.83	1.33	2.48
+HP:0003805	Rimmed vacuoles	41	13	3.06	4.51	0.00015	0.0081	4.12	1.94	8.31
+HP:0002314	Degeneration of the lateral corticospinal tracts	36	12	3.21	4.54	0.00016	0.0082	4.43	2	9.31
+HP:0007373	Motor neuron atrophy	52	15	2.78	4.4	0.00016	0.0082	3.61	1.82	6.82
+HP:0001263	Global developmental delay	946	128	1.3	3.73	0.00017	0.0083	1.54	1.22	1.95
+HP:0002893	Pituitary adenoma	10	6	5.79	5.15	0.00017	0.0085	13.1	3.1	63.7
+HP:0002835	Aspiration	37	12	3.13	4.42	0.00022	0.0099	4.25	1.93	8.88
+HP:0007372	Atrophy/Degeneration involving the corticospinal tracts	37	12	3.13	4.42	0.00022	0.0099	4.25	1.93	8.88
+HP:0007256	Abnormal pyramidal signs	296	50	1.63	3.85	0.00021	0.0099	1.88	1.33	2.62
+HP:0010535	Sleep apnea	54	15	2.68	4.23	0.00025	0.011	3.42	1.73	6.43
+HP:0012759	Neurodevelopmental abnormality	1623	200	1.19	3.52	0.00027	0.012	1.48	1.18	1.85
+HP:0001348	Brisk reflexes	33	11	3.21	4.35	3e-04	0.013	4.42	1.92	9.61
+HP:0040277	Neoplasm of the pituitary gland	11	6	5.26	4.81	0.00035	0.014	10.5	2.66	43.7
+HP:0011750	Neoplasm of the anterior pituitary	11	6	5.26	4.81	0.00035	0.014	10.5	2.66	43.7
+HP:0002345	Action tremor	112	24	2.07	3.9	0.00035	0.014	2.45	1.47	3.95
+HP:0002492	Abnormality of the corticospinal tract	39	12	2.97	4.2	0.00037	0.015	3.94	1.8	8.12
+HP:0004305	Involuntary movements	664	94	1.37	3.55	0.00037	0.015	1.57	1.21	2.03
+HP:0001308	Tongue fasciculations	45	13	2.79	4.1	0.00043	0.017	3.6	1.72	7.14
+HP:0100242	Sarcoma	142	28	1.9	3.73	0.00049	0.018	2.22	1.39	3.43
+HP:0001337	Tremor	377	59	1.51	3.56	0.00048	0.018	1.72	1.25	2.34
+HP:0100543	Cognitive impairment	1131	146	1.24	3.4	0.00049	0.018	1.47	1.17	1.85
+HP:0002371	Loss of speech	25	9	3.47	4.22	0.00057	0.02	4.96	1.92	12
+HP:0002483	Bulbar signs	35	11	3.03	4.11	0.00054	0.02	4.05	1.78	8.68
+HP:0001031	Subcutaneous lipoma	12	6	4.82	4.51	0.00064	0.021	8.76	2.33	33
+HP:0007024	Pseudobulbar paralysis	36	11	2.95	3.99	7e-04	0.021	3.89	1.71	8.28
+HP:0002127	Abnormal upper motor neuron morphology	41	12	2.82	3.99	0.00062	0.021	3.66	1.69	7.48
+HP:0010546	Muscle fibrillation	47	13	2.67	3.91	0.00068	0.021	3.39	1.62	6.66
+HP:0010614	Fibroma	47	13	2.67	3.91	0.00068	0.021	3.39	1.62	6.66
+HP:0002505	Progressive inability to walk	47	13	2.67	3.91	0.00068	0.021	3.39	1.62	6.66
+HP:0001956	Truncal obesity	53	14	2.55	3.86	0.00071	0.021	3.19	1.58	6.07
+HP:0012757	Abnormal neuron morphology	65	16	2.37	3.8	7e-04	0.021	2.9	1.52	5.26
+HP:0002450	Abnormal motor neuron morphology	65	16	2.37	3.8	7e-04	0.021	2.9	1.52	5.26
+HP:0005484	Postnatal microcephaly	65	16	2.37	3.8	7e-04	0.021	2.9	1.52	5.26
+HP:0002380	Fasciculations	71	17	2.31	3.79	0.00068	0.021	2.8	1.51	4.98
+HP:0002062	Morphological abnormality of the pyramidal tract	77	18	2.25	3.78	0.00065	0.021	2.72	1.49	4.74
+HP:0003487	Babinski sign	239	41	1.65	3.56	6e-04	0.021	1.89	1.29	2.71
+HP:0003323	Progressive muscle weakness	42	12	2.76	3.89	0.00079	0.022	3.54	1.63	7.2
+HP:0006957	Loss of ability to walk	42	12	2.76	3.89	0.00079	0.022	3.54	1.63	7.2
+HP:0000712	Emotional lability	111	23	2	3.63	0.00077	0.022	2.34	1.39	3.8
+HP:0002072	Chorea	111	23	2	3.63	0.00077	0.022	2.34	1.39	3.8
+HP:0100022	Abnormality of movement	1159	148	1.23	3.27	0.00075	0.022	1.45	1.15	1.82
+HP:0009127	Abnormality of the musculature of the limbs	266	44	1.6	3.43	0.00084	0.023	1.81	1.25	2.57
+HP:0001322	Brain very small	434	65	1.44	3.36	0.00084	0.023	1.64	1.2	2.2
+HP:0012444	Brain atrophy	434	65	1.44	3.36	0.00084	0.023	1.64	1.2	2.2
+HP:0001317	Abnormality of the cerebellum	874	116	1.28	3.25	0.00092	0.024	1.47	1.15	1.87
+HP:0000845	Growth hormone excess	17	7	3.97	4.18	0.00094	0.025	6.14	1.97	18
+HP:0001300	Parkinsonism	73	17	2.25	3.66	0.00096	0.025	2.7	1.46	4.78
+HP:0002398	Degeneration of anterior horn cells	43	12	2.69	3.79	0.001	0.026	3.42	1.59	6.93
+HP:0012316	Fibrous tissue neoplasm	49	13	2.56	3.74	0.001	0.026	3.2	1.54	6.25
+HP:0008777	Abnormality of the vocal cords	49	13	2.56	3.74	0.001	0.026	3.2	1.54	6.25
+HP:0010609	Skin tags	61	15	2.37	3.67	0.001	0.026	2.9	1.49	5.35
+HP:0002808	Kyphosis	324	51	1.52	3.33	0.0011	0.026	1.71	1.22	2.38
+HP:0007367	Atrophy/Degeneration affecting the central nervous system	479	70	1.41	3.28	0.001	0.026	1.59	1.19	2.12
+HP:0000240	Abnormality of skull size	968	126	1.26	3.17	0.0011	0.027	1.45	1.14	1.83
+HP:0001435	Abnormality of the shoulder girdle musculature	94	20	2.05	3.52	0.0012	0.028	2.41	1.38	4.06
+HP:0002360	Sleep disturbance	232	39	1.62	3.33	0.0012	0.028	1.84	1.24	2.66
+HP:0011282	Abnormality of hindbrain morphology	889	117	1.27	3.16	0.0012	0.028	1.46	1.14	1.85
+HP:0011283	Abnormality of the metencephalon	889	117	1.27	3.16	0.0012	0.028	1.46	1.14	1.85
+HP:0006802	Abnormal anterior horn cell morphology	44	12	2.63	3.7	0.0013	0.029	3.32	1.54	6.69
+HP:0002460	Distal muscle weakness	122	24	1.9	3.43	0.0013	0.029	2.19	1.32	3.51
+HP:0011443	Abnormality of coordination	663	91	1.32	3.15	0.0014	0.031	1.5	1.15	1.94
+HP:0002463	Language impairment	52	13	2.41	3.49	0.0019	0.042	2.95	1.43	5.71
+HP:0000605	Supranuclear gaze palsy	19	7	3.55	3.79	0.002	0.045	5.12	1.7	14.2
+HP:0009944	Partial duplication of thumb phalanx	24	8	3.21	3.7	0.002	0.045	4.39	1.62	11
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	424	62	1.41	3.06	0.0021	0.045	1.58	1.16	2.13
+HP:0001252	Muscular hypotonia	1058	134	1.22	2.93	0.0023	0.05	1.4	1.11	1.77

@@ -1,0 +1,23 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	126	9	5.15	5.56	6.2e-05	0.015	5.77	2.52	11.7
+R-HSA-114508	Effects of PIP2 hydrolysis	25	4	11.5	6.25	0.00036	0.019	13.9	3.42	41.9
+R-HSA-450282	MAPK targets/ Nuclear events mediated by MAP kinases	28	4	10.3	5.84	0.00056	0.019	12.2	3.02	36
+R-HSA-202424	Downstream TCR signaling	98	7	5.15	4.89	0.00041	0.019	5.7	2.19	12.6
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	10	3.77	4.59	0.00032	0.019	4.15	1.91	8.06
+R-HSA-72312	rRNA processing	201	10	3.58	4.39	0.00048	0.019	3.93	1.81	7.62
+R-HSA-392499	Metabolism of proteins	1907	43	1.62	3.59	0.00049	0.019	1.92	1.31	2.8
+R-HSA-2871837	FCERI mediated NF-kB activation	79	6	5.47	4.73	0.00078	0.023	6.05	2.11	14.2
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	7	4.38	4.33	0.0011	0.023	4.79	1.85	10.5
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	7	4.38	4.33	0.0011	0.023	4.79	1.85	10.5
+R-HSA-202403	TCR signaling	116	7	4.35	4.3	0.0011	0.023	4.75	1.83	10.4
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	9	3.56	4.14	0.00096	0.023	3.88	1.71	7.77
+R-HSA-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	35	4	8.23	5.09	0.0013	0.025	9.4	2.38	27.1
+R-HSA-192823	Viral mRNA Translation	89	6	4.86	4.34	0.0015	0.025	5.32	1.86	12.4
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	6	4.65	4.19	0.0018	0.029	5.07	1.78	11.8
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	6	4.55	4.12	0.002	0.03	4.96	1.74	11.5
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	6	4.5	4.09	0.0021	0.03	4.9	1.72	11.4
+R-HSA-72689	Formation of a pool of free 40S subunits	101	6	4.28	3.93	0.0028	0.037	4.64	1.63	10.8
+R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	47	4	6.13	4.18	0.004	0.05	6.77	1.74	19
+R-HSA-8852135	Protein ubiquitination	77	5	4.68	3.84	0.0043	0.05	5.08	1.58	12.7
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	6	3.89	3.64	0.0044	0.05	4.2	1.48	9.68
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	6	3.86	3.61	0.0046	0.05	4.16	1.47	9.59

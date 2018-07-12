@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-983705	Signaling by the B Cell Receptor (BCR)	108	3	9.59	4.84	0.0036	0.025	10.8	2.07	36.2
+R-HSA-168898	Toll-Like Receptors Cascades	153	3	6.77	3.88	0.0096	0.025	7.56	1.45	25.1
+R-HSA-8978868	Fatty acid metabolism	168	3	6.17	3.64	0.012	0.025	6.86	1.32	22.7
+R-HSA-1280218	Adaptive Immune System	746	7	3.24	3.43	0.0045	0.025	3.98	1.43	9.69
+R-HSA-6798695	Neutrophil degranulation	477	5	3.62	3.16	0.011	0.025	4.2	1.25	11.3
+R-HSA-168249	Innate Immune System	1035	8	2.67	3.06	0.0075	0.025	3.32	1.27	7.83
+R-HSA-556833	Metabolism of lipids	696	6	2.98	2.91	0.013	0.025	3.51	1.17	8.91
+R-HSA-168256	Immune System	1970	11	1.93	2.48	0.017	0.028	2.5	1.07	5.61

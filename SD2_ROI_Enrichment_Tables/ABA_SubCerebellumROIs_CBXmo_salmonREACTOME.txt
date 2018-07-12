@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-399956	CRMPs in Sema3A signaling	16	3	32.4	9.58	9.8e-05	0.0051	41.6	7.4	158
+R-HSA-936837	Ion transport by P-type ATPases	56	4	12.3	6.49	3e-04	0.0077	14.1	3.58	40.4

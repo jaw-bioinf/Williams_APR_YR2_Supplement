@@ -1,0 +1,19 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0492	3	12	1	0.083	0.333	CORUM:1723	cor	9	Pax3-Lef1-Tle4 complex	1	PAX3
+2	1	TRUE	0.0492	3	12	1	0.083	0.333	CORUM:6227	cor	19	S4-synectin-RhoGDI1 complex	1	SDC4
+3	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:2151	cor	14	Arnt-Sim1 complex	1	SIM1
+4	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:416	cor	8	Nitric oxide synthase-dystrophin complex, skeletal muscle	1	DMD
+5	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:235	cor	5	WICH complex	1	SMARCA5
+6	1	TRUE	0.0492	1	12	1	0.083	1	CORUM:101	cor	12	Nucleolar remodeling complex (NoRC complex)	1	SMARCA5
+7	1	TRUE	0.0492	3	12	1	0.083	0.333	CORUM:6595	cor	10	Ccp110-Cep290-Rab8a complex	1	RAB8A
+8	1	TRUE	0.0492	1	12	1	0.083	1	CORUM:3226	cor	13	Cd74-Cd44 receptor complex	1	CD74
+9	1	TRUE	0.0492	3	12	1	0.083	0.333	CORUM:1035	cor	2	OAP-1-OSP/claudin-11-ITGB1 complex	1	TSPAN3
+10	1	TRUE	0.0492	3	12	1	0.083	0.333	CORUM:5524	cor	16	Bmi1-Mel18-Mph1-M33 polycomb repressor complex	1	CBX2
+11	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:751	cor	3	Trpc1-dystrophin-alpha1-syntrophin complex	1	DMD
+12	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:1135	cor	18	Mss4-Itga3 complex	1	ITGA3
+13	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:502	cor	4	Kir4.1-dystrophin complex	1	DMD
+14	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:6327	cor	6	Dystrophin complex (Dmd; Stnb1)	1	DMD
+15	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:505	cor	11	Kir4.1-dystrophin complex	1	DMD
+16	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:6326	cor	7	Dystrophin complex (Dmd; Snta1)	1	DMD
+17	1	TRUE	0.0492	3	12	1	0.083	0.333	CORUM:1161	cor	15	Smrt-Sin3A-Hdac7 complex	1	HDAC7
+18	1	TRUE	0.0492	2	12	1	0.083	0.5	CORUM:2186	cor	1	Gata1-Snf2h complex	1	SMARCA5

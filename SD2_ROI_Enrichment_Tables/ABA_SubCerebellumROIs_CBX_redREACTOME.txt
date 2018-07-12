@@ -1,0 +1,31 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-8953854	Metabolism of RNA	646	68	2.11	6.69	2.1e-09	1.1e-06	2.44	1.83	3.2
+R-HSA-72766	Translation	258	35	2.72	6.42	5.6e-08	1.5e-05	3.14	2.11	4.57
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	30	2.48	5.34	3.7e-06	0.00066	2.79	1.82	4.16
+R-HSA-72613	Eukaryotic Translation Initiation	119	17	2.87	4.69	8e-05	0.0078	3.25	1.81	5.52
+R-HSA-72737	Cap-dependent Translation Initiation	119	17	2.87	4.69	8e-05	0.0078	3.25	1.81	5.52
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	111	16	2.89	4.59	0.00012	0.0078	3.28	1.79	5.67
+R-HSA-72689	Formation of a pool of free 40S subunits	101	15	2.98	4.58	0.00013	0.0078	3.4	1.81	5.97
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	133	18	2.72	4.56	1e-04	0.0078	3.06	1.74	5.1
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	112	16	2.87	4.55	0.00013	0.0078	3.25	1.77	5.6
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	93	14	3.02	4.48	0.00019	0.0084	3.45	1.79	6.18
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	115	16	2.79	4.43	0.00018	0.0084	3.15	1.72	5.42
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	115	16	2.79	4.43	0.00018	0.0084	3.15	1.72	5.42
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	95	14	2.96	4.39	0.00024	0.0097	3.36	1.75	6.02
+R-HSA-168255	Influenza Life Cycle	143	18	2.53	4.21	0.00026	0.0097	2.81	1.6	4.67
+R-HSA-5419276	Mitochondrial translation termination	86	13	3.03	4.34	0.00031	0.011	3.46	1.75	6.34
+R-HSA-5368287	Mitochondrial translation	87	13	3	4.29	0.00035	0.011	3.41	1.72	6.25
+R-HSA-5663205	Infectious disease	326	31	1.91	3.82	4e-04	0.012	2.07	1.37	3.04
+R-HSA-192823	Viral mRNA Translation	89	13	2.93	4.19	0.00043	0.013	3.32	1.68	6.08
+R-HSA-72172	mRNA Splicing	191	21	2.21	3.85	0.00054	0.015	2.41	1.44	3.85
+R-HSA-168254	Influenza Infection	154	18	2.35	3.85	0.00064	0.017	2.58	1.47	4.28
+R-HSA-72695	Formation of the ternary complex, and subsequently, the 43S complex	51	9	3.54	4.17	0.00082	0.021	4.14	1.76	8.69
+R-HSA-5389840	Mitochondrial translation elongation	84	12	2.87	3.93	0.00088	0.021	3.23	1.58	6.05
+R-HSA-392499	Metabolism of proteins	1907	123	1.29	3.27	0.00089	0.021	1.42	1.14	1.75
+R-HSA-72312	rRNA processing	201	21	2.1	3.6	0.001	0.023	2.28	1.36	3.63
+R-HSA-4641265	Repression of WNT target genes	11	4	7.3	4.79	0.0015	0.032	11	2.35	43.3
+R-HSA-72649	Translation initiation complex formation	58	9	3.11	3.7	0.0021	0.041	3.55	1.52	7.35
+R-HSA-72702	Ribosomal scanning and start codon recognition	58	9	3.11	3.7	0.0021	0.041	3.55	1.52	7.35
+R-HSA-195253	Degradation of beta-catenin by the destruction complex	81	11	2.73	3.57	0.0022	0.041	3.04	1.44	5.83
+R-HSA-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	59	9	3.06	3.64	0.0024	0.044	3.48	1.49	7.19
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	83	11	2.66	3.48	0.0026	0.046	2.96	1.4	5.66

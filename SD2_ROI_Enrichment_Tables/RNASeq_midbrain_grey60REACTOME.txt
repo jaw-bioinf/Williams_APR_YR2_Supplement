@@ -1,0 +1,49 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-77387	Insulin receptor recycling	26	4	14	7	0.00017	0.012	16.9	4.17	51
+R-HSA-917977	Transferrin endocytosis and recycling	31	4	11.7	6.31	0.00035	0.012	13.8	3.45	40.5
+R-HSA-1222556	ROS, RNS production in phagocytes	32	4	11.4	6.2	0.00039	0.012	13.3	3.33	39
+R-HSA-72312	rRNA processing	201	9	4.08	4.64	0.00036	0.012	4.51	1.97	9.07
+R-HSA-199991	Membrane Trafficking	599	17	2.58	4.21	0.00027	0.012	2.93	1.62	4.98
+R-HSA-5653656	Vesicle-mediated transport	631	17	2.45	3.97	0.00049	0.013	2.77	1.54	4.71
+R-HSA-392851	Prostacyclin signalling through prostacyclin receptor	19	3	14.4	6.15	0.0011	0.02	17.3	3.18	61.7
+R-HSA-418217	G beta:gamma signalling through PLC beta	20	3	13.7	5.97	0.0013	0.02	16.3	3.01	57.6
+R-HSA-111885	Opioid Signalling	74	5	6.15	4.69	0.0013	0.02	6.78	2.09	17.1
+R-HSA-8868773	rRNA processing in the nucleus and cytosol	191	8	3.81	4.14	0.0012	0.02	4.16	1.73	8.69
+R-HSA-500657	Presynaptic function of Kainate receptors	21	3	13	5.8	0.0015	0.021	15.4	2.86	53.8
+R-HSA-392170	ADP signalling through P2Y purinoceptor 12	22	3	12.4	5.65	0.0017	0.021	14.6	2.72	50.6
+R-HSA-400042	Adrenaline,noradrenaline inhibits insulin secretion	23	3	11.9	5.5	0.0019	0.021	13.8	2.6	47.7
+R-HSA-428930	Thromboxane signalling through TP receptor	23	3	11.9	5.5	0.0019	0.021	13.8	2.6	47.7
+R-HSA-1296041	Activation of G protein gated Potassium channels	25	3	10.9	5.24	0.0025	0.021	12.6	2.38	42.8
+R-HSA-1296059	G protein gated Potassium channels	25	3	10.9	5.24	0.0025	0.021	12.6	2.38	42.8
+R-HSA-418592	ADP signalling through P2Y purinoceptor 1	25	3	10.9	5.24	0.0025	0.021	12.6	2.38	42.8
+R-HSA-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	25	3	10.9	5.24	0.0025	0.021	12.6	2.38	42.8
+R-HSA-202040	G-protein activation	28	3	9.75	4.89	0.0035	0.028	11.1	2.11	37.1
+R-HSA-917937	Iron uptake and transport	58	4	6.28	4.25	0.0037	0.028	6.88	1.78	19.2
+R-HSA-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	182	7	3.5	3.59	0.0039	0.028	3.78	1.46	8.23
+R-HSA-418597	G alpha (z) signalling events	30	3	9.1	4.68	0.0042	0.03	10.2	1.96	34.1
+R-HSA-1296065	Inwardly rectifying K+ channels	31	3	8.81	4.59	0.0046	0.03	9.88	1.89	32.7
+R-HSA-392518	Signal amplification	32	3	8.53	4.5	0.0051	0.03	9.54	1.83	31.5
+R-HSA-451326	Activation of kainate receptors upon glutamate binding	32	3	8.53	4.5	0.0051	0.03	9.54	1.83	31.5
+R-HSA-456926	Thrombin signalling through proteinase activated receptors (PARs)	32	3	8.53	4.5	0.0051	0.03	9.54	1.83	31.5
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	3	8.28	4.41	0.0055	0.03	9.22	1.77	30.4
+R-HSA-420092	Glucagon-type ligand receptors	33	3	8.28	4.41	0.0055	0.03	9.22	1.77	30.4
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	7	3.19	3.29	0.0064	0.034	3.42	1.32	7.43
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	36	3	7.59	4.17	0.0071	0.036	8.38	1.62	27.4
+R-HSA-5696398	Nucleotide Excision Repair	111	5	4.1	3.46	0.0074	0.037	4.4	1.37	10.9
+R-HSA-74752	Signaling by Insulin receptor	72	4	5.06	3.64	0.008	0.039	5.46	1.42	15
+R-HSA-977444	GABA B receptor activation	39	3	7	3.96	0.0088	0.04	7.68	1.49	24.9
+R-HSA-991365	Activation of GABAB receptors	39	3	7	3.96	0.0088	0.04	7.68	1.49	24.9
+R-HSA-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	42	3	6.5	3.77	0.011	0.043	7.09	1.38	22.9
+R-HSA-390466	Chaperonin-mediated protein folding	43	3	6.35	3.71	0.012	0.043	6.91	1.35	22.2
+R-HSA-391251	Protein folding	43	3	6.35	3.71	0.012	0.043	6.91	1.35	22.2
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	3	6.35	3.71	0.012	0.043	6.91	1.35	22.2
+R-HSA-418346	Platelet homeostasis	79	4	4.61	3.39	0.011	0.043	4.94	1.29	13.6
+R-HSA-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	79	4	4.61	3.39	0.011	0.043	4.94	1.29	13.6
+R-HSA-8953854	Metabolism of RNA	646	14	1.97	2.69	0.011	0.043	2.14	1.12	3.79
+R-HSA-6811438	Intra-Golgi traffic	44	3	6.21	3.65	0.012	0.045	6.74	1.32	21.6
+R-HSA-73776	RNA Polymerase II Promoter Escape	47	3	5.81	3.48	0.015	0.048	6.28	1.23	20.1
+R-HSA-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	47	3	5.81	3.48	0.015	0.048	6.28	1.23	20.1
+R-HSA-75953	RNA Polymerase II Transcription Initiation	47	3	5.81	3.48	0.015	0.048	6.28	1.23	20.1
+R-HSA-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance	47	3	5.81	3.48	0.015	0.048	6.28	1.23	20.1
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	84	4	4.33	3.23	0.014	0.048	4.63	1.21	12.7
+R-HSA-392451	G beta:gamma signalling through PI3Kgamma	48	3	5.69	3.43	0.016	0.05	6.14	1.2	19.6

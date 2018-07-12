@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1430728	Metabolism	1899	136	1.57	6.02	8e-09	3.6e-06	1.87	1.51	2.31
+R-HSA-6798695	Neutrophil degranulation	477	44	2.02	5	5.9e-06	0.0013	2.24	1.58	3.12
+R-HSA-1474244	Extracellular matrix organization	278	29	2.29	4.75	2.6e-05	0.0039	2.53	1.64	3.78
+R-HSA-556833	Metabolism of lipids	696	55	1.73	4.37	3.9e-05	0.0043	1.9	1.39	2.56
+R-HSA-8978868	Fatty acid metabolism	168	20	2.61	4.6	7.8e-05	0.007	2.91	1.71	4.71
+R-HSA-1483191	Synthesis of PC	28	7	5.48	5.19	2e-04	0.015	7.06	2.52	17.4
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	12	2.92	4	0.00076	0.033	3.28	1.61	6.11
+R-HSA-425407	SLC-mediated transmembrane transport	241	23	2.09	3.75	0.00065	0.033	2.27	1.39	3.54
+R-HSA-1483257	Phospholipid metabolism	200	20	2.19	3.72	8e-04	0.033	2.38	1.41	3.84
+R-HSA-382551	Transport of small molecules	705	51	1.58	3.52	0.00064	0.033	1.71	1.24	2.32
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	38	1.71	3.51	0.00081	0.033	1.84	1.27	2.61
+R-HSA-446353	Cell-extracellular matrix interactions	18	5	6.09	4.72	0.001	0.034	8.12	2.26	24.4
+R-HSA-8982491	Glycogen metabolism	28	6	4.7	4.28	0.0014	0.034	5.76	1.9	14.7
+R-HSA-5083635	Defective B3GALTL causes Peters-plus syndrome (PpS)	37	7	4.15	4.19	0.0012	0.034	4.94	1.82	11.6
+R-HSA-3000171	Non-integrin membrane-ECM interactions	38	7	4.04	4.1	0.0015	0.034	4.78	1.77	11.1
+R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	38	7	4.04	4.1	0.0015	0.034	4.78	1.77	11.1
+R-HSA-425366	Transport of bile salts and organic acids, metal ions and amine compounds	80	11	3.01	3.95	0.00096	0.034	3.39	1.61	6.51
+R-HSA-446728	Cell junction organization	70	10	3.13	3.91	0.0012	0.034	3.54	1.6	7.03
+R-HSA-1483206	Glycerophospholipid biosynthesis	123	14	2.49	3.65	0.0014	0.034	2.74	1.44	4.84
+R-HSA-2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	13	4	6.74	4.53	0.0022	0.045	9.36	2.1	33.7
+R-HSA-2046106	alpha-linolenic acid (ALA) metabolism	13	4	6.74	4.53	0.0022	0.045	9.36	2.1	33.7
+R-HSA-425410	Metal ion SLC transporters	21	5	5.22	4.23	0.0021	0.045	6.59	1.88	18.9
+R-HSA-8875878	MET promotes cell motility	41	7	3.74	3.85	0.0023	0.045	4.36	1.62	10.1
+R-HSA-75876	Synthesis of very long-chain fatty acyl-CoAs	22	5	4.98	4.09	0.0027	0.05	6.2	1.78	17.6
+R-HSA-1500931	Cell-Cell communication	92	11	2.62	3.41	0.003	0.05	2.88	1.38	5.49
+R-HSA-1474228	Degradation of the extracellular matrix	119	13	2.39	3.34	0.003	0.05	2.61	1.33	4.7
+R-HSA-202733	Cell surface interactions at the vascular wall	133	14	2.31	3.32	0.003	0.05	2.51	1.32	4.42

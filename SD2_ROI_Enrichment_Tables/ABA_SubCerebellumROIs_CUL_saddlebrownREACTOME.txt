@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3906995	Diseases associated with O-glycosylation of proteins	66	3	19	7.18	5e-04	0.011	22.5	4.19	78.3
+R-HSA-3781865	Diseases of glycosylation	135	3	9.27	4.74	0.0039	0.029	10.7	2.01	36.3
+R-HSA-5621481	C-type lectin receptors (CLRs)	138	3	9.07	4.68	0.0042	0.029	10.4	1.97	35.5

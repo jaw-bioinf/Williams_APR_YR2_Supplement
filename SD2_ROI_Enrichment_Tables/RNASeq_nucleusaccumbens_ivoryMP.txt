@@ -1,0 +1,54 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0002063 abnormal learning/memory/conditioning 664 14 6.31 8.22 6.8e-09 8.9e-07 10.9 4.94 23.6
+MP:0014114 abnormal cognition 665 14 6.3 8.21 7e-09 8.9e-07 10.9 4.94 23.5
+MP:0003633 abnormal nervous system physiology 1903 20 3.15 6.08 1.3e-07 1.1e-05 7.11 3.24 16.4
+MP:0002572 abnormal emotion/affect behavior 619 12 5.8 7.16 3e-07 1.9e-05 8.99 3.96 19.6
+MP:0002207 abnormal long term potentiation 237 7 8.84 7.08 1e-05 0.00052 11.4 4.11 27.7
+MP:0009456 impaired cued conditioning behavior 48 4 24.9 9.63 1.8e-05 0.00076 30.9 7.55 94.3
+MP:0001360 abnormal social investigation 106 5 14.1 7.86 2.4e-05 0.00079 17.4 5.11 47.3
+MP:0012317 impaired conditioning behavior 107 5 14 7.82 2.5e-05 0.00079 17.2 5.06 46.8
+MP:0001454 abnormal cued conditioning behavior 115 5 13 7.51 3.5e-05 8e-04 16 4.7 43.3
+MP:0003107 abnormal response to novelty 283 7 7.4 6.33 3.2e-05 8e-04 9.47 3.42 22.9
+MP:0002062 abnormal associative learning 290 7 7.23 6.24 3.7e-05 8e-04 9.23 3.33 22.3
+MP:0002206 abnormal CNS synaptic transmission 653 10 4.58 5.5 3.2e-05 8e-04 6.37 2.67 14.2
+MP:0009454 impaired contextual conditioning behavior 61 4 19.6 8.45 4.7e-05 0.00092 23.8 5.87 71.7
+MP:0002910 abnormal excitatory postsynaptic currents 139 5 10.8 6.72 8.7e-05 0.0016 13.1 3.86 35.3
+MP:0001469 abnormal contextual conditioning behavior 144 5 10.4 6.58 1e-04 0.0016 12.6 3.72 34
+MP:0002272 abnormal nervous system electrophysiology 339 7 6.18 5.63 1e-04 0.0016 7.83 2.83 18.9
+MP:0003635 abnormal synaptic transmission 740 10 4.04 5 9.3e-05 0.0016 5.55 2.33 12.4
+MP:0001473 reduced long term potentiation 156 5 9.59 6.27 0.00015 0.0021 11.6 3.42 31.2
+MP:0001468 abnormal temporal memory 173 5 8.65 5.88 0.00024 0.0033 10.4 3.08 27.9
+MP:0009435 abnormal miniature inhibitory postsynaptic currents 41 3 21.9 7.77 0.00033 0.0042 25.9 4.84 89.6
+MP:0009745 abnormal behavioral response to xenobiotic 295 6 6.09 5.14 0.00037 0.0045 7.43 2.48 18.8
+MP:0008948 decreased neuron number 446 7 4.7 4.63 0.00054 0.0063 5.85 2.12 14.1
+MP:0009749 enhanced behavioral response to addictive substance 50 3 18 6.96 6e-04 0.0066 20.9 3.94 71.4
+MP:0002882 abnormal neuron morphology 1515 13 2.57 3.86 0.00063 0.0067 3.72 1.67 8.06
+MP:0001362 abnormal anxiety-related response 332 6 5.41 4.74 0.00069 0.0071 6.57 2.19 16.5
+MP:0001413 abnormal response to new environment 226 5 6.62 4.95 0.00083 0.0082 7.85 2.33 21
+MP:0002065 abnormal fear/anxiety-related behavior 369 6 4.87 4.39 0.0012 0.011 5.87 1.96 14.8
+MP:0001364 decreased anxiety-related response 150 4 7.98 4.99 0.0015 0.013 9.23 2.32 27
+MP:0008946 abnormal neuron number 534 7 3.92 4.03 0.0016 0.014 4.82 1.75 11.6
+MP:0009746 enhanced behavioral response to xenobiotic 77 3 11.7 5.44 0.0021 0.018 13.3 2.53 44.4
+MP:0002942 decreased circulating alanine transaminase level 86 3 10.4 5.09 0.0029 0.024 11.8 2.26 39.4
+MP:0008450 retinal photoreceptor degeneration 92 3 9.76 4.89 0.0035 0.025 11 2.11 36.7
+MP:0013189 abnormal exploration in a new environment 185 4 6.47 4.35 0.0032 0.025 7.42 1.87 21.6
+MP:0000745 tremors 313 5 4.78 3.94 0.0035 0.025 5.58 1.66 14.9
+MP:0001405 impaired coordination 454 6 3.96 3.74 0.0034 0.025 4.71 1.57 11.8
+MP:0003313 abnormal locomotor activation 1152 10 2.6 3.36 0.0032 0.025 3.38 1.42 7.52
+MP:0009748 abnormal behavioral response to addictive substance 101 3 8.89 4.62 0.0045 0.03 10 1.91 33.2
+MP:0008515 thin retinal outer nuclear layer 102 3 8.8 4.59 0.0046 0.03 9.89 1.89 32.8
+MP:0011997 abnormal retinal outer nuclear layer thickness 103 3 8.72 4.56 0.0048 0.03 9.79 1.88 32.5
+MP:0001399 hyperactivity 475 6 3.78 3.6 0.0043 0.03 4.49 1.5 11.3
+MP:0002906 increased susceptibility to pharmacologically induced seizures 106 3 8.47 4.48 0.0052 0.031 9.51 1.82 31.5
+MP:0012349 increased susceptibility to induction of seizure by inducing agent 107 3 8.39 4.45 0.0053 0.031 9.41 1.8 31.2
+MP:0002679 abnormal corpus luteum morphology 107 3 8.39 4.45 0.0053 0.031 9.41 1.8 31.2
+MP:0000965 abnormal sensory neuron morphology 494 6 3.64 3.49 0.0052 0.031 4.31 1.44 10.8
+MP:0002557 abnormal social/conspecific interaction 351 5 4.26 3.61 0.0057 0.032 4.95 1.47 13.2
+MP:0004097 abnormal cerebellar cortex morphology 353 5 4.24 3.59 0.0058 0.032 4.92 1.47 13.1
+MP:0001513 limb grasping 246 4 4.87 3.56 0.0086 0.046 5.51 1.39 16
+MP:0000003 abnormal adipose tissue morphology 916 8 2.61 2.98 0.0088 0.046 3.19 1.23 7.43
+MP:0001392 abnormal locomotor behavior 1537 11 2.14 2.84 0.0084 0.046 2.78 1.2 6.11
+MP:0009142 decreased prepulse inhibition 133 3 6.75 3.87 0.0097 0.048 7.51 1.44 24.8
+MP:0000950 abnormal seizure response to pharmacological agent 134 3 6.7 3.85 0.0099 0.048 7.45 1.43 24.6
+MP:0011117 abnormal susceptibility to weight gain 252 4 4.75 3.5 0.0094 0.048 5.37 1.36 15.6
+MP:0005375 adipose tissue phenotype 937 8 2.56 2.91 0.01 0.048 3.11 1.2 7.24

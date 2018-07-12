@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-3295583	TRP channels	28	3	17.3	6.82	0.00066	0.017	20.2	3.79	68.8
+R-HSA-416476	G alpha (q) signalling events	207	6	4.68	4.22	0.0017	0.021	5.2	1.81	12.2
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	7	3.53	3.63	0.0035	0.026	3.92	1.49	8.72
+R-HSA-500792	GPCR ligand binding	419	8	3.08	3.44	0.0041	0.026	3.44	1.4	7.33
+R-HSA-388396	GPCR downstream signalling	1091	14	2.07	2.96	0.0059	0.03	2.4	1.22	4.45
+R-HSA-372790	Signaling by GPCR	1118	14	2.02	2.86	0.0073	0.031	2.34	1.19	4.33

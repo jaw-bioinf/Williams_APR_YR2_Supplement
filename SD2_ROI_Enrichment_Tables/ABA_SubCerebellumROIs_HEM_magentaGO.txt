@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00421	2	13	2	0.154	1	CORUM:6273	cor	3	Lep-Lepr quaternary protein	1	LEPR,LEP
+2	1	TRUE	0.0216	285	151	16	0.106	0.056	KEGG:04080	keg	1	Neuroactive ligand-receptor interaction	1	ADORA3,ADORA2A,GZMA,GRM2,HTR2B,ADRB1,GRIN3B,HTR5A,TSPO,S1PR4,RXFP4,FPR2,A630033H20RIK,LEPR,LEP,CALCRL

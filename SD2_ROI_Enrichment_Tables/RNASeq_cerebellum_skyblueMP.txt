@@ -1,0 +1,45 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004145	abnormal muscle electrophysiology	27	3	18.1	6.99	0.00058	0.017	21.2	3.98	73.3
+MP:0012348	decreased susceptibility to induction of seizure by inducing agent	28	3	17.4	6.85	0.00065	0.017	20.4	3.83	70
+MP:0002887	decreased susceptibility to pharmacologically induced seizures	28	3	17.4	6.85	0.00065	0.017	20.4	3.83	70
+MP:0010240	decreased skeletal muscle size	73	5	11.1	6.84	8e-05	0.017	12.9	3.91	33.6
+MP:0009413	skeletal muscle fiber atrophy	29	3	16.8	6.72	0.00072	0.017	19.6	3.69	67
+MP:0009417	skeletal muscle atrophy	50	4	13	6.7	0.00024	0.017	15	3.8	43.4
+MP:0009458	abnormal skeletal muscle size	86	5	9.46	6.2	0.00017	0.017	10.8	3.29	28
+MP:0000947	convulsive seizures	175	7	6.51	5.79	9e-05	0.017	7.54	2.84	17
+MP:0001559	hyperglycemia	140	6	6.98	5.6	2e-04	0.017	7.97	2.75	19
+MP:0005598	decreased ventricle muscle contractility	112	5	7.27	5.25	6e-04	0.017	8.19	2.5	20.9
+MP:0002183	gliosis	206	7	5.53	5.17	0.00025	0.017	6.34	2.4	14.3
+MP:0006036	abnormal mitochondrial physiology	167	6	5.85	4.97	0.00053	0.017	6.62	2.29	15.7
+MP:0009745	abnormal behavioral response to xenobiotic	295	8	4.41	4.69	4e-04	0.017	5.08	2.06	10.9
+MP:0005559	increased circulating glucose level	365	9	4.01	4.62	0.00034	0.017	4.67	2	9.72
+MP:0002693	abnormal pancreas physiology	303	8	4.3	4.59	0.00048	0.017	4.94	2	10.6
+MP:0005293	impaired glucose tolerance	327	8	3.98	4.32	8e-04	0.017	4.55	1.85	9.8
+MP:0002128	abnormal blood circulation	719	13	2.94	4.27	0.00033	0.017	3.56	1.75	6.77
+MP:0003634	abnormal glial cell morphology	409	9	3.58	4.2	0.00079	0.017	4.13	1.77	8.6
+MP:0004262	abnormal physical strength	488	10	3.34	4.17	0.00068	0.017	3.89	1.74	7.86
+MP:0001544	abnormal cardiovascular system physiology	1571	21	2.18	4.02	0.00024	0.017	2.89	1.6	5.1
+MP:0002106	abnormal muscle physiology	954	15	2.56	4	0.00047	0.017	3.15	1.62	5.82
+MP:0000188	abnormal circulating glucose level	774	13	2.73	3.96	0.00066	0.017	3.28	1.62	6.24
+MP:0012322	decreased total tissue mass	1833	22	1.95	3.58	0.00076	0.017	2.57	1.43	4.52
+MP:0001262	decreased body weight	1833	22	1.95	3.58	0.00076	0.017	2.57	1.43	4.52
+MP:0003393	decreased cardiac output	34	3	14.4	6.14	0.0011	0.023	16.4	3.12	55.3
+MP:0003997	tonic-clonic seizures	78	4	8.35	5.12	0.0013	0.023	9.32	2.39	26.3
+MP:0004819	decreased skeletal muscle mass	134	5	6.07	4.65	0.0013	0.023	6.77	2.08	17.3
+MP:0008489	slow postnatal weight gain	197	6	4.96	4.41	0.0013	0.023	5.56	1.93	13.2
+MP:0003492	abnormal involuntary movement	942	14	2.42	3.61	0.0013	0.023	2.91	1.46	5.45
+MP:0002574	increased vertical activity	80	4	8.14	5.04	0.0014	0.024	9.08	2.33	25.6
+MP:0004142	abnormal muscle tone	85	4	7.66	4.85	0.0018	0.029	8.51	2.19	23.9
+MP:0000364	abnormal vascular regression	41	3	11.9	5.5	0.002	0.031	13.4	2.57	44.3
+MP:0004817	abnormal skeletal muscle mass	152	5	5.35	4.26	0.0023	0.032	5.93	1.82	15.1
+MP:0005217	abnormal pancreatic beta cell morphology	152	5	5.35	4.26	0.0023	0.032	5.93	1.82	15.1
+MP:0002064	seizures	383	8	3.4	3.77	0.0022	0.032	3.85	1.56	8.28
+MP:0002164	abnormal gland physiology	673	11	2.66	3.52	0.0023	0.032	3.09	1.44	6.09
+MP:0005140	decreased cardiac muscle contractility	236	6	4.14	3.84	0.0031	0.042	4.6	1.6	10.9
+MP:0001627	abnormal cardiac output	50	3	9.77	4.89	0.0035	0.045	10.8	2.09	35.4
+MP:0005369	muscle phenotype	1401	17	1.98	3.11	0.0034	0.045	2.41	1.28	4.36
+MP:0009403	increased variability of skeletal muscle fiber size	53	3	9.21	4.71	0.0041	0.049	10.2	1.97	33.1
+MP:0011117	abnormal susceptibility to weight gain	252	6	3.88	3.64	0.0043	0.049	4.29	1.49	10.1
+MP:0001362	abnormal anxiety-related response	332	7	3.43	3.55	0.004	0.049	3.83	1.45	8.58
+MP:0002572	abnormal emotion/affect behavior	619	10	2.63	3.3	0.004	0.049	3.01	1.35	6.07
+MP:0002078	abnormal glucose homeostasis	1187	15	2.06	3.07	0.0044	0.049	2.45	1.26	4.53

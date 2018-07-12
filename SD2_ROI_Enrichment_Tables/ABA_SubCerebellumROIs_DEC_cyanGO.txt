@@ -1,0 +1,9 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0421	7	5	1	0.2	0.143	CORUM:349	cor	2	Sarcoglycan-sarcospan-syntrophin-dystrobrevin complex	1	SNTB1
+2	1	TRUE	0.0243	2	5	1	0.2	0.5	CORUM:6327	cor	7	Dystrophin complex (Dmd; Stnb1)	1	SNTB1
+3	1	TRUE	0.0243	2	5	1	0.2	0.5	CORUM:5566	cor	5	Isl1-Jak1-Stat3 complex	1	STAT3
+4	1	TRUE	0.0243	1	5	1	0.2	1	CORUM:6328	cor	1	Utrophin complex (Utrn, Stnb1)	1	SNTB1
+5	1	TRUE	0.0345	5	5	1	0.2	0.2	CORUM:122	cor	8	MCM complex	1	MCM4
+6	1	TRUE	0.0243	1	5	1	0.2	1	CORUM:1523	cor	6	Stat3-Crebbp complex	1	STAT3
+7	1	TRUE	0.0345	5	5	1	0.2	0.2	CORUM:6633	cor	9	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	FBXW8
+8	1	TRUE	0.0345	4	5	1	0.2	0.25	CORUM:694	cor	4	Bad-Gk-Wave1-Pkaca-Ppp1cc complex	1	GCK

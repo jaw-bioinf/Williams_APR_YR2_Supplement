@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0002090	abnormal vision	86	10	5.96	6.52	6.1e-06	0.0061	6.94	3.14	13.8
+MP:0000745	tremors	313	18	2.95	4.95	3.8e-05	0.019	3.29	1.88	5.46
+MP:0008917	abnormal oligodendrocyte physiology	24	5	10.7	6.7	8.4e-05	0.028	13.6	3.91	38.1

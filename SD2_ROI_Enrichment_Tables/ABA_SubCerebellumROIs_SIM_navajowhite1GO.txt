@@ -1,0 +1,3 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00487	2	1	1	1	0.5	CORUM:2548	cor	3	Egfr-Grb2-mSos1 complex, EGF stimulated	1	EGFR
+2	1	TRUE	0.00487	3	1	1	1	0.333	CORUM:5172	cor	2	Sh3kbp1-Cblb-Egfr complex	1	EGFR

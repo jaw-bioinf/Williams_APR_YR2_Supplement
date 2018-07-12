@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:9065	leishmaniasis	21	5	11	6.81	6.9e-05	0.017	14.5	4.1	42.1
+DOID:3326	purpura	71	8	5.19	5.29	0.00014	0.017	5.98	2.43	12.8
+DOID:5082	liver cirrhosis	207	14	3.12	4.6	0.00015	0.017	3.5	1.83	6.21
+DOID:0060158	acquired metabolic disease	1078	40	1.71	3.77	0.00031	0.027	2	1.35	2.91
+DOID:2213	hemorrhagic disease	133	10	3.46	4.27	0.00059	0.041	3.85	1.76	7.53
+DOID:0014667	disease of metabolism	1280	44	1.58	3.44	0.00078	0.045	1.85	1.27	2.67

@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-191273	Cholesterol biosynthesis	25	3	25	8.35	0.00022	0.0073	30.1	5.56	105
+R-HSA-1592389	Activation of Matrix Metalloproteinases	33	3	19	7.17	0.00051	0.0084	22	4.16	74.9

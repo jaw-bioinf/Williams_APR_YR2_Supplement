@@ -1,0 +1,84 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-70263	Gluconeogenesis	34	7	24	12.5	1.2e-08	1.8e-06	32.4	11.6	79.4
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	93	8	10	8.13	1.2e-06	9e-05	11.9	4.8	25.6
+R-HSA-70326	Glucose metabolism	81	7	10.1	7.62	5.6e-06	0.00028	11.8	4.44	26.6
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	87	7	9.37	7.3	9e-06	0.00034	10.9	4.11	24.5
+R-HSA-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	19	4	24.5	9.55	1.8e-05	0.00039	32.2	7.61	104
+R-HSA-190872	Transport of connexons to the plasma membrane	20	4	23.3	9.29	2.2e-05	0.00039	30.2	7.18	96.2
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	69	6	10.1	7.08	2.6e-05	0.00039	11.7	4.03	28.1
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	69	6	10.1	7.08	2.6e-05	0.00039	11.7	4.03	28.1
+R-HSA-71387	Metabolism of carbohydrates	263	11	4.87	5.92	1.4e-05	0.00039	5.63	2.66	10.8
+R-HSA-1430728	Metabolism	1899	33	2.02	4.61	2e-05	0.00039	2.69	1.68	4.24
+R-HSA-8854518	AURKA Activation by TPX2	72	6	9.7	6.9	3.3e-05	0.00046	11.2	3.85	26.8
+R-HSA-5358351	Signaling by Hedgehog	148	8	6.29	6.04	3.8e-05	0.00047	7.17	2.93	15.2
+R-HSA-69275	G2/M Transition	195	9	5.37	5.74	4.2e-05	0.00049	6.12	2.66	12.5
+R-HSA-453274	Mitotic G2-G2/M phases	197	9	5.32	5.7	4.6e-05	0.00049	6.05	2.63	12.3
+R-HSA-5610787	Hedgehog 'off' state	113	7	7.21	6.18	5e-05	5e-04	8.2	3.12	18.3
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	6	8.73	6.46	6.1e-05	0.00054	9.98	3.45	23.7
+R-HSA-380287	Centrosome maturation	80	6	8.73	6.46	6.1e-05	0.00054	9.98	3.45	23.7
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	52	5	11.2	6.86	7.9e-05	0.00066	13	3.92	33.7
+R-HSA-8955332	Carboxyterminal post-translational modifications of tubulin	28	4	16.6	7.71	8.9e-05	7e-04	20.1	4.96	60.4
+R-HSA-1852241	Organelle biogenesis and maintenance	269	10	4.33	5.15	9.7e-05	0.00073	4.91	2.24	9.67
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	12	3	29.1	9.07	0.00013	0.00091	39.7	6.8	162
+R-HSA-5626467	RHO GTPases activate IQGAPs	33	4	14.1	7.02	0.00017	0.0012	16.6	4.15	48.9
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	6	7.2	5.71	0.00018	0.0012	8.1	2.82	19.1
+R-HSA-446203	Asparagine N-linked glycosylation	299	10	3.89	4.73	0.00023	0.0014	4.39	2	8.63
+R-HSA-190861	Gap junction assembly	37	4	12.6	6.57	0.00027	0.0016	14.6	3.68	42.5
+R-HSA-68877	Mitotic Prometaphase	199	8	4.68	4.88	3e-04	0.0017	5.23	2.15	11
+R-HSA-5617833	Cilium Assembly	201	8	4.63	4.84	0.00032	0.0018	5.17	2.13	10.9
+R-HSA-437239	Recycling pathway of L1	41	4	11.4	6.19	4e-04	0.0022	13	3.3	37.5
+R-HSA-180024	DARPP-32 events	19	3	18.4	7.06	0.00054	0.0026	22.4	4.1	80.2
+R-HSA-71403	Citric acid cycle (TCA cycle)	19	3	18.4	7.06	0.00054	0.0026	22.4	4.1	80.2
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	78	5	7.46	5.33	0.00054	0.0026	8.33	2.56	21.1
+R-HSA-1268020	Mitochondrial protein import	20	3	17.5	6.86	0.00063	0.0029	21	3.88	74.8
+R-HSA-109582	Hemostasis	608	14	2.68	3.98	0.00062	0.0029	3.05	1.58	5.5
+R-HSA-2132295	MHC class II antigen presentation	124	6	5.63	4.83	0.00067	0.003	6.23	2.18	14.6
+R-HSA-190828	Gap junction trafficking	48	4	9.7	5.63	0.00074	0.0032	11	2.79	31.1
+R-HSA-157858	Gap junction trafficking and regulation	50	4	9.31	5.49	0.00086	0.0036	10.5	2.68	29.7
+R-HSA-8856688	Golgi-to-ER retrograde transport	134	6	5.21	4.57	0.001	0.0041	5.74	2.01	13.4
+R-HSA-5620924	Intraflagellar transport	54	4	8.62	5.23	0.0012	0.0046	9.63	2.47	27.2
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR)	56	4	8.32	5.11	0.0013	0.0051	9.26	2.38	26
+R-HSA-114452	Activation of BH3-only proteins	27	3	12.9	5.78	0.0015	0.0057	14.9	2.82	50.6
+R-HSA-1280218	Adaptive Immune System	746	15	2.34	3.54	0.0016	0.0057	2.66	1.41	4.71
+R-HSA-6811434	COPI-dependent Golgi-to-ER retrograde traffic	100	5	5.82	4.51	0.0017	0.0059	6.39	1.97	16
+R-HSA-983189	Kinesins	60	4	7.76	4.89	0.0017	0.006	8.59	2.21	24.1
+R-HSA-6807878	COPI-mediated anterograde transport	102	5	5.71	4.45	0.0018	0.0061	6.25	1.93	15.7
+R-HSA-163359	Glucagon signaling in metabolic regulation	33	3	10.6	5.13	0.0028	0.009	11.9	2.28	39.5
+R-HSA-983231	Factors involved in megakaryocyte development and platelet production	163	6	4.29	3.94	0.0027	0.009	4.67	1.64	10.8
+R-HSA-5663084	Diseases of carbohydrate metabolism	34	3	10.3	5.04	0.003	0.0095	11.5	2.21	38.1
+R-HSA-5357801	Programmed Cell Death	115	5	5.06	4.08	0.003	0.0095	5.51	1.71	13.8
+R-HSA-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	35	3	9.98	4.95	0.0033	0.01	11.2	2.15	36.8
+R-HSA-111885	Opioid Signalling	74	4	6.29	4.25	0.0037	0.011	6.86	1.78	19
+R-HSA-373760	L1CAM interactions	76	4	6.13	4.18	0.0041	0.012	6.67	1.73	18.5
+R-HSA-8852135	Protein ubiquitination	77	4	6.05	4.14	0.0043	0.012	6.58	1.71	18.2
+R-HSA-114608	Platelet degranulation 	123	5	4.73	3.88	0.0041	0.012	5.13	1.59	12.8
+R-HSA-109606	Intrinsic Pathway for Apoptosis	40	3	8.73	4.56	0.0048	0.013	9.66	1.87	31.4
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	127	5	4.58	3.78	0.0047	0.013	4.96	1.54	12.4
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	128	5	4.55	3.76	0.0048	0.013	4.92	1.53	12.3
+R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	43	3	8.12	4.36	0.0059	0.015	8.93	1.73	28.9
+R-HSA-2467813	Separation of Sister Chromatids	191	6	3.66	3.45	0.0059	0.015	3.95	1.39	9.14
+R-HSA-69278	Cell Cycle, Mitotic	531	11	2.41	3.11	0.0056	0.015	2.65	1.26	5.06
+R-HSA-68886	M Phase	391	9	2.68	3.15	0.0062	0.016	2.92	1.28	5.89
+R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	47	3	7.43	4.11	0.0076	0.018	8.11	1.58	26.1
+R-HSA-163685	Integration of energy metabolism	92	4	5.06	3.64	0.008	0.018	5.45	1.42	15
+R-HSA-5663220	RHO GTPases Activate Formins	141	5	4.13	3.48	0.0072	0.018	4.44	1.38	11.1
+R-HSA-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	200	6	3.49	3.31	0.0074	0.018	3.76	1.32	8.7
+R-HSA-68882	Mitotic Anaphase	202	6	3.46	3.29	0.0077	0.018	3.72	1.31	8.61
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	6	3.44	3.27	0.0079	0.018	3.7	1.3	8.56
+R-HSA-445717	Aquaporin-mediated transport	52	3	6.72	3.85	0.01	0.022	7.28	1.42	23.3
+R-HSA-199977	ER to Golgi Anterograde Transport	155	5	3.76	3.22	0.011	0.023	4.02	1.25	9.99
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	57	3	6.13	3.61	0.013	0.028	6.6	1.3	21
+R-HSA-917937	Iron uptake and transport	58	3	6.02	3.57	0.013	0.028	6.48	1.27	20.6
+R-HSA-109581	Apoptosis	108	4	4.31	3.22	0.014	0.028	4.61	1.2	12.6
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	5	3.53	3.05	0.014	0.028	3.77	1.18	9.34
+R-HSA-194315	Signaling by Rho GTPases	441	9	2.38	2.75	0.013	0.028	2.57	1.12	5.18
+R-HSA-199991	Membrane Trafficking	599	11	2.14	2.67	0.013	0.028	2.33	1.11	4.44
+R-HSA-1640170	Cell Cycle	607	11	2.11	2.63	0.014	0.029	2.3	1.09	4.38
+R-HSA-5678895	Defective CFTR causes cystic fibrosis	61	3	5.73	3.45	0.015	0.03	6.15	1.21	19.5
+R-HSA-70171	Glycolysis	61	3	5.73	3.45	0.015	0.03	6.15	1.21	19.5
+R-HSA-392499	Metabolism of proteins	1907	25	1.53	2.38	0.016	0.03	1.75	1.05	2.84
+R-HSA-195258	RHO GTPase Effectors	313	7	2.6	2.68	0.018	0.034	2.79	1.08	6.08
+R-HSA-422356	Regulation of insulin secretion	66	3	5.29	3.26	0.019	0.035	5.66	1.11	17.9
+R-HSA-5653656	Vesicle-mediated transport	631	11	2.03	2.49	0.019	0.035	2.2	1.05	4.2
+R-HSA-71291	Metabolism of amino acids and derivatives	251	6	2.78	2.66	0.021	0.038	2.96	1.05	6.83
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	5	3.13	2.73	0.022	0.039	3.32	1.04	8.22

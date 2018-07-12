@@ -1,0 +1,13 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1474244	Extracellular matrix organization	278	28	2.5	5.19	7.2e-06	0.0022	2.79	1.79	4.19
+R-HSA-209776	Amine-derived hormones	18	6	8.26	6.32	5.1e-05	0.0052	12	3.69	34.9
+R-HSA-1442490	Collagen degradation	52	10	4.77	5.58	3.5e-05	0.0052	5.78	2.57	11.8
+R-HSA-209968	Thyroxine biosynthesis	10	4	9.91	5.78	0.00045	0.02	16	3.31	67.7
+R-HSA-5676594	TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	18	5	6.88	5.12	0.00058	0.02	9.24	2.57	27.8
+R-HSA-1187000	Fertilization	26	6	5.72	4.94	0.00048	0.02	7.22	2.36	18.8
+R-HSA-1474165	Reproduction	27	6	5.51	4.81	6e-04	0.02	6.88	2.26	17.8
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	10	3.7	4.55	0.00032	0.02	4.25	1.92	8.48
+R-HSA-71291	Metabolism of amino acids and derivatives	251	22	2.17	3.86	0.00051	0.02	2.36	1.43	3.71
+R-HSA-1474290	Collagen formation	90	11	3.03	3.97	0.00095	0.029	3.38	1.61	6.44
+R-HSA-216083	Integrin cell surface interactions	81	10	3.06	3.82	0.0015	0.041	3.41	1.56	6.71
+R-HSA-8948216	Collagen chain trimerization	44	7	3.94	4.01	0.0017	0.044	4.56	1.7	10.4

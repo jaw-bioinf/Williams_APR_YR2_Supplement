@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00433	2	1	1	1	0.5	CORUM:675	cor	2	TMP21-P24 complex	1	NRSN1
+2	1	TRUE	0.0136	126	80	6	0.075	0.048	TF:M05341	tf	1	Factor: Lbx1; motif: TWAATMAGARN	1	NBR1,SERPINB11,BPIFA3,TNFSF15,MAPK14,UBR4
+3	1	TRUE	0.0136	126	80	6	0.075	0.048	TF:M05341_0	tf	1	Factor: Lbx1; motif: TWAATMAGARN; match class: 0	2	NBR1,SERPINB11,BPIFA3,TNFSF15,MAPK14,UBR4

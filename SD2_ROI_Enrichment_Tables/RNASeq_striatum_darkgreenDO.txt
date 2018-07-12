@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2462	retinal vascular disease	77	3	11.4	5.36	0.0022	0.046	13.3	2.49	46.1
+DOID:8947	diabetic retinopathy	77	3	11.4	5.36	0.0022	0.046	13.3	2.49	46.1

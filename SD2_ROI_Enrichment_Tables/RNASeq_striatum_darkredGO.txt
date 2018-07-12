@@ -1,0 +1,18 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 1 TRUE 0.0219 3 4 1 0.25 0.333 CORUM:239 cor 2 Sin3-Hdac1-Sds3 complex 1 HDAC1
+2 1 TRUE 0.0407 8 4 1 0.25 0.125 CORUM:2835 cor 5 Profilin 2 complex 1 CYFIP1
+3 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:188 cor 15 Wave-2 complex 1 CYFIP1
+4 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:583 cor 14 Ikaros-NuRD complex 1 HDAC1
+5 1 TRUE 0.0219 3 4 1 0.25 0.333 CORUM:6752 cor 13 Smad3-mSin3A-Hdac1 complex 1 HDAC1
+6 1 TRUE 0.0219 2 4 1 0.25 0.5 CORUM:6556 cor 10 Dcdc2-Dvl2 complex 1 DCDC2A
+7 1 TRUE 0.0219 3 4 1 0.25 0.333 CORUM:6397 cor 7 Dnajc5-Sgta complex 1 DNAJC5
+8 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:6387 cor 11 Ship1-Hdac1-Hspa2-Kctd19 complex 1 HDAC1
+9 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:679 cor 17 Tis7-Sin3-Hdac1-Ncor1-Sap30 complex 1 HDAC1
+10 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:187 cor 1 Wave-2 complex (Rac-activated) 1 CYFIP1
+11 1 TRUE 0.0219 3 4 1 0.25 0.333 CORUM:5693 cor 9 Tip5-Dnmt-Hdac1 complex 1 HDAC1
+12 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:1503 cor 6 Hdac1-Mecp2-Rcor1-Sin3a complex 1 HDAC1
+13 1 TRUE 0.0219 4 4 1 0.25 0.25 CORUM:717 cor 3 PU.1-Sin3A-Hdac-MeCP2 complex 1 HDAC1
+14 1 TRUE 0.0219 3 4 1 0.25 0.333 CORUM:1469 cor 18 E2f5-Rbl2-Hdac1 complex 1 HDAC1
+15 1 TRUE 0.0219 2 4 1 0.25 0.5 CORUM:6557 cor 4 Dcdc2-Dvl3 complex 1 DCDC2A
+16 1 TRUE 0.0477 10 4 1 0.25 0.1 CORUM:582 cor 8 Ikaros complex 1 HDAC1
+17 1 TRUE 0.0219 2 4 1 0.25 0.5 CORUM:6555 cor 16 Dcdc2-Dvl1 complex 1 DCDC2A

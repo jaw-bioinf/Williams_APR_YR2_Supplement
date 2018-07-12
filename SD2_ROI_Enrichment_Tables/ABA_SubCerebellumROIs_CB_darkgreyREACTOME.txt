@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	67	3	9.15	4.69	0.0042	0.047	10.1	1.96	32.7
+R-HSA-6794362	Protein-protein interactions at synapses	70	3	8.76	4.57	0.0048	0.047	9.62	1.87	31.1
+R-HSA-112316	Neuronal System	356	7	4.02	4.07	0.0016	0.047	4.59	1.73	10.4
+R-HSA-195258	RHO GTPase Effectors	313	6	3.92	3.68	0.004	0.047	4.39	1.51	10.5
+R-HSA-194315	Signaling by Rho GTPases	441	7	3.24	3.38	0.0053	0.047	3.66	1.38	8.28

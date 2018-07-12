@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1289	neurodegenerative disease	925	20	2.37	4.28	0.00014	0.0068	3.03	1.68	5.28
+DOID:331	central nervous system disease	1234	24	2.13	4.19	0.00012	0.0068	2.84	1.63	4.85
+DOID:863	nervous system disease	1770	30	1.85	3.99	0.00014	0.0068	2.63	1.55	4.45
+DOID:5419	schizophrenia	635	15	2.58	4.02	0.00046	0.014	3.12	1.61	5.69
+DOID:2468	psychotic disorder	637	15	2.58	4.01	0.00048	0.014	3.11	1.61	5.67
+DOID:150	disease of mental health	1255	22	1.92	3.45	0.0012	0.028	2.42	1.37	4.17

@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-199991	Membrane Trafficking	599	59	1.91	5.36	9e-07	0.00047	2.14	1.58	2.86
+R-HSA-5653656	Vesicle-mediated transport	631	60	1.85	5.11	2.3e-06	0.00061	2.06	1.52	2.74
+R-HSA-196025	Formation of annular gap junctions	11	5	8.82	6.05	0.00013	0.022	15.5	3.72	61
+R-HSA-112308	Presynaptic depolarization and calcium channel opening	12	5	8.09	5.72	0.00021	0.022	13.3	3.31	48.7
+R-HSA-190873	Gap junction degradation	12	5	8.09	5.72	0.00021	0.022	13.3	3.31	48.7
+R-HSA-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	20	6	5.82	5.03	0.00038	0.028	7.97	2.5	22.2
+R-HSA-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	20	6	5.82	5.03	0.00038	0.028	7.97	2.5	22.2
+R-HSA-399719	Trafficking of AMPA receptors	31	7	4.38	4.4	0.00083	0.048	5.43	1.96	13.1
+R-HSA-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	31	7	4.38	4.4	0.00083	0.048	5.43	1.96	13.1

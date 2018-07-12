@@ -1,0 +1,39 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6794362	Protein-protein interactions at synapses	70	22	2.78	5.33	5e-06	0.0032	3.64	2.09	6.18
+R-HSA-597592	Post-translational protein modification	1353	202	1.32	4.51	7.7e-06	0.0032	1.46	1.23	1.72
+R-HSA-6807070	PTEN Regulation	140	32	2.02	4.34	7e-05	0.015	2.36	1.53	3.55
+R-HSA-8953854	Metabolism of RNA	646	105	1.44	4.1	6e-05	0.015	1.57	1.25	1.96
+R-HSA-3858494	Beta-catenin independent WNT signaling	137	31	2	4.21	0.00011	0.016	2.33	1.5	3.52
+R-HSA-5688426	Deubiquitination	295	55	1.65	4.03	0.00012	0.016	1.84	1.34	2.49
+R-HSA-72163	mRNA Splicing - Major Pathway	183	38	1.84	4.07	0.00014	0.017	2.09	1.41	3.02
+R-HSA-77387	Insulin receptor recycling	26	10	3.4	4.38	0.00032	0.02	4.93	2	11.6
+R-HSA-917977	Transferrin endocytosis and recycling	31	11	3.14	4.25	0.00037	0.02	4.34	1.87	9.54
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	81	21	2.29	4.17	0.00019	0.02	2.78	1.6	4.65
+R-HSA-2871837	FCERI mediated NF-kB activation	79	20	2.24	3.94	0.00038	0.02	2.69	1.53	4.55
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	23	2.12	3.93	0.00034	0.02	2.5	1.49	4.06
+R-HSA-453274	Mitotic G2-G2/M phases	197	39	1.75	3.8	0.00032	0.02	1.97	1.34	2.83
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	243	46	1.67	3.79	0.00029	0.02	1.87	1.31	2.6
+R-HSA-72172	mRNA Splicing	191	38	1.76	3.78	0.00034	0.02	1.98	1.34	2.86
+R-HSA-112316	Neuronal System	356	62	1.54	3.7	0.00032	0.02	1.69	1.25	2.25
+R-HSA-5689880	Ub-specific processing proteases	220	42	1.69	3.68	0.00043	0.02	1.88	1.3	2.66
+R-HSA-5683057	MAPK family signaling cascades	288	52	1.6	3.66	4e-04	0.02	1.76	1.27	2.41
+R-HSA-69275	G2/M Transition	195	38	1.72	3.64	0.00053	0.023	1.93	1.31	2.78
+R-HSA-446203	Asparagine N-linked glycosylation	299	53	1.57	3.55	0.00055	0.023	1.72	1.25	2.34
+R-HSA-69202	Cyclin E associated events during G1/S transition 	82	20	2.16	3.75	0.00064	0.025	2.56	1.46	4.31
+R-HSA-392499	Metabolism of proteins	1907	257	1.19	3.31	0.00065	0.025	1.29	1.1	1.49
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	126	27	1.89	3.61	0.00074	0.026	2.17	1.35	3.36
+R-HSA-1483257	Phospholipid metabolism	200	38	1.68	3.47	0.00087	0.026	1.87	1.27	2.69
+R-HSA-1257604	PIP3 activates AKT signaling	254	46	1.6	3.46	0.00079	0.026	1.76	1.25	2.46
+R-HSA-3247509	Chromatin modifying enzymes	227	42	1.64	3.46	0.00084	0.026	1.81	1.25	2.56
+R-HSA-4839726	Chromatin organization	227	42	1.64	3.46	0.00084	0.026	1.81	1.25	2.56
+R-HSA-8953897	Cellular responses to external stimuli	493	79	1.42	3.38	0.00076	0.026	1.53	1.18	1.97
+R-HSA-388844	Receptor-type tyrosine-protein phosphatases	20	8	3.54	4.05	0.00095	0.027	5.25	1.86	14
+R-HSA-162909	Host Interactions of HIV factors	128	27	1.86	3.51	0.00095	0.027	2.12	1.33	3.29
+R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	81	19	2.07	3.46	0.0014	0.039	2.43	1.36	4.13
+R-HSA-948021	Transport to the Golgi and subsequent modification	186	35	1.66	3.26	0.0016	0.043	1.84	1.23	2.69
+R-HSA-5687128	MAPK6/MAPK4 signaling	89	20	1.99	3.34	0.0019	0.047	2.29	1.32	3.84
+R-HSA-5673001	RAF/MAP kinase cascade	243	43	1.56	3.18	0.0018	0.047	1.71	1.19	2.41
+R-HSA-1222556	ROS, RNS production in phagocytes	32	10	2.76	3.57	0.0021	0.048	3.58	1.51	7.91
+R-HSA-6807878	COPI-mediated anterograde transport	102	22	1.91	3.29	0.002	0.048	2.18	1.29	3.54
+R-HSA-199977	ER to Golgi Anterograde Transport	155	30	1.71	3.18	0.0022	0.049	1.9	1.23	2.87
+R-HSA-187577	SCF(Skp2)-mediated degradation of p27/p21	60	15	2.21	3.36	0.0023	0.05	2.63	1.36	4.83

@@ -1,0 +1,55 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001421	Abnormality of the musculature of the hand	44	7	9.97	7.62	4.4e-06	0.0039	13.2	4.72	31.9
+HP:0010486	Abnormality of the hypothenar eminence	15	4	16.7	7.76	7e-05	0.0069	24	5.39	84.3
+HP:0030270	Elevated red cell adenosine deaminase activity	15	4	16.7	7.76	7e-05	0.0069	24	5.39	84.3
+HP:0010487	Small hypothenar eminence	15	4	16.7	7.76	7e-05	0.0069	24	5.39	84.3
+HP:0008437	Bifid thoracic vertebrae	15	4	16.7	7.76	7e-05	0.0069	24	5.39	84.3
+HP:0008447	Hypoplastic coccygeal vertebrae	15	4	16.7	7.76	7e-05	0.0069	24	5.39	84.3
+HP:0008475	Hypoplastic sacral vertebrae	15	4	16.7	7.76	7e-05	0.0069	24	5.39	84.3
+HP:0002669	Osteosarcoma	23	5	13.6	7.73	2.3e-05	0.0069	18.6	5.21	54.9
+HP:0030272	Abnormal erythrocyte enzyme activity	16	4	15.7	7.49	9.2e-05	0.0069	22	5	75.7
+HP:0006368	Forearm reduction defects	16	4	15.7	7.49	9.2e-05	0.0069	22	5	75.7
+HP:0001636	Tetralogy of Fallot	145	10	4.32	5.2	7.4e-05	0.0069	5.34	2.35	11
+HP:0001710	Conotruncal defect	148	10	4.24	5.12	8.8e-05	0.0069	5.22	2.3	10.8
+HP:0025065	Abnormal erythrocyte volume	17	4	14.7	7.23	0.00012	0.0072	20.3	4.66	68.7
+HP:0005518	Increased mean corpuscular volume	17	4	14.7	7.23	0.00012	0.0072	20.3	4.66	68.7
+HP:0012133	Erythroid hypoplasia	17	4	14.7	7.23	0.00012	0.0072	20.3	4.66	68.7
+HP:0004590	Hypoplastic sacrum	18	4	13.9	7	0.00015	0.0076	18.8	4.37	62.6
+HP:0004810	Congenital hypoplastic anemia	18	4	13.9	7	0.00015	0.0076	18.8	4.37	62.6
+HP:0100273	Neoplasm of the colon	52	6	7.23	5.76	0.00015	0.0076	8.87	2.96	22.2
+HP:0005321	Mandibulofacial dysostosis	19	4	13.2	6.79	0.00019	0.0081	17.6	4.11	57.8
+HP:0001908	Hypoplastic anemia	19	4	13.2	6.79	0.00019	0.0081	17.6	4.11	57.8
+HP:0012379	Abnormal enzyme/coenzyme activity	103	8	4.87	5.07	0.00019	0.0081	5.89	2.34	13
+HP:0001895	Normochromic anemia	20	4	12.5	6.59	0.00023	0.0092	16.5	3.88	53.4
+HP:0001897	Normocytic anemia	20	4	12.5	6.59	0.00023	0.0092	16.5	3.88	53.4
+HP:0000086	Ectopic kidney	81	7	5.42	5.12	0.00025	0.0094	6.52	2.41	15.1
+HP:0003003	Colon cancer	38	5	8.25	5.72	0.00029	0.011	10.1	2.97	27.7
+HP:0011904	Persistence of hemoglobin F	22	4	11.4	6.23	0.00034	0.012	14.6	3.48	46.6
+HP:0012131	Abnormal number of erythroid precursors	23	4	10.9	6.06	0.00041	0.012	13.9	3.32	43.8
+HP:0008517	Aplasia/Hypoplasia of the sacrum	23	4	10.9	6.06	0.00041	0.012	13.9	3.32	43.8
+HP:0002697	Parietal foramina	23	4	10.9	6.06	0.00041	0.012	13.9	3.32	43.8
+HP:0009777	Absent thumb	40	5	7.83	5.53	0.00037	0.012	9.56	2.81	25.9
+HP:0000946	Hypoplastic ilia	61	6	6.17	5.18	0.00035	0.012	7.41	2.49	18.3
+HP:0005107	Abnormality of the sacrum	144	9	3.92	4.55	0.00037	0.012	4.7	1.98	9.97
+HP:0004439	Craniofacial dysostosis	24	4	10.4	5.91	0.00049	0.013	13.2	3.16	41.3
+HP:0009944	Partial duplication of thumb phalanx	24	4	10.4	5.91	0.00049	0.013	13.2	3.16	41.3
+HP:0100834	Neoplasm of the large intestine	65	6	5.79	4.96	5e-04	0.013	6.89	2.32	17
+HP:0009999	Partial duplication of the phalanx of hand	25	4	10	5.77	0.00057	0.014	12.5	3.02	39
+HP:0000076	Vesicoureteral reflux	93	7	4.72	4.63	0.00059	0.014	5.59	2.08	12.9
+HP:0011902	Abnormal hemoglobin	29	4	8.65	5.26	0.001	0.024	10.5	2.57	32.1
+HP:0000179	Thick lower lip vermilion	168	9	3.36	3.99	0.0012	0.027	3.97	1.68	8.37
+HP:0008515	Aplasia/Hypoplasia of the vertebrae	31	4	8.09	5.05	0.0013	0.029	9.74	2.39	29.4
+HP:0008417	Vertebral hypoplasia	31	4	8.09	5.05	0.0013	0.029	9.74	2.39	29.4
+HP:0001446	Abnormality of the musculature of the upper limbs	137	8	3.66	4.04	0.0013	0.029	4.29	1.72	9.41
+HP:0000402	Stenosis of the external auditory canal	32	4	7.83	4.94	0.0015	0.03	9.39	2.31	28.3
+HP:0001894	Thrombocytosis	32	4	7.83	4.94	0.0015	0.03	9.39	2.31	28.3
+HP:0002696	Abnormality of the parietal bone	32	4	7.83	4.94	0.0015	0.03	9.39	2.31	28.3
+HP:0000085	Horseshoe kidney	79	6	4.76	4.3	0.0014	0.03	5.55	1.89	13.5
+HP:0001896	Reticulocytopenia	33	4	7.6	4.85	0.0017	0.033	9.07	2.24	27.2
+HP:0008518	Aplasia/Hypoplasia involving the vertebral column	57	5	5.5	4.36	0.0019	0.035	6.41	1.92	16.9
+HP:0000776	Congenital diaphragmatic hernia	83	6	4.53	4.14	0.0018	0.035	5.26	1.79	12.8
+HP:0000878	11 pairs of ribs	35	4	7.16	4.67	0.0021	0.038	8.48	2.1	25.3
+HP:0002867	Abnormality of the ilium	87	6	4.32	4	0.0023	0.042	4.99	1.7	12.1
+HP:0100542	Abnormal localization of kidney	152	8	3.3	3.69	0.0025	0.043	3.83	1.54	8.37
+HP:0001511	Intrauterine growth retardation	347	13	2.35	3.37	0.0025	0.043	2.82	1.38	5.41
+HP:0012471	Thick vermilion border	190	9	2.97	3.55	0.0027	0.046	3.46	1.47	7.29

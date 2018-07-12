@@ -1,0 +1,48 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1650814	Collagen biosynthesis and modifying enzymes	67	15	3.97	5.97	3.4e-06	0.0018	4.94	2.56	8.97
+R-HSA-8948216	Collagen chain trimerization	44	11	4.44	5.58	2.3e-05	0.004	5.67	2.57	11.6
+R-HSA-5617833	Cilium Assembly	201	27	2.38	4.85	2.2e-05	0.004	2.68	1.7	4.08
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	15	6	7.1	5.78	1e-04	0.0059	11.3	3.29	35.6
+R-HSA-5637812	Signaling by EGFRvIII in Cancer	15	6	7.1	5.78	1e-04	0.0059	11.3	3.29	35.6
+R-HSA-419037	NCAM1 interactions	21	7	5.92	5.51	1e-04	0.0059	8.47	2.88	22.5
+R-HSA-186797	Signaling by PDGF	58	12	3.67	4.99	7.5e-05	0.0059	4.44	2.13	8.58
+R-HSA-1852241	Organelle biogenesis and maintenance	269	31	2.05	4.25	0.00011	0.0059	2.25	1.48	3.32
+R-HSA-199991	Membrane Trafficking	599	57	1.69	4.25	5.7e-05	0.0059	1.85	1.36	2.47
+R-HSA-5653656	Vesicle-mediated transport	631	59	1.66	4.18	7e-05	0.0059	1.81	1.34	2.41
+R-HSA-1474290	Collagen formation	90	15	2.96	4.56	0.00014	0.0065	3.41	1.81	6.04
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	94	15	2.83	4.36	0.00022	0.0098	3.24	1.72	5.72
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	19	6	5.61	4.91	0.00045	0.016	7.8	2.42	22.1
+R-HSA-1643713	Signaling by EGFR in Cancer	19	6	5.61	4.91	0.00045	0.016	7.8	2.42	22.1
+R-HSA-5637815	Signaling by Ligand-Responsive EGFR Variants in Cancer	19	6	5.61	4.91	0.00045	0.016	7.8	2.42	22.1
+R-HSA-1257604	PIP3 activates AKT signaling	254	28	1.96	3.77	0.00049	0.016	2.13	1.37	3.2
+R-HSA-3214841	PKMTs methylate histone lysines	71	12	3	4.13	0.00055	0.017	3.46	1.68	6.55
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	310	32	1.83	3.64	0.00064	0.019	1.98	1.32	2.9
+R-HSA-5083635	Defective B3GALTL causes Peters-plus syndrome (PpS)	37	8	3.84	4.23	0.00087	0.022	4.67	1.84	10.5
+R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	38	8	3.74	4.13	0.001	0.022	4.52	1.78	10.1
+R-HSA-5655302	Signaling by FGFR1 in disease	38	8	3.74	4.13	0.001	0.022	4.52	1.78	10.1
+R-HSA-1226099	Signaling by FGFR in disease	47	9	3.4	4.03	0.0011	0.022	4.02	1.7	8.5
+R-HSA-3906995	Diseases associated with O-glycosylation of proteins	66	11	2.96	3.9	0.001	0.022	3.4	1.59	6.61
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	96	14	2.59	3.82	0.00091	0.022	2.91	1.51	5.2
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	97	14	2.56	3.78	0.001	0.022	2.87	1.5	5.14
+R-HSA-177929	Signaling by EGFR	40	8	3.55	3.95	0.0015	0.026	4.23	1.68	9.43
+R-HSA-375165	NCAM signaling for neurite out-growth	40	8	3.55	3.95	0.0015	0.026	4.23	1.68	9.43
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	68	11	2.87	3.78	0.0013	0.026	3.28	1.54	6.36
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	80	12	2.66	3.65	0.0016	0.026	3	1.47	5.63
+R-HSA-380287	Centrosome maturation	80	12	2.66	3.65	0.0016	0.026	3	1.47	5.63
+R-HSA-2559580	Oxidative Stress Induced Senescence	124	16	2.29	3.53	0.0016	0.026	2.52	1.38	4.33
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	365	35	1.7	3.34	0.0014	0.026	1.83	1.24	2.63
+R-HSA-1643685	Disease	984	77	1.39	3.14	0.0016	0.026	1.49	1.14	1.92
+R-HSA-5654743	Signaling by FGFR4	41	8	3.46	3.86	0.0018	0.027	4.1	1.63	9.12
+R-HSA-8934593	Regulation of RUNX1 Expression and Activity	17	5	5.22	4.26	0.002	0.029	7.03	1.93	21.5
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	10	2.91	3.66	0.002	0.029	3.33	1.5	6.67
+R-HSA-8856828	Clathrin-mediated endocytosis	140	17	2.16	3.36	0.0022	0.031	2.36	1.32	3.96
+R-HSA-5655291	Signaling by FGFR4 in disease	11	4	6.46	4.42	0.0024	0.033	9.63	2.06	38
+R-HSA-9006925	Intracellular signaling by second messengers	282	28	1.76	3.17	0.0025	0.033	1.89	1.22	2.83
+R-HSA-5628897	TP53 Regulates Metabolic Genes	86	12	2.48	3.36	0.003	0.04	2.75	1.35	5.14
+R-HSA-5654716	Downstream signaling of activated FGFR4	27	6	3.95	3.74	0.0033	0.041	4.83	1.59	12.4
+R-HSA-5655253	Signaling by FGFR2 in disease	27	6	3.95	3.74	0.0033	0.041	4.83	1.59	12.4
+R-HSA-74158	RNA Polymerase III Transcription	36	7	3.45	3.6	0.0035	0.041	4.08	1.5	9.58
+R-HSA-76046	RNA Polymerase III Transcription Initiation	36	7	3.45	3.6	0.0035	0.041	4.08	1.5	9.58
+R-HSA-9007101	Rab regulation of trafficking	123	15	2.17	3.18	0.0038	0.044	2.36	1.27	4.11
+R-HSA-5173105	O-linked glycosylation	112	14	2.22	3.17	0.004	0.046	2.43	1.27	4.31
+R-HSA-5619102	SLC transporter disorders	68	10	2.61	3.26	0.0045	0.05	2.92	1.32	5.81

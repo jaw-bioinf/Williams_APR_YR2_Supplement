@@ -1,0 +1,95 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:18	urinary system disease	494	229	1.29	5.03	4.5e-07	0.00039	1.6	1.32	1.93
+DOID:9408	acute myocardial infarction	90	55	1.7	5.02	8.5e-07	0.00039	2.85	1.83	4.5
+DOID:557	kidney disease	476	219	1.28	4.77	1.6e-06	5e-04	1.57	1.3	1.9
+DOID:0050828	artery disease	931	395	1.18	4.47	5.5e-06	0.0013	1.38	1.19	1.59
+DOID:1579	respiratory system disease	691	300	1.21	4.35	1e-05	0.0019	1.42	1.21	1.67
+DOID:850	lung disease	435	198	1.27	4.33	1.2e-05	0.0019	1.54	1.26	1.87
+DOID:0050161	lower respiratory tract disease	656	285	1.21	4.24	1.6e-05	0.0021	1.42	1.2	1.68
+DOID:225	syndrome	1726	691	1.12	4.14	2.1e-05	0.0024	1.27	1.13	1.42
+DOID:15	reproductive system disease	490	218	1.24	4.12	2.9e-05	0.0029	1.47	1.22	1.78
+DOID:4251	conjunctival disease	34	24	1.97	4.23	3.9e-05	0.0035	4.32	1.99	10.1
+DOID:5082	liver cirrhosis	207	102	1.37	4.08	4.2e-05	0.0035	1.77	1.33	2.35
+DOID:2914	immune system disease	987	408	1.15	3.86	7.5e-05	0.0053	1.31	1.14	1.51
+DOID:65	connective tissue disease	1050	432	1.15	3.86	7.4e-05	0.0053	1.3	1.13	1.49
+DOID:2988	antiphospholipid syndrome	22	17	2.15	4.05	8.9e-05	0.0054	6.11	2.16	21.2
+DOID:7693	abdominal aortic aneurysm	43	28	1.81	4.01	8.8e-05	0.0054	3.36	1.73	6.79
+DOID:9477	pulmonary embolism	17	14	2.3	4	0.00012	0.0062	8.38	2.34	45.6
+DOID:229	female reproductive system disease	333	152	1.27	3.81	0.00011	0.0062	1.53	1.22	1.92
+DOID:3627	aortic aneurysm	50	31	1.73	3.86	0.00014	0.007	2.94	1.6	5.52
+DOID:1287	cardiovascular system disease	1292	521	1.12	3.69	0.00014	0.007	1.26	1.11	1.43
+DOID:417	hypersensitivity reaction type II disease	730	307	1.17	3.67	0.00016	0.0072	1.34	1.14	1.57
+DOID:10763	hypertension	569	244	1.2	3.63	0.00019	0.008	1.38	1.15	1.65
+DOID:0060056	hypersensitivity reaction disease	828	344	1.16	3.62	0.00019	0.008	1.31	1.13	1.53
+DOID:520	aortic disease	51	31	1.69	3.72	0.00024	0.0093	2.79	1.54	5.18
+DOID:178	vascular disease	1088	442	1.13	3.55	0.00024	0.0093	1.27	1.11	1.45
+DOID:4607	biliary tract cancer	169	82	1.35	3.47	0.00043	0.015	1.71	1.24	2.35
+DOID:2320	obstructive lung disease	205	97	1.32	3.46	0.00042	0.015	1.63	1.22	2.17
+DOID:3083	chronic obstructive pulmonary disease	205	97	1.32	3.46	0.00042	0.015	1.63	1.22	2.17
+DOID:0002116	pterygium	26	18	1.93	3.55	0.00055	0.016	4.04	1.67	10.8
+DOID:10139	conjunctival degeneration	26	18	1.93	3.55	0.00055	0.016	4.04	1.67	10.8
+DOID:10526	conjunctival pterygium	26	18	1.93	3.55	0.00055	0.016	4.04	1.67	10.8
+DOID:2349	arteriosclerosis	352	156	1.24	3.39	5e-04	0.016	1.45	1.16	1.81
+DOID:0080001	bone disease	833	342	1.14	3.32	0.00057	0.016	1.28	1.1	1.49
+DOID:10124	corneal disease	71	39	1.53	3.36	0.00076	0.018	2.2	1.34	3.63
+DOID:4606	bile duct cancer	133	66	1.38	3.34	0.00072	0.018	1.78	1.24	2.55
+DOID:4897	bile duct carcinoma	133	66	1.38	3.34	0.00072	0.018	1.78	1.24	2.55
+DOID:3393	coronary artery disease	351	155	1.23	3.32	0.00064	0.018	1.44	1.15	1.8
+DOID:4195	hyperglycemia	131	65	1.38	3.31	0.00079	0.018	1.78	1.24	2.56
+DOID:77	gastrointestinal system disease	1039	419	1.12	3.24	0.00073	0.018	1.25	1.09	1.43
+DOID:5614	eye disease	531	225	1.18	3.24	0.00077	0.018	1.34	1.12	1.62
+DOID:9065	leishmaniasis	21	15	1.99	3.4	0.00097	0.019	4.49	1.64	14.1
+DOID:4989	pancreatitis	115	58	1.41	3.28	0.00089	0.019	1.84	1.25	2.71
+DOID:0060119	pharynx cancer	201	94	1.3	3.26	0.00084	0.019	1.59	1.19	2.13
+DOID:1936	atherosclerosis	340	150	1.23	3.25	0.00081	0.019	1.44	1.15	1.8
+DOID:2348	arteriosclerotic cardiovascular disease	341	150	1.23	3.2	0.00095	0.019	1.43	1.14	1.79
+DOID:0050739	autosomal genetic disease	608	254	1.16	3.17	0.00096	0.019	1.31	1.1	1.56
+DOID:17	musculoskeletal system disease	1239	493	1.11	3.16	0.00092	0.019	1.23	1.08	1.39
+DOID:2921	glomerulonephritis	142	69	1.35	3.19	0.0011	0.021	1.71	1.21	2.42
+DOID:9261	nasopharynx carcinoma	195	91	1.3	3.18	0.0011	0.021	1.58	1.18	2.13
+DOID:0060158	acquired metabolic disease	1078	432	1.12	3.12	0.0011	0.021	1.24	1.08	1.41
+DOID:13001	carotid stenosis	14	11	2.19	3.33	0.0014	0.024	6.58	1.73	36.7
+DOID:289	endometriosis	258	116	1.25	3.1	0.0014	0.024	1.48	1.14	1.92
+DOID:0050177	monogenic disease	637	264	1.16	3.07	0.0013	0.024	1.3	1.09	1.53
+DOID:1176	bronchial disease	364	158	1.21	3.07	0.0014	0.024	1.4	1.12	1.74
+DOID:0050155	sensory system disease	606	252	1.16	3.06	0.0014	0.024	1.3	1.09	1.55
+DOID:824	periodontitis	117	58	1.38	3.11	0.0015	0.025	1.77	1.21	2.6
+DOID:3371	chondrosarcoma	60	33	1.53	3.1	0.0018	0.026	2.2	1.28	3.81
+DOID:3388	periodontal disease	132	64	1.35	3.05	0.0018	0.026	1.7	1.18	2.44
+DOID:26	pancreas disease	173	81	1.3	3.04	0.0018	0.026	1.59	1.16	2.18
+DOID:10952	nephritis	200	92	1.28	3.03	0.0018	0.026	1.54	1.15	2.07
+DOID:1492	eye and adnexa disease	537	225	1.17	3.03	0.0016	0.026	1.32	1.1	1.58
+DOID:8857	lupus erythematosus	370	160	1.21	3.03	0.0016	0.026	1.39	1.11	1.72
+DOID:5223	infertility	205	94	1.28	3.02	0.0018	0.026	1.53	1.15	2.05
+DOID:2841	asthma	355	154	1.21	3.02	0.0017	0.026	1.39	1.12	1.74
+DOID:3908	non-small cell lung carcinoma	417	178	1.19	2.99	0.0018	0.026	1.36	1.1	1.66
+DOID:3905	lung carcinoma	479	202	1.18	2.97	0.0019	0.026	1.33	1.1	1.61
+DOID:630	genetic disease	745	304	1.14	2.96	0.0018	0.026	1.26	1.08	1.48
+DOID:3978	extrinsic cardiomyopathy	26	17	1.82	3.14	0.0021	0.028	3.39	1.43	8.65
+DOID:820	myocarditis	26	17	1.82	3.14	0.0021	0.028	3.39	1.43	8.65
+DOID:1324	lung cancer	480	202	1.17	2.94	0.0021	0.028	1.32	1.09	1.61
+DOID:2744	pyelitis	11	9	2.28	3.18	0.0025	0.029	8.07	1.67	76.7
+DOID:11400	pyelonephritis	11	9	2.28	3.18	0.0025	0.029	8.07	1.67	76.7
+DOID:4896	bile duct adenocarcinoma	121	59	1.36	2.98	0.0023	0.029	1.72	1.18	2.5
+DOID:4947	cholangiocarcinoma	121	59	1.36	2.98	0.0023	0.029	1.72	1.18	2.5
+DOID:1398	parasitic infectious disease	150	71	1.32	2.96	0.0023	0.029	1.62	1.16	2.28
+DOID:5295	intestinal disease	350	151	1.2	2.91	0.0024	0.029	1.38	1.1	1.72
+DOID:0050013	carbohydrate metabolism disease	858	346	1.12	2.9	0.0022	0.029	1.24	1.07	1.44
+DOID:4194	glucose metabolism disease	858	346	1.12	2.9	0.0022	0.029	1.24	1.07	1.44
+DOID:3247	rhabdomyosarcoma	77	40	1.45	2.96	0.0027	0.031	1.95	1.21	3.14
+DOID:848	arthritis	649	266	1.14	2.85	0.0027	0.031	1.27	1.07	1.5
+DOID:0050737	autosomal recessive disease	323	140	1.21	2.86	0.0028	0.032	1.39	1.1	1.75
+DOID:104	bacterial infectious disease	250	111	1.24	2.86	0.0029	0.033	1.45	1.11	1.88
+DOID:0050615	respiratory system cancer	509	212	1.16	2.82	0.003	0.033	1.3	1.08	1.57
+DOID:9296	cleft lip	55	30	1.52	2.9	0.0035	0.038	2.16	1.22	3.84
+DOID:0070004	myeloid neoplasm	368	157	1.19	2.79	0.0034	0.038	1.35	1.09	1.68
+DOID:4960	bone marrow cancer	376	160	1.19	2.77	0.0035	0.038	1.35	1.08	1.67
+DOID:2986	IgA glomerulonephritis	78	40	1.43	2.85	0.0036	0.039	1.9	1.18	3.04
+DOID:3407	carotid artery disease	19	13	1.91	2.96	0.0039	0.041	3.89	1.38	12.5
+DOID:8778	Crohn's disease	182	83	1.27	2.77	0.0039	0.041	1.52	1.11	2.06
+DOID:0014667	disease of metabolism	1280	501	1.09	2.69	0.0041	0.042	1.19	1.04	1.35
+DOID:0050567	orofacial cleft	67	35	1.46	2.8	0.0043	0.044	1.97	1.18	3.29
+DOID:2913	acute pancreatitis	49	27	1.54	2.81	0.0045	0.045	2.21	1.21	4.07
+DOID:10591	pre-eclampsia	268	117	1.22	2.71	0.0045	0.045	1.4	1.09	1.81
+DOID:12306	vitiligo	65	34	1.46	2.77	0.0047	0.047	1.97	1.17	3.33
+DOID:9074	systemic lupus erythematosus	299	129	1.2	2.68	0.0048	0.047	1.38	1.08	1.75

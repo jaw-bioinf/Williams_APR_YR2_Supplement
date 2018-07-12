@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001361	social withdrawal	19	4	28.7	10.4	9.4e-06	0.0041	38.2	8.98	124
+MP:0001486	abnormal startle reflex	259	9	4.74	5.25	1e-04	0.015	5.47	2.36	11.3
+MP:0000952	abnormal CNS glial cell morphology	320	10	4.26	5.11	1e-04	0.015	4.95	2.23	9.88
+MP:0002182	abnormal astrocyte morphology	186	7	5.14	4.89	4e-04	0.043	5.79	2.2	12.9
+MP:0003241	loss of cortex neurons	23	3	17.8	6.93	6e-04	0.047	21.2	3.93	73.9
+MP:0011638	abnormal mitochondrial chromosome morphology	25	3	16.4	6.61	0.00077	0.047	19.2	3.6	66.5
+MP:0003634	abnormal glial cell morphology	409	10	3.34	4.15	0.00073	0.047	3.81	1.72	7.58

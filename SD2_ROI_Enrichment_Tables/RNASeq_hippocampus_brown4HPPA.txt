@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001394	Cirrhosis	118	5	9.3	6.2	0.00013	0.014	13.6	3.63	43.2
+HP:0012440	Abnormal biliary tract morphology	119	5	9.22	6.17	0.00013	0.014	13.4	3.6	42.8
+HP:0004297	Abnormality of the biliary system	297	7	5.17	5.08	0.00017	0.014	8.58	2.7	26.1
+HP:0001408	Bile duct proliferation	41	3	16.1	6.56	0.00075	0.041	20.9	3.67	80.4
+HP:0001080	Biliary tract abnormality	176	5	6.23	4.82	0.00083	0.041	8.82	2.38	27.9

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	71	1.61	4.41	2.4e-05	0.018	1.82	1.37	2.4
+R-HSA-500792	GPCR ligand binding	419	87	1.5	4.21	4.3e-05	0.018	1.68	1.3	2.15
+R-HSA-397014	Muscle contraction	201	48	1.73	4.18	7.5e-05	0.022	1.99	1.4	2.79

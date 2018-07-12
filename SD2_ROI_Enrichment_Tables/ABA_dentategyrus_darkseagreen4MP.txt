@@ -1,0 +1,6 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0009923	decreased transitional stage T1 B cell number	15	3	41.2	10.9	4.7e-05	0.01	54.6	9.56	214
+MP:0009926	decreased transitional stage T2 B cell number	24	3	25.8	8.48	2e-04	0.016	31.3	5.75	111
+MP:0009919	abnormal transitional stage T1 B cell morphology	25	3	24.7	8.3	0.00023	0.016	29.8	5.51	105
+MP:0009920	abnormal transitional stage T2 B cell morphology	27	3	22.9	7.96	0.00029	0.016	27.4	5.08	95.4
+MP:0006173	abnormal myeloid dendritic cell morphology	38	3	16.3	6.59	8e-04	0.036	18.7	3.55	63.1

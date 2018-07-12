@@ -1,0 +1,31 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-2467813	Separation of Sister Chromatids	191	14	3.29	4.83	9.1e-05	0.02	3.64	1.92	6.4
+R-HSA-68882	Mitotic Anaphase	202	14	3.11	4.58	0.00017	0.02	3.42	1.8	6.01
+R-HSA-2555396	Mitotic Metaphase and Anaphase	203	14	3.1	4.55	0.00017	0.02	3.4	1.79	5.98
+R-HSA-379724	tRNA Aminoacylation	35	5	6.41	4.84	0.00099	0.035	7.46	2.24	19.7
+R-HSA-379716	Cytosolic tRNA aminoacylation	24	4	7.48	4.8	0.0018	0.035	8.92	2.2	26.9
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	67	7	4.69	4.58	0.00069	0.035	5.25	2	11.7
+R-HSA-5696394	DNA Damage Recognition in GG-NER	38	5	5.91	4.57	0.0014	0.035	6.78	2.05	17.7
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	72	7	4.37	4.33	0.0011	0.035	4.85	1.85	10.7
+R-HSA-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	75	7	4.19	4.19	0.0014	0.035	4.63	1.77	10.2
+R-HSA-5610787	Hedgehog 'off' state	113	9	3.58	4.16	0.00092	0.035	3.92	1.72	7.86
+R-HSA-8939902	Regulation of RUNX2 expression and activity	59	6	4.57	4.15	0.0019	0.035	5.08	1.76	12
+R-HSA-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	76	7	4.14	4.14	0.0015	0.035	4.56	1.75	10.1
+R-HSA-1257604	PIP3 activates AKT signaling	254	15	2.65	4.02	0.00055	0.035	2.88	1.56	4.96
+R-HSA-6807070	PTEN Regulation	140	10	3.21	3.97	0.0011	0.035	3.49	1.61	6.75
+R-HSA-8878166	Transcriptional regulation by RUNX2	80	7	3.93	3.97	0.002	0.035	4.31	1.66	9.49
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	8	3.59	3.93	0.0017	0.035	3.92	1.62	8.19
+R-HSA-8951664	Neddylation	235	14	2.67	3.92	0.00077	0.035	2.9	1.53	5.08
+R-HSA-5358351	Signaling by Hedgehog	148	10	3.03	3.76	0.0017	0.035	3.28	1.52	6.34
+R-HSA-9006925	Intracellular signaling by second messengers	282	15	2.39	3.57	0.0016	0.035	2.57	1.39	4.42
+R-HSA-174084	Autodegradation of Cdh1 by Cdh1:APC/C	63	6	4.28	3.94	0.0027	0.045	4.72	1.65	11.1
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	86	7	3.65	3.73	0.003	0.046	3.98	1.53	8.73
+R-HSA-453276	Regulation of mitotic cell cycle	86	7	3.65	3.73	0.003	0.046	3.98	1.53	8.73
+R-HSA-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes	30	4	5.99	4.13	0.0042	0.049	6.86	1.72	20
+R-HSA-1592230	Mitochondrial biogenesis	68	6	3.96	3.7	0.004	0.049	4.34	1.52	10.1
+R-HSA-8948751	Regulation of PTEN stability and activity	69	6	3.9	3.65	0.0043	0.049	4.27	1.49	9.97
+R-HSA-193704	p75 NTR receptor-mediated signalling	90	7	3.49	3.58	0.0039	0.049	3.79	1.46	8.29
+R-HSA-69618	Mitotic Spindle Checkpoint	112	8	3.21	3.55	0.0035	0.049	3.46	1.44	7.21
+R-HSA-8856828	Clathrin-mediated endocytosis	140	9	2.89	3.39	0.004	0.049	3.1	1.37	6.18
+R-HSA-8978868	Fatty acid metabolism	168	10	2.67	3.3	0.0043	0.049	2.86	1.33	5.51
+R-HSA-199991	Membrane Trafficking	599	24	1.8	3.04	0.0037	0.049	1.93	1.2	2.99

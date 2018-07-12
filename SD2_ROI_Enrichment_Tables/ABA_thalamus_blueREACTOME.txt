@@ -1,0 +1,28 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-6794362	Protein-protein interactions at synapses	70	33	2	4.65	1.3e-05	0.015	2.91	1.76	4.8
+R-HSA-350562	Regulation of ornithine decarboxylase (ODC)	51	25	2.08	4.28	6.5e-05	0.02	3.13	1.73	5.66
+R-HSA-4641258	Degradation of DVL	57	27	2.01	4.24	7.2e-05	0.02	2.93	1.67	5.12
+R-HSA-351202	Metabolism of polyamines	84	36	1.82	4.17	7.2e-05	0.02	2.45	1.54	3.86
+R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	80	34	1.8	3.99	0.00014	0.024	2.41	1.5	3.85
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	96	39	1.72	3.94	0.00015	0.024	2.23	1.44	3.43
+R-HSA-112316	Neuronal System	356	114	1.36	3.81	0.00014	0.024	1.55	1.22	1.96
+R-HSA-1169091	Activation of NF-kappaB in B cells	66	29	1.86	3.9	0.00021	0.029	2.55	1.51	4.28
+R-HSA-388844	Receptor-type tyrosine-protein phosphatases	20	12	2.54	3.84	0.00053	0.04	4.87	1.83	13.8
+R-HSA-5676590	NIK-->noncanonical NF-kB signaling	59	26	1.87	3.71	0.00041	0.04	2.57	1.47	4.43
+R-HSA-68827	CDT1 association with the CDC6:ORC:origin complex	59	26	1.87	3.71	0.00041	0.04	2.57	1.47	4.43
+R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	60	26	1.84	3.61	0.00057	0.04	2.49	1.43	4.28
+R-HSA-2871837	FCERI mediated NF-kB activation	79	32	1.72	3.55	6e-04	0.04	2.22	1.37	3.56
+R-HSA-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	52	23	1.87	3.51	0.00083	0.04	2.58	1.42	4.63
+R-HSA-69610	p53-Independent DNA Damage Response	52	23	1.87	3.51	0.00083	0.04	2.58	1.42	4.63
+R-HSA-69613	p53-Independent G1/S DNA damage checkpoint	52	23	1.87	3.51	0.00083	0.04	2.58	1.42	4.63
+R-HSA-8941858	Regulation of RUNX3 expression and activity	55	24	1.85	3.51	0.00081	0.04	2.52	1.41	4.45
+R-HSA-68949	Orc1 removal from chromatin	71	29	1.73	3.43	0.00091	0.04	2.25	1.35	3.71
+R-HSA-69052	Switching of origins to a post-replicative state	71	29	1.73	3.43	0.00091	0.04	2.25	1.35	3.71
+R-HSA-5658442	Regulation of RAS by GAPs	68	28	1.74	3.42	0.00095	0.04	2.28	1.35	3.8
+R-HSA-69275	G2/M Transition	195	66	1.43	3.4	0.00069	0.04	1.67	1.22	2.28
+R-HSA-453274	Mitotic G2-G2/M phases	197	66	1.42	3.3	0.00094	0.04	1.65	1.2	2.24
+R-HSA-8953854	Metabolism of RNA	646	187	1.23	3.3	0.00071	0.04	1.35	1.12	1.61
+R-HSA-392499	Metabolism of proteins	1907	505	1.12	3.28	0.00063	0.04	1.21	1.08	1.36
+R-HSA-1852241	Organelle biogenesis and maintenance	269	86	1.35	3.27	0.00095	0.04	1.54	1.17	2.01
+R-HSA-597592	Post-translational protein modification	1353	366	1.15	3.21	0.00086	0.04	1.24	1.08	1.41
+R-HSA-1430728	Metabolism	1899	501	1.12	3.16	0.00095	0.04	1.2	1.07	1.35

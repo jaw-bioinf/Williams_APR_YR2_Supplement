@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0096	4	2	1	0.5	0.25	CORUM:6387	cor	6	Ship1-Hdac1-Hspa2-Kctd19 complex	1	INPP5D
+2	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:2569	cor	1	Slam-SAP-SHIP complex	1	INPP5D
+3	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:6278	cor	8	Cd22-Ship-Grb2-Shc complex	1	INPP5D
+4	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:6225	cor	9	Heg1-Krit1-Ccm2 complex	1	CCM2
+5	1	TRUE	0.00811	2	2	1	0.5	0.5	CORUM:6222	cor	10	CCM1-CCM2 complex	1	CCM2
+6	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:3202	cor	4	Il3rb1-Shc-Ship complex, IL-3 stimulated	1	INPP5D
+7	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:6221	cor	3	Ccm2-Krit1-Ccm3 complex	1	CCM2
+8	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:3203	cor	7	Shc-Ship-Grb2 complex, IL-3 stimulated	1	INPP5D
+9	1	TRUE	0.00811	2	2	1	0.5	0.5	CORUM:3201	cor	2	Ship-Shc complex, IL-3 stimulated	1	INPP5D

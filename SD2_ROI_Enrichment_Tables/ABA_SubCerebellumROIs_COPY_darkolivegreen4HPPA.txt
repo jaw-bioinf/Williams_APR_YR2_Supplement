@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0001187	Hyperextensibility of the finger joints	14	3	41.8	11	4e-05	0.0088	62.5	10.2	270
+HP:0006256	Abnormality of hand joint mobility	19	3	30.8	9.35	1e-04	0.0088	43	7.3	175
+HP:0006094	Finger joint hypermobility	19	3	30.8	9.35	1e-04	0.0088	43	7.3	175

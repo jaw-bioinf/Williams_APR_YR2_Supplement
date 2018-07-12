@@ -1,0 +1,3 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:2452	thrombophilia	34	3	20.6	7.51	0.00039	0.021	24.8	4.58	87.3
+DOID:341	peripheral vascular disease	54	3	13	5.79	0.0015	0.041	15.1	2.83	51.3

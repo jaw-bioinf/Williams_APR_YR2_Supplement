@@ -1,0 +1,37 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+R-HSA-199992 trans-Golgi Network Vesicle Budding 72 6 9.82 6.95 3.1e-05 8e-04 11.3 3.9 27.1
+R-HSA-421837 Clathrin derived vesicle budding 72 6 9.82 6.95 3.1e-05 8e-04 11.3 3.9 27.1
+R-HSA-199991 Membrane Trafficking 599 17 3.34 5.47 9e-06 8e-04 4.01 2.2 6.96
+R-HSA-5653656 Vesicle-mediated transport 631 17 3.17 5.22 1.8e-05 8e-04 3.79 2.08 6.57
+R-HSA-382551 Transport of small molecules 705 17 2.84 4.69 7.3e-05 0.0015 3.36 1.84 5.82
+R-HSA-912526 Interleukin receptor SHC signaling 27 3 13.1 5.82 0.0015 0.0092 15.1 2.85 51.2
+R-HSA-432722 Golgi Associated Vesicle Biogenesis 56 4 8.41 5.15 0.0013 0.0092 9.37 2.41 26.4
+R-HSA-936837 Ion transport by P-type ATPases 56 4 8.41 5.15 0.0013 0.0092 9.37 2.41 26.4
+R-HSA-187037 NGF signalling via TRKA from the plasma membrane 57 4 8.27 5.09 0.0014 0.0092 9.19 2.36 25.9
+R-HSA-141424 Amplification of signal from the kinetochores 96 5 6.14 4.68 0.0013 0.0092 6.75 2.09 17
+R-HSA-141444 Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal 96 5 6.14 4.68 0.0013 0.0092 6.75 2.09 17
+R-HSA-8856688 Golgi-to-ER retrograde transport 134 6 5.27 4.61 0.00095 0.0092 5.81 2.03 13.6
+R-HSA-5663220 RHO GTPases Activate Formins 141 6 5.01 4.44 0.0012 0.0092 5.51 1.93 12.8
+R-HSA-166520 Signalling by NGF 147 6 4.81 4.3 0.0015 0.0092 5.27 1.85 12.3
+R-HSA-446203 Asparagine N-linked glycosylation 299 9 3.55 4.14 0.00094 0.0092 3.93 1.72 7.97
+R-HSA-6811442 Intra-Golgi and retrograde Golgi-to-ER traffic 200 7 4.12 4.13 0.0015 0.0092 4.53 1.74 9.95
+R-HSA-194315 Signaling by Rho GTPases 441 11 2.94 3.85 0.0012 0.0092 3.28 1.56 6.28
+R-HSA-6807878 COPI-mediated anterograde transport 102 5 5.77 4.48 0.0017 0.0097 6.33 1.96 15.9
+R-HSA-425393 Transport of inorganic cations/anions and amino acids/oligopeptides 108 5 5.45 4.31 0.0022 0.012 5.96 1.85 14.9
+R-HSA-69618 Mitotic Spindle Checkpoint 112 5 5.26 4.19 0.0026 0.013 5.73 1.78 14.4
+R-HSA-432720 Lysosome Vesicle Biogenesis 35 3 10.1 4.99 0.0032 0.015 11.3 2.17 37.3
+R-HSA-1643685 Disease 984 17 2.04 3.16 0.0033 0.015 2.32 1.27 4.01
+R-HSA-2500257 Resolution of Sister Chromatid Cohesion 127 5 4.64 3.82 0.0044 0.019 5.02 1.56 12.5
+R-HSA-983712 Ion channel transport 183 6 3.86 3.62 0.0046 0.019 4.18 1.47 9.7
+R-HSA-948021 Transport to the Golgi and subsequent modification 186 6 3.8 3.57 0.0049 0.02 4.11 1.45 9.53
+R-HSA-451927 Interleukin-2 family signaling 42 3 8.41 4.46 0.0053 0.021 9.27 1.8 30.1
+R-HSA-1483257 Phospholipid metabolism 200 6 3.53 3.35 0.007 0.026 3.81 1.34 8.82
+R-HSA-512988 Interleukin-3, 5 and GM-CSF signaling 47 3 7.52 4.14 0.0073 0.027 8.21 1.6 26.5
+R-HSA-9006934 Signaling by Receptor Tyrosine Kinases 487 10 2.42 2.97 0.008 0.028 2.64 1.21 5.17
+R-HSA-5620912 Anchoring of the basal body to the plasma membrane 97 4 4.86 3.53 0.0092 0.031 5.22 1.36 14.3
+R-HSA-6811436 COPI-independent Golgi-to-ER retrograde traffic 52 3 6.8 3.88 0.0097 0.032 7.37 1.44 23.6
+R-HSA-8856825 Cargo recognition for clathrin-mediated endocytosis 100 4 4.71 3.45 0.01 0.032 5.06 1.32 13.9
+R-HSA-199977 ER to Golgi Anterograde Transport 155 5 3.8 3.25 0.01 0.032 4.07 1.27 10.1
+R-HSA-193648 NRAGE signals death through JNK 55 3 6.43 3.73 0.011 0.034 6.94 1.36 22.2
+R-HSA-422475 Axon guidance 295 7 2.8 2.9 0.012 0.036 3 1.16 6.57
+R-HSA-195258 RHO GTPase Effectors 313 7 2.63 2.72 0.017 0.048 2.82 1.09 6.16

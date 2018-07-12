@@ -1,0 +1,50 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0012490	abnormal cochlear VIII nucleus morphology	11	3	34.2	9.88	7.7e-05	0.0071	48.4	8.11	208
+MP:0001898	abnormal long term depression	95	6	7.92	6.08	1e-04	0.0071	9.03	3.12	21.5
+MP:0002915	abnormal synaptic depression	129	7	6.8	5.95	7.1e-05	0.0071	7.77	2.95	17.4
+MP:0001393	ataxia	320	11	4.31	5.4	4.1e-05	0.0071	5.03	2.36	9.74
+MP:0000877	abnormal Purkinje cell morphology	231	9	4.89	5.36	8.5e-05	0.0071	5.6	2.42	11.5
+MP:0002272	abnormal nervous system electrophysiology	339	11	4.07	5.16	7e-05	0.0071	4.72	2.22	9.15
+MP:0003635	abnormal synaptic transmission	740	17	2.88	4.78	5.4e-05	0.0071	3.5	1.9	6.14
+MP:0002067	abnormal sensory capabilities/reflexes/nociception	936	19	2.55	4.47	9.7e-05	0.0071	3.12	1.74	5.37
+MP:0000890	thin cerebellar molecular layer	35	4	14.3	7.08	0.00016	0.0088	16.9	4.22	49.7
+MP:0002862	altered righting response	147	7	5.97	5.45	0.00016	0.0088	6.76	2.57	15.1
+MP:0002980	abnormal postural reflex	155	7	5.66	5.25	0.00022	0.0094	6.39	2.43	14.2
+MP:0000875	abnormal cerebellar Purkinje cell layer	257	9	4.39	4.94	0.00019	0.0094	5	2.16	10.2
+MP:0003312	abnormal locomotor coordination	672	15	2.8	4.34	0.00022	0.0094	3.31	1.73	5.94
+MP:0001524	impaired limb coordination	71	5	8.83	5.94	0.00024	0.0095	10	3.06	25.7
+MP:0000889	abnormal cerebellar molecular layer	74	5	8.47	5.79	3e-04	0.01	9.59	2.93	24.5
+MP:0001961	abnormal reflex	767	16	2.62	4.19	0.00029	0.01	3.1	1.66	5.51
+MP:0000959	abnormal somatic sensory system morphology	702	15	2.68	4.15	0.00036	0.011	3.15	1.65	5.66
+MP:0004262	abnormal physical strength	488	12	3.08	4.24	0.00043	0.013	3.55	1.73	6.71
+MP:0002204	abnormal neurotransmitter level	20	3	18.8	7.15	5e-04	0.014	22.8	4.19	81.4
+MP:0001523	impaired righting response	129	6	5.83	4.96	0.00055	0.014	6.51	2.27	15.3
+MP:0002206	abnormal CNS synaptic transmission	653	14	2.69	4.01	0.00056	0.014	3.13	1.6	5.7
+MP:0002184	abnormal innervation	243	8	4.13	4.43	0.00067	0.016	4.62	1.9	9.8
+MP:0001406	abnormal gait	437	11	3.16	4.14	0.00064	0.016	3.6	1.7	6.95
+MP:0002910	abnormal excitatory postsynaptic currents	139	6	5.41	4.7	0.00081	0.018	6.02	2.1	14.1
+MP:0009956	abnormal cerebellar layer morphology	314	9	3.59	4.19	0.00083	0.018	4.04	1.75	8.25
+MP:0001405	impaired coordination	454	11	3.04	3.99	0.00087	0.018	3.45	1.63	6.67
+MP:0000848	abnormal pons morphology	57	4	8.8	5.3	0.0011	0.019	9.86	2.52	27.9
+MP:0001525	impaired balance	144	6	5.22	4.58	0.00098	0.019	5.79	2.02	13.6
+MP:0003492	abnormal involuntary movement	942	17	2.26	3.67	0.00096	0.019	2.67	1.45	4.68
+MP:0003633	abnormal nervous system physiology	1903	27	1.78	3.42	0.0011	0.019	2.24	1.34	3.69
+MP:0001417	decreased exploration in new environment	102	5	6.15	4.69	0.0013	0.023	6.8	2.09	17.2
+MP:0010053	decreased grip strength	275	8	3.65	4	0.0015	0.025	4.06	1.66	8.58
+MP:0002741	small olfactory bulb	65	4	7.72	4.87	0.0017	0.027	8.56	2.2	24
+MP:0001923	reduced female fertility	280	8	3.58	3.93	0.0017	0.027	3.98	1.63	8.42
+MP:0000965	abnormal sensory neuron morphology	494	11	2.79	3.67	0.0017	0.027	3.15	1.49	6.08
+MP:0004097	abnormal cerebellar cortex morphology	353	9	3.2	3.77	0.0019	0.028	3.57	1.55	7.27
+MP:0001516	abnormal motor coordination/ balance	833	15	2.26	3.41	0.0021	0.031	2.61	1.37	4.68
+MP:0001515	abnormal grip strength	368	9	3.07	3.63	0.0025	0.036	3.41	1.48	6.96
+MP:0003484	abnormal channel response	35	3	10.7	5.18	0.0027	0.037	12.1	2.32	40.1
+MP:0000743	muscle spasm	74	4	6.78	4.47	0.0028	0.038	7.45	1.92	20.8
+MP:0009046	muscle twitch	77	4	6.51	4.36	0.0033	0.042	7.15	1.85	19.9
+MP:0000841	abnormal hindbrain morphology	535	11	2.58	3.37	0.0032	0.042	2.89	1.37	5.58
+MP:0005402	abnormal action potential	128	5	4.9	3.98	0.0035	0.043	5.35	1.65	13.4
+MP:0001513	limb grasping	246	7	3.57	3.66	0.0034	0.043	3.92	1.5	8.65
+MP:0000876	Purkinje cell degeneration	81	4	6.19	4.21	0.0039	0.046	6.77	1.75	18.8
+MP:0000878	abnormal Purkinje cell number	81	4	6.19	4.21	0.0039	0.046	6.77	1.75	18.8
+MP:0000787	abnormal telencephalon morphology	808	14	2.17	3.13	0.0042	0.049	2.47	1.27	4.5
+MP:0002566	abnormal sexual interaction	84	4	5.97	4.1	0.0044	0.05	6.51	1.69	18.1
+MP:0000847	abnormal metencephalon morphology	479	10	2.62	3.26	0.0045	0.05	2.91	1.32	5.75

@@ -1,0 +1,8 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0114	1	3	1	0.333	1	CORUM:3016	cor	2	Cohesin complex, incomplete (Stag3, Sycp3)	1	STAG3
+2	1	TRUE	0.0114	1	3	1	0.333	1	CORUM:3569	cor	6	Angiomotin isoform p80-Angiostatin complex	1	PLG
+3	1	TRUE	0.0136	2	3	1	0.333	0.5	CORUM:3017	cor	4	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	STAG3
+4	1	TRUE	0.0136	3	3	1	0.333	0.333	CORUM:3014	cor	1	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	STAG3
+5	1	TRUE	0.0136	3	3	1	0.333	0.333	CORUM:5308	cor	7	Rb-NeuroD1-Ngfi-B complex	1	RBL1
+6	1	TRUE	0.0189	5	3	1	0.333	0.2	CORUM:1475	cor	3	S-phase-specific E2F-p107 complex	1	RBL1
+7	1	TRUE	0.0235	19	49	3	0.061	0.158	KEGG:00100	keg	8	Steroid biosynthesis	1	HSD17B7,SC5D,LSS

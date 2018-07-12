@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-5693554	Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	26	11	4.8	6.03	5.2e-06	0.0037	7.67	3.18	17.9
+R-HSA-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	33	12	4.13	5.59	1.3e-05	0.0043	5.98	2.67	12.8
+R-HSA-5693537	Resolution of D-Loop Structures	34	12	4.01	5.46	1.8e-05	0.0043	5.71	2.57	12.1
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	42	13	3.51	5.07	4e-05	0.0072	4.69	2.23	9.36
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	39	12	3.49	4.85	8.4e-05	0.012	4.65	2.14	9.53
+R-HSA-1296071	Potassium Channels	99	21	2.41	4.38	0.00012	0.014	2.83	1.65	4.66
+R-HSA-380108	Chemokine receptors bind chemokines	48	13	3.07	4.48	0.00018	0.016	3.89	1.88	7.56
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	67	16	2.71	4.37	0.00018	0.016	3.29	1.74	5.89
+R-HSA-8934593	Regulation of RUNX1 Expression and Activity	17	7	4.67	4.71	0.00035	0.028	7.29	2.35	21.3
+R-HSA-2032785	YAP1- and WWTR1 (TAZ)-stimulated gene expression	28	9	3.65	4.36	0.00045	0.033	4.94	1.96	11.5

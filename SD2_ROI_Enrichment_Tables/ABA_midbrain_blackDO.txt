@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:1561	cognitive disorder	812	36	2.35	5.68	5.1e-07	1e-04	2.94	1.93	4.4
+DOID:5419	schizophrenia	635	28	2.34	4.9	1.4e-05	0.001	2.78	1.75	4.29
+DOID:2468	psychotic disorder	637	28	2.33	4.89	1.5e-05	0.001	2.77	1.74	4.27
+DOID:150	disease of mental health	1255	43	1.82	4.43	3e-05	0.0015	2.25	1.52	3.3
+DOID:11949	Creutzfeldt-Jakob disease	15	4	14.1	7.06	0.00014	0.0056	19.4	4.46	66.7
+DOID:3328	temporal lobe epilepsy	49	6	6.49	5.35	0.00029	0.0096	7.55	2.58	18.3
+DOID:649	prion disease	20	4	10.6	5.96	0.00046	0.013	13.4	3.21	42.2
+DOID:2234	focal epilepsy	59	6	5.39	4.7	8e-04	0.02	6.12	2.11	14.6
+DOID:3602	toxic encephalopathy	46	5	5.76	4.49	0.0016	0.036	6.55	1.99	17

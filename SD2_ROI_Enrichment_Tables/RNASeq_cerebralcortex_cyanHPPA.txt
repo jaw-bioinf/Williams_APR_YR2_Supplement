@@ -1,0 +1,9 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0100758	Gangrene	28	3	47	11.7	2.5e-05	0.0016	82.3	12.1	449
+HP:0001596	Alopecia	170	4	10.3	5.96	0.00032	0.01	20	3.7	109
+HP:0008404	Nail dystrophy	103	3	12.8	5.8	0.0012	0.026	20.3	3.12	106
+HP:0008064	Ichthyosis	124	3	10.6	5.21	0.0021	0.033	16.7	2.57	87.2
+HP:0002164	Nail dysplasia	147	3	8.95	4.71	0.0035	0.033	14	2.15	72.5
+HP:0011368	Epidermal thickening	322	4	5.45	4	0.0036	0.033	10	1.85	54
+HP:0011362	Abnormal hair quantity	556	5	3.95	3.62	0.0036	0.033	8.92	1.73	57.6
+HP:0001072	Thickened skin	354	4	4.96	3.75	0.0051	0.041	8.99	1.67	48.5

@@ -1,0 +1,93 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+MP:0000788 abnormal cerebral cortex morphology 363 14 4.36 6.17 3e-06 0.0011 5.22 2.68 9.48
+MP:0008540 abnormal cerebral hemisphere morphology 609 18 3.34 5.65 4.4e-06 0.0011 4.09 2.27 7.05
+MP:0002152 abnormal brain morphology 1633 32 2.22 5.12 3.5e-06 0.0011 3.04 1.88 4.84
+MP:0005329 abnormal myocardium layer morphology 457 15 3.71 5.62 9.2e-06 0.0016 4.43 2.33 7.92
+MP:0010545 abnormal heart layer morphology 465 15 3.65 5.54 1.1e-05 0.0016 4.35 2.29 7.77
+MP:0000783 abnormal forebrain morphology 1011 23 2.57 5.01 1.3e-05 0.0016 3.24 1.9 5.35
+MP:0000787 abnormal telencephalon morphology 808 20 2.8 5.06 1.7e-05 0.0018 3.44 1.96 5.81
+MP:0001065 abnormal trigeminal nerve morphology 40 5 14.1 7.87 2.5e-05 0.0022 17 5.06 45.2
+MP:0002919 enhanced paired-pulse facilitation 42 5 13.5 7.65 3.1e-05 0.0025 16.1 4.8 42.5
+MP:0001073 abnormal glossopharyngeal nerve morphology 25 4 18.1 8.09 6.2e-05 0.0038 22.4 5.46 68.5
+MP:0000015 abnormal ear pigmentation 26 4 17.4 7.91 7.3e-05 0.0038 21.4 5.23 64.9
+MP:0002574 increased vertical activity 80 6 8.49 6.35 7.1e-05 0.0038 9.73 3.36 23.2
+MP:0001399 hyperactivity 475 14 3.34 4.93 6.2e-05 0.0038 3.9 2.01 7.07
+MP:0003635 abnormal synaptic transmission 740 18 2.75 4.69 6.2e-05 0.0038 3.3 1.83 5.68
+MP:0003633 abnormal nervous system physiology 1903 32 1.9 4.17 8.8e-05 0.0043 2.51 1.55 4
+MP:0003491 abnormal voluntary movement 1648 29 1.99 4.19 1e-04 0.0045 2.56 1.56 4.12
+MP:0009379 abnormal foot pigmentation 29 4 15.6 7.44 0.00011 0.0046 18.8 4.64 56.3
+MP:0000267 abnormal heart development 377 12 3.6 4.87 0.00011 0.0046 4.15 2.03 7.8
+MP:0000849 abnormal cerebellum morphology 445 13 3.31 4.71 0.00013 0.0049 3.82 1.92 7.04
+MP:0002206 abnormal CNS synaptic transmission 653 16 2.77 4.44 0.00016 0.0054 3.26 1.75 5.73
+MP:0002882 abnormal neuron morphology 1515 27 2.02 4.08 0.00016 0.0054 2.54 1.54 4.12
+MP:0010630 abnormal cardiac muscle tissue morphology 342 11 3.64 4.7 0.00019 0.0064 4.15 1.96 7.98
+MP:0000841 abnormal hindbrain morphology 535 14 2.96 4.41 0.00022 0.0069 3.43 1.77 6.2
+MP:0000847 abnormal metencephalon morphology 479 13 3.07 4.39 0.00027 0.008 3.53 1.78 6.5
+MP:0010500 myocardium hypoplasia 105 6 6.47 5.32 0.00032 0.0092 7.25 2.52 17.1
+MP:0002081 perinatal lethality 1327 24 2.05 3.89 0.00034 0.0094 2.51 1.48 4.11
+MP:0005174 abnormal tail pigmentation 39 4 11.6 6.27 0.00037 0.0097 13.4 3.38 38.8
+MP:0002189 abnormal myocardial trabeculae morphology 152 7 5.21 4.94 0.00038 0.0097 5.82 2.23 12.9
+MP:0002918 abnormal paired-pulse facilitation 75 5 7.54 5.37 0.00051 0.012 8.46 2.59 21.5
+MP:0001392 abnormal locomotor behavior 1537 26 1.91 3.7 0.00051 0.012 2.36 1.42 3.84
+MP:0008026 abnormal brain white matter morphology 218 8 4.15 4.45 0.00065 0.015 4.62 1.9 9.76
+MP:0002132 abnormal respiratory system morphology 901 18 2.26 3.76 0.00072 0.016 2.65 1.47 4.55
+MP:0000886 abnormal cerebellar granule layer morphology 128 6 5.3 4.63 0.00091 0.02 5.87 2.05 13.7
+MP:0005331 insulin resistance 178 7 4.45 4.39 0.00096 0.02 4.92 1.89 10.9
+MP:0005409 darkened coat color 23 3 14.8 6.24 0.001 0.021 17.4 3.25 60.5
+MP:0020378 abnormal cell cytoskeleton morphology 24 3 14.1 6.09 0.0012 0.021 16.6 3.1 57.3
+MP:0005172 decreased eye pigmentation 24 3 14.1 6.09 0.0012 0.021 16.6 3.1 57.3
+MP:0000690 absent spleen 24 3 14.1 6.09 0.0012 0.021 16.6 3.1 57.3
+MP:0000428 abnormal craniofacial morphology 1095 20 2.07 3.55 0.0011 0.021 2.44 1.39 4.11
+MP:0005382 craniofacial phenotype 1099 20 2.06 3.53 0.0011 0.021 2.43 1.38 4.09
+MP:0002082 postnatal lethality 1346 23 1.93 3.5 0.0011 0.021 2.32 1.36 3.83
+MP:0002762 ectopic cerebellar granule cells 25 3 13.6 5.95 0.0013 0.022 15.8 2.97 54.4
+MP:0005114 premature hair loss 25 3 13.6 5.95 0.0013 0.022 15.8 2.97 54.4
+MP:0000088 short mandible 93 5 6.08 4.65 0.0013 0.022 6.72 2.07 17
+MP:0002184 abnormal innervation 243 8 3.73 4.06 0.0013 0.022 4.12 1.7 8.68
+MP:0003257 abnormal abdominal wall morphology 95 5 5.96 4.58 0.0015 0.023 6.57 2.03 16.6
+MP:0011065 abnormal kidney epithelial cell primary cilium morphology 27 3 12.6 5.69 0.0017 0.026 14.5 2.74 49.3
+MP:0009956 abnormal cerebellar layer morphology 314 9 3.24 3.82 0.0017 0.026 3.59 1.57 7.29
+MP:0002064 seizures 383 10 2.95 3.69 0.0019 0.028 3.28 1.5 6.46
+MP:0003052 omphalocele 61 4 7.42 4.75 0.002 0.029 8.22 2.11 23
+MP:0001364 decreased anxiety-related response 150 6 4.53 4.11 0.0021 0.029 4.96 1.74 11.6
+MP:0003313 abnormal locomotor activation 1152 20 1.96 3.3 0.002 0.029 2.3 1.31 3.87
+MP:0000778 abnormal nervous system tract morphology 210 7 3.77 3.84 0.0025 0.034 4.13 1.59 9.1
+MP:0001071 abnormal facial nerve morphology 32 3 10.6 5.14 0.0027 0.035 12 2.29 39.9
+MP:0002912 abnormal excitatory postsynaptic potential 108 5 5.24 4.18 0.0026 0.035 5.73 1.77 14.4
+MP:0000955 abnormal spinal cord morphology 335 9 3.04 3.59 0.0027 0.035 3.35 1.46 6.8
+MP:0000846 abnormal medulla oblongata morphology 33 3 10.3 5.05 0.003 0.037 11.6 2.22 38.5
+MP:0008788 abnormal fetal cardiomyocyte morphology 33 3 10.3 5.05 0.003 0.037 11.6 2.22 38.5
+MP:0002176 increased brain weight 33 3 10.3 5.05 0.003 0.037 11.6 2.22 38.5
+MP:0005238 increased brain size 69 4 6.56 4.38 0.0032 0.037 7.2 1.86 20.1
+MP:0000278 abnormal myocardial fiber morphology 221 7 3.58 3.67 0.0033 0.037 3.92 1.5 8.61
+MP:0003492 abnormal involuntary movement 942 17 2.04 3.19 0.0031 0.037 2.34 1.28 4.06
+MP:0012322 decreased total tissue mass 1833 27 1.67 3.01 0.0033 0.037 2.01 1.21 3.25
+MP:0001262 decreased body weight 1833 27 1.67 3.01 0.0033 0.037 2.01 1.21 3.25
+MP:0012076 abnormal agouti pigmentation 35 3 9.7 4.87 0.0036 0.038 10.9 2.09 35.8
+MP:0004098 abnormal cerebellar granule cell morphology 71 4 6.38 4.29 0.0035 0.038 6.99 1.81 19.4
+MP:0001454 abnormal cued conditioning behavior 115 5 4.92 3.99 0.0034 0.038 5.36 1.66 13.4
+MP:0003385 abnormal body wall morphology 119 5 4.75 3.89 0.004 0.038 5.17 1.6 12.9
+MP:0010499 abnormal ventricle myocardium morphology 119 5 4.75 3.89 0.004 0.038 5.17 1.6 12.9
+MP:0020167 abnormal vertical activity 222 7 3.57 3.66 0.0034 0.038 3.9 1.5 8.57
+MP:0001629 abnormal heart rate 229 7 3.46 3.56 0.004 0.038 3.77 1.45 8.29
+MP:0000830 abnormal diencephalon morphology 289 8 3.13 3.48 0.0039 0.038 3.43 1.41 7.21
+MP:0004097 abnormal cerebellar cortex morphology 353 9 2.89 3.41 0.0038 0.038 3.17 1.38 6.43
+MP:0000432 abnormal head morphology 875 16 2.07 3.14 0.0037 0.038 2.35 1.27 4.13
+MP:0002106 abnormal muscle physiology 954 17 2.02 3.13 0.0036 0.038 2.31 1.26 4
+MP:0001544 abnormal cardiovascular system physiology 1571 24 1.73 2.99 0.0038 0.038 2.05 1.21 3.36
+MP:0004133 heterotaxia 75 4 6.04 4.13 0.0043 0.039 6.59 1.71 18.3
+MP:0010412 atrioventricular septal defect 75 4 6.04 4.13 0.0043 0.039 6.59 1.71 18.3
+MP:0010503 myocardial trabeculae hypoplasia 75 4 6.04 4.13 0.0043 0.039 6.59 1.71 18.3
+MP:0004091 abnormal Z lines 38 3 8.93 4.63 0.0045 0.04 9.93 1.91 32.5
+MP:0004967 abnormal kidney epithelium morphology 76 4 5.96 4.1 0.0045 0.04 6.5 1.68 18
+MP:0000947 convulsive seizures 175 6 3.88 3.63 0.0044 0.04 4.22 1.48 9.8
+MP:0003997 tonic-clonic seizures 78 4 5.8 4.02 0.0049 0.041 6.32 1.64 17.5
+MP:0010592 abnormal atrioventricular septum morphology 78 4 5.8 4.02 0.0049 0.041 6.32 1.64 17.5
+MP:0002075 abnormal coat/hair pigmentation 236 7 3.36 3.46 0.0047 0.041 3.65 1.4 8.03
+MP:0002058 neonatal lethality 979 17 1.96 3.01 0.0047 0.041 2.24 1.22 3.88
+MP:0002200 abnormal brain ventricular system morphology 370 9 2.75 3.25 0.0052 0.043 3.02 1.32 6.11
+MP:0000822 abnormal brain ventricle morphology 305 8 2.97 3.3 0.0054 0.044 3.24 1.34 6.8
+MP:0004263 abnormal limb posture 41 3 8.28 4.41 0.0056 0.045 9.15 1.77 29.8
+MP:0001516 abnormal motor coordination/ balance 833 15 2.04 2.96 0.0058 0.046 2.29 1.21 4.08
+MP:0005312 pericardial effusion 133 5 4.25 3.57 0.0063 0.05 4.6 1.43 11.5
+MP:0020135 abnormal heart ventricle wall thickness 188 6 3.61 3.42 0.0063 0.05 3.91 1.37 9.07

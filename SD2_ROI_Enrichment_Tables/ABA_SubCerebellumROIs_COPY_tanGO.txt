@@ -1,0 +1,18 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:4056	cor	1	Axin1-Dvl1-Gsk3b-Frat1 complex	1	FRAT1
+2	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:5578	cor	15	Sdc2-Ephb2 complex	1	EPHB2
+3	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:3019	cor	8	Cohesin complex, incomplete (Smc4, Crest/Ss18I1)	1	SMC4
+4	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:5493	cor	14	Tmsb4x-Lims1-Ilk complex	1	ILK
+5	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:6656	cor	13	Nherf1-Fzd4-Vangl2 complex	1	FZD4
+6	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:6761	cor	16	Vangl1-Dvl3 complex	1	VANGL1
+7	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:5815	cor	11	Axin1-Dvl1-Gsk3b-Frat1 complex	1	FRAT1
+8	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:6759	cor	4	Vangl1-Dvl1 complex	1	VANGL1
+9	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:6407	cor	17	Vangl1-Vangl2 complex	1	VANGL1
+10	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:6760	cor	18	Vangl1-Dvl2 complex	1	VANGL1
+11	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:6809	cor	5	Arrb2-Akt-Ppp2ca complex	1	ARRB2
+12	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:3741	cor	10	Slp5-Rab27A complex	1	SYTL5
+13	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:5616	cor	7	Hsp110-Hsc70-Hsp25 complex	1	HSPB1
+14	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:6279	cor	6	p65-IkappaBalpha-beta-arrestin-iNOS complex	1	ARRB2
+15	1	TRUE	0.0436	3	11	1	0.091	0.333	CORUM:6813	cor	9	Arrb2-Akt-Src complex, insulin induced	1	ARRB2
+16	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:488	cor	3	Vezf1-p68RacGap complex	1	VEZF1
+17	1	TRUE	0.0436	2	11	1	0.091	0.5	CORUM:2729	cor	12	PIP complex	1	ILK

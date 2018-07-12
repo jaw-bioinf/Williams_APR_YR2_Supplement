@@ -1,0 +1,54 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-9014325	TICAM1,TRAF6-dependent induction of TAK1 complex	17	4	18.7	8.24	5e-05	0.0064	24.9	5.82	82
+R-HSA-975163	IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	17	4	18.7	8.24	5e-05	0.0064	24.9	5.82	82
+R-HSA-937072	TRAF6-mediated induction of TAK1 complex within TLR4 complex	18	4	17.7	7.99	6.4e-05	0.0064	23.1	5.45	74.9
+R-HSA-2122948	Activated NOTCH1 Transmits Signal to the Nucleus	10	3	23.8	8.16	0.00022	0.012	34.3	5.67	152
+R-HSA-937042	IRAK2 mediated activation of TAK1 complex	10	3	23.8	8.16	0.00022	0.012	34.3	5.67	152
+R-HSA-182971	EGFR downregulation	25	4	12.7	6.62	0.00025	0.012	15.4	3.78	46.6
+R-HSA-8876384	Listeria monocytogenes entry into host cells	12	3	19.9	7.38	0.00039	0.017	26.7	4.6	109
+R-HSA-8848021	Signaling by PTK6	54	5	7.36	5.29	0.00056	0.019	8.29	2.53	21.2
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	5	7.36	5.29	0.00056	0.019	8.29	2.53	21.2
+R-HSA-2691230	Signaling by NOTCH1 HD Domain Mutants in Cancer	15	3	15.9	6.52	0.00079	0.02	20	3.59	75.6
+R-HSA-2691232	Constitutive Signaling by NOTCH1 HD Domain Mutants	15	3	15.9	6.52	0.00079	0.02	20	3.59	75.6
+R-HSA-190236	Signaling by FGFR	87	6	5.48	4.74	0.00077	0.02	6.05	2.12	14.1
+R-HSA-1295596	Spry regulation of FGF signaling	16	3	14.9	6.28	0.00097	0.022	18.5	3.34	68.6
+R-HSA-936964	Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	18	3	13.2	5.87	0.0014	0.026	16	2.94	57.6
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	19	3	12.5	5.69	0.0016	0.026	15	2.77	53.4
+R-HSA-1643713	Signaling by EGFR in Cancer	19	3	12.5	5.69	0.0016	0.026	15	2.77	53.4
+R-HSA-5637815	Signaling by Ligand-Responsive EGFR Variants in Cancer	19	3	12.5	5.69	0.0016	0.026	15	2.77	53.4
+R-HSA-6804760	Regulation of TP53 Activity through Methylation	19	3	12.5	5.69	0.0016	0.026	15	2.77	53.4
+R-HSA-177929	Signaling by EGFR	40	4	7.95	4.97	0.0015	0.026	8.97	2.28	25.6
+R-HSA-6807004	Negative regulation of MET activity	21	3	11.4	5.36	0.0022	0.028	13.4	2.49	46.6
+R-HSA-912631	Regulation of signaling by CBL	21	3	11.4	5.36	0.0022	0.028	13.4	2.49	46.6
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	42	4	7.57	4.82	0.0018	0.028	8.49	2.17	24.1
+R-HSA-75893	TNF signaling	43	4	7.39	4.74	0.002	0.028	8.27	2.11	23.5
+R-HSA-5654738	Signaling by FGFR2	73	5	5.44	4.3	0.0022	0.028	5.96	1.84	15
+R-HSA-1980143	Signaling by NOTCH1	22	3	10.8	5.21	0.0025	0.03	12.7	2.37	43.8
+R-HSA-2173789	TGF-beta receptor signaling activates SMADs	23	3	10.4	5.08	0.0029	0.032	12	2.26	41.3
+R-HSA-450321	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	23	3	10.4	5.08	0.0029	0.032	12	2.26	41.3
+R-HSA-450302	activated TAK1 mediates p38 MAPK activation	24	3	9.93	4.95	0.0032	0.035	11.4	2.16	39.1
+R-HSA-937041	IKK complex recruitment mediated by RIP1	25	3	9.54	4.82	0.0037	0.035	10.9	2.07	37.1
+R-HSA-5654736	Signaling by FGFR1	50	4	6.36	4.29	0.0035	0.035	7.01	1.8	19.6
+R-HSA-73887	Death Receptor Signalling	50	4	6.36	4.29	0.0035	0.035	7.01	1.8	19.6
+R-HSA-5654732	Negative regulation of FGFR3 signaling	29	3	8.22	4.4	0.0056	0.048	9.24	1.77	30.8
+R-HSA-8863795	Downregulation of ERBB2 signaling	29	3	8.22	4.4	0.0056	0.048	9.24	1.77	30.8
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	57	4	5.58	3.91	0.0056	0.048	6.08	1.57	16.9
+R-HSA-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	90	5	4.41	3.67	0.0055	0.048	4.76	1.48	11.9
+R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	92	5	4.32	3.61	0.006	0.048	4.65	1.45	11.6
+R-HSA-975155	MyD88 dependent cascade initiated on endosome	92	5	4.32	3.61	0.006	0.048	4.65	1.45	11.6
+R-HSA-5357956	TNFR1-induced NFkappaB signaling pathway	30	3	7.95	4.3	0.0062	0.049	8.9	1.71	29.5
+R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	31	3	7.69	4.21	0.0068	0.049	8.58	1.65	28.4
+R-HSA-5654733	Negative regulation of FGFR4 signaling	31	3	7.69	4.21	0.0068	0.049	8.58	1.65	28.4
+R-HSA-2559585	Oncogene Induced Senescence	33	3	7.22	4.04	0.0081	0.049	8.01	1.54	26.3
+R-HSA-5654726	Negative regulation of FGFR1 signaling	33	3	7.22	4.04	0.0081	0.049	8.01	1.54	26.3
+R-HSA-5654727	Negative regulation of FGFR2 signaling	34	3	7.01	3.96	0.0088	0.049	7.75	1.5	25.4
+R-HSA-450294	MAP kinase activation in TLR cascade	60	4	5.3	3.77	0.0068	0.049	5.75	1.49	15.9
+R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	96	5	4.14	3.49	0.0072	0.049	4.45	1.39	11
+R-HSA-168164	Toll Like Receptor 3 (TLR3) Cascade	97	5	4.1	3.46	0.0075	0.049	4.4	1.37	10.9
+R-HSA-5693607	Processing of DNA double-strand break ends	97	5	4.1	3.46	0.0075	0.049	4.4	1.37	10.9
+R-HSA-166166	MyD88-independent TLR4 cascade 	98	5	4.05	3.43	0.0078	0.049	4.35	1.36	10.8
+R-HSA-202424	Downstream TCR signaling	98	5	4.05	3.43	0.0078	0.049	4.35	1.36	10.8
+R-HSA-937061	TRIF(TICAM1)-mediated TLR4 signaling 	98	5	4.05	3.43	0.0078	0.049	4.35	1.36	10.8
+R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	100	5	3.97	3.37	0.0085	0.049	4.26	1.33	10.6
+R-HSA-8856828	Clathrin-mediated endocytosis	140	6	3.41	3.24	0.0084	0.049	3.64	1.29	8.36
+R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	487	13	2.12	2.86	0.0082	0.049	2.28	1.17	4.1

@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0001806	decreased IgM level	127	8	6.8	6.36	2.1e-05	0.015	7.82	3.19	16.7
+MP:0008482	decreased spleen germinal center number	34	4	12.7	6.61	0.00026	0.042	14.9	3.72	43.6
+MP:0001983	abnormal olfactory system physiology	64	5	8.43	5.77	3e-04	0.042	9.55	2.91	24.5
+MP:0020180	abnormal IgM level	239	9	4.06	4.64	0.00035	0.042	4.55	1.98	9.25
+MP:0002144	abnormal B cell differentiation	339	11	3.5	4.54	0.00028	0.042	3.96	1.88	7.6
+MP:0004939	abnormal B cell morphology	677	17	2.71	4.47	0.00013	0.042	3.18	1.75	5.51

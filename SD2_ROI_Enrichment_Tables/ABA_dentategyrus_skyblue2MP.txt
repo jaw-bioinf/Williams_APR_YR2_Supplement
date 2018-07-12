@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0000771	abnormal brain size	343	7	5.92	5.46	0.00013	0.023	7.42	2.69	17.8
+MP:0000774	decreased brain size	281	6	6.19	5.2	0.00034	0.029	7.53	2.51	18.9
+MP:0008540	abnormal cerebral hemisphere morphology	609	8	3.81	4.22	0.00085	0.048	4.79	1.85	11.1

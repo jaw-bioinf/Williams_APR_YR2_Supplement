@@ -1,0 +1,4 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0078	2	20	2	0.1	1	CORUM:3114	cor	3	Itgax-Itgb2-Icam4 complex	1	ICAM4,ITGAX
+2	1	TRUE	0.0078	2	20	2	0.1	1	CORUM:2684	cor	1	p53-Bcl-xL complex, DNA-damage induced	1	BCL2L1,TRP53
+3	1	TRUE	0.0154	3	20	2	0.1	0.667	CORUM:2682	cor	2	Bcl-xL-p53-PUMA complex, DNA damage induced	1	BCL2L1,TRP53

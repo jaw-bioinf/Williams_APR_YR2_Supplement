@@ -1,0 +1,54 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+HP:0002373	Febrile seizures	56	4	22.8	9.22	1.8e-05	0.0032	37.6	7.84	153
+HP:0200134	Epileptic encephalopathy	64	4	19.9	8.57	3e-05	0.0032	32.6	6.81	132
+HP:0002305	Athetosis	79	4	16.2	7.64	7e-05	0.005	26	5.46	105
+HP:0004305	Involuntary movements	664	8	3.84	4.56	0.00015	0.0081	11.5	2.76	67.6
+HP:0001257	Spasticity	491	7	4.55	4.75	2e-04	0.0086	10.9	2.76	51
+HP:0100716	Self-injurious behavior	122	4	10.5	5.96	0.00038	0.012	16.3	3.46	65.3
+HP:0002540	Inability to walk	124	4	10.3	5.91	4e-04	0.012	16	3.4	64.2
+HP:0000817	Poor eye contact	59	3	16.2	6.61	0.00068	0.015	23	3.82	98.9
+HP:0002133	Status epilepticus	62	3	15.4	6.43	0.00078	0.015	21.8	3.63	93.7
+HP:0011146	Dialeptic seizures	71	3	13.5	5.96	0.0012	0.015	18.9	3.15	80.7
+HP:0000735	Impaired social interactions	71	3	13.5	5.96	0.0012	0.015	18.9	3.15	80.7
+HP:0012433	Abnormal social behavior	73	3	13.1	5.86	0.0013	0.015	18.3	3.06	78.5
+HP:0008936	Muscular hypotonia of the trunk	138	4	9.25	5.54	0.00061	0.015	14.3	3.04	57.1
+HP:0000733	Stereotypy	155	4	8.23	5.16	0.00095	0.015	12.6	2.68	50.4
+HP:0000179	Thick lower lip vermilion	168	4	7.6	4.91	0.0013	0.015	11.6	2.46	46.1
+HP:0001265	Hyporeflexia	280	5	5.7	4.59	0.00096	0.015	9.76	2.34	38.6
+HP:0001276	Hypertonia	626	7	3.57	3.97	0.00094	0.015	8.13	2.06	38
+HP:0100022	Abnormality of movement	1159	9	2.48	3.45	0.0012	0.015	9.19	1.9	87.6
+HP:0200055	Small hand	83	3	11.5	5.44	0.0018	0.018	16	2.68	68.2
+HP:0007359	Focal seizures	87	3	11	5.3	0.0021	0.018	15.2	2.55	64.8
+HP:0002510	Spastic tetraplegia	87	3	11	5.3	0.0021	0.018	15.2	2.55	64.8
+HP:0001298	Encephalopathy	178	4	7.17	4.74	0.0016	0.018	10.9	2.32	43.3
+HP:0011220	Prominent forehead	189	4	6.75	4.56	0.002	0.018	10.2	2.17	40.6
+HP:0012471	Thick vermilion border	190	4	6.72	4.54	0.002	0.018	10.2	2.16	40.4
+HP:0001332	Dystonia	318	5	5.02	4.21	0.0017	0.018	8.47	2.03	33.5
+HP:0001258	Spastic paraplegia	91	3	10.5	5.16	0.0024	0.019	14.5	2.44	61.7
+HP:0000490	Deeply set eye	195	4	6.55	4.47	0.0022	0.019	9.88	2.1	39.3
+HP:0010550	Paraplegia	93	3	10.3	5.09	0.0025	0.02	14.2	2.38	60.3
+HP:0002063	Rigidity	103	3	9.29	4.79	0.0034	0.023	12.7	2.14	54
+HP:0011344	Severe global developmental delay	103	3	9.29	4.79	0.0034	0.023	12.7	2.14	54
+HP:0002123	Generalized myoclonic seizures	105	3	9.12	4.73	0.0036	0.023	12.5	2.1	52.9
+HP:0002376	Developmental regression	219	4	5.83	4.14	0.0034	0.023	8.72	1.86	34.6
+HP:0000729	Autistic behavior	225	4	5.67	4.06	0.0038	0.023	8.46	1.8	33.6
+HP:0001337	Tremor	377	5	4.23	3.72	0.0037	0.023	7	1.68	27.7
+HP:0001347	Hyperreflexia	560	6	3.42	3.5	0.0036	0.023	6.37	1.61	26.5
+HP:0002019	Constipation	228	4	5.6	4.03	0.004	0.024	8.34	1.78	33.1
+HP:0002936	Distal sensory impairment	119	3	8.04	4.38	0.0051	0.027	10.9	1.84	46.2
+HP:0002061	Lower limb spasticity	121	3	7.91	4.34	0.0054	0.027	10.7	1.81	45.4
+HP:0003487	Babinski sign	239	4	5.34	3.9	0.0047	0.027	7.93	1.69	31.4
+HP:0000178	Abnormality of lower lip	242	4	5.27	3.86	0.0049	0.027	7.82	1.67	31
+HP:0002353	EEG abnormality	246	4	5.19	3.82	0.0052	0.027	7.68	1.64	30.5
+HP:0000752	Hyperactivity	248	4	5.15	3.8	0.0054	0.027	7.61	1.62	30.2
+HP:0006919	Abnormal aggressive, impulsive or violent behavior	249	4	5.13	3.79	0.0055	0.027	7.58	1.62	30.1
+HP:0001315	Reduced tendon reflexes	399	5	4	3.57	0.0048	0.027	6.56	1.58	25.9
+HP:0010551	Paraplegia/paraparesis	129	3	7.42	4.17	0.0064	0.031	10	1.69	42.4
+HP:0001773	Short foot	136	3	7.04	4.03	0.0075	0.034	9.47	1.6	40.1
+HP:0001311	Abnormal nervous system electrophysiology	443	5	3.6	3.28	0.0075	0.034	5.82	1.4	23
+HP:0002079	Hypoplasia of the corpus callosum	287	4	4.45	3.42	0.0091	0.041	6.49	1.38	25.7
+HP:0002493	Upper motor neuron dysfunction	918	7	2.43	2.83	0.0097	0.043	4.97	1.26	23.2
+HP:0007256	Abnormal pyramidal signs	296	4	4.31	3.34	0.01	0.044	6.27	1.34	24.8
+HP:0002197	Generalized seizures	155	3	6.18	3.7	0.011	0.045	8.25	1.4	34.8
+HP:0100851	Abnormal emotion/affect behavior	484	5	3.3	3.05	0.011	0.045	5.25	1.26	20.7
+HP:0000925	Abnormality of the vertebral column	935	7	2.39	2.78	0.011	0.045	4.85	1.23	22.6

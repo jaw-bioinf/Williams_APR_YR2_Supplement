@@ -1,0 +1,10 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+path:hsa04137	Mitophagy - animal	65	12	4.48	5.84	1.1e-05	0.0017	5.46	2.62	10.5
+path:hsa04141	Protein processing in endoplasmic reticulum	165	19	2.79	4.83	4.3e-05	0.0034	3.18	1.83	5.24
+path:hsa00190	Oxidative phosphorylation	133	16	2.92	4.63	1e-04	0.0048	3.31	1.81	5.71
+path:hsa05016	Huntington's disease	193	20	2.51	4.42	0.00012	0.0048	2.82	1.65	4.58
+path:hsa04721	Synaptic vesicle cycle	63	10	3.85	4.71	0.00022	0.0059	4.51	2.02	9.09
+path:hsa05012	Parkinson's disease	142	16	2.73	4.33	0.00023	0.0059	3.07	1.68	5.28
+path:hsa04932	Non-alcoholic fatty liver disease (NAFLD)	149	16	2.6	4.11	0.00039	0.0088	2.91	1.59	4.99
+path:hsa05010	Alzheimer's disease	171	16	2.27	3.49	0.0018	0.034	2.49	1.37	4.25
+path:hsa05132	Salmonella infection	86	10	2.82	3.52	0.0027	0.047	3.14	1.43	6.18

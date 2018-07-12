@@ -1,0 +1,11 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-1430728	Metabolism	1899	39	1.8	4.18	7.8e-05	0.0086	2.25	1.48	3.36
+R-HSA-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes	30	4	11.7	6.3	0.00035	0.019	13.8	3.44	40.7
+R-HSA-6803204	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	20	3	13.2	5.85	0.0014	0.035	15.7	2.91	55.3
+R-HSA-5205685	Pink/Parkin Mediated Mitophagy	22	3	12	5.53	0.0019	0.035	14	2.62	48.7
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	74	5	5.93	4.57	0.0015	0.035	6.53	2.02	16.5
+R-HSA-8852135	Protein ubiquitination	77	5	5.7	4.45	0.0018	0.035	6.26	1.93	15.7
+R-HSA-674695	RNA Polymerase II Pre-transcription Events	84	5	5.23	4.18	0.0026	0.038	5.7	1.77	14.3
+R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	165	7	3.73	3.79	0.0027	0.038	4.03	1.56	8.79
+R-HSA-6799198	Complex I biogenesis	55	4	6.39	4.3	0.0035	0.042	7.02	1.81	19.6
+R-HSA-5205647	Mitophagy	29	3	9.09	4.68	0.0042	0.047	10.3	1.96	34.2

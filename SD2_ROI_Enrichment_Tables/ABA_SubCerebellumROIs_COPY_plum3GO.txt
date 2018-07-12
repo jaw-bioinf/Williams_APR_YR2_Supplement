@@ -1,0 +1,5 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.00811	1	2	1	0.5	1	CORUM:3016	cor	4	Cohesin complex, incomplete (Stag3, Sycp3)	1	STAG3
+2	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:3014	cor	3	Cohesin complex, incomplete (Stag3, Scp1, Ss181)	1	STAG3
+3	1	TRUE	0.00811	3	2	1	0.5	0.333	CORUM:6663	cor	2	Ezrin-Nherf1-Irbit-NHE3 complex	1	EZR
+4	1	TRUE	0.00811	2	2	1	0.5	0.5	CORUM:3017	cor	1	Cohesin complex, incomplete (Stag3, Crest/Ss18I1)	1	STAG3

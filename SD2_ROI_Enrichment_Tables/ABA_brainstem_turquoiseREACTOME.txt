@@ -1,0 +1,27 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	320	162	1.44	5.85	7.2e-09	8.9e-06	1.93	1.53	2.42
+R-HSA-1474244	Extracellular matrix organization	278	140	1.43	5.35	1.1e-07	7.1e-05	1.9	1.48	2.43
+R-HSA-500792	GPCR ligand binding	419	192	1.3	4.63	3.3e-06	0.0014	1.59	1.3	1.94
+R-HSA-216083	Integrin cell surface interactions	81	48	1.68	4.54	8.3e-06	0.0026	2.7	1.69	4.34
+R-HSA-5686938	Regulation of TLR by endogenous ligand	19	16	2.39	4.47	1.6e-05	0.004	9.83	2.81	52.7
+R-HSA-1474290	Collagen formation	90	51	1.61	4.27	2.5e-05	0.0051	2.42	1.56	3.78
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	37	1.72	4.17	4.4e-05	0.0077	2.85	1.66	4.99
+R-HSA-375280	Amine ligand-binding receptors	42	27	1.82	3.95	0.00012	0.018	3.32	1.7	6.73
+R-HSA-5602498	MyD88 deficiency (TLR2/4)	11	10	2.58	3.87	0.00022	0.022	18.4	2.62	797
+R-HSA-5603041	IRAK4 deficiency (TLR2/4)	11	10	2.58	3.87	0.00022	0.022	18.4	2.62	797
+R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	123	63	1.45	3.73	0.00019	0.022	1.95	1.34	2.83
+R-HSA-6809371	Formation of the cornified envelope	128	65	1.44	3.7	2e-04	0.022	1.91	1.33	2.76
+R-HSA-1442490	Collagen degradation	52	31	1.69	3.69	0.00028	0.025	2.73	1.52	5
+R-HSA-196854	Metabolism of vitamins and cofactors	184	88	1.36	3.61	0.00027	0.025	1.7	1.26	2.3
+R-HSA-139853	Elevation of cytosolic Ca2+ levels	13	11	2.4	3.73	0.00037	0.03	10.1	2.21	94.1
+R-HSA-6783589	Interleukin-6 family signaling	24	17	2.01	3.65	0.00041	0.031	4.48	1.76	12.8
+R-HSA-3000157	Laminin interactions	28	19	1.93	3.62	0.00044	0.032	3.89	1.68	9.78
+R-HSA-416476	G alpha (q) signalling events	207	96	1.32	3.39	0.00056	0.038	1.61	1.2	2.14
+R-HSA-1566948	Elastic fibre formation	45	27	1.7	3.48	6e-04	0.039	2.77	1.47	5.35
+R-HSA-1296072	Voltage gated Potassium channels	43	26	1.72	3.47	0.00063	0.039	2.82	1.47	5.55
+R-HSA-114508	Effects of PIP2 hydrolysis	25	17	1.93	3.43	0.00086	0.041	3.92	1.6	10.5
+R-HSA-5260271	Diseases of Immune System	25	17	1.93	3.43	0.00086	0.041	3.92	1.6	10.5
+R-HSA-5602358	Diseases associated with the TLR signaling cascade	25	17	1.93	3.43	0.00086	0.041	3.92	1.6	10.5
+R-HSA-5669034	TNFs bind their physiological receptors	29	19	1.86	3.42	0.00086	0.041	3.5	1.55	8.44
+R-HSA-3781865	Diseases of glycosylation	135	66	1.39	3.34	0.00071	0.041	1.77	1.24	2.53
+R-HSA-375276	Peptide ligand-binding receptors	187	87	1.32	3.26	0.00087	0.041	1.61	1.19	2.18

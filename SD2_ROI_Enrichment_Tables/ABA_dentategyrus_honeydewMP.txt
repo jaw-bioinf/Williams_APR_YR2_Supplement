@@ -1,0 +1,38 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0004404	cochlear outer hair cell degeneration	77	3	17.2	6.8	0.00066	0.03	20.6	3.82	73.1
+MP:0004362	cochlear hair cell degeneration	91	3	14.6	6.19	0.0011	0.03	17.3	3.21	60.9
+MP:0011940	decreased food intake	102	3	13	5.8	0.0015	0.03	15.4	2.86	53.9
+MP:0001967	deafness	106	3	12.5	5.67	0.0017	0.03	14.8	2.75	51.8
+MP:0002622	abnormal cochlear hair cell morphology	190	4	9.3	5.51	0.00078	0.03	11.5	2.78	35.6
+MP:0003308	abnormal cochlear sensory epithelium morphology	196	4	9.02	5.4	0.00087	0.03	11.1	2.69	34.5
+MP:0000045	abnormal hair cell morphology	197	4	8.97	5.39	0.00089	0.03	11	2.68	34.3
+MP:0000042	abnormal organ of Corti morphology	197	4	8.97	5.39	0.00089	0.03	11	2.68	34.3
+MP:0000972	abnormal mechanoreceptor morphology	222	4	7.96	5	0.0014	0.03	9.75	2.37	30.2
+MP:0003169	abnormal scala media morphology	223	4	7.93	4.99	0.0014	0.03	9.7	2.36	30.1
+MP:0004426	abnormal cochlear labyrinth morphology	223	4	7.93	4.99	0.0014	0.03	9.7	2.36	30.1
+MP:0005140	decreased cardiac muscle contractility	236	4	7.49	4.81	0.0017	0.03	9.15	2.22	28.3
+MP:0000031	abnormal cochlea morphology	237	4	7.46	4.8	0.0018	0.03	9.11	2.21	28.2
+MP:0020180	abnormal IgM level	239	4	7.4	4.77	0.0018	0.03	9.03	2.19	28
+MP:0011086	postnatal lethality, incomplete penetrance	786	7	3.94	4.1	0.0012	0.03	5.44	1.85	14.5
+MP:0002082	postnatal lethality	1346	9	2.95	3.69	0.0016	0.03	4.44	1.65	11.5
+MP:0000035	abnormal membranous labyrinth morphology	256	4	6.9	4.56	0.0023	0.036	8.4	2.04	26
+MP:0008081	abnormal single-positive T cell number	124	3	10.7	5.17	0.0026	0.038	12.6	2.34	43.9
+MP:0000181	abnormal circulating LDL cholesterol level	139	3	9.54	4.83	0.0036	0.04	11.2	2.08	38.9
+MP:0004399	abnormal cochlear outer hair cell morphology	153	3	8.66	4.55	0.0047	0.04	10.1	1.89	35.1
+MP:0020151	abnormal circulating non-HDL cholesterol level	154	3	8.61	4.53	0.0048	0.04	10	1.88	34.9
+MP:0000767	abnormal smooth muscle morphology	157	3	8.44	4.48	0.0051	0.04	9.84	1.84	34.2
+MP:0008022	dilated heart ventricle	157	3	8.44	4.48	0.0051	0.04	9.84	1.84	34.2
+MP:0011939	increased food intake	160	3	8.28	4.43	0.0053	0.04	9.65	1.8	33.6
+MP:0000026	abnormal inner ear morphology	283	4	6.25	4.27	0.0034	0.04	7.57	1.84	23.4
+MP:0002972	abnormal cardiac muscle contractility	285	4	6.2	4.25	0.0035	0.04	7.51	1.83	23.2
+MP:0002102	abnormal ear morphology	457	5	4.83	4	0.003	0.04	6.09	1.74	17.5
+MP:0011967	increased or absent threshold for auditory brainstem response	311	4	5.68	4	0.0047	0.04	6.86	1.67	21.2
+MP:0000738	impaired muscle contractility	315	4	5.61	3.97	0.0049	0.04	6.77	1.65	20.9
+MP:0002727	decreased circulating insulin level	317	4	5.58	3.95	0.005	0.04	6.72	1.64	20.8
+MP:0012225	decreased sterol level	321	4	5.51	3.91	0.0053	0.04	6.63	1.61	20.5
+MP:0003983	decreased cholesterol level	321	4	5.51	3.91	0.0053	0.04	6.63	1.61	20.5
+MP:0003878	abnormal ear physiology	490	5	4.51	3.8	0.004	0.04	5.65	1.61	16.2
+MP:0012322	decreased total tissue mass	1833	10	2.41	3.21	0.0037	0.04	3.71	1.41	9.63
+MP:0001262	decreased body weight	1833	10	2.41	3.21	0.0037	0.04	3.71	1.41	9.63
+MP:0001258	decreased body length	326	4	5.42	3.87	0.0056	0.041	6.53	1.59	20.2
+MP:0005371	limbs/digits/tail phenotype	1030	7	3	3.25	0.0058	0.042	4.02	1.37	10.7

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008561	decreased tumor necrosis factor secretion	129	21	2.71	4.94	2.6e-05	0.02	3.12	1.84	5.06
+MP:0020171	abnormal IgA level	129	21	2.71	4.94	2.6e-05	0.02	3.12	1.84	5.06
+MP:0008556	abnormal tumor necrosis factor secretion	233	31	2.21	4.74	2.4e-05	0.02	2.48	1.63	3.68

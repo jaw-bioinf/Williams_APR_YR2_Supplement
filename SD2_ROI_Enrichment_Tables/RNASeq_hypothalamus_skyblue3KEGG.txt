@@ -1,0 +1,4 @@
+name nAnno nOverlap fc zscore pvalue adjp or CIl CIu
+path:hsa04210 Apoptosis 138 6 5.25 4.61 9e-04 0.018 5.99 2.06 14.3
+path:hsa05418 Fluid shear stress and atherosclerosis 139 5 4.35 3.64 0.0056 0.042 4.82 1.47 12.3
+path:hsa05205 Proteoglycans in cancer 203 6 3.57 3.4 0.0063 0.042 3.97 1.37 9.43

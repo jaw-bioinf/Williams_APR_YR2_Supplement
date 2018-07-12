@@ -1,0 +1,8 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+R-HSA-68962	Activation of the pre-replicative complex	32	3	15.6	6.44	9e-04	0.049	18	3.41	60.7
+R-HSA-3000178	ECM proteoglycans	50	3	10	4.96	0.0033	0.05	11.1	2.14	36
+R-HSA-8848021	Signaling by PTK6	54	3	9.27	4.73	0.0041	0.05	10.2	1.98	33.1
+R-HSA-9006927	Signaling by Non-Receptor Tyrosine Kinases	54	3	9.27	4.73	0.0041	0.05	10.2	1.98	33.1
+R-HSA-186797	Signaling by PDGF	58	3	8.63	4.53	0.005	0.05	9.47	1.84	30.5
+R-HSA-2022090	Assembly of collagen fibrils and other multimeric structures	61	3	8.21	4.38	0.0058	0.05	8.97	1.75	28.9
+R-HSA-69206	G1/S Transition	124	4	5.38	3.81	0.0064	0.05	5.85	1.52	16.2

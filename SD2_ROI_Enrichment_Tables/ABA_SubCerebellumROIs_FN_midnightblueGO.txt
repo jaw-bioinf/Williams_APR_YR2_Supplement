@@ -1,0 +1,12 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:2683	cor	3	PUMA-Bcl-xL complex, DNA-damage induced	1	BCL2L1
+2	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2568	cor	2	Slam-SAP-FynT complex	1	SH2D1A
+3	1	TRUE	0.0316	11	7	2	0.286	0.182	CORUM:538	cor	10	Cytochrome c oxidase, mitochondrial	1	COX6C,COX7B
+4	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:5821	cor	6	BAD-BCL2xL complex	1	BCL2L1
+5	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:6539	cor	8	Spg33-Plp1 complex	1	PLP1
+6	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:2570	cor	1	Slam-SAP complex	1	SH2D1A
+7	1	TRUE	0.0316	2	7	1	0.143	0.5	CORUM:2684	cor	7	p53-Bcl-xL complex, DNA-damage induced	1	BCL2L1
+8	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2874	cor	9	Slam-SAP-FynT complex	1	SH2D1A
+9	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2569	cor	11	Slam-SAP-SHIP complex	1	SH2D1A
+10	1	TRUE	0.0316	3	7	1	0.143	0.333	CORUM:2682	cor	5	Bcl-xL-p53-PUMA complex, DNA damage induced	1	BCL2L1
+11	1	TRUE	0.0476	5	7	1	0.143	0.2	CORUM:1913	cor	4	GluR delta-2 complex, postsynaptic (GluR delta-2, Shank1, Shank2, mGluR1 alpha, Homer, PSD-95)	1	HOMER1

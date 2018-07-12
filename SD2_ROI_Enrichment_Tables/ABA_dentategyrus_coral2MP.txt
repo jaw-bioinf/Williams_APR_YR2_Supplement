@@ -1,0 +1,7 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+MP:0008255	decreased megakaryocyte cell number	30	3	20.6	7.51	0.00039	0.034	24.3	4.55	83.7
+MP:0004701	decreased circulating insulin-like growth factor I level	61	4	13.5	6.85	0.00021	0.034	15.7	3.95	45.5
+MP:0004700	abnormal circulating insulin-like growth factor I level	69	4	12	6.38	0.00033	0.034	13.8	3.48	39.6
+MP:0008831	abnormal insulin-like growth factor I level	71	4	11.6	6.27	0.00037	0.034	13.3	3.37	38.4
+MP:0003723	abnormal long bone morphology	580	10	3.56	4.44	0.00037	0.034	4.34	1.91	9.02
+MP:0010119	abnormal bone mineral density	406	8	4.06	4.41	0.00065	0.047	4.8	1.92	10.6

@@ -1,0 +1,14 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0325	2	169	2	0.012	1	GO:0042710	BP	3	biofilm formation	1	BPIFA1,LTF
+2	1	TRUE	0.0325	2	169	2	0.012	1	GO:0044010	BP	3	single-species biofilm formation	2	BPIFA1,LTF
+3	1	TRUE	0.0325	2	169	2	0.012	1	GO:0044407	BP	3	single-species biofilm formation in or on host organism	3	BPIFA1,LTF
+4	1	TRUE	0.0325	2	169	2	0.012	1	GO:1900190	BP	3	regulation of single-species biofilm formation	1	BPIFA1,LTF
+5	1	TRUE	0.0325	2	169	2	0.012	1	GO:1900228	BP	3	regulation of single-species biofilm formation in or on host organism	1	BPIFA1,LTF
+6	1	TRUE	0.0325	2	169	2	0.012	1	GO:1900191	BP	3	negative regulation of single-species biofilm formation	1	BPIFA1,LTF
+7	1	TRUE	0.0325	2	169	2	0.012	1	GO:1900229	BP	3	negative regulation of single-species biofilm formation in or on host organism	2	BPIFA1,LTF
+8	1	TRUE	0.0402	4	5	1	0.2	0.25	CORUM:694	cor	5	Bad-Gk-Wave1-Pkaca-Ppp1cc complex	1	GCK
+9	1	TRUE	0.0402	5	5	1	0.2	0.2	CORUM:6633	cor	1	Rbx1- Cul1-Skp1-Fbxw8-Cul7-Rbx1	1	CUL7
+10	1	TRUE	0.0402	3	5	1	0.2	0.333	CORUM:1151	cor	2	Sycp1-Syce1-Syce2 complex	1	SYCE2
+11	1	TRUE	0.0402	5	5	1	0.2	0.2	CORUM:990	cor	4	Agap11-AP3 complex	1	AP3S2
+12	1	TRUE	0.00752	425	87	14	0.161	0.033	REAC:R-MMU-500792	rea	6	GPCR ligand binding	1	CXCL13,GAL,ADM,NPBWR1,LPAR3,S1PR4,TAS2R139,HCAR1,CYSLTR1,AGTR1B,TAS2R138,TAAR2,TAC1,INSL5
+13	1	TRUE	0.0203	319	87	11	0.126	0.034	REAC:R-MMU-373076	rea	6	Class A/1 (Rhodopsin-like receptors)	2	CXCL13,GAL,NPBWR1,LPAR3,S1PR4,HCAR1,CYSLTR1,AGTR1B,TAAR2,TAC1,INSL5

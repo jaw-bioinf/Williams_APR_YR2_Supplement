@@ -1,0 +1,6 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	1	TRUE	0.0465	39	17	2	0.118	0.051	REAC:R-MMU-977444	rea	1	GABA B receptor activation	1	ADCY7,KCNJ16
+2	1	TRUE	0.0465	39	17	2	0.118	0.051	REAC:R-MMU-991365	rea	1	Activation of GABAB receptors	2	ADCY7,KCNJ16
+3	1	TRUE	0.0372	27	17	2	0.118	0.074	REAC:R-MMU-1474165	rea	2	Reproduction	1	CATSPERB,HVCN1
+4	1	TRUE	0.0372	26	17	2	0.118	0.077	REAC:R-MMU-1187000	rea	2	Fertilization	2	CATSPERB,HVCN1
+5	1	TRUE	0.0146	10	17	2	0.118	0.2	REAC:R-MMU-1300642	rea	2	Sperm Motility And Taxes	3	CATSPERB,HVCN1

@@ -1,0 +1,4 @@
+name	nAnno	nOverlap	fc	zscore	pvalue	adjp	or	CIl	CIu
+DOID:308	early myoclonic encephalopathy	28	3	25	8.35	0.00022	0.0066	30.8	5.62	110
+DOID:0050702	neonatal period electroclinical syndrome	29	3	24.1	8.19	0.00024	0.0066	29.6	5.41	106
+DOID:0050701	electroclinical syndrome	44	3	15.9	6.51	0.00084	0.015	18.7	3.5	64.7
